@@ -14,12 +14,16 @@ with open("training_data.txt", 'r+', encoding="utf8") as file:
         
     # Remove SCENE _ lines
     text = re.sub(r'^SCENE\s+([IVXLCDM]+\.)?\s*.*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^SCENE:.*\n', '', text)
         
     # Remove NAME.\n lines (speakers)
-    text = re.sub(r'^[A-Z]+\.?\s*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^[A-Z\s]+?\.\n', '', text, flags=re.MULTILINE)
 
     # Remove excessive newlines
     text = re.sub(r'\n\n\n', '\n\n', text)
+
+    # Remove indentations at start of lines
+    text = re.sub(r'^[ \t]+', '', text)
 
     # Update file
     file.seek(0)
