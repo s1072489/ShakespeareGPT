@@ -11,11 +11,13 @@ with open("training_data.txt", 'r+', encoding="utf8") as file:
         
     # Remove ACT _ lines
     text = re.sub(r'^ACT\s+[IVXLCDM]+\s*$', '', text, flags=re.MULTILINE)
+    # text = re.sub(r'^Actus.*$', '', text, flags=re.MULTILINE)
         
     # Remove SCENE _ lines
     text = re.sub(r'^SCENE\s+([IVXLCDM]+\.)?\s*.*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^SCENE:.*\n', '', text)
-        
+    # text = re.sub(r'^Scaena\s+([IVXLCDM]+\.)?\s*.*$', '', text, flags=re.MULTILINE)
+
     # Remove NAME.\n lines (speakers)
     text = re.sub(r'^[A-Z\s]+?\.\n', '', text, flags=re.MULTILINE)
 
@@ -23,7 +25,7 @@ with open("training_data.txt", 'r+', encoding="utf8") as file:
     text = re.sub(r'\n\n\n', '\n\n', text)
 
     # Remove indentations at start of lines
-    text = re.sub(r'^[ \t]+', '', text)
+    text = re.sub(r'^[ \t]+', '', text, flags=re.MULTILINE)
 
     # Update file
     file.seek(0)
