@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1WNOTOR">
+  <dialogueHeader>
+
+    <filename>D1WNOTOR</filename>
+
+    <identifier>1 WITNESS D D1WNOTOR</identifier>
+
+    <title>NOTORIOUS WITCHES</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1589</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE APPREHENSION AND CONFESSION OF THREE NOTORIOUS WITCHES.
+ARREIGNED AND BY IUSTICE CONDEMNED AND EXECUTED AT CHELMES-FORDE, IN
+THE COUNTYE OF ESSEX, THE 5. DAY OF IULYE, LAST PAST. 1589. WITH THE 
+MANNER OF THEIR DIUELISH PRACTICES AND KEEPING OF THEIR SPIRITS, WHOSE
+FOURMES ARE HEEREIN TRUELYE PROPORTIONED.
+IMPRINTED IN LONDON BY EDWARD ALLDE.
+(1589)
+PP. A3R.1 - B3V.10
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A3R" />
+ <head>THE ARAIGNEMENT AND EXECUTION OF
+<font>JOAN CUNNY OF</font> STYSTED <font>IN THE COUNTYE</font>
+OF ESSEX WIDOWE, OF THE AGE OF FOURESCORE YEERES,
+OR THER-ABOUTS, WHO WAS BROUGHT 
+BEFORE <font>ANTHONY MILDEMAY</font> ESQUIRE, THE
+LAST DAY OF MARCH. 1589.</head> 
+<nonSpeech> <foreign>In primis</foreign> , this examinate saith and
+confesseth, that she hath knowledge and can
+doo the most detestable Arte of
+Witchecraft, and that she learned this her
+knowledge in the same, of one mother Humfrye
+of <font>Maplested</font> , who told her that she must kneele down
+vpon her knees, and make a Circle on the ground, and
+pray vnto Sathan the cheefe of the Deuills, the forme
+of which praier that she then taught her, this
+examinate hath now forgotten, and that then the Spirits
+would come vnto her, the which she put in practise
+about twenty yeeres since, in the feelde of <font>Iohn
+Wiseman</font> of <font>Stysted</font> Gentleman, called Cowfenne feelde,
+and there making a Circle as she was taught, and
+kneeling on her knees, said the praier now forgotten,
+and inuocating vpon Sathan: Two Sprites did
+appeere vnto her within the said Circle, in the similitude
+and likenes of two black frogges, and there
+demaunded of her what she would haue, beeing readye to doo
+for her what she would desire, so y=t= she would promise
+to giue them her soule for their trauaile, for otherwise:
+they would doo nothing for her. Wher-upon she did
+promise them her soule, and then they concluded with
+her so to doo for her, what she would require, and gaue
+the~selues seuerall names, that is to say, the one Jack,
+and y=e= other Jyll, by the which names she did alwaies
+after call them. And then taking them vp, she caried
+<pagebreak id="A3V" />
+them home in her lap and put them in a Box and gaue
+them white bread and milke.</nonSpeech>
+   <nonSpeech>And within one moneth after she sent them to milke
+Hurrelles Beastes, which they did, and they would
+bring milke for their owne eating and not for her.</nonSpeech>
+   <nonSpeech>And further, she saith that her sprites neuer
+changed their colour since they first came vnto her, and that
+they would familiarly talke with her, when she had
+any thing to say or doo with them in her owne
+language.</nonSpeech>
+   <nonSpeech>And like wise she confesseth that she sent her saide
+spirits to hurt the wife of John Sparrow the elder,
+of <font>Stysted</font> , which they did, and also that where
+Maister John Glascock of <font>Stysted</font> , aforesaide: had a great
+stack of Logges in his yarde, she by her said Spirits
+did ouerthrowe them.</nonSpeech>
+   <nonSpeech>And further, saith that she hath hurt diuers persons
+within this sixteene or twenty yeeres, but how many
+she now knoweth not.</nonSpeech>
+   <nonSpeech>Furthermore, she confesseth that she sent her sprites
+vnto William Vnglee of <font>Stysted</font> Miller, and because
+they could not hurt him, she sent them to hurt one
+Barnabie Griffyn his man, which they did.
+Likewise she confesseth, that she sent her saide sprites,
+to hurt Maister Kitchin Minister of the saide towne,
+and also vnto one George Coe of the saide towne,
+shoomaker, to hurt him likewise: but they could not, and
+the cause why they could not, as the saide sprites tolde
+her, was because they had at their comming a strong
+faith in God, and had inuocated and called vpon him,
+that they could doo them no harme.</nonSpeech>
+   <nonSpeech>And further she saith, that Margaret Cunny her
+Daughter, did fall out with Father Hurrill, and gaue
+<pagebreak id="A4R" />
+him cursed speeches, and ther-vpon, she thinketh she
+sent her spirits to her.</nonSpeech>
+   <nonSpeech>Also she dooth vtterlye <comment type="compiler">SOURCE TEXT: vtterie</comment> denye that     
+she sent her saide
+spirits to Finches wife, Deuenishes wife, and Renold
+Ferror or any of them to hurt them.</nonSpeech>
+   <nonSpeech>And beeing further examined, she confesseth that
+although her said spirits at some time can haue no
+power to hurt men, yet they may haue power to hurt their
+Cattell.</nonSpeech>
+   <nonSpeech>This Joane Cunny, liuing very lewdly, hauing two
+lewde Daughters, no better then naughty packs, had
+two Bastard Children: beeing both boyes, these two
+Children were cheefe witnesses, and gaue in great
+euidence against their Grandam and Mothers, the eldest
+being about 10. or 12. yeeres of age.</nonSpeech>
+   <nonSpeech>Against this Mother Cunny the elder Boye gaue in
+this euidence which she herselfe after confessed, that
+she going to <font>Braintye</font> Market, came to one Harry
+Finches house, to demaund some drink, his wife being
+busie and a brewing, tolde her she had no leysure to giue
+her any. Then Joane Cunnye went away 
+discontented: and at night Finches wife was greeuously taken
+in her head, and the next day in her side, and so
+continued in most horrible paine for the space of a week, and
+then dyed.</nonSpeech>
+   <nonSpeech>Mother Cunnye confessed that she sent her spirite
+Jill to torment her.</nonSpeech>
+   <nonSpeech>The same boy confessed that he was commaunded
+by his Grandmother to fetch a burden of wood, which
+he gathered, but another boye stole it from him, and
+he came home without: and tolde his Grandam: and
+she commaunded her sprite to prick the same boy in the
+foote, which was doone, and the same boye came to the
+<pagebreak id="A4V" />
+barre lame and gaue euidence against her.</nonSpeech>
+   <nonSpeech>Againe the same boy confessed that his Grandam
+when he had lost his wood, saide she would haue wood
+enough: and bad him goe into Sir Edward 
+Huddlestones ground beeing high Sheriffe of the Sheere,
+and to take with him Jack the sprite, and so he did,
+who went vnseene to any body but the boy, and
+when they came to a mighty Oke-tree, the spirit went
+about it, and presentlye the Tree blew vp by the roots:
+and no winde at all stirring at this time: which
+Master high Sheriffe acknowledged to be blown down
+in a great calme.</nonSpeech>
+
+ <head> <font>THE CONFESSION OF IOAN VPNEY OF DAGENHAM, IN THE
+COUNTYE OF ESSEX, WHO WAS BROUGHT BEFORE SIR
+HENRYE GRAY KNIGHT, THE THIRD OF MAY. 1589.</font> </head> 
+
+<nonSpeech>This examinate saith, that one Fustian Kirtle,
+otherwise called White-cote, a witch of <font>Barking</font> ,
+came to her house about seauen or eight yeeres agoe
+and gaue her a thing like a Moule, and tolde her if
+she ought any body any ill will, if she did bid it, it
+would goe clap them.</nonSpeech>
+   <nonSpeech>She saith that Moule taryed not aboue a yeere with
+her, but it consumed away, and then she gaue her
+another Moule and a Toad, which she kept a great
+while, and was neuer without some Toades since
+till her last going away from her house, when she
+confesseth she ranne away, because she heard Iohn
+Harolde and Richard Foster say she was a witch, and
+urch <comment type="compiler">LIKELY FOR such</comment> other woordes.</nonSpeech>
+   <nonSpeech>She saith that one day she left a Toade vnder the
+groundsill at Harrolds house, and it pinched his wife
+<pagebreak id="B1R" />
+and sucked her til
+she dyed, but it
+neuer ca~e to her
+the saide Ioan
+Vpney againe.</nonSpeech>
+   <nonSpeech>She saith, that
+one day another
+Toade went
+ouer her threshold
+as Richard
+Fosters wife was
+coming that way, and it went and pinched her, and
+neuer returned againe.</nonSpeech>
+   <nonSpeech>Other two Toades she left at home, when she ran
+away, but they consumed away.</nonSpeech>
+   <nonSpeech>She saith that her eldest Daughter would neuer
+abide to meddle with her Toades, but her youngest
+daughter would handle them, and vse them as well as
+her selfe.</nonSpeech>
+
+ <head> <font>THE EXAMINATION OF IOAN PRENTICE, ONE OF THE WOMEN OF
+THE ALMES HOUSE OF HINNINGHAM SIBBLE, WITHIN THE
+SAIDE COUNTY: BEEING TAKEN THE 29. OF MARCH, IN THE 31.
+YEERE OF THE RAIGNE OF OUR SOUERAIGNE LADY ELIZABETH.</font> </head> 
+
+<nonSpeech> <foreign>In Primis</foreign> , this saide examinate saith and confesseth,
+that about sixe yeeres last past, betweene the feastes
+of all Saintes, and the birth of our Lord God, the
+deuill appeered vnto her in the Almes house aforesaide:
+about ten of the Clock in the night time, beeing in the
+shape and proportion of a dunnish culloured Ferrit,
+hauing fiery eyes, and the saide Examinate beeing alone
+<pagebreak id="B1V" />
+in her Chamber, and sitting
+vpon a low stoole, preparing her
+selfe to bedward: the Ferrit
+standing with his hinderlegs
+vpon the ground, and his fore
+legs setled vpon her lappe, and
+setling his fiery eyes vpon her
+eyes, spake and pronounced
+vnto her these woords
+following, namelye:</nonSpeech><dialogue> Joan Prentice
+giue me thy soule, </dialogue><nonSpeech>to whome
+this Examinate being greatly
+amazed, answered and said:</nonSpeech><dialogue> In
+the name of god what art thou
+</dialogue><nonSpeech>The Ferrit answered,</nonSpeech><dialogue> I am
+satan, feare me not my comming vnto thee is to doo thee
+no hurt but to obtaine thy soule, which I must and wil
+haue before I departe from thee </dialogue><nonSpeech>to whome the saide
+examinate answered and said, that he demaunded that
+of her which is none of hers to giue, saying: that her
+soule appertained onely vnto Jesus Christ, by whose
+precious blood shedding, it was bought and
+purchased. To whome the saide Ferret replyed and saide,</nonSpeech><dialogue> I
+must then haue some of thy blood, </dialogue><nonSpeech>which she willingly
+graunting, offered him the forefinger of her left hand,
+the which the Ferrit tooke into his mouth, and
+setting his former feete vpon that hand, suckt blood
+therout, in so much that her finger did smart exceedingye:
+and the saide examinate demaunding againe of the
+Ferrit what his name was: It answered Bidd. and
+then presently the said Ferrit vanished out of her sight
+sodainly.</nonSpeech>
+<pagebreak id="B2R" />
+   <nonSpeech>Item, the saide examinate saith further, that about
+one moneth after, the saide Ferrit came againe vnto
+her in the night time as she was sitting vpon a little
+stoole, preparing her selfe to bed-ward, as is aboue
+saide:</nonSpeech><dialogue> Ioan wilt thou goe to bed, </dialogue><nonSpeech>to whome she
+answered</nonSpeech><dialogue> yea that I will by Gods grace, </dialogue><nonSpeech>then presently
+the Ferret leapt vp vpon her lap, and from thence vp
+to her bosome, and laying his former feete vpon her
+lefte shoulder, sucked blood out of her lefte cheeke, and
+then he saide vnto her,</nonSpeech><dialogue> Ioan if thou will haue me doo
+any thing for thee, I am and wilbe alwaies ready at
+thy commaundement, </dialogue><nonSpeech>and ther-upon she beeing a
+little before fallen out with William Adams his wife of
+<font>Hinningham Sibble</font> aforesaide: willed the Ferret to
+spoile her drinke which was then in brewing, which
+he did accordingly.</nonSpeech>
+   <nonSpeech>Item, the saide examinate furthermore saith and
+confesseth, that the saide Ferret diuers times after
+appeered vnto her alwaies at the time when she was going
+to bed, and the last time he appeered vnto her was
+about seauen weekes last past, at which time she going
+to bed, the Ferrit leapt vpon her left shoulder, and
+sucked blood out of her lefte cheeke, and that doone: he
+demaunded of her what she had for him to doo? To who~
+she answered,</nonSpeech><dialogue> goe vnto Maister Glascocks house, and
+nippe one of his Children a little, named Sara, but
+hurt it not, </dialogue><nonSpeech>and the next night he resorted vnto her
+againe, and told her that he had doon as she willed him:
+namely, that he had nipt Sara Glascock, and that she
+should dye therof, to whome she answered and saide,</nonSpeech><dialogue>
+thou villaine what hast thou doon, I bid thee to nip it
+but a little and not to hurt it, and hast thou killed the
+<pagebreak id="B2V" />
+childe? </dialogue><nonSpeech>which speech beeing vttered, the Ferrit
+vanished away suddenly, and neuer came to her sithence.</nonSpeech>
+   <nonSpeech>Item, she affirmeth, that the occasion why she did
+will her Ferret to nippe the saide childe, was for that
+she beeing the daye before at the house of the saide
+Maister Glascok, to begge his almes, answere was
+made to her by one of his maiden seruantes, that both
+her Maister and Mistres were from home, and
+therfore desired her to be contented for that time, and
+therupon the examinate departed greatlye discontented,
+and that night sent her Ferret to nip the childe as is
+aboue saide.</nonSpeech>
+   <nonSpeech>Item, she saith and affirmeth, that at what time
+soeuer she would haue her Ferret doo any thing for her,
+she vsed these woordes,</nonSpeech><dialogue> Bidd, Bidd, Bidd, come Bidd,
+come bidd, come bidd, come suck, come suck, come suck,
+</dialogue><nonSpeech>and that presently he would appeere as is aforesaide:
+and suckt blood out of her left cheeke, and then
+perfourmed any mischeefe she willed or wished him to doo for
+her vnto or against any of her neighbours.</nonSpeech>
+   <nonSpeech>Lastly the said examinate saith, and confesseth, that
+one Elizabeth Whale, the wife of Michaell Whale of
+Henningham Sibble aforesaide labourer, and 
+Elizabeth Mott, the wife of Iohn Mot of the saide Towne
+Cobler, are as well acquainted with her Bidd as her
+selfe is, but knoweth not what hurt they or any of the~
+haue doone to any of their neighbours.</nonSpeech>
+
+   <nonSpeech>When their inditements were read, and their
+examinations also, they stoode vpon their tearmes,
+to prolong life: yet to make the matters more
+apparant, sundry witnesses were produced to giue euide~ce
+<pagebreak id="B3R" />
+against them, and firste the Iudge of the circuite very
+wisely with a great foresight, called in the two
+Basterd Children beforementioned, and comanded them
+greatlye for telling the trueth of that which he should
+aske them, concerning their Grandam and their
+mothers, which they did, and hauing saide what they
+could, together with the depositions of sundrye other
+witnesses, they hauing confessed sufficient matter to
+proue the inditements. The Iury found these bad 
+women guiltie and that they had slaine Men, women,
+and Children, And committed very wicked and
+horrible actions, diuers and sundrye times, and ther-upon,
+the Iudge proceeded, and pronounced the sentence of
+death against them, as worthely they had deserued.</nonSpeech>
+   <nonSpeech>After they had receiued their iudgments, they were
+conuayed from the Barre backe againe to Prison,
+where they had not stayed aboue two howers, but the
+officers prepared them-selues to conduct them to the
+place of execution: to which place they led them, and
+being come thether, one Maister Ward a learned
+deuine, beeing desired by the Iustices, did exhorte these
+wicked women to repentance, And perswaded them
+that they would shewe vnto the people the trueth of
+their wickednes, and to call vpon God for mercy with
+penitent hartes. And to aske pardon at his hands for
+the same: some fewe prayers they saide after the
+precher, but little els: more then this, that they had
+deserued to dye, in committing those wicked sinnes: and so
+tooke their deathes patiently.</nonSpeech>
+   <nonSpeech> <font>Note</font> , that Mother Vpney being inwardlye pricked
+and hauing some inward feeling in conscience cryed
+out saying: that she had greeuously sinned, that the
+<pagebreak id="B3V" />
+deuill had deceiued her, the deuill had deceiued her, and
+that she had twice giuen her soule to the Deuill, yet by
+the meanes of Gods spirite woorking in her, and the
+paines which Maister ward tooke with her, she
+seemed very sorry for y=e= same, and died very
+penitent, asking God &amp; the world
+forgiuenes, euen to y=e= last gaspe,
+for her wicked and
+detestable life.</nonSpeech>
+ <head> <foreign>FINIS.</foreign> </head> <dialogue> <comment type="compiler">SOURCE TEXT: FSNIS</comment>
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2WRALEI">
+  <dialogueHeader>
+
+    <filename>D2WRALEI</filename>
+
+    <identifier>2 WITNESS D D2WRALEI</identifier>
+
+    <title>WALTER RAWLEIGH</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1603/1648</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE ARRAIGNMENT AND CONVICTION OF S=R= WALTER RAWLEIGH, AT THE
+KINGS BENCH-BARRE AT WINCHESTER. ON THE 17. OF NOVEMBER. 1603. 
+BEFORE THE RIGHT HONORABLE THE EARLE OF SUFFOLKE, LORD CHAMBERLINE,
+THE EARLE OF DEVONSHIRE, LORD HENRY HOWARD, LORD CECILL, LORD WOTTON,
+SIR JOHN STANHOPE LORD CHIEFE JUSTICE OF THE COMMON-PLEAS, POPHAM AND
+ANDREWES, JUSTICE GAUDY, JUSTICE WARBERTON, SIR WILLIAM WADE, 
+COMMISSIONERS.
+COPPIED BY SIR THO: OVERBVRY. 
+LONDON, PRINTED BY WILLIAM WILSON, FOR ABEL ROPER AT THE SUN OVER
+AGAINST ST. DUNSTONS CHURCH IN FLEETSTREET. 
+ANNO DOM. 1648.
+PP. 4.6 - 27.20
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="4" />
+   <nonSpeech>Master Serjeant <font>Heale</font> opened the matter, and delivered
+the effect of the inditement; In whose speech this was
+observed, that he charged Sir <font>Walter</font> to have intended the
+Intitling of the Lady <font>Arabella Steward</font> to the Crowne, who
+he said had no more title thereunto than he had himselfe,
+and further said after a little pause, that hee for his owne
+part did disclaime and renounce all title thereunto.
+whereat Sir <font>Walter Rawleigh</font> smiled. The Serjeant concluding
+Mr. Atturney <font>Cooke</font> began, and with a long discourse              
+<comment type="compiler">SOURCE TEXT: disource</comment>
+amplified (with vehement words and actions) the severall
+treasons whereof Sir <font>Walter</font> stood indited, wherein hee
+so farre moved Sir <font>Walter</font> that hee many times offered to
+make answer for himselfe before the Court would give 
+him leave; protesting Mr Atturney told him newes hee
+never heard of before, and that his memory (by reason of
+his sicknesse) was so feeble that he could not remember so
+many circumstances as Mr. Atturney tired him withall;
+But Mr. Atturney pressed the Lords that the Kings
+evidence ought not to be broken, or dismembred, whereby
+it might loose much of its grace and vigor:
+notwithstanding it was yeelded, when M. Atturney came to his proofe,
+Sir <font>Walter Rawleigh</font> should have leave to answer his
+severall points as they were objected: In Mr. Atturney divers
+things were observed which were said and used in his
+narration and evidence. Some captiously noted that hee said
+this treason did tend not onely to the overthrow of true
+religion and destruction of all our soules, but even to the
+losse of our goods, lands, and lives: But it seemeth hee
+<pagebreak id="5" />
+meant reciprocally: others thought him full of
+impertinent phrases and complements, and specially when hee
+spake of the Kings issue or of the Lords, after hee said hee
+would say nothing of them, then hee would presently fall
+into a grosse and palpable adulation of them to their faces:
+but in their commendations he spake nothing but truth:
+some noted his care and diligence in delivering to the
+people that the King said he would loose lands, crowne, &amp; life
+before he would suffer a tolleration or alterration in
+Religion; and that to these Traytors (for <font>Cobham</font> and <font>Gray</font>
+were upon the bye) he had done nothing rigorously,
+nothing unnaturally: nothing precipitatly, not rigorously,
+because no torture used: not unnaturally, because the
+brother was not pressed (further then he would) to accuse his
+brother: not precipitatly because of the long time his
+gracious Majesty had promised before hee would bring them
+to their Arraignment: this was much to the satisfaction
+of the people, but this he was commanded to deliver: All
+the assembly could have wished that hee had not behaved
+himselfe so violently and bitterly, nor used so great
+provocation to the prisoner: which the better sort imputed
+to his zeale in the Kings service, and to the passion which
+overwhelmed him in the cause of his Countrey: as when
+he brake forth into these and the like speeches:</nonSpeech><dialogue> This
+horrible and detestible Traytor, this maine Traytor </dialogue><nonSpeech> (for the
+rest were upon the bye) </nonSpeech><dialogue> this instigator and seducer to
+treasons, he that hath a spanish heart, you are an odious man,
+see with what a whorish forehead he defends his faults:
+this is he that would take away the King and his Cubbs, O
+abominable Traytor: <comment type="compiler">NARRATOR'S COMMENT OMITTED.</comment>
+<pagebreak id="6" />
+<omission type="sentence" /> </dialogue><nonSpeech>But when it was 
+insinuated that it was said that it would never bee well till the
+King and his cubbs were taken away, hee <comment type="compiler">RALEIGH</comment> said that Mr.
+Atturney used him basely, barbarously, and rigorously,
+and that hee was abase slave and a wretch that spake the
+words, but hee received comfort in these base words of
+Mr. Atturney for he hoped that it should be the worst he
+should be able to doe against him.</nonSpeech>
+   <nonSpeech>The accusation may be said to be of two parts, <font> <foreign>viz.</foreign> </font>
+Personall against the King, and publikely against the State
+and quiet of the Realme. Both high Treason, the
+personall Treason was of two sorts. The first a conspiracy
+against the Kings life: the second a practise to disable the
+Kings title to the Crowne of <font>England</font> . To prove that
+<font>Rawleigh</font> intended the Kings death, the confession of 
+<font>George Brooke</font> was enforced, who said that his brother my
+Lord <font>Cobham</font> told him that he and my Lord <font>Gray</font> were but
+<pagebreak id="7" />
+upon the Bye, but the said <font>Cobham</font> and Sir <font>VValter
+Rawleigh</font> were upon the maine for it, and should never be well
+till the King and his Cubbs were taken away. And further
+said that he thought in his conscience that the said speech
+of the Kings Cubbs proceeded from <font>Rawleigh</font> . And it was
+further declared, that the confession of <font>George Brooke</font> was
+enforced, and not voluntarily made, untill Sir <font>Griffin
+Markham</font> , and <font>Watson</font> the Priest had vouched him for the
+knowledge of some farther purpose, than the surprizing of
+the King. To this Sir <font>Walter</font> answered that <font>George
+Brook</font> would say anything of him, but he thanked God
+he never spake with him; for if he had spoken but five
+words he perceived that it had been enough. Then my
+Lord <font>Cecil</font> said that indeed he thought that <font>George Brook</font>
+had a spleen to Sir <font>Walter</font> , but his brother my Lord
+<font>Cobham</font> and he were good friends, and therefore he could not
+tell whither he hated <font>Rawleigh</font> so much as to do his
+brother so great a displeasure, and said, that my Lord
+<font>Cobham</font> might if he did practice (as himselfe confessed) with
+<font>Spaine</font> , give Sir <font>Walters</font> name in to credit him withall, as
+a man that favoured him, and on whom he did presume
+more than he had reason. To prove that <font>Rawleigh</font>
+practised to scandalize his Majesties Title to the Crowne.
+My Lord <font>Cobhams</font> confession was produced, That Sir
+<font>Walter</font> delivered him a Booke concerning the Kings Title,
+but told him withall, that it was a very foolish book which
+he delivered to his brother <font>George</font> to consider of, and
+<font>George Brook</font> confessed that his brother gave him such a
+Book, whereof he read onely the Titles of the Chapters,
+containing matter against the Kings Title and Line. And
+it was not omitted by the Attourney, that this Booke was
+delivered upon occasion of my Lord <font>Cobhams</font>
+discontentment. <font>Rawleigh</font> confessed that he had such a booke which
+he never read, but it was intitled, <font>A Defence of the Queenes
+<pagebreak id="8" />
+proceedings against</font> Mary <font>Queene of</font> Scotland, And
+constantly denyed that he delivered it to my Lord <font>Cobham</font> , 
+but that my Lord <font>Cobham</font> tooke it out of his Study (if he
+had any such of his) without his knowledge, he protested:
+Here my Lord <font>Henry Howard</font> signified that my Lord
+<font>Cobham</font> was asked in his examination whither Sir <font>VValter</font> gave
+him the booke, or that he took the same? and he said that
+<font>Sir Walter</font> gave it him: But that since he had told some
+(who were againe with him) that whereas he had said that
+Sir <font>Walter</font> gave him the booke, the truth was he took
+the same of himselfe out of his study when he was asleepe.
+Then my Lord <font>Cecil</font> asked Sir <font>Walter</font> , where he had the
+book; and he said he tooke it out of my late Lord
+Treasurer <font>Burleighs</font> study after he was dead. My Lord <font>Cecil</font>
+desired to know whither out of that which was left to him
+or to his brother? And he said out of that which was in
+my Lord Treasurers house in the Strand. Whereupon
+my Lord <font>Cecil</font> published, that after his Fathers death, Sir
+<font>VValter</font> desired to search for some Cosmographycall
+descriptions of the West-Indies which he thought were in
+his study, and were not to be had in print, which he
+granted, and said he would as soon have trusted Sir <font>Walter</font> as any
+man: though since (for some infirmities of Sir <font>Walters</font> ) the
+bonds of his affection had been crackt, &amp; yet reserving his
+duty to the King his Master (which he could not despence
+withall in his service) hee swore by God he loved him, and
+found a great conflict in himselfe, in that so compleat a
+member in a common-wealth was fallen away. But he
+must needs say that Sir <font>VValter</font> used him discourteously to
+take the book away and not to acquaint him therewith:
+Neverthelesse he said he need not to make any Apology in
+the behalfe of his Father, considering how usuall and
+necessary a thing it is for Councellors and those in his place
+to intercept and keep all such kinde of writings, for
+<pagebreak id="9" />
+whosoever should now search his study (or at least his Cabinet)
+should like enough finde all the famous libells that ever
+were made against the Queene that dead is: and shall also
+finde divers made against the King our Soveraigne Lord
+that now is, since his coming to the Crowne: Sir <font>Walter</font>
+said that the book was a manuscript, and had noted in the
+beginning with my Lord Treasurers owne hand, this is the
+book of one <font>Rob. Snag</font> , and affirmed that as my L. <font>Cecil</font> had
+said, he thought a man might finde also in his house all the
+libells that had been made against the late Queene: But
+M. Attourney said that he was no privy councellor, nor
+he hoped never should be: my Lord <font>Cecil</font> answered that
+he indeed was no councellor of state, yet he had been
+often called to consultation: Sir <font>VValter</font> thought it a very
+severe interpretation of the law to bring him within the
+compasse of Treason onely for this book written so long
+agone as it was, whereof no man had read more than the
+Titles of the Chapters: and which was burned by <font>George
+Brook</font> without his privity; admitting that he had
+delivered it to my Lord <font>Cobham</font> , not advancing, nor approving
+the same, but discommending it, as <font>Cobham</font> first
+confession was; and he put this case, If he should come to my
+Lord <font>Cecil</font> (as oft he had done) and finde a searcher with
+him with a packet of libells, and my Lord let him have 
+one or two to peruse, this he hoped was no treason. To
+prove this treason against the State and common-weale
+my Lord <font>Cobhams</font> confessions were read to this effect.
+<comment type="compiler">COBHAM'S CONFESSION: HE AND RALEIGH RECEIVED MONEY FROM CERTAIN
+FOREIGN PRINCES TO INSTALL THE LADY ARABELLA TO THE THRONE, TO MAKE 
+PEACE WITH SPAIN AND TO INTRODUCE TOLERATION OF RELIGION IN          
+ENGLAND.</comment>
+<pagebreak id="10" />
+<omission type="sentence" /> Sir <font>Walter</font>
+confessed that he knew very well, that <font>Mathew de
+Lawrencie</font> held intelligence betweene Count <font>Aremberg</font> , and my
+Lord <font>Cobham</font> , and so did the Lords of the councell know,
+that it had been so these seaven yeares by licence of the
+Queene: But that he knew to what purpose it was now of
+late, he denied, other then he took it to have been
+concerning the businesse of the peace with Spaine, for that my
+<pagebreak id="11" />
+Lord <font>Cobham</font> said that his brother <font>George Brook</font> was very
+loath to accuse him, Sir <font>Walter</font> proceeded, and asked,
+whither my Lord <font>Cobham</font> had accused him or confessed
+any such thing. It was answered that my Lord <font>Cobham</font> had
+been asked whither he had spoken any such thing
+concerning his said brothers unwillingnesse, and he would make
+no other answer but that he had: however he said it
+proceeded out of a discontented minde from the said <font>George
+Brook</font> , which M. Attourney said was a confession of their
+pretence in law. Then Sir <font>VValter Rawleigh</font> , said that if my
+Lord <font>Cobham</font> had accused him as they alledged, he ought
+to renew his accusation to his face, that so he might not
+be massacred by heersay, and affirmed it was Sir <font>Nicolas
+Throgmortons</font> case. There was further urged against Sir
+<font>VValter</font> for intending to make away the King the testimony
+of one that had been lately at sea, who was in the Court
+in a blew cassock and deposed. That being at <font>Lisborne</font> not
+long after the coming in of the King into England, a
+Portugall Gentleman asked him whence he was, and said of
+<comment type="compiler">WORD REPEATED: of</comment> England: Then he asked whither our King were
+crowned or not, and he answered he hoped so by this time,
+whereupon the Portugall said that my Lord <font>Cobham</font> and
+<comment type="compiler">WORD REPEATED: and</comment> Sir <font>VValter Rawleigh</font> would make him away  
+before it
+were long, Sir <font>VValter</font> made light of this rumour and of
+the witnesse, and said that he thought it might be so; for
+that my Lord <font>Cobham</font> knowing that he had written a book
+and presented it to the King, to move his minde not to
+make his peace with <font>Spaine</font> , hearing him one day at his
+Table dispute very violently against the peace, told him
+in his Gallery presently after, he need not be so much
+against the peaces, for he should have seven thousand
+Crownes to labour for it, and that he thought it to be a
+toye nor knew how to deserve it, yet his answer was</nonSpeech><dialogue> let
+me see the mony, and then I will answer you to the
+<pagebreak id="12" />
+purpose. </dialogue><nonSpeech>And my Lord <font>Cobham</font> told him further, that he
+would offer a great summe of mony to my Lord <font>Cecill</font> and
+to my Lord of <font>Northumberland</font> to the same end, but he
+disswaded him from it, and told him, they would hate
+him as long as they live for it. And Sir <font>VValter</font> said
+further, that the occasion of my Lord <font>Cobhams</font> accusation was
+this <font> <foreign>viz.</foreign> </font> When as Sir <font>Walter</font> perceived by the Lords that
+they had the said <font>Mathew de Lawrencie</font> in jealousie to do
+some bad offices between Count <font>Aremberge</font> and my Lord
+<font>Cobham</font> (who as he thought was justly condemned upon
+these advertisements) that he observed my Lord <font>Cobham</font>
+that night (when my Lord <font>Cobham</font> brought him home to
+his house) to go back past his owne stayres towards his
+Countesses lodgings, with the said <font>Mathew de Lawrencie</font> ,
+as if he had been very sorry to have parted with him. Then
+he writ to my Lord <font>Cecil</font> to signifie to him that in his
+judgement if he apprehended <font>Mathew de Lawrencie</font>
+presently, it might be a means that he might intercept their
+intelligence (perhaps not yet ripe) And if otherwise <font>Mat. de
+Lawrencie</font> might perchance be shuffled away, and so left it
+to his Lordships consideration: And afterwards my Lord
+<font>Cobham</font> had constantly denied these matters upon his
+examination, this letter was shewed unto him as though Sir
+<font>Walter</font> had induced him to all the inconveniences he had
+fallen into, which after he had read, he desired to read it
+againe. And upon assurance it was Sir <font>Walters</font> Letter, in
+a great passion he brake forth into these speeches;</nonSpeech><dialogue> Oh
+Villaine! Oh vile Traytor! hath he used me thus? Nay
+then I will tell you all, </dialogue><nonSpeech>and thereupon in madnesse and
+perswasion of the wrong that Sir <font>Walter</font> had done him, he
+delivered the right accusation, the substance whereof was
+not denied, though M. Attourney noted that he
+considered of a second time before he entred into passion, Sir
+<font>Walter</font> appealed to all that knew my Lord <font>Cobham</font> , that
+<pagebreak id="13" />
+he was as passionate a man as lived, and said, that in his
+choller he had accused his friends of greater matters than
+these, and had been sorry for it afterwards. The Kings
+Councel replyed that the confession of <font>George Brook</font> of the
+foresaid speeches of my Lord <font>Cobham</font> touching himselfe,
+and Sir <font>Walter</font> , for a further plot than they two by any
+way could excuse, must stand good in law, in that those
+speeches were uttered (as it appeared) before those
+matters came out, and before my Lord <font>Cobham</font> had conceived
+the spleene against Sir <font>Walter</font> upon the sight of this letter.
+And further produced my Lord <font>Cobhams</font> confession.
+That Sir <font>Walter</font> after his first being before the Lords, did
+write unto him the said <font>Cobham</font> , that he had been
+examined of many things concerning him, but he had cleared
+him in all: Now the Lords protested that all this while
+he was not asked one question touching my Lord <font>Cobham</font> ,
+and therefore the Attourney inferred that he writ this out
+of a fearefull and guilty conscience, to confirme my Lord
+<font>Cobham</font> on his deniall, against he should be examined: Sir
+<font>Walter</font> hereupon declared that my Lord <font>Cobham</font> put him
+in trust to passe the Inheritance of certain fee farme lands
+for him, and gave divers jewells of great value for his
+security, which were in his bosome at the time of his
+apprehension, and that my Lord <font>Cobham</font> had a Cabinet worth
+thirty pound, which Master Attourney should have had
+for his favour: and that at his returne from the Lords with
+private restraint to his owne house; my Lord <font>Cobhams</font>
+footman came to him to know what was done in the
+businesse: and he unwilling to have it knowne that he was
+restrained, dispatched the footman, saying he would
+write to his Lord, and so did by Captain <font>Kemish</font> . Besides
+for that which he writ of the said businesse, and
+acquainted my Lord <font>Cobham</font> that he had been examined, and that
+he had cleared his Lordship: he did write so in this regard,
+<pagebreak id="14" />
+that though he were not examined of my L. <font>Cobham</font> , yet
+he talking with my Lord <font>Cecil</font> , and his Lordship telling
+him he was glad there were no more in the action than
+there appeared, and that he hoped such a one was not in
+S. <font>Walter</font> said that my Lord <font>Cobham</font> was absolutely cleer:
+and my Lord <font>Cecill</font> replyed he did hope so, and thought
+no lesse: all which was said in regard my Lord <font>Cobham</font>
+was thought to be discontented. But afterwards my
+Lord <font>Cecil</font> said,</nonSpeech><dialogue> Sir <font>VValter</font> you have <font>Kemish</font> against you
+who carried the letter and toare out that sheet, which
+concerned the Lords of the Councell (for so was my Lord
+<font>Cobhams</font> confession) and he hath been offered the rack for
+it, but what he has confessed, I as yet know not: </dialogue><nonSpeech>Answer
+was made by Sir <font>VVilliam VVade</font> , that <font>Kemish</font> had confessed
+he carried a letter, and knew nothing at all of the contents
+and that indeed he was told that he deserved himselfe to
+be put to the rack for it:</nonSpeech><dialogue> well </dialogue><nonSpeech>said Sir <font>VValter</font> </nonSpeech><dialogue> the
+Rack-keeper was called for, was he not? </dialogue><nonSpeech>Sir <font>VVilliam VVade</font> said,
+that it was privately reported, that <font>Kemish</font> had his Masters
+letter back from my Lord <font>Cobham</font> , but Sir <font>VValter</font>
+confessed no such matter. But concerning that he was charged
+withall, for practising to make a combustion in Scotland,
+he confessed the words of my Lord <font>Cobhams</font> accusation to
+this effect, That he thought the best course to trouble
+England, was to cause sedition in Scotland, and said that
+he had thought so any time these twenty yeeres, and so it
+had been also held by the wisest men in this Kingdome:
+And he had delivered his opinion to be such divers times
+to the Lords of the councell, and he thought that there
+were few there but were of his opinion: Sir <font>VValter</font> also
+offered to the consideration of the Iury, that my Lord
+<font>Cobham</font> had not subscribed his accusation; Then the
+Lords requested my Lord Cheife Iustice to deliver
+whether subscriptions were necessary by the Law, and
+<pagebreak id="15" />
+my Lord Chiefe Iustice said they were not:</nonSpeech><dialogue> Nay </dialogue><nonSpeech>said
+Sir <font>Walter</font> ,</nonSpeech><dialogue> pardon me my Lord, for this, by your
+Lordships favour, I take to be the course of examination in this
+kinde. After that the examinate hath confessed, and his
+confession is written, it is all read over againe distinctly
+and deliberately to him, that he may be sure to say nothing
+but truth: and then in confirmation that it is
+undoubtedly true, and that he will stand thereunto, he is to subscribe
+the same. Now my Lords, if my L. <font>Cobham</font> did accuse me
+thus rashly out of his passion, and afterwards when he had
+read it againe, began to relent, and (with sorrow for the
+wrong he had done me) refuse to set his hand thereunto,
+then I say my Lords I have reason to take hold of it: And
+it is well knowne to you my Lord <font>Cecil</font> , and my Lord of
+<font>Northampton</font> , how he hath recanted his accusation,
+moreover he hath most penitently sorrowed for this injury he
+hath done me, and could never be quiet in his conscience
+till he had purged me. </dialogue><nonSpeech>Master Atturney said, that in my
+Lord <font>Cobhams</font> accusation there were many things, that he
+had recanted, but there was no essentiall point
+prenominated, which he had recanted: And my Lord <font>Cecil</font> said,
+that the reason, that my Lord <font>Cobham</font> gave, why he would
+not subscribe, was, because he thought he was priviledged
+by his degree: wherein he appealed to my Lord Chiefe
+Justice, who answered that it was a great contempt to
+refuse to subscribe, but it did not appeare that thereupon
+he did subscribe. Then Master Atturney delivered that it
+was Sir <font>Walters</font> policy to have but one witnesse, because
+he thought that one witnesse could not condemne him.
+Sir <font>Walter</font> thereupon furiously started up, and said to him,</nonSpeech><dialogue>
+Master Atturney, you must not thinke that all that
+maketh for me is policy, and all that maketh against me is
+plain, and God revealeth it. I were well fitted for justice, if
+you should come to be my Judg, what indifferency is there
+<pagebreak id="16" /> 
+in this my Lord Chiefe Justice? Remember I beseech
+your Lordship the statute of the first of <font>Edward</font> the Sixth
+hath this. That no person shall be condemned of treason
+unlesse he be accused by two lawfull accusers, and those to
+be brought before the party, if they belong to England.
+And remember too the statute of the 13 of the Queen.
+No man shall be arraigned of treason, without the oath of
+two sufficient and lawfull witnesses brought face to face.
+</dialogue><nonSpeech>My Lord Chiefe Justice said, the statute of the first of
+<font>Edward</font> the Sixth, was repealed by the first and second of
+<font>Philip</font> and <font>Mary</font> , and reduced all tryall of treason to the
+course of the Common-law. And that the statute of the
+thirteenth of <font>Elizabeth</font> extended to such offences as were
+mentioned in the said act to be committed against the
+Queene that dead is. And that all was now put to the
+Common-law, and that by the Common-law one witnes
+was sufficient concerning presumption, some of the Judges
+said: That by the law a man might be condemned
+without a witnesse, onely upon presumption. As if the
+King (whom God defend) should be slaine in his Chamber,
+and one is seene to come forth of the Chamber with his
+sword bloody being drawne, were not this evident both
+in law and opinion without further inquisition? And
+my Lord Chief Justice said that one witnes accusing
+himself too, was very great testimony; especially in this case.
+For it was not to be imagined that my Lord <font>Cobham</font> would
+do himselfe so much harme, as to adventure the losse of
+his honour, lands of so great worth, and his life, for any
+spleene to Sir <font>Walter</font> , unlesse the matter were true, and
+therfore the accusation was very strong against Sir <font>Walter</font> .
+Note that the treasons against Queen <font>Elizabeth</font> , which by
+the statutes of the thirteenth of her raigne were to be
+proved by the oath of two witnesses, were death or bodily
+harme intending to death, imagined against her, levying of
+<pagebreak id="17" />
+warres within or without the Realme against her, plots to
+depose or deprive her, publishing her to be a Tyrant,
+Heretick, Infidell, Schismatick, Vsurious, &amp;c. Sir <font>Walter</font>
+proceeded and urged, that though these statutes lived not,
+yet he knew very well the reason of these statutes and
+equity of them lived still.</nonSpeech><dialogue> But howsoever I am sure </dialogue><nonSpeech> (said
+hee) </nonSpeech><dialogue> the law of God liveth for ever. And you shall finde
+it in <font>Deutronomy</font> in the seventeenth Chapter. <font> <foreign>In ore
+duorum aut trium testium peribit qui interficitur. Nemo
+occidatur uno contra se dicente testimonium.</foreign> </font> And in the         
+nineteenth
+Chapter. <font> <foreign>Non stabit unus testis contra aliquem: quicquid
+illud peccati, et facinoris fuerit. Sed in ore duorum aut
+trium testium stabit omne verbum.</foreign> </font> Divers other places of the
+old Testament are to this purpose <comment type="compiler">SOURCE TEXT: pupose</comment> ,          
+confirmed by our
+Saviour too in the eighteenth of <font>Mark</font> , and the eight of         
+<font>Iohn</font> , 
+and by Saint <font>Paul, Corinth</font> 2. 13, And by the whole
+consent of the Scripture. And if the Common-law be as
+<font>Brookes</font> saith (who was a great Lawyer) then there ought
+to be two witnesses: For he saith a tryall is by verdict, and
+by witnesse, </dialogue><nonSpeech>wherein my Lord Chiefe Justice said he
+was deceived.</nonSpeech><dialogue> But </dialogue><nonSpeech>said he</nonSpeech><dialogue> you tell me of one witnesse,
+let me have him. Prove the practises by one witnesse,
+and I will confesse my selfe guilty to the King in a
+thousand treasons. I stand not upon the Law, I defie the law,
+if I have done these things I desire not to live: whether
+they be treasons by the law or no. Let me have my accuser
+brought to my face, and if he will maintaine it to my face,
+I will confesse my judgement. </dialogue><nonSpeech>Here my Lord Chief
+Justice being required to signifie his opinion of the law in
+this case, he said it was not the law to have the witnesse
+brought to his face, considering he accused himselfe also:
+To the which the rest of the Judges agreed Sir <font>Walter</font>
+replyed, it was not against or contrary to the law:</nonSpeech><dialogue> 
+Howsoever I do not expect it of duty: And yet I say you should
+<pagebreak id="18" />
+deale very severely with me if you should condemne me
+and not bring my accuser to my face. Remember a story of
+<font>Fortescue</font> a reverend Chief Justice in this Kingdome; Tells
+of a Judge in this Kingdome that condemned a woman for
+murthering her husband, upon the presumption or
+testimony of one witnesse (as it seemed)  and after she was burned, a
+servant of the mans that was slaine (being executed for
+the same fault) confessed that he slew his Master himselfe,
+and that the woman was innocent. What did the Judge
+then say to <font>Fortescue</font> , touching the remorse of his
+conscience for proceeding upon such slender proof, <font> <foreign>Quod
+nunquam de hoc facto animam in vita sua ipse purgaret.</foreign> </font> That
+he could never be at peace of conscience whilest he lived,
+although he but gave consent upon the verdict of the
+Jury. But my Lords for the matter which I desire,
+remember too the story of <font>Susanna</font> : <font>Daniel</font> thought the
+Judges fooles because they would condemn a daughter of
+<font>Israel</font> without asking the witnesse a question: Why then
+my Lords, let my accuser be brought, and let me aske him
+a question, and I have done: for it may be it will appeare
+out of his owne tale, that his accusation cannot be true, or
+he will be discovered by examination. But yet principally
+my Lords remember what is said in the <font>xix.</font> of <font>Deutronomy</font> ,
+<font> <foreign>Si steterit testis mendax contra hominem accusans cum
+prevaricatione, stabunt ambo, quorum causa est ante dominum, in
+conspectu sacerdotum, et judicum, qui fuerint in diebus illis</foreign> </font> .
+And I will tell you, Master Atturney, if you condemne me
+upon bare inferences, and will not bring my accuser to
+my face: you try me by no law but by the Spanish
+inquisition. If my accuser were dead, or not within the land,
+it were something. But my accuser lives, and is in
+the house, and yet you will not bring him to my face.
+</dialogue><nonSpeech>About this time my Lord <font>Cecil</font> asked him, if he would
+take issue upon these points upon my Lord <font>Cobhams</font>
+<pagebreak id="19" />
+testimony: if my Lord <font>Cobham</font> would now justifie under
+his hand his accusation, and it might be that he would (by
+the advice of the Lords) joyne issue with him, Sir <font>VValter</font>
+made no direct answer thereunto, but still besought them
+to bring his accuser to his face. My Lord <font>Cecil</font> then
+replyed,</nonSpeech><dialogue> Sir <font>Walter</font> , it cannot be granted you: you have
+heard your selfe that the Law will not dispense with it.
+</dialogue><nonSpeech>It may not be forgotten that before <font>Rawleigh</font> had been so
+importunate to have his accuser brought to his face, he
+used very probable reasons to the Jury to satisfie them, how
+silly and foolish an enterprise this was, whereof he was
+accused, and how unlikely a thing it was that he should
+enter into it.</nonSpeech><dialogue> First, </dialogue><nonSpeech>said he</nonSpeech><dialogue> that I should make choice of my
+Lord <font>Cobham</font> of any man living: A man of no following,
+nor of no force; that I should dreame of disturbing of
+the state, now every body was so glad of the Kings
+comming, and of unexpected peace: and now the state was
+greater, and stronger than ever it was. That I should be
+so simple to expect mony from Spaine: for I knew how
+much that Kings revenue was impared, and his treasure
+intercepted. I also knew well that where he had usually
+in his Havens, 6 or 7 score sayle of ships, now he had not
+six or seaven sayle of ships: I knew well too that his
+Jesuites begged from door to door in Spaine: and I knew well
+that the King of Spaine was bankrupt, as was protested
+by most of the Merchants of Christendome: And could I
+imagine then that in his poverty he could disburse six or
+seven hundred thousand Crowns? or if he had been in case,
+could I thinke it so easy a matter, to obtaine such a sum of
+mony of the Spaniard? do Princes so easily now a dayes
+part with such Masses of mony? I knew that the Queene
+of England disbursed no mony to the States of the
+Low-countryes (though it were partly for her owne security)
+before she had the <font>Brill</font> and <font>Flushing</font> in pawne. I knew
+<pagebreak id="20" />
+likewise Shee disbursed no mony into <font>France</font> (though
+for the like occasion) till shee had <font>New-haven</font> in pawne,
+and afterwards more warme security: Nay, the Citizens
+of <font>London</font> would not lend their Queene money, till they
+had her lands in pawne. What pawne had we to give the
+King of <font>Spaine</font> ? What did we offer him? Or how could
+we invent to offer to him the letter of an <font>Arabella</font> ,
+whom he could not chuse but know to be of no following,
+what a mockery is this? what would I make my selfe? A
+Cade? A Kett? A Jack-Straw? </dialogue><nonSpeech>Against these
+probabilities, the presumptions before alledged, were laid
+altogether, to fortify my Lord <font>Cobhams</font> accusation, in the
+ordering whereof Master Atturney shewed great wisdome and
+care in his Majesties businesse. And whereas Sir <font>Walter</font>
+had urged, that it was not likely the King of <font>Spaine</font> would
+be so easily perswaded to provoke the King of England to
+a warre, considering his bad fortune in six or seaven
+enterprises against this State, and what he had lost by warre
+with England: Master Atturney said he was so much the
+more likely to desire revenge, and to entertaine the least
+hope thereof. But <font>Rawleigh</font> answered:</nonSpeech><dialogue> All your
+suspitions, and inferences, are but to fortify my Lord <font>Cobhams</font>
+accusation; My Lord <font>Cobham</font> is the only man that doth 
+accuse me. My Lord <font>Cobham</font> lives and is in the house, let
+him maintaine his accusation to my face. My Lord <font>Cobham</font>
+hath confessed himselfe guilty, he is meerly at his
+Majesties mercy: and without doubt shall highly offend the
+King, if he go back from his word, wherein he hath
+abused his Majesty, and so is to looke for no mercy, but shall
+surely dye. On the other side he hath accused me to
+instigate and draw him into these treasons, and if it be so, then
+I have been the overthrow of him, his honour, estate and
+all. He is a man of a most revengeful nature, as all the
+world knowes, who would he be more willingly revenged
+<pagebreak id="21" />
+on, then on him vvho hath been his utter ovrethrovv?
+Why then my Lords if he vvill not displease the King in
+hope of mercy and compassion (vvhich is his onely plea)
+If he will be revenged on the man that brought him to all
+this, that hath ruinated him and his house, then will he
+justifie his accusation to my face, then good my Lords let
+us be brought face to face. </dialogue><nonSpeech>My Lord of <font>Northampton</font>
+replyed,</nonSpeech><dialogue> Sir <font>Walter</font> you have heard it cannot be granted
+you, pray importune us no longer. No longer </dialogue><nonSpeech>said 
+<font>Rawleigh</font> ?</nonSpeech><dialogue> it toucheth (my Lord) upon my life which I value at
+as high a rate as you do yours. </dialogue><nonSpeech>At last Sir <font>Walter</font> was asked,
+whither he would say any more. Then he directed his
+speech to the Gentlemen of the Jury, saying,</nonSpeech><dialogue> you have
+heard the proofs, I pray you consider that these men
+</dialogue><nonSpeech> (meaning Master Atturney and the rest of the Lawyers) </nonSpeech><dialogue> do
+usually defend very bad causes every day in the Courts
+against men of their owne profession, as able as themselves:
+&amp; if they can do so, what may they do with me, that never
+studied the law till I came into the Tower of <font>London</font> :
+That have been practised in other affaires, and am weake
+of memory and feeble as you see, </dialogue><nonSpeech>for he was faine to have
+pen and inke to helpe his memory in the long speeches
+that were made against him.</nonSpeech><dialogue> But remember the godly
+saying of Saint <font>Augustine</font> , <font> <foreign>Si judicaveritis tanquam jam
+judicandi estis</foreign> </font> . If you would be content to be judged upon
+suspitions and inferences, if you would not have your
+accusation suscribed by your accuser. If you would not
+have your accuser brought to your face (being in the same
+house too) where you are arraigned, if you would be
+condemned by an accusation of one recanted and truly
+sorrowfull for it, if you in my case would yeeld your bodyes
+to torture, loose your lives, your wives, and children, and
+all your fortunes upon so slender proof. Then am I ready
+to suffer all these things. </dialogue><nonSpeech>Now after Master Serjeant
+<pagebreak id="22" />
+<font>Phillips</font> had made a very long repetition                         
+<comment type="compiler">SOURCE TEXT: repetion</comment> of all the
+accusation. Master Atturney asked Sir <font>Walter</font> againe whither he
+would say any more. <font>Rawleigh</font> answered if he would say
+any thing he would answer him. Master Atturney told
+him the Kings councell must speake last.</nonSpeech><dialogue> Nay by your
+leave </dialogue><nonSpeech> (said he) </nonSpeech><dialogue> he that speakes for his life shall speake
+last. Are you contented </dialogue><nonSpeech>said Master Atturney</nonSpeech><dialogue> that the
+Jury shall go together: yea, in Gods name </dialogue><nonSpeech>said Sir <font>Walter</font> . 
+Then Master Atturney entred into a speech to this effect:</nonSpeech><dialogue>
+Now <font>Jesus Christ</font> shall be glorified, <font>Jesus Christ</font> shall have
+a great victory this day, as great as when it was said
+<font> <foreign>vicisti Galilee</foreign> </font> . Now Sir <font>Walter</font> I will prove you to   
+have a
+Spanish heart. See with what a vvhoorish forehead he hath
+defended his fault: he hath deceived my poore Lord
+<font>Cobham</font> as <font>Eve</font> was deceived with an apple, by a letter in an
+apple, and hath seduced this poor Lord to write I know
+not what to him against his conscience: But he could not
+sleepe quietly till he had revealed the truth of it to the
+Lords, and voluntarily of himself written the whole
+matter to them with his owne hand but yesterday, vvhich I
+vvill read vvith a loud voice though I be not able to speake
+this sennight after: </dialogue><nonSpeech>and so pulled my Lord <font>Cobhams</font> letter
+out of his pocket, vvhich vvas in effect thus to the Lords.
+<font> <foreign>vizt.</foreign> </font> </nonSpeech><dialogue> <comment type="compiler">LETTER READ: RALEIGH HAS IN A LETTER URGED COBHAM
+TO WITHDRAW HIS ACCUSATIONS AND DENY EVERYTHING.</comment>
+<pagebreak id="23" />
+<omission type="sentence" /> </dialogue><nonSpeech>This letter vvas vvonderfully
+esteemed by Master Attourney and most effectually
+applyed vvith many quaint Phrases against Sir <font>Walter</font> , vvho
+ansvvered nothing to those speeches vvhich vvere
+personall, having said before, that they vvere used onely to
+bring him into detestation of the vvorld, but spake to this
+effect.</nonSpeech><dialogue> Novv it shall appeare that my Lord <font>Cobham</font> , is an
+unworthy, base, silly, simple poore soule. </dialogue><nonSpeech>Master
+Atturney said,</nonSpeech><dialogue> Is my Lord so poore? Yea, </dialogue><nonSpeech> (said he) </nonSpeech><dialogue> in Spirit.
+Would to God you were so </dialogue><nonSpeech> (quoth Master Atturney:) Sir <font>Walter</font>
+proceeded;</nonSpeech><dialogue>  I will tell you the troth. It is true I
+got a poore fellow in the Tower, to cast up a letter tyed to
+an apple (for so <font>Cobhams</font> letter was conveyed) in at my
+Lord <font>Cobhams</font> window, when the Lievtenant was at
+supper, (which I was loath to have spoken of, least the
+Lieutenant should be blamed, but all the Lieutenants in the
+world could not have helpt it) wherein I intreated him for
+Gods sake to do me right, and to right the truth unto me:
+because I knew not whither I should be arraigned before
+him or no: and hereupon he writt to me how he had
+wronged me: and herein I did nothing that was dishonest
+for ought I know; but I sent him a letter againe, (because
+I heard he should be arraigned first) and desired him to
+publish my innocence at his arraignment; But that
+notwithstanding he writ unto me againe, which letter I have
+now about me (being all my hope) and I beseech your
+Lordships to peruse it. </dialogue><nonSpeech>Master Atturney would not have
+it read, but said,</nonSpeech><dialogue> My Lord <font>Cecill</font> marre not a good cause,
+</dialogue><nonSpeech>My Lord <font>Cecill</font> replyed,</nonSpeech><dialogue> Master Atturney, you are more
+peremptory then honest, you must not come heer to shew
+me what to do. </dialogue><nonSpeech>Then Sir <font>Walter</font> desired my Lord <font>Cecil</font>
+<pagebreak id="24" />
+perticularly to read it, because he knew my Lord <font>Cobhams</font>
+hand, which at his request my Lord <font>Cecil</font> did. The 
+letter was to this purpose.</nonSpeech><dialogue> <comment type="compiler">LETTER READ: COBHAM WITHDRAWS HIS
+ACCUSATIONS AGAINST RALEIGH.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>hereupon Sir <font>Walter</font>
+desired the Jury to consider what a man this was, and what
+his testimony was, yet if it were worth any thing. The
+protestations which he had made to cleare him, were more
+violent then those which he had made against him. And 
+the reason that might draw my Lord <font>Cobham</font> to vvrite this
+last letter in accusation of him, were greater then could be
+alledged to perswade him to write the letter in his
+excuse: here my Lord cheife Justice desired my Lord <font>Cecil</font> , 
+and my Lord of <font>Northampton</font> to satisfie the Jury, that there
+was no condition of favour promised to my Lord <font>Cobham</font>
+for writing this last letter: which they both did protest to
+their knowledge.</nonSpeech><dialogue> Nay </dialogue><nonSpeech>said Sir <font>Walter</font> </nonSpeech><dialogue> I dare say your
+Lordshipps would not offer it. But my Lord <font>Cobham</font> received
+a letter from his wife, that there was no way to save his life
+but to accuse me: </dialogue><nonSpeech>which was said upon the going
+together of the Jury. Concerning the matter in my Lord
+<font>Cobhams</font> letter of standing to his deniall, and to admit no
+preachers by the misfortune of my Lord of <font>Essex</font> ; and his
+desire of a pension from <font>Spaine</font> .</nonSpeech><dialogue> I protest to God </dialogue><nonSpeech>said Sir
+<font>Walter</font> </nonSpeech><dialogue> they are false like as the rest. Saving that this I do
+confesse; That my L. <font>Cobham</font> offered me a pension, and I
+(alas my Lords) loath to cast him away, and being
+confident that I had disswaded him from those humours, did
+conceale it. But that ever I dealt with him for any such
+<pagebreak id="25" />
+pension is most untrue. </dialogue><nonSpeech>And for the meeting of the Lords
+at Mr. Atturnies house, he heard so he protested by happe
+by a child of his. After all this, the Jury went together
+and staid above halfe an houre, and returned with their
+verdict, Guilty. Then my Lord cheife Justice asked what
+he could say why Judgement should not be given upon
+him. Hee said he knew the Court was to give Judgement
+after their verdict, and so was willing my Lord should
+proceede. Then my L. chiefe Justice pronounced Judgement
+against him in this manner, <font> <foreign>viz.</foreign> </font> </nonSpeech><dialogue> Sir <font>Walter           
+Rawleigh</font> , you
+are to be conveied to the place from whence you came, and
+from thence to the place of execution, and there to bee
+hanged till you are halfe dead, your members to be cut off,
+your bowells to be taken out, and cast into the fire before
+your face (you being yet alive) your head to bee cut off,
+your quarters to be divided into foure parts, to be
+bestowed in foure severall places, and so </dialogue><nonSpeech> (said my Lord
+cheife Justice) </nonSpeech><dialogue> Lord have mercy upon your soule.
+</dialogue><nonSpeech>Sir <font>Walter</font> upon this, humbly desired, that the King
+might know the proofes against him. And that hee
+did persist in his loyalty, notwithstanding the said verdict
+(which he would pray his said Jury might never answer
+for) And further said, the death of him and my Lord
+<font>Cobham</font> should witnesse betweene them. Only he craved
+pardon for concealing my Lord <font>Cobhams</font> offer to him. And
+humbly besought the King to have compassion on him, hee
+was a poore gentleman and had a poore wife, and a poore
+child, raw, and unbrought up: he had much forgotten his
+duty in concealing my Lord <font>Cobhams</font> fault. So Judgement
+being given as aforesaid, and he having talked a while with
+the Lords in private, went back with the Sheriffe to the
+prison, with admirable erection, yet in such sort, as a
+condemned man should doe.</nonSpeech>
+<pagebreak id="26" />
+ <head>THE PROCEEDINGS AGAINST SIR <font>WALTER
+RAWLEIGH</font> KNIGHT, AT THE KINGS BENCH BARRE, IN
+<font>WESTMINSTER</font> , THE 28. OF <font>OCTOBER</font> , 1618. TOGETHER
+WITH HIS EXECUTION AT <font>WESTMINSTER</font> , ON THE 29 OF <font>OCTOBER
+ANNO</font> THE 16. <font>JACOBI REGIS: &amp;C</font> </head> 
+   <nonSpeech>Upon Wednesday the 28 of <font>October, Anno. Dom.</font> 
+1618. The Lievtenant of the Tower according
+to a warrant to him directed, brought Sir
+<font>Walter Rawleigh</font> from the Tower, to the Kings
+Bench Barre at Westminster: where the
+Recordes of his arraignment at <font>Winchester</font> was opened; And
+he demanded, why execution should not be done upon
+him, according to the judgement therein pronounced
+against him.</nonSpeech>
+   <nonSpeech>To which he began in a way of answer, to justifie himself
+in his proceedings in the late voyage,</nonSpeech>
+   <nonSpeech>But the Lord Chiefe Justice silenced him therein,
+saying, there was no other matter there in question, but
+concerning the judgement of death, that formerly hath been
+given against him, The which the Kings pleasure was,
+upon some occasions best knowne to himselfe, to have
+executed, unlesse he could shew good cause to the
+contrary.</nonSpeech>
+   <nonSpeech>Unto which Sir <font>Walter Rawleigh</font> said, that he was told
+by his Councell, That in regard his Majestie since the said
+judgement, had been pleased to imploy him in his service,
+<pagebreak id="27" />
+as by Commission he had done, it made void the said
+judgment, and was a verification unto him.</nonSpeech>
+   <nonSpeech>But the Lord Chiefe Justice told him, that he was
+therein deceived, and that the opinion of the Court was to the
+contrary.</nonSpeech>
+   <nonSpeech>Wherewith he was satisfyed, and desired that some
+reasonable time, might be allowed him to prepare him selfe
+for death.</nonSpeech>
+   <nonSpeech>But it was answered him, that the time appointed was
+on the morrow, and that it was not to be doubted, but
+that he had prepared himselfe for death long since.</nonSpeech><dialogue> 
+   And I am glad </dialogue><nonSpeech>said the L. Chief Justice,</nonSpeech><dialogue> that you have
+given the world so good satisfaction of your Religion, as
+by some bookes published by you, you have.
+   </dialogue><nonSpeech>And so Master Atturney Generall, requiring in the
+Kings behalfe, that execution might be done upon the
+prisoner, according to the foresaid judgement. The Sheriffs
+of Middlesex, were commanded for that purpose, to take
+him to their custody, who presently carryed him to the
+Gate-house.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TREDDI">
+  <dialogueHeader>
+
+    <filename>D5TREDDI</filename>
+
+    <identifier>5 TRIAL D5TREDDI</identifier>
+
+    <title>JOSEPH REDDING</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1742/1744</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRIAL OF JAMES ANNESLEY AND JOSEPH REDDING, AT THE 
+SESSIONS-HOUSE IN THE OLD-BAILEY, ON THURSDAY, JULY 15, 1742, FOR THE
+MURDER OF THOMAS EGGLESTONE.
+IN: THE TRIAL AT BAR BETWEEN CAMPBELL CRAIG, LESSEE OF JAMES ANNESLEY, 
+ESQ; PLAINTIFF, AND THE RIGHT HONOURABLE RICHARD EARL OF ANGLESEY, 
+DEFENDANT. BEFORE THE HONOURABLE THE BARONS OF THE EXCHEQUER, AT THE 
+KING'S COURT, DUBLIN, IN TRINITY TERM, IN THE 16TH AND 17TH YEARS OF 
+THE REIGN OF OUR SOVEREIGN LORD GEORGE THE SECOND, KING OF
+GREAT-BRITAIN, &amp;C. AND IN THE YEAR OF OUR LORD 1743.
+LONDON: PRINTED BY AND FOR THE PROPRIETOR, R. WALKER, IN FLEET-LANE.
+MDCCXLIV.
+PP. 406.31 - 436.16
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">BOTH ROUND AND SQUARE BRACKETS USED IN SOURCE TEXT TO ENCLOSE 
+NARRATOR'S COMMENTS: RENDERED BELOW AS ROUND BRACKETS.</comment>
+
+<pagebreak id="406" />
+</dialogue><nonSpeech> <font>John Egglestone</font> sworn.</nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Give an Account what you know
+of this Matter, and speak the Truth.
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> An't please you, my Lord, on
+<font>Saturday</font> the 1st of <font>May</font> . --
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> </nonSpeech><dialogue> Speak slow and deliberately, that the
+Court and the Jury may hear you.
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> An't please you, my Lord, on
+<font>Saturday</font> , the 1st of <font>May</font> last, I and my Father were going
+<pagebreak id="407" />
+up <font>Staines</font> River, to catch a Dish of Fish in <font>Staines</font> Moor,
+in the Parish of <font>Staines</font> , with a Casting-net; we fish'd all
+the Way up till we came to this Ground?
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> In whose Possession was the
+Ground?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> It was Mr. <font>Samuel Sylvester's</font> 
+Meadow; we were turning back again, an't please you
+my Lord, in order to go Home; my Father he carried the
+Net upon his Arm, and the String was fastened to his
+Arm.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Well, as you were coming back
+from fishing, what happened then?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> By that Time we had got half way
+in the Meadow, we saw <font>Joseph Redding</font> and Mr. <font>Annesley</font>
+running, and <font>Joseph Redding</font> out run Mr. <font>Annesley</font> , and
+came up to my Father first.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> When they came up what was
+the first Thing they did?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> <font>Redding</font> took my Father by the
+Collar, and demanded the Net, and he refused to deliver
+the Net.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you see him take him by the Collar?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> </nonSpeech><dialogue> What became of the Net afterwards?
+   </dialogue><nonSpeech> <font>John Eggleston.</font> </nonSpeech><dialogue> My Father threw it into the 
+River.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> How far were you from the
+River then?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I was about two Yards from the
+River. After the Net was thrown into the River, 
+<font>Annesley</font> came up with his Gun, and swore, God damn
+your Blood, deliver your Net, or you are a dead Man;
+and he fir'd off before he received any Answer from
+my Father.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> In what Manner did <font>Annesley</font>
+hold his Gun?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> In this Manner, (pointing the Gun
+strait forward) holding it about Breast high, stooping a
+little.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> How near was the Gun to
+your Father when he fir'd it?
+<pagebreak id="408" />
+   </dialogue><nonSpeech> <font>John Egglestone,</font> </nonSpeech><dialogue> It was close to my Father's Side,
+he put the Gun between <font>Redding</font> and my Father, and
+shot directly into his left Side, here, (holding his Hand
+to his Hip) he had a Plate Button there which was bruised
+to Pieces; then my Father said, you Rogue, what have
+you done, I am a dead Man, and dropp'd immediately.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> What did <font>Annesley</font> say before
+he fir'd?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He swore if he did not deliver
+the Net he was a dead Man, and then fir'd immediately.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> What did you do after you
+heard your Father say he was a dead Man?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I took a Knife out of my Pocket
+to cut the String of the Net: And <font>Annesley</font> said, you
+Rogue, I will knock out your Brains too, and held
+up the butt End of his Gun; upon that I jump'd 
+into the Stream, and cut the String, and drew the Net
+over to the other Side of the River: then says 
+<font>Annesley</font> , the Rogue has got the Net, let us go to the 
+other Side after him.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Who did you see when you
+came on the other Side of the River?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I saw <font>John Bettesworth</font> , <font>John    
+Fisher</font>
+and <font>John Bowles</font> , and when <font>Annesley</font> and <font>Redding</font> saw
+these three Men they ran away directly.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> How near were <font>Bettesworth</font> ,
+<font>Fisher</font> and <font>Bowles</font> to you, before <font>Annesley</font> and <font>Redding</font>
+ran away.
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> As soon as I got on the other
+Side of the River, they saw these three Men coming,
+and then they ran away; and <font>Bettesworth</font> , <font>Fisher</font> , and
+<font>Bowles</font> came through the River to the Side where my
+Father lay dead; they came from one Side to the 
+other.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> What did you do then?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> They bid me get a Surgeon;
+so I went to one <font>Charles Cole</font> , a Surgeon at <font>Staines</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> When you came to <font>Staines</font> , did
+you meet with <font>Cole</font> ?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes: And I told him my Father
+was shot, and I believed he was dead or dying, but he
+<pagebreak id="409" />
+never came near my Father; then I went to <font>Russel</font> the
+Constable, and he took some Townsmen with him,
+and went to old Mr. <font>Redding's</font> House, at <font>Yeovely</font> Farm,
+to search for the Man that kill'd my Father; we beset
+the House all round, and found <font>James Annesley</font> hid up
+in a Corner.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> How long were you there 
+before he was found?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I was there about a quarter of an
+Hour, or a little more.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Was you present then?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes: I was there all the Time;
+then, an't please you my Lord, they pull'd him
+down.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Where was he hid?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He was hid in a Place which is
+five or six Foot from the Ground, where they put
+old Iron and any Sort of Lumber, 'tis a boarded Place
+or Room over the Wash-house; a Place where the 
+Women makes Medicines for sore Eyes.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Was there a Chimney in it.
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Was he standing up or lying
+down, or how was he when he was found?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I do not know, for I did not see
+him till he was pull'd down; he was carried in a
+Chair into the Yard, and sat there about a quarter
+of an Hour, and then was put into the Cart that brought
+up my Father, and was carried to the Round House
+at <font>Staines</font> .
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> This is all you know, is
+it not?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> An't please you, my Lords, I can
+tell you a great deal more.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Who pull'd him down?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Was this Wound the Occasion
+of your Father's Death?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes, it was.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> Go on, you say you have 
+other Things to say.
+<pagebreak id="410" />
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He lay in the Round-House all
+Night, the next Day <font>Annesley</font> the Prisoner and I,
+went in a Cart to a Justice at <font>Hounslow</font> , and there
+as one <font>Mac Kercher</font> there, who said to me --
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What <font>Mac Kercher</font> said is no Evidence 
+against the Prisoners.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> We will let this alone a
+little.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Can you prove he was any ways employ'd
+as an Agent by the Prisoner.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> I believe we can.
+   </dialogue><nonSpeech>Foreman of the Jury.</nonSpeech><dialogue> My Lord, please to ask
+him whether there was no Quarrel, Bustle, or 
+Strugling, between <font>Annesley</font> , <font>Redding</font> , and <font>Egglestone</font> , 
+before
+the Gun went off.
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> There was no Quarrel or Jostling,
+my Father never gave him an ill Word. 
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did your Father make no Resistance?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> No, no Resistance at all.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there no Jostling, nor any Thing else
+pass'd?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes: <font>Redding</font> took my Father
+by the Collar, and <font>Annesley</font> came up in the mean
+Time.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What happen'd between your Father and
+<font>Redding</font> before <font>Annesley</font> came up?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He demanded his Net.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> I thought you said there was some 
+jostling?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> No other Jostling than laying his
+Hand upon my Father's Collar, but my Father never
+laid his Hand upon him.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> How near were you when <font>Redding</font>
+laid his Hand upon your Father?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> About a Yard and an half off.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> You say he shot off the Gun, I ask
+you what you mean by shooting off the Gun?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Why he fir'd the Gun to shoot my
+Father.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> What do you mean by shooting off
+the Gun?
+<pagebreak id="411" />
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He came up directly, as if he was
+going to shoot a Dog.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did you see him draw the Trigger of
+the Gun?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> No, I did not.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Was the Gun cock'd before he came
+up?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you say that it was?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I do not know that I did.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Pray was any body present at the
+Time?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> There was no body near but
+<font>Bettesworth</font> , <font>Fisher</font> , and <font>Bowles</font> , nor no body came up.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did the Prisoner offer you any 
+Money?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Yes, he offer'd to settle 50 <font>l.</font> a
+Year on me.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Where was this?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> When I was at <font>Laleham</font> , the next
+Day after my Father's Death.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> How came you there?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> We went to a Justice's at 
+<font>Brentford</font> , but he not being at home, we put up at the
+Red-Lion there, and while we were there, Sir <font>Thomas
+Reynel</font> came in and ordered us to go to <font>Laleham</font> ; 
+accordingly we went to one Mr. <font>Lee's</font> into a little Room, and
+there was <font>Jack Lane</font> , Mrs. <font>Chester</font> , and the Prisoner;
+Young <font>John Lane</font> offered me 100 l. a Year, but the
+Prisoner said he could not settle 100 l. a Year upon
+me, for he had more to do for, but he said he would
+settle 50 l. a Year on me: this was said in the 
+Presence of the Prisoner.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did he mention what he would give
+you 50 <font>l.</font> a Year for?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> Because I should not come in as an
+Evidence against him.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> What is the Reason you did
+not comply with his Offer?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I told them I would not sell my
+Father's Blood at any Rate.
+<pagebreak id="412" />
+</dialogue><nonSpeech> <font> (The Council for the Prosecutor having done with this
+Witness, he was Cross-examined as follows.</font> </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Pray in what Manner did Mr. <font>Annesley</font> ,           
+<font>Redding</font> ,
+and your Father stand, when this Accident happened?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> <font>Redding</font> stood between <font>Annesley</font> 
+and
+my Father, and had him hold by the Collar.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know <font>William Duffel</font> , and had not you
+some Talk with him about the Manner of your Father's 
+Death?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> No, I never saw him, nor had any
+talk with him.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had you any Conversation with one <font>John 
+Dalton</font> , at <font>Laleham</font> , where you say you was offered that
+Money?
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> I came out of the Room to ask
+him whether I should take the Money or not; for
+he said, I had better take the Money, and not hang
+the Man.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Then you said nothing at that Time about the
+Manner in which your Father was killed?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> No, Sir.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> You say you stood by, and saw Mr. <font>Annesley</font>
+point the Gun to your Father: Did you see him cock
+the Gun?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> I did not see him cock it, the Gun
+was cock'd when he came up to my Father.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know one <font>Giffard</font> ?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When did you come first to be acquainted with
+him; before or since your Father's Death?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> After my Father was killed.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you meet with him at <font>Staines</font> ?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> Yes, I believe I did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see him there before?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> No, never?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you give him any Orders or Authority to
+prosecute upon the Account of your Father's Death?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know one <font>Williams</font> ?
+   </dialogue><nonSpeech> <font>J. Egglestone.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where does he live?
+<pagebreak id="413" />
+   </dialogue><nonSpeech> <font>John Egglestone.</font> </nonSpeech><dialogue> He keeps the White Horse in 
+Piccadilly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did you come acquainted with him?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> He came to <font>Staines</font> and sent for me.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did he want with you when he sent for
+you?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I don't know, I went to live with him as a
+Servant.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Business was you of, when your Father
+died?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I work'd with my Father as a Carpenter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If you was brought up a Carpenter, how came
+<font>Williams</font> to find you out for a Servant?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long have you liv'd with him?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Ever since my Father's Death, and I live
+with him now.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you not seen, my Lord -- at <font>Williams's</font> ?
+   </dialogue><nonSpeech> (Here the Court interpos'd, and said, the Question
+was improper.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> You say you are Mr. <font>Williams's</font> Servant, have
+you not dined with him at his Table?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you dine at his Table now?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, I am his Servant.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know the Reason why you was sent from
+dining at his Table to draw Beer?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, Sir.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know one <font>Paul Keating</font> ?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know any Thing of a Note he drew for
+you at the <font>Oxford-Arms</font> ?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> He did draw something of a Note, but I
+tore it.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What made you tear the Note?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Because I did not like his Proceedings.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What were the Proceedings you did not like?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I do not know, I did not understand
+them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Why, did not you read the Note before you
+tore it?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, I did not.
+<pagebreak id="414" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How came the Note to be wrote? Did he say
+nothing to you about writing of a Note before he
+wrote it?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Nothing at all, but he desired me to copy
+it?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did he say to you when he desired you to
+copy the Note?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Nothing; it lay upon the Table, and I
+tore it.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did you tear it for, if you had not read it?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Because it was about Things that I did not
+know what they were.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not he desire you to copy the Note?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did he say then?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I can't tell what he said.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you ever at <font>New-Prison</font> to see Mr. 
+<font>Annesley</font> ?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did you go for?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> I ask you what you went for?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I went for my own Fancy.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you not send up Word to him you was sure
+he would be glad to see you?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I believe I might.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What was the Reason, for which you thought
+Mr. <font>Annesley</font> would be glad to see you?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I cannot tell, I was willing to see him.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you never in speaking of your Father's Death,
+say that it was done accidentally?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> I do not know that I did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you never say to <font>Keating</font> that you were to
+have 200 <font>l.</font> or had a Promise, or that you were to
+have Security, and from whom?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, Sir, I never did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you give the same Account with respect to
+the holding of the Gun as you do now, before the
+Coroner's Inquest, and before the Justice?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> Yes, I am sure I did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you give two Accounts before the
+Coroner's Inquest; part at one time, and went out, and the
+<pagebreak id="415" />
+Remainder when you came in again?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you never say that the Butt End of the Gun
+was up to his Shoulder, and the muzzled Point
+downward.
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, I did not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you never say any Thing to any body of
+the Manner of Mr. <font>Annesley's</font> drawing one of his Feet
+back?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No never.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Can you tell which of his Legs he drew back?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, I cannot tell which he drew back.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you never say which?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> To No-body?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, never.
+   </dialogue><nonSpeech>Mr. Serjeant <font>Gapper.</font> </nonSpeech><dialogue> You said you went to the 
+<font>Oxford-Arms</font> with <font>Keating</font> , and there was something talk'd
+of relating to a Note, was there any Offer made to you
+there?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, Sir.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> You talk'd of a Paper that was
+tore, do you know the Contents of it?
+   </dialogue><nonSpeech> <font>Eggl.</font> </nonSpeech><dialogue> No, Sir, I do not.
+
+</dialogue><nonSpeech> ( <font>John Bettesworth</font> sworn.) </nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Tell us what you know of this
+Matter, and where you were when you heard a Gun
+fir'd on the first of <font>May</font> ?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> <font>Thomas Egglestone</font> and his Son were a Fishing;
+I was 169 Yards some odd Inches from the River as
+near as I could measure.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Ground was it in?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> They were in the Ground called Mr.
+<font>Silvester's</font> Rents.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Are there many Hedges on the
+Side of the River where the Deceased was?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> There were a pretty many Willows, but any
+body might see through them.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What did you see?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I saw <font>Joseph Redding</font> and Mr. <font>Annesley</font> come 
+over the Hedge.
+<pagebreak id="416" />
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What Hedge?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> The Hedge that parted Mr. <font>Sylvester's</font> Ground
+from Mr. <font>Redding's</font> Ground, I do not know whether one
+of them did not come over the Stile, then they both
+ran after <font>Egglestone</font> , and his Son: young <font>Redding</font> came
+up first.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Did he lay hold of <font>Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Whether he laid his Hand upon his Collar,
+or what, I cannot tell; but the Boy run away.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Who was it laid hold of the Shoulder or Collar
+of the Deceased?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> <font>Redding</font> , I saw his Hand upon the Shoulder,
+or Collar of the Deceased, but I cannot say positively,
+whether he had him by the Shoulder or Collar.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> How long was it after that, that
+<font>Annesley</font> came up?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> The Boy was gone but a little way from his
+Father, and when Mr. <font>Annesley</font> came up to his Father,
+he came back again.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> How near was he to his Father
+when this Accident happen'd?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I cannot say how near he was to his Father,
+I believe two or three Yards off. -- <font>Annesley</font> and
+<font>Redding</font> come up almost together, but <font>Annesley</font> came up
+after him, the Gun went off after he came up: I saw
+the Smoak and heard the Fire.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> As you were 169 Yards off, how
+came you to come up?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> The Boy called to us and said his Father was
+killed.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Who came along with you?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> <font>John Bowles</font> , and <font>John Fisher</font> , came to the
+River just against the Place where Mr. <font>Egglestone</font> lay,
+and we could not get over there without being thus
+high (putting his Hand to his Middle) but we went
+over in a shallower Place a little farther.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Were <font>Annesley</font> and <font>Redding</font> there
+when you came over?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> No, they run away before that.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Was <font>Egglestone</font> dead or alive when
+you came up?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> He was not dead, but he could not speak. I
+<pagebreak id="417" />
+desired the Boy to go for a Surgeon, and he went away
+directly.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Who came first to the River?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Did you all three come up
+together?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Yes, I was coming rather before the Boy cried
+out, for I saw the Man drop, I could not see the Boy
+for a good while, for he was in the River, and he cut
+the Net from his Father's Arm, as he says, I did not
+see that; but I saw the Boy come cross the River, and
+when I came up I saw that the Net was brought cross
+the River.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> How did <font>Egglestone</font> lie?
+   </dialogue><nonSpeech> <font>Bettesworth.</font> </nonSpeech><dialogue> He lay upon his Face; I lifted up his
+Head, he groan'd pretty much, but he could not
+speak: I sent the Boy for a Surgeon, but no Surgeon
+came.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Was you at the Apprehending            
+<comment type="compiler">SOURCE TEXT: Appprehending</comment> of 
+the Prisoner?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Yes, I was.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What Place was it the Prisoner
+was in when he was taken?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> It was a Sort of a wash house, a back-House:
+he was in a Place where they throw up Hoops and
+Iron, and any Sort of old Lumber? I saw him lie upon
+his Face.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Who took him down?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech>Mr Serj. <font>Gapper.</font> </nonSpeech><dialogue> What did they do with him then?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> They carried him to the Round-house at
+<font>Staines</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> When you came to the Place where you lay
+he had hid himself, did he come down of his own accord?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> When you heard the Gun go off, whose
+Hand was it in?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Mr. <font>Annesley's</font> .
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Do you know the Position of the Gun
+when it went off?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> No, I do not.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did you observe any Struggle between
+<pagebreak id="418" />
+<font>Annesley</font> , <font>Redding</font> , and the Deceased?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> No other than their striving to take the Net
+away.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you remember any Thing that passed in the
+Round-House? -- did the Prisoner say any Thing
+there?
+   </dialogue><nonSpeech> <font>Bet.</font> </nonSpeech><dialogue> Yes, the Prisoner said he desired to be kill'd
+out of the way, for being accessary to such an innocent
+Man's Death.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> What did he tell you besides?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> He said he would have gone Home for more
+Men, but <font>Joseph Redding</font> would not let him.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> What did he want more Men for?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> To take away the Net.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Answer did he say <font>Redding</font> made him to
+that?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I believe it was, that he said we can do it well
+enough.
+</dialogue><nonSpeech> (The Prosecutor's Council having done with this
+Witness, he was Cross-examined as follows.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see Mr. <font>Annesley</font> and <font>Redding</font> before  
+they
+came up to the Deceased?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you observe Mr. <font>Annesley</font> making any use of
+his Gun before he came up?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I saw him offer to shoot at a Crow.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How long was that before this Accident
+happened?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I believe about Half an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the Crow flying or sitting?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Flying.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you observe whether he did Shoot at the
+Crow?
+   </dialogue><nonSpeech> <font>Bet.</font> </nonSpeech><dialogue> Not then, he did not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far were you off then?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> About as far, I think, as when I saw the Man
+kill'd.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What was the Position of the Gun when you saw
+him come up running.
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> It was on this manner, </dialogue><nonSpeech> (holds it as if the Gun
+was with the Muzzle hanging a little slanting towards
+the Ground.) </nonSpeech>
+<pagebreak id="419" />
+   <nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> You say you saw <font>Annesley</font> and <font>Redding</font> in  
+the
+other Ground, before they came into that Ground which
+belongs to <font>Silvester</font> -- what were they doing there, were
+they Standing, Sitting, or what?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> They were Sitting or Lying under the Hedge,
+I cannot tell which.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> For what Purpose do you imagine they were Sitting
+or Lying there?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> I cannot say that. I may imagine they
+came to take the Net away, I cannot imagine any
+Thing else.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Boy go into the River?
+   </dialogue><nonSpeech> <font>Bett.</font> </nonSpeech><dialogue> Yes, and it was just after his Father was shot.
+</dialogue><nonSpeech> ( <font>John Fisher</font> sworn.) </nonSpeech>
+   <nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Do you know the Prisoners at the Bar?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I know Mr. <font>Redding</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you believe this to be the Person who was 
+along with Mr. <font>Redding</font> at the Time that Mr. <font>Egglestone</font>
+was kill'd? -- Look at Mr. <font>Annesley's</font> Face, and see
+whether that is the Man.
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I see Mr. <font>Annesley</font> , but I cannot say that he
+is the Man; I saw two Men lie under the Hedge a
+considerable Time, and saw a Piece in one of their
+Hands.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> In which Ground were they?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I believe in Mr. <font>Redding's</font> Ground.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> In what Ground was <font>Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> He was in <font>Silvester's</font> Ground. <font>Bettesworth</font>
+called to me, and said there is <font>Redding</font> running after
+<font>Egglestone</font> , and <font>Redding</font> laid hold of <font>Egglestone</font> , the
+Deceased, and then came up the other with a Piece: I
+cannot say whether he touched him or no.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> In what Manner did <font>Redding</font> lay hold of him?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I cannot say, I was at such a Distance; but
+I thought he laid hold of his Shoulder.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Did <font>Egglestone</font> make away from him?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Yes, for he knew he was out of the Bounds
+that he ought to have been fishing in; and there was a
+sort of a Struggle to take away the Net; and I thought
+that <font>Redding</font> and the other Person did both snatch at the
+Net, and then the Gun went off.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> In whose Hand was the Gun?
+<pagebreak id="420" />
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Not in <font>Redding's</font> Hand, but in the Hand of
+the other Person.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Was not you attentive at that Time, to see
+in what Manner he carried the Gun?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> It may be this Way, or that Way, I 
+cannot say whether he had the Gun against his Shoulder
+or no?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> How near was he to the Deceas'd?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Very nigh, I believe not above the Length
+of a Gun?
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> </nonSpeech><dialogue> Did you see <font>John Egglestone</font> by, when
+you first came up?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> He was near the River.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Did you hear the Boy cry out?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Yes, he said his Father was killed; -- he
+saw me, and called me by my Name, and said my Father
+is killed, and I came directly cross the River.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> What then became of <font>Annesley</font> , and the other?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> They ran away; we halloo'd after them,
+but I did not think the Man was shot, though I saw
+the Smoak and Fire of the Gun.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Who went over the River first?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> We were all three together almost, I cannot
+tell who was over first, but I believe I was.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What was said to the Boy then?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Nothing; only to go and get a Surgeon.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Who bid him go?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Somebody did, I did not  I believe it was
+<font>Bettesworth</font> , and the Boy ran away directly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there any Surgeon brought there?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Who came there afterwards?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Mr. <font>Silvester</font> : he saw the Deceased lying
+upon the Ground, but he was not there when the 
+Murder was committed?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you in the House when he was taken?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you with him before the Justice of Peace?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I was examined, but I was not present when
+the other Witnesses were examined.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> What Distance was there between you and
+the Deceased when the Gun went off?
+<pagebreak id="421" />
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> One Hundred and Sixty-nine Yards.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you include the Breadth of the River?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Yes I do.
+</dialogue><nonSpeech> (Cross-Examined.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> You say you think that both <font>Redding</font> and          
+<font>Annesley</font>
+snatch'd at the Net?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I think they did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you think it was possible for you to hear
+what passed between them?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I could not hear one Word.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> I would ask you, whether young <font>Egglestone</font> , before
+he was examined by Sir <font>Thomas Reynell</font> , did not say
+to you he believed the Gun did go off by Accident?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> He said he believed it was not done wilfully.
+He had Money offered him, in my hearing, by <font>John
+Lane</font> ; Mr. <font>Annesley</font> said he could not give him 100 <font>l.</font> a
+Year; but he would give him 50 <font>l.</font> for he had others
+to do for; then, said the Boy, I will not sell my
+Father's Blood; I believe he was in Liquor.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did you say to him?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I said your Father is dead; the Money will
+do you good; do not swear any thing against him, if
+you think it was done accidentally; he said the Money
+will do me good if I had it; I believe the Gentleman
+did not do it wilfully.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had you not some Conversation together, after
+his Examination before the Justice?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> I asked him, after he was examined, what
+he had done; and how he could swear against him,
+when he had said so and so to me; said he, I do not
+know any Thing of the Matter;
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know Mr. <font>Williams</font> the Clergyman?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you make a Declaration of this to him?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> Yes; I said to Mr. <font>Williams</font> , that          
+<font>Egglestone</font>
+told me he really believed that the Gentleman did not
+do it wilfully.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did not he say it was wilfully done as
+you were going along to the Justice's?
+   </dialogue><nonSpeech> <font>Fisher.</font> </nonSpeech><dialogue> All the Way he went, he said, he believ'd
+he did it wilfully, but after the Prisoner had been talking
+with him, he said he believed it was not done wilfully.
+<pagebreak id="422" />
+</dialogue><nonSpeech> ( <font>Samuel Sylvester</font> sworn.) </nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Did you see the Deceas'd after he
+was Dead?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> He lay dead on the Ground that I rent, near
+the River-side.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Do you know how he came by
+his Death?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I was going up to look after my Ground, and
+when I came within 200 Yards or thereabouts of it, I
+met 3 Men, who told me old <font>Egglestone</font> was killed; and
+said, there he lies; I saw several People there, and so I
+went up and saw him lie dead there.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Do you know where the Prisoner
+<font>Annesley</font> was taken?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> He was taken in a back Building belonging to
+Mr. <font>Redding's</font> House.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did you hear him say any thing at that
+Time.
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I did not hear him say any Thing, I believe
+he was in a Fit, for he trembled and fell down behind
+the Door.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Was you at <font>Laleham</font> before the
+Justice?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> Yes I was.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Had not the Boy been drinking,
+and did he not sleep before he went into the Justice.
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I believe he did, for about 3 quarters of an
+Hour, which refreshed him.
+</dialogue><nonSpeech> (Upon the Cross Examination.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you not received Money to pay the
+Witnesses for attending here on this last Cause the last
+Sessions, and from whom?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> Yes, I paid some of them, I think it was
+by Mr. <font>Giffard's</font> Direction who subpoena'd me up; I
+asked him who was to pay me, he said I should be paid
+half a Crown a Day for my Time, which was as much
+as he thought I could earn at my Business.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Business is this <font>Giffard</font> of?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> He is a Stranger to me.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know who he said he was employed by?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> He said he was concerned for the King.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know Mr. <font>Williams</font> ?
+   </dialogue><nonSpeech> <font>Sylvester.</font> </nonSpeech><dialogue> Yes.
+<pagebreak id="423" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Business does young <font>Egglestone</font> follow?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I believe he draws Beer now.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long have you known him?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I have known him 5 or 6 Years.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Business was he bred to?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> Sometimes he would be out at Service, and
+sometimes he would be with his Father in the Business of
+a Carpenter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where does he draw Beer now?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I think it is at Mr. <font>Williams's</font> , at the   
+white-Horse
+in <font>Piccadilly</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you had any Conversation with him about
+this Affair?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I have been at his House in <font>Piccadilly</font> since
+this Business has been in hand, but never had any talk
+with him about this Trial.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was not this <font>Williams</font> down before the Justice?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see him at <font>Staines</font> ?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> Yes, about a Week after the Accident
+happened.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you seen the Boy, <font>Egglestone</font> , there since?
+   </dialogue><nonSpeech> <font>Syl.</font> </nonSpeech><dialogue> No, never?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What, has he lived with <font>Williams</font> ever since?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> I ask you whether you have not seen him at
+<font>Williams's</font> House every time you have been there?
+   </dialogue><nonSpeech> <font>Sylvest.</font> </nonSpeech><dialogue> Yes, I believe I did.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper</font> then said, they would rest the Evidence
+here; and he hoped it had fully made out the
+Charge against the Prisoners; that the Ground where the
+Man was killed being the Property of <font>Sylvester</font> , the
+Prisoners were Trespassers by coming into it, and therefore
+answerable for the Consequences. That as to Mr. 
+<font>Annesley</font> , there was not only implied, but express Malice
+proved upon him, for that after he had killed the Father;
+he was for beating out the Son's Brains, only because they
+would not let him and the other Prisoner run away with
+their Net.</nonSpeech>
+   <nonSpeech>Court.</nonSpeech><dialogue>  Mr. <font>Annesley</font> , you are indicted in a very
+unhappy Case, what have you to say for yourself?
+   </dialogue><nonSpeech>Mr. <font>Annesley.</font> </nonSpeech><dialogue> My Lord, I am very unable to make a
+proper Defence, having by the Cruelty of those, whose
+<pagebreak id="424" />
+Duty it was to protect me, been deprived of the
+Advantages of an Education I was entituled to by my Birth.
+   All I know of the melancholy Accident in Question is,
+that on the unfortunate Day mention'd in the Indictment,
+I went out with my Gun, in Company with my innocent
+Fellow-Prisoner, to shoot Sparrows, as I usually did. As
+we were going along, Mr. <font>Redding</font> , who is Game-keeper
+to the Lord of the Manor, saw some People a Poaching
+within the Royalty, upon which he proposed to go and
+seize their Nets; I follow'd him, the deceas'd threw the
+Net into the River, and the Boy jump'd in to pull it
+across, to prevent which, I stoop'd to lay hold of one of
+the Ropes that trailed upon the Ground, and at the 
+same Instant, the fatal Instrument I had in my other
+Hand, hanging by my Side, went off without my
+Knowledge, and to my great Grief as well as Surprize.
+My Behaviour immediately after the Accident, was, I
+hope inconsistent with a Temper that could murder a
+Man I had never seen before, without one Word of
+Provocation.
+   Whatever may be the Determination of your 
+Lordship and the Jury, great as the Misfortunes of my Life
+have been, I shall always consider this unfortunate 
+Accident as the greatest of them all.
+   </dialogue><nonSpeech>Court.</nonSpeech><dialogue> Mr. <font>Redding</font> , what have you to say for 
+yourself?
+   </dialogue><nonSpeech> <font>J. Redding.</font> </nonSpeech><dialogue> My Lord, I am Game-keeper to Sir
+<font>John Dolben</font> , Lord of the Manor of <font>Yeoveney</font> . On the
+first of <font>May</font> last, in the Afternoon, Mr. <font>Annesley</font> and I
+went out a walking; we saw a Crow, and Mr. <font>Annesley</font>
+made an Offer to shoot at her, but I called to him not
+to fire, for that she was too far off: Soon after I saw
+<font>Egglestone</font> and his Son a Fishing with a Casting-Net,
+upon which I said to Mr. <font>Annesley</font> , I would go and
+endeavour to take their Net away, as it was my Duty to
+do; accordingly I went up to the deceas'd and demanded
+the Net, which he refused to deliver to me, and threw it
+into the River, one End of the String being about his Arm;
+I then laid hold of the String, and pulled, whilst the
+Boy endeavoured to draw it cross the River, and
+presently I heard the Gun go off (my Back being towards Mr.
+<font>Annesley</font> ) and saw the Man fall down. -- I said to Mr.
+<font>Annesley</font> , I hoped he had not shot the Man, he said no,
+<pagebreak id="425" />
+but turning up the Flap of his Coat, we saw he was shot!
+upon which Mr. <font>Annesley</font> cried out, what shall I do;
+and expressed so much Concern, that I am sure it was
+quite an accidental Thing.
+   </dialogue><nonSpeech>Mr. <font>Hume Campbell</font> , of Council for the Prisoners, said,
+that altho' he knew by the Course of the Court at the
+<font>Old Bailey</font> , he was not at Liberty to observe upon the
+Prosecutor's Evidence, yet he apprehended, that for the
+Ease of the Court, he might just open the Nature of the
+Defence, without making any Observations upon it.
+   That the Defence which the Prisoners insisted upon
+was, that the Gun went off meerly by Accident; that
+<font>Redding</font> was Game-keeper to Sir <font>John Dolben</font> , Lord of
+the Manor of <font>Yeoveney</font> , and had a proper and legal
+Deputation for seizing of Nets and other Engines, for
+destroying of Game. That the deceas'd and his Son were
+poaching with a casting-Net within the Manor; that Mr.
+<font>Annesley</font> went in Aid of the Game-keeper; and therefore
+the Prisoners being about a lawful Act, were not so
+much as Trespassers, and the Death that was the
+accidental Consequence of that Act, would, in Point of Law,
+make Mr. <font>Annesley</font> guilty only of Chance Medley.</nonSpeech>
+<nonSpeech> (Mr. <font>Thomas Staples</font> sworn.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know the Manor of <font>Yeoveney</font> ?
+   </dialogue><nonSpeech>Mr. <font>Staples,</font> </nonSpeech><dialogue> Yes: I am Deputy to my Father who is
+Steward to Sir <font>John Dolben</font> , as Lord of the Manor,
+under the Dean and Chapter of <font>Westminster</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> How do you know this to be a
+Manor?
+   </dialogue><nonSpeech>Mr. <font>Staples.</font> </nonSpeech><dialogue> I have the Grant of the Manor from
+the Dean and Chapter in my Pocket.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Are there any Copy-holders?
+   </dialogue><nonSpeech>Mr. <font>Staples.</font> </nonSpeech><dialogue> Yes, I have admitted some
+Copyholders? I know it to be a Manor, because I have held one
+Court there for my Father, and have seen him hold
+several.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Is there any Mansion-House
+belonging to this Manor?
+   </dialogue><nonSpeech>Mr. <font>Staples.</font> </nonSpeech><dialogue> There is a Mansion-House belonging to
+it, which I think is the House that Mr. <font>Redding</font> lives in.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What Court was it you held there?
+   </dialogue><nonSpeech>Mr. <font>Staples.</font> </nonSpeech><dialogue> A Court Baron.
+<pagebreak id="426" />
+</dialogue><nonSpeech>Mr. <font>Thomas Burlingson</font> sworn.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Mr. <font>Burlingson</font> , look upon this Deputation. Are
+you a subscribing Witness to it, if you are, did you see
+this executed, and by whom.
+   </dialogue><nonSpeech>Mr. <font>Burlingson.</font> </nonSpeech><dialogue> Yes, Sir, that is my Name, I saw Sir
+<font>John Dolben</font> execute it, this is his Hand and Seal.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Was it executed at the Time it bears Date?
+   </dialogue><nonSpeech>Mr. <font>Burlingson.</font> </nonSpeech><dialogue> Yes, I believe on the very Day.
+</dialogue><nonSpeech>Mr. <font>James Edmonds</font> sworn.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Mr. <font>Edmonds</font> , look upon that Endorsement, do you
+know whose Hand that is?
+   </dialogue><nonSpeech>Mr. <font>Edmonds.</font> </nonSpeech><dialogue> My Lord, I went to the Clerk of the
+Peace for the County of <font>Middlesex</font> , and heard him
+acknowledge this to be his Hand, and that it was entered
+according to the Act of Parliament.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Did you see any Entry of it?
+   </dialogue><nonSpeech>Mr. <font>Edmonds.</font> </nonSpeech><dialogue> He said it was entred, and
+acknowledged this to be his Hand, and told me that was
+sufficient.
+</dialogue><nonSpeech> <font>Joseph Redding, the Elder, sworn.</font> </nonSpeech>
+   <nonSpeech> <font>R.</font> </nonSpeech><dialogue> <comment type="compiler">SHOULD PROBABLY READ <font>Q.</font> </comment> Do you know the     
+Place where this unhappy Case
+happened? </dialogue><nonSpeech> <font>Redding.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Give an Account of what you know.
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> I was in the next Field called <font>Chantry Mead</font> .
+This where the Accident happened, is called the <font>Hare
+Mead</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where were you when this happened?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> As near as I can guess I was forty Pole off.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did you observe there?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> I saw my Son and Mr. <font>Annesley</font> coming up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did they behave upon this Occasion?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> They were so troubled they could hardly wag
+or speak; my Son said he was afraid the Man was
+killed; and he said to Mr. <font>Annesley</font> , how did you do it?
+Mr. <font>Annesley</font> said, I did not think of the Gun's going off.
+   </dialogue><nonSpeech> <font>Q</font> </nonSpeech><dialogue> How was the Gun carried when it went off?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> Just as I may hold this Sword </dialogue><nonSpeech> (Holding it in
+his right Hand, hanging down near the Pocket a few
+Inches from his Body, almost upon a Level) </nonSpeech><dialogue> he had it in
+one Hand, as I have the Sword now.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did he express himself concerned?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> He was so concerned, that he did not run
+<pagebreak id="427" />
+ten Pole, before he fell down and beat himself thus
+upon the Belly, and said, <font>What have I done</font> ?
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> (on the Cross-examination) </nonSpeech><dialogue> where did
+you stand when the Accident happened?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> In <font>Chantry Mead</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Is there not a Hedge between <font>Chantry Mead</font> and
+<font>Hare Mead</font> ?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> Yes, a new Hedge not above a Yard high,
+and I could see any thing as clear as I can see you.
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> </nonSpeech><dialogue> You were speaking as to this being a
+Manour; how do you know it to be Manour?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> Because there have been Courts kept there.
+   </dialogue><nonSpeech>Serj. <font>Gapper.</font> </nonSpeech><dialogue> By whom?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> By Sir <font>John Dolben</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> On which Side of <font>Hare Mead</font> does the River lie;
+is it East, West, North, or South?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> It is about South.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Has not Sir <font>John</font> granted the Fishery to any
+Body?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> I Rent the Fishery, the Fishery belongs to me.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you depute your Son to look after this?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> No, Sir <font>John Dolben</font> deputes him.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How came Sir <font>John Dolben</font> to appoint your Son
+to be Game-keeper?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> Because they robbed me daily.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you assign'd that Fishery to any Body?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> No, I have not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you standing up when the Gun went off, or
+sitting?
+   </dialogue><nonSpeech> <font>Red.</font> </nonSpeech><dialogue> I was standing up.
+   </dialogue><nonSpeech> <font>William Duffell</font> , sworn.</nonSpeech><dialogue> Do you know <font>John              
+Egglestone</font> ,
+the Son of <font>Thomas Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you ever had any Conversation with him
+about this Matter?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> Yes: He said that as he and his Father
+were Fishing, they saw the Prisoner, <font>Redding</font> , coming
+up; that he desired his Father to give him the Net,
+and he would run away with it, but his Father would
+not let him; that then <font>Redding</font> came up and
+demanded the Net; that <font>Thomas Egglestone</font> , said he should not
+have it, and then threw the Net into the River, and
+<pagebreak id="428" />
+in the mean Time, the other Gentleman came up and
+shot him; that <font>John Egglestone</font> jump'd into the River,
+and cut the Line of the Net to pull it out on the other
+Side; and that when the Gun went off and his Father
+dropped down, Mr. <font>Redding</font> said to the other Gentleman,
+<font>Lord Sir, what have you done</font> ! and then they both run
+Home: Mr. <font>Abraham Egglestone</font> , who was present, asked
+him if he saw Mr. <font>Annesley</font> pull the Trigger of the
+Gun; and <font>John Egglestone</font> answered, that he could not
+tell. I asked him if there was any Quarrel or Words
+that had passed between them, and he said no. -- I said
+it was very surprizing to me, that this Gentleman should
+come and shoot his Father and nothing more pass
+between them; I then asked him in what manner he held
+the Gun; he had a Stick in his Hand, and shewed in
+what manner the Gun was held in his Hand, thus, (in
+his right Hand, the Arm hanging down near the Pocket,
+some Inches from his Body, and near upon a Level;
+which was the same manner that old <font>Redding</font> said the
+Gun was held) I asked if he thought he did it wilfully,
+he said, he could not tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see this <font>John Egglestone</font> before, for
+he says he knows nothing of you?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> I have known him these Eight Years, and he
+has been frequently at my House.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Character has he?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> I cannot say much in his behalf; his Father
+could not manage him at all.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Business did he follow?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> His Father was a Carpenter, and he worked
+with him.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When did he leave <font>Staines</font> ?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> Soon after this Accident happened.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where has he been ever since?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> I have seen him at the <font>White Horse</font> in
+<font>Piccadilly</font> ; and I heard at <font>Staines</font> , that he was sent for to
+<font>London</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Who was present at this Conversation besides
+<font>Egglestone</font> and you?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> Nobody but Mr. <font>Abraham Egglestone</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> You say he could not say it was
+wilfully done, did he say it was accidentally done?
+<pagebreak id="429" />
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> No, he did not say it was.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Do you apprehend he had hold of the
+Gun by the Barrel near the Lock?
+   </dialogue><nonSpeech> <font>Duff.</font> </nonSpeech><dialogue> I understood by <font>Egglestone's</font> manner of holding
+the Stick, that he meant that Mr. <font>Annesley</font> had hold of
+the Gun about the middle of the Barrel.
+</dialogue><nonSpeech> <font>John Dalton sworn.</font> </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Discourse had you with young <font>Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Dalton.</font> </nonSpeech><dialogue> On the <font>Sunday</font> , when the Prisoner at the Bar
+was carried to <font>Laleham</font> to be Examined, I went there:
+<font>John Egglestone</font> came to the Door, and called me out of
+the Room where I was, and said he wanted to speak
+with me. When I came out, he said he wanted to ask
+my Advice concerning this Accident: I said, I wonder
+you should ask my Advice, when you have Relations to
+advise with; he said, I thought fit to ask you, as you
+are my Master. While we were talking, <font>Samuel Sylvester</font>
+came out, and said, I was persuading the Boy to sell
+his Father's Blood; the Boy said, what do you mean
+you Fool you, my Master is persuading me to no such
+Thing. I then asked him, whether he thought it was
+Accidentally done or not; he said, he believed it was
+Accidental, rather than any other thing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Character has the Boy?
+   </dialogue><nonSpeech> <font>Dalton.</font> </nonSpeech><dialogue> He was very irregular, and used to lie out.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Trade are you?
+   </dialogue><nonSpeech> <font>Dalton.</font> </nonSpeech><dialogue> I am a Butcher.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> You say he has a bad Character;
+do you think he would forswear himself?
+   </dialogue><nonSpeech> <font>Dalton.</font> </nonSpeech><dialogue> I can say nothing to that.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> Was there any talk of Money
+then?
+   </dialogue><nonSpeech> <font>Dalt.</font> </nonSpeech><dialogue> Yes, the Boy said he had been offered Money.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> But you say, he said he would not sell his Father's
+Blood?
+   </dialogue><nonSpeech> <font>Dalt.</font> </nonSpeech><dialogue> No, I said <font>Samuel Sylvester</font> came and said I was
+persuading him to sell his Father's Blood; and the Boy
+said my Master did not persuade me to any such Thing.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What did you say to him 
+afterwards?
+   </dialogue><nonSpeech> <font>Dalt.</font> </nonSpeech><dialogue> I told him he had lost his Father, and had no
+Friend to take Care of him, and he knew best what he
+had to do.
+<pagebreak id="430" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you say it was better to take Money,
+than Hang the Man?
+   </dialogue><nonSpeech> <font>Dalt.</font> </nonSpeech><dialogue> No, I said, I thought by what he told me,
+that the Man was in no danger of being Hang'd, and
+therefore he had better take the Money than endeavour
+to Hang a Man, that he thought did not do it designedly.
+   </dialogue><nonSpeech>Mr. <font>Higgs</font> , belonging to the Clerk of the Peace being
+sworn, produced the Book wherein all the Game-keepers
+of all the Manours in the County of <font>Middlesex</font> , are
+enter'd; (reads) Sir <font>John Dolben</font> of <font>Northampton</font> , Baronet,
+to <font>Joseph Redding</font> the younger, dated <font>2d</font> of <font>July</font> , 1741.
+Enter'd <font>29th</font> of <font>Jan.</font> 1741.</nonSpeech>
+<nonSpeech>Mr. <font>Richard Chester</font> sworn.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Give us an Account of what you know of this
+Matter.
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> I drove the Chaise, to the <font>Grey-hound</font> at
+<font>Laleham</font> ; I went up to young <font>Egglestone</font> , and asked him
+how this unfortunate Thing happen'd; he said he
+believed it was accidental, for he did not believe any
+Gentleman in cool Blood would do any such thing wilfully.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know any thing with respect to the Net?
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> I think he said Mr. <font>Annesley</font> was stooping to
+in order to take the Net, and the Gun went off.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did he say any thing how Mr. <font>Annesley</font> held the
+Gun?
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> I desired him to shew me how Mr. <font>Annesley</font>
+held the Gun; he took my Whip in his Hand and held
+it so, </dialogue><nonSpeech> (which was much the same Position as <font>Redding</font> and
+<font>Duffell</font> said he held it in) </nonSpeech><dialogue> I think it was rather nearer
+the handle than the middle of the Whip that he held it.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Did you see the Wound?
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> I understood it was somewhere about the Hip.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> I ask you whether you think he could
+have shot him there, if he had held the Gun that way?
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> I think he could not have shot him there, if
+he had held it any other way. My Lord, I had forgot
+to mention one Thing. After this, <font>Egglestone</font> spoke to
+Mr. <font>Annesley</font> the Prisoner, and shook Hands with him;
+and <font>Egglestone</font> said he was very sorry for what had
+happened, but said he did not think he did it designedly,
+and then drank a Glass of Wine to him.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did they shake Hands, or drink the Wine first?
+<pagebreak id="431" />
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> Both at the same Time as near as could be.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> I ask you whether the Prisoner at the
+Bar is not married to your Daughter-in-law?
+   </dialogue><nonSpeech> <font>Chester.</font> </nonSpeech><dialogue> The Prisoner is married to my
+Daughter-in-law.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> They ask this Question in hopes of its being of
+Service to them in another Affair, for it cannot be of
+any in this; though I hope he has got a very good
+Wife.
+</dialogue><nonSpeech> ( <font>John Patterson</font> sworn.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Mr. <font>Paterson</font> . I think you did attend the
+Coroner's Inquest, upon this Occasion; please to give an
+Account how <font>Egglestone</font> behaved then, and what he said.
+   </dialogue><nonSpeech>Mr. <font>Paterson.</font> </nonSpeech><dialogue> My Lord, on the 4th of <font>May</font> , I attended
+the Coroner's Jury at <font>Staines</font> ; though, as I had not Time
+to enquire into the Fact, and prepare for Mr. <font>Annesley's</font>
+Defence, I could do him but little more Service, than
+by Cross examining the Witnesses for the Crown, and
+making Observations on their Evidence; one of the
+Witnesses was <font>John Egglestone</font> , who has been examined
+here. --
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> As to any Thing in his Behaviour you may
+give Evidence, but not of any Thing that was reduced
+into writing.
+   </dialogue><nonSpeech>Mr. <font>Paterson.</font> </nonSpeech><dialogue> I can only speak as to what he said
+before the Coroner, and I admit the Depositions taken
+at that Time were reduced into writing by the
+Coroner or his Clerk.
+</dialogue><nonSpeech> (The Reverend Mr. <font>Eusebius Williams</font> sworn.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Sir, do you know <font>John Fisher</font> ?
+   </dialogue><nonSpeech> <font>Williams.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had you any Talk with him about <font>Egglestone's</font>
+being killed?
+   </dialogue><nonSpeech> <font>Williams.</font> </nonSpeech><dialogue> <font>Fisher</font> told me that <font>Egglestone</font> said   
+he did
+not believe the Gentleman kill'd his Father designedly;
+but that it was an Accident.
+</dialogue><nonSpeech> (Mr. <font>Bethune</font> call'd.) </nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> My Lord, this is another Person
+that is brought to contradict the Evidence of <font>Egglestone</font> ,
+in what he said with respect to the Position of the Gun.
+   </dialogue><nonSpeech> <font>Prisoner's Council.</font> </nonSpeech><dialogue> <font>Egglestone</font> said the Gun was     
+pointed
+downward. Now we shall shew you from the Nature
+<pagebreak id="432" />
+of the Wound that it is morally impossible it should be
+so, for the Wound is slanting upwards.
+</dialogue><nonSpeech> ( <font>James Bethune</font> sworn.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Sir, You are I think a Surgeon at <font>Brentford</font> :
+did you see the Body of this <font>Egglestone</font> that was kill'd
+at <font>Staines</font> ?
+   </dialogue><nonSpeech>Mr. <font>Bethune.</font> </nonSpeech><dialogue> On <font>Sunday</font> after the Accident, my
+Lord, I happened to be at <font>Laleham</font> , and Sir <font>Thomas
+Reynel</font> gave me Leave to come in and hear the
+Depositions: I was afterwards sent for by Mr. <font>Perkins</font> a
+Surgeon at <font>Staines</font> , to attend the opening of the Body
+before the Coroner; there were several of the Coroners
+Jury in the Room. I found the Wound on the left
+Side, about an Inch and an Half below the Ridge of
+the Hip bone; the Wound I apprehend to be about
+an Inch and an Half wide; I found it went into the
+Cavity of the Belly?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the Wound go upward or downwards into
+the Belly?
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> When I found it went into the Cavity of
+the Belly, I remember'd in what Manner <font>Egglestone</font>
+held the Gun when he was before Sir <font>Thomas Reynel</font> ,
+to shew how Mr. <font>Annesley</font> held it when he fir'd: I
+remember very well he held it to his Shoulder slanting
+downward; I attempted to put my Probe into the
+Wound in the same Direction as he described the Gun,
+but there was no Passage for it in that Position, it would
+not go in downwards; then I put it in this Manner cross
+the Belly, and it went in without any Obstruction, and
+then upwards, and it went in with the same Ease, in
+this Manner. I observed several large Blisters, full
+of black Serum on the Right Side, opposite the Place
+where the Shot went in, the Blisters which were on
+the opposite Side, were three or four Inches higher
+than where the Wound was, -- the Wound was on the
+left Side, and the Blisters on the Right; when I found
+this was so plain to me, I desired it might be as plain
+to the Jury and every one there, as it was to myself,
+because this was a Matter of Fact and not of Judgment,
+and I desired the Foreman to come and put the Probe
+in and try, he did so and found the Wound as I have
+described it: I was the more careful in this, because I
+<pagebreak id="433" />
+had observed the Evidence that the Boy gave on the
+<font>Sunday</font> , and there was some Variation between that and
+the Nature of the Wound, therefore I desired them to
+take the more Notice of it.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What do you think those Blisters on the other
+Side were occasioned by?
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> I apprehend they were occasioned by the
+Force of the Powder.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> According to your Account, could
+he, holding the Muzzle of the Gun upwards, have
+made this Wound?
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> It could not have made it with the Muzzle
+downward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you observe how the Wound was upon the
+Bone, and whether there were any Shot remaining in
+the Wound?
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> No Sir, but I found some Shot in the
+Cavity of the Belly.
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Now the Question is, whether the Shot,
+coming upon this Bone, might not be thrown upwards?
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> No, for the Shot went through the Bone,
+so that the Gun must have been held obliquely,
+pointing upwards; the Shot could not have gone through in
+that Direction if the Muzzle of the Gun had 
+pointed downwards; this is no Matter of Judgment, but I
+have given you Demonstration of it.
+   </dialogue><nonSpeech>Mr Serj. <font>Gapper.</font> </nonSpeech><dialogue> You say the Wound went from the left
+Side to the Right, and that if the Muzzle of the Gun was
+downwards, the Wound would be in the same Manner.
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> Certainly Sir, if the Muzzle of the Gun
+is held downward, the Shot cannot go upward.
+   </dialogue><nonSpeech> <font>Foreman of the Jury.</font> </nonSpeech><dialogue> He makes it appear that the
+Prisoner could not hold the Gun to his Shoulder, but that it
+was held horizontally, and that it was impossible for him
+to wound him in the Manner the Boy described, if the
+Muzzle of the Gun had been pointed downward.
+   </dialogue><nonSpeech> <font>Bethune.</font> </nonSpeech><dialogue> I beg leave to speak a few Words more to
+your Lordship. While I was giving in this Evidence
+before the Coroner and his Jury, if your Lordship
+remembers, I said I had shewed them how the Wound
+was, therefore I desired them to consider how consistent
+it was with the Evidence that Mr. <font>Egglestone</font> had given:
+<pagebreak id="434" />
+I believe I proved it to the Coroner's Jury, and others
+that were there, that it was impossible it could be done
+in that Manner, if the Gun was held as he said, to his
+Shoulder; upon that he comes up again, and, says he,
+the Gentleman stooped when he did it.
+   </dialogue><nonSpeech> <font>Council for the Prisoner.</font> </nonSpeech><dialogue> This shews how he departed
+from what he had said, for he said first that Mr.
+<font>Annesley</font> stood upright when he fired, and then that he
+stooped in order to make his Evidence correspond with
+the Wound.
+</dialogue><nonSpeech> ( <font>John Perkins</font> , Surgeon, sworn) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Body of <font>Thomas Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Perkins.</font> </nonSpeech><dialogue> I opened the Body on the 4th of <font>May</font> , and
+on Inspection, I found one Wound of about an Inch and
+an Half Diameter: I put in my Probe 7 or 8 Inches, by
+which and likewise upon Inspection, I found it run
+horizontal, a little upon the Ascending: I put my two
+Fingers into the Cavity of the Bone, and shewed the
+Jury how it was, and observ'd on the contrary Side,
+4 or 5 Blisters, which I think to be occasioned by the
+Force of the Powder from the other Side; but the Shot
+did not go through the Skin.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> I ask you whether these Blisters were higher
+or lower than the Wound?
+   </dialogue><nonSpeech>Mr. <font>Perkins.</font> </nonSpeech><dialogue> Four or five Inches higher, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> Do you think these Blisters were 
+occasioned by the Shot?
+   </dialogue><nonSpeech> <font>Perkins.</font> </nonSpeech><dialogue> I apprehend they were.
+</dialogue><nonSpeech> (Mr. <font>King</font> , the Coroner called again.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was any Application made to you at any Time
+to send Mr. <font>Annesley</font> a Prisoner to <font>Newgate</font> .
+   </dialogue><nonSpeech>Mr. <font>King.</font> </nonSpeech><dialogue> Yes, I think it was Mr. <font>Giffard</font> , he came
+along with another Gentleman, whose Name I think
+is <font>Carrington</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What, Captain <font>Carrington</font> ?
+   </dialogue><nonSpeech>Mr. <font>King.</font> </nonSpeech><dialogue> I believe it was: I said, I think the
+Gentleman is secure enough: (there was a Lord
+mentioned. but I cannot remember that he desired it:
+Mr. <font>Giffard</font> wisely kept him from saying who it was) I
+thought it was too severe to send him to <font>Newgate</font> , and
+said that Sir <font>Thomas Reynel</font> was the Justice of Peace who
+committed him, and he had taken sufficient Care about it.
+<pagebreak id="435" />
+</dialogue><nonSpeech> ( <font>Paul Keating</font> sworn.) </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know any Thing of <font>Egglestone</font> ?
+   </dialogue><nonSpeech> <font>Keating.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where did you come acquainted with him?
+   </dialogue><nonSpeech> <font>Keating.</font> </nonSpeech><dialogue> At the <font>White Horse</font> in <font>Piccadilly</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Countryman are you?
+   </dialogue><nonSpeech> <font>Keating.</font> </nonSpeech><dialogue> I came from <font>Ireland</font> , on Board a
+Merchantman from <font>Waterford</font> : I was recommended to the Earl of
+-- to say what I knew, as a Witness, about the Estate.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How came you to the <font>White Horse</font> ?
+   </dialogue><nonSpeech> <font>Keating.</font> </nonSpeech><dialogue> There was one <font>Lawler</font> that came over in the
+same Ship. When I came to Town, I went and
+enquired for him at the Earl of --'s, and he sent
+me to the <font>White Horse</font> in <font>Piccadilly</font> to live, and there I
+came acquainted with <font>Egglestone</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> After your Acquaintance, do you remember any
+Conversation with him, about what he was to have for
+swearing in this Cause?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> I do, my Lord, remember mighty well; a little
+Time after he came to the Inn, he and I got acquainted
+together, and went out a walking to see the Town, and
+particularly on a <font>Sunday</font> Morning; the <font>Sunday</font> after he
+came to <font>Piccadilly</font> : I believe it was the second <font>Sunday</font> in
+<font>May</font> ; as we were walking abroad, I asked him how he
+came to live there, says he, I am here at the Expence
+of the Earl of --.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> This is not proper: If you can call any Body
+to contradict <font>Egglestone</font> you may, but this is reflecting
+upon a noble Person's Character.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did he tell you how he came to be at that Inn?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> He told me that Mr. <font>Williams</font> , who keeps the
+<font>White Horse</font> , brought him from <font>Staines</font> , and that he
+should be very well provided for, if he would prosecute
+this Gentleman, who is now in Custody, for this Murder,
+and he desired I might contrive some Way that he might
+get the Money secured, and I wrote two or three
+Draughts of Notes for 200 <font>l.</font> and he took Copies of them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How came he to take Copies of them?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> Because I did not care my Hand should be known.
+I have a Copy of one of them in my Pocket. </dialogue><nonSpeech> (Reads.) </nonSpeech><dialogue>
+I Promise to pay to Mr. <font>Thomas Egglestone</font> (that is his
+elder Brother) or his Order, at or upon the 10th
+<pagebreak id="436" />
+Day of <font>June</font> next, the Sum of <font>200l.</font> <comment type="compiler">NO ITALICS FOR 200 IN   
+SOURCE TEXT</comment> Sterling, for
+Value received from his deceased Father, and him, in
+Carpenter's Work, <font>&amp;c.</font>  Witness my Hand the 10th
+Day of <font>May</font> 1742.
+   This was to be signed either by <font>Williams</font> or my Lord --
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Have you ever seen the Earl of -- at the <font>White     
+Horse</font> ?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> He is there often.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What has the Earl of -- any Thing to do there?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> His Coach and Horses are kept there.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long have they stood there?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> They stand there constantly.
+   </dialogue><nonSpeech>Mr. Serj. <font>Gapper.</font> </nonSpeech><dialogue> What was that Note for?
+   </dialogue><nonSpeech> <font>Keat.</font> </nonSpeech><dialogue> It is only a Copy of what I wrote for             
+<font>Egglestone</font> ,
+for as I told the Court before, I did not care that my
+Hand should be seen in any such Thing as Bribery and
+Corruption.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

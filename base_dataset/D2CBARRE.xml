@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2CBARRE">
+  <dialogueHeader>
+
+    <filename>D2CBARRE</filename>
+
+    <identifier>2 COMEDY D2CBARRE</identifier>
+
+    <title>RAM-ALLEY</title>
+
+    <author>BARREY LORDING</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1611</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BARREY, LORDING.</attribution>
+      <frontMatter>RAM-ALLEY: OR MERRIE-TRICKES.
+A COMEDY DIUERS TIMES HERE-TO-FORE ACTED. 
+BY THE CHILDREN OF THE KINGS REUELS.
+WRITTEN BY LO: BARREY.
+AT LONDON
+PRINTED BY G. ELD, FOR ROBERT WILSON, AND ARE TO BE SOLD AT HIS SHOP 
+IN HOLBORNE, AT THE NEW GATE OF GRAYES INNE.
+1611.
+PP. A3R.1 - E1R.34
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">AUTHOR'S NAME TAKEN FROM BRITISH LIBRARY CATALOGUE. THE CAMBRIDGE 
+HISTORY OF ENGLISH AND AMERICAN LITERATURE GIVES THE NAME AS LODOWICK 
+BARRY.</comment>
+
+<comment type="compiler">STAGE DIRECTIONS OF TWO OR MORE LINES WHICH ARE PLACED ON RIGHT 
+MARGIN IN THE SOURCE TEXT ARE HERE PLACED ON THE RELEVANT LINE WITHIN 
+THE TEXT.</comment>
+
+<comment type="compiler">THE SOURCE TEXT HAS VARIATION IN FONT WITH REGARD TO THE INITIALS OF 
+SPEAKER NAMES. BELOW SPEAKER NAMES ARE CODED AS &quot;FONT OTHER THAN THE 
+BASIC FONT&quot; IF ONE OR MORE INITIALS IS IN ITALICS.</comment>
+
+<pagebreak id="A3R" />
+</dialogue> <head>RAMME-ALLEY.</head> 
+
+ <head>ACTUS I. SCAENA I.</head> 
+
+<nonSpeech> <font>Enter</font> Constantia <font> <foreign>sola</foreign> , with a letter in her hand</font> .</nonSpeech>
+
+   <nonSpeech> <font>Const.</font> </nonSpeech><dialogue> In this disguise, ere scarce my mourning robes,
+Could haue a generall note, I haue forsooke
+My shape, my mother, and those rich demeanes,
+Of which I am sole heyre: and now resolue,
+In this disguise of Page to follow him,
+Whose loue first caus'd me to assume this shape.
+Lord how my feminine bloud stirs at the sight
+Of these same breeches, me thinkes this cod-peece
+Should betray mee: well, I will trye the worst,
+Hether they say hee vsually doth come,
+Whom I so much affect, what makes he heere,
+In the skirts of <font>Holborne</font> , so neere the field,
+And at a garden house, a has some punke
+Vpon my life: no more heere he comes.
+</dialogue><nonSpeech> <font>Enter</font> Boutcher.</nonSpeech><dialogue>
+God saue you sir: your name vnlesse I erre,
+Is maister <font>Thomas Boutcher</font> . </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> 'Tis sweet boy.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I haue a letter for you. </dialogue><nonSpeech> <font>Con. deliuers the    
+lett.</font> </nonSpeech> <nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> From whom ist,
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> The inside sir will tell you; I shall see
+What loue he beares me now. </dialogue><nonSpeech> <font>hee reads it.</font> </nonSpeech>                  
+<nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Th'art welcome boy.
+How does the faire <font>Constantia Somerfield</font> ,
+My noble mistresse. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I left her in health.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Shee giues thee heere good words, and for her sake,
+Thou shalt not want a maister, be mine for euer.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I thanke you sir: now shall I see the Punke.       
+</dialogue><nonSpeech> <font>he knocks.</font> </nonSpeech>
+<nonSpeech> <font>Enter William Small-shanke.</font> </nonSpeech>
+   <nonSpeech> <font>W. Sm.</font> </nonSpeech><dialogue> Who knocks so fast? I thought 'twas you, what    
+news,
+   </dialogue><nonSpeech> <font>Bout.</font> </nonSpeech><dialogue> You know my businesse well, I sing one song.
+   </dialogue><nonSpeech> <font>W. Sm.</font> </nonSpeech><dialogue> Foot, what would you haue me do, my land is gon,
+My credit of lesse trust then Courtiers words,
+To men of iudgment, and for my debts
+I might deserue a Knight-hood; what's to be done?
+The Knight my father will not once vouchsafe
+To call me sonne; That little land a gaue,
+<pagebreak id="A3V" />
+<font>Throte</font> the Lawyer swallowed at one gob
+For lesse then halfe the worth: and for the Citty
+There be so many rascals, and tall yeomen
+VVould hang vpon me for their maintenance,
+Should I but peepe or step within the gates,
+That I am forst onely to ease my charge,
+To liue here in the suburbes: or in the towne
+To walke in <font>Tenebris</font> . I tell you sir,
+Your best retired life is an honest Punke
+In a thatcht house with Garlike: tell not mee,
+My Punk's my Punke, and noble Letchery
+Sticks by a man, when all his friends forsake him.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> The Poxe it will, art thou so sencelesse growne,
+So much indeared to thy bestiall lust,
+That thy originall worth should lye extinct
+And buried in thy shame? farre be such thoughts
+From spirits free and noble: begin to liue.
+Know thy selfe, and whence thou art deriu'd,
+I know that competent state thy father gaue,
+Cannot be yet consum'd. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> 'Tis gon by heauen,
+Not a denier is left. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> 'Tis impossible.
+   </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> Impossible zart, I haue had two suckers,
+Able to spend the wealthy <font>Croesus</font> store.
+</dialogue><nonSpeech> <font>Enter Francis,</font> </nonSpeech>
+   <nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> VVhat are they? </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> VVhy a Lawyer &amp; a       
+VVhore,
+See heere comes one, doost thinke this petti-coate,
+A perfu'md smock, and twice a weeke a bathe,
+Can be maintain'd with halfe a yeares reuenews
+No by heauen, wee Annuall yonger brothers,
+Must go to't by hole-sale, by hole-sale man
+These creatures are maintain'd: her very face
+Has cost a hundred pound. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Sir, thanke your selfe.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Cou.</font> </comment> They keepe this whore   
+betwixt them. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> You know sir, 
+I did inioy a quiet country life,
+Spotlesse and free, till you corrupted mee,
+And brought me to the Court, I neuer knew,
+VVhat sleeking, glazing, or what pressing meant,
+Till you preferd me to your Aunt the Lady,
+I knew no Iuorie teeth, no caps of heire,
+<pagebreak id="A4R" />
+No <font>Mercurie</font> water, <font>fucas</font> , or perfumes,
+To helpe a Ladies breath, vntill your Aunt
+Learnt me the common trick. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> The common trick
+Say you, a poxe vpon such common tricks,
+They will vndoe vs all. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Gou.</font> </comment>    
+And knowing this
+Art thou so wilfull blind, still to persist
+In ruine and defame? </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> VVhat should I doe?
+I'aue past my word to keepe this Gentlewoman,
+Till I can place her to her owne content.
+And what is a Gentleman but his word.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Why let her goe to seruice. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> To     
+seruice,
+Why so shee does, she is my Landeresse,
+And by this light, no punie Inne a Court
+But keepes a Landresse at his command
+To doe him seruice, and shall not I, ha!
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Sir, you are his friend (I loue him to)
+Propound a course which may aduantage him,
+And you shall finde such reall worth in me,
+That rather then Ile liue his hindrance,
+I will assume the most penurious state
+The Citty yeelds, to giue me meanes of life.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Why ther's it, you heare her what she sayes,
+VVould not he be damnd that should forsake her,
+Sayes she not well, can you propound a course,
+To get my forfit land, from yonder roague,
+Parcell Lawyer, parcell Deuill, all Knaue,
+<font>Throate, throate</font> . </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Not I. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Why so, I     
+thought as much,
+You are like our Cittizens to men in need,
+VVhich cry 'tis pitty, a propper Gentleman
+Should want mony, yet not an vsuring slaue,
+VVill lend him a denier, to helpe his wants,
+VVill you lend me forty shillings. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I will.
+   </dialogue><nonSpeech> <font>VV. S.</font> </nonSpeech><dialogue> VVhy God-amercy, there's some goodnesse in thee,
+Youle not repent. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I will not. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> With that     
+money
+I will redeeme my forfit land, and wed
+My Coccatrice to a man of worship,
+To a man of worship by this light. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> But how?
+   </dialogue><nonSpeech>VV.</nonSpeech><dialogue> Thus: in Ramme-alley lies a fellow, by name
+<font>Throate</font> : one that professeth law, but indeed
+<pagebreak id="A4V" />
+Has neither law nor conscience, a fellow
+That neuer saw the barre, but when his life
+Was cald in question for a coosenage,
+The Rogue is riche, to him go you, tell him
+That rich Sir <font>Iohn Somerfield</font> . </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> How's that?
+   </dialogue><nonSpeech> <font>W.</font> </nonSpeech><dialogue> Is lately dead, and that my hopes stand faire
+To get his onely daughter. If I speed,
+And haue but meanes to steale away the wench,
+Tell him I reckon him my chiefest friend,
+To entertaine vs till our nuptiall rites
+May be accomplisht, and could you but procure
+My elder brother meete me on the way,
+And but associate <comment type="compiler">SOURCE TEXT: associaie</comment> me vnto his house,
+'Tweare hit ifaith, I'de giue my cunning <font>Throte</font>
+An honest slit for all his tricks in lawe.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Why this shall be perform'd, take ther's my store,
+To friends all things are common. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Then at the court 
+There are none foes, for all things there are common.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I will as carefully performe thy wish,
+As if my fortunes lay vpon th'attempt.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> When shall I heere from you.                      
+</dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Within this houre
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Let me alone for the rest, if I gull not
+And go beyond my open throted lawyer,
+For all his booke cases of <font> <foreign>Tricesimo nono</foreign> </font>
+And <font> <foreign>Quaaragessimo octauo</foreign> </font> ; let mee
+Like waiting Gentlewomen be euer bound,
+To sit vpon my heeles, and pick rushes,
+Will you about this geere. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> With my best speed.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Then fare you well, yole meete me.                
+</dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Without faile.
+</dialogue><nonSpeech> <font>Exit. Bouch.</font> and <font>Page</font> .</nonSpeech>
+   <nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Adue: now you pernicious Coccatrice,
+You see how I must skelder for your good,
+Ile bring you where you shall haue meanes to cheate,
+If you haue grace enough to apprehend it.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Beleeue me loue, how ere some stricter wits,
+Condemne all women which are prone to loue,
+And thinke that if their fauour fall on any,
+By consequence they must be naught with many,
+And hold a false position, that a woman
+<pagebreak id="B1R" />
+False to her selfe, can trusty be to no man,
+Yet know I say, how ere my life hath lost
+The same which my Virginity aspyr'd,
+I will be true to thee, my deed shall mooue,
+To win from all men pitty, if not loue.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Tut, I know thee a good rascall, lets in,
+And on with all your neate and finest ragges.
+On with your cloake and saue-guard, you arrant drab,
+You must cheate without all conscience, filtch for thee &amp; me.
+Do but thou act what I shall well contriue,
+Weele teach my Lawyer a new way to thriue. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Mistresse</font> Tafata, <font>and</font> Adriana <font>her maid aboue</font> .</nonSpeech>
+   <nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Come lou'd <font>Adriana</font> heere let vs sit,
+And marke who passes; now for a wager,
+What colourd bear'd comes next by the window?
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> A black mans I thinke. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> I thinke not 
+so,
+I thinke a redde, for that is most in fashion,
+Lord how scarce is the world of propper men
+And gallants; sure wee neuer more shall see
+A good legge worne in a long silke stocking,
+With a long cod-peece, of all fashions
+That carried it ifaith, what's he goes by?
+</dialogue><nonSpeech> <font>Enter a Cittizen.</font> </nonSpeech>
+   <nonSpeech> <font>Adri.</font> </nonSpeech><dialogue> A sniueling Cittizen, he is carrying ware,        
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech><dialogue>
+Vnto some Ladies chamber: but who's this?
+</dialogue><nonSpeech> <font>Enter</font> T. Smal-shanke <font>reading a letter</font> .</nonSpeech>
+   <nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> I know him not, a lookes iust like a foole.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> He's very braue a may be a Courtier,
+Whats that a reads. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Ah how light a treads
+For durting his silke stockings, Ile tell thee what,
+A witty woman may with ease distinguish,
+All men by their noses, as thus: your nose
+<font>Tuscan</font> is louely, large and brawde,
+Much like a Goose, your valiant generous nose,
+A crooked, smooth, and a great puffing nose,
+Your schollers nose is very fresh and raw
+For want of fire in winter, and quickly smels,
+His choppes of mutton, in his dish of porrage.
+Your Puritan nose is very sharpe and long,
+<pagebreak id="B1V" />
+And much like your widdows, and with ease can smell,
+An edefying capon some fiue streets off,
+</dialogue><nonSpeech> <font>Enter Boutcher and Constantia.</font> </nonSpeech>
+   <nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> O mistris a very proper Gentleman,
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> And trust me so it is, I neuer saw
+A man that sooner could captiue my thoughts
+(Since I writ widdow) then this gentleman,
+I would a would looke vp. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Ile laugh so lowd
+That he may heere me. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Thats not so good.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> And spake you with Maister <font>Smalshanke</font> .        
+</dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Will a meete his brother. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> A said a  
+would,
+And I beleeued him, I tell you maister
+I haue done that for many of these gallants
+That no man in this towne would do but I.
+   </dialogue><nonSpeech> <font>Bo.</font> </nonSpeech><dialogue> What is that boy. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Why trust them on  
+their words,
+But will you heare the newes which now supplies,
+The citty with discourse. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> What is it wag.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> This sir, they say some of our citty dames
+Were much desirous to see the Baboones
+Doe their newest tricks, went, saw them, came home,
+Went to bed, slept, next morning one of them,
+Being to shift a smock, sends downe her maide,
+To warme her one, meane while she gins to thinke
+On the Baboones tricks, and naked in her bed
+Begins to practise some, at last she stroue,
+To get her right leg ouer her head; thus:
+And by her actiuity she got it
+Crosse her shoulder: but not withall her power,
+Could she reduce it, at last much strugling
+Tumbles quite from the bed vpon the flower,
+The maide by this return'd with the warme smock,
+And seeing her mistris throwne on the ground,
+Trust vp like a foote-ball, exclaimes, calls helpe,
+Runnes downe amazd, sweares that her mistris neck
+Is broke; vp comes her husband and neighbours,
+And finding her thus trus'd, some flatly said
+She was bewitch, others she was possest,
+A third said for her pride, the Diuell had set
+Her face where her rumpe should stand, but at last
+<pagebreak id="B2R" />
+Her valiant husband steps me boldly to her,
+Helpes her; she ashamed <comment type="compiler">SOURCE TEXT: a shamed</comment> ; her husband      
+amazed,
+The neighbours laughing, as none forbeare,
+She tells them of the fatall accident.
+To which one answers, that if her husband
+Would leaue his trade, and carry his wife about
+To doe this tricke in publike, she'd get more gold
+Then all the Baboones, Calues with two tailes,
+Or motions whatsoeuer. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You are a wag.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> He will be gone if we neglect to stay him.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Shall I cough or sneeze. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> No I ha't  
+stand a side,
+Aye me my handkercher <font>Adrian, Fabian</font> . </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Mistris,
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Runne, runne, I haue let my handkercher fall,
+Gentleman shall I intreate a curtesie?
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Within my power your beauty shall command.
+What curtesie ist. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> To stoope and take vp,
+My handkercher. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Your desire is performd.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Sir most hearty thankes: please you come in
+Your welcome shall transcend your expectation.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I accept your curtesie, ha! whats this?
+Assaild by feare and hope in a moment.
+<font>Boucher</font> , this womanish passion fits not men,
+Who know the worth of freedome: shall smiles and eyes
+With their lasciuious glances conquer him
+Hath still beene Lord of his affections?
+Shall simpring nisenesse load-stones but to fooles,
+Attract a knowing spirit? it shall, it dooes,
+Not <font>Phoebus</font> rising from <font>Auroras</font> lap,
+Spreds his bright raies with more maiestique grace,
+Then came the glances from her quickning eye,
+And what of this.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> By my troth I know not.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I will not enter: continued flames burne strong.
+I yet am free, and reason keepes her seate,
+Aboue all fond affections, yet is she faire.
+</dialogue><nonSpeech> <font>Enter Adrian.</font> </nonSpeech>
+   <nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Sir I bring you thankes for this great curtesie,
+And if you please to enter I dare presume,
+My mistrisse will affoord you gratious welcome,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> How do men call your mistris. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> The   
+mans in loue.
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Her name sir is Mistris <font>Changeable</font> , late wife
+To maister <font>Tafata</font> Mercer deceast.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I haue heard she is both rich and beautifull,
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> In th'eyes of such as loue her, iudge your selfe,
+Please you but prick forward and enter.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Now will I fall a boord the waiting maide,
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Fall a boord of me doost take me for a ship?
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I, and will shoote you betwixt wind and water.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Blurt maister gunner, your linstocks too short.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Foote how did she know that, dost here sweet heart,
+Should not the page be doing with the maid,
+Whilst the maister is busie with the mistris,
+Please you prick forwards, thou art a wench
+Likely to goe the way of all flesh shortly.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Whose witty knaue art thou. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> At your 
+seruice.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> At mine faith, I should breetch thee.              
+</dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> How breetch me.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> I breech thee, I haue breech'd a taler man,
+Then you in my time, come in and welcome.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Well I see now a ritch well-practis'd baud,
+May pursse more fees in a summers progresse,
+Then a well traded lawyer in a whole terme,
+Pandarisme! why't is growne a liberall science
+Or a new sect, and the good professors
+Will like the Brownist frequent grauell pits shortly,
+For they vse woods and obscure holes already.
+</dialogue><nonSpeech> <font>Enter Tafata and Boucher.</font> </nonSpeech><dialogue>
+Not marry a widdow. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> No. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> And why?
+Belike you thinke it base and seruant-like,
+To feed vpon reuersion, you hold vs widdowes,
+But as a pie thrust to the lower end
+That hath had many fingers int before,
+And is reseru'd for grose and hungry stomacks.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You much mistake me. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Come in faith  
+you do:
+And let me tell you thats but ceremony,
+For though the Pye bee broken vp before,
+Yet sayes the prouerbe, the deeper is the sweeter.
+And though a capons wings and legges be caru'd,
+The flesh left with the rumpe I hope is sweet.
+I tell you sir, I haue beene woed, and sued to,
+<pagebreak id="B3R" />
+By worthy Knights of faire demeanes: nay more,
+They haue bin out of debt, yet till this houre,
+I neither could endure, to be in loue
+Or be beloued, but proferd ware is cheape.
+Whats lawfull thats loathd, and things denied,
+Are with more stronger appetite persude:
+I am too yeelding. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You mistake my thoughts:
+But know thou wonder of this continent,
+By one more skild in vnknowne fate, then was,
+The blind <font>Achaian</font> Prophet, It was foretold,
+A widdow should indanger both my life,
+My soule, my lands, and reputation.
+This checks my thoughts, and cooles th'ssentiall fire,
+Of sacred loue; more ardent in my brest
+Then speech can vtter. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> A triuiall Idle ieast,
+Tis for a man, of your repute and note,
+To credit fortune-tellers, a petty rogue,
+That neuer saw fiue shillings in a heape,
+Will take vpon him to diuine mens fate,
+Yet neuer knowes himselfe shall dye a begger,
+Or be hanged vp for pilfering table-cloaths,
+Shirts and smocks, hanged out to dry on hedges,
+Tis meerely base, to trust them, or if there be,
+A man in whom the <font>Delphick</font> God hath breath'd
+His true diuining fire; that can foretell,
+The fixt decree of fate, he likewise knowes,
+What is within the euerlasting booke
+Of Desteny decreed, cannot by wit,
+Or mans Inuention be disolued, or shund,
+Then giue thy loue free scope, imbrace and kisse,
+And to the distafe sisters leaue th'euent.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> How powerfull are their words whom we affect,
+Small force shall need, to win the strongest fort,
+If to his state the Captaine be perfidious,
+I must intreate you licence my depart
+For some few houres. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Choose what you will of time,
+There lyes your way. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I will intreate her, stay,
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Did you call sir. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> No.               
+</dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Then fare you well.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Who gins to loue, needs not a second Hell.         
+</dialogue><nonSpeech> <font>Ent. Adr.</font> </nonSpeech>
+<pagebreak id="B3V" />
+   <nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> <font>Adriana</font> , makes a no stay.                     
+</dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Mistris.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> I prythee see if hee haue left the house,
+Peepe close, see, but be not seene: is a gon.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> No, has made a stand. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> I prethee     
+keep close.
+   </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> Nay, keep you close, y'ad best </dialogue><nonSpeech> <font>Taf</font> </nonSpeech><dialogue> What   
+does he now?
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Now a retires. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> O you much partiall  
+gods!
+Why gaue you men affections, and not a power
+To gouerne them? what I by fate should shun,
+I most affect, a widdow, a widdow.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Blowes the wind there. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> A ha, h'is   
+in ifaith,
+Yo'aue drawne him now within your purlews mistresse.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Tut I will not loue, my rationall
+And better parts shall conquer blind affections,
+Let passion children, or weake women sway,
+My loue shall to my iudgment still obay.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> What does he now? </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> H'is gon.         
+</dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Gon <font>Adriana</font> .
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> A went his way, and neuer lookt behind him.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Sure he's taken. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> A little sing'd or 
+so,
+Each thing must haue beginning, men must prepare
+Before they can come on, and show their loues
+In pleasing sort: the man will doe in time,
+For loue good Mistresse is much like to waxe,
+The more 'tis <comment type="compiler">SOURCE TEXT: 'tls</comment> rub'd, it sticks the faster too,
+Or like a bird in bird-lime, or a pit-fall,
+The moore a labours, still the deeper in.
+   </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Come, thou must helpe me now, I haue a trick
+To second this beginning, and in the nick,
+To strike it dead ifaith, women must woe, 
+When men forget what Nature leads them too.
+</dialogue><nonSpeech> <font>Enter Throte the Lawyer from his study, bookes and bags
+of money on a Table, a chaire and cushion.</font> </nonSpeech>
+   <nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Chast <font>Phoebe</font> , <font>splende</font> ; there's that left 
+yet,
+Next to my booke, <font> <foreign>Claro micante Auro</foreign> </font> ,
+I that's the soule of lawe: that's it, that's it,
+For which the Buckrome bag must trudge all weathers:
+Though scarcely fild with one poore replication,
+How happy are we that we ioy the law,
+So freely as we doe; not bought and sold,
+But clearly giuen, without all base extorting,
+<pagebreak id="B4R" />
+Taking but bare ten Angels for a fee,
+Or vpward: to this renown'd estate,
+Haue I by indirect and cunning meanes,
+In-wouen my selfe, and now can scratch it out,
+Thrust at a barre, and cry my Lord as lowd,
+As ere a lifted gowne man of them all.
+I neuer plead before the honor'd bench,
+But bench right-worshipfull of peacefull Iustices
+And Country-Gentlemen, and yet I'aue found
+Good gettings by the Masse, besides od cheates,
+<font>Will Small-shankes</font> lands, and many garboyles more,
+Dash. </dialogue><nonSpeech> <font>Dash.</font> </nonSpeech><dialogue> Sir. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Is that reioynder done.    
+</dialogue><nonSpeech> <font>Da.</font> </nonSpeech><dialogue> Done sir.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Haue you drawn't at length, haue you dasht it out,
+According to your name. </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Some seauen-score sheetes.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Is the demurror drawne twixt <font>Snip</font> and          
+<font>Woodcock</font> ,
+And what do you say to <font>Peacocks</font> pittifull bill,
+   </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> I haue drawne his answer negatiue to all.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Negatiue to all. The plaintiue sayes,
+That <font>William Goose</font> , was sonne to <font>Thomas Goose</font> ,
+And will a sweare the generall bill is false.
+   </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> A will. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Then he forsweares his      
+father, tis well,
+Some of our clients will go prig to hell
+Before our selues; has a paide all his fees.
+   </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> A left them all with me. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Then       
+trusse my points,
+And how thinkst thou of law? </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Most reuerently,
+Law is the worlds great light, a second sunne,
+To this terrestriall Globe, by which all things
+Haue life and being, and without which
+Confusion and disorder soone would seaze
+The generall state of men, warres, outrages,
+The vlcerous deeds of peace, it curbes and cures,
+It is the kingdomes eye, by which shee sees
+The acts and thoughts of men. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> The kingdomes eye,
+I tell thee foole, it is the kingdomes nose,
+By which she smels out all these rich transgressors,
+Nor ist of flesh, but meerely made of wax,
+And 'tis, within the power of vs Lawyers,
+To wrest this nose of waxe which way we please:
+Or it may be as thou saist an eye indeed.
+<pagebreak id="B4V" />
+But if it be, tis sure a womans eye </dialogue><nonSpeech> <font>knocks within.</font> </nonSpeech><dialogue>
+Thats euer rowling. </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> one knocks. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Go see 
+who tis,
+Stay, my chaire, and gowne, and then go see who knocks,
+Thus must I seeme a Lawyer which am indeed,
+But meerly dregs and offscum of the Law, 
+<font> <foreign>I tricesimo primo Alberti Magni</foreign> </font> ,
+Tis very cleere. </dialogue><nonSpeech> <font>Ent. Bou. Dash. and Consta.</font> </nonSpeech>               
+<nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> God saue you sir.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> The place is very pregnant, Maister <font>Boucher</font> ;
+Most harty welcome sir, </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You ply this geere,
+You are no trewant in the law, I see.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Faith some hundred bookes in folio I haue
+Turnd ouer to better my owne knowledge,
+But that is nothing for a studient.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Or a Stationer they turne them ouer too,
+But not as you doe gentill Maister <font>Throte</font> ,
+And what? the Law speakes profit does it not?
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Faith some bad angels haunt vs now and then,
+But what brought you hether. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Why these small legs,
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> You are conceited sir. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I am in Law,
+But let that goe, and tell me how you doe,
+How does <font>Will Smallshankes</font> and his louely bride.
+   </dialogue><nonSpeech> <font>Th.</font> </nonSpeech><dialogue> Introth you make me blush, I should haue askt,
+His health of you, but tis not yet too late.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Nay good sir <font>Throat</font> forbeare your quillets now.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> By Heauen I deale most plaine, I saw him not,
+Since last I tooke his Morgage. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Sir be not nice,
+(Yet I must needs herein commend your loue)
+To let me see him; for know I know him wed,
+And that a stole away <font>Sommerfields</font> heire,
+Therefore suspect me not I am his friend.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> How, wed to ritch <font>Sommerfields</font> onely heyre,
+Is old <font>Sommerfield</font> dead? </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Do you make it strange?
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> By heauen I know it not. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Then am I  
+greeued
+I spake so much (but that I know you loue him)
+I should intreat your secresie sir, fare you well.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Nay good sir stay, if ought you can disclose
+Of Maister <font>Smale-shankes</font> good, let me pertake,
+And make me glad in knowing his good hap.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You much indeere him sir, and from your loue,
+<pagebreak id="C1R" />
+I dare presume you make your selfe a fortune
+If his faire hopes proceed. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Say on good sir.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> You will be secret. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Or be my tongue 
+torne <comment type="compiler">SOURCE TEXT: rorne</comment> out.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Measure for a Lawyer, but to the point,
+Has stole <font>Somerfields</font> heyre hether a brings her
+As to a man on whom a may relye
+His life and fortunes: you hath a named
+Already for the Steward of his lands,
+To keepe his Courts, and to collect his rent,
+To let out Leases and to raise his fines,
+Nothing that may, or loue, of profit bring,
+But you are named the man. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> I am his slaue,
+And bound vnto his noble curtesie,
+Euen with my life, I euer said a would thriue,
+And I protest I kept his forfeit morgage,
+To let him know what tis to liue in want.
+   </dialogue><nonSpeech> <font>Bour.</font> </nonSpeech><dialogue> I thinke no lesse, one word more in priuate.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Good Maister <font>Dash</font> , shall I put you now a case.
+   </dialogue><nonSpeech> <font>Dash.</font> </nonSpeech><dialogue> Speake on good Maister <font>Page</font> .                 
+</dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Then thus it is,
+Suppose I am a Page, he is my Maister,
+My Maister goes to bed and cannot tell
+What money's in his hose, I ere next day
+Haue filcht out some, what action lyes for this.
+   </dialogue><nonSpeech> <font>Dash.</font> </nonSpeech><dialogue> An action boy, cald firking the Posteriors,
+With vs your action sildome comes in question:
+For that tis knowne that most of your Gallants
+Are sildome so well stor'd, that they forget
+What money's in their hose, but if they haue,
+There is no other helpe <comment type="compiler">SOURCE TEXT: kelpe</comment> then sweare the page
+And put him to his oath. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Then fecks-law,
+Dost thinke that he has conscience to steale,
+Has not a conscience likewise to deny.
+Then hang him vp ifaith. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I must meet him,
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Commend me to them, come when they will,
+My doores stand open and all within is theirs,
+And though Ramme-alley stinks with Cookes and Ale,
+Yet say ther's many a worthy lawyers chamber,
+Buts vpon Ram-alley, I haue still an open throte,
+If ought I haue which may procure his good,
+<pagebreak id="C1V" />
+Bid him command, I, though it be my blood. </dialogue><nonSpeech> <font>Ex.</font> </nonSpeech>
+
+ <head>ACTUS SECUNDI. SCENA PRIMA.</head> 
+<nonSpeech> <font>Enter Oliuer Smaleshanke, Tho: Smaleshanke.</font> </nonSpeech>
+   <nonSpeech> <font>S. Oli.</font> </nonSpeech><dialogue> Is this the place you were appointed to meete   
+him.
+   </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> So <font>Boutcher</font> sent me word. </dialogue><nonSpeech> <font>S. O.</font> </nonSpeech><dialogue> I  
+find it true,
+That wine, good newes, and a yong holsome wench
+Cheere vp an old mans blood, I tell thee boy,
+I am right harty glad, to heare thy brother
+Hath got so great an heire; now were my selfe,
+So well bestowed I should reioyce ifaith.
+   </dialogue><nonSpeech> <font>T. S.</font> </nonSpeech><dialogue> I hope you shall do well. </dialogue><nonSpeech> <font>S. O.</font> </nonSpeech><dialogue> No      
+doubt, no doubt,
+A sirra has a borne the wench away.
+My sonne ifaith, my very sonne ifaith,
+When I was yong and had an able back,
+And wore the brissell on my vpper lippe,
+In good <font> <foreign>Decorum</foreign> </font> I had as good conuayance,
+And could haue ferd, and ferkt y'away a wench,
+As soone as eare a man aliue; tut boy, 
+I had my winks, my becks, treads on the toe,
+Wrings by the fingers, smyles and other quirkes,
+Noe Courtier like me, your Courtiers all are fooles,
+To that which I could doe, I could haue done it boy.
+Euen to a hare, and that some Ladies know,
+   </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> Sir I am glad this match may reconcile,
+Your loue vnto my brother. </dialogue><nonSpeech> <font>Si. O.</font> </nonSpeech><dialogue> Tis more then so.
+Ile seeme offended still though I am glad.
+</dialogue><nonSpeech> <font>Enter W. Smalshanke, Francis, Beard booted.</font> </nonSpeech><dialogue>
+Has got rich <font>Sommer-fields</font> heyre. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Come wench of  
+gold,
+For thou shalt get me gold, besides odde ends
+Of siluer: weele purchase house and land,
+By thy bare gettings, wentch, by thy bare gettings,
+How saiest Lieftenant <font>Beard</font> , does she not looke
+Like a wench newly stole from a window?
+   </dialogue><nonSpeech> <font>Beard</font> </nonSpeech><dialogue> Exceeding well she carries it by <font>Ioue</font> ,
+And if she can forbeare her Rampant trick,
+And but hold close a while twill take by <font>Mars</font> .
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> How now you slaue? my rampant tricks you rogue,
+Nay feare not me my onely feare is still,
+<pagebreak id="C2R" />
+Thy filthy face betrayes vs, for all men know,
+Thy nose stands compasse like a bow,
+VVhich is three quarters drawne, thy head
+Which is with greasy haire ore-spred,
+And being vncurld and black as cole,
+Doth show some scullion in a hole
+Begot thee on a Gipsie, or
+Thy mother was some Colliers whore:
+My rampant tricks you rogue, thou't be descride
+Before our plot be ended. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> What should descry him,
+Vnlesse it be his nose? and as for that;
+Thou maist protest a was thy fathers butler,
+And for thy loue is likewise runne away,
+Nay sweet Lieftenant now forbeare to puffe,
+And let the brissels of thy beard grow down-ward,
+Reuerence my Punke and Pandarize a little,
+Ther's many of thy ranke that doe professe it,
+Yet hold it no disparagment. </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> I shall doe,
+VVhat fits an honest man. </dialogue><nonSpeech> <font>Wi. S.</font> </nonSpeech><dialogue> VVhy thats enough,
+Foote my Father, and the goose my brother,
+Back you two. </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Back. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Retire sweet            
+Leiutenant,
+And come not on, till I shall waue you on.
+   </dialogue><nonSpeech>S. O,</nonSpeech><dialogue> Is not that he. </dialogue><nonSpeech> <font>T. S,</font> </nonSpeech><dialogue> Tis he.                 
+</dialogue><nonSpeech>S. O.</nonSpeech><dialogue> But wheres the wench.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> It shalbe so, Ile cheate him thats flat.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> You are well met, know yee me good sir,
+Belike you thinke I haue no eyes, no eares,
+No nose to smell, and winde out all your tricks,
+Y'haue stole sir <font>Somerfields</font> heire, nay we can finde,
+Your wildest paths, your turnings and returnes,
+Your traces, squats, the mussers, formes and holes,
+You yongmen vse, if once our sagest wits
+Be set a hunting, are you now crept forth,
+Haue you hid your head within a suburbe hole
+All this while, and are you now crept forth?
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> 'Tis a starke lye. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> How?          
+</dialogue><nonSpeech>W. S.</nonSpeech><dialogue> who told you so did lye,
+Foote, a Gentleman cannot leaue the Citty
+And keepe the suburbs to take a little Phisick,
+But straite some slaue will say he hides his head;
+I hide my head within a suburbe hole,
+<pagebreak id="C2V" />
+I could haue holes at Court to hide my head,
+Were I but so disposd. </dialogue><nonSpeech> <font>Sir. Ol.</font> </nonSpeech><dialogue> Thou varlet knaue,
+T'hast stolne away Sir <font>Iohn Somerfields</font>                          
+<comment type="compiler">SOURCE TEXT: <font>Iohn Somerfrelds</font> </comment> heire,
+But neuer looke for countenance from me,
+Carry her whether thou wilt. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Father, father,
+Zart will you vndoe your posterity.
+Will you sir vndoe your posterity?
+I can but kill my brother, then hang my selfe,
+And where is then your house, make me not dispare,
+Foote now I haue got a wench, worth by the yeare
+Two thousand pound and vpwards, to crosse my hopes:
+Would ere a clowne in Christendom doo't but you.
+   </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> Good Father, let him leaue this thundring,
+And giue him grace. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Why law, my brother knowes
+Reason, and what an honest man should doe.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Well, where's your wife. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Shees   
+comming here behind,
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Ile giue her some-what, though I loue not thee.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> My father right, I knew you could not hold
+Out long with a woman, but giue some-thing
+Worthy your gift and her acceptance father,
+This chaine were excellent by this good light,
+Shee shall giue you as good, if once her lands
+</dialogue><nonSpeech> <font>Enter Francis, Beard.</font> </nonSpeech><dialogue>
+Come to my fingring. </dialogue><nonSpeech> <font>S. O.</font> </nonSpeech><dialogue> Peace knaue, whats she your wife?
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> That shall be sir. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> And whats he. 
+</dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> My man.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> A Ruffian knaue a is. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> A Ruffian  
+sir,
+By heauen, as tall a man as ere drew sword,
+Not being counted of the damned crew,
+A was her fathers Butler, his name is <font>Beard</font> ,
+Of with your Maske, now shall you finde me true.
+And that I am a sonne vnto a Knight,
+This is my father. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> I am indeed faire maide,
+My stile is Knight: come let me kisse your lips.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> That kisse shall cost your chaine. </dialogue><nonSpeech>S. O.</nonSpeech><dialogue> It         
+smacks ifaith,
+I must commend your choise. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Sir I haue giuen
+A larger venture then true modesty
+Will well allow, or your more grauer wit
+Commend. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> I dare be sworne she has. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Not    
+so.
+The foolish knaue ha's beene accounted wilde,
+<pagebreak id="C3R" />
+And so haue I, but I am now come home,
+And so will he. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I must beleeue it now.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Beg his chaine wench. </dialogue><nonSpeech> <font>Be.</font> </nonSpeech><dialogue> Wil you cheat 
+your father?
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> I by this light will I. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Nay sigh not,
+For you shall finde him louing and me thankfull:
+And were it not a scandall to my honour,
+To be consenting to my sonnes attempt,
+You should vnto my house, meane while take this,
+As pledge and token of my after loue:
+How long since dyed your father. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Some six weeks since.
+We cannot stay to talke, for slaues pursue,
+I haue a house shall lodge vs till the Priest
+May make vs sure. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Well sirra, loue this woman,
+And when you are man and wife, bring her to me,
+Shee shall be welcome. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> I humbly thanke you sir.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> I must be gone, I must a wooing too.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> <font>Ioue</font> and <font>Priapus</font> speed you, youle returne.
+</dialogue><nonSpeech> <font>Exit Sir Oliuer and Thom: Small-shanke.</font> </nonSpeech>
+   <nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> Instantly </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Why this came cleanly off,
+Giue me the chaine, you little Cockatrice,
+Why this was luck, foote foure hundred crownes,
+Got at a clap, hold still your owne you whore,
+And we shall thriue, </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Twas brauely fetcht about.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> I, when will your nose and beard performe as much.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I am glad he is gon, a put me to the blush,
+When a did aske me of ritch <font>Somerfields</font> death.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> And tooke not I my q: wast not good,
+Did I not bring you off, you arrant drab,
+Without a counterbuffe? looke who comes heere,
+And three merry men, and three merry men,
+And three merry men bee wee a.
+</dialogue><nonSpeech> <font>Enter Boucher and Constantia.</font> </nonSpeech>
+   <nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Still in this vaine, I haue done you seruice,
+The Lawyers house will giue you entertainment,
+Bountifull and free. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> O my second selfe,
+Come let me busse thy beard, we are all made,
+Why act <comment type="compiler">SOURCE TEXT: att</comment> so melancholly, doost want money?
+Looke heer's gold, and as we passe along,
+Ile tell thee how I got it, not a word
+<pagebreak id="C3V" />
+But that shee's <font>Somerfields</font> heyre, my brother
+Swallowes it with more ease, then a Dutchman
+Does slap-Dragons: a comes, now to my Lawyers:
+</dialogue><nonSpeech> <font>Enter T. Smalshanke.</font> </nonSpeech><dialogue>
+Kisse my wife, good brother; shee is a wench
+Was borne to make vs all. </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> I hope no lesse,
+Yo'are welcome sister into these our parts,
+As I may say. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Thankes gentle brother.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Come now to Ram-alley. There shalt thou lye,
+Till I prouide a Priest, </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> O villany!
+I thinke a will gull his whole generation,
+I must make one, since 'tis so well begun,
+Ile not forsake him, till his hopes be wonne. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Throte, and two Cittizens.</font> </nonSpeech>
+   <nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Then y'are friends. </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> We are, so     
+please your worship.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> 'Tis well, I am glad, keepe your mony, for law
+Is like a Butlers box: while you two striue,
+That picks vp all your mony, you are friends,
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> We are so please you, both perfit friends.        
+</dialogue><nonSpeech> <font>Th.</font> </nonSpeech><dialogue> Why so,
+Now to the next Tap-house, there drinke downe this,
+And by the opperation of the third pot,
+Quarrell againe, and come to me for law:
+Fare you well. </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> The Gods conserue your wisdom.        
+</dialogue><nonSpeech> <font>E. Cit.</font> </nonSpeech>
+   <nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Why so, these are tricks of the long fifteenes,
+To giue counsell, and to take fees on both sides,
+To make 'em friends, and then to laugh at them,
+Why this thriues well, this is a common trick:
+When men haue spent a deale of mony in law,
+Then Lawyers make them friends: I haue a trick
+To go beyond all these, if <font>Small-shanke</font> come
+And bring rich <font>Somerfields</font> heyre, I say no more, 
+But 'tis within this skonse to goe beyond them.
+</dialogue><nonSpeech> <font>Enter Dash.</font> </nonSpeech>
+   <nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Here are Gentlemen in hast would speake with you.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> VVhat are they? </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> I cannot know them  
+sir,
+They are so wrapt in Cloakes. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Haue they a woman?
+   </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Yes sir, but shee's Maskt, and in her riding sute.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Goe, make hast, bring them vp with reuerence,
+Oh are they ifaith, has brought the wealthy heire:
+<pagebreak id="C4R" />
+These stooles and cushions stand not handsomly.
+</dialogue><nonSpeech> <font>Enter William Smalshanke, Boutcher, Thomas
+Smalshanke, Francis and Beard</font> </nonSpeech>
+   <nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Blesse thee <font>Throte</font> . </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Maister   
+<font>Smalshanke</font> welcome.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Welcome loue, kisse this Gentlewoman, <font>Throte</font> ,
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Your worship shall command me. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Art 
+not weary.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Can you blame her since she has rid so hard?
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> You are welcome Gentlemen, -- Dash.                
+</dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> A fire in the great chamber, quickly.
+   </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> I that's well said, we are almost weary,
+But Maister <font>Throte</font> , if any come to inquire
+For me, my brother, or this Gentlewoman,
+VVe are not here, nor haue you heard of vs.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Not a word sir, heere you are as safe
+As in your fathers house. </dialogue><nonSpeech> <font>T. S.</font> </nonSpeech><dialogue> And he shall thanke you.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Th'art not merry loue, good maister <font>Throte</font>
+Bid this Gentlewoman welcome: she is one
+Of whom you may receiue some courtesie
+In time. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> She is most harty welcome,
+VVilt please you walke into another roome.
+VVhere is both bed and fire, </dialogue><nonSpeech> <font>VV. Sm.</font> </nonSpeech><dialogue> I, I, that that
+Good brother lead her in, Maister <font>Throte</font> and I
+VVill follow instantly, now Maister <font>Throte</font> </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech><dialogue> 
+It rests within your power to pleasure me,
+Know that this same is sir <font>Iohn Somerfields</font> Heire,
+Now if she chance to question what I am,
+Say sonne vnto a Lord, I pray thee tell her
+I haue a world of land, and stand in hope
+To bee created Barron, for I protest
+I was constrain'd to sweare it forty times,
+And yet shee'le scarce beleeue me. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> <font> <foreign>Pauca         
+sapienti</foreign> </font> ,
+Let me alone to set you out in length
+And breadth: </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> I prethee doo't effectually:
+Shat haue a quarter share by this good light,
+In all she has, I prethee forget not
+To tell her the <font>Smal-shankes</font> haue beene dancers,
+Tilters, and very antient Courtiers,
+And in request at Court <comment type="compiler">SOURCE TEXT: Cout</comment> since sir <font>Iohn       
+Short-hose</font> .
+VVith his long silke stockings was beheaded,
+<pagebreak id="C4V" />
+Wilt thou do this? </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Referre it to my care.
+   </dialogue><nonSpeech> <font>W. Sm.</font> </nonSpeech><dialogue> Excellent, Ile but shift my bootes, and then
+Goe seeke a Priest, this night I will be sure.
+If we be sure, it cannot be vndone,
+Can it Maister <font>Throte</font> ? </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> O sir not possible:
+You haue many Presidents and booke Cases for't,
+Bee you but sure and then let me alone.
+<font> <foreign>Viuat Rex, currat Lex</foreign> </font> , and Ile defend you.
+   </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> Nay then hang care, come lets in. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> A ha,
+Haue you stole her, <font> <foreign>fallere fallentem non est fraus</foreign> </font> .      
+</dialogue><nonSpeech> <font>Exit</font> W. S.</nonSpeech><dialogue>
+It shall goe hard but I will strip you boy.
+You stole the wench, but I must her insoy.
+</dialogue><nonSpeech> <font>Enter Mistris Taffata, Adriana, below,</font> </nonSpeech><dialogue>
+Come <font>Adriana</font> , tell me what thou think'st,
+I am tickled with conceit of marriage,
+And whom thinkst thou (for me) the fittest husband,
+What saist thou to yong <font>Boucher</font> . </dialogue><nonSpeech> <font>Adri.</font> </nonSpeech><dialogue> A pretty fellow.
+But that his back is weake. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> VVhat doost thou say
+To <font>Throte</font> the Lawyer? </dialogue><nonSpeech> <font>Adri.</font> </nonSpeech><dialogue> I like that well,
+VVere the Rogue a Lawyer, but he is none,
+Hee neuer was of any Inne-of-court;
+But Inne of Chancery, where a was knowne,
+But onely for a swaggering whyfler,
+To keepe out rogues, and prentises, I saw him,
+VVhen a was stockt for stealing the cookes fees.
+A Lawyer I could like, for tis a thing,
+Vsed by you Cittizens wiues, your husbands dead;
+To get french hoods you straight must Lawyers wed.
+   </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> What saist thou then to Nimble Sir <font>Oliu.        
+Smal-shank</font>
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Faith he must hit the haire: a fellow fit,
+To make a pritty Cuckold. take an old man,
+Tis now the newest fashion, better be
+An old mans darling then a young mans warling, 
+Take me the old briske knight, the foole is ritch,
+And will be strong enough to father children,
+Though not to get them. </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Tis true he is the man,
+Yet will I beare some dozen more in hand,
+And make them all my gulls, </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Mistris stand aside.
+</dialogue><nonSpeech> <font>Enter Boutcher, and Constantia,</font> </nonSpeech><dialogue>
+<pagebreak id="D1R" />
+Young <font>Boutcher</font> comes, let me alone to touch him,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Boa.</font> </comment> This is the house.      
+</dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> And thats the chamber-maide.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> VVhers the widdow gentle <font>Adriana</font> .
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> The VViddow sir is not to be spoken to,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Not spoke to, I must speake with her.              
+</dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> must you?
+Come you with authority, or do you come
+To sue her with a warrant that you must speake with her.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I would intreat it. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> O you would     
+intreat it,
+May not I serue your turne, may not I vnfold,
+Your secrets to my Mistris, loue is your sute,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> It is faire creature. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> And why did   
+you fall off
+VVhen you perceiued my mistris was so cunning,
+D'you thinke she is still the same. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I doe.            
+</dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> VVhy so,
+I tooke you for a nouice: and I must thinke,
+You know not yet the inwardes of a woman,
+Doe you not know that women <comment type="compiler">SOURCE TEXT: wowen</comment> are like fish,
+VVhich must be strooke when they are prone to bite,
+Or all your labours lost, but sir walke here.
+And Ile informe my Mistris your desires,
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Maister </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> boy. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> come    
+not you for loue, </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> I do boy
+   </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> And you would haue the widdow. </dialogue><nonSpeech> <font>Bo.</font> </nonSpeech><dialogue> I      
+would </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> by <font>Ioue</font> , 
+I neuer saw one goe about his busines
+More vntowardly: why sir, do not you know,
+That he which would be inward with the Mistris
+Must make a way first through the waiting mayde?
+If youle know the widdowes affections
+Feele first the waiting Gentle-woman, do it Maister,
+Some halfe a dozen kisses were not lost,
+Vppon this Gentle-woman, for you must know, 
+These waiting maides are to their mistresses
+Like Porches vnto doores, you passe the one
+Before you can haue entrance at the other.
+Or like your musterd to your peece of brawne,
+If youle haue one tast well you must not skorne
+To be dipping in the other, I tell you Maister
+Tis not a few mens tales which they preferre,
+Vnto their Mistresses in compasse of a yeare,
+Be ruld by me, vntrusse your selfe to her,
+Out with all your loue-sicke thoughtes to her,
+<pagebreak id="D1V" />
+Kisse her and giue her an angell to buy pinnes,
+And this shall sooner winne her Mistris loue,
+Then all your protestations, sighes and teares,
+</dialogue><nonSpeech> <font>Enter Taffata, Adriana.</font> </nonSpeech><dialogue>
+Here they come: to her bouldly Maister,
+Doe, but dally not, thats the widdowes phrase,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Most worthy faire such is the power of loue,
+That now I come t'accept your profered grace:
+And with submissiue thoughtes t'entreat a pardon,
+For my so grosse neglect. </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Thers no offence,
+My mind is changed. </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> I told you as much before,
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> With a hey passe with a repasse.                    
+</dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Deerest of women,
+The constant vertue of your nobler mind,
+Speakes in your lookes: Nor can you entertaine
+Both loue and hate at once. </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Tis all in vaine,
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> You striue against the streame. </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> Fee  
+the waiting maid Maister
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Stand thou propitious, indeere me to my loue
+</dialogue><nonSpeech> <font>Boutcher giues Adriana his purse secretly.</font> </nonSpeech>
+   <nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Deere Mistresse turne to this Gentleman. I protest,
+I haue some feeling of his constant loue,
+Cast him not away; try his loue. </dialogue><nonSpeech> <font>Taf.</font> </nonSpeech><dialogue> Why sir,
+With what audatious front can you intreat
+To inioy my loue, which yet not two howers since,
+You scornefully refus'd. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> Wel fare the waiting maide.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> My fate compeld me but now farewell fond feare,
+My soule, my life, my lands, and reputation,
+Ile hazard all and prize them all beneath thee.
+   </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> which I shall put to triall, lend me thy eare,
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Can you loue boy. </dialogue><nonSpeech> <font>Co</font> </nonSpeech><dialogue> Yes.                
+</dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> what or whom. </dialogue><nonSpeech> <font>Co</font> </nonSpeech><dialogue> My victuals
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> A pretty knaue, ifaith come home to night,
+Shalt haue a posset and candi'd Eringoes,
+A bed if need be to, I loue alife,
+To play with such Babounes as thou. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> indeed?
+But doost thou thinke the widdow will haue my maister.
+   </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> Ile tel thee then, wo't come, </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> I wil. 
+</dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> Remember
+   </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Wil you performe so much. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Or loose 
+my bloud.
+   </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Make him subscribe it, and then I vow,
+By sacred <font>Vestaes</font> euer hallowed fire,
+To take thee to my bed, </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Til then farewell.            
+</dialogue><nonSpeech> <font> <foreign>Exe.</foreign> Taff.</font> </nonSpeech>
+<pagebreak id="D2R" />
+   <nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> Hees worthy loue whose vertues most excell.
+   </dialogue><nonSpeech> <font>Adr.</font> </nonSpeech><dialogue> Remember, what ist a match betwixt you Mistresse?
+   </dialogue><nonSpeech> <font>Taff.</font> </nonSpeech><dialogue> I haue set the foole in hope, h'as vndertooke
+To rid me of that fleshly Captaine <font>Face</font> .
+Which sweares in tauernes and all ordinaries,
+I am his lawfull wife: he shall allay,
+The fury of the Captaine, and I secure,
+Will laugh at the disgrace they both indure. </dialogue><nonSpeech> <font>Ex.</font> </nonSpeech>
+<nonSpeech> <font>Enter Throate and Francis.</font> </nonSpeech>
+   <nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Open your case and I shall soone resolue you.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> But will you doe it truely, </dialogue><nonSpeech> <font>Th.</font> </nonSpeech><dialogue> As I am  
+honest.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> This Gentleman whom I so much affect,
+I scarsly yet doe know, so blind is loue
+In thinges which most concernes it. As y'are honest,
+Tell me his birth, his state, and farthest hopes
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> He is my friend and I will speake him truely.
+He is by birth, sonne to a foolish Knight,
+His present state I thinke wil be the prison,
+And farthest hope to be baild out againe,
+By sale of al your land, </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> O me accurst,
+Has a no credit Lands and Mannors.
+   </dialogue><nonSpeech> <font>Thr,</font> </nonSpeech><dialogue> That lands he has lies in a faire Churchyard,
+And for his manners they are so rude and vile,
+That scarse an honest man wil keepe him company,
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I am abused coosned and deceiued.
+   </dialogue><nonSpeech> <font>Thr</font> </nonSpeech><dialogue> Why thats his occupation: hee will cheate,
+In a cloake lin'd with Veluet, a wil prate
+Faster then fiue Barbers, and a Taylor.
+Ly faster then ten Citty occupiers,
+Or cunning tradsmen: goes a trust
+In euery Tauerne, where has spent a fagot,
+Sweares loue to euery whoore, squires baudes,
+And takes vp houses for them as their husband
+A is a man I loue and haue done much
+To bring him to preferment. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Is there no trust.
+No honnesty in men </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Faith some there is,
+And tis all in the hands of vs Lawyers
+And women: and those women which haue it.
+Keepe their honesty so close, that not one,
+<pagebreak id="D2V" />
+Amongst <comment type="compiler">SOURCE TEXT: A mongst</comment> a hundred is perceiued to haue it.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Good sir, may I not by law forsake him
+And wed another, though my word be past
+To be his wife. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> O questionlesse you may,
+You haue many Presidents and booke-cases for't,
+Nay though you were married by a booke-case,
+Of <font> <foreign>Milesimo sexcentesimo, &amp;c.</foreign> </font> 
+You may forsake your husband, and wed another, 
+Prouided that some fault be in the husband:
+As none of them are cleare. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I am resolu'd,
+I will not wed him, though I beg my bread.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> All that I haue is yours, and were I worthy
+To be your husband. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I thanke you sir,
+I will rather wed a most perfidious Redshanke,
+A noted Iewe, or some Mechanick slaue,
+Then let him ioy my sheets. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> A comes, a comes.
+</dialogue><nonSpeech> <font>Enter W. Smal. Boutcher, T. Smal. Beard.</font> </nonSpeech>
+   <nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Now my Virago, 'tis done, all's cock-sure,
+I haue a Priest will mumble vp a marriage,
+Without bell, booke, or candle, a nimble slaue,
+An honest VVelsh-man that was a Taylor,
+But now is made a Curate. </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Nay y'are fitted.
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Now maister <font>Throte</font> . </dialogue><nonSpeech> <font>T. S.</font> </nonSpeech><dialogue> VVhere's  
+your spirit sister?
+   </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> VVhat all <font> <foreign>amort</foreign> </font> ? whats the matter? do you   
+heere?
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> VVhat's the reason of this melancholly?
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> By heauen I know not. </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> Has the gudgin    
+bit.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> He has beene nibling. </dialogue><nonSpeech>VV. S.</nonSpeech><dialogue> Hold him to it    
+wench,
+And it 'twill hit by heauen: why art so sad?
+Foote wench we will be married to night,
+VVeele sup at th'Myter, and from thence
+My brother and we three will to the Sauoy,
+VVhich done, I tell thee girle, weele hand ore head,
+Goe to't pell mell for a Maiden-head,
+Come yo'are lusty, you wenches are like bells,
+You giue no musick, till you feele the clapper,
+Come <font>Throte</font> a torch, we must be gon. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Seruant.     
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Mistris. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> VVe are vndone.            
+</dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Now <font>Ioue</font> forfend.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> This fellow has no land; and which is worse,
+Hee has no credit. </dialogue><nonSpeech> <font>Bear.</font> </nonSpeech><dialogue> How are we out-stript,
+<pagebreak id="D3R" />
+Blowne vp by wit of man: Let vs be gone
+Home againe, home againe, our market now is done.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> That were too great a scandall.                    
+</dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Most true,
+Better to wed another then to returne
+With scandall and defame: wed me a man
+Whose wealth may reconcile your mothers loue,
+And make the action lawfull. </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> But where's the man?
+I like your councell, could you show the man.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> My selfe am he, might I but dare aspire
+Vnto so high a Fortune. </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Mistrisse, take the man, 
+Shall we be baffled with faire promises,
+Or shall we trudge, like beggers back againe,
+No, take this wise and vertuous man,
+Who should a lose his legges, his armes, his eares,
+His nose, and all his other members,
+Yet if his tongue be left 'twill get his liuing,
+Take me this man. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Thankes gentle maister <font>Beard</font> .
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> 'Tis impossible, this night he meanes to wed mee.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> If not by law, we will with power preuent it,
+So you but giue consent. </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> Lets heere the meanes.
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Ile muster vp my friends, and thus I cast it,
+Whilst they are busie, you and I will hence
+Directly to a Chappell, where a Priest
+Shall knit the nuptiall knot ere they persue vs.
+   </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> O rare inuention, Ile act my part,
+A owes me thirteene pound, I say no more,
+But there be catch-poles: speake ist a match.
+   </dialogue><nonSpeech> <font>Fra.</font> </nonSpeech><dialogue> I giue my liking. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Dash.              
+</dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> Sir. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Get your sword
+And me my buckler, nay you shall know
+We are <font> <foreign>Tam marti quam mercurio</foreign> </font> ,
+Bring my cloake, you shall thether, Ile for friends,
+VVorship and wealth the Lawyers state attends.
+<font>Dash</font> , we must beare some braine, to <font>Saint Iohns streete</font> ,
+Goe runne, flye: and a farre off enquire,
+If that the Lady <font>Somerfield</font> be there,
+If there, know what newes, and meete me straite
+At the Myter doore in Fleet-streete, away,
+&quot;To get rich wiues, men must not vse delay.
+<comment type="compiler">&quot;To get APPEARS AS ,,To get IN SOURCE TEXT.</comment> 
+<pagebreak id="D3V" />
+</dialogue> <head>ACTUS 3. SCAENA I.</head> 
+<nonSpeech> <font>Enter Sir Oliuer Smalshanke, Iustice Tutchin.</font> </nonSpeech>
+   <nonSpeech> <font>Iu Tu.</font> </nonSpeech><dialogue> A hunting Sir <font>Oliuer</font> and drye-foote to,
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> We old men haue our crotchets, our conundrums,
+Our fegares, quirks and quibibles,
+As wel as youth. <font>Iustice Tutchin</font> I goe,
+To hunt no Buck, but prick a lusty Doe,
+I goe in truth a wooing. </dialogue><nonSpeech> <font>I. T.</font> </nonSpeech><dialogue> Then ride with me,
+Ile bring you to my sister <font>Somerfield</font> .
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Iustice not so by her there hangs a Tale.
+   </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> Tha'ts true indeed. </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> She has a   
+daughter.
+   </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> And what of that </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> I likewise     
+haue a sonne,
+A villanous Boy, his father vp and downe,
+What should I say, these Veluet bearded boyes
+will still be doing, say what we old men can.
+   </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> And what of this Sir <font>Oliuer</font> , be plaine,
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> A nimble spirited knaue, the villaine boy,
+Has one tricke of his sier, has got the wench.
+Stolne your rich Sisters heire. </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> <font>Somer-fields</font>    
+heire,
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Has done the deed, has peirst the vessells head,
+And knowes by this the vintage, </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> when should this be,
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> As I am by my counsell well informed,
+This very day, </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> Tut it cannot be,
+Some ten miles hence I saw the maide last night.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue>  Maides may be maides to night and not to morrow.
+Women are free and sell their maiden-heads,
+As men sell cloath by yard and handfull,
+But if you chance to see your Sister widdow,
+Comfort her teares and say her daughters matcht.
+With one that has a knocker to his father,
+An honest Noble Knight. </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> Stand close Knight, close,
+And marke this Captaines humor, his name is <font>Puffe</font> .
+A dreames as a walkes, and thinkes no woman
+</dialogue><nonSpeech> <font>Enter Captaine Puffe.</font> </nonSpeech><dialogue>
+Sees him but is in loue with him. </dialogue><nonSpeech> <font>Pu.</font> </nonSpeech><dialogue> Twere braue,
+If some great Lady through a window spied me,
+And straight should loue me, say she should send,
+5000. pound vnto my Lodging,
+<pagebreak id="D4R" />
+And craue my company: with that mony,
+I would make three seuerall cloakes, and line them
+With black, Crimson, and Tawny three pyl'd veluet,
+I would eate at <font>Chares</font> Ordinary, and dice
+At <font>Antonies</font> : then would I keepe my whore,
+In beaten veluet, and haue two slaues to tend her.
+   </dialogue><nonSpeech> <font>S. Ol.</font> </nonSpeech><dialogue> Ha, ha, ha. </dialogue><nonSpeech> <font>Puf.</font> </nonSpeech><dialogue> What my case of       
+Iustices,
+What are you eaues-dropping, or doe you thinke,
+Your tawny coates with gresie facings here,
+Shall carry it? Sir <font>Oliuer Smal-shankes</font> ,
+Know my name is <font>Puffe</font> , knight, thee haue I sought,
+To fright thee from thy wits. </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> Nay good Sir          
+<font>Puffe</font> ,
+Wee haue too many mad men already.
+   </dialogue><nonSpeech> <font>Puff.</font> </nonSpeech><dialogue> How? I tell thee Iustice <font>Tutchine</font> , not all
+Thy Baylifes, Sergants, busie Constables,
+Defesants, warrants, or thy Mittimusses,
+Shall saue his throte from cutting, if he presume,
+To woe the widdow eclipped <font>Taffata</font> ,
+Shee is my wife by oth. Therefore take heed,
+Let me not catch thee in the widdowes house,
+If I doe, Ile pick thy head vpon my sword,
+And pisse in thy very visnomy, beware, beware.
+Come there no more, a Captains word,
+Flies not so fierce as doth his fatall sword, </dialogue><nonSpeech> <font>Exit Puffe.</font> </nonSpeech>
+   <nonSpeech> <font>S. O.</font> </nonSpeech><dialogue> How like you this, shall we indure this thunder,
+Or goe no further. </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> We will on Sir <font>Oliuer</font> ,
+We will on, let me alone to touchim,
+I wonder how my spirit did forbeare,
+To strike him on the face: had this beene spoke,
+Within my Liberties, had dyed for it.
+</dialogue><nonSpeech> <font>Enter Cap. Puffe.</font> </nonSpeech>
+   <nonSpeech>S. O.</nonSpeech><dialogue> I was about to draw. </dialogue><nonSpeech> <font>Puff.</font> </nonSpeech><dialogue> If you come there,
+Thy beard shall serue to stuffe, those balls by which
+I get me heat at Tenice, </dialogue><nonSpeech> <font>I. Tu.</font> </nonSpeech><dialogue> Is he gon. </dialogue><nonSpeech> <font>Exit       
+Puffe.</font> </nonSpeech><dialogue>
+I would a durst a stood to this awhile,
+Well I shall catch him in a narrow roome,
+Where neither of vs can flinch; If I do,
+Ile make him dance a trenchmoore to my sword.
+Come Ile along with you to the widdow.
+<pagebreak id="D4V" />
+We will not be out-braued, take my word,
+Weele not be wrongd while I can draw a sword. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter Throate and other Gentlemen</font> </nonSpeech>
+   <nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Let the Coach stay at showlane end: be ready,
+Let the boote stand open <comment type="compiler">SOURCE TEXT: opeu</comment> and when she's in:
+Hurry towards Saint <font>Giles</font> in the field,
+As if the Diuell himselfe were waggoner,
+Now for an arme of oake, and heart of steele,
+To beare away the wench, to get a wife,
+A gentlewoman, a maide, nay which is more,
+An honest maide, and which is most of all,
+A ritch and honest maide: <font>O Ioue O Ioue</font> ,
+For a man to wed such a wife as this,
+Is to dwell in the suburbs <comment type="compiler">SOURCE TEXT: surburbs</comment> of Heauen,
+   </dialogue><nonSpeech>1. <font>Gen.</font> </nonSpeech><dialogue> Is she so exquesite. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Sir she is   
+ritch,
+And a great heire </dialogue><nonSpeech>2. <font>Gen.</font> </nonSpeech><dialogue> Tis the more dangerous            
+<comment type="compiler">SOURCE TEXT: daugerous</comment> ,
+   </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Dangerous! Lord where be those gallant sprites!
+The time has beene when scarse an honnest woman,
+Much lesse a wench could passe an Inne of court,
+But some of the fry would haue beene dooing,
+With her: I knew the day when Shreds a Taylor,
+Comming once late by an Inne of Chancerie;
+Was laid along, and mufled in his cloake,
+His wife tooke in, Stycht vp, turnd out againe,
+And he perswaded all was but in iest,
+Tut those braue boyes are, gone, these which are left,
+Are wary lads, liue poring on their bookes,
+And giue their lynnen to their landresses,
+By tayle, they now can saue their purses,
+I knew when euery gallant had his man,
+But now a tweluepeny weekely Landresse,
+Will serue the turne to halfe a dozen of them,
+</dialogue><nonSpeech> <font>Enter Dash.</font> </nonSpeech><dialogue>
+Here comes my man, what newes? </dialogue><nonSpeech> <font>Das.</font> </nonSpeech><dialogue> As you would wish,
+The Lady <font>Somer-field</font> is come to towne.
+Her horses yet are walking, and her men say,
+Her onely daughter, is conuayd away.
+Noe man knowes how: now to it master,
+You and your seruant <font>Dash</font> are made for euer,
+<pagebreak id="E1R" />
+If you but stick to it now. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Gentlemen,
+Now show your selues at full, and not a man,
+But shares a fortune with me if I speed.
+</dialogue><nonSpeech> <font>Enter William Smalshanke Boutcher, Thomas 
+Smalshanke, Francis and Beard with a torch.</font> </nonSpeech>
+   <nonSpeech>1. <font>Gen.</font> </nonSpeech><dialogue> Tut feare not vs, be sure you runne away,
+And weele performe the quarrell. </dialogue><nonSpeech> <font>Thr.</font> </nonSpeech><dialogue> Stand close, they    
+come,
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Art sure he will be here. </dialogue><nonSpeech> <font>Fr.</font> </nonSpeech><dialogue> Most      
+sure. </dialogue><nonSpeech> <font>W. S:</font> </nonSpeech><dialogue> <font>Beard.</font> </dialogue><nonSpeech> <font>B.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Beare vp the torch, and keepe your way apace
+Directly to the Sauoy. </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> Haue you a Licence,
+Looke to that brother before you marry,
+For feare the Parson loose his benifice.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Tut our Curat craues no licence, a sweares
+His liuing came to him by a miracle,
+   </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> How by miracle? </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Why a paid nothing 
+fort,
+A swares that few be free from symony,
+But onely Welchmen, and those a sayes to,
+Are but mountaine Priests. </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> But hang him foole he lyes.
+Whats his reason? </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> His reason is this,
+That all their liuings are so rude and bare,
+That not a man, will venter his damnation
+By giuing mony for them: a does protest,
+There is but two paire of hose and shooes,
+In all his Parish. </dialogue><nonSpeech>1. <font>Gen.</font> </nonSpeech><dialogue> Hold vp your light Sir.
+   </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> Shall I be taught how to aduance my torch,
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Whats the matter Leiftenant.                      
+</dialogue><nonSpeech>2. <font>Gen.</font> </nonSpeech><dialogue> Your Lieftenants an asse.
+   </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> How an asse; die men like dogs. </dialogue><nonSpeech>W. S.</nonSpeech><dialogue> hold     
+gentlemen.
+   </dialogue><nonSpeech> <font>Bea.</font> </nonSpeech><dialogue> An asse, an asse. </dialogue><nonSpeech> <font>Th. S.</font> </nonSpeech><dialogue> Hold brother    
+hold, Lieftenant.
+Put vp as you are men, your wife is gone.
+   </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> Gone, </dialogue><nonSpeech> <font>Bou.</font> </nonSpeech><dialogue> Gone. </dialogue><nonSpeech> <font>W. S.</font> </nonSpeech><dialogue> How,   
+which way? this is some plot
+   </dialogue><nonSpeech> <font>T. S.</font> </nonSpeech><dialogue> Downe toward Fleete bridge. </dialogue><nonSpeech> <font>All.</font> </nonSpeech><dialogue>        
+Follow, follow, follow. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech>1. <font>Gen.</font> </nonSpeech><dialogue> So has the wench, let vs persue a loofe,
+And see the euent, this will prooue good mirth,
+When things vnshapde shall haue a perfit birth. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

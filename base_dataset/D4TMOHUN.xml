@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4TMOHUN">
+  <dialogueHeader>
+
+    <filename>D4TMOHUN</filename>
+
+    <identifier>4 TRIAL D4TMOHUN</identifier>
+
+    <title>CHARLES LORD MOHUN</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1692/1693</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL OF CHARLES LORD MOHUN, BEFORE THE HOUSE OF PEERS IN
+PARLIAMENT, FOR THE MURDER OF WILLIAM MOUNTFORD; WHICH BEGAN THE 31 OF
+JANUARY 1692. AND CONTINUED BY SEVERAL ADJOURNMENTS TILL THE FOURTH OF
+FEBRUARY FOLLOWING; THE MOST HONOURABLE THE LORD MARQUISS OF 
+CARMARTHEN, LORD PRESIDENT OF THEIR MAJESTIES COUNCIL, BEING LORD HIGH
+STEWARD PRO HAC VICE. 
+(...) 
+PUBLISHED BY COMMAND OF THE HOUSE OF PEERS. 
+PRINTED BY EDWARD JONES IN THE SAVOY; AND PUBLISHED BY HIM AND RANDAL 
+TAYLOR NEAR STATIONERS-HALL. 
+MDCXCIII.
+PP. 11.65 - 24.32
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SQUARE BRACKETS USED FOR PARENTHETICAL COMMENTS BY NARRATOR ARE 
+RENDERED AS ROUND BRACKETS.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS SOME VARIATION IN USE OF ITALICS FOR WORDS SUCH AS 
+&quot;Mr.&quot; AND &quot;Mrs.&quot;.</comment>
+
+<comment type="compiler">THE OCCASIONAL USE OF ITALICS FOR THE PRONOUN &quot;I&quot;, AND FOR SINGLE 
+LETTERS WITHIN A WORD (FOR EXAMPLE IN THE WORDS &quot;Mr.&quot; AND &quot;Mrs.&quot;), IS 
+NOT REPRODUCED.</comment>
+
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Pray call your Witnesses together, and   
+let me know who you begin with.
+<pagebreak id="12" />   
+   </dialogue><nonSpeech> <font>M. At. Gen.</font> </nonSpeech><dialogue> My Lords, We do not know what Place is      
+designed for the Witnesses; but if they 
+are to be on the other side, and this Croud do interpose between us  
+and them, it will be
+impossible for us, who are the King's Council, to hear what they     
+say, or know how to proceed.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> There must be Room made there for    
+the Witnesses; where are your
+Witnesses Mr. <font>Attorney</font> ?
+   </dialogue><nonSpeech> <font>Clark of the Crown,</font> </nonSpeech><dialogue> If you please to name them Sir, we  
+will call them.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Call Mr. <font>John Hudson</font> , and Mr. 
+<font>George Powel</font> .
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> I know not how this is ordered, but  
+way must be made there by the Bar,
+that the Prisoner may see the Witnesses, and they him.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Yes my Lord, by all means.
+   </dialogue><nonSpeech>Mr. <font>Serjeant Tremaine.</font> </nonSpeech><dialogue> If your Lordships please, the     
+Witnesses will be most Conveniently heard,
+if they come and stand here by us. 
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> If your Lordships please, it will  
+not be possible either for my Lord at 
+the Bar, or for us to hear what the Witnesses say: Unless they be    
+brought into this place to 
+stand between us.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> My Lord Great Chamberlain, be        
+pleased to give order for them to be 
+brought in thither.
+</dialogue><nonSpeech>Then the Lord Great Chamberlain went down to the Bar.</nonSpeech>
+   <nonSpeech> <font>Lord Great Chamberlain.</font> </nonSpeech><dialogue> The Witnesses must be brought   
+to this place.
+   </dialogue><nonSpeech>And accordingly, way was made for the Witnesses, as called to   
+stand at the Bar between the
+Prisoner and the Kings Councel.</nonSpeech>
+   <nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Give me the Name of him that you     
+begin with.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> We begin my Lords, with Mr.        
+<font>John Hudson</font> , </dialogue><nonSpeech>who came to the Bar, and 
+one of the Clerks held the Book to him, upon which he laid his Hand.</nonSpeech> 
+   <nonSpeech> <font>Clerk of the Crown.</font> </nonSpeech><dialogue> Hearken to your Oath Sir, the       
+Evidence that you shall give on the behalf of 
+our Sovereign Lord and Lady the King and Queens Majesties, against   
+<font>Charles</font> Lord <font>Mohun</font> the
+Prisoner at the Bar, shall be Truth, the whole Truth, and nothing    
+but the Truth: So help you
+God.       
+</dialogue><nonSpeech>Then he kissed the Book.</nonSpeech> 
+   <nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Mr. <font>Hudson</font> , Do you give my    
+Lords an account what you know of any
+Applications of Courtship made to Mrs. <font>Bracegirdle</font> by Mr.        
+<font>Hill</font> , and what became of it; and what 
+you heard <font>Hill</font> say about her, or about any one else Relating to  
+that matter.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> My Lord, I had the Honour to be invited to      
+Supper with my Lord <font>Mohun</font> , at the
+<font>Rose-Tavern</font> in <font>Covent-Garden</font> , where I found Captain         
+<font>Hill</font> with his Lordship.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> When was this Sir, tell the time.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> This was three Nights before this unfortunate   
+Accident hapned, there I found
+Captain <font>Hill</font> , and we supped together; and after Supper,         
+Captain <font>Hill</font> raised a Discourse of Mrs.
+<font>Bracegirdle</font> and Mr. <font>Mountford</font> ; says He, I should not doubt  
+the Success of my Amour with Mrs.
+<font>Bracegirdle</font> , if I were not obstructed by <font>Mountford</font> , whom I 
+design to be the Death of: This is
+Truth upon my Oath. My Lord <font>Mohun</font> was in the Company; but I      
+cannot say that my Lord
+made any Reply to the thing, or took any notice of it: But this      
+Captain <font>Hill</font> did say, not only
+then, but several times before.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Did he say it at any other time in 
+your Hearing.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> Yes, several times before
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Do you know any thing more of this 
+matter.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> No more, than that my Lord <font>Mohun</font> that very  
+Night that Mr. <font>Mountford</font> was killed,
+and Captain <font>Hill</font> came into the Scene-Room of the Play-House, and 
+my Lord <font>Mohun</font> had Captain, 
+<font>Hills</font> Coat on, and Captain <font>Hill</font> had my Lord <font>Mohuns</font> Coat  
+on, and they changed their Cloaths 
+in the Play-House. I saw them change their Cloaths; but what their   
+Design was, I cannot 
+tell.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> When was that Sir.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> That very Night that the Gentleman that is      
+Dead, Mr. <font>Mountford</font> , was killed.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> You say, that my Lord <font>Mohun</font>    
+was present, when that Discourse of <font>Hill</font> 
+was, about <font>Mounford</font> at the Tavern.
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> Yes, but I cannot say my Lord took any notice   
+of it, for he made no Reply that I heard.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Have you done with this Witness.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Yes, my Lord,
+   </dialogue><nonSpeech> <font>Hudson.</font> </nonSpeech><dialogue> This is all that I know of the matter.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> , have you any     
+thing to say to this Witness.
+   </dialogue><nonSpeech>Lord <font>Mohun.</font> </nonSpeech><dialogue> No my Lord.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Then our next Witnesses Name is    
+<font>George Powell</font> .  
+</dialogue><nonSpeech>Who was Sworn in like manner.</nonSpeech> 
+   <nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Mr. <font>Powell</font> , you have heard    
+the Questions that have been asked, Mr. 
+<font>Hudson</font> , Pray will you make Answers to them; and give my Lords   
+an Account what you know 
+of this matter.
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> May it please Your Lordships, about 5 or 6 days 
+before Mr. <font>Mountford</font> was 
+Wounded, I was in Company with Captain <font>Hill</font> , and he began Mrs.  
+<font>Bracegirdles</font> Health, I told him 
+I would Pledge it. Says he, I am sure there is no Bar between me and 
+Mrs. <font>Bracegirdle</font> , but 
+<font>Mountford</font> ; and I am Resolved to be Revenged on him, one way or  
+another. About 3 Days 
+afterwards I was at Supper with my Lord <font>Mohun</font> and Captain        
+<font>Hill</font> , and another Gentleman, and 
+the same Discourse arose again, and Captain <font>Hill</font> Whispered me in 
+the Ear, says he, I am 
+resolved to have the Blood of <font>Mountford</font> . I told him I did not   
+think it fit for him to speak so 
+behind a Gentleman's back, and to me who was his Friend. I said I    
+would acquaint Mr. 
+<font>Mountford</font> with what he said, and I did not doubt but he would    
+give him the satisfaction of a
+Gentleman for any Injury he did him. I heard no further Discourse at 
+that time, nor do I 
+know more of that matter, till the Night that Mr. <font>Mountford</font> was  
+Wounded, when I saw him 
+lying upon the Parlor Floor, and afterward saw him laid to Bed, and  
+sate up all Night with 
+him, and about four a Clock in the Morning I asked Mr. <font>Mountford</font> 
+how the thing 
+happened. He told me Captain <font>Hill</font> killed him basely; I asked him 
+if his Sword was drawn; 
+Yes, says he, but it was after I had received my Wound, for whilst   
+my Lord <font>Mohun</font> talked to 
+me <font>Hill</font> run me through.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> At that time, when those Words were       
+spoken at Supper, That he designed 
+to be the Death of <font>Mountford</font> , was my Lord present?
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> Yes my Lord <font>Mohun</font> was present, but he was   
+Talking to Colonel <font>Tredenham</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did my Lord <font>Mohun</font> say any thing to    
+what <font>Hill</font> said?
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> I did not hear him make any Answer to it at all.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Do you know any thing else in Relation to 
+this Fact?
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> Nothing else but that Captain <font>Hill</font> did give 
+a Letter to be delivered to Mrs.
+<font>Bracegirdle</font> , but I know not whether it was delivered or not,    
+and he often told me he would Marry
+her with all his Heart.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> You say you had that Discourse with       
+<font>Mountford</font> , when he lay a Dying.
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> It was about four a Clock, and he died about One.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Was there any thing said about my Lord    
+<font>Mohun</font> at that time?
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> Nothing but that my Lord <font>Mohun</font> was Talking  
+to him, whilst the other ran him 
+through.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> If I understand you aright, you say      
+nothing against my Lord <font>Mohun</font> , but 
+his being by one time at Supper when <font>Hill</font> said some Words about  
+<font>Mountford</font> ; and then the 
+other thing you say is what <font>Mountford</font> told you after he was      
+Wounded. That my Lord was 
+Talking to him, when <font>Hill</font> gave him the Wound.
+   </dialogue><nonSpeech> <font>Powell.</font> </nonSpeech><dialogue> Yes, My Lord, That is all that I heard.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Has your Lordship any thing to say to    
+this Witness?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> No, My Lord.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> The next Witness that we shall desire to  
+call is Mrs. <font>Knight</font> . 
+
+</dialogue><nonSpeech>Who was SWORN.</nonSpeech>
+
+   <nonSpeech>Mrs. <font>Knight.</font> </nonSpeech><dialogue> I have nothing to say to my Lord            
+<font>Mohun</font> ; but what I have to say, is to 
+Mr. <font>Hill</font> . About 4 days before Mr. <font>Mountford</font> was Killed, Mr. 
+<font>Hill</font> came to me, and spoke 
+to me about Mrs. <font>Bracegirdle</font> : He told me he was satisfied she   
+hated him, I told him I did 
+not believe she hated any body, or loved any Body: Yes, he said, she 
+did love some body, 
+but he had thought of a way to be even with that Body. Upon the      
+<font>Wednesday</font> Night before 
+Mr. <font>Mountford</font> was killed, he came to me as I was coming out of   
+the Dressing Room; sayeth 
+he, Mrs. <font>Knight</font> let me speak a Word with you, says he, you are   
+very great with Mrs. 
+<font>Bracegirdle</font> , and I desire you to be so kind, as to speak to her 
+for me, and I would beg of you if 
+you would give me leave to give her this Letter from me: No, said I, 
+Mr. <font>Hill</font> , I beg your 
+Pardon; you say she hateth you, and if she hateth you, she will not  
+love any body that 
+speaketh for you; and I am not fond of creating my self Enemies in   
+the House, knowing I have 
+some already. What Enemies, saith Mr. <font>Hill</font> , <font>Mountford</font> do    
+you mean? And then repeating a 
+great Oath, I shall find a way with him speedily.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> A way, with what?
+   </dialogue><nonSpeech>Mrs. <font>Knight.</font> </nonSpeech><dialogue> A way with him speedily, <font>Hill</font> said it   
+of Mr. <font>Mountford</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What do you call this Witness for, Mr.   
+<font>Attorny</font> what use do you make of her
+Evidence against my Lord <font>Mohun</font> ?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> My Lord, the use that we would make of    
+these Witnesses is to give an 
+Account of the whole Fact from the Beginning to the End, <font>Hills</font>   
+Malice, and what was the 
+Occasion of it, his Design in coming there that Night, and what he   
+did, and to leave it to 
+your Lordships, to Judge what influence this will have, how far it   
+will affect my Lord <font>Mohun</font> . 
+The next Witness is Mrs. <font>Sandys</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What is this Womans Name?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Elizabeth Sandys</font> .
+<pagebreak id="14" />
+</dialogue><nonSpeech>She was SWORN.</nonSpeech>
+
+   <nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Sandys</font> , give my Lords an        
+Account, whether you were present with 
+my Lord <font>Mohun</font> and Mr. <font>Hill</font> at the Tavern that day that Mr.    
+<font>Mountford</font> was killed, and what 
+passed there.
+   </dialogue><nonSpeech> <font>Sandys.</font> </nonSpeech><dialogue> I Dined with my Lord <font>Mohun</font> and Captain      
+<font>Hill</font> , at the <font>Three Tuns</font> in <font>Shandois-street</font> ,
+and there arose a Discourse about Mrs. <font>Bracegirdle</font> and           
+<font>Hill</font> , and my Lord <font>Mohun</font> asked me, 
+if I thought <font>Mountford</font> had lay with her or no. I said I could    
+not tell; presently after says 
+my Lord <font>Mohun</font> , it will cost <font>Hill</font> 50 Guineas this Design.    
+Saith Mr. <font>Hill</font> , if the Villain offers 
+to resist I will Stab him; saith my Lord <font>Mohun</font> , I will stand by 
+my Friend. When this was 
+done, Mr. <font>Hill</font> desired Mr. <font>Brough</font> to borrow a Case of        
+Pistols of Captain <font>Leister</font> , and he 
+said he would not borrow them himself, for he doubted, if he knew of 
+the Design he would 
+not lend them. When that was done, Captain <font>Hill</font> told me he had a 
+Coach and Six Horses 
+in <font>Witch-Street</font> , to seize Mrs. <font>Bracegirdle</font> , and carry her  
+away into the Country; and my 
+Lord <font>Mohun</font> said, he would stand by his Friend: And when my Lord  
+<font>Mohun</font> went away, 
+<font>Hill</font> said to him; my Lord if you be not there by Six a Clock, I  
+am Ruined. Saith my 
+Lord <font>Mohun</font> , upon my Word and Honour I will be at the Play House 
+by Six.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> , have you any thing   
+to say to that Witness?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> Yes, My Lord, I desire to have her asked,     
+whether she is a Maid or a 
+Married Woman.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> You hear the Question, but I do not know 
+what use my Lord will make 
+of it.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> You can easily answer, whether you are    
+Married or Unmarried.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> That Question is very fair; are you a    
+Married Woman, or a single 
+Woman?
+   </dialogue><nonSpeech> <font>Sandys.</font> </nonSpeech><dialogue> I am a single Woman, my Lord.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray Mrs. <font>Sandys</font> Repeat the Words     
+that my Lord <font>Mohun</font> said, when <font>Hill</font> 
+said if the Villain resisted, he would Stab him.
+   </dialogue><nonSpeech> <font>Sandys.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> said nothing in the World,    
+but that he would stand by his 
+Friend.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Have you any further Questions, <font>Mr.    
+Attorny</font> to ask this Witness?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> I have nothing more to ask her my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What say you my Lord <font>Mohun</font> ; would   
+you ask her any thing else?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Then withdraw. 
+</dialogue><nonSpeech>Which she did.</nonSpeech>
+   <nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> The next Witness we call is <font>Mr.         
+Rogers</font> .    
+
+</dialogue><nonSpeech>Who was SWORN</nonSpeech>
+
+   <nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What is this Witnesses Name?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> <font>Rogers</font> , my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What is his Christian Name?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> <font>John.</font> If your Lordships please to     
+remember, that the last Witness Mrs. 
+<font>Sandys</font> said, That <font>Mr. Hill</font> desired my Lord <font>Mohun</font> , not   
+to fail of being at the Play-House by Six a 
+Clock, and that he was undone if he did not come; and my Lord        
+promised upon his Word 
+and Honour that he would come: Now we call this Witness to prove,    
+that they met at the
+Play-House according to the Appointment on the 9th of <font>December</font> .
+   </dialogue><nonSpeech> <font>Rogers.</font> </nonSpeech><dialogue> My Lord, All that I know of this matter was,    
+That my Lord <font>Mohun</font> and Captain 
+<font>Hill</font> were at the Play-House that Night, and that which made me   
+take particular Notice of 
+their being then at the Play-House, tho' they had been frequently    
+there before together, was 
+that Captain <font>Hill</font> had my Lord <font>Mohun's</font> Coat on, and my Lord   
+<font>Mohun</font> had Captain <font>Hill's</font>
+Coat on.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did you observe any thing else, when they 
+were at the Play-House?
+   </dialogue><nonSpeech> <font>Rogers.</font> </nonSpeech><dialogue> Nothing but only some Words that passed between 
+Captain <font>Hill</font> and my Lord 
+<font>Mohun</font> , when I went to ask them for the overplus of the mony for 
+coming in, because they 
+came out of the Pit upon the Stage; he said he would not give it me, 
+but if I brought any of 
+our Masters, he would slit their Noses or something to that Effect.
+   </dialogue><nonSpeech> <font>Mr, Att. Gen.</font> </nonSpeech><dialogue> Speak that over again.
+   </dialogue><nonSpeech> <font>Rogers.</font> </nonSpeech><dialogue> I asked them for mony, that they ought to pay   
+more than the rest that were in the
+Pit, because they came upon the Stage, and they would not give it    
+me, but he said if I 
+brought any of our Masters, he would Slit their Noses, or cut their  
+Faces, or to that 
+Effect.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> My Lord, will your Lordship ask him  
+any Questions?
+   </dialogue><nonSpeech>Lord <font>Mohun.</font> </nonSpeech><dialogue> No my Lord.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Call another Witness then.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> My Lords, with your Lordships      
+Favour, the next Witness that we 
+shall call, is the Coach-Man, <font>William Dixon</font> .
+</dialogue><nonSpeech>Who was Sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Mr. <font>Dixon</font> , do you remember    
+the Day when Mr. <font>Mountford</font> was killed?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> Yes Sir.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Pray acquaint my Lords, what       
+Persons you carryed in your Coach that 
+Day, whether you carryed my Lord <font>Mohun</font> and Mr. <font>Hill</font> , and to 
+what place, and where you 
+waited for them.
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> If it please your Lordships, Captain <font>Hill</font>    
+and my Lord <font>Mohun</font> came in a Hackney
+Coach to my Gate, where I live, and I was just a going to set my     
+Coaches into the Street
+for Hyre: They Bargained with me for six Horses, and I was to have   
+thirty Shillings to set
+them down at <font>Totteridge</font> on this side <font>Barnet</font> . I asked them   
+whether they would have me bring
+all the six Horses with the Coach, No they said, a pair would serve  
+to the 
+Play-House, and the other four should stand at the Pounds end. So I  
+went accordingly 
+to the place appointed, over against the <font>Horshooe-Tavern</font> in      
+<font>Drury-Lane</font> , and a 
+Foot-Man came, and Mr. <font>Hill</font> and he bid me drive down lower. So I 
+drove to my 
+Lord of <font>Clares</font> Door, or thereabouts; and there was some          
+Souldiers that would have had me 
+go in, and Smoak and Drink with them: I told them, I did never       
+Smoak, and I did 
+not care for Drinking any thing at that time. With that, my Lord     
+<font>Mohun</font> and Mr. <font>Hill</font> 
+came into the Coach, and as they bid me, I carryed them into         
+<font>Norfolk Street</font> , below 
+the Watch-House that stood there; they bid me turn about, and stand  
+there; and then 
+they went for a little time to the <font>White-Horse Tavern</font> , so I did 
+turn about, and staid as they 
+bid me, and they tarryed a pretty while before they came again, and  
+then they bid me drive 
+back to the place from whence I came, so I Drove into                
+<font>Drury-Lane</font> , and they bid me stop next to 
+my Lord <font>Craven's</font> House, this was about Ten a Clock, and it being 
+so late, I went Home, and 
+sent a Postillion down, to take care of the Coach, so that what      
+passed afterwards, I cannot tell.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> What Day or Night, was all this you  
+speak of?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> Truly my Lord, I cannot tell what Day it was, it 
+was in <font>December</font> , as I take it, the 
+<font>9th.</font> and it was <font>Friday</font> I believe, I do not know justly.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Did you hear of the Death of Mr.     
+<font>Mountford</font> ?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Was it the same Day that you heard   
+Mr. <font>Mountford</font> was killed.
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> No, I did not hear it till the next Morning.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> You say, you went with my Lord     
+<font>Mohun</font> and Mr. <font>Hill</font> into <font>Norfolk Street</font> ,
+and there you stayed for them, whilst they went elsewhere.
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> Yes, I did so.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Do you know to what Houses they    
+went?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> They went to the <font>White-Horse Tavern</font> , to the 
+hithermost House on this side the <font>Strand</font> ,
+and they went below to a Door on this side of a House that is not    
+finished yet.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Did you hear them use any          
+Expressions there.
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> I heard <font>Hill</font> say to my Lord <font>Mohun</font> , I    
+think there is a Man and a Maid talking, it was
+at the Corner House; saith <font>Hill</font> , we are Betrayed, Damme saith   
+he, my Lord, let us go 
+and Thresh him.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> What did they do then?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> I did see them do nothing.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Whither did you carry them from    
+thence?
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> To the place from whence they came, in <font>Drury   
+Lane</font> .
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Will your Lordship say any thing to  
+this man?
+   </dialogue><nonSpeech>Lord <font>Mohun.</font> </nonSpeech><dialogue> I desire he may be asked, whether he had     
+not Orders to go out of Town with 
+us, as soon as Mrs. <font>Bracegirdle</font> was put into the Coach.
+   </dialogue><nonSpeech> <font>Dixon.</font> </nonSpeech><dialogue> If it please you Sir, I had Order thus, that     
+when we were to go out of Town, I
+must Drive down into the <font>Strand</font> , and then round about any way   
+that was readiest and clearest to
+get to the Pound, that Order I had, and no other Order I had.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Who is your next Witness?
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> My Lords, the next Witness we      
+shall call, will give you an Account 
+what was done in <font>Drury Lane</font> , upon their endeavouring to carry   
+her away, and for that we have 
+here Mrs. <font>Bracegirdle</font> her self.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> What is this Gentlewomans Name?
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Mrs. <font>Ann Bracegirdle</font> .
+</dialogue><nonSpeech> <font>Then she was Sworn.</font> </nonSpeech> 
+   <nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Bracegirdle</font> , Pray give my Lords 
+an Account of the whole of your
+Knowledge of the Attempt that was made upon you in <font>Drury-Lane</font> ,  
+and what followed upon it.
+<pagebreak id="16" />   
+   </dialogue><nonSpeech>Mrs. <font>Bracegirdle.</font> </nonSpeech><dialogue> My Lord, I was in <font>Prince's-Street</font>  
+at Supper at Mr. <font>Page's</font> , and at ten a 
+Clock at Night, <font>Mr. Page</font> went Home with me; and coming down      
+<font>Drury Lane</font> , there stood a 
+Coach by my Lord <font>Craven's</font> Door, and the Boot of the Coach was    
+down, and a great many 
+men stood by it; and just as I came to the Place where the Coach     
+stood, two Soldiers came 
+and pulled me from <font>Mr. Page</font> , and four or five more came up to   
+them, and they knocked my 
+Mother down almost, for my Mother and my Brother were with me. My    
+Mother recovered, 
+and came and hung about my Neck, so that they could not get me into  
+the Coach, and <font>Mr. Page</font> 
+went to call Company to rescue me. Then <font>Mr. Hill</font> came with his   
+Sword drawn, and struck at 
+<font>Mr. Page</font> and my Mother; and when they could not get me into the  
+Coach, because Company 
+came in, he said he would see me Home, and he led me by one Hand,    
+and my Mother by the 
+other. And when we came Home, he pulled <font>Mr. Page</font> by the Sleeve,  
+and said, Sir, I would 
+speak with you.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray <font>Mrs. Bracegirdle</font> , did you see   
+any Body in the Coach when they pulled 
+you to it?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> Yes, my Lord <font>Mohun</font> was in the     
+Coach; when they pulled me to the 
+Coach, I saw my Lord <font>Mohun</font> in the Coach. And when we came Home,  
+<font>Hill</font> pulled <font>Mr. Page</font> 
+by the Sleeve, and said he would speak with him. As they led me      
+along <font>Drury Lane</font> , my Lord 
+<font>Mohun</font> came out of the Coach, and followed us, and all the        
+Soldiers followed them, but they 
+were dismissed, and, as I said, when we came to our Lodging, then    
+<font>Hill</font> pulled <font>Mr. Page</font> by the 
+Sleeve, and said, he would speak with him. Saith <font>Mr. Page</font> ,      
+<font>Mr. Hill</font> , another time will do, 
+to Morrow will serve; with that, when I was within Doors,            
+<font>Mr. Page</font> was pulled into the 
+House, and <font>Mr. Hill</font> walked up and down in the Street with his    
+Sword drawn. He had his 
+Sword drawn when he came along with me.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did you observe him to say any thing      
+whilst he was with you?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> As I was going down the Hill, he      
+said, as he led me, he would be 
+revenged.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did he name of whom he would be revenged?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> He did not name of whom then, but     
+when I was in the House, several
+Persons went to the Door, and afterwards <font>Mrs. Brown</font> went to the  
+Door, and spoke to them, and 
+asked them what they staid and walked there for; at last, they said, 
+they staid to be 
+revenged of <font>Mr. Mountford</font> , and then <font>Mrs. Brown</font> came in to   
+me, and told me of it.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Who said that?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. General.</font> </nonSpeech><dialogue> Were my Lord <font>Mohun</font> and            
+<font>Mr. Hill</font> both together when that was said, that 
+they staid to be revenged of <font>Mr. Mountford</font> ?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> Yes they were. And when               
+<font>Mrs. Brown</font> came in and told me, I sent my
+Brother and the Maid, and all the People we could, out of the House  
+to <font>Mrs. Mountford</font> , to desire 
+her to send, if she knew where her Husband was, to tell him of it,   
+and she did. And when 
+they came in a Doors again, I went to the Door, and the Doors were   
+shut, and I listened to 
+hear if they were there still, and my Lord <font>Mohun</font> and             
+<font>Mr. Hill</font> were walking up and down the 
+Street; and by and by, the Watch came up to them, and when the       
+Watch came, they said, 
+Gentlemen, Why do you walk with your Swords drawn? Says my Lord      
+<font>Mohun</font> , I am a Peer 
+of <font>England</font> , touch me if you dare.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Repeat that again, for I could not   
+well hear you: Do you speak of what 
+you heard from <font>Mrs. Brown</font> , or what you observed your self?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> My Lord, I was within Doors, but I    
+was listening at the Door, and heard 
+this my self; they came up to them, and said, Gentlemen, Why do you  
+walk with your Swords 
+drawn?
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> Who asked that Question?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> The Watch; and, says my Lord          
+<font>Mohun</font> , I am a Peer of <font>England</font> , touch 
+me if you dare. Then the Watch left them, and they went away, and a  
+little after, there was 
+a Cry of Murder, and that is all that I know, my Lord.
+   </dialogue><nonSpeech> <font>Lord Mohun.</font> </nonSpeech><dialogue> My Lord, I desire this Witness may be       
+asked, how long after this Passage 
+that she speaketh of, was it that she heard Murder cryed in the      
+Street.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> You hear the Question,               
+<font>Mrs. Bracegirdle</font> , What say you to it?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> My Lord, I believe it was about a     
+quarter of an Hour after, to the best of
+my Memory.
+   </dialogue><nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> What do you mean, a quarter of an    
+Hour after the Watch asked the 
+Question?
+   </dialogue><nonSpeech> <font>Mrs. Bracegirdle.</font> </nonSpeech><dialogue> Yes, my Lord.
+</dialogue><nonSpeech> <font>Then the Earl of</font> Mulgrave <font>stood up</font> .</nonSpeech>
+   <nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> My Lord <font>Mulgrave</font> .
+   </dialogue><nonSpeech> <font>E. of Mulgrave.</font> </nonSpeech><dialogue> My Lord, I desire to ask this Witness a 
+question. If I heard her aright, I think 
+she said, they threaten'd to be Revenged of Mr. <font>Mountford</font> , I    
+desire to know of her, whether my 
+Lord <font>Mohun</font> did threaten him.
+<pagebreak id="17" />
+   </dialogue><nonSpeech>Mrs. <font>Bracegirdle.</font> </nonSpeech><dialogue> I do not know indeed; but when Mrs.    
+<font>Browne</font> asked them what they 
+staid there for? They said to be Revenged of Mr. <font>Mountford</font> . I   
+did not hear them my 
+self, but Mrs. <font>Browne</font> came in and told me so.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Bracegirdle</font> , I think, if I did   
+not mistake, you said, when the Watch 
+came up, they asked them, why their Swords were drawn?
+   </dialogue><nonSpeech>Mrs. <font>Bracegirdle.</font> </nonSpeech><dialogue> Yes, and my Lord <font>Mohun</font> made        
+answer, he was a Peer of <font>England</font> ,
+and bid them touch him if they durst, and they went away.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, the next Witness that we call,    
+shall be Mr. <font>Gawen Page</font> , at 
+whose House Mrs. <font>Bracegirdle</font> Supped that Night.
+
+</dialogue><nonSpeech> <font> (He was Sworn.</font> </nonSpeech>
+
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mr. <font>Page</font> , I suppose you remember the  
+Night, when Mrs. <font>Bracegirdle</font> 
+Supped at your House.
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> I pray give an account of your whole       
+Knowledge about this Matter, 
+What happen'd that Night.
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> About Ten a Clock at Night, on <font>Friday</font> the  
+Ninth of <font>December</font> last, going 
+down <font>Drury-Lane</font> with Mrs. <font>Bracegirdle</font> , whom I Led just      
+against my Lord <font>Craven's</font> House. 
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Pray Sir, speak out, and tell us what    
+time it was.
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> About Ten a Clock at Night, on <font>Friday</font> the  
+Ninth of <font>December</font> last, going 
+down <font>Drury-Lane</font> , and leading Mrs. <font>Bracegirdle</font> , right       
+against my Lord <font>Craven's</font> Door, stood 
+a Coach, where two Soldiers pressed in between me and Mrs.           
+<font>Bracegirdle</font> , and parted us: 
+I asked what that was for? But they took hold of Mrs.                
+<font>Bracegirdle</font> , and immediately they 
+would have forced her into the Coach; Capt. <font>Hill</font> , whom I saw    
+there with his Sword 
+drawn, made several Blows at me.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Who would have forced her into the Coach?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> The Soldiers would.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray go on Sir, what follow'd after that?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> I say, Capt. <font>Hill</font> made several Blows at    
+me, and Cry'd you Villain, Stand. 
+I received several of them upon my Cane, but there was none that     
+hurt me; then I got 
+Help, and they were prevented of carrying Mrs. <font>Bracegirdle</font> away. 
+My Lord <font>Mohun</font> 
+was in the Coach; I saw him in the Coach.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you see any Arms in the Coach?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> I saw no Arms, but I saw a Bundle in the       
+Coach, tho I could not tell 
+what it was; and there was one in the Coach, that I saw was my Lord  
+<font>Mohun</font> . So when 
+we had got Help, we went down the Lane to Convey her home, and Capt. 
+<font>Hill</font> was 
+with us, and my Lord <font>Mohun</font> followed at a distance. Capt.         
+<font>Hill</font> said to the Soldiers, 
+<font>Be gone, I have nothing more to do with you now</font> . When we came   
+to the House and Mrs. 
+<font>Bracegirdle</font> was entring in, Captain <font>Hill</font> pull'd me by the    
+Sleeve, and said he would speak
+with me. Said I, to Night is not a fit time, to Morrow is better,    
+therefore pray stay 
+till to Morrow Morning. But said he, <font>God Damme, you will not go    
+Home to Night</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> You speak so low, that I cannot tell     
+what you say; I did not hear 
+that last that you said.
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> My Lord, I say, when Captain Hill pull'd me by 
+the Sleeve, and said he 
+would speak with me, I told him, that Night was not a fit time, to   
+Morrow would do 
+better: Well, saith he, <font>To Morrow then; but, God Damn me, you will 
+not go out to Night</font> 
+I went in a Doors, and there my Lord <font>Mohun</font> and he staid for an   
+Hour and a half, as I 
+was told; I saw them not my self: But Mrs. <font>Browne</font> came in and    
+said, that they said, 
+they waited to be Revenged.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Whom did they mean, your self that they    
+would be Revenged of?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Mrs. <font>Browne</font> said, they waited for          
+Mr. <font>Mountford</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you continue in that House till after  
+the Murder was committed?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Yes Sir, I did.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> How long after you came into the House   
+was the Fact done?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> About an Hour and an half.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Did you your self hear or observe any    
+thing to be said or done, from 
+the time you came into the House, to the time the Fact was committed?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> No, my Lord, I was in the Back Room of the     
+House,
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray, Mr. <font>Page</font> , did you see Mr.       
+<font>Mountford</font> after he was Wounded?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Then give my Lords an account what passed  
+at that Visit.
+<pagebreak id="18" />
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Upon the outcry of Murder, I came out into the 
+Street, where I found 
+my Lord <font>Mohun</font> just Surrendring himself to the Constable; and     
+immediately I went 
+to Mr. <font>Mountford's</font> House, and I found him lying all along in his 
+Blood upon the Floor; 
+he seeing me, desired me to lift him up, which I did, and thinking   
+he had been Dying, I 
+asked him whether he knew me. He said Yes. Said I to him, Had you    
+time to draw your 
+Sword in your Defence? He said, <font>He was barbarously run Through     
+before he could Draw 
+it</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Is this all you have to say, Sir?
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Will your Lordship ask this Witness any  
+Questions?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> My Lord, I desire he may be asked whether my  
+Sword was Drawn when 
+I Surrendred my self to the Constable.
+   </dialogue><nonSpeech>Mr. <font>Page.</font> </nonSpeech><dialogue> No my Lord, your Sword was in the Scabbard     
+when you Surrendred your
+self, but I cannot say that your Sword was Drawn before, or not.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> The next Witness that we desire to call,   
+is Mrs. <font>Page</font> .
+
+</dialogue><nonSpeech> <font> (She was Sworn.</font> </nonSpeech>
+
+   <nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What is the Name of this Witness?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Mary Page</font> . Pray Mrs. <font>Page</font> ,  
+do you remember the Night when 
+Mrs. <font>Bracegirdle</font> Supped at your House, and Mr. <font>Mountford</font> was 
+Killed? Acquaint my 
+Lords with all you did observe that Night.
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Mrs. <font>Bracegirdle</font> Supped at my Lodging,    
+and my Husband went home with 
+her, and staying something longer than ordinary, I sent my Servant   
+to know what was 
+the reason of it: He brought me word back, that my Husband had like  
+to have been 
+Murdered, and Mrs. <font>Bracegirdle</font> carried away. With that I went    
+down my self towards 
+Mrs. <font>Bracegirdle's</font> Lodgings, and there I found my Lord <font>Mohun</font> 
+and Mr. <font>Hill</font> walking, 
+Mr. <font>Hill</font> with his Sword Drawn before Mrs. <font>Bracegirdle's</font>      
+Door; my Lord <font>Mohun's</font> not. 
+So I went in, into the House; and after I had staid a while there,   
+Mrs. <font>Browne</font> came out 
+to them, and asked them why they Staid there? They made answer, they 
+staid for Mr. 
+<font>Mountford</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Who made that Answer?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Who was with Mr. <font>Hill</font> at that time?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Was there any body besides those two, that 
+you observed?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> No, there was no body else that I saw.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were their Swords Drawn?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Mr. <font>Hill's</font> then was, my Lord <font>Mohun's</font>  
+at that present was not: But Mrs.
+<font>Bracegirdle</font> hearing that they waited for Mr. <font>Mountford</font> ,     
+desired me to go over to Mrs. 
+<font>Mountford's</font> House, and speak to her to send to her Husband, and  
+desire him to keep 
+where he was, or come home with a good Guard, whilst I was telling   
+Mrs. <font>Mountford</font> 
+what I was desired to tell her -- But I should have told your        
+Lordships, that when 
+I came out to go to Mrs. <font>Mountford</font> , my Lord <font>Mohun</font> had then  
+his Sword Drawn.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were they there when you went out of Mrs.  
+<font>Bracegirdle's</font>
+Lodgings?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Yes, they were.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> And are you sure, that at that time when  
+you went out of Mrs. 
+<font>Bracegirdle's</font> House, my Lord <font>Mohun</font> had his Sword Drawn?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> I am sure of it, that when I went out, my     
+Lord <font>Mohun</font> had then his Sword 
+Drawn; that was the Second time.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Out of whose House was that you went?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Out of Mrs. <font>Bracegirdle's</font> Lodgings.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Where were they when you saw his Sword   
+Drawn?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> They were walking before Mrs.                 
+<font>Bracegirdle's</font> Door, from one end of the 
+Street <comment type="compiler">SOURCE TEXT: Srreet</comment> to the other.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What Street is that?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Howard-Street.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray describe to my Lords that Street.
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> They that stand in that Street, can see who   
+goeth down to Mr. <font>Mountford's</font>
+House, and who goeth up <font>Surry-Street</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Well now go on.
+<pagebreak id="19" />
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Whilst I was desiring Mrs. <font>Mountford</font> to   
+send away to her Husband, I heard
+Murder cry'd out; immediately I open'd Mr. <font>Mountford's</font> Door, and 
+he came in, and 
+fell with his Arms round about my Neck to support himself, I         
+suppose, and he said, 
+<font>Hill</font> had Murder'd him. I helped him as far as the Parlor Door,   
+and there down he 
+fell. I went up the Street and called out <font>Murder</font> , and my Lord   
+<font>Mohun</font> came to me,
+and bid me take notice, he had no hand in the Murder, for his Sword  
+was not Drawn. 
+I told him, I could not tell that, for to my knowledge he had been   
+in Mr. <font>Hill's</font>
+Company with his naked Sword just before.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Call Mrs. <font>Browne</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> You have nothing so say to that Witness  
+my Lord, have you?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Is this all you have to say, Mrs. <font>Page</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> After this, my Lord <font>Mohun</font> resign'd        
+himself up to the Constable, the 
+Constable standing by me, I bid him Secure my Lord <font>Mohun</font> , which 
+he did.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> My Lord, I desire to ask this Witness,        
+whether I Surrendred my self, or 
+made Opposition, or offered to run away?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> No my Lord, the Constable laid hold on you.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What Answer do you make to my Lord's     
+Question?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> I say, my Lord, the Constable laid hold upon  
+my Lord <font>Mohun</font> .
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire to ask her, whether I did not        
+Surrender my self?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> Not till I had desired the Constable to       
+Secure your Lordship.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> Did I make any Opposition, or offer to run    
+away?
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> No, for the Constable presently took hold of  
+your Lordship.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire she may be asked whether <font>Hill</font>    
+Run away.
+   </dialogue><nonSpeech>Mrs. <font>Page.</font> </nonSpeech><dialogue> That I know not; I suppose he was gone away   
+out of the Street before 
+I came forth.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Swear Mrs. <font>Browne</font> . </dialogue><nonSpeech>Which was done.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Browne</font> , you are upon your Oath,  
+pray declare to my Lords 
+what you know happen'd upon that Night that Mr. <font>Mountford</font> was    
+Killed.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> If it please your Lordships, when Mrs.      
+<font>Bracegirdle</font> came Home, I found 
+her Crying? I asked her what was the matter? She said, my Lord       
+<font>Mohun</font> , and Mr. 
+<font>Hill</font> , had run her into a Coach, with six or seven Soldiers, and 
+lifted her into the 
+Coach, and she said they were at the Door. Upon which, I went to the 
+Door, and 
+saw my Lord <font>Mohun</font> and Mr. <font>Hill</font> walking along. Said I, are    
+you the Gentlemen 
+that have used Mrs. <font>Bracegirdle</font> in this manner? My Lord          
+<font>Mohun</font> answered, Madam,
+said he, <font>I Protected her; if it had not been for me, the Rabble    
+would have torn her a 
+pieces; for if we had had a mind to carry her away, we had six or    
+seven Pistols Charged 
+in the Coach, and could easily have suppressed the Tumult</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> I do not hear what this Witness saith,   
+she speaketh so low.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> said, they had Six or     
+Seven Pistols in the Coach, and 
+could easily have suppressed the Rabble, if they would have carried  
+her away; but 
+he had no Design upon her for his own part, but only to serve his    
+Friend; and that 
+Mr. <font>Hill's</font> design was to take her out of Town, and keep her a    
+Week, and see if he 
+could perswade her to Marry him; and saith Mr. <font>Hill</font> , <font>I shall  
+light on this</font> Mountford. 
+Why, said I to him, What hurt hath Mr. <font>Mountford</font> done you? Saith 
+he, <font>I have been 
+Abused, and I will be Revenged</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> That was <font>Hill</font> that said so.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> Yes. So I went and told Mrs. <font>Mountford</font>  
+of it.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray acquaint my Lords what my Lord        
+<font>Mohun</font> said to you about 
+this Matter.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> said, he protected her,   
+for if it had not been for 
+him, the <font>Mob</font> had torn her in pieces; but if they had had a mind  
+to carry her off, 
+they could easily have suppressed the <font>Mob</font> , for they had six or  
+seven Pistols in the 
+Coach: But saith my Lord, <font>I had no design upon her my self, but    
+only to serve my 
+Friend</font> . So saith Mr. <font>Hill</font> , <font>I shall light upon this         
+Mountford</font> . Why, said I, what hurt 
+hath Mr. <font>Mountford</font> done you? Saith he, <font>I have been Abused, and 
+I will have my Revenge</font> . 
+So I went and told Mrs. <font>Mountford</font> of it. About half an Hour      
+after, or more, <font>Mr.
+Mountford</font> came down, and when he came down, I saw him a little     
+before he came 
+to them, and went to him, and would fain have spoke to him, but he   
+would not 
+stay to let me speak what I had to say to him, but going on,         
+presently he met my 
+Lord <font>Mohun</font> . Saith he, <font>Your Humble Servant, my Lord</font> . Saith  
+my Lord again, <font>Your Servant</font> 
+Mr. Mountford. Saith my Lord, <font>I have a great Respect for you</font> ,   
+Mr. Mountford, <font>and would
+have no Difference between us; but there is a thing fallen out       
+between Mr.</font> Hill <font>and Mrs.</font>  
+<pagebreak id="20" />
+Bracegirdle. Saith Mr. <font>Mountford</font> , <font>My Lord, has my Wife        
+disobliged your Lordship? if she has, 
+she shall ask your Pardon; but as for</font> Mrs. Bracegirdle, <font>she is   
+no concern of mine; and I hope your 
+Lordship will not vindicate such an ill Man as</font> Mr. Hill <font>in such  
+a matter as this. Upon that I 
+heard</font> Mr. Hill <font>bid</font> Mr. Mountford <font>draw</font> , Mr. Mountford      
+<font>said, that I will; and drew his 
+Sword; but whether he received his Wound before he drew his Sword,   
+or after, I cannot tell</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Speak that last again.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> Mr. <font>Mountford</font> and my Lord met; saith    
+Mr. <font>Mountford</font> , your Servant, my 
+Lord; saith my Lord, Your Servant, Mr. <font>Mountford</font> , I have a      
+great respect for you, 
+and would have no difference be between us; but here has been a      
+thing fallen out 
+between Mrs. <font>Bracegirdle</font> and Mr. <font>Hill</font> ; saith Mr.            
+<font>Mountford</font> presently again, Has my 
+Wife disobliged your Lordship? If she has, she shall ask your        
+Pardon. But Mrs. 
+<font>Bracegirdle</font> is no concern of mine: I know nothing of this        
+matter, I come here by accident.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Who said they came there by accident?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> Mr. <font>Mountford</font> said, I know nothing of   
+this matter, I come here by 
+accident. But, I hope, your Lordship will not vindicate <font>Hill</font> in  
+such Actions as 
+these are: Upon that, I heard Mr. <font>Hill</font> bid Mr. <font>Mountford</font>     
+draw, Mr. <font>Mountford</font> said 
+he would, and drew his Sword; but whether he receiv'd his Wound      
+before or after, I
+cannot tell; it was in the Night.
+</dialogue><nonSpeech>Then the Lord <font>Godolphin</font> stood up.</nonSpeech>
+   <nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> My Lord <font>Godolphin</font> .
+   </dialogue><nonSpeech> <font>L. Godolphin.</font> </nonSpeech><dialogue> My Lord <font>Steward</font> , I desire this       
+Witness may be asked, whether my 
+Lord <font>Mohun's</font> Sword was drawn when he talked with <font>Mountford</font> , 
+because the Council 
+opened it before, that the Watch came to them, and saw them with     
+their Swords drawn 
+when they were walking in the Street.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Mrs. you heard my Lord's Question: Was   
+my Lord <font>Mohun's</font> Sword 
+drawn whilst he talked with <font>Mountford</font> , or no?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> I do not remember I did see my Lord         
+<font>Mohun's</font> Sword drawn.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were they near together?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> They were near together.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire she may be asked whether I went up   
+the Street to meet Mr. 
+<font>Mountford</font> , or he came down to me?
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> You heard the Question, Mistress, what   
+say you?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> Mr. <font>Mountford</font> came down to him.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire she may be asked whether she did not 
+go to hinder Mr. <font>Mountford</font> 
+from coming that way?
+   </dialogue><nonSpeech>Mrs. <font>Brown</font> </nonSpeech><dialogue> Yes, I did go to speak to him, but he did not 
+hear me speak, or did not 
+hearken to me; I took him by the Hand, and told him I would speak    
+with him, but 
+he did not hear me, but went on.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You did not tell him upon what account you 
+would have spoke with 
+him?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> No, I had not time.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire she may be asked, whether Mr.        
+<font>Mountford's</font> Sword was within his 
+Arm, or by his Side.
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> I believe it was by his Side.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire she may be asked one Question more,  
+whether he could not have 
+went home, without coming to Mr. <font>Hill</font> and me?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> He did come out of his way, his way was not 
+by my House; he did 
+come down the Street towards them.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire your Lordships to take notice, that  
+he came out of his way to me. 
+I desire to aske her: Did he come as if he was going to his own      
+House or yours?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> As if he was coming to mine.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire to ask her, whether I had any hand   
+in killing Mr. <font>Mountford</font> , or 
+went to hold him, or meddled with him?
+   </dialogue><nonSpeech>Mrs. <font>Browne.</font> </nonSpeech><dialogue> Not that I did see.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Have you any more to say to this Witness?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Nor your Lordship?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Then the next Witness we desire to call,   
+is, <font>Richard Row</font> .
+</dialogue><nonSpeech> <font> (Who was Sworn.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> <font>Richard Row</font> , where do you live?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> In <font>Surry-street</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Where doth he Live saith he?
+<pagebreak id="21" />
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> In <font>Surry-street</font> , my Lord. Pray how    
+near is that to the Place where 
+Mr. <font>Mountford</font> was Killed?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> About ten or twelve Pole.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you observe my Lord <font>Mohun</font> and Mr.  
+<font>Hill</font> that Night, and where 
+were they?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> All that I can say to the matter in that Case is,  
+I was in my own House about 
+a quarter after Ten a Clock, and I heard a noise in the Street, and  
+I went out, and 
+saw two Gentlemen and two Lads about the middle of the Channel; one  
+of the Lads 
+had one of the Gentlemen by the Arm, just by the Channel, and said,  
+<font>Pray my Lord, Good 
+my Lord, don't do it, alter your Resolution</font> . There was an Answer  
+made, that they would 
+be Revenged that Night, or to Morrow.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you know who the Boy was that used that 
+Expression?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> No, my Lord, it was very Dark.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you not know neither who returned the   
+Answer?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> No indeed.
+   </dialogue><nonSpeech>M. <font>Att. Gen.</font> </nonSpeech><dialogue> But you are sure you heard those words pass?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> Yes indeed, and I went to the Door afterwards,     
+whilst they went to the 
+upper end of the Street and returned again; and I saw Captain        
+<font>Hill's</font> Boy following him. 
+My Lord, I knew Capt. <font>Hill</font> , tho he was not in the Cloaths he    
+formerly used to come 
+to my House in, and the Boy I knew to be his Boy.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were those Persons together that you heard 
+speaking so?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> Yes, all four together, in a Confusion they seemed 
+to be, for they were 
+Pushing to and agen, and the Boy had hold of one of the Gentlemen's  
+Arms when he bid 
+him alter his Resolution.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Repeat those Words again that you heard    
+him say.
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> <font>Pray my Lord, good my Lord, do not do it, alter  
+your Resolution.</font> 
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Has your Lordship any thing to ask this  
+Witness?
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> I spoke of this same afterwards, and so they have  
+brought me here to give 
+Evidence: That is all that I can say. I cannot Swear to my Lord      
+<font>Mohun</font> , that he was 
+one, I do not know that ever I saw him to my knowledge in my Life.
+   </dialogue><nonSpeech> <font>E. of Mulgrave.</font> </nonSpeech><dialogue> My Lord Steward, I desire he may be     
+asked, whether he knoweth 
+who that Boy was that made that Answer.
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> There was no answer made by any Boy, but begging   
+and praying, <font>That my 
+Lord would not do it</font> .
+   </dialogue><nonSpeech>E. of <font>Mulgrave.</font> </nonSpeech><dialogue> Do you know who that Boy was?
+   </dialogue><nonSpeech> <font>Row.</font> </nonSpeech><dialogue> No, I do not know what Boy it was. But when I      
+heard Mr. <font>Mountford</font> was 
+Killed, and my Lord <font>Mohun</font> was concerned, I told what I had       
+heard and seen, and so 
+they bring me here to Evidence it. That is all I can say to the      
+matter.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, we desire next to call some of    
+the Watch, and shall begin 
+with <font>Merry</font> .   
+</dialogue><nonSpeech> <font> (Who was Sworn.</font> </nonSpeech>
+   <nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> What is his Name?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> <font>William Merry</font> . Mr. <font>Merry</font> , I      
+think you are Beadle of the Parish.
+   </dialogue><nonSpeech> <font>Merry.</font> </nonSpeech><dialogue> Yes, I am.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray acquaint my Lords what you observed   
+that Night Mr. <font>Mountford</font> 
+was Killed, when you saw my Lord <font>Mohun</font> and Mr. <font>Hill</font> , the    
+first time and the second 
+time, when my Lord <font>Mohun</font> was Taken.
+   </dialogue><nonSpeech> <font>Merry.</font> </nonSpeech><dialogue> When I first came down the Street, walking the   
+Rounds between Eleven and 
+Twelve a Clock, as I turned at the Corner out of <font>Surry-street</font>    
+into <font>Howard-street</font> , I saw my 
+Lord <font>Mohun</font> and Capt. <font>Hill</font> Walking, that is, upon the Paved   
+Stones; my Lord was 
+walking towards me, and I asked, Who comes there? Saith my Lord, a   
+Friend. Said 
+I, What is the meaning of your Swords being Drawn? Return your       
+Swords, and 
+stand off. With that, he returned his Sword immediately. Saith he,   
+<font>I am a Peer of the 
+Land; here, will you have my Sword</font> ? and he profered me his Sword; 
+but the 
+Constable was not there then, and I did not take his Sword; but,     
+said I, God Bless your 
+Honor my Lord, I know not what you are, but I hope you are doing no  
+harm; No, 
+saith he. With that, the Constable came immediately, and he profered 
+the same to 
+him; there were two Candles in some Maids, or Womans hands at a Door 
+hard by, and 
+I went to ask them if they knew the meaning of it; and there being a 
+Neighbours Man 
+leaning with a Bottle and a Glass against the Wall, whom I knew. I   
+think they told 
+me one of them had a Sweet-heart there; and my Lord said, he was     
+drinking a Lady's 
+Health, and as soon as his Bottle was out, he would be gone. That is 
+all I heard of the 
+matter.
+<pagebreak id="22" />
+   </dialogue><nonSpeech>M. <font>Att. Gen.</font> </nonSpeech><dialogue> Was Mr. <font>Hill</font> there?
+   </dialogue><nonSpeech> <font>Merry.</font> </nonSpeech><dialogue> Yes, he was.
+   </dialogue><nonSpeech>M. <font>Att. Gen.</font> </nonSpeech><dialogue> Was his Sword Drawn?
+   </dialogue><nonSpeech> <font>Merry.</font> </nonSpeech><dialogue> Yes, his Sword was drawn, and I asked what made  
+that Gentleman with 
+his Sword Drawn? and my Lord <font>Mohun</font> said, he had lost his         
+Scabbard; but seeing this 
+Neighbour's Man stand there, I went to the House.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were both their Swords drawn at first?
+   </dialogue><nonSpeech> <font>Merry</font> </nonSpeech><dialogue> Both their Swords were Drawn when I came first    
+into the Street; but my 
+Lord put up his Sword, and the other continued Drawn, by reason as   
+they said, he 
+had lost his Scabbard. And so seeing, as I said, my Neighbour's Man  
+standing there, 
+we went to that House to enquire if they knew what their Business    
+was; we were not 
+got into the House, I am sure not a Stone's cast within the House,   
+but Murder was
+cry'd out, and we came back again, and my Master being nimbler of    
+Foot than I, 
+because he was a younger Man, came first into the Place, and Seized  
+My Lord before 
+I came; how the Seizing was I do not know.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Our next Witness is <font>Thomas Fennell</font> .
+
+</dialogue><nonSpeech> <font>Who was Sworn.</font> </nonSpeech>
+
+   <nonSpeech>M. <font>Att. Gen.</font> </nonSpeech><dialogue> <font>Fennel</font> , you was one of the Watch that  
+night when Mr. <font>Mountford</font> was 
+Killed.
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Give my Lords an account what you observed 
+that Night, in relation 
+to my Lord <font>Mohun</font> and Mr. <font>Hill</font> .
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> The Constable and his Watch going the Rounds,   
+divided themselves into 
+two parts; I went down <font>Surry-Street</font> with one Party; the          
+Constable he went down 
+<font>Strand-Lane</font> with the other Party. We were four or five that came 
+down <font>Surry-Street</font> , and 
+when we came down, my Lord <font>Mohun</font> and Capt. <font>Hill's</font> Swords     
+were both Drawn; 
+my Lord <font>Mohun</font> put up his Sword just as we came down.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Speak out Man, that my Lords may all     
+hear you.
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> I say, the Constable and his Party went down    
+<font>Strand-Lane</font> , and another 
+Party down <font>Surry-street</font> , four or five of us, and my Lord        
+<font>Mohun</font> and Capt. <font>Hill</font> had both 
+their Swords Drawn: When we came down, my Lord put up his Sword just 
+as we 
+came down, but the Constable not being come, I went and called him.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You say both their Swords were Drawn when  
+you came down.
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> Yes, but my Lord put up his Sword just as we    
+came down.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What time of Night was that?
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> It was between Eleven and Twelve.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How long before the Murder was committed?
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> A quarter of an Hour.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Do you not say, they put up their Swords 
+as soon as you came 
+down?
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> put up his Sword, but         
+<font>Hill</font> said he had never a Scabbard.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you ask them why they had their Swords 
+drawn at that time of 
+Night?
+   </dialogue><nonSpeech> <font>Fennel.</font> </nonSpeech><dialogue> No, I went to call the Constable.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Have you any more to ask of this Witness?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> I have not my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Nor you my Lord?
+   </dialogue><nonSpeech>L. <font>Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech>L. <font>H. Steward.</font> </nonSpeech><dialogue> Pray go on then; whom do you produce next?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Our next Witness is <font>James Bassit</font> 
+</dialogue><nonSpeech> <font>Who was Sworn.</font> </nonSpeech>
+
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Were you one of the Watch that Night Mr.   
+<font>Mountford</font> was Killed?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you see my Lord <font>Mohun</font> and Capt.    
+<font>Hill</font> that Night?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Acquaint my Lords where it was, and in     
+what manner you found 
+them.
+   </dialogue><nonSpeech> <font>Bassit</font> </nonSpeech><dialogue> In <font>Howard-street</font> ; I came along with the     
+Constable, and I walked before 
+them that went down <font>Surry-Street</font> with my Lanthorn, and there was  
+my Lord 
+<font>Mohun</font> with his Sword Drawn, and Capt <font>Hill</font> with his the like: 
+We asked them, what 
+<pagebreak id="23" />
+they did there? They said they were drinking of a Bottle of Wine:    
+<font>Hill</font> said to me,
+you may knock me down if you please: Nay, said I, we never use to    
+knock any 
+Gentlemen down, unless there be occasion; and then we went into      
+<font>Norfolk-street</font> to the 
+Tavern to examine what they were, and what they were doing; and in   
+the mean time 
+the Murder was done.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you not ask them why their Swords were 
+drawn?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What did they say?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> <font>Hill</font> made answer that he had lost his       
+Scabbard.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What said my Lord <font>Mohun</font> ?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> My Lord <font>Mohun</font> had put up his Sword by that  
+time we came up to him: That 
+is all I can say to it.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> If you have nothing more to ask him,     
+call another.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> My Lord, I desire he may be asked whether he  
+came with the Constable 
+when I surrendred my self?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes, and I took hold of your Sleeve, and you    
+shook and quak'd and trembled,
+as if you would tear it to pieces.
+   </dialogue><nonSpeech> <font>L. Mohun.</font> </nonSpeech><dialogue> I desire he may be asked whether my Sword was 
+in the Scabbard when I
+surrendred my self.
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes, it was, he surrendred it.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> That was after the Murder was done.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> With your Lordship's Favour, I desire he   
+may answer my Lord 
+<font>Mohun's</font> first Question again, so as to be heard by your          
+Lordships; What was that you were 
+saying when my Lord surrendred himself?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> I took him by the Arm when he surrendred        
+himself up.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What then?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Then he quaked, and I had him away to the       
+<font>Round-House</font> .
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Hear my Question, you say you took him   
+by the Sleeve, when he 
+surrendred himself; what do you mean by that? is it that he had      
+surrendred himself 
+before you laid hold on him, or afterwards?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> I took hold of his Arm, when he surrendred      
+himself.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> But was it before he surrendred himself  
+to the Constable?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> No, it was afterwards, my Lord; to have him away.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Then you did see him surrender himself   
+to the Constable?
+   </dialogue><nonSpeech> <font>Bassit.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Then call Mr. <font>Charles Knowles</font> : </dialogue><nonSpeech>But  
+he did not appear.</nonSpeech>
+   <nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Whom do you call next, Sir?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lords, we call'd Mr. <font>Charles          
+Knowles</font> ; but they say, he is not 
+come, therefore with your Lordships favour, we will call Mrs.        
+<font>Brewer</font> .
+</dialogue><nonSpeech> <font> (Who was sworn.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Brewer</font> , I think, you live at the 
+next Door to Mrs. <font>Bracegirdles's</font> 
+Lodging?
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> Yes, I do so.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray give my Lords an account what you saw 
+and heard that Night 
+Mr. <font>Mountford</font> was kill'd.
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> I was at Mrs. <font>Bracegirdle's</font> House, and  
+I went to the Door with them; 
+and just as I went to the Door, my Lord <font>Mohun</font> came up to me; and 
+just as he came to 
+the Door, Mr. <font>Mountford</font> came down the Street, and my Lord went   
+to him, and 
+imbraced him, and said, Mr. <font>Mountford</font> , Your humble Servant, I   
+am glad to see you; 
+Who is this said Mr. <font>Mountford</font> , my Lord <font>Mohun</font> ? Yes said my 
+Lord. What 
+makes your Lordship here at this time a night, saith Mr.             
+<font>Mountford</font> ? Saith my Lord 
+again, I suppose Mr. <font>Mountford</font> you was sent for; sent for, for   
+what saith he? You have 
+heard of the business of Mrs. <font>Bracegirdle</font> , I suppose, saith my  
+Lord: No my Lord, saith 
+he, I come by chance.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Who said that?
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> Mr. <font>Mountford</font> , Sir.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Well, go on and speak aloud.
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> My Lord, Mr. <font>Mountford</font> . -- </dialogue><nonSpeech>And there 
+she hesitated, and seemed 
+to be in a Confusion.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> She is not used to such publick            
+Examinations: If your Lordships will 
+please to allow her to begin again, because she is in some           
+Confusion, she will be the 
+better able to give you what account she can of this matter.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Let her recollect her self, and begin    
+again.
+<pagebreak id="24" />
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> When Mr. <font>Mountford</font> came down the        
+Street, I stood at the Door, and 
+my Lord <font>Mohun</font> was come to the Door, and my Lord <font>Mohun</font> went   
+to him and said, 
+Mr. <font>Mountford</font> , <font>your Humble Servant, I am glad to see you</font> ,  
+and Embraced him. Saith Mr. 
+<font>Mountford</font> , <font>Who is this, my Lord</font> Mohun? <font>Yes</font> , saith he,  
+<font>it is. What maketh your Lordship 
+here at this time of night</font> ? saith my Lord <font>Mohun</font> , <font>I suppose 
+you are sent for</font> Mr. Mountford. 
+<font>No indeed</font> , said he, I <font>came by chance</font> . Saith my Lord, <font>You 
+have heard of the Business of Mrs.</font>
+Bracegirdle. With that, after he had said this, Mr. <font>Hill</font> cometh  
+up, and saith, <font>Pray, 
+my Lord, hold your Tongue, this is not a convenient time to          
+discourse this Business</font> , and would 
+have drawn my Lord away. Saith Mr. <font>Mountford</font> , <font>I am very sorry 
+my Lord, to see that 
+your Lordship should assist Capt.</font> Hill <font>in so ill an Action as    
+this; pray, let me desire your Lordship 
+to forbear</font> . Upon this, as soon as he had said so, Mr. <font>Hill</font>    
+came up and struck Mr.
+<font>Mountford</font> a Box on the Ear. Saith Mr. <font>Mountford</font> , <font>Damme,   
+what's that for</font> ? And with 
+that, he whipped out his Sword and made a Pass at him, and I turned  
+about and 
+cry'd out <font>Murder, Murder</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> But you say, you saw <font>Hill</font> draw his     
+Sword, and make a Pass at 
+him.
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> No, his Sword was drawn before; but he      
+immediately after the Box on
+Ear, made a Pass at him, and I turned about and cry'd <font>Murder</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Had  Mr. <font>Mountford</font> his Sword drawn at  
+that time?
+   </dialogue><nonSpeech>Mrs. <font>Brewer,</font> </nonSpeech><dialogue> No, he had not.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Are you sure he had not?
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> Yes, I am sure he had not, for as soon as   
+he struck the Blow, he made
+a Pass at him.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Was my Lord present at that time?
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> He stood just by on the Right-hand.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How near to them?
+   </dialogue><nonSpeech>Mrs. <font>Brewer.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: Mr. <font>Brewer.</font> </comment> They were 
+all close together as well as I could discern.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> My Lord, have you any mind to ask this   
+Witness any Questions?
+   </dialogue><nonSpeech>L. <font>Mohun.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>L. H. Steward.</font> </nonSpeech><dialogue> Have you done with her?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Yes, my Lord. The next Witness we desire   
+to call is Mr. <font>Davenport</font> , the
+Constable.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

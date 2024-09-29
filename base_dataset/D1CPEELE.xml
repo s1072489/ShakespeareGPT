@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1CPEELE">
+  <dialogueHeader>
+
+    <filename>D1CPEELE</filename>
+
+    <identifier>1 COMEDY D1CPEELE</identifier>
+
+    <title>THE OLD WIUES TALE</title>
+
+    <author>PEELE GEORGE</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1595</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">PEELE, GEORGE.</attribution>
+      <frontMatter>THE OLD WIUES TALE. 
+A PLEASANT CONCEITED COMEDIE, PLAYED BY THE QUEENES MAIESTIES PLAYERS. 
+WRITTEN BY G. P. 
+PRINTED AT LONDON BY IOHN DANTER, AND ARE TO BE SOLD BY RAPH HANCOCKE, 
+AND IOHN HARDIE. 
+1595.
+PP. A3R.1 - F3V.16
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A3R" />
+ <head>THE OLD VVIUES TALE.</head> 
+<nonSpeech> <font>Enter Anticke, Frolicke and Fantasticke.</font> </nonSpeech>
+<nonSpeech> <font>Anticke.</font> </nonSpeech><dialogue>
+How nowe fellowe <font>Franticke</font> ,
+what all amort <comment type="compiler">SOURCE TEXT: a mort</comment> ? Doth this
+sadnes become thy madnes? What
+though wee haue lost our way
+in the woodes, yet neuer hang
+the head, as though thou hadst
+no hope to liue till to morrow: for <font>Fantasticke</font>
+and I will warrant thy life to night for twenty in
+the hundred.
+   </dialogue><nonSpeech> <font>Frolicke.</font> </nonSpeech><dialogue> <font>Anticke</font> and <font>Fantasticke</font> , as I am
+frollicke franion, neuer in all my life was I so
+dead slaine. What? to loose our way in the
+woode, without either fire or candle so
+vncomfortable? <foreign>O ca luna! O terra! O maria! O Neptune!</foreign>
+<pagebreak id="A3V" />
+</dialogue><nonSpeech> <font>Fantas.</font> </nonSpeech><dialogue> Why makes thou it so strange, seeing
+Cupid hath led our yong master to the faire
+Lady and she is the only Saint that he hath sworne
+to serue.
+   </dialogue><nonSpeech> <font>Frollicke.</font> </nonSpeech><dialogue> What resteth then but wee
+commit him to his wench, and each of vs take his
+stand vp in a Tree, and sing out our ill fortune
+to the tune of O man in desperation.
+   </dialogue><nonSpeech> <font>Ant.</font> </nonSpeech><dialogue> Desperately spoken fellow Frollicke in
+the darke: but seeing it falles out thus, let vs
+rehearse the old prouerb.
+<comment type="compiler">VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Fan.</font> </nonSpeech><dialogue> Hush a dogge in the wood, or a wooden
+dogge, O comfortable hearing! I had euen as
+liue the Chamberlaine of the white Horse had
+called me vp to bed.
+   </dialogue><nonSpeech> <font>Frol.</font> </nonSpeech><dialogue> Eyther hath his trotting Cur gone out
+of his cyrcuit, or els are we nere some village,
+</dialogue><nonSpeech> <font>Enter a Smith with a Lanthorne &amp; Candle.</font> </nonSpeech><dialogue>
+which should not be farre off, for I perceiue the
+glymring of a Gloworme, a Candle, or a Cats
+eye, my life for a halfe pennie. In the name of
+my own father, be thou Oxe or Alfe that
+appearest, tell vs what thou art.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> What am I? Why I am Clunch the
+Smith, what are you, what make you in my
+<pagebreak id="A4R" />
+territories at this time of the night?
+   </dialogue><nonSpeech> <font>Ant.</font> </nonSpeech><dialogue> What doe we make dost thou aske? why
+we make faces for feare: such as if thy mortall
+eyes could behold, would make thee water the
+long seames of thy side slops, Smith.
+   </dialogue><nonSpeech> <font>Frol.</font> </nonSpeech><dialogue> And in faith Sir vnlesse your hospitalitie
+doe releeue vs, wee are like to wander with a
+sorrowfull hey ho, among the owlets, &amp;
+Hobgoblins of the Forrest: good <font>Vulcan</font> , for Cupids
+sake that hath cousned vs all: befriend vs as
+thou maiest, and commaund vs howsoeuer,
+wheresoeuer, whensoeuer, in whatsoeuer, for
+euer and euer.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> Well Masters it seemes to mee you
+haue lost your waie in the wood: in
+consideration whereof, if you will goe with Clunch to
+his Cottage, you shall haue house roome, and a
+good fire to sit by, althogh we haue no bedding
+to put you in.
+   </dialogue><nonSpeech> <font>All.</font> </nonSpeech><dialogue> O blessed Smith, O bountifull Clunch.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> For your further intertainment, it
+shall be as it may be, so and so,
+</dialogue><nonSpeech> <font>Heare a Dogge barke.</font> </nonSpeech><dialogue>
+Hearke this is Ball my Dogge that bids you all
+welcome in his own language, come take heed
+for stumbling on the threshold, open dore
+Madge take in guests. </dialogue><nonSpeech> <font>Enter old woman.</font> </nonSpeech>
+   <nonSpeech> <font>Ol.</font> </nonSpeech><dialogue> Welcome Clunch &amp; good fellowes al that
+come with my good ma~ for my good mans sake
+<pagebreak id="A4V" />
+come on sit downe here is a peece of cheese &amp;
+a pudding of my owne making.
+   </dialogue><nonSpeech> <font>Anticke:</font> </nonSpeech><dialogue> Thanks Gammer a good example
+for the wiues of our towne.
+   </dialogue><nonSpeech> <font>Frolicke:</font> </nonSpeech><dialogue> Gammer thou and thy good man
+sit louingly together, we come to chat and not
+to eate.
+   </dialogue><nonSpeech> <font>Smith:</font> </nonSpeech><dialogue> Well Masters if you will eate
+nothing take away: Come, what doo we to passe
+away the time? Lay a crab in the fire to rost for
+Lambes-wooll; what shall wee haue a game at
+Trumpe or Ruffe to driue away the time, how
+say you?
+   </dialogue><nonSpeech> <font>Fantasticke:</font> </nonSpeech><dialogue> This Smith leades a life as
+merrie as a King with <font>Madge</font> his wife; Syrrha
+<font>Frolicke</font> , I am sure thou art not without some
+round or other, no doubt but Clunch can beare
+his part.
+   </dialogue><nonSpeech> <font>Frolicke:</font> </nonSpeech><dialogue> Els thinke you mee ill brought vp,
+so set to it when you will. </dialogue><nonSpeech> <font>they sing.</font> </nonSpeech><dialogue>
+<comment type="compiler">SONG OMITTED.</comment>
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Ant:</font> </nonSpeech><dialogue> This sport dooes well: but me thinkes
+Gammer, a merry winters tale would driue
+away the time trimly, come I am sure you are not
+without a score.
+   </dialogue><nonSpeech> <font>Fantast:</font> </nonSpeech><dialogue> I saith Gammer a tale of an howre
+long were as good as an howres sleepe.
+   </dialogue><nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Looke you Gammer, of the Gyant
+and the Kings Daughter, and I know not what,
+I haue seene the day when I was a litle one, you
+might haue drawne mee a mile after you with
+such a discourse.
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> Well, since you be so
+importunate, my good man shall fill the pot and get him
+to bed, they that ply their worke must keepe
+good howres, one of you goe lye with him, he
+is a cleane skind man I tell you, without either
+spauin or windgall, so I am content to driue 
+away the time with an old wiues winters tale.
+   </dialogue><nonSpeech> <font>Fantast:</font> </nonSpeech><dialogue> No better hay in Deuonshire, a my
+word Gammer, Ile be one of your audience.
+   </dialogue><nonSpeech> <font>Frolicke:</font> </nonSpeech><dialogue> And I another thats flat.
+   </dialogue><nonSpeech> <font>Anticke:</font> </nonSpeech><dialogue> Then must I to bed with the good
+man, <font> <foreign>Bona nox</foreign> </font> Gammer, God night <font>Frolicke</font> .
+   </dialogue><nonSpeech> <font>Smith:</font> </nonSpeech><dialogue> Come on my Lad, thou shalt take
+thy vnnaturall rest with me.
+</dialogue><nonSpeech> <font>Exeunt</font> Anticke <font>and the</font> Smith.</nonSpeech>
+   <nonSpeech> <font>Frollicke:</font> </nonSpeech><dialogue> Yet this vantage shall we haue of
+them in the morning, to bee ready at the sight
+thereof extempore.
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>Old wom:</font> </nonSpeech><dialogue> Nowe this bargaine my Masters
+must I make with you, that you will say hum &amp;
+ha to my tale, so shall I know you are awake.
+   </dialogue><nonSpeech> <font>Both:</font> </nonSpeech><dialogue> Content Gammer that will we doo.
+   </dialogue><nonSpeech> <font>Old wom:</font> </nonSpeech><dialogue> Once vppon a time there was a
+King or a Lord, or a Duke that had a faire
+daughter, the fairest that euer was; as white as snowe,
+and as redd as bloud: and once vppon a time his
+daughter was stollen away, and hee sent all his
+men to seeke out his daughter, and hee sent so
+long, that he sent all his men out of his Land.
+   </dialogue><nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Who drest his dinner then?
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> Nay either heare my tale, or
+kisse my taile.
+   </dialogue><nonSpeech> <font>Fan:</font> </nonSpeech><dialogue> Well sed, on with your tale Gammer.
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> O Lord I quite forgot, there
+was a Coniurer, and this Coniurer could doo
+any thing, and hee turned himselfe into a great
+Dragon, and carried the Kinges Daughter away
+in his mouth to a Castle that hee made of stone,
+and there he kept hir I know not how long, till
+at last all the Kinges men went out so long, that
+hir two Brothers went to seeke hir. O I forget:
+she (he I would say) turned a proper yong man
+to a Beare in the night, and a man in the day, and
+keeps by a crosse that parts three seuerall waies,
+&amp; he made this Lady run mad: gods me bones
+who comes here? </dialogue><nonSpeech> <font>Enter the two Brothers.</font> </nonSpeech>
+   <nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Soft Gammer, here some come to tell
+<pagebreak id="B2R" />
+your tale for you.
+   </dialogue><nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> Let them alone, let vs heare what they
+will say.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Vpon these chalkie Cliffs of <font>Albion</font>
+We are ariued now with tedious toile,
+And compassing the wide world round about
+To seeke our sister, to seeke faire <font>Delya</font> forth,
+Yet cannot we so much as heare of hir.
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> O fortune cruell, cruell &amp; vnkind,
+Vnkind in that we cannot find our sister;
+Our sister haples in hir cruell chance:
+Soft who haue we here.
+</dialogue><nonSpeech> <font>Enter Senex at the Crosse stooping to gather.</font> </nonSpeech>
+   <nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Now father God be your speed,
+What doo you gather there?
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Hips and Hawes, and stickes and
+strawes, and thinges that I gather on the ground
+my sonne.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Hips and Hawes, and stickes and
+strawes, why is that all your foode father?
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Yea sonne.
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> Father, here is an Almes pennie
+for mee, and if I speede in that I goe for, I will
+giue thee as good a Gowne of gray as euer thou
+diddest weare.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> And Father here is another almes
+pennie for me, and if I speede in my iourney, I
+will giue thee a Palmers staffe of yuorie, and a
+scallop shell of beaten gold.
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Was shee fayre?
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> I the fairest for white, and the
+purest for redd, as the blood of the Deare, or the
+driuen snow: 
+   </dialogue><nonSpeech> <font>Old m:</font> </nonSpeech><dialogue> Then harke well and marke well, my old spell:
+Be not afraid of euery stranger,
+Start not aside at euery danger:
+Things that seeme are not the same,
+Blow a blast at euery flame:
+For when one flame of fire goes out, 
+Then comes your wishes well about:
+If any aske who told you this good,
+Say the white Beare of Englands wood.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Brother heard you not what the
+old man said: <comment type="compiler">HE REPEATS THE VERSE.</comment>
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> Well if this doo vs any good,
+Wel fare the white Bear of Englands wood. </dialogue><nonSpeech> <font>ex.</font> </nonSpeech>
+   <nonSpeech> <font>Old ma:</font> </nonSpeech><dialogue> Now sit thee here &amp; tel a heauy tale.
+Sad in thy moode, and sober in thy cheere,
+Here sit thee now and to thy selfe relate,
+The hard mishap of thy most wretched state.
+In <font>Thessalie</font> I liu'd in sweete content,
+Vntill that Fortune wrought my ouerthrow;
+<pagebreak id="B3R" />
+For there I wedded was vnto a dame,
+That liu'd in honor, vertue, loue, and fame:
+But <font>Sacrapant</font> that cursed sorcerer,
+Being besotted with my beauteous loue:
+My deerest loue, my true betrothed wife,
+Did seeke the meanes to rid me of my life,
+But worse than this, he with his chanting spels,
+Did turne me straight vnto an vgly Beare;
+And when the sunne doth settle in the west,
+Then I begin to don my vgly hide:
+And all the day I sit, as now you see,
+And speake in riddles all inspirde with rage,
+Seeming an olde and miserable man:
+And yet I am in April of my age.
+</dialogue><nonSpeech> <font>Enter</font> Venelia <font>his Lady mad; and goes in againe</font> .</nonSpeech><dialogue>
+See where <font>Venelya</font> my betrothed loue,
+Runs madding all inrag'd about the woods;
+All by his curssed and inchanting spels.
+</dialogue><nonSpeech> <font>Enter</font> Lampriscus <font>with a pot of Honney</font> .</nonSpeech><dialogue>
+But here comes <font>Lampriscus</font> my discontented
+neighbour. How now neighbour, you looke
+towarde the ground aswell as I, you muse on
+something.
+   </dialogue><nonSpeech> <font>Lamp:</font> </nonSpeech><dialogue> Neighbour on nothing, but on the
+matter I so often mooued to you: if you do any
+thing for charity, helpe me; if for neighborhood
+or brotherhood, helpe me: neuer was one so
+combered as is poore <font>Lampryscus</font> : and to
+begin, I pray receiue this potte of Honny to mend
+<pagebreak id="B3V" />
+your fare.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Thankes neighbor, set it downe,
+Honny is alwaies welcome to the Beare.
+And now neighbour let me heere the cause of
+your comming.
+   </dialogue><nonSpeech> <font>Lampriscus:</font> </nonSpeech><dialogue> I am (as you knowe
+neighbour) a man vnmaried, and liued so vnquietly
+with my two wiues, that I keepe euery yeare
+holy the day wherin I buried the~ both; the first
+was on saint <font>Andrewes</font> day; the other on saint
+<font>Lukes</font> .
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> And now neighbour, you of this
+country say, your custome is out: but on with
+your tale neighbour.
+   </dialogue><nonSpeech> <font>Lamp:</font> </nonSpeech><dialogue> By my first wife, whose tongue
+wearied me aliue, and sounded in my eares like the
+clapper of a great Bell, whose talke was a
+continuall torment to all that dwelt by her, or liued
+nigh her, you haue heard me say I had a
+handsome daughter.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> True neighbour.
+   </dialogue><nonSpeech> <font>Lampr:</font> </nonSpeech><dialogue> Shee it is that afflictes me with her
+continuall clamoures, and hangs on me like a
+Burre: poore shee is, and proude shee is, as
+poore as a sheepe new shorne, and as proude
+of her hopes, as a Peacock of her taile well
+growne.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Well said <font>Lampryscus</font> , you speake
+it like an Englishman.
+<pagebreak id="B4R" />
+   </dialogue><nonSpeech> <font>Lampr:</font> </nonSpeech><dialogue> As curst as a waspe, and as frowarde
+as a childe new taken from the mothers teate,
+shee is to my age, as smoake to the eyes, or as
+vinegar to the teeth.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Holily praised neighbour, as much
+for the next.
+   </dialogue><nonSpeech> <font>Lampr:</font> </nonSpeech><dialogue> By my other wife I had a daughter,
+so hard fauoured, so foule and ill faced, that I
+thinke a groue full of golden trees; and the
+leaues of Rubies and Dyamonds, would not
+bee a dowrie aunswerable to her
+deformitie.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Well neighbour, nowe you haue
+spoke, heere me speake; send them to the Well
+for the water of life: there shall they finde their
+fortunes vnlooked for; Neighbour farewell.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Lampr:</font> </nonSpeech><dialogue> Farewell and a thousand, and now
+goeth poore <font>Lampryscus</font> to put in execution
+this excellent counsell. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Why this goes rounde without a
+fidling stick; but doo you heare Gammer, was this
+the man that was a Beare in the night, and a
+man in the day?
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> I this is hee; and this man that
+came to him was a beggar, and dwelt vppon a
+greene. But soft, who comes here? O these are
+the haruest men; ten to one they sing a song of
+mowing.
+<pagebreak id="B4V" />
+</dialogue><nonSpeech> <font>Enter the haruest men a singing, with this</font>
+Song double repeated.</nonSpeech><dialogue>
+<comment type="compiler">SONG OMITTED.</comment>
+</dialogue><nonSpeech> <foreign>Exeunt.</foreign> </nonSpeech>
+<nonSpeech> <font>Enter</font> Huanebango <font>with his two hand sword,
+and</font> Booby <font>the Clowne</font> .</nonSpeech>
+   <nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> Gammer, what is he?
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> O this is one that is going to the
+coniurer, let him alone, here what he sayes.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Now by <font>Mars</font> and <font>Mercury, Iupiter</font>
+and <font>Ianus, Sol</font> and <font>Saturnus, Venus</font> and <font>Vesta,
+Pallas</font> and <font>Proserpina</font> , and by the honor of my
+house <font>Polimackeroeplacydus</font> , it is a wonder to see
+what this loue will make silly fellowes
+aduenture, euen in the wane of their wits, and infansie
+of their discretion. Alas my friend what fortune
+calles thee foorth to seeke thy fortune among
+brasen gates, inchanted towers, fire and
+Brimstone, thunder and lightning. Beautie I tell thee
+is peerelesse, and she precious whom thou
+affectest: do off these desires good countriman,
+good friend runne away from thy selfe, and so
+soone as thou canst, forget her; whom none
+must inherit but he that can monsters tame,
+labourers atchiue, riddles absolue, loose
+inchantments, murther magicke, and kill coniuring: and
+that is the great and mighty <font>Huanebango</font> .
+<pagebreak id="C1R" />
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> Harke you sir, harke you; First know
+I haue here the flurting feather, and haue giuen
+the Parish the start for the long stocke: Nowe
+sir if it bee no more but running through a little
+lightning and thunder, and riddle me riddle me
+whats this, Ile haue the wench from the
+Coniurer if he were ten Coniurers.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> I haue abandoned the Court and
+honourable company, to doo my deuoyre against
+this sore Sorcerer and mighty Magitian: if this
+Ladie be so faire as she is said to bee, she is mine,
+she is mine. <font> <foreign>Meus, mea, meum, in contemptum
+omnium Grammaticorum.</foreign> </font>
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> <font> <foreign>O falsum Latinum</foreign> </font> ! the faire maide is
+<font> <foreign>minum, cum apurtinantibus gibletes</foreign> </font> and all.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> If shee bee mine, as I assure my selfe
+the heauens will doo somewhat to reward my
+worthines; shee shall bee allied to none of the
+meanest gods; but bee inuested in the most
+famous stocke of <font>Huanebango
+Polimackeroeplacidus</font> , my Grandfather: my father
+<font>Pergopolyneo</font> :
+my mother, <font>Dyonora de Sardynya</font> : famouslie
+descended.
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> Doo you heare sir; had not you a
+Cosen, that was called <font>Gustecerydis</font> ?
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Indeede I had a Cosen, that somtime
+followed the Court infortunately, and his name
+<font>Bustegustecerydis</font> .
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> O Lord I know him well: hee is the
+<pagebreak id="C1V" />
+knight of the neates feete.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> O he lou'd no Capon better, he hath
+oftentimes deceiued his boy of his dinner, that
+was his fault good <font>Bustegustecerydis</font> .
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> Come shall we goe along? Soft, here
+is an olde man at the Crosse, let vs aske him the
+way thither. Ho, you Gaffer, I pray you tell
+where the wise man the Coniurer dwells?
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Where that earthly Goddesse
+keepeth hir abode; the commander of my thougts,
+and faire Mistres of my heart.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Faire inough, and farre inough
+from thy fingering sonne.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> I will followe my Fortune after mine
+owne fancie, and doo according to mine owne
+discretion.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Yet giue some thing to an old man
+before you goe.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Father mee thinkes a peece of this
+Cake might serue your turne.
+   </dialogue><nonSpeech> <font>Old man:</font> </nonSpeech><dialogue> Yea sonne.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> <font>Huanebango</font> <comment type="compiler">SOURCE TEXT: <font>Huanabango</font> </comment>   
+giueth no Cakes for
+Almes, aske of them that giue giftes for poore
+Beggars. Faire Lady, if thou wert once
+shrined in this bosome, I would buckler thee
+haratantara. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> Father doo you see this man, you litle
+thinke heele run a mile or two for such a Cake,
+<pagebreak id="C2R" />
+or passe for a pudding, I tell you father hee has
+kept such a begging of mee for a peece of this
+Cake, whoo he comes vppon me with a
+superfantiall substance, and the foyson of the earth,
+that I know not what he meanes: If hee came
+to me thus, and said, my friend <font>Booby</font> or so, why
+I could spare him a peece with all my heart; but
+when he tells me how God hath enriched mee
+aboue other fellowes with a Cake: why hee
+makes me blinde and deafe at once: Yet father
+heere is a peece of Cake for you as harde as the
+world goes.
+<comment type="compiler">OLD MAN'S PROPHECY IN VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Booby:</font> </nonSpeech><dialogue> Farewell father, farewell; for I must
+make hast after my two hand sword that is gone
+before. </dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+
+<nonSpeech> <font>Enter</font> Sacrapant <font>in his studie</font> .</nonSpeech>
+   <nonSpeech> <font>Sacrapant:</font> </nonSpeech><dialogue> The day is cleare, the Welkin
+bright and gray,
+The Larke is merrie, and records hir notes;
+Each thing reioyseth vnderneath the Skie,
+But onely I whom heauen hath in hate:
+Wretched and miserable <font>Sacrapant</font> ,
+In <font>Thessalie</font> was I borne and brought vp,
+<pagebreak id="C2V" />
+My mother <font>Meroe</font> hight a famous Witch,
+And by hir cunning I of hir did learne,
+To change and alter shapes of mortall men,
+There did I turne my selfe into a Dragon,
+And stole away the Daughter to the King;
+Faire <font>Delya</font> , the Mistres of my heart:
+And brought hir hither to reuiue the man,
+That seemeth yong and pleasant to behold,
+And yet is aged, crooked, weake and numbe.
+Thus by inchaunting spells I doo deceiue,
+Those that behold and looke vpon my face;
+But well may I bid youthfull yeares adue:
+</dialogue><nonSpeech> <font>Enter</font> Delya <font>with a pot in hir hand</font> .</nonSpeech><dialogue>
+See where she coms from whence my sorrows grow,
+How now faire <font>Delya</font> where haue you bin?
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> At the foote of the Rocke for
+running water, and gathering rootes for your 
+dinner sir.
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Ah <font>Delya</font> , fairer art thou than the
+running water, yet harder farre than steele or
+Adamant.
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> Will it please you to sit downe sir.
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> I <font>Delya</font> , sit &amp; aske me what thou wilt,
+thou shalt haue it brought into thy lappe.
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> Then I pray you sir let mee haue the
+best meate from the king of <font>Englands</font> table, and
+the best wine in all <font>France</font> , brought in by the
+veriest knaue in all <font>Spaine</font> .
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> <font>Delya</font> I am glad to see you so pleasant,
+<pagebreak id="C3R" />
+well sit thee downe.
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Spred table spred; meat, drinke &amp; bred
+Euer may I haue, what I euer craue:
+When I am spred, for meate for my black cock,
+And meate for my red.
+</dialogue><nonSpeech> <font>Enter a Frier with a chine of Beefe and
+a pot of wine.</font> </nonSpeech>
+   <nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Heere <font>Delya</font> , will yee fall to.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Is this the best meate in England?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> What is it?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> A chine of English beefe, meate for a king
+And a kings followers.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Is this the best wine in <font>France</font> ?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> What Wine is it?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> A cup of neate wine of <font>Orleance</font> ,
+That neuer came neer the brewers in England.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Is this the veriest knaue in all <font>Spaine</font> ?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> What is he a Fryer?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Yea a Frier indefinit, &amp; a knaue infinit.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Then I pray ye sir Frier tell me before
+you goe, which is the most greediest
+Englishman?
+   </dialogue><nonSpeech> <font>Fryer:</font> </nonSpeech><dialogue> The miserable and most couetous
+Vsurer.
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Holde thee there Friar, </dialogue><nonSpeech> <font>Exit Friar.</font> </nonSpeech><dialogue>
+But soft who haue we heere, <font>Delia</font> away begon.
+<pagebreak id="C3V" />
+</dialogue><nonSpeech> <font>Enter the two Brothers.</font> </nonSpeech><dialogue>
+<font>Delya</font> away, for beset are we,
+But heauen or hell shall rescue her for me.
+   </dialogue><nonSpeech> <font>1. Br.</font> </nonSpeech><dialogue> Brother, was not that <font>Delya</font> did appeare?
+Or was it but her shadow that was here?
+   </dialogue><nonSpeech> <font>2. Bro:</font> </nonSpeech><dialogue> Sister, where art thou? <font>Delya</font> come again
+He calles, that of thy absence doth complaine.
+Call out <font>Calypha</font> that she may heare,
+And crie aloud, for <font>Delya</font> is neere.
+   </dialogue><nonSpeech> <font>Eccho:</font> </nonSpeech><dialogue> Neere.
+   </dialogue><nonSpeech> <font>1. Br:</font> </nonSpeech><dialogue> Neere, O where, hast thou any tidings?
+   </dialogue><nonSpeech> <font>Eccho:</font> </nonSpeech><dialogue> Tidings.
+   </dialogue><nonSpeech> <font>2. Br:</font> </nonSpeech><dialogue> Which way is <font>Delya</font> then, or that, or this?
+   </dialogue><nonSpeech> <font>Eccho:</font> </nonSpeech><dialogue> This.
+   </dialogue><nonSpeech> <font>1. Br:</font> </nonSpeech><dialogue> And may we safely come where <font>Delya</font> is
+   </dialogue><nonSpeech> <font>Eccho:</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>2. Bro:</font> </nonSpeech><dialogue> Brother remember you the white
+Beare of Englands wood:
+Start not a side for euery danger,
+Be not afeard of euery stranger;
+Things that seeme, are not the same.
+   </dialogue><nonSpeech> <font>1. Br:</font> </nonSpeech><dialogue> Brother, why do we not the~ coragiously enter.
+   </dialogue><nonSpeech> <font>2. Br:</font> </nonSpeech><dialogue> Then brother draw thy sword &amp; follow me.
+</dialogue><nonSpeech> <font>Enter the Coniurer; it lightens &amp;
+thunders, the 2. Brother falles downe.</font> </nonSpeech>
+   <nonSpeech> <font>1. Br:</font> </nonSpeech><dialogue> What brother doost thou fall?
+   </dialogue><nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> I, and thou to <font>Calypha</font> .
+</dialogue><nonSpeech> <font>Fall 1. Brother. Enter two furies.</font> </nonSpeech><dialogue>
+<font> <foreign>Adestes Demones</foreign> </font> : away with them,
+<pagebreak id="C4R" />
+Go cary them straight to <font>Sacrapantos</font> cell,
+There in despaire and torture for to dwell;
+These are <font>Thenores</font> sonnes of <font>Thessaly</font> ,
+That come to seeke <font>Delya</font> their sister forth:
+But with a potion, I to her haue giuen,
+My arts hath made her to forget her selfe.
+</dialogue><nonSpeech> <font>He remooues a turfe, and shewes a light in a glasse.</font> </nonSpeech><dialogue>
+See heere the thing which doth prolong my life
+With this inchantment I do any thing.
+And till this fade, my skill shall still endure,
+And neuer none shall breake this little glasse,
+But she that's neither wife, nor widow, nor maide.
+Then cheere thy selfe, this is thy destinie,
+Neuer to die, but by a dead mans hand. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Eumenides <font>the wandring Knight,
+and the old man at the crosse</font> .</nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Tell me Time, tell me iust Time,
+When shall I <font>Delia</font> see?
+When shall I see the loadstar of my life?
+When shall my wandring course end with her sight?
+Or I but view my hope, my hearts delight.
+Father God speede, if you tell fortunes, I pray
+good father tell me mine.
+<comment type="compiler">OLD MAN'S PROPHECY IN VERSE OMITTED.</comment> 
+<pagebreak id="C4V" />
+</dialogue><nonSpeech> <font>Exit Old m.</font> </nonSpeech><dialogue>
+<comment type="compiler">EUMENIDES' VERSE OMITTED. HE MUSES ON THE PROPHECY.</comment>
+</dialogue><nonSpeech> <font>Enter</font> Wiggen, Corobus,
+Churchwarden <font>and</font> Sexten.</nonSpeech>
+   <nonSpeech> <font>VViggen:</font> </nonSpeech><dialogue> You may be ashamed, you
+whorson scald Sexton and Churchwarden, if you had
+any shame in those shamelesse faces of yours, to
+let a poore man lie so long aboue ground
+vnburied. A rot on you all, that haue no more
+compassion of a good fellow when he is gone.
+   </dialogue><nonSpeech> <font>Simon:</font> </nonSpeech><dialogue> What would you haue vs to burie
+him, and to aunswere it our selues to the
+parishe?
+   </dialogue><nonSpeech> <font>Sexton:</font> </nonSpeech><dialogue> Parish me no parishes, pay me my
+fees, and let the rest runne on in the quarters
+accounts, and put it downe for one of your good
+deedes a Gods name, for I am not one that
+curiously stands vpon merits.
+   </dialogue><nonSpeech> <font>Corobus:</font> </nonSpeech><dialogue> You whoreson sodden headed
+sheepes-face, shall a good fellow do lesse seruice
+and more honestie to the parish, &amp; will you not
+when he is dead let him haue Christmas buriall.
+<pagebreak id="D1R" />
+   </dialogue><nonSpeech> <font>VViggen:</font> </nonSpeech><dialogue> Peace <font>Corebus</font> , assure as <font>Iack</font> was
+<font>Iack</font> , the frollickst frannion amongst you, and I
+<font>VViggen</font> his sweete sworne brother, <font>Iack</font> shall
+haue his funerals, or some of them shall lie on
+Gods deare earth for it, thats once.
+   </dialogue><nonSpeech> <font>Churchwa:</font> </nonSpeech><dialogue> <font>VViggen</font> I hope thou wilt do no
+more then thou darst aunswer.
+   </dialogue><nonSpeech> <font>VVig:</font> </nonSpeech><dialogue> Sir, sir, dare or dare not, more or lesse,
+aunswer or not aunswer, do this, or haue this.
+   </dialogue><nonSpeech> <font>Sex:</font> </nonSpeech><dialogue> Helpe, helpe, helpe, VViggen sets vpon
+the parish with a Pike staffe.
+</dialogue><nonSpeech>Eumenides <font>awakes and comes to them</font> .</nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Hould thy hands good fellow.
+   </dialogue><nonSpeech> <font>Core:</font> </nonSpeech><dialogue> Can you blame him sir, if he take <font>Iacks</font>
+part against this shake rotten parish that will not
+burie <font>Iack</font> .
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why what was that <font>Iack</font> ?
+   </dialogue><nonSpeech> <font>Coreb:</font> </nonSpeech><dialogue> Who <font>Iack</font> sir, who our <font>Iack</font> sir? as
+good a fellow as euer troade vppon Neats
+leather.
+   </dialogue><nonSpeech> <font>VViggen:</font> </nonSpeech><dialogue> Looke you sir, he gaue foure score
+and nineteene mourning gownes to the parish
+when he died, and because he would not make
+them vp a full hundred, they would not bury
+him; was not this good dealing?
+   </dialogue><nonSpeech> <font>Churchwar:</font> </nonSpeech><dialogue> Oh Lord sir how he lies, he was
+not worth a halfepenny, and drunke out euery
+penny: and nowe his fellowes, his drunken
+companions, would haue vs to burie him at the
+<pagebreak id="D1V" />
+charge of the parish, and we make many such
+matches, we may pull downe the steeple, sell the
+Belles, and thatche the chauncell: he shall lie
+aboue ground till he daunce a galliard about the
+churchyard for <font>Steeuen Loache</font> .
+   </dialogue><nonSpeech> <font>VViggen:</font> </nonSpeech><dialogue> <font> <foreign>Sic argumentaris domine Loache</foreign> </font> ;
+and we make many such matches, we may pull
+downe the steeple, sell the Belles, and thatche
+the chauncell: in good time sir, and hang your
+selues in the Bell ropes when you haue done,
+<font> <foreign>Domine oponens pratono tibi hanc questionem</foreign> </font> ,
+whether will you haue the ground broken, or
+your pates broken: first, for one of them shall
+be done presently, and to begin mine, ile seale it
+vpon your cockescome.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Hould thy hands, I pray thee good
+fellow be not too hastie.
+   </dialogue><nonSpeech> <font>Coreb:</font> </nonSpeech><dialogue> Your Capons face, we shall haue you
+turnd out of the parish one of these dayes, with
+neuer a tatter to your arse, then you are in worse
+taking then <font>Iack</font> .
+   </dialogue><nonSpeech> <font>Eumen.</font> </nonSpeech><dialogue> Faith and he is bad enough: this
+fellow does but the part of a friend, to seeke to
+burie his friend; how much will burie him?
+   </dialogue><nonSpeech> <font>VViggen:</font> </nonSpeech><dialogue> Faith, about some fifteene or
+sixteene shillings will bestow him honestly.
+   </dialogue><nonSpeech> <font>Sexton:</font> </nonSpeech><dialogue> I euen there abouts sir.
+   </dialogue><nonSpeech> <font>Eumen:</font> </nonSpeech><dialogue> Heere hould it then, and I haue left
+me but one poore three halfe pence; now do I
+<pagebreak id="D2R" />
+remember the wordes the old man spake at the
+crosse; bestowe all thou hast, and this is all, till
+dead mens bones comes at thy call, heare holde
+it, and so farewell.
+   </dialogue><nonSpeech> <font>VVig:</font> </nonSpeech><dialogue> God, and all good, bee with you sir;
+naie you cormorants, ile bestowe one peale of
+<font>Iack</font> at mine owne proper costs and charges.
+   </dialogue><nonSpeech> <font>Coreb:</font> </nonSpeech><dialogue> You may thanke God the long staffe
+and the bilbowe blade, crost not your
+cockescombe; well weele to the church stile, and haue 
+a pot, and so tryll lyll.
+   </dialogue><nonSpeech> <font>Both:</font> </nonSpeech><dialogue> Come lets go. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> But harke you gammer, me thinkes
+this <font>Iack</font> bore a great sway in the parish.
+   </dialogue><nonSpeech> <font>Old woman:</font> </nonSpeech><dialogue> O this <font>Iack</font> was a maruelous
+fellow, he was but a poore man, but very well
+beloued: you shall see anon what this <font>Iack</font> will
+come to.
+</dialogue><nonSpeech> <font>Enter the haruest men singing, with
+women in their hands.</font> </nonSpeech>
+   <nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Soft, who haue wee heere? our
+amorous haruest starres.
+   </dialogue><nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> I, I, let vs sit still and let them alone.
+</dialogue><nonSpeech> <font>Heere they begin to sing, the
+song doubled.</font> </nonSpeech><dialogue>
+<comment type="compiler">SONG OMITTED.</comment>
+</dialogue><nonSpeech> <font>Exit</font> the haruest me~.</nonSpeech>
+<pagebreak id="D2V" />
+<nonSpeech> <font>Enter</font> Huanebango, <font>and</font> Corebus <font>the clowne</font> .</nonSpeech>
+   <nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Soft, who haue we here?
+   </dialogue><nonSpeech> <font>Old w:</font> </nonSpeech><dialogue> O this is a cholerick gentleman, all
+you that loue your liues, keepe out of the smell
+of his two hand sworde: nowe goes he to the
+coniurer.
+   </dialogue><nonSpeech> <font>Fan:</font> </nonSpeech><dialogue> Me thinkes the Coniurer should put
+the foole into a Iugling boxe.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Fee, fa, fum, here is the Englishman,
+Conquer him that can, came for his lady bright,
+To prooue himselfe a knight,
+And win her loue in fight.
+   </dialogue><nonSpeech> <font>Cor:</font> </nonSpeech><dialogue> Who hawe maister <font>Bango</font> are you here?
+heare you, you had best sit downe heere, and
+beg an almes with me.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Hence base cullion, heere is he that
+commaundeth ingresse and egresse with his
+weapon, and will enter at his voluntary
+whosoeuer saith no.
+</dialogue><nonSpeech> <font>A voice and flame of fire</font> : Huanebango
+<font>falleth downe</font> .</nonSpeech>
+   <nonSpeech> <font>Voice:</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Old w:</font> </nonSpeech><dialogue> So with that they kist, and spoiled the
+edge of as good a two hand sword, as euer God
+put life in; now goes <font>Corebus</font> in, spight of the
+coniurer.
+</dialogue><nonSpeech> <font>Enter the Coniurer, &amp; strike</font> Corebus <font>blinde</font> .</nonSpeech>
+   <nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Away with him into the open fields,
+to be a rauening pray to Crowes and Kites:
+<pagebreak id="D3R" />
+And for this villain let him wander vp &amp; downe
+In nought but darkenes and eternall night.
+   </dialogue><nonSpeech> <font>Cor:</font> </nonSpeech><dialogue> Heer hast thou slain <font>Hua~</font> a slashing knight
+And robbed poore <font>Corebus</font> of his sight. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Hence villaine hence.
+Now I haue vnto <font>Delya</font> giuen a potion of
+forgetfulnes,
+That when shee comes shee shall not know hir
+Brothers:
+Lo where they labour like to Country slaues,
+With spade and mattocke on this inchaunted
+ground.
+Now will I call hir by another name,
+For neuer shall she know hir selfe againe,
+Vntill that <font>Sacrapant</font> hath breathd his last.
+See where she comes. </dialogue><nonSpeech> <font>Enter Delya.</font> </nonSpeech><dialogue>
+Come hither <font>Delya</font> take this gode,
+Here hard at hand two slaues do worke and dig
+for gold.
+Gore them with this &amp; thou shalt haue inough.
+</dialogue><nonSpeech> <font>He giues hir a gode.</font> </nonSpeech>
+   <nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Good sir I know not what you meane.
+   </dialogue><nonSpeech> <font>Sacra:</font> </nonSpeech><dialogue> She hath forgotten to be <font>Delya</font> ,
+But not forgot the same she should forget:
+But I will change hir name
+Faire <font>Berecynthia</font> so this Country calls you,
+Goe ply these strangers wench they dig for gold
+</dialogue><nonSpeech> <font>Exit Sacrapant.</font> </nonSpeech>
+   <nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> O heauens! how I am beholding to
+<pagebreak id="D3V" />
+this faire yong man.
+But I must ply these strangers to their worke.
+See where they come.
+</dialogue><nonSpeech> <font>Enter the two Brothers in their shirts with
+spades digging.</font> </nonSpeech>
+   <nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> O Brother see where <font>Delya</font> is.
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> O <font>Delya</font> happy are we to see thee
+here.
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> What tell you mee of <font>Delya</font> prating
+swaines?
+I know no <font>Delya</font> nor know I what you meane,
+Ply you your work or else you are like to smart.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Why <font>Delya</font> knowst thou not thy
+Brothers here?
+We come from <font>Thessalie</font> to seeke thee forth,
+And thou deceiuest thy selfe for thou art <font>Delya</font> .
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> Yet more of <font>Delya</font> , then take this
+and smart:
+What faine you shifts for to defer your labor?
+Worke villaines worke, it is for gold you digg.
+   </dialogue><nonSpeech> <font>2. Br:</font> </nonSpeech><dialogue> Peace Brother peace, this vild inchanter
+Hath rauisht <font>Delya</font> of hir sences cleane,
+And she forgets that she is <font>Delya</font> .
+   </dialogue><nonSpeech> <font>1. Br:</font> </nonSpeech><dialogue> Leaue cruell thou to hurt the miserable;
+Digg brother digg, for she is hard as steele.
+</dialogue><nonSpeech> <font>Here they dig &amp; descry the light vnder a litle hill.</font> </nonSpeech>
+   <nonSpeech> <font>2. Br:</font> </nonSpeech><dialogue> Stay brother what hast thou descride?
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Away &amp; touch it not, it is some thing, that
+my Lord hath hidden there. </dialogue><nonSpeech> <font>she couers it agen.</font> </nonSpeech>
+<pagebreak id="D4R" />
+<nonSpeech> <font>Enter</font> Sacrapant.</nonSpeech>
+   <nonSpeech> <font>Sacr:</font> </nonSpeech><dialogue> Well sed, thou plyest these Pyoners
+well, goe get you in you labouring slaues.
+Come <font>Berecynthia</font> , let vs in likewise,
+And heare the Nightingale record hir notes.
+</dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+
+<nonSpeech> <font>Enter</font> Zantyppa <font>the curst Daughter to the well,
+with a pot in hir hand</font> .</nonSpeech>
+   <nonSpeech> <font>Zant:</font> </nonSpeech><dialogue> Now for a husband, house and home,
+God send a good one or none I pray God: My
+father hath sent me to the well for the water of
+life, and tells mee if I giue faire wordes I shall
+haue a husband.
+</dialogue><nonSpeech> <font>Enter the fowle wench to the well for water with a
+pot in hir hand.</font> </nonSpeech><dialogue>
+But heere comes <font>Celanta</font> my sweete sister, Ile
+stand by and heare what she saies.
+   </dialogue><nonSpeech> <font>Celant:</font> </nonSpeech><dialogue> My father hath sent mee to the well
+for water, and he tells me if I speake faire, I shall
+haue a husband and none of the worst: Well
+though I am blacke I am sure all the world will
+not forsake mee, and as the olde prouerbe is
+though I am blacke, I am not the diuell.
+   </dialogue><nonSpeech> <font>Zant:</font> </nonSpeech><dialogue> Marrie gup with a murren, I knowe
+wherefore thou speakest that, but goe thy waies
+home as wife as thou camst, or Ile set thee home
+with a wanion.
+<pagebreak id="D4V" />
+</dialogue><nonSpeech> <font>Here she strikes hir Pitcher against hir sisters,
+and breakes them both and goes hir way.</font> </nonSpeech>
+   <nonSpeech> <font>Clant:</font> </nonSpeech><dialogue> I thinke this be the curstest queane in
+the world, you see what she is, a little faire, but
+as prowd as the diuell, and the veriest vixen that
+liues vpon Gods earth. Well Ile let hir alone,
+and goe home and get another Pitcher, and for
+all this get me to the well for water. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter two Furies out of the Coniurers Cell
+and laies</font> Huanebango <font>by the well
+of life</font> .</nonSpeech>
+<nonSpeech> <font>Enter</font> Zantippa <font>with a Pitcher to the VVell</font> .</nonSpeech>
+   <nonSpeech> <font>Zant:</font> </nonSpeech><dialogue> Once againe for a husband, &amp; in faith
+<font>Celanta</font> I haue got the start of you; Belike
+husbands growe by the Well side; now my father
+sayes I must rule my tongue: why alas what am
+I then? a woman without a tongue, is as a
+souldier without his weapon; but ile haue my
+water and be gon.
+</dialogue><nonSpeech> <font>Heere she offers to dip her Pitcher in, and
+a head speakes in the VVell.</font> </nonSpeech><dialogue>
+<comment type="compiler">VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Zant.</font> </nonSpeech><dialogue> What is this, <comment type="compiler">REPEATS 3 LINES OF VERSE, VIZ:</comment>  
+faire maiden white &amp; red,
+Combe me smooth, and stroke my head:
+And thou shalt haue some cockell bread
+<pagebreak id="E1R" />
+Cockell callest thou it boy, faith ile giue you
+cockell bread.
+
+</dialogue><nonSpeech> <font>Shee breakes hir Pitcher vppon his heade, then it
+thunders and lightens, and</font> Huanebango <font>rises
+vp</font> : Huanebango <font>is deafe and cannot heare</font> .</nonSpeech><dialogue>
+<comment type="compiler">HUANEBANGO'S VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Zant:</font> </nonSpeech><dialogue> Foe, what greasie groome haue wee
+here? Hee looks as though hee crept out of the
+backeside of the well; and speakes like a Drum
+perisht at the West end.
+<comment type="compiler">HUANEBANGO'S VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Zant:</font> </nonSpeech><dialogue> Whoope nowe I haue my dreame,
+did you neuer heare so great a wonder as this?
+Three blue beanes in a blue bladder, tattle
+bladder rattle.
+<pagebreak id="E1V" />
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Ile nowe set my countenance and to
+hir in prose, it may be this rim ram ruffe, is too
+rude an incounter.
+   Let me faire Ladie if you be at leisure, reuell
+with your sweetnes, and raile vppon that
+cowardly Coniurer, that hath cast me or congealed
+mee rather into an vnkinde sleepe and polluted
+my Carcasse.
+   </dialogue><nonSpeech> <font>Zantyppa:</font> </nonSpeech><dialogue> Laugh, laugh <font>Zantyppa</font> , thou
+hast thy fortune, a foole and a husbande vnder
+one.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> Truely sweete heart as I seeme,
+about some twenty yeares, the very Aprill of
+mine age.
+   </dialogue><nonSpeech> <font>Zantyppa:</font> </nonSpeech><dialogue> Why what a prating Asse is 
+this?
+   </dialogue><nonSpeech> <font>Huanebango:</font> </nonSpeech><dialogue> Hir Corall lippes, hir crimson
+chinne,
+<comment type="compiler">REST OF VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Za:</font> </nonSpeech><dialogue> By gogs bones thou art a flouting knaue,
+Hir Corall lippes, hir crimson chinne: ka
+wilshaw.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> True my owne and my owne 
+because <comment type="compiler">SOURCE TEXT: be cause AT LINE BREAK</comment> mine &amp; mine because  
+mine ha ha: Aboue
+a thousand pounds in possibilitie, and things
+<pagebreak id="E2R" />
+fitting thy desire in possession.
+   </dialogue><nonSpeech> <font>Zan:</font> </nonSpeech><dialogue> The Sott thinkes I aske of his landes,
+Lobb be your comfort, and Cuckold bee your
+destenie: Heare you sir; and if you will haue
+vs, you had best say so betime.
+   </dialogue><nonSpeech> <font>Huan:</font> </nonSpeech><dialogue> True sweete heart and will royallize
+thy progeny with my petigree. </dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+
+<nonSpeech> <font>Enter Eumenides the wandring Knight.</font> </nonSpeech><dialogue>
+<comment type="compiler">EUMENIDES' VERSE OMITTED.</comment>
+</dialogue><nonSpeech> <font>Enter</font> Iacke.</nonSpeech>
+   <nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> You are well ouertaken sir.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Who's that?
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> You are heartily well met sir.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Forbeare I say, who is that which
+pincheth mee?
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Trusting in God good Master
+<font>Eumenides</font> , that you are in so good health as all your
+friendes were at the making hereof: God giue
+you God morrowe sir, lacke you not a neate
+handsome and cleanly yong Lad, about the age
+of fifteene or sixteene yeares, that can runne
+<pagebreak id="E2V" />
+by your horse, and for a neede make your
+Mastershippes shooes as blacke as incke, howe say
+you sir.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Alasse pretty Lad, I know not how to
+keepe my selfe, and much lesse a seruant, my
+pretty boy, my state is so bad.
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Content your selfe, you shall not bee
+so ill a Master but ile bee as bad a seruant: Tut
+sir I know you though you know not me; Are
+not you the man sir, denie it if you can sir, that
+came from a strange place in the land of Catita,
+where Iacke a napes flies with his taile in his
+mouth, to seeke out a Ladie white as snowe,
+and as redd as blood; ha, ha, haue I toucht you
+now.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> I thinke this boy be a spirit,
+How knowst thou all this?
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Tut are not you the man sir, denie it
+if you can sir, that gaue all the money you had
+to the burying of a poore man, and but one
+three-halfe-pence left in your pursse: Content
+you sir, Ile serue you that is flat.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Well my Lad since thou art so
+impornate, I am content to entertaine thee, not as a
+seruant; but a copartner in my iourney. But
+whither shall we goe for I haue not any money
+more than one bare three halfe-pence.
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Well Master content your selfe,
+for if my diuination bee not out, that shall bee
+<pagebreak id="E3R" />
+spent at the next Inne or alehouse we come too:
+for maister I knowe you are passing hungrie;
+therefore ile go before and prouide dinner
+vntill that you come, no doubt but youle come
+faire and softly after.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> I, go before, ile follow thee.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> But doo you heare maister, doo you
+know my name?
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> No I promise thee not yet.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Why I am <font>Iack</font> . </dialogue><nonSpeech> <font>Exeunt Iack.</font> </nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> <font>Iack</font> , why be it so then.
+</dialogue><nonSpeech> <font>Enter the Hostes and</font> Iack, <font>setting meate on the
+table, and Fidlers came to play</font> , Eumenides
+<font>walketh up and downe, and will
+eate no meate</font> .</nonSpeech>
+   <nonSpeech> <font>Host:</font> </nonSpeech><dialogue> How say you sir, doo you please to sit
+downe?
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Hostes I thanke you, I haue no great
+stomack.
+   </dialogue><nonSpeech> <font>Host:</font> </nonSpeech><dialogue> Pray sir, what is the reason your
+maister is so strange, doth not this meate please him.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Yes Hostes, but it is my maisters
+fashion to pay before hee eates, therefore a
+reckoning good hostesse.
+   </dialogue><nonSpeech> <font>Host:</font> </nonSpeech><dialogue> Marry shall you sir presently. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why <font>Iack</font> what doost thou meane,
+thou knowest I haue not any money: therefore
+sweete <font>Iack</font> tell me what shall I doo.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Well maister looke in your pursse.
+<pagebreak id="E3V" />
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why faith it is a follie, for I haue no
+money.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Why looke you maister, doo so much for me.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Alas <font>Iack</font> my pursse is full of money.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Alas, maister, does that worde belong
+to that accident? why me thinkes I should haue
+seene you cast away your cloake, and in a
+brauado daunced a galliard round about the
+chamber; why maister, your man can teach you more
+wit than this, come hostis, cheere vp my maister.
+   </dialogue><nonSpeech> <font>Hostis:</font> </nonSpeech><dialogue> You are heartily welcome: and if it
+please you to eate of a fat Capon, a faire birde,
+a finer birde, a sweeter birde, a crisper birde, a
+neater birde, your worship neuer eate off.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Thankes my fine eloquent hostesse.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> But heare you maister, one worde by
+the way, are you content I shall be halfes in all
+you get in your iourney?
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> I am Iack, here is my hand.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Enough maister, I aske no more.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Come Hostesse receiue your money,
+and I thanke you for my good entertainment.
+   </dialogue><nonSpeech> <font>Host:</font> </nonSpeech><dialogue> You are heartily welcome sir.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Come <font>Iack</font> whether go we now?
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Mary maister to the coniurers presently.
+   </dialogue><nonSpeech> <font>Eu:</font> </nonSpeech><dialogue> Content <font>Iack</font> : Hostis farewell.                 
+</dialogue><nonSpeech> <font> <foreign>Exe. om.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Corebus <font>and</font> Zelanto <font>the foule
+wench, to the well for water</font> .</nonSpeech>
+   <nonSpeech> <font>Coreb:</font> </nonSpeech><dialogue> Come my ducke come: I haue now
+<pagebreak id="E4R" />
+got a wife, thou art faire, art thou not?
+   </dialogue><nonSpeech> <font>Zelan:</font> </nonSpeech><dialogue> My <font>Corebus</font> the fairest aliue, make no
+doubt of that.
+   </dialogue><nonSpeech> <font>Cor:</font> </nonSpeech><dialogue> Come wench, are we almost at the wel.
+   </dialogue><nonSpeech> <font>Zela.</font> </nonSpeech><dialogue> I <font>Corebus</font> we are almost at the Well
+now, ile go fetch some water: sit downe while
+I dip my pitcher in.
+   </dialogue><nonSpeech> <font>Voyce:</font> </nonSpeech><dialogue> Gently dip: but not to deepe;
+For feare you make the goulde~ beard to weepe.
+</dialogue><nonSpeech> <font>A head comes vp with eares of Corne, and she
+combes them in her lap.</font> </nonSpeech><dialogue>
+<comment type="compiler">REST OF VERSE OMITTED.</comment>
+</dialogue><nonSpeech> <font>A head comes vp full of golde, she
+combes it into her lap.</font> </nonSpeech>
+   <nonSpeech> <font>Zelan:</font> </nonSpeech><dialogue> Oh see <font>Corebus</font> I haue combd a great
+deale of golde into my lap, and a great deale of
+corne.
+   </dialogue><nonSpeech> <font>Coreb.</font> </nonSpeech><dialogue> Well said wench, now we shall haue
+iust enough, God send vs coiners to coine our
+golde: but come shall we go home sweet heart?
+   </dialogue><nonSpeech> <font>Zelan:</font> </nonSpeech><dialogue> Nay come <font>Corebus</font> I will lead you.
+<pagebreak id="E4V" />
+   </dialogue><nonSpeech> <font>Coreb:</font> </nonSpeech><dialogue> So <font>Corebus</font> things haue well hir,
+Thou hast gotten wealth to mend thy wit. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Iack <font>and the wandring knight</font> .</nonSpeech>
+   <nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Come away maister come.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Go along <font>Iack</font> , ile follow thee,
+<font>Iack</font> , they say it is good to go crosse legged, and
+say his prayers backward: how saiest thou?
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Tut neuer feare maister, let me alone,
+heere sit you still, speake not a word. And
+because you shall not be intised with his
+inchanting speeches; with this same wooll ile stop your
+eares: and so maister sit still, for I must to the
+Coniurer. </dialogue><nonSpeech> <font>Exit</font> Iack.</nonSpeech>
+<nonSpeech> <font>Enter the Coniurer to the wandring knight.</font> </nonSpeech>
+   <nonSpeech> <font>Sa:</font> </nonSpeech><dialogue> How now, what man art thou that sits so sad
+Why dost thou gaze vpon these stately trees,
+Without the leaue and will of <font>Sacrapant</font> ?
+What not a word but mum,
+Then <font>Sacrapant</font> thou art betraide.
+</dialogue><nonSpeech> <font>Enter</font> Iack <font>inuisible, and taketh off</font> Sacrapants
+<font>wreath from his head, and his sword out
+of his hand</font> .</nonSpeech>
+   <nonSpeech> <font>Sac:</font> </nonSpeech><dialogue> What hand inuades the head of <font>Sacrapa~t</font> ?
+What hatefull fury doth enuy my happy state?
+Then <font>Sacrapant</font> these are thy latest dayes,
+Alas my vaines are numd, my sinews shrinke,
+My bloud is pearst, my breath fleeting away,
+And now in my timelesse date is come to end:
+He in whose life his actions hath beene so foule,
+<pagebreak id="F1R" />
+Now in his death to hell defends his soule.
+</dialogue><nonSpeech> <font>He dyeth.</font> </nonSpeech>
+   <nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Oh Sir are you gon: now I hope we
+shall haue some other coile: Now maister how
+like you this; the Coniurer hee is dead, and
+vowes neuer to trouble vs more. Now get you
+to your faire Lady, and see what you can doo
+with her: Alas he heareth me not all this while;
+but I will helpe that.
+</dialogue><nonSpeech> <font>He pulles the VVooll out of his eares.</font> </nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> How now <font>Iack</font> , what news?
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Heere maister, take this sword and dig
+with it, at the foote of this hill.
+</dialogue><nonSpeech> <font>He digs and spies a light.</font> </nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> How now <font>Iack</font> , what is this?
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Maister, without this the Coniurer
+could do nothing, and so long as this light lasts,
+so long doth his arte indure, and this being out,
+then doth his arte decay.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why then <font>Iack</font> I will soone put out
+this light.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> I maister, how?
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why with a stone ile breake the glasse,
+and then blowe it out.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> No maister you may as soone breake
+the Smiths Anfill, as this little vyoll; nor the
+biggest blast that euer <font>Boreas</font> blew, cannot blowe
+out this little light; but she that is neither maide,
+<pagebreak id="F1V" />
+wife, nor widowe. Maister, winde this horne;
+and see what will happen.
+</dialogue><nonSpeech> <font>He windes the horne.</font> </nonSpeech>
+
+<nonSpeech> <font>Heere enters</font> Venelia <font>and breakes the glasse, and
+blowes out the light, and goeth in againe</font> .</nonSpeech>
+   <nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> So maister, how like you this; this is
+she that ranne madding in the woods, his
+betrothed loue that keepes the crosse, and nowe
+this light being out, all are restored to their
+former libertie. And now maister to the Lady that
+you haue so long looked for.
+</dialogue><nonSpeech> <font>He draweth a curten, and there</font> Delia
+<font>sitteth a sleepe</font> .</nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> God speed faire maide sitting alone
+there is once.
+God speed faire maide; there is twise:
+God speed faire maide, that is thrise.
+   </dialogue><nonSpeech> <font>Delia:</font> </nonSpeech><dialogue> Not so good sir, for you are by.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Enough maister, she hath spoke, now I
+will leaue her with you.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Thou fairest flower of these westerne parts:
+Whose beautie so reflecteth in my sight,
+As doth a Christall mirror in the sonne:
+For thy sweet sake I haue crost the frosen <font>Rhine</font> ,
+Leauing faire <font>Po</font> , I saild vp <font>Danuby</font> ,
+As farre as <font>Saba</font> whose inhansing streames,
+Cuts twixt the <font>Tartars</font> and the <font>Russians</font> ,
+<pagebreak id="F2R" />
+These haue I crost for thee faire <font>Delia</font> :
+Then grant me that which I haue sude for long.
+   </dialogue><nonSpeech> <font>Del:</font> </nonSpeech><dialogue> Thou gentle knight, whose fortune is
+so good:
+To finde me out, and set my brothers free,
+My faith, my heart, my hand, I giue to thee.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Thankes gentle Madame: but heere
+comes Iack, thanke him, for he is the best friend
+that we haue.
+
+</dialogue><nonSpeech> <font>Enter</font> Iack <font>with a head in his hand</font> .</nonSpeech>
+
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> How now Iack, what hast thou there?
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Mary maister, the head of the coniurer.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why Iack that is impossible, he was
+a young man.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Ah maister, so he deceiued them that
+beheld him: but hee was a miserable, old, and
+crooked man; though to each mans eye he
+seemed young and fresh, for maister; this Coniurer
+tooke the shape of the olde man that kept the
+crosse: and that olde man was in the likenesse of
+the Coniurer. But nowe maister winde your
+horne. </dialogue><nonSpeech> <font>He windes his horne.</font> </nonSpeech>
+ 
+<nonSpeech> <font>Enter</font> Venelia, <font>the two brothers, and he
+that was at the crosse</font> .</nonSpeech>
+   <nonSpeech> <font>Eu:</font> </nonSpeech><dialogue> Welcome <font>Erestus</font> , welcome faire <font>Venelia</font> ,
+<pagebreak id="F2V" />
+Welcome <font>Thelea</font> , and <font>Kalepha</font> both,
+Now haue I her that I so long haue sought,
+So saith faire <font>Delia</font> , if we haue your consent.
+   </dialogue><nonSpeech> <font>1. Bro:</font> </nonSpeech><dialogue> Valiant <font>Eumenides</font> thou well deseruest
+To haue our fauours: so let vs reioyce,
+That by thy meanes we are at libertie.
+Heere may we ioy each in others sight,
+And this faire Lady haue her wandring knight.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> So maister, nowe yee thinke you haue
+done: but I must haue a saying to you; you
+know you and I were partners, I to haue halfe
+in all you got.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Why so thou shalt <font>Iack</font> .
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> Why then maister draw your sworde,
+part your Lady, let mee haue halfe of her
+presently.
+   </dialogue><nonSpeech> <font>Eumenid:</font> </nonSpeech><dialogue> Why I hope <font>Iack</font> thou doost but
+iest, I promist thee halfe I got, but not halfe my
+Lady.
+   </dialogue><nonSpeech> <font>Iack:</font> </nonSpeech><dialogue> But what else maister, haue you not
+gotten her, therefore deuide her straight, for I
+will haue halfe there is no remedie.
+   </dialogue><nonSpeech> <font>Eumen:</font> </nonSpeech><dialogue> Well ere I will falsifie my worde
+vnto my friend, take her all, heere <font>Iack</font> ile giue
+her thee.
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Nay neither more nor lesse Maister,
+but euen iust halfe.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Before I will falsifie my faith vnto my
+<pagebreak id="F3R" />
+friend, I will diuide hir, <font>Iacke</font> thou shalt haue
+halfe.
+   </dialogue><nonSpeech> <font>1. Brother:</font> </nonSpeech><dialogue> Bee not so cruell vnto our sister
+gentle Knight.
+   </dialogue><nonSpeech> <font>2. Brother:</font> </nonSpeech><dialogue> O spare faire <font>Delia</font> shee deserues
+no death.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Content your selues, my word is past
+to him, therefore prepare thy selfe <font>Delya</font> for
+thou must die.
+   </dialogue><nonSpeech> <font>Delya:</font> </nonSpeech><dialogue> Then farewell worlde, adew
+<font>Eumenides</font> .
+</dialogue><nonSpeech> <font>He offers to strike and</font> Iacke <font>staies him</font> .</nonSpeech>
+   <nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Stay Master, it is sufficient I haue tride
+your constancie: Do you now remember since
+you paid for the burying of a poore fellow.
+   </dialogue><nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> I very well Iacke.
+   </dialogue><nonSpeech> <font>Iacke:</font> </nonSpeech><dialogue> Then Master thanke that good deed,
+for this good turne, and so God be with you all.
+</dialogue><nonSpeech>Iacke <font>leapes downe in the ground</font> .</nonSpeech>
+   <nonSpeech> <font>Eum:</font> </nonSpeech><dialogue> Iacke what art thou gone?
+Then farewell Iacke.
+Come brothers and my beauteous <font>Delya</font> ,
+<font>Erestus</font> and thy deare <font>Venelia</font> :
+We will to <font>Thessalie</font> with ioyfull hearts.
+   </dialogue><nonSpeech> <font>All:</font> </nonSpeech><dialogue> Agreed, we follow thee and <font>Delya</font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+<pagebreak id="F3V" />
+   <nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> What Gammer, a sleepe?
+   </dialogue><nonSpeech> <font>Old wom:</font> </nonSpeech><dialogue> By the Mas sonne tis almost day,
+and my windowes shuts at the Cocks crow.
+   </dialogue><nonSpeech> <font>Frol:</font> </nonSpeech><dialogue> Doo you heare Gammer, mee thinkes
+this Iacke bore a great sway amongst them.
+   </dialogue><nonSpeech> <font>Old wom:</font> </nonSpeech><dialogue> O man, this was the ghost of the
+poore man, that they kept such a coyle to burie,
+&amp; that makes him to help the wandring knight
+so much: But come let vs in, we will haue a cup
+of ale and a tost this morning and so depart.
+   </dialogue><nonSpeech> <font>Fant:</font> </nonSpeech><dialogue> Then you haue made an end of your
+tale Gammer?
+   </dialogue><nonSpeech> <font>Old wom:</font> </nonSpeech><dialogue> Yes faith: When this was done I
+tooke a peece of bread and cheese, and came
+my way, and so shall you haue too before you
+goe, to your breakefast.
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2FBREWE">
+  <dialogueHeader>
+
+    <filename>D2FBREWE</filename>
+
+    <identifier>2 FICTION D2FBREWE</identifier>
+
+    <title>DEUILL OF EDMONTON</title>
+
+    <author>BREWER THOMAS</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1631</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BREWER, THOMAS.</attribution>
+      <frontMatter>THE LIFE AND DEATH OF THE MERRY DEUILL OF EDMONTON.
+WITH THE PLEASANT PRANCKS OF SMUG THE SMITH, SIR IOHN, AND MINE HOST
+OF THE GEORGE, ABOUT THE STEALING OF VENISON.
+BY T. B.
+(...)
+PRINTED BY T. P. FOR FRANCIS FAULKNER DWELLING OUER AGAINST ST.
+MARGARETS HILL IN SOUTHWARKE. 
+1631.
+PP. A4R.22 - B4V.12 SAMPLE 1
+PP. C1R.25 - C2V.6  SAMPLE 2
+PP. C3V.20 - E3R.13 SAMPLE 3
+PP. E3R.16 - F1V.35 SAMPLE 4
+PP. F2V.17 - F3V.34 SAMPLE 5
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">NOT THE SAME WORK AS &quot;THE MERRY DEUILL OF EDMONTON&quot;, ALSO DATED 
+1631, WHICH IS A PLAY.</comment>
+
+<comment type="compiler">CAPTIONS IN THE ILLUSTRATION ON TITLE PAGE, SEE &quot;(...)&quot;, OMITTED 
+ABOVE.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A4R" />
+ <head>HOW MAISTER PETER DECEIUED THE DIUELL WITH A 
+CANDLES END.</head> <dialogue>
+<comment type="compiler">MASTER PETER HAD RAISED A SPIRIT BY MAGIC, AND THE SPIRIT HAD 
+AGREED TO SERVE HIM FOR A TIME, IN EXCHANGE FOR HIS SOUL. WHEN THE
+SPIRIT DECIDED IT HAD SERVED HIM ENOUGH, IT DEMANDED PAYMENT.</comment>
+<pagebreak id="A4V" />
+<omission type="line" /> UUhy </dialogue><nonSpeech> (sayde Master <font>PETER</font> </nonSpeech><dialogue> I haue
+made thee a promise, thou shouldst haue it, and thou shalt
+haue it, but not yet: when it hath left my body (by my 
+death) take it to thee, till then thou mayest not haue it,
+so rest thee contented. </dialogue><nonSpeech>Then the spirit beganne to
+threaten, and terrifie him to make him set a time of payment
+for his pleasure: and so affrighted him, that hee knew not
+what or how to answere him.</nonSpeech><dialogue> Come </dialogue><nonSpeech> (quoth the Deuill) </nonSpeech><dialogue>
+be breefe, for Lucifer euery minute, lookes for that soule of
+thine. Is there no remedy </dialogue><nonSpeech> (quoth Maister <font>Peter</font> ) </nonSpeech><dialogue> wilt
+thou allow mee no time, to set my businesse in order, and
+take my leaue of my friends ere I goe? allow mee some
+small time for that, and doe thy will. Why how long time
+</dialogue><nonSpeech> (quoth the Deuill?</nonSpeech><dialogue> desirest thou I should allow thee? why
+ifaith </dialogue><nonSpeech> (quoth master <font>Peter</font> </nonSpeech><dialogue> no long time: spare me but till
+this inche-long end of candle </dialogue><nonSpeech> (pointing to the Candle
+burning in his study) </nonSpeech><dialogue> and take my soule. UUell </dialogue><nonSpeech> (quoth the 
+Deuill) </nonSpeech><dialogue> though by my charge I can hardly stay a minute,
+Ile stay so long: about it presently. If I neglect or ore-slip
+my time </dialogue><nonSpeech> (qd. M. <font>Peter</font> ) </nonSpeech><dialogue> take thou the aduantage of it: yet
+one request more thou must grant me. What is that </dialogue><nonSpeech> (qd. the
+deuil) </nonSpeech><dialogue> Marry this </dialogue><nonSpeech> (qd. M. <font>Peter</font> ) </nonSpeech><dialogue> to confirme thy promise
+with an oath: I am very loath to trust thee on thy bare word
+for all the world reputes thee but a knaue: therefore come
+sweare to forbeare mee till this candle is burned. By Hell
+I will </dialogue><nonSpeech> (qd. the Deuill) </nonSpeech><dialogue> and by great <font>Lucifer</font> , As I hope to
+draw downe thousand soules to the deepe <font>Abisse</font> (the place
+of my abode) I will forbeare thee till that candle is burned.
+<pagebreak id="B1R" />
+</dialogue><nonSpeech>Then <font>Maister Peter</font> , presently after his hellish 
+protestation, put the candle out, and into his pocket:</nonSpeech><dialogue> looke heere
+</dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> till this is burnt, thou maiest not claime my
+soule: Ile keepe this safe enough from burning out and so
+keepe that thou lookst for safe enough. Go I command thee,
+and tell thy proud Lord <font>Lucifer</font> , how finely I haue 
+ouerreached thee.
+   </dialogue><nonSpeech>When the Deuill saw he was so cunningly deceiued by
+<font>Maister PETER</font> , with many bitter execrations he left
+him.</nonSpeech>
+
+ <head> <font>HOW MAISTER PETER DECEIUED THE DEUILL AGAINE.</font> </head> 
+   <nonSpeech>Not long after the <font>Deuill</font> had bin thus deceiued by the
+merry <font>Deuill</font> , <font>Maister Peter Fabell</font> , hee went 
+againe to him, and finding him a sleepe, tooke the end of
+the candle (before spoken of) out of his pocket, and awaked
+him: when he had so done, he shewed him the end of the
+candle.</nonSpeech><dialogue>
+   Looke heere </dialogue><nonSpeech> (sayd hee) </nonSpeech><dialogue> heere is that thou keptst to keepe
+me from my right (thy soule I meane) when this is burnt,
+thy soule must burne with mine: Ile quickely burne it
+now (Ile warrant thee.)
+   </dialogue><nonSpeech>When <font>Maister Peter</font> saw he had lost his candle, (vpon
+the losse of which lay the losse of his soule, if his policie had
+not once more helped him out) he intreated him to spare
+him a little longer.</nonSpeech><dialogue>
+   No, no </dialogue><nonSpeech> (sayd the <font>Deuill</font> ,</nonSpeech><dialogue> all intreates are vaine, thou
+hast deceiued me once, thou shalt deceiue me no more.
+Tis a good world, when men are so cunning in deceit. as 
+to deceiue the <font>Deuill</font> : but it is no matter, thou art so much
+the redier for me.
+   Yet heere me speake </dialogue><nonSpeech> (quoth <font>Maister Peter</font> </nonSpeech><dialogue> and as thou
+likest my speech so deale with me.
+   Well be breefe then </dialogue><nonSpeech> (quoth the Deuill) </nonSpeech><dialogue> what hast thou
+now to say?
+   No more but this </dialogue><nonSpeech> (qd. <font>Maister Peter</font> </nonSpeech><dialogue> if thou wilt spare
+<pagebreak id="B1V" />
+till my timely death, put that thou seekest into thy hands,
+Ile labor all the time I haue to liue for Hells aduantage:
+Ile beare more soules along with me to Hell then twenty
+of your cunningst Deuills shall.
+   Shall I once more trust thee </dialogue><nonSpeech> (quoth the Diuell) </nonSpeech><dialogue> on thy
+word? well, sweare, Why </dialogue><nonSpeech> (sayd <font>Maister Peter</font> </nonSpeech><dialogue> by the
+blacke riuer, <font>Lucifer</font> thy Lord sweares by, I sweare I
+will: and when I am buried, either within the Church, 
+without the Church, in the Church porch, Church-yard
+Street, field, or high way, take thou my soule.
+   Well </dialogue><nonSpeech> (quoth the Deuill) </nonSpeech><dialogue> in hope thou wilt gaine me
+many soules to thine, take thy rest, </dialogue><nonSpeech>and so he left him.</nonSpeech> 
+   <nonSpeech>Many yeares after when <font>Maister Peter Fabell</font> by his
+white haires, weakenesse, aches, and such like signes 
+perceiued he could not liue long: he went and digd his 
+deathbed in the Church wal, and there rested day &amp; night hartyly
+praying &amp; repenting him of all the euill he had committed.</nonSpeech>
+   <nonSpeech>When the hower was well nigh come, that should
+seperate his soule and body, the Deuill went to him againe
+and blam'd him for neglecting his businesse by promise, and
+withal tould him he was come for his soule. When <font>Maister
+Peter</font> heard that word, hee presently started vp and
+charged him to depart,</nonSpeech><dialogue> my soule </dialogue><nonSpeech> (sayd he) </nonSpeech><dialogue> thou comest too    
+soone,
+and yet to late to haue it: he that redeemed my soule hath 
+took't to keepe, thou canst not haue it.
+   Didst thou not sweare </dialogue><nonSpeech> (qd. the fiend) </nonSpeech><dialogue> that I should haue
+thy soule at y=e= houre of death? thou didst, and I will haue it.
+I </dialogue><nonSpeech> (sayd <font>Maister Peter</font> </nonSpeech><dialogue> when I am buried either within the
+Church, without the Church, in the Church-porch 
+Church-yard, street, field, or high way, take thou my soule.
+   See foolish fiend thou art deceiued againe, this hole is
+my graue, If this be either within the Church, without the 
+Church, in the Church porch Church yard, street, field, or
+high-way, my soule is thine: thou seest it is not, therefore
+I charge thee (so deceiued) depart. </dialogue><nonSpeech>Still the Deuill was
+very eager on him for his soule, till at last, by his earnest
+<pagebreak id="B2R" />
+praires &amp; zealous Inuocations he forst him to run roaring
+to hel againe without it.</nonSpeech>
+ <head> <font>HOW MAISTER PETER FABELL, PUNISHED A FRYER AND HIS
+LEMON FOR THEIR KNAUERY.</font> </head> 
+   <nonSpeech> <font>Maister Peter Fabell</font> one morning very early, walking
+the fields (as his custome was, to meditate by
+himselfe) spied a Fryer at prayers vpon his beads, very 
+deuotly, when <font>Maister Peter</font> saw him so earnest in his praiers he
+went to him, &amp; demanded of him what his reason was, that
+his chamber would not serue, for his prayers as well as
+that place.</nonSpeech><dialogue> Oh! sir </dialogue><nonSpeech> (said the Fryer) </nonSpeech><dialogue> all places are alike to
+me for this businesse, &amp; all times, for I pray when the pricke
+of conscience commes vpon me, in what place, or at what
+time soeuer. I commend thee much </dialogue><nonSpeech> (quoth <font>Maister Peter</font> ) </nonSpeech><dialogue>
+thou art an honest fellow, and so for that time they parted.
+<comment type="compiler">WHEN MASTER PETER CAME UPON THE SAME FRIER IN THE SAME PLACE THE
+FOLLOWING MORNING, HE WAS KISSING A WENCH. MASTER PETER, WHO HAD 
+STOOD WATCHING THEM FROM BEHIND A HOLLOW TREE FOR SOME TIME, DECIDED
+TO GIVE THEM A FRIGHT. HE CLIMBED IN TO THE TREE AND BEGAN TO CALL 
+IN THIS MANNER.</comment>
+<omission type="sentence" /> Frier, Frier,
+Frier, </dialogue><nonSpeech>the Frier hearing a voice, presently started vp, and
+looked round a bout him to see if he could finde the <font>Maister</font>
+of that tongue y=t= called him: but in vaine he stood looking for
+he stood farre enough from his eye, though he were close to
+his eare. When the Fryer had stood a good while looking
+about him, first on y=e= one side, then on the other, and could
+spy no body, like a kind letcherous bald-pate, very
+handsomely, or rather very knauishly, he went to his wench
+againe. Hee was no sooner layed downe, but <font>Maister Peter</font> y=e=
+second time, cried out (to disturb him) </nonSpeech><dialogue> Fryer, fryer, Fryer.
+<pagebreak id="B2V" />
+</dialogue><nonSpeech>At this second call the Fryer halfe affrighted, started vp
+againe, and lookt about him (a tip toe) to see if he could
+finde a body to that voice: but hee found none.</nonSpeech><dialogue>
+   Now our Lady defend vs </dialogue><nonSpeech> (quoth the Frier to his wench) </nonSpeech><dialogue>
+what voice is this that calls on me so oft? Didst not thou
+heare it? yes faith sweeting </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> I heard some body
+call to thee: canst thou not see him?
+   No faith chucke </dialogue><nonSpeech> (quoth the Fryer) </nonSpeech><dialogue> I can see no man: and
+yet surely this voice, is the voice of a man. But it is no
+matter, let it be what it will, if we cannot see it sure we
+cannot feele it. Come chucke let's busse and be merry, be of
+good comfort and crosse thy selfe, and I warrant thee safe
+for a farthing, downe lay ould bald-pate againe: </dialogue><nonSpeech>but before
+he could giue her three kisses, the voice raised him the third
+time, crying as before,</nonSpeech><dialogue> Fryer, Fryer, Fryer. </dialogue><nonSpeech>Then
+the Fryers face beganne to bewray his feare: he had no
+more colour in his face, at that time, (though at all other
+times he had coloure enough) then one of these fine whay
+fac'd oate-meale eaters, or a wench troubled with the
+greene sickenesse.</nonSpeech><dialogue>
+   Fryer, frier, frier, </dialogue><nonSpeech> (said <font>Maister Peter</font> ) (still keeping
+himselfe close in the hollow tree) </nonSpeech><dialogue> hee that sees thee now, vnseene
+of thee, sees at all times, in all places, and all these thy
+actions.
+   Heere yesterday I saw thee at thy prayers verie 
+deuotly, with thy booke and beades is this the booke thou
+bringest to pray on now? doth the pricke of conscience mooue
+thee to doe this? speake thou blacke sinner. There thou
+hast red thy damnation without present repentance, and
+pennance. Therefore presently, both of you, if you
+respect more the good of your soules, then of your bodyes, by
+the pennance I shall appoynt you, purge your selues: </dialogue><nonSpeech>when
+the Fryer and his wench heard these wordes, they were
+verilie perswaded in their mindes that it was the voice of
+an Angell they both kneeled downe, very reuerently 
+together, and sayd,</nonSpeech><dialogue> thy will be done: appoynt our pennance,
+<pagebreak id="B3R" />
+and we are ready (with all willingnes) to indure it.
+Then </dialogue><nonSpeech> (sayde <font>Maister Peter</font> </nonSpeech><dialogue> you both shall presently be
+whipt, from this place (the place where you offended) 
+into the Town and about the town. This suffer &amp; desire you
+to be done by the next man comes neere you, and this sin is
+forgiuen you, refuse this, &amp; despairing die damd wretches.
+   This or what else it shall please thee to inflict or lay
+vppon vs, for this sinne </dialogue><nonSpeech> (quoth the Fryer) </nonSpeech><dialogue> we will patiently
+suffer.
+   </dialogue><nonSpeech>Then <font>Maister Peter</font> presently stept out of the hollow tree,
+and went (very cunningly) round about on the backeside
+of a hedge, and came directly vpon them, as if he had ment
+to passe by them.</nonSpeech>
+   <nonSpeech>As soone as euer they saw him, they very humbly on
+their knees tould him, that in that place they had offended,
+and for that offence, they were by the voice of an Angell,
+commanded to take present pennance, or their soules could
+not be saued.</nonSpeech><dialogue>
+   And what </dialogue><nonSpeech> (saide <font>Maister Peter</font> ) </nonSpeech><dialogue> is the pennance
+commaunded?
+   Marry this sir </dialogue><nonSpeech> (said the Fryer) </nonSpeech><dialogue> to be whipt by the next
+man came neare vs, from this place (the place where we
+offended) to the towne, and about the towne, and this sin
+should be forgiuen vs. If we refuse this (this was our
+heauie sentence) to liue in despaire, and die damd wretches.
+   This therefore is our request sir (you being the man by
+the Angell appointed) that you would performe your part
+appointed, while we (very patiently) beare the reward
+of our wickednesse.
+   Well </dialogue><nonSpeech> (quoth <font>Maister Peter</font> ) </nonSpeech><dialogue> though I am loath to play
+the beadle, Ile doe thy request, you shall not be damd for
+want of a whipping.
+<comment type="compiler">MASTER PETER TIED THEIR HANDS TOGETHER, TOOK A ROD OF WILLOW AND 
+WHIPPED THEM FROM ONE END OF THE TOWN TO THE OTHER, IN VIEW OF ALL 
+THE PEOPLE.</comment>
+<pagebreak id="B3V" />
+   And so farwell, I haue done your request, if at any
+time you haue occasion to vse me, in such a peece of seruice,
+command me. </dialogue><nonSpeech>Away went he very hartily laughing, and
+the Fryer and his wench, very heauily weeping.</nonSpeech>
+ <head> <font>HOW SMUG WOONE A WAGER OF MAISTER PETER FABELL
+BY A TRICKE THAT HE DID.</font> </head> 
+   <nonSpeech>As one day <font>Maister Peter Fabell</font> , (an excellent 
+Scholler and well seene in the Arte of Magicke) was
+conferring with certaine of his friends, about certaine busines
+and imployments, <font>Smug</font> being in the hearing of them, 
+betweene druncke and sober (for he had beene plying the
+pitcher in Maister <font>Peters</font> sellar) ran nodding in amongst the~,
+and the very first word he spake to them was,</nonSpeech><dialogue> how doe you
+my Maisters. </dialogue><nonSpeech>They being in very serious talke, 
+vnwilling to be disturbed with his foolish babling, with verie
+faire wordes, requested him to leaue them a little, and
+within halfe an hower (or such a thing) they would giue
+him the hearing of that he had to say to them. But he
+(like an importunate begger) tould them he would not
+leaue them till he had spoke his minde to Maister <font>Peter</font> .</nonSpeech>
+   <nonSpeech>When they saw there was no remedy, but he would
+haue his will,</nonSpeech><dialogue> come </dialogue><nonSpeech> (sayd Maister <font>Peter</font> </nonSpeech><dialogue> honest           
+<font>Oliuer</font> ,
+be breefe, vtter thy ignorance roundly, what hast thou to
+say to me now? Marry </dialogue><nonSpeech>quoth <font>Smug</font> ,</nonSpeech><dialogue> Maister <font>Peter</font> , I
+heere say you are a very cunning Gentleman, and that
+you haue done as many fine trickes and feates in your time
+as ere a Jugler in all Europe has done, what will you say
+now, if a plaine fellow, a hard-handed laborer, a poore
+<pagebreak id="B4R" />
+leatherne-apron-wearer, do such a cunning tricke, as you M.
+<font>Peter</font> with the helpe of all your great gogle eide, bottle
+nosd, blobber-lipt, bladder cheekd, beetle-browed, oxe
+headed, detestable Deuils, cannot doe the like. Why honest
+<font>Smug</font> </dialogue><nonSpeech>qd. M. <font>Peter</font> </nonSpeech><dialogue> who or where is he that will do this?
+marry </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> I am he. Art thou he </dialogue><nonSpeech>quoth M.          
+<font>Peter</font> ?</nonSpeech><dialogue>
+who would thinke thou hadst such trickes in thy budget? I
+prethee <font>Smug</font> tell me, dost not thou (as thou saiest I doe)
+vse the helpe of some infernall? hast thou no Deuill in thy
+tricke? come tell me: Deuill </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> marry God blesse
+me M. <font>Peter</font> , I cannot indure to looke vpon these filthy
+foule-mouthed fire-spitters, no Maister <font>Peter</font> , what I do, 
+I will doe of my extraordinary witt and inuention. Well
+let's (heare </dialogue><nonSpeech>qd. M. <font>Peter</font> ) </nonSpeech><dialogue> what is it you will doe? Marry
+this Ile doe </dialogue><nonSpeech>qd. <font>Smug</font> ,</nonSpeech><dialogue> Ile set a candle burning in the midst
+of this roome where we all are, open and easie to be seen as
+my hand: This candle M. <font>Togood</font> shall see M. <font>Dauby</font> , M.
+<font>Douty</font> , Mistris <font>Friskin</font> , and my man <font>Ralph</font> heere yet you
+shall not see it, masse <font>Smug</font> </dialogue><nonSpeech> (quoth M. <font>Peter</font> ) </nonSpeech><dialogue> if thou 
+canst
+doe such a tricke, thou putst me downe indeed. Come
+begin, let vs see it done, nay first </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> let vs  
+haue a
+lay vpon it, Ile not shew my skill for nothing. Agreed </dialogue><nonSpeech> (qd.
+M. <font>Peter</font> ) </nonSpeech><dialogue> what shall the wadger be? why faith </dialogue><nonSpeech> (qd.        
+<font>Smug</font> ) </nonSpeech><dialogue>
+M. <font>Peter</font> you know my minde for that, I loue alwayes
+when I make a wager, rather to haue it wet then drie,
+for you know M. <font>Peter</font> I am dry of my selfe, and ye say y=e=
+word, the wager shall be a dozen of double ale, you know
+I am merry <font>Smug</font> , and merry <font>Smug</font> must haue his merry
+go down, or els he is no body. Well I agree </dialogue><nonSpeech> (qd. M. <font>Peter</font> ) </nonSpeech><dialogue>
+heere is my hand, if thou perform'st what thou hast sayde,
+Ile loose &amp; Ile pay it. </dialogue><nonSpeech>Then <font>Smug</font> cald for a candle &amp; a
+candle stick which when he had, he placed M. <font>Peter</font> in y=e=
+middle of the roome, &amp; set the candle-stick with the candle
+burning in it vpon his head:</nonSpeech><dialogue> now M. <font>Peter</font> </dialogue><nonSpeech>sayd hee</nonSpeech><dialogue> do you  
+see
+this candle, why no </dialogue><nonSpeech> (qd. M. <font>peter</font> </nonSpeech><dialogue> how should I see it? is it
+possible for a man to see the crowne of his head? you 
+<pagebreak id="B4V" />
+cannot see it then </dialogue><nonSpeech>qd. <font>Smug</font> ,</nonSpeech><dialogue> no, I cannot see it </dialogue><nonSpeech>sayd     
+hee.</nonSpeech>
+<nonSpeech>Then <font>Smug</font> demaunded of the rest (before named)
+whether they did see <comment type="compiler">SOURCE TEXT: sse</comment> it or no, they all         
+answered I, asking how
+they could chuse but see it,</nonSpeech><dialogue> why looke you </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> 
+al
+these see it, and yet you cannot see it, they say they
+cannot chuse but see, and yet you say it is impossible for you to
+see it.
+   Come <font>Maister Peter</font> , you know what you haue lost? and
+there had been a Kingdome laide on it, </dialogue><nonSpeech>when <font>Maister peter</font>
+saw how prettily <font>Smug</font> had ouer reached him, he (smiling)
+sent for his losses, and in pastime made <font>Smug</font> take his well
+woon liquor, so soundly that he lay by the walls for y=e= night.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="C1R" />
+ <head> <font>HOW SMUG LAID A WAGER WITH CERTAINE 
+SHOOMAKERS, THAT HE WAS A SHOOE-MAKER, 
+PROOUED IT, AND WONE THE WAGER.</font> </head> <dialogue>
+
+<comment type="compiler">SEVERAL SHOEMAKERS PASSING THROUGH EDMONTON STOPPED AT THE ALE
+HOUSE NEXT TO OLIVER SMUG'S PLACE. WHEN SMUG HEARD THEM SINGING AND 
+MAKING MERRY, HE DECIDED TO LEAVE HIS WORK AND JOIN THEM.</comment>
+<pagebreak id="C1V" />
+   Heere my old Lads of mettle </dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> heeres to
+you, and to all good fellow Shoo-makers in Europe, of
+which number, (for want of a better) I my selfe make
+one.
+   Why sir </dialogue><nonSpeech> (quoth one of them) </nonSpeech><dialogue> are you one of the 
+gentlecraft? faith </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> I am as I tell you, an      
+honest good
+fellow, and a shoomaker, and for the loue I beare to all
+kinde shoomakers, I haue made thus bould to come and
+drinke with you.
+<comment type="compiler">THEY ASKED SMUG TO JOIN THEM, WHICH HE DID. AFTER A WHILE, ONE OF 
+THE SHOEMAKERS GREW SUSPICIOUS OF SMUG, BELIEVING THAT HE WAS REALLY
+A SMITH. WHEN HE SPIED SMUG'S HAMMER, HE INFORMED HIS FRIENDS OF 
+SMUG'S DECEPTION.</comment>
+   Why </dialogue><nonSpeech> (sayd another of them) </nonSpeech><dialogue> my honest friend, came
+you hether to flout vs? wherefore haue you tould vs you
+are that you are not? Why </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> what did I
+tell you that I was? why </dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> you did tell vs
+<pagebreak id="C2R" />
+you were as wee are, a Shooe-maker, I did indeede
+</dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> I toulde you so, and againe I tell you so,
+and will make good my worde vpon a wager with the
+best of you all, agreed </dialogue><nonSpeech> (quoth one) </nonSpeech><dialogue> what shall the wager
+be?
+
+   Why yfaith </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> I thinke you doe intend to
+trauell no farther then this Towne to night, and you say
+the word the Wager shall bee a shot of fiue shillings to bee
+spent in sheare drinke: what say you sirs are you
+contended with it? If you be strike handes and a match.
+   A match </dialogue><nonSpeech> (sayd they) </nonSpeech><dialogue> I know </dialogue><nonSpeech> (sayd one of them) </nonSpeech><dialogue> you
+are a Townesman, and therefore we shall not need to goe
+farre for a touch-stone to try you.
+   </dialogue><nonSpeech>Presently came a Seruing man into the Ale-house to
+<font>SMVG</font> , and desired him for Gods sake to giue ouer his
+drinking and to goe to worke, for his Maisters Horse staid
+for shooes:</nonSpeech><dialogue> What doe you now thinke my Maisters
+</dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> you see I am now sent for, and must goe
+presently to put on a paire of shooes, will you yeeld you
+haue lost? why looke you heere then my mad bullies, heere's
+a shooe </dialogue><nonSpeech> (pulling a horse shooe out of his pocket) </nonSpeech><dialogue> of mine
+owne making, what say you now? am I a Shoomaker
+yea or no? A Shoee-maker </dialogue><nonSpeech> (quoth one of them) </nonSpeech><dialogue> heere
+is a shooe indeede, but it is a Horse shooe, nay </dialogue><nonSpeech> (quoth
+<font>Smug</font> ) </nonSpeech><dialogue> ile prooue it to be a Shooe and no Horse shooe,
+for I made it for <font>Mosse</font> his Mare of <font>ENFIELD</font> , but
+be it Mares Shooe or Horse shooe, a shooe it is, and
+I the maker, <font>Ergo</font> , I am a Shoo-maker because I made
+it.
+
+   Therefore come, deliuer your pursses of a fiue shillings
+peece, or so many small peeces as amounts <comment type="compiler">SOURCE TEXT: a mounts</comment>  
+to so much,
+and let vs stand close to our liquor, for I thinke long till
+I see it.
+   </dialogue><nonSpeech>The shoomakers for all this wold not yeeld they had lost 
+but
+<pagebreak id="C2V" />
+would needs haue him into the Towne for further triall:
+But all gaue Judgement on <font>Smugs</font> side, that hee was a
+shooe-maker, and had wone the wager. Then the
+shoo-makers, when they saw there was no remedy, turnd backe
+with <font>Smug</font> to their old hostesse, and paid their losses, with
+the losse of their wits for that night.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="C3V" />
+ <head> <font>HOW SMUG, PRESUMING VPPON HIS COURAGE, AFTER THIS
+EXPLOITE, (FRIGHTING, THESE SUPPOSED 
+SPIRITS) WOULD NEEDS GO THE NEXT EUENING,
+AGAINE A DEARE STEALING: AND
+HOW DEERE HE PAID FOR IT.</font> </head> 
+   <nonSpeech>The next euening <font>SMVG</font> and his fellowes went
+againe a Deare stealing, but it was a deere 
+Deare-stealing to him and the rest of his companions, for they
+had not bene in the Parke aboue a quarter of an houre
+priuily peaking about for their prey, but they spyed the
+Keeper well weaponed with his great mastiue dog at his
+heeles.</nonSpeech><dialogue> Now out alas </dialogue><nonSpeech>sayd the Parson,</nonSpeech><dialogue> what shall we doe
+my maisters? what shall we doe? good <font>Bancks</font> , as thou
+art an honest Miller, and wouldest haue me pray for the
+for the forgiuenesse of tole-dish sinne, tell me what I shall
+doe.
+<pagebreak id="C4R" />
+   Why alas good sir <font>Iohn</font> </dialogue><nonSpeech> (quoth the Miller,</nonSpeech><dialogue> what
+should I tell you, I know neither what to doe nor say
+for my selfe, what sayest thou <font>Smug</font> ? thou seest we are
+all in danger: I preethe good <font>Oliuer</font> , as thou louest a
+good fellow, and good fellowshipe, as thou louest that,
+thou knowest wee all loue good liquor, giue vs some good
+counsell, and good <font>Smug</font> be breefe, for thou seest our
+destruction is at hand.
+   Why alas my Maisters </dialogue><nonSpeech> (sayde <font>Smug</font> ) </nonSpeech><dialogue> what would
+you haue me say or doe? By <font>Vulcan</font> I protest, I knowe
+not what to saye to you: I would I were at my Forge,
+you good Sir <font>Iohn</font> , a sleepe in the bell-frye, and <font>Bancks</font>
+in his Mill, or I would we were all there, that wee might
+bee as safe as a theefe in the Mill.
+   </dialogue><nonSpeech>As they stood there prating and talking the one to the
+other, they saw the Keeper comming directly towards them:</nonSpeech><dialogue>
+Oh now <font>Smug</font> , </dialogue><nonSpeech> (quoth Sir <font>Iohn</font> ) </nonSpeech><dialogue> sticke to vs, all my
+trust is in thee, I prethee good <font>Smug</font> shew thy selfe as
+valiant now against this keeper, as thou didst against the
+Spirits, and Hobgoblings thou meetest heere the last
+night.
+   If thou beest remembred, thou gauest vs wordes of
+comfort then, and didest bid vs all be of good cheere, and
+feare nothing, for thou saidst thou wouldst make the
+sneaking keeper fly from thee, as fast as thou madst them flie.
+Now honest <font>Oliuer</font> , be as good as thy word, make them
+flie and defend vs, and I euen I Sir <font>Iohn</font> your
+madmerry Parson, will pray to God for thy health and
+welfare, as long as I haue a day to drinke in: Why content
+you Sir <font>Iohn</font> </dialogue><nonSpeech>(sayde <font>Smug</font> ) </nonSpeech><dialogue> Ile see what I can doe, go
+you two and lie close behind that hedge: If I haue but as
+good lucke against this scuruie keeper, this night as I had
+against my little long taild-hobgoblins the last night, weele
+not leaue the Parcke, without that we came for. </dialogue><nonSpeech>They
+(as <font>Smug</font> told them) went behind the hedge &amp; left him
+alone to deale with the keeper: but alas for all his big looks
+<pagebreak id="C4V" />
+and brauing wordes, the Keeper thwackt him so soundly
+that hee made him lye sprawling on the ground, and so left
+him.</nonSpeech>
+   <nonSpeech>When the Miller and the Parson (peeping through the
+hedge) saw the Keeper gone, and poore <font>Smug</font> lye in such
+a pittifull case, they went to him,</nonSpeech><dialogue> now alas poore <font>Smug</font>
+</dialogue><nonSpeech> (sayd sir <font>Iohn</font> ) </nonSpeech><dialogue> how ist? what cheare man? I perceiue your
+furious lookes could not fright away the Keeper, as it did
+the <font>Spirits</font> you tould vs of.
+   Oh Sir <font>Iohn</font> </dialogue><nonSpeech> (sayd <font>Smug</font> ) </nonSpeech><dialogue> this Keeper is a Deuill, hee
+hath payed me yfaith, and yet all these blowes greeue me
+not so much Sir <font>Iohn</font> as that you and my neighbour
+Miller did not stay to take part with me, for you would haue
+had your share in the venison as deepe as I, and I had
+thought he had beene worse to deale withall then <font>Spirits</font> ,
+the Deuill should haue dealt with him ere I would haue
+come into his clutches.
+   </dialogue><nonSpeech> <font>Smug</font> had no sooner spoke this word, but the Keeper
+was vpon them againe, and mightily inraged against them
+all, gaue the Miller and the Parson as much as hee had
+giuen <font>SMVG</font> , and sent them all halting home
+together.</nonSpeech>
+
+ <head> <font>HOW SMUG WAS REUENGED VPON A BARBER, (HIS
+RIUALL) THAT MADE HIM KISSE HIS TAYLE</font> </head> <dialogue>
+
+<comment type="compiler">WHEN SMUG WENT TO CALL ON HIS LOVER, BARBARA, HE FOUND THE DOOR
+LOCKED TO HIM, BECAUSE SHE WAS ENTERTAINING SMUG'S RIVAL, THE BARBER. 
+AS SMUG KEPT KNOCKING, THE BARBER DRESSED IN BARBARA'S CLOTHES AND
+OPENED THE BEDROOM WINDOW. MISTAKING THE BARBER FOR BARBARA, SMUG
+ASKED FOR A KISS.</comment>  
+
+<pagebreak id="D1R" />
+<omission type="line" /> I preethe
+sweete <font>Smug</font> , </dialogue><nonSpeech> (qd. this fine counterfeit) </nonSpeech><dialogue> come busse mee
+through this broken pane, that I will, yfaith </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue>
+with a good will as eare I came from Schoole, or went
+to the Ale-house: then I preethe sweet <font>Smug</font> </dialogue><nonSpeech> (quoth
+the Barber</nonSpeech><dialogue> come smake mee quickely, that I may to
+<pagebreak id="D1V" />
+bed againe, &amp; to morrow Ile meet thee where thou wilt
+appoint me: why come sweet heart </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> I am
+ready, </dialogue><nonSpeech>and thrust his lips as farre as he could into thorough
+the broken pane: Against <font>Smugs</font> lips, the Barber
+instead of his lips turned his A R. his lips I should haue
+said: <font>Smug</font> smackt, and smackt that sweetly fiue or six
+times together, ere he could tell what he kist. At last hee
+perceiued he was plaid the knaue withall and by whom:
+yet in pollicy very patiently put it vp, and with these 
+words tooke his leave.</nonSpeech><dialogue> Farewell sweet <font>Barbara</font> , for
+the kindnesse thou hast showne me at this time, for all
+thy former kindnesse, and these sweet kisses, I rest by
+thee to be commanded, whensoeuer, wheresouer, and
+in whatsoeuer thou pleasest, and so sweet <font>Barbara</font> for a 
+while God be with thee.
+<comment type="compiler">SMUG RAN TO HIS FORGE AS FAST AS HE COULD, HEATED AN IRON, AND
+RETURNED TO ASK FOR ONE MORE KISS. THE UNSUSPECTING BARBER DID AS 
+HE HAD DONE BEFORE, AND SMUG BRANDED HIS BUTTOCKS.</comment>
+<omission type="line" /> Now </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> my neate trimmer, I
+haue trimd you about the hips, as wel as you haue trimd
+me about the lips: as you like this, play the knaue                  
+<comment type="compiler">SOURCE TEXT: knane</comment> with
+me another time, and so farewell good plaster-maker,
+hie the home, &amp; clap a plaister to it quickly, or thou't feele
+<pagebreak id="D2R" />
+me when thou dost not see me. </dialogue><nonSpeech>When <font>Smug</font> had thus
+reueng'd himselfe vpon his riuall, he left him crying and
+fretting, and went laughing home againe roundly.</nonSpeech>
+ <head> <font>HOW SMUG FOXT THE FELLOW THAT WENT TO CORNUTE
+HIM IN THE FOX CHAMBER.</font> </head> <dialogue>
+<comment type="compiler">TWO BROTHERS ATTEMPTED TO CUCKOLD SMUG ON HIS WEDDING DAY BY 
+CONVINCING HIS NEW BRIDE TO SLEEP WITH THEM. SHE AGREED A PLACE AND 
+TIME TO MEET AND THEN INFORMED SMUG OF THEIR PLANS. SMUG TOOK HIS 
+BRIDE'S PLACE AND, WHEN THE YOUNGEST BROTHER ARRIVED, BEAT HIM WITH 
+HIS BOOT.</comment>
+<pagebreak id="D2V" />
+   A ha </dialogue><nonSpeech>quoth <font>Smug</font> ,</nonSpeech><dialogue> ile foxe you yfaith boy, doost thou
+thinke mine host of the George had a whore to his wife?
+no thou lecherous Babone, <font>Smug</font> is better liked off in his
+frize or Sheepe-skin, by his owne smug lasse, then ere a
+<pagebreak id="D3R" />
+spruce sleeked gallant of you all.
+   Why I preethe good <font>Smug</font> </dialogue><nonSpeech> (quoth the youngster) </nonSpeech><dialogue> be
+contented, if I haue made thee a fault, I will make thee
+amends: Nay alas </dialogue><nonSpeech> (qd. <font>Smug</font> </nonSpeech><dialogue> tis no fault, I rather
+account my selfe, (for the kindenesse you would haue
+shewen to me) in your debte, but Ile pay you ere you
+and I part, </dialogue><nonSpeech>and about him he layd againe: Then <font>Smug</font>
+made him slip on his cloathes, &amp; beate him out a doores.
+When the elder Brother (who all the while he was as
+he thought) in the Foxe chamber with <font>Smugs</font> wife, saw
+how he was guld by her, and basted by him, hee smilde to
+himselfe, to thinke how well he was rewarded for his
+forwardnesse <comment type="compiler">SOURCE TEXT: forwradnesse</comment> , and how cleanely he     
+himselfe had escaped 
+that scouring.</nonSpeech><dialogue>
+   Why how now Brother </dialogue><nonSpeech> (said hee) </nonSpeech><dialogue> whats the matter?
+hath your Bed-fellow beate you? is shee such a Deuill?
+how chance you pleased her no better? please her </dialogue><nonSpeech> (quoth
+he) </nonSpeech><dialogue> the Deuill please her &amp; him to, they haue pleased mee
+a plague on them, but it would haue pleased me better
+Brother, if you (as it was your desire this euening) had
+had my place.
+   Why Brother you may see </dialogue><nonSpeech> (quoth the elder) </nonSpeech><dialogue> what it
+is to be so forward in seeking to deceiue your elders.
+   Well, come Brother, lets goe home and sleepe 
+honestly, for we see whats got by tempting honesty, he has
+taught thee, and thou hast taught mee to take heede how
+we enter into any such action againe. </dialogue><nonSpeech>Then home they 
+hied them hand in hand, one smiling and iesting, and the
+tother fretting and chafing, cursing poore <font>Smug</font> , his
+wife, and the Foxe-chamber extreamely.</nonSpeech>
+<pagebreak id="D3V" />
+ <head> <font>HOW SMUG BEING DRUNKE, LOST HIS FELLOWES IN THE PARKE,
+AND HOW WHEN THEY GOT TOGETHER BY WHOOPING &amp;
+HOLLOWING, HE TOOKE THEM FOR THEEUES, &amp; WOULD BY
+NO MEANES KNOW THEM TILL HE WAS SOUNDLY THAWACKT
+BY THEM AND MADE TO KNOW HIS FRIENDS FROM HIS FOES.</font> </head> <dialogue>
+<comment type="compiler">SMUG'S FRIENDS TOOK HIM TO THE PARK TO HELP THEM POACH DEER, BUT 
+SMUG WAS SO DRUNK THAT HE FORGOT WHY HE WAS THERE, AND STRAYED AWAY 
+FROM THEM.</comment>
+<omission type="sentence" /> body of me </dialogue><nonSpeech> (qd. sir <font>Iohn</font> ) </nonSpeech><dialogue> what
+shall we do? kinde neighbours and friends, what shal we
+do? honest <font>Smug</font> with his head full of liquor is gone god
+knowes whether, I pray <font>Ioue</font> , he be not falne into some
+of these ditches, y=t= I hope he is not </dialogue><nonSpeech> (qd. mine host) </nonSpeech><dialogue> he was
+wet enough before: why what a mad knaue is this <font>Smug</font> 
+</dialogue><nonSpeech> (qd. y=e= Miller</nonSpeech><dialogue> (he is sure asleepe some where, faith then
+</dialogue><nonSpeech> (qd. sir <font>Iohn</font> ) </nonSpeech><dialogue> we were best giue ouer seeking for him by 
+the
+<pagebreak id="D4R" />
+eye, &amp; try what we can do by the voice. </dialogue><nonSpeech>Then they fell to
+whooping &amp; hollowing, as loud as they could, that <font>Smug</font>
+might heare &amp; answer the~: a good while they went
+whoping &amp; hollowing, but <font>Smugs</font> eare was to far off for their
+voices to reach, they could by no meanes heare y=e= 
+answering hollow: the babling Eccho answered euery whoope
+they made, but <font>Smug</font> not one. So long they walked
+whoping &amp; hollowing vp &amp; down, that the discouerer of euery
+bad action, y=t= morning was ready to discouer theirs, &amp; yet
+<font>Smugs</font> hollow could not be heard. At last when they had
+giuen ouer hollowing: and were going without him, they
+heard him whoop,</nonSpeech><dialogue> hush </dialogue><nonSpeech> (qd. sir <font>Iohn</font> </nonSpeech><dialogue> I thinke I heare his
+voice, from whence comes it? masse &amp; I heare it to </dialogue><nonSpeech> (qd.
+mine Host) </nonSpeech><dialogue> but from whence I know not. Why the~ </dialogue><nonSpeech> (qd.
+the Miller) </nonSpeech><dialogue> we were best by our hollowing to keepe him
+hollowing still, and so wee shall come to him Ile warrant
+you: </dialogue><nonSpeech>They did as the Miller counselled them, and within
+lesse then a quarter of an houre had sight of him.</nonSpeech>
+   <nonSpeech>When they were come neare together, sir <font>Iohn</font> (out
+of the loue &amp; good will he bare to <font>Smug</font> , stept forward
+before his fellowes, and with an outstretched arme and
+smiling countenance would haue imbraced him,</nonSpeech>
+   <nonSpeech>But <font>Smug</font> in his drunken humor (not knowing him to
+be sir <font>Iohn</font> ) nor y=e= Miller &amp; mine Host that followed him,
+to be his old honest familiar copes-mates, tooke him such
+a knocke ore the pate, that he made M. Parson stagger
+like himselfe, though their causes were much vnlike.</nonSpeech><dialogue> why
+how now <font>Smug</font> </dialogue><nonSpeech> (qd. the fiery fac'd Host) </nonSpeech><dialogue> wilt thou fight
+w=t= thy friends? friends </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> Foot you rogues doe
+you come to rob me? keep out, keepe out I aduise you, and
+you meane to go home againe to see your wife &amp; children
+(if you haue any) keepe out, by <font>Pharaoh</font> you all die else.
+   Why I prethee <font>Smug</font> </dialogue><nonSpeech> (qd. the Miller) </nonSpeech><dialogue> put downe thy
+weapon, we are all thy friends, I prethee <font>Smug</font> </dialogue><nonSpeech> (qd. mine
+Host) </nonSpeech><dialogue> put thy staffe on thy shoulder, and lets go home
+together, dost thou not know me? come giue me thy hand.
+<pagebreak id="D4V" />
+That I will </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> there, and knockt him ore
+the pate with his staffe: there's a hand for thee, </dialogue><nonSpeech>and still
+stood striking at them, laying about him like a mad man.</nonSpeech> 
+   <nonSpeech>When they said he would by no faire intreaty come to
+the knowledge of them, they all layed at him, and well
+and soundly basted his sides: and by that time they had
+thwackt him soundly indeed, his wits were come to him.</nonSpeech>
+   <nonSpeech>Then he knew his friends from his foes, and desired
+them very kindly, (euery man by his name) to hold their
+hands, and very orderly &amp; well, helped his fellow theeues
+to beare home their booty.</nonSpeech>
+
+ <head> <font>HOW SMUG WAS DECEIUED OF HIS RED CAP BY HIS WIFE,
+AND BY THAT DECEIT FORST TO LEAUE HIS SWAGGERING
+COMPANY, AND GO WITH HER HOME TO 
+HIS LABOUR.</font> </head> <dialogue>
+
+<comment type="compiler">SMUG AND HIS WIFE HAD AN AGREEMENT THAT ON THE DAYS HE WORE HIS RED
+CAP, HE COULD SPEND THE DAY AS HE PLEASED BUT ON ALL OTHER DAYS HE
+WAS TO DO AS HIS WIFE REQUESTED. ONE DAY, HE SPENT THE DAY DRINKING 
+AND MAKING MERRY WITH HIS FRIENDS BUT WHEN HIS WIFE HEARD THAT HE WAS 
+IN A &quot;HOUSE OF INIQUITY&quot;, SHE CAME TO TAKE HIM HOME.</comment>
+<pagebreak id="E1R" />
+   Why thou confounding Cockatrice </dialogue><nonSpeech> (sayd he) </nonSpeech><dialogue> dost thou
+not see my Cap of maintenance, my scarlet couloured
+Cappe. Am not I to doe my pleasure without checke
+or controule so long as this Cap is on my head? away.
+be gon, or by the life of <font>Pharaoh</font> ile be bumble thee, I tell
+thee, so long as this Cap is on my head I will not bee
+crost in mine humor. 
+<comment type="compiler">KNOWING THAT SHE WOULD NOT CONVINCE HIM WITH WORDS, SHE SKILFULLY
+SWAPPED SMUG'S CAP WITH ANOTHER. SHE THEN STOOD BEFORE HER DRUNKEN
+HUSBAND AND HELD UP HER FINGER AS A SIGN TO HIM THAT HE MUST COMPLY 
+WITH HER REQUEST.</comment>
+<pagebreak id="E1V" />
+   How darest thou presume to hould vp thy finger? and
+see this </dialogue><nonSpeech> (poynting to his red cap as he thought) </nonSpeech><dialogue> downe
+with that finger, or Ile set downe finger and body and
+all, by the life of <font>Pharaoh</font> , now by broad chek'd <font>Bacchus</font>
+that sweet swilling God of good fellowes, I will, shall
+I be crost in my humors? if my red cap were at home, &amp;
+I heere, I would obey thee, but being both heere I will
+not.
+   Why you are deceiued </dialogue><nonSpeech> (qd. shee</nonSpeech><dialogue> your red cap is not
+heere and therefore you must and shall along with mee,
+look heere, is this your red cap </dialogue><nonSpeech> (sayd she) </nonSpeech><dialogue> and </dialogue><nonSpeech>tooke it fro~
+his head to shew it him) </nonSpeech><dialogue> I pray you looke vpon it well.
+   </dialogue><nonSpeech>When <font>Smug</font> had lookd vpon it well himselfe and had
+asked the Millers and the merry Priests Iudgment of
+the colour of his cap, &amp; found it to be a gray cap, he looked
+as pale as a poore dispairing debtor, at the sight of a
+Sergeant, or his Cut-throate creditor: and presentlie
+yeelded, made a low legg, tooke his leaue of his
+company as hansomely as he could, and reeld home with his
+wife, very louingly.</nonSpeech>
+<pagebreak id="E2R" />
+ <head> <font>HOW SMUG WAS TAKEN BY THE WATCH, AND SET IN THE
+STOCKES FOR ABUSING OF THEM, AND HOW HE KEPT SUCH A 
+COYLE WITH WHOOPING, AND HOLLOWING VNDER A SICKE
+WOMANS WINDOW, THAT THE CONSTABLE WAS FAINE TO SET HIM 
+AT LIBERTY, AND GLAD TO BE SO RID OF HIM.</font> </head> <dialogue>
+
+<comment type="compiler">SMUG WAS RETURNING HOME AFTER SPENDING THE EVENING DRINKING WITH 
+FRIENDS WHEN HE WAS STOPPED BY THE WATCH. AS HE WAS ABUSIVE TO THEM, 
+SMUG WAS THROWN IN THE STOCKS. HE BEGAN TO SING TO PASS
+AWAY THE TIME, BUT MADE SUCH A NOISE THAT THE CONSTABLE'S WIFE SENT 
+HER MAID TO TELL SMUG TO BE QUIET.</comment>
+<pagebreak id="E2V" />
+<omission type="sentence" /> How, hold my tongue
+</dialogue><nonSpeech> (said <font>Smug</font> </nonSpeech><dialogue> no though maister Constable haue a tricke,
+to force me to hould my leggs still, he wants a trick to
+make me hould my tongue still.
+   But I prethee wench, tell me from whence or from 
+whom comest thou, to bid me hould my tongue? marry
+</dialogue><nonSpeech> (sayd the maide) </nonSpeech><dialogue> I dwell heere, you sit vnder the
+chamber window, where my mistris who (sent me) lyes 
+very sicke <comment type="compiler">SOURCE TEXT: sscke</comment> : how sicke?                       
+</dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> I prethee tell
+me lasse who is thy mistris? marry </dialogue><nonSpeech>quoth. she</nonSpeech><dialogue> the
+Constables wife, (how </dialogue><nonSpeech>sayd <font>Smug</font> ) </nonSpeech><dialogue> the Constables wife?
+what his wife that set me heere? I, euen his wife, </dialogue><nonSpeech> (qd.
+the maid) </nonSpeech><dialogue> therefore I prethee good fellow be quiet:
+O I will I will </dialogue><nonSpeech> (said <font>Smug</font> ) </nonSpeech><dialogue> go tell thy mistris I will
+not sing one song more to disturbe her: I prethee do no
+good fellow </dialogue><nonSpeech> (qd. the maid) and so went vp againe to her
+mistris, she was scarce in the chamber with her mistris,
+deliuering his answer, but hee was as loud and farre
+louder then he was before, though not in the same 
+manner, because of his promise: for he had turnd from
+bawling, like a ballet singer, to shouting, whooping, and
+hollowing, like a forrester. Such a noise he made as hee
+sate, with hollowing and whoping, (as if he had bene a
+hunting) that maister Constables sicke wife, could by
+no meanes, take a minutes rest by him.</nonSpeech>
+   <nonSpeech>Twice or thrice shee sent her maide downe to him a
+gaine to desire him to be quiet: but as often as she sent,
+he strained himselfe to raise his voice higher.</nonSpeech><dialogue>
+   Nay yfaith </dialogue><nonSpeech> (qd. <font>Smug</font> ) </nonSpeech><dialogue> your husband set me heere,
+I thanke him, and doe you thanke him if I be a trouble
+to you, for setting me so neare you: blame not me for 
+<pagebreak id="E3R" />
+yfaith) I must be doing some what to make my selfe 
+merry: </dialogue><nonSpeech>when he had thus tould her his minde, he fell to
+whoping and hollowing againe.</nonSpeech>
+   <nonSpeech>Then she sent for her husband, thinking by his
+presence to still him, but he being with him, <font>Smug</font> was ten
+times worse, then when he was from him (for he playd
+the knaue so on purpose to crosse him.</nonSpeech>
+   <nonSpeech>When maister Constable sawe, that neither faire
+meanes nor foule, could make him hould his tongue, and
+that by the noise he made, his wife grew worse &amp; worse,
+he commanded his beadle, (or some other vnder Officer)
+to let him out, and desired <comment type="compiler">SOURCE TEXT: dersied</comment> him, very       
+kindly, to goe
+quietly home to his dwelling.</nonSpeech><dialogue>
+<comment type="compiler">VERSE OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="E3R" />
+ <head> <font>HOW KNAUISHLY SMUG WAS DEALT WITH, BY THREE OR FOURE
+OF HIS FELLOW DRUNKARDS: AND HOW HE
+BROKE THE GLASSE THAT SHEWED HIM THE
+SHADDOW OF HIS OWNE FACE-</font> </head> <dialogue>
+<pagebreak id="E4R" />
+<comment type="compiler">WHEN SMUG WAS IN A DRUNKEN SLEEP, HIS FRIENDS BLACKENED HIS FACE 
+TO MAKE HIM LOOK LIKE A DEVIL. ON WAKING, SMUG BEGAN TO MAKE HIS WAY 
+HOME AND WAS SURPRISED WHEN A CROWD OF BOYS BEGAN TO HOUND HIM AND 
+CALL HIM DEVIL. HIS WIFE HEARD THE COMMOTION, AND SHOWED SMUG HIS 
+REFLECTION IN A GLASS.</comment>
+<omission type="line" /> </dialogue><nonSpeech>Then
+<font>Smug</font> began to sweare (not like a Smith I can tell you) </nonSpeech><dialogue> 
+gogs nownes, foote and nayles thou most abhominable
+whore, dost thou shew me the Deuill to fright me from
+that little store of wit which I haue? An thy Deuil were
+<pagebreak id="E4V" />
+ten deuils, I am not affraid of him, and that thou shalt
+quickly see: </dialogue><nonSpeech>with that the tooke his hammer from his side
+(still seeing his owne sweet shaddow in the glasse, which
+he tooke to be the Deuill) strooke at it, and with one
+blow clattered the glasse all in peices.</nonSpeech><dialogue>
+   Now you whore </dialogue><nonSpeech> (sayd hee) </nonSpeech><dialogue> where is your deuill now?
+I thinke I haue mauld him yfaith: bring your Deuills
+to me dost thou? y=u= dost whore thou? Alasse sweet <font>Smug</font>
+</dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> seing him so very much mooued, be patient
+I preethe sweet chucke, &amp; shewing him the crackt frame:
+looke heere heere is no Deuill, therefore I preethe sweet
+<font>Oliuer</font> be quiet.
+   Nay </dialogue><nonSpeech> (quoth <font>Smug</font> ) </nonSpeech><dialogue> ile ticle your Deuills, yfaith, and
+your Deuils come to molest me within mine owne house
+vpon mine owne ground, ile deuill them.
+   Come good sweet heart </dialogue><nonSpeech> (qd. she) </nonSpeech><dialogue> now thou hast
+beaten the Deuill away let vs goe to bed. </dialogue><nonSpeech>After a quarter of
+an houres fretting, with very good words she got him to
+bed. In the morning when shee knew his sleepe had made
+him sober, she shewed him his blacke face againe in
+another glasse, which when he saw, and knew well what
+he saw, he blusht, but the best was it could not be seene
+till his visard was taken off with faire water and soape,
+then he confest himselfe faultie, promised amends, and
+went very close to his labour.</nonSpeech>
+
+ <head> <font>HOW CUNNINGLY SMUG SCAPED THE KEEPER AND OTHERS
+THAT PURSUED HIM, AND MADE THEM RUN VP AND DOWNE
+FROM PLACE TO PLACE TO SEEKE HIM IN VAINE.</font> </head> <dialogue>
+
+<comment type="compiler">WHILE OUT DEER-POACHING, SMUG AND HIS FRIENDS WERE CHASED BY THE
+KEEPER AND HIS MEN. SIR JOHN AND THE MILLER WERE QUICKLY CAUGHT, BUT
+SMUG MANAGED TO REACH EDMONTON. TOO AFRAID TO RETURN HOME, HE 
+SCRAMBLED ONTO THE HORSE STATUE OVER THE DOOR OF THE WHITE HORSE INN
+IN ORDER TO MIMIC SIR GEORGE. THEN THE KEEPER AND ONE OF HIS MEN 
+ARRIVED.</comment>
+<pagebreak id="F1V" />
+<omission type="line" /> come </dialogue><nonSpeech>said y=e= keeper to the
+other</nonSpeech><dialogue> let vs go search the Innes, &amp; first this, this white 
+horse is his dayly haunt, and therefore it may be we shall
+finde him heere this night, come let vs in.
+</dialogue><nonSpeech>As y=e= keeper was going into the white horse (vndr <font>Smug</font> )
+his fellow looking vp, bad him stay,</nonSpeech><dialogue> stay </dialogue><nonSpeech> (quoth the
+keeper) </nonSpeech><dialogue> wherfore shold I stay? why looke you </dialogue><nonSpeech> (said the other) </nonSpeech><dialogue>
+this is not the white horse as you take it to be, this is
+the George, masse </dialogue><nonSpeech> (qd. the keeper) </nonSpeech><dialogue> tis the George indeed,
+come, lets ouer to the white horse. </dialogue><nonSpeech>When they had crost
+the way (as they thought to the white horse) they found
+y=e= George againe.</nonSpeech><dialogue> Zoundes </dialogue><nonSpeech> (qd. the keeper Iacke,</nonSpeech><dialogue> this is
+the George too. What haue we two Georges in 
+<font>Edmonton</font> . Foot man where are we? if this be <font>Edmonton</font> , heere
+was but one George yesterday, &amp; the white horse ouer
+against it, now heere are two Georges one against 
+another: this is strange, tis very strange indeed </dialogue><nonSpeech> (qd. the other)
+bones man,</nonSpeech><dialogue> are we not at <font>Hodsdon</font> , for thou knowest the
+two georges are in <font>Hodsdo~</font> , masse thou saiest true Iack,
+&amp; by these signes this should be <font>Hodsdon</font> . Come, come,
+</dialogue><nonSpeech> (qd. the other) </nonSpeech><dialogue> we mistook our way in the darke, this is
+<font>Hodsdon</font> , come lets vp to <font>Edmonton</font> . Content </dialogue><nonSpeech> (qd. the
+keeper) and together they ran as fast as they could to
+<font>Hodsdon</font> to finde <font>Edmonton</font> .</nonSpeech><dialogue>
+<comment type="compiler">WHEN THEY REACHED HODSDON THEY REALISED THEY HAD BEEN TRICKED, 
+AND SWORE TO GET REVENGE. SMUG, MEANWHILE, HAD GONE HOME 
+TO BED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="F2V" />
+ <head> <font>HOW SMUG WAS REUENGED ON HIS WIFE FOR LOCKING HIM
+IN A DOORES.</font> </head> <dialogue>
+<comment type="compiler">SMUG HAD WANTED TO GO OUT, BUT HIS WIFE HAD PREVENTED HIM. THE NEXT
+DAY, HE WORKED HARD TO CONVINCE HER HE WAS MENDING HIS WAYS, SO THAT 
+SHE WOULD RUN AN ERRAND FOR HIM. BY THE TIME SHE RETURNED, SMUG 
+HAD LOCKED THE DOOR AND WOULD NOT OPEN IT.</comment>
+<pagebreak id="F3R" />
+   </dialogue><nonSpeech>When she saw y=t= neithar reasonable knocking, nor
+vnreasonable calling could raise him, she tooke vp a great
+flint stone &amp; beate against the doore as though she would
+haue beat it downe. Then <font>Smug</font> started vp to y=e= window
+in his shirt, &amp; very strangely asked who it was kept such
+a bounsing at the doore?</nonSpeech><dialogue> marry good man drunkard </dialogue><nonSpeech> (qd.
+she) </nonSpeech><dialogue> it is I that knock, wherefore hast thou lockt me out?
+Nay first </dialogue><nonSpeech> (qd. <font>Smug</font> </nonSpeech><dialogue> answer me, wherefore didst thou
+locke me in? twas so lately don, I am sure thou hast not
+forgot it, or if thou hast thou seest I haue not.
+<comment type="compiler">TWO LINES OF VERSE OMITTED.</comment>
+   So, talke no longer, for I swear by my red cap, &amp; by
+<font>Bacchus</font> the God of good liquor, I meane to keep thee out
+all night, as thou kepst me in all day, and so sweet <font>Agnis</font>
+<pagebreak id="F3V" />
+till betweene seuen and eight in the morning farewell.
+   </dialogue><nonSpeech>To bed went he againe &amp; left her to shift for her selfe
+til morning: how they agreed when they came together,
+I know not, but you may iudge she scarce tooke it
+patiently.</nonSpeech>
+ <head> <font>HOW SMUG QUARRELD WITH HIS FELLOWES, AND WAS READY
+TO FIGHT ABOUT THE SINGING OF A CATCH: AND HOW TILL THEY
+TURND IT TO HIS MIND, HE WOULD NOT BE QUIETED.</font> </head> 
+   <nonSpeech> <font>Smug</font> one day being very merry, with his honest 
+swilling associates fro~ drinking, fell to singing, &amp; amongst
+all the od Alehouse catches they had vp, this was one <font>Ile
+ty my Mare in thy ground</font> : this <font>Ile ty my Mare in thy
+ground</font> was tost so long to and fro, betweene <font>Smug</font> the
+Miller &amp; the merry Parson, y=t= <font>Smug</font> had forgot he was
+singing a Catch, and began to quarrel with the Parson,
+thinking verily, he had ment, (as he said in his song) to <font>ty
+his Mare in his ground</font> :</nonSpeech><dialogue> Will you <font>ty your Mare in my
+ground</font> ? </dialogue><nonSpeech> (said <font>Smug</font> ) the Parson he sung still, <font>Ile ty my 
+Mare in thy ground</font> : In <font>my ground</font> ? (said <font>Smug</font> :) still
+went y=e= Parson forward with his Catch, <font>Ile ty my Mare
+in thy ground, &amp;c.</font> Then <font>Smug</font> began to swagger indeed
+and swore, if he tyed his <font>Mare</font> in his ground, he woulde
+make his cap and scull cleaue together: besides he would
+giue his <font>Mare</font> such a drench y=t= after y=t= drinke, she should
+neuer eate more. The Parson seeing <font>Smugs</font> rage
+increasing, with very good words, intreated him to be patient,
+&amp; cast away choller</nonSpeech><dialogue> for as I am an honest sir <font>Iohn</font> , and a
+boone companion meant no harme in the world: I did but
+sing the Catche, as the Catch was. </dialogue><nonSpeech>But all these kinde
+words &amp; intreaties, could not win <font>Smug</font> to patience, till
+M. Parson turnd his song, &amp; himselfe in singing fro~ him
+to the Miller: Then they were as good friends as could 
+be, and (in kindnesse) went againe to drinke together
+till they were all laid to sleepe together.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

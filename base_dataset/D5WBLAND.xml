@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5WBLAND">
+  <dialogueHeader>
+
+    <filename>D5WBLAND</filename>
+
+    <identifier>5 WITNESS D D5WBLAND</identifier>
+
+    <title>MARY BLANDY</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1752</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE GENUINE TRYAL AT LARGE OF MARY BLANDY, SPINSTER, FOR 
+POISONING HER LATE FATHER FRANCIS BLANDY, GENT. TOWN-CLERK OF HENLEY
+UPON THAMES, OXFORDSHIRE, AT THE ASSIZES HELD AT OXFORD, FOR THE
+COUNTY OF OXFORD, ON TUESDAY THE THIRD OF MARCH, 1752, BEFORE THE
+HONOURABLE MR. BARON LEGGE, AND THE HONOURABLE MR. BARON SMYTHE.
+LONDON PRINTED: AND SOLD BY W. JACKSON, IN THE HIGH-STREET, OXFORD, 
+AND THE BOOKSELLERS THERE: AND SOLD IN LONDON BY R. WALKER, IN THE
+LITTLE OLD-BAILEY, AND BY ALL THE BOOKSELLERS AND PAMPHLETSELLERS.
+1752.
+PP. 6.6C2 - 9.22C1    SAMPLE 1
+PP. 10.53C1 - 10.35C2 SAMPLE 2
+PP. 11.36C2 - 12.15C1 SAMPLE 3
+PP. 12.50C1 - 15.22C1 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">PARTS OF THIS TRIAL ACCOUNT ARE IN THE FORM OF QUESTIONS AND 
+ANSWERS IN THE COURTROOM WHICH ARE RENDERED AS DIRECT SPEECH. THESE 
+PARTS ARE NOT SAMPLED BELOW.</comment>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="6C2" />
+<comment type="compiler">THE WITNESS HAS DESCRIBED MR. BLANDY'S SYMPTOMS 
+AND HOW ARSENIC WAS FOUND IN THE GRUEL.</comment>
+   </dialogue><nonSpeech>Dr. <font>Addington</font> further deposed, that
+Mr. <font>Blandy</font> told him, that he suspected
+he had taken Poison, and that he believed
+it came to his Daughter with the <font>Scotch</font>
+Pebbles, for he was always worse after a
+Present of those damned <font>Scotch</font> Pebbles
+were received, and besides, that he
+remembered to have heard <font>Cranston</font> talk
+very learnedly upon Poisons; that when
+he, this Witness, asked Mr. <font>Blandy</font> who
+he imagined gave him this Poison, he
+replied, with Tears in his Eyes, though
+with a forced Smile,</nonSpeech><dialogue> <font>A poor Love-sick
+Girl, but I forgive her</font> .
+   </dialogue><nonSpeech>He was then asked by the King's
+Council, if he was sure that the Poison
+the Deceased had taken, was the Cause
+of his Death; Dr. <font>Addington</font> replied, he
+was sure that it was.</nonSpeech><dialogue>
+<comment type="compiler">TESTIMONY OF DR. LEWIS OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Benjamin Norton</font> , Apothecary, at
+<font>Henley upon Thames</font> , deposed, That he was
+called to Mr. <font>Blandy, Tuesday August</font> 6th. and
+found him complaining of a violent Pain
+in his Stomach and Bowles, attended
+with a violent Purging and Vomiting;
+that on the <font>Thursday</font> Morning following
+<font>Susannah Gunnell</font> sent to him, and said she
+<pagebreak id="7C1" />
+should be glad to consult about some
+Water-Gruel which she had left with Mrs.
+<font>Mountney</font> , which was the Remainder of what
+Mr. <font>Blandy</font> her Master had eat part of;
+that he went and examin'd it, and
+being ask'd by them, if he knew what it
+was that was in it, he answer'd them,
+he could not be very possitive; but let
+it be what it would, he was sure it could
+not have any Business there; that he
+took it from the Gruel upon some white
+Paper, and left it with Mrs. <font>Mountney</font> to
+dry; that when it was dry, he burnt
+Part of it with a hot Poker, and said it
+appear'd to him to be of the Arsnic Kind;
+and that another Part of it he had
+deliver'd to Dr. <font>Addington</font> ; and the
+Remainder he produc'd in Court, seal'd up
+under the Seals of the Earl of
+<font>Macclesfield</font> and Lord <font>Cadagan</font> .</nonSpeech><dialogue>
+<comment type="compiler">CROSS-EXAMINATION OMITTED.</comment>
+<pagebreak id="7C2" />
+   </dialogue><nonSpeech> <font>Mary Mountney</font> being sworn, said, That
+on the 8th of <font>August</font> last, <font>Susannah
+Gunnell</font> came to her House, and brought a
+Pan with some Gruel in it, and desired
+this Witness to look at it, for she
+feared there was something in it that should
+not be; that upon this Witness's
+looking at it, she was of the same Opinion;
+that <font>Gunnell</font> left the Pan with the Gruel
+in it with her, desiring this Witness to
+shew it to Mr. <font>Norton</font> the Apothecary,
+and desire his Opinion of it; that this
+Witness did shew it to Mr. <font>Norton</font> ,
+who inspected it, and said, <font>that
+whatever it was, it had no Business there</font> ; that
+Mr. <font>Norton</font> desired some white Paper,
+which she gave him; that then Mr.
+<font>Norton</font> took the Sedement at the Bottom,
+put it on the Paper, and gave it to this
+Witness to keep till it was dry; that
+then this Witness locked it up, till the
+11th of the same Month, and then
+deliver'd it to Mr. <font>Norton</font> .</nonSpeech><dialogue>
+<comment type="compiler">CROSS-EXAMINATION OMITTED.</comment>
+<pagebreak id="8C1" />
+   </dialogue><nonSpeech> <font>Susannah Gunnell</font> , the Chamber-maid,
+being call'd and sworn, said, That on
+<font>Monday</font> the 5th of <font>August</font> last her
+Master was not very well, and desired to
+have some Water-gruel before he laid
+down; that Miss <font>Blandy</font> , the Prisoner at
+the Bar, carried him about half a Pint,
+which he drank, and was immediately
+sick, and call'd for a Bason to be brought
+up to his Room; and that she, this
+Witness, carry'd up a clean one: Being
+ask'd if he had made Use of it, she
+answered Yes, and discharg'd into it about
+half a Pint; that he complain'd of
+violent Pains in his Stomach and Bowels;
+that next Morning he sent for Mr. <font>Norton</font> ,
+who gave him something, and he was
+easier; that in the Afternoon <font>Robert
+Harman</font> brought Orders from his Master
+to have a little Water-gruel warm'd
+instantly; that she warm'd it accordingly,
+and the Prisoner carried it to her Father;
+that he drank that also, and was
+immediately affected in the same Manner as
+before, but more violently; that on
+<font>Wednesday</font> Morning her Master took Physick,
+and Miss told her, her Father would want
+Water-gruel; and on this Witness's
+saying she would leave her Ironing and make
+some, Miss <font>Blandy</font> reply'd,</nonSpeech><dialogue> <font>there's no
+Occasion for that, the Gruel in the Pan
+will serve</font> ; </dialogue><nonSpeech>that thinking that too stale,
+and having tasted it the Day before, and
+imagining it tasted ill, she went and tasted
+it a second Time, when, upon lifting the
+Pan to her Mouth, she observ'd a white
+Settling at the Bottom; and that upon
+seeing it so white, she felt it between
+her Finger and Thumb, and found it
+gritty; that she then went into the
+Kitchen to <font>Betty Binfield</font> , the Cook-maid,
+and desired she would look at it, for the
+Oatmeal was very white; that <font>Betty</font>
+said</nonSpeech><dialogue> Oatmeal, why 'tis as white as Flour;
+<pagebreak id="8C2" />
+yes, </dialogue><nonSpeech>answered this Witness,</nonSpeech><dialogue> but it feels
+more gritty than any we ever had; </dialogue><nonSpeech>that
+this Witness then took it to the Door,
+when it appear'd still more white;
+whereupon she immediately recollected
+that she had been told that Poison was
+white and gritty; and it then came into
+her Mind, that her Master's Disorder
+was occasioned by Poison? and she
+immediately took the Pan to Mrs.
+<font>Mountney</font> , told her what she suspected, and
+desired her to shew it to Mr. <font>Norton</font> the
+Apothecary: Being ask'd who she
+believed put that white Stuff into the Gruel,
+she said the Prisoner: Being asked why
+she suspected her, reply'd, that the
+<font>Monday</font> before, when the Gruel was made,
+Miss <font>Blandy</font> was some Time in the
+Pantry stirring it, and then coming into
+the Kitchen, she said,</nonSpeech><dialogue> I have been
+stirring the Gruel, and eating some of the
+Oatmeal out of it, for I have taken a
+great Fancy to it, and believe I shall
+often eat it out of my Father's Gruel. --
+</dialogue><nonSpeech>That on <font>Friday</font> the 9th, she told Mr.
+<font>Stevens</font> , her Master's Brother-in-law,
+what she suspected, and desired him to
+acquaint her Master, who said, that he
+could not bear to do it; that she
+continued very uneasy, and on <font>Saturday</font>
+Morning the 10th came to a Resolution
+to acquaint her Master herself, which she
+accordingly did, and begg'd he would
+let his Daughter see him as little as 
+possible; that he accordingly forbid her
+from coming into his Chamber; and then
+said,</nonSpeech><dialogue> <font>Oh! that damn'd Villain</font> Cranston,
+<font>that has eat of the best, and drank of the
+best that my House afforded, to serve me
+thus, and to ruin my poor love-sick Girl</font> . --
+</dialogue><nonSpeech>That on <font>Monday</font> , at Miss's Request, her
+Father consented to see her; that she,
+this Witness, was present when Miss
+came into her Chamber, and fell down
+upon her Knees, and said,</nonSpeech><dialogue> <font>Oh! Sir,
+forgive me, send me where you will, and I'll
+never see or hear from, or write to</font> Cranston
+<pagebreak id="9C1" />
+<font>more; so you do but forgive me I shall be
+happy</font> . </dialogue><nonSpeech>To which Mr. Blandy reply'd,</nonSpeech><dialogue>
+<font>I do forgive thee, but thou shoulst'st have
+remembred I am your Father, but for
+that Villain</font> Cranston, <font>if thou had'st loved
+me, thou would'st curse him and the Ground
+he walks upon</font> . </dialogue><nonSpeech>Upon this Miss said,</nonSpeech><dialogue> <font>Oh
+Sir! your Kindness to me strikes Daggers to
+my Soul</font> ; Sir, <font>I must down on my Knees
+and pray that you will not curse me</font> ; </dialogue><nonSpeech>he
+reply'd,</nonSpeech><dialogue> <font>I curse thee! no Child I bless thee,
+and hope God will bless thee, and I pray thou
+may'st live to repent and amend. -- Leave
+me least thou shouldst say something to thy
+Prejudice; go to thy Uncle</font> Stevens, <font>he
+will take Care of thee; alass poor Man,
+I am sorry for him</font> . </dialogue><nonSpeech>Miss then declared
+she was innocent of his Illness, when
+this Witness reply'd, she was afraid she
+was not quite innocent, and that some
+of the Powder was in such Hands as 
+would appear against her.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="10C1" />
+   <nonSpeech> <font>Elizabeth Binfield</font> , the Cook-Maid, depos'd,
+That on <font>Monday</font> the 5th of <font>August</font> last, a Pan
+<pagebreak id="10C2" />
+of Water-gruel was made for her Master, the
+Deceased Mr. <font>Blandy</font> ; that Miss <font>Blandy</font> , the
+Prisoner at the Bar, came into the Kitchen, and
+said,</nonSpeech><dialogue> <font>Betty, I have been stirring your Water-gruel,
+and eating some of the Oatmeal, and believe I shall
+often eat some out of my Father's Gruel</font> . </dialogue><nonSpeech>That
+that Evening her Master had some of the Gruel,
+and was taken very ill after it; that the next
+Day Mr. <font>Norton</font> the Apothecary was sent for,
+and that toward the Evening her Master was
+better; but the next Day he drank some
+more Gruel, and was worse than before, with
+vomiting and purging, and complain'd that he
+had a Ball of Fire in his Guts. That the
+next Day, <font>Wednesday, Susan Gunnell</font> brought
+a Pan with some Gruel in it into the Kitchen,
+and said,</nonSpeech><dialogue> <font>Betty, did you ever see any Oatmeal
+so white</font> ? </dialogue><nonSpeech>that this Witness reply'd,</nonSpeech><dialogue> 
+Oatmeal! 'tis more like Flour; </dialogue><nonSpeech>that <font>Susan</font> said,</nonSpeech><dialogue>
+I never saw any so gritty in my Life; </dialogue><nonSpeech>that
+then <font>Susan</font> took the Pan to Mrs. <font>Mountney's</font> .
+That the <font>Friday</font> after, her Master and Miss
+were in the Kitchen, her Master said to this
+Witness,</nonSpeech><dialogue> <font>Betty</font> , what Day of the Month is
+this? </dialogue><nonSpeech>which being informed of, he replied,</nonSpeech><dialogue>
+about this Time of the Year Queen <font>Anne</font> was
+poisoned. I remember, </dialogue><nonSpeech>continued he,</nonSpeech><dialogue> that a
+long while ago, being in Company at the 
+<font>Red-Lion</font> , they gave us some damn'd Stuff that
+poison'd us all, one died presently after,
+another is dead since, and now I fear 'tis my Fate
+to be poisoned at last. </dialogue><nonSpeech>That Miss seemed
+much surprized, but with a forced Smile, said,</nonSpeech><dialogue>
+<font>I remember it very well, Papa, 'tis twenty Years
+ago</font> , </dialogue><nonSpeech>and went away immediately.</nonSpeech> 
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="11C2" />
+   <nonSpeech>Mr. <font>Littleton</font> , Mr. <font>Blandy's</font> Clerk, being
+next call'd and sworn, said, That he had been
+out of <font>Henley</font> to visit his Father in
+<font>Warwickshire</font> , and on his Return on <font>Saturday</font> Morning
+the 10th of <font>August</font> last, he breakfasted with
+his Master, the Deceased, and the Prisoner,
+and found his Master much disordered; that
+Miss poured out a Dish of Tea for her Father,
+which he disliked, and said to her,</nonSpeech><dialogue> <font>There is too
+much black Powder in it</font> ; </dialogue><nonSpeech>upon which she
+seemed confused, and seemed to have a Tremor on
+her, and went out of the Room; that the
+Deceased then took the Cup with the Tea, and
+poured it into the Cat's Bason, that stood in
+the Window, and went away, and would eat
+no more Breakfast; that then Miss came into
+the Room to this Witness, and ask'd him what
+her Father had said, and he told her, that her
+Father had thrown the Tea into the Cat's Bason;
+<pagebreak id="12C1" />
+and that he had left the Room, seemingly
+displeased, and would not eat any more
+Breakfast, but that he had said nothing. The next
+Day he, this Witness, went to Church, but
+Miss did not; and when he came Home, Miss
+asked him to take a Walk with her and her
+Father in the Garden. As they went into 
+the Garden, she put a Letter into his Hand,
+and desired him to direct it as usual to Capt.
+<font>Cranston</font> , and put it into the Post; but he
+hearing that his Master was poisoned, and
+Miss suspected, he broke the Letter open,
+read it, and then carried it to his Master,
+who said,</nonSpeech><dialogue> <font>Ah! my poor love-sick Girl; but what
+will not a Woman do for a Man that she loves</font> !
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="12C1" />
+   <nonSpeech> <font>Richard Fisher</font> was next called and sworn,
+who said he was on the Coroner's Inquest, and
+on hearing that Miss <font>Blandy</font> was gone to the
+<font>Angel</font> , he went after her; that he spoke with
+<pagebreak id="12C2" />
+her there, and ask'd her if she would not
+return home with him; she answer'd yes, but
+she was afraid of being insulted by the Mob,
+and begg'd he would protect her; that upon
+this he got a close Post Chaise and brought her
+home; that upon her coming to her Father's 
+House, and talking of the Affair, she ask'd
+him what could be done for her; that he
+answer'd if she could produce any Thing that
+would fix it upon <font>Cranston</font> , possibly she might
+be sav'd; that upon this, in some Agony, she
+answer'd,</nonSpeech><dialogue> <font>I'm afraid I have destroy'd that
+which would have hanged that Villain; but here
+take this Key, search my Drawers, and see if
+you can find any Papers that will be of service</font> ;
+</dialogue><nonSpeech>that there being a Gentlewoman there who
+better knew the House than himself, he
+declin'd going, and desir'd her to search; that
+she did accordingly, but could find nothing of
+Consequence.</nonSpeech><dialogue>
+<comment type="compiler">QUESTION AND ANSWER OMITTED.</comment>
+   </dialogue><nonSpeech>Mrs. <font>Lane</font> being called and sworn, said, that
+she went into the <font>Angel</font> to her Husband, who
+was there, and Miss <font>Blandy</font> was with him;
+that she heard her Husband say to the Prisoner,
+when she first went in,</nonSpeech><dialogue> <font>If you are innocent, you
+will be acquitted, and if you are guilty, you will
+be punished according to Law</font> ; </dialogue><nonSpeech>that upon this,
+Miss <font>Blandy</font> stamped upon the Floor, in a
+seeming Agony, and said,</nonSpeech><dialogue> <font>Oh that damned
+Villain</font> Cranston! <font>my Honour to him has been
+my Ruin</font> . </dialogue><nonSpeech>Then turning about, after a short
+Pause, said,</nonSpeech><dialogue> <font>But why do I blame him? I am
+more to blame; it was I administered it, and
+knew the Consequence</font> .
+<comment type="compiler">QUESTION AND ANSWER OMITTED.</comment>
+   </dialogue><nonSpeech>Mr. <font>Lane</font> was then called and sworn, who
+said he was at the <font>Angel</font> , with Miss <font>Blandy</font> ,
+and talking with her concerning her Father's
+Death, she asked him what he thought would
+<pagebreak id="13C1" />
+be done to her; that he made her for Answer,
+<font>that she would be sent to</font> Oxford-Castle, <font>and be
+tryed at the Assizes, and if she was innocent, she
+would be acquitted, and if she was guilty, she
+would be punished according to Law</font> ; that Miss
+then stamped on the Floor, and said,</nonSpeech><dialogue> <font>Oh that
+damned Villain</font> Cranston! <font>my Honour to him
+has been my Ruin: -- But why do I blame him?
+I am more to blame</font> ; </dialogue><nonSpeech>that the Town Serjeant
+coming in just at that Juncture took off his
+Attention to what she said more.</nonSpeech>
+   <nonSpeech>Here the Council for the Crown, tho' they
+had many more Witnesses to call, rested their
+Proof against the Prisoner, and she was
+thereupon called to make her Defence.</nonSpeech><dialogue>
+<comment type="compiler">DEFENCE SPEECH OMITTED.</comment>
+<pagebreak id="14C1" />
+   </dialogue><nonSpeech>Then she desired the following Witnesses
+might be call'd in her Defence.</nonSpeech>
+   <nonSpeech> <font>Ann James</font> being sworn, said, That she
+frequently went as a Chairwoman to work at the
+deceased Mr. <font>Blandy's</font> ; and being there one
+Day, she heard <font>Elizabeth Binfield</font> say,</nonSpeech><dialogue> <font>Damn
+the black Bitch</font> , </dialogue><nonSpeech>meaning the Prisoner at the
+Bar,</nonSpeech><dialogue> <font>I hope I shall see her walk up a Lader and
+swing</font> .
+   </dialogue><nonSpeech>Being asked by the King's Council when
+and where it was, and who were present when
+the Words were spoken, she said <font>Mary Banks</font>
+and one <font>Deane</font> ; and that they were said in the
+Kitchen of the late Mr. <font>Blandy's</font> House, in
+<font>Henley</font> , but she could not recollect the Day;
+but it was after Miss <font>Blandy</font> was sent to
+<font>Oxford</font> Castle.</nonSpeech>
+   <nonSpeech>Here <font>Elizabeth Binfield</font> was call'd again by
+the King's Council, and confronted with this
+Evidence, who deny'd that she had ever said
+any such Words, or had any ill Will against
+Miss <font>Blandy</font> .</nonSpeech>
+   <nonSpeech> <font>Mary Banks</font> was next call'd and sworn, who
+said, That she heard <font>Elizabeth Binfield</font> , the
+Cook Maid, say,</nonSpeech><dialogue> <font>I hope the black Bitch will walk
+up a Ladder and swing</font> .
+   </dialogue><nonSpeech>Being asked by the King's Council when,
+and where the Words where spoke, she said in
+Mr. <font>Blandy's</font> House at <font>Henley</font> , and on the Day
+his Body was open'd.</nonSpeech>
+   <nonSpeech>Here it was observed, that there was a
+material Difference in the Evidence of these two
+Witnesses, the swearing possitively to the
+Day the Body was open'd, and the other that
+the Words were said after Miss <font>Blandy</font> was in
+<font>Oxford</font> Castle, which was not till after her
+Father's Remains were buried.</nonSpeech>
+   <nonSpeech> <font>Edward Hearne</font> was next call'd and sworn,
+who said, that he had lived with the Deceased
+<pagebreak id="14C2" />
+formerly, but was now Clerk of <font>Henley</font> Parish;
+that he frequently went to Mr. <font>Blandy's</font> House,
+perhaps four or five Times a Week; that he
+always observ'd a cordial Duty from Miss
+to her Father; and that he never saw any
+Mark of Undutifulness or Misbehaviour
+towards her Father.</nonSpeech><dialogue>
+<comment type="compiler">CROSS-EXAMINATION OMITTED.</comment>
+   </dialogue><nonSpeech>The Prisoner's Council then ask'd this
+Witness, if in the whole Conversation at that
+Time, he did not understand the Prisoner to
+mean only the Punishment of being
+imprisoned there; and whether she did not at that
+Time persist in her Innocence, as to the Crime
+she stood charged with; when the Witness
+said, that he did understand it only as the
+Punishment of being confined, and that she
+always insisted on her Innocence.</nonSpeech>
+   <nonSpeech> <font>Thomas Cawley</font> being sworn, said, That he
+frequently visited at Mr. <font>Blandy's</font> , as Mr.
+<font>Blandy</font> and his Daughter did his Family; and
+that he always observed a dutiful and
+affectionate Carriage from Miss to her Father.</nonSpeech>
+   <nonSpeech> <font>Thomas Staverton</font> was next sworn, who said,
+That he had a House next Door to the
+Deceased, that was repairing, and therefore he, as
+being acquainted in Mr. <font>Blandy's</font> Family, used
+frequently to call there, and that he always
+observed Miss to shew the greatest Mark of
+Duty and Affection to her Father.</nonSpeech>
+   <nonSpeech>He further said, that about four Months
+before the Death of Mr. <font>Blandy</font> , Miss was
+visiting at his House, when she said, that her
+Father she believed would not marry again, let
+what advantagious Offers soever be made
+to him, till such Time as he had settled her
+in the World: And that he had observed for
+some Time past, his old Friend the Deceased,
+had shrunk very much; and that he had often
+thought and said, that he did not think his old
+Friend Mr. <font>Blandy</font> would live long.</nonSpeech>
+<pagebreak id="15C1" />
+   <nonSpeech>Mrs. <font>Davis</font> , Landlady of the Angel, was
+then call'd and sworn, who said, that she
+seeing Miss <font>Blandy</font> going over the Bridge, with
+a Mob after her, asked her where she was
+going, when she made her for Answer, that
+her Father was going to be opened, and that
+she could not stand the Shock, so was taking
+a Walk in the Air; that this Witness then
+asked her to go into her House to shelter
+herself from the Insults of the Mob, which Miss
+accordingly did.</nonSpeech>
+   <nonSpeech>She was then ask'd particularly, if she
+thought she was endeavouring to get off, and
+she said no, she did not, nor was it apparent to
+her in any wise to think so.</nonSpeech>
+   <nonSpeech> <font>Robert Stoke</font> was then call'd and sworn, who
+said, he being the Town Serjeant, was order'd
+to go over the Bridge to the <font>Angel</font> , to stop
+Miss <font>Blandy</font> , the Prisoner; that when he spoke
+to her, she seemed very willing to return, and
+was glad of any Protection to keep her from
+the Insolence of the Mob.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

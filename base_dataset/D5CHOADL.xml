@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5CHOADL">
+  <dialogueHeader>
+
+    <filename>D5CHOADL</filename>
+
+    <identifier>5 COMEDY D5CHOADL</identifier>
+
+    <title>SUSPICIOUS HUSBAND</title>
+
+    <author>HOADLY BENJAMIN</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1747</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">HOADLY, BENJAMIN.</attribution>
+      <frontMatter>THE SUSPICIOUS HUSBAND. A COMEDY. 
+AS IT IS ACTED AT THE THEATRE-ROYAL IN COVENT-GARDEN.
+BY DR. HOADLY.
+LONDON: PRINTED FOR J. AND R. TONSON AND S. DRAPER IN THE STRAND. 
+MDCCXLVII.
+PP. 1.1 - 40.32
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SQUARE BRACKETS USED IN SOURCE TEXT TO INDICATE ASIDES AND  
+STAGE DIRECTIONS ARE OMITTED.</comment>
+
+<pagebreak id="1" />
+</dialogue> <head>THE 
+SUSPICIOUS HUSBAND.</head> 
+
+ <head>ACT I. SCENE I.</head> 
+
+ <head>RANGER'S <font>CHAMBERS IN THE</font> TEMPLE.</head> 
+
+<nonSpeech> <font>Enter</font> RANGER.</nonSpeech><dialogue>
+
+   Once more I am got safe to the <font>Temple</font> --
+let me reflect a little -- I have set up all
+Night. I have my Head full of bad Wine,
+and the Noise of Oaths, Dice, and the damn'd
+tingling of Tavern Bells; my Spirits jaded,
+and my Eyes sunk into my Head: and all this for the
+Conversation of a Company of Fellows I despise. Their
+Wit lies only in Obscenity, their Mirth in Noise, and
+their Delight in a Box and Dice. Honest <font>Ranger</font> , take
+my Word for it, thou art a mighty silly Fellow.
+
+</dialogue><nonSpeech> <font>Enter</font> Servant, <font>with a Wig dress'd</font> .</nonSpeech><dialogue>
+
+Where have you been, Rascal? If I had not had the Key
+in my Pocket, I must have waited at the Door in this
+dainty Dress.
+   </dialogue><nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> I was only below combing out your Honour's 
+Wig.
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech> <nonSpeech> <font>Pulling off his Wig.</font> </nonSpeech><dialogue> Well, give me my   
+Cap --
+Why, how like a raking Dog do you look, compar'd to that
+spruce, sober Gentleman -- Go, you batter'd Devil, and be
+made fit to be seen.
+   </dialogue><nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> Cod, my Master's very merry this Morning.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> And now for the Law. </dialogue><nonSpeech> <font>Reads.</font> </nonSpeech><dialogue>
+<comment type="compiler">SEVEN LINES OF VERSE ABOUT A &quot;FALSE&quot; WOMAN OMITTED.</comment>
+Honest <font>Congreve</font> was a Man after my own Heart.
+</dialogue><nonSpeech> <font>Enter Servant.</font> </nonSpeech><dialogue>
+Have you been for the Money this Morning, as I 
+order'd you?
+   </dialogue><nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> No, Sir, you bad me go before you was up --
+I did not know your Honour meant before you went to 
+Bed.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> None of your Jokes, I pray; but to Business --
+Go to the Coffee-house, and enquire if there has been
+any Letter or Message left for me.
+   </dialogue><nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> I shall, Sir. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> <comment type="compiler">CONTINUES THE VERSE:</comment> <font>You think she's false, 
+I am sure she's kind,
+I take her Body, you her Mind;
+Which has the better Bargain?</font>
+Oh, that I had such a soft, deceitful Fair to lull my Senses
+to their desir'd Sleep -- </dialogue><nonSpeech> <font>Knocking at the Door.</font> </nonSpeech><dialogue> Come in.
+</dialogue><nonSpeech> <font>Enter</font> Simon.</nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Oh, Master <font>Simon</font> , is it you? How long have
+you been in Town?
+<pagebreak id="3" />
+   </dialogue><nonSpeech> <font>Simon.</font> </nonSpeech><dialogue> Just come, Sir, and but for a little time 
+neither; and yet I have as many Messages as if we were to
+stay the whole Year round. Here they are, all of them.
+</dialogue><nonSpeech> <font>Pulls out a Number of Cards.</font> </nonSpeech><dialogue> And among them one
+for your Honour.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech> <nonSpeech>Reads.</nonSpeech><dialogue> Clarinda's <font>Compliments to her        
+Cousin</font>
+Ranger, <font>and should be glad to see him for ever so little a time
+that he can be spar'd from the more weighty Business of the
+Law</font> . -- Ha! ha! ha! the same merry Girl I ever knew
+her.
+   </dialogue><nonSpeech> <font>Simon.</font> </nonSpeech><dialogue> My Lady is never sad, Sir. </dialogue><nonSpeech> <font>Knocking at the  
+Door.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Pr'ythee, <font>Simon</font> , open the Door.
+</dialogue><nonSpeech> <font>Enter Millener.</font> </nonSpeech><dialogue>
+Well, Child -- and who are you?
+   </dialogue><nonSpeech> <font>Mille.</font> </nonSpeech><dialogue> Sir, my Mistress gives her Service to you, and
+has sent you home the Linnen you bespoke.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Well, <font>Simon</font> , my Service to your Lady, and
+let her know I will most certainly wait upon her -- I am
+a little busy, <font>Simon</font> -- and so --
+   </dialogue><nonSpeech> <font>Simon.</font> </nonSpeech><dialogue> Ah, you're a Wag, Master <font>Ranger</font> , you're a
+Wag -- but Mum for that! </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> I swear, my Dear, you have the prettiest pair of
+Eyes -- the loveliest pouting Lips -- I never saw you
+before.
+   </dialogue><nonSpeech> <font>Mille.</font> </nonSpeech><dialogue> No, Sir -- I was always in the Shop.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Was you so? Well, and what does your
+Mistress say? -- The Devil fetch me, Child, you look'd so
+prettily, that I could not mind one Word you said.
+   </dialogue><nonSpeech> <font>Mille.</font> </nonSpeech><dialogue> Lard, Sir, you are such another Gentleman!
+Why, she says she is sorry she could not send them sooner.
+Shall I lay them down?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> No, Child. Give 'em me! Dear little smiling
+Angel -- </dialogue><nonSpeech> <font>Catches, and kisses her.</font> </nonSpeech>
+   <nonSpeech> <font>Mille.</font> </nonSpeech><dialogue> I beg, Sir, you would be civil.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Civil? Egad, I think I am very civil.
+</dialogue><nonSpeech> <font>Kisses her again.</font> </nonSpeech>
+<pagebreak id="4" />
+<nonSpeech> <font>Enter Servant, and</font> Bellamy.</nonSpeech>
+   <nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> Sir, Mr. <font>Bellamy</font> .
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Damn your Impertinence -- Oh, Mr. <font>Bellamy</font> ,
+your Servant.
+   </dialogue><nonSpeech> <font>Mille.</font> </nonSpeech><dialogue> What shall I say to my Mistress?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Bid her make half a dozen more; but besure
+you bring them home yourself. </dialogue><nonSpeech> <font>Exit</font> Millener.</nonSpeech><dialogue> Pshah!
+Pox! Mr. <font>Bellamy</font> , how should you like to be serv'd so
+yourself.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> How can you, <font>Ranger</font> , for a Minute's Pleasure,
+give an innocent Girl the Pain of Heart I am confident
+she felt? -- There was a modest Blush upon her Cheek
+convinces me she was honest.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> May be so. I was resolv'd to try, however.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Fy, <font>Ranger</font> , -- will you never think?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Yes, but I can't be always thinking. The Law
+is a damnable dry Study, Mr. <font>Bellamy</font> , and without
+something now and then to amuse, and relax, it would be too
+much for my Brain, I promise ye -- But I am a mighty
+sober Fellow grown -- Here have I been at it these three
+Hours -- but the Wenches will never let me alone --
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Three Hours! -- Why, do you usually study in
+such Shoes and Stockings?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Rat your inquisitive Eyes. <font> <foreign>Ex pede           
+Herculem.</foreign> </font>
+Egad, you have me! The Truth is, I am but this 
+Moment return'd from the Tavern. What, <font>Frankly</font> here too!
+</dialogue><nonSpeech> <font>Enter</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> My Boy <font>Ranger</font> , I am heartily glad to see you.
+<font>Bellamy</font> , let me embrace you. You are the Person I want.
+I have been at your Lodgings, and was directed hither.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> It is to him then I am oblig'd for this Visit:
+But with all my Heart -- He is the only Man, to whom I
+don't care how much I am oblig'd.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Your very humble Servant, Sir.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> You know, <font>Ranger</font> , I want no Inducement
+to be with you. But -- You look sadly -- What -- No
+merciless Jade has -- Has she?
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> No, no. Sound as a Roach, my Lad. I only
+got a little too much Liquor last Night, which I have not 
+slept off yet.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Thus, <font>Frankly</font> , it is every Day. All the
+Morning his Head akes, at Noon he begins to clear up,
+towards Evening he is good Company, and all Night he is
+carefully providing for the same Course the next Day.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Why, I must own, my ghostly Father, I did
+relapse a little last Night, just to furnish out a decent
+Confession for the Day.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> And he is now doing Penance for it. Were you
+his Confessor indeed, you could not well desire more.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> <font>Charles</font> , he sets up for a Confessor with the  
+worst
+Grace in the World. Here has he been reproving me for
+being but decently civil to my Millener. Plague! because
+the Coldness of his Constitution makes him insensible of a
+fine Woman's Charms, every body else must be so too.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I am no less sensible of their Charms than you
+are; tho' I cannot kiss every Woman I meet, or fall 
+in Love, as you call it, with every Face which has
+the Bloom of Youth upon it. I would only have you a 
+little more frugal of your Pleasures.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> My dear Friend, this is very pretty talking.
+But let me tell you, it is in the Power of the very first
+Glance from a fine Woman utterly to disconcert all your
+Philosophy.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> It must be from a fine Woman then: and not
+such as are generally reputed so -- And it must be a
+thorough Acquaintance with her too, that will ever make
+an Impression on my Heart.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Would I could see it once! For when a Man
+has been all his Life hoarding up a Stock, without
+allowing himself common Necessaries, it tickles me to the
+Soul to see him lay it all out upon a wrong Bottom, and
+become a Bankrupt at last.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Well, I don't care how soon you see it. For the
+Minute I find a Woman capable of Friendship, Love,
+and Tenderness, with Good-sense enough to be always
+<pagebreak id="6" />
+easy, and Good-nature enough to like me: I will 
+immediately put it to the Trial, which of us shall have the
+greatest Share of Happiness from the Sex, You or I.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> By marrying her, I suppose! Capable of
+Friendship, Love, and Tenderness, ha, ha, ha! That a Man
+of your Sense should talk so. If she be capable of Love
+'tis all I require of my Mistress; and as every Woman,
+who is young, is capable of Love, I am very reasonably
+in Love with every young Woman I meet. -- My Lord
+<font>Coke</font> , in a Case I read this very Morning, speaks my very
+Sense.
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> My Lord <font>Coke</font> !
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Yes, <font>my</font> Lord <font>Coke</font> ! What he says of one 
+Woman, I say of the whole Sex. <font>I take their Bodies, you
+their Minds; which has the better Bargain?</font>
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> There is no arguing with so great a Lawyer.
+Suppose therefore we adjourn the Debate to some other 
+time. I have some serious Business with Mr. <font>Bellamy</font> ,
+and you want Sleep I am sure.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Sleep! mere Loss of Time, and Hindrance of
+Business -- We Men of Spirit, Sir, are above it.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Whither shall we go?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Into the <font>Park</font> . My Chariot is at the Door.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Then if my Servant calls, you'll send him
+after us. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> I will. </dialogue><nonSpeech> <font>Looking on the Card</font> </nonSpeech><dialogue>              
+<font>Clarinda's</font>
+Compliments <comment type="compiler">SOURCE TEXT: Service CORRECTED TO Compliments IN       
+ERRATA</comment> -- A pox of this Head of mine! Never once to ask
+where she was to be found. It's plain she is not one of
+us, or I shou'd not have been so remiss in my Inquiries.
+-- No matter -- I shall meet her in my Walks.
+</dialogue><nonSpeech> <font>Servant enters.</font> </nonSpeech>
+   <nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> There is no Letter nor Message, Sir.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Then my Things, to dress. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<pagebreak id="7" />
+ <head>SCENE II.</head> 
+
+ <head> <font>A</font> CHAMBER.</head> 
+
+<nonSpeech> <font>Enter Mrs.</font> Strictland, <font>and</font> Jacintha, <font>meeting</font> .</nonSpeech>
+
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Good-morrow, my dear <font>Jacintha</font> .
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Good-morrow to you, Madam. I have brought
+my Work, and intend to sit with you this Morning. I
+hope you have got the better of your Fatigue. Where
+is <font>Clarinda</font> ? I should be glad if she wou'd come, and
+work with us.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> She work! she is too fine a Lady to do
+any thing. She is not stirring yet -- we must let her have
+her Rest. People of her waste of Spirits require more time
+to recruit again.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> It is pity she should be ever tir'd with what is
+so agreeable to every body else. I am prodigiously pleas'd
+with her Company.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> And when you are better acquainted, you
+will be still more pleas'd with her. You must rally her
+upon her Partner at <font>Bath</font> : for, I fancy, Part of her Rest
+has been disturb'd on his Account.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Was he really a pretty Fellow?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> That I can't tell. I did not dance myself,
+and so did not much mind him. You must have the whole
+Story from herself.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Oh, I warrant ye, I get it all out. None are
+so proper to make Discoveries in Love as those who are
+in the Secret themselves.
+</dialogue><nonSpeech> <font>Enter</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Madam, Mr. <font>Strictland</font> is inquiring for you.
+Here has been Mr. <font>Buckle</font> with a Letter from his Master,
+which has made him very angry.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Mr. <font>Bellamy</font> said indeed he would try him once
+more, but I fear it will prove in vain. Tell your Master
+<pagebreak id="8" />
+I am here. </dialogue><nonSpeech> <font>Exit</font> Lucetta.</nonSpeech><dialogue> What signifies Fortune, when
+it only makes us Slaves to other People?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Do not be uneasy, my <font>Jacintha</font> . You    
+shall
+always find a Friend in me: But as for Mr. <font>Strictland</font> ,
+I know not what ill Temper hangs about him lately.
+Nothing satisfies him. You saw how he receiv'd us when
+we came off our Journey; tho' <font>Clarinda</font> was so good
+Company. He was barely civil to her, and downright rude
+to me.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I cannot help saying I did observe it.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> I saw you did. Hush! he's here.
+</dialogue><nonSpeech> <font>Enter Mr.</font> Strictland.</nonSpeech>
+    <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Oh, your Servant, Madam! Here, I have
+receiv'd a Letter from Mr. <font>Bellamy</font> , wherein he desires I
+would once more hear what he has to say -- You know
+my Sentiments -- Nay, so does he.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> For Heaven's sake consider, Sir. This is no new
+Affair, no sudden start of Passion -- We have known
+each other long. My Father valued and lov'd him, and
+I am sure were he alive, I should have his Consent.
+    </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Don't tell me. Your Father would not have
+you marry against his Will; neither will I, against mine:
+I am your Father now.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> And you take a fatherly Care of me.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I wish I had never had any thing to do
+with you
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> You may easily get rid of the Trouble.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> By listening, I suppose, to the young
+Gentleman's Proposals.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Which are very reasonable in my Opinion.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Oh, very modest ones truly; and a very
+modest Gentleman it is that proposes them! A Fool, to
+expect a Lady of Thirty Thousand Pounds Fortune
+should, by the Care and Prudence of her Guardian, be
+thrown away upon a young Fellow not worth three
+Hundred a Year. He thinks being in Love is an Excuse for all
+this; but I am not in Love. What does he think will
+excuse me?
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Well, but Mr. <font>Strictland</font> , I think the
+Gentleman should be heard.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Well, well! Seven o'Clock's the time, and
+if the Man has had the good Fortune, since I saw him last,
+to persuade somebody, or other, to give him a better
+Estate, I give him my Consent -- not else. His Servant waits
+below. You may tell him I shall be at home </dialogue><nonSpeech> <font>Exit</font> Jacin.</nonSpeech><dialogue>
+But where is your Friend, your other Half, all this while?
+I thought you could not have breath'd a Minute without
+your <font>Clarinda</font> .
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Why, the Truth is, I was going to see
+what makes her keep her Chamber so long.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Look ye, Mrs. <font>Strictland</font> , you have been
+asking me for Money this Morning. In plain Terms, not
+one Shilling shall pass through these Fingers till you have
+clear'd my House of this <font>Clarinda</font> .
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> How can her innocent Gaiety have
+offended you? She is a Woman of Honour, and has as
+many good Qualities --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> As Women of Honour generally have. I
+know it, and therefore am uneasy.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> But, Sir, --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> But, Madam, -- <font>Clarinda</font> , nor e'er a Rake
+of fashion in <font>England</font> , shall live in my Family to
+debauch it.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Sir, she treated me with so much Civility
+in the Country, that I thought I could not do less than
+invite her to spend as much time with me in Town, as
+her Engagements would permit. I little imagin'd you
+could have been displeas'd at my having so agreeable a
+Companion.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> There was a Time when I was Company
+enough for leisure Hours.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> There was a Time when every Word of
+mine was sure of meeting with a Smile: But those happy 
+Days, I know not why, have long been over.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I cannot bear a Rival, even of your own
+Sex. I hate the very Name of female Friends. No two
+<pagebreak id="10" />
+of you can ever be an Hour by yourselves, but one or
+both are the worse for it.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Dear Mr. <font>Strictland</font> --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> This I know -- and will not suffer.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> It grieves me, Sir, to see you so much in
+earnest: But to convince you how willing I am to make
+you easy in every thing, it shall be my Request to her to
+remove immediately.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Do it then -- hark ye? -- Your Request, why
+yours? It's mine. -- My Command -- Tell her so --
+I will be Master in my own Family, and I care not who
+knows it.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> You fright me, Sir. -- But it shall be as
+you please. </dialogue><nonSpeech> <font>In Tears.</font> </nonSpeech> <nonSpeech> <font>Goes out.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Ha! have I not gone too far? I am not
+Master of myself -- Mrs. <font>Strictland</font> -- </dialogue><nonSpeech> <font>She returns.</font> </nonSpeech><dialogue>
+Understand me right. I do not mean, by what I have said,
+that I suspect your Innocence: But by crushing this
+growing Friendship all at once, I may prevent a Train of
+Mischief which you do not foresee. I was perhaps too
+harsh, therefore do it in your own way -- But let me see
+the House fairly rid of her. </dialogue><nonSpeech> <font>Exit Mr.</font> Strictland.</nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> His Earnestness in this Affair amazes
+me. I am sorry I made this Visit to <font>Clarinda</font> --
+and yet I'll answer for her Honour. -- What can I say
+to her? Necessity must plead in my Excuse -- For at all
+Events, Mr. <font>Strictland</font> must be obey'd. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head>SCENE III.</head> 
+
+ <head> <font>ST.</font> JAMES'S PARK.</head> 
+
+<nonSpeech> <font>Enter</font> Bellamy <font>and</font> Frankly.</nonSpeech>
+
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Now, <font>Bellamy</font> , I may unfold the Secret of my
+Heart to you with greater Freedom; for tho' <font>Ranger</font>
+has Honour, I am not in a Humour to be laugh'd at.
+I must have one, that will bear with my Impertinence,
+<pagebreak id="11" />
+sooth me into Hope, and, like a Friend indeed, with
+Tenderness advise me.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I thought you appeared more grave than usual.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Oh! <font>Bellamy</font> , my Soul is so full of Joy, of
+Pain, Hope, Despair, and Extasy, that no Word but
+Love is capable of expressing what I feel.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Is Love the Secret <font>Ranger</font> is not fit to      
+hear?
+In my mind, he wou'd prove the more able Counsellor.
+And is all the gay Indifference of my Friend at last
+reduced to Love?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Even so -- Never was Prude more resolute in
+Chastity and Ill-nature, than I was fix'd in Indifference:
+But Love has rais'd me from that inactive State above
+the Being of a Man.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Faith, <font>Charles</font> , I begin to think it has --   
+But
+pray, bring this Rapture into order a little, and tell me
+regularly, how, where, and when.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> If I was not most unreasonably in Love, those
+horrid Questions would stop my Mouth at once. But as
+I am arm'd against Reason -- I answer -- at <font>Bath</font> -- on
+<font>Tuesday</font> , she danced and caught me.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Danced? -- and was that all? But who is
+she? What is her Name? her Fortune? where does she
+live?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Hold! hold! not so many hard Questions.
+Have a little Mercy. I know but little of her, that's
+certain. But all I do know you shall have. That Evening
+was the first of her appearing at <font>Bath</font> . The Moment I
+saw her I resolved to ask the Favour of her Hand. But
+the easy Freedom with which she gave it, and her
+unaffected Good-humour during the whole Night, gain'd such
+a Power over my Heart, as none of her Sex could ever
+boast before. I waited on her home, and the next
+Morning, when I went to make the usual Compliments, the
+Bird was flown. She had set out for <font>London</font> two Hours
+before; and in a Chariot and Six -- you Rogue.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> But was it her own, <font>Charles</font> ?
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> That I don't know; but it looks better than
+being drag'd to Town in the Stage. That day and the
+next I spent in Enquiries. I waited on the Ladies who
+came with her. They knew nothing of her. So, without
+learning either her Name or Fortune, I e'en call'd for my
+Boots, and rode Post after her.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> And how do you find yourself after your
+Journey?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Why, as yet, I own, I am but upon a cold
+Scent. But a Woman of her Sprightliness and 
+Gentility cannot but frequent all publick Places; and when
+once she is found, the Pleasure of the Chace will
+overpay the Pains of rousing her. -- Oh! <font>Bellamy</font> , there
+was something peculiarly charming in her, that seem'd to
+claim my farther Acquaintance: and if in the other more
+familiar Parts of Life she shine with that superior Lustre;
+and at last I win her to my Arms, how shall I bless my
+Resolution in pursuing her!
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> But if at last she should prove unworthy --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I would endeavour to forget her.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Promise me that, <font>Charles</font> , </dialogue><nonSpeech> <font>Takes his    
+Hand.</font> </nonSpeech><dialogue> and
+I allow -- But we are interrupted.
+</dialogue><nonSpeech> <font>Enter</font> Jack Meggot.</nonSpeech>
+   <nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Whom have we here? my old Friend
+<font>Frankly</font> ? Thou art grown a meer Antique since I saw
+thee? How hast thou done these five hundred Years?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Even as you see me; well, and at your
+Service, ever.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Ha! who's that?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> A Friend of mine. Mr. <font>Bellamy</font> , this is       
+<font>Jacky
+Meggot</font> , Sir, as honest a Fellow as any in Life.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Pho! prithee! Pox! <font>Charles</font> -- Don't
+be silly -- Sir, I am your humble -- Any one who is a 
+Friend of my <font>Frankly's</font> I am proud of embracing.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Sir, I shall endeavour to deserve your Civility.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Oh! Sir, -- Well! <font>Charles</font> , what? Dumb?
+Come, come; you may talk tho' you have nothing to
+say, as I do -- Let us hear, where have you been?
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Why, for this last Week, <font>Jack</font> , I have been at
+<font>Bath</font> .
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> <font>Bath</font> ! the most ridiculous Place in       
+Life! --
+amongst Tradesmens Wives that hate their Husbands,
+and People of Quality that had rather go to the
+Devil than stay at home. People of no Taste -- no
+<font>Goust</font> -- and for <font> <foreign>Divertimenti</foreign> </font> . If it were not for
+the Puppet-show, <font> <foreign>La Virtu</foreign> </font> would be dead amongst
+them. -- But the News, <font>Charles</font> , -- the Ladies, -- I
+fear, your Time hung heavy on your Hands, by the small
+Stay you made there.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Faith, and so it did, <font>Jack</font> . The Ladies are
+grown such Idiots in Love -- The Cards have so debauch'd
+their five Senses, that Love, almighty Love himself, is
+utterly neglected.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> It is the strangest thing in Life, but it is
+just so with us abroad. Faith! <font>Charles!</font> To tell you a
+Secret, which I don't care, if all the World knows. I
+am almost surfeited with the Services of the Ladies; the
+modest ones I mean. The vast Variety of Duties they
+expect -- as dressing up to the Fashion, losing
+fashionably, keeping fashionable Hours, drinking fashionable
+Liquors, and fifty other such irregular Niceties so ruin
+a Man's Pocket and Constitution, that foregad! he must
+have the Estate of a Duke, and the Strength of a 
+Gondolier, who would lift himself into their Service!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> A free Confession truly, <font>Jack</font> , for one of   
+your
+Coat.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> The Ladies are oblig'd to you.
+</dialogue><nonSpeech> <font>Enter</font> Buckle, <font>with a Letter to</font> Bellamy.</nonSpeech>
+   <nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Oh! Lard! <font>Charles!</font> I have had the
+greatest Misfortune in Life, since I saw you -- Poor <font>Otho</font> !
+that I brought from <font>Rome</font> with me, is dead.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Well! well! get you another, and all will be
+well again.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> No! the Rogue broke me so much <font>China</font> ,
+and gnaw'd <comment type="compiler">SOURCE TEXT: knaw'd CORRECTED TO gnaw'd IN ERRATA</comment> my  
+<font>Spanish</font> Leather Shoes so filthily, that
+when he was dead, I began not to endure him.
+<pagebreak id="14" />
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Exactly at Seven! Run back, and assure him I
+will not fail. </dialogue><nonSpeech> <font>Exit</font> Buckle.</nonSpeech><dialogue> Dead? Pray, who was the
+Gentleman?
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> This Gentleman was my Monkey, Sir, --
+an odd sort of a Fellow that used to divert me, -- and
+pleased every body so at <font>Rome</font> , that he always made one
+in our <font> <foreign>Conversationi</foreign> </font> -- But Mr. <font>Bellamy</font> , I saw a
+Servant, I hope no Engagement. For you two positively shall
+dine with me. I have the finest <font>Macaroni</font> in Life. 
+Oblige me so far.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Sir -- your Servant! what say you, <font>Frankly</font> ?
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Pho! Pox! <font>Charles</font> ! you shall go. My
+Aunts think you begin to neglect them; and old Maids,
+you know, are the most jealous Creatures in Life.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> <font>Ranger</font> swears they can't be Maids, they are
+so good-natur'd! Well! I agree, on Condition I may
+eat what I please, and go away just when I will.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Ay! ay! you shall do just what you will.
+But how shall we do? My Post-Chaise won't carry 
+us all.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> My Chariot is here: and I will conduct Mr.
+<font>Bellamy</font> .
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Mr. <font>Meggot</font> -- I beg pardon, I can't possibly
+dine out of Town! I have an Engagement early in the 
+Evening. --
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Out of Town! No, my Dear; I live just
+by. I see one of the <font> <foreign>Dilettanti</foreign> </font> , I would not miss
+speaking to for the Universe. And so I expect you
+at Three. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Ha! ha! ha! and so you thought you had at
+least fifty Miles to go Post for a Spoonful of <font>Macaroni</font> .
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I suppose then, he is just come out of the
+Country.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Nor that neither. I would venture a Wager,
+from his own House hither; or to an Auction or two of
+old dirty Pictures, is the utmost of his Travels to-day:
+Or he may have been in Pursuit, perhaps of a new Cargo,
+of <font>Venetian</font> Tooth-picks.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> A special Acquaintance I have made to-day.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> For all this, <font>Bellamy</font> , he has a Heart worthy
+your Friendship. He spends his Estate freely, and you
+cannot oblige him more, than by shewing him how he
+can be of Service to you.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Now you say something. It is the Heart,
+<font>Frankly</font> , I value in a Man.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Right! -- and there is a Heart even in a
+Woman's Breast that is worth the Purchase, or my
+Judgment has deceiv'd me. Dear <font>Bellamy</font> , I know your
+Concern for me. See her first, and then blame me, if
+you can.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> So far from blaming you, <font>Charles</font> , that if my
+Endeavours can be serviceable, I will beat the Bushes
+with you.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> That I am afraid will not do. For you know
+less of her than I. But if in your Walks you meet a finer
+Woman than ordinary, let her not escape till I have
+seen her. -- Wheresoe'er she is, she cannot long lie hid.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>ACT II. SCENE I.</head> 
+
+ <head> <font>ST.</font> JAMES'S PARK.</head> 
+
+<nonSpeech> <font>Enter</font> Clarinda, Jacintha <font>and Mrs.</font> Strictland.</nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Ay! ay we both stand condemn'd out of our
+own Mouths.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Why -- I cannot but own -- I never had a thought
+of any Man that troubled me, but of him.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Then I dare swear, by this time, you
+heartily repent your leaving <font>Bath</font> so soon.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Indeed you are mistaken. I have not had one
+Scruple since.
+<pagebreak id="16" />
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Why, what one Inducement can he have ever
+to think of you again?
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Oh! the greatest of all Inducements, Curiosity.
+Let me assure you, a Woman's surest Hold over a Man
+is to keep him in Incertainty. As soon as ever you put
+him out of Doubt, you put him out of your Power:
+But when once a Woman has awak'd his Curiosity,
+she may lead him a Dance of many a troublesome
+Mile without the least Fear of losing him at last.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Now do I heartily wish he may have Spirit
+enough to follow, and use you as you deserve. Such a 
+Spirit, with but a little Knowledge of our Sex, might put
+that Heart of yours into a strange Flutter.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I care not how soon. I long to meet with such
+a Fellow. Our modern Beaux are such jointed Babies
+in Love, they have no Feeling. They are entirely 
+insensible either of Pain or Pleasure, but from their own dear
+Persons: And according as we flatter, or affront their
+Beauty, they admire or forsake ours. They are not
+worthy even our Displeasure; and, in short, abusing them
+is but so much ill-nature merely thrown away. But the
+Man of Sense, who values himself upon his high 
+Abilities: Or the Man of Wit, who thinks a Woman
+beneath his Conversation -- To see such the Subjects of our
+Power, the Slaves of our Frowns and Smiles, is glorious
+indeed!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> No Men of Sense, or Wit either, if they
+be truly so, ever did, or ever can think a Woman of
+Merit beneath their Wisdom to converse with.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Nor will such a Woman value herself upon 
+making such a Lover uneasy.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Amazing! Why, every Woman can give Ease?
+You cannot be in earnest.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> I can assure you she is, and has put in
+practice the Doctrine she has been teaching.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Impossible! Who ever heard the Name of
+Love mention'd without an Idea of Torment? But pray
+let us hear.
+<pagebreak id="17" />
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Nay, there is nothing to hear that I know of.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> So I suspected, indeed! The Novel is not likely
+to be long, when the Lady is so well prepar'd for the
+<font> <foreign>Denouement</foreign> </font> .
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> The Novel, as you call it, is not so short as
+you may imagine. I and my Spark have been long
+acquainted. As he was continually with my Father, I soon
+perceiv'd he lov'd me, and the Manner of his expressing
+that Love was what pleas'd and won me most.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Well! and how was it? The old Bait? Flattery?
+Dear Flattery, I warrant ye.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> No, indeed, -- I had not the Pleasure of
+hearing my Person, Wit, and Beauty painted out with forced
+Praises; but I had a more sensible Delight in perceiving
+the Drift of his whole Behaviour was to make ev'ry Hour
+of my Time pass away agreably.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> The Rustick! What, did he never say a
+handsom thing of your Person?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> He did, it seems, what pleas'd her better.
+He flatter'd her good Sense as much as a less cunning
+Lover would have done her Beauty.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> On my Conscience, you are well match'd.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> So well, that if my Guardian denies me
+Happiness, (and this Evening he is to pass his final Sentence)
+nothing is left but to break my Prison, and fly into my
+Lover's Arms for Safety.
+   </dialogue><nonSpeech> <font>Cla.</font> </nonSpeech><dialogue> Hey Day! O' my Conscience thou art a brave
+Girl. Thou art the very first Prude, that ever had
+Honesty enough to avow her Passion for a Man.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> And thou art the first finish'd Coquet who ever
+had any Honesty at all.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Come, come! You are both too good for
+either of those Characters.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> And my dear Mrs. <font>Strictland</font> , here is the first
+young married Woman of Spirit, who has an ill-natur'd
+Fellow for a Husband, and never once thinks of using him
+as he deserves. -- Good Heaven! If I had such a 
+Husband --
+<pagebreak id="18" />
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> You would be just as unhappy as I am.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> But come now -- Confess -- Do not you long
+to be a Widow?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Would I were any thing but what I am!
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Then go the nearest Way about it. I'd break
+that stout Heart of his in less than a Fortnight. I'd make
+him know -- 
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Pray be silent. You know my 
+Resolution.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I know you have no Resolution.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> You are a mad Creature, but I forgive
+you.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> It is all meant kindly, I assure you. But since
+you won't be persuaded to your Good; I will think of
+making you easy in your Submission as ever I can,
+I dare say, I may have the same Lodging I had last Year.
+I can know immediately -- I see my Chair: And so
+Ladies both, adieu! </dialogue><nonSpeech> <font>Exit</font> Clarinda.</nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Come, Mrs. <font>Strictland</font> , we shall but just    
+have
+time to get home before Mr. <font>Bellamy</font> comes.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Let us return then to our common Prison.
+You must forgive my Ill-nature, <font>Jacintha</font> , if I almost 
+wish Mr. <font>Strictland</font> may refuse to join your Hand where
+your Heart is given.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Lord! Madam, what do you mean?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Self-interest only, Child! Methinks your
+Company in the Country would soften all my Sorrows,
+and I could bear them patiently.
+</dialogue><nonSpeech> <font>Re-enter</font> Clarinda.</nonSpeech>
+   <nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Dear Mrs. <font>Strictland</font> -- I am so confus'd, and
+so out of Breath --
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Why, what is the Matter?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I protest you fright me.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Oh! I have no time to recover myself, I am so
+frighten'd and so pleas'd. In short then, the dear Man
+is here?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Here -- Lord -- Where?
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I met him this Instant. I saw him at a Distance,
+turn'd short; and ran hither directly. Let us go home.
+I tell you, he follows me.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Why, had you not better stay, and let 
+him speak to you?
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Ay! But -- then -- He won't know where I live,
+without my telling him.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Come, then. Ha! ha! ha!
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Ah! Poor <font>Clarinda</font> ! -- <font> <foreign>Allons donc.</foreign> </font> 
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech> 
+<nonSpeech> <font>Enter</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Sure that must be she! Her Shape and easy
+Air cannot be so exactly copied by another. -- Now,
+you young Rogue, <font>Cupid</font> , guide me directly to her, as
+you would the surest Arrow in your Quiver. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head>SCENE II.</head> 
+
+ <head> <font>CHANGES TO THE STREET BEFORE MR.</font> STRICTLAND'S <font>DOOR</font> .</head> 
+
+<nonSpeech> <font>Re-enter</font> Clarinda, Jacintha, <font>and Mrs.</font> Strictland.</nonSpeech>
+   <nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Lord! -- Dear <font>Jacintha</font> -- for Heaven's sake
+make haste. He'll overtake us before we get in.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Overtake us? Why, he is not in Sight.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Is not he? Ha! sure I have not dropt my
+Twee -- I would not have him lose Sight of me neither.
+</dialogue><nonSpeech>[ <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Here he is --
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> In -- In -- In then.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech> <nonSpeech> <font>Laughing.</font> </nonSpeech><dialogue> What, without your Twee?
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Pshah! I have lost nothing. -- In -- I'll follow
+you. </dialogue><nonSpeech> <font>Exeunt into the House.</font> Clarinda <font>last</font> .</nonSpeech>
+<nonSpeech> <font>Enter</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> It is impossible I should be deceiv'd: My Eyes,
+and the quick Pulses at my Heart assure me it is she. Ha!
+<pagebreak id="20" />
+'tis she, by Heaven! and the Door left open too -- A
+fair Invitation, by all the Rules of Love -- </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head>SCENE III.</head> 
+
+ <head> <font>CHANGES TO AN APARTMENT IN MR.</font> STRICTLAND'S <font>HOUSE</font> .</head> 
+
+<nonSpeech> <font>Enter</font> Clarinda, Frankly <font>following her</font> .</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I hope, Madam, you will excuse the Boldness
+of this Intrusion, since it is owing to your own Behaviour
+that I am forc'd to it.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> To my Behaviour, Sir?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> You cannot but remember me at <font>Bath</font> , Madam,
+where I so lately had the Favour of your Hand --
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I do remember, Sir; but I little expected any
+wrong Interpretation of my Behaviour from one, who
+had so much Appearance of a Gentleman.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> What I saw of your Behaviour was so just, it
+would admit of no Misinterpretation. I only fear'd, 
+whatever Reason you had to conceal your Name from me at
+<font>Bath</font> , you might have the same to do it now; and tho'
+my Happiness was so nearly concern'd, I rather chose to
+venture thus abruptly after you, than be impertinently
+inquisitive.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Sir, there seems to be so much Civility in your
+Rudeness, that I can easily forgive it; tho' I don't see
+how your Happiness is at all concern'd.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> No, Madam! I believe you are the only Lady,
+who could, with the Qualifications you are Mistress of,
+be insensible of the Power they give you over the
+Happiness of our Sex.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> How vain should we Women be, if you
+Gentlemen were but wise! If you did not all of you say the
+same things to every Woman, we shou'd certainly be
+foolish enough to believe some of you were in earnest.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Could you have the last Sense of what I feel
+whilst I am speaking, you would know me to be in
+<pagebreak id="21" />
+earnest, and what I say to be the Dictates of a Heart that
+admires you. May I not say --
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Sir, this is carrying the --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> When I danced with you at <font>Bath</font> , I was
+charm'd with your whole Behaviour, and felt the same
+tender Admiration: But my Hope of seeing you
+afterwards kept in my Passion 'till a more proper Time should
+offer. You cannot therefore blame me now, if, after
+having lost you once, I do not suffer an inexcusable
+Modesty to prevent my making use of this second
+Opportunity.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> This Behaviour, Sir, is so different from the
+Gaiety of your Conversation then, that I am at a loss
+how to answer you.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> There is nothing, Madam, which could take
+off from the Gaiety with which your Presence inspires 
+every Heart, but the Fear of losing you. How can I be
+otherwise than as I am, when I know not, but you may
+leave <font>London</font> as abruptly as you did <font>Bath</font> ?
+</dialogue><nonSpeech> <font>Enter</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Madam, the Tea is ready, and my Mistress
+waits for you.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Very well, I come -- </dialogue><nonSpeech> <font>Exit</font> Lucetta.</nonSpeech><dialogue> You   
+see,
+Sir, I am call'd away; but I hope you will excuse it,
+when I leave you with an Assurance, that the Business
+which brings me to Town will keep me here some time.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> How generous it is in you thus to ease the
+Heart, that knew not how to ask for such a Favour -- I
+fear to offend -- But this House, I suppose, is yours.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> You will hear of me, if not find me here.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I then take my Leave. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I'm undone! -- He has me!
+</dialogue><nonSpeech> <font>Enter Mrs.</font> Strictland.</nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Well! How do you find yourself?
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> I do find -- that if he goes on, as he has begun,
+I shall certainly have him without giving him the least
+Uneasiness.
+<pagebreak id="22" />
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> A very terrible Prospect, indeed!
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> But I must teize him a little. -- Where is
+<font>Jacintha</font> ? How will she laugh at me, if I become a Pupil
+of hers, and learn to give Ease? No! positively I shall
+never do it.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Poor <font>Jacintha</font> has met with what I      
+fear'd,
+from Mr. <font>Strictland's</font> Temper -- An utter Denial. I
+know not why, but he really grows more and more
+ill-natur'd.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Well! now do I heartily wish my Affairs were
+in his Power a little, that I might have a few Difficulties
+to surmount. -- I love Difficulties -- and yet, I don't
+know, it is as well as it is.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Ha, ha, ha! Come, the Tea waits.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Mr.</font> Strictland.</nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> These Doings in my House distract
+me! I met a fine Gentleman -- when I inquir'd who he
+was; why, he came to <font>Clarinda</font> . I met a Footman too,
+and he came to <font>Clarinda</font> . I shall not be easy till she is
+decamp'd. My Wife had the Character of a virtuous
+Woman -- and they have not been long acquainted. But
+then they were by themselves at <font>Bath</font> ! That hurts -- that
+hurts. -- They must be watch'd -- they must -- I know
+them, I know all their Wiles, and the best of them are
+but Hypocrites. Ha! -- </dialogue><nonSpeech>Lucetta <font>passes over the Stage</font> .</nonSpeech><dialogue>
+Suppose I bribe the Maid -- She is of their Counsel -- The
+Manager of their Secrets -- It shall be so -- Money will
+do it, and I shall know all that passes. <font>Lucetta!</font>
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> <font>Lucetta!</font>
+</dialogue><nonSpeech> <font>Re-enter</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Sir. If he should suspect, and search me now,
+I'm undone. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> She is a sly Girl, and may be serviceable.
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue>
+<pagebreak id="23" />
+<font>Lucetta</font> , you are a good Girl, and have an honest Face. I
+like it. It looks as if it carried no Deceit in it -- Yet if
+she should be false, she can do me most harm. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Lucet</font> </nonSpeech><dialogue> Pray, Sir, speak out.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> No! she is a Woman, and it 
+is
+the highest Imprudence to trust her.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> I am not able to understand you.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I am glad of it. I would not have you
+understand me.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Then what did you call me for? If he should
+be in Love with my Face, it would be rare Sport. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>Aside</font> </nonSpeech><dialogue> <font>Tester</font> , ay, <font>Tester</font> 
+is the proper 
+Person -- <font>Lucetta</font> , tell <font>Tester</font> I want him.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Yes, Sir. -- </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Mighty odd, this! It
+gives me time however to send <font>Buckle</font> with this Letter to
+his Master. </dialogue><nonSpeech> <font>Exit</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Could I but be once well satisfied that my
+Wife had really finish'd me, I believe I should be as
+quiet, as if I were sure of the contrary. -- But whilst I
+am in doubt, I am miserable.
+</dialogue><nonSpeech> <font>Enter</font> Tester.</nonSpeech>
+   <nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Does your Honour please to want me?
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Ay, <font>Tester</font> . -- I need not fear. The
+Honesty of his Service and the Goodness of his Look
+make me secure. I will trust him. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> -- <font>Tester</font> , I
+think I have been a tolerable good Master to you.
+   </dialogue><nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Yes, Sir, -- very tolerable.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>Aside</font> </nonSpeech><dialogue> I like his Simplicity well. 
+It
+promises Honesty -- I have a Secret, <font>Tester</font> , to impart to you --
+A thing of the greatest Importance. Look upon me, and
+don't stand picking your Fingers.
+   </dialogue><nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Yes, Sir. -- No, Sir.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> But will not his Simplicity expose him the
+more to <font>Lucetta's</font> Cunning? Yes, yes! she will worm the
+Secret out of him. I had better trust her with it at once.
+-- So -- I will. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> <font>Tester</font> , go, send <font>Lucetta</font>  
+hither.
+   </dialogue><nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Yes, Sir. -- Here she is.
+<pagebreak id="24" />
+</dialogue><nonSpeech> <font>Re-enter</font> Lucetta.</nonSpeech><dialogue>
+<font>Lucetta</font> , my Master wants you.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Get you down, <font>Tester</font> .
+   </dialogue><nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Yes, Sir. </dialogue><nonSpeech> <font>Exit</font> Tester.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> If you want me, Sir, I beg you would make
+haste, for I have a thousand things to do.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Well! well! What I have to say will not
+take up much time, could I but persuade you to be honest.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Why, Sir, I hope you don't suspect my 
+Honesty?
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Well! well! I believe you honest.
+</dialogue><nonSpeech> <font>Shuts the Door.</font> </nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> What can be at the bottom of all this?           
+</dialogue><nonSpeech> [<font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> So! We cannot be too private. Come
+hither, Hussy! nearer yet.  
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Laud! Sir! You are not going to be rude. I
+vow, I will call out.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Hold your Tongue. Does the Baggage
+laugh at me? </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> She does -- She mocks me, and
+will reveal it to my Wife; and her Insolence upon it
+will be more insupportable to me than Cuckoldom itself.
+I have not Leisure now, <font>Lucetta</font> -- Some other time --
+Hush! Did not the Bell ring? Yes, yes; my Wife wants
+you. Go, go, go to her. </dialogue><nonSpeech> <font>Pushes her out.</font> </nonSpeech><dialogue> There is no 
+Hell on Earth like being a Slave to Suspicion. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head>SCENE IV.</head> 
+
+ <head> <font>THE PIAZZA, COVENT-GARDEN.</font> </head> 
+
+<nonSpeech> <font>Enter</font> Bellamy <font>and</font> Jack Meggot.</nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Nay, nay, I would not put your Family into
+any Confusion.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> None in Life, my Dear, I assure you. I
+will go and order every thing this Instant for her
+Reception.
+<pagebreak id="25" />
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> You are too obliging, Sir; but you need not be in 
+this hurry, for I am in no Certainty when I shall trouble 
+you: I only know that my <font>Jacintha</font> has taken such a
+Resolution.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Therefore we should be prepar'd; for when
+once a Lady has such a Resolution in her Head, she is
+upon the rack till she executes it, foregad! Mr. <font>Bellamy</font> ,
+this must be a Girl of Fire.
+</dialogue><nonSpeech> <font>Enter</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> <font>Buxom and lively as the bounding Doe. -- Fair
+as Painting can express, or youthful Poets fancy when they
+Love.</font> Tol de rol, lol! </dialogue><nonSpeech> <font>Singing and Dancing.</font> </nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Who is this you talk thus rapturously of?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Who should it be, but -- I shall know her
+Name to Morrow. </dialogue><nonSpeech> <font>Sings and Dances.</font> </nonSpeech>
+   <nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> What is the matter, ho! Is the Man mad?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Even so, Gentlemen, as mad as Love and Joy
+can make me.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> But inform us whence this Joy proceeds.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Joy! Joy! my Lads! She's found! My
+<font>Perdita</font> ! My Charmer!
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Egad! her Charms have bewitch'd the Man
+I think. -- But who is she?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Come, come, tell us, who is this Wonder?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> But will you say nothing?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Nothing, as I live.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Nor you?
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> I'll be as silent as the Grave --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> With a Tombstone upon it, to tell every one
+whose Dust you carry.
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> I'll be as secret as a debauch'd Prude --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Whose Sanctity every one suspects. <font>Jack,       
+Jack</font> ,
+'tis not in thy Nature. Keeping a Secret is worse to thee
+than keeping thy Accounts. But to leave fooling, listen
+to me, both, that I may whisper it into your Ears, that
+Echo may not catch the sinking Sound -- I cannot tell
+who she is, 'faith -- Tol do rol, lol --
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Mad! mad! very mad!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> All I know of her is, that she is a charming
+Woman, and has given me liberty to visit her again --
+<font>Bellamy</font> , 'tis she, the lovely she. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> So I did suppose. </dialogue><nonSpeech> <font>To</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Jack Meg.</font> </nonSpeech><dialogue> Poor <font>Charles</font> ! For Heaven's sake, Mr. 
+<font>Bellamy</font> , persuade him home to his Chamber -- Whilst I
+prepare every thing for you at home. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Adieu! --
+B'ye <font>Charles</font> ! ha, ha, ha! </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Oh, Love! thou art a Gift worthy of a God
+indeed! Dear <font>Bellamy</font> , nothing now could add to my
+Pleasure, but to see my Friend as deep in Love as 
+I am.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I shew my Heart is capable of Love, by the
+Friendship it bears to you.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> The Light of Friendship looks but dim before
+the brighter Flame of Love. Love is the Spring of 
+Chearfulness and Joy. Why, how dull and phlegmatick
+do you shew to me now? Whilst I am all Life; light
+as feather'd <font>Mercury</font> . -- You dull, and cold as Earth and
+Water; I light and warm as Air and Fire. -- Those are
+the only Elements in Love's World! Why, <font>Bellamy</font> , for
+Shame! get thee a Mistress, and be sociable.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> <font>Frankly</font> , I am now going to --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Why that Face now? Your humble Servant,
+Sir. My Flood of Joy shall not be stopt by your
+melancholy Fists, I assure you. </dialogue><nonSpeech> <font>Going.</font> </nonSpeech>
+   <nonSpeech> <font>Bella</font> </nonSpeech><dialogue> Stay, <font>Frankly</font> , I beg you stay. What would you
+say now, if I really were in Love?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Why, faith, thou hast such romantick Notions
+of Sense and Honour, that I know not what to say.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> To confess the Truth then, I am in Love.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> And do you confess it as if it were a Sin? 
+Proclaim it loud. -- Glory in it -- Boast of it as your
+greatest Virtue. -- Swear it with a Lover's Oath, and
+I will believe you.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Why then, by the bright Eyes of her I love?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Well said!
+<pagebreak id="27" />
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> By all that's tender, amiable, and soft in
+Woman --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Bravo!
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I swear, I am as true an <font> <foreign>Enamorato</foreign> </font> as 
+ever tagg'd
+a Rhyme.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> And art thou then thoroughly in Love? Come
+to my Arms, thou dear Companion of my Joys --
+</dialogue><nonSpeech> <font>They embrace.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Ranger.</nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Why -- Hey! -- Is there never a Wench
+to be got for Love or Money?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Pshah! <font>Ranger</font> here!
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Yes, <font>Ranger</font> is here, and perhaps does not
+come so impertinently as you may imagine. Faith! I
+think I have the knack of finding out Secrets. Nay,
+never look so queer -- Here is a Letter, Mr. <font>Bellamy</font> , that
+seems to promise you better Diversion than your hugging
+one another.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> What do you mean?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Do you deal much in these Paper Tokens?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Oh! the dear kind Creature! It is from her
+herself.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> What, is it a Pair of lac'd Shoes she wants? Or
+have the Boys broke her Windows?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Hold your prophane Tongue!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Nay, prithee <font>Bellamy</font> , don't keep it to 
+yourself, as if her whole Affections were contain'd in these few
+Lines.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Prithee, let him alone to his silent Raptures: But
+it is, as I always said -- Your grave Men ever are the
+greatest Whore-masters.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I cannot be disoblig'd now, say what you will.
+But how came this into your Hands?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Your Servant <font>Buckle</font> and I chang'd
+Commissions. He went on my Errand, and I came on his.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> S'death! I want him this very Instant.
+<pagebreak id="28" />
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> He will be here presently! But I demand to
+know what I have brought you?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Ay! ay! Out with it! You know we never
+blab, and may be of Service.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Twelve o'Clock! oh! the dear Hour.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Why, it is a pretty convenient Time, indeed.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> By all that's happy, she promises in this Letter
+here -- to leave her Guardian this very Night -- and
+run away with me.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> How is this?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Nay, I know not how myself -- she says at the
+Bottom -- <font>Your Servant has full Instructions from</font> Lucetta,
+<font>how to equip me for my Expedition -- I will not trust 
+myself home with you to-night, because I know it is 
+inconvenient; therefore I beg you wou'd procure me a 
+Lodging; it is no matter how far off my Guardians -- Yours</font> ,
+Jacintha.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Carry her to a Bagnio, and there you may lodge
+with her.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Why, this must be a Girl of Spirit, Faith!
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> And Beauty equal to her Sprightliness. I love
+her, and she loves me -- She has thirty Thousand to
+her Fortune.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> The Devil she has!
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> And never plays at Cards. --
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Nor does any one thing like any one other
+Woman, I suppose.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Not so, I hope, neither.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Oh! <font>Frankly</font> , <font>Ranger</font> , I never felt such 
+Ease 
+before. The Secret's out, and you don't laugh at me.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Laugh at thee? -- for loving a Woman of thirty
+thousand Pound? Thou art a most unaccountable Fellow.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> How the Devil could he work her up to this? I
+never could have had the Face to have done it. But -- 
+I know not how. -- There is a Degree of Assurance
+in you modest Gentlemen, which we impudent Fellows
+never can come up to --
+<pagebreak id="29" />
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Oh! your Servant, good Sir; you should not
+abuse me now, <font>Ranger</font> , but do all you can to assist me.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Why, look ye, <font>Bellamy</font> , I am a damnable
+unlucky Fellow -- and so will have nothing to do in this
+Affair. I'll take care to be out of the way, so as to do
+you no harm. That is all I can answer for, and so Success
+attend you. </dialogue><nonSpeech> <font>Going.</font> </nonSpeech><dialogue> I cannot leave you, quite to
+yourself neither, for if this should prove a Round-house Affair,
+as I make no doubt it will, I believe I may have more 
+Interest there than you; and so, Sir, you may hear of me
+at -- </dialogue><nonSpeech> <font>Whispers.</font> </nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> For shame, <font>Ranger</font> , the most noted 
+Gaming-house in Town.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Forgive me this once, my Boy. I must go,
+Faith, to pay a Debt of Honour to some of the greatest
+Rascals in the Nation. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> But where do you design to lodge her?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> At Mr. <font>Meggot's</font> -- He is already gone to
+prepare for her Reception.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> The properest Place in the World. His Aunts
+will entertain her with Honour.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> And the Newness of our Acquaintance will 
+prevent its being suspected. -- <font>Frankly</font> , give me your Hand.
+This is a very critical Time --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Pho! none of your musty Reflexions now!
+When a Man is in Love to the very Brink of Matrimony,
+what the Devil has he to do with <font>Plutarch</font> and <font>Seneca</font> ?
+Here is your Servant with a Face full of Business -- I'll
+leave you together -- I shall be at the <font>King's Arms</font> , where,
+if you want my Assistance, you may find me. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Buckle.</nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> So -- Buckle -- you seem to have your Hands
+full.
+   </dialogue><nonSpeech> <font>Buck.</font> </nonSpeech><dialogue> Not fuller than my Head, Sir, I promise you.
+You have had your Letter, I hope.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Yes, and in it she refers me to you for my
+Instructions.
+<pagebreak id="30" />
+   </dialogue><nonSpeech> <font>Buck.</font> </nonSpeech><dialogue> Why, the Affair stands thus -- As Mr. 
+<font>Strictland</font> sees the Doors lock'd and barr'd every Night
+himself, and takes the Keys up with him; it is impossible
+for us to escape any way but thro' the Window: for
+which Purpose I have a Ladder of Ropes.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Good --
+   </dialogue><nonSpeech> <font>Buck</font> </nonSpeech><dialogue> And because a Hoop, as the Ladies wear them
+now, is not the most decent Dress to come down a
+Ladder in -- I have in this other Bundle a Suit of Boys
+Cloaths, which I believe will fit her. At least, it will serve
+the Time she will want it -- You will soon be for 
+pulling them off, I suppose.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Why, you are in Spirits, you Rogue.
+   </dialogue><nonSpeech> <font>Buck.</font> </nonSpeech><dialogue> These I am now to convey to <font>Lucetta</font> -- Have
+you any thing to say, Sir?
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Nothing, but that I will not fail at the Hour
+appointed -- Bring me word to Mr. <font>Meggot's</font> how you
+go on. Succeed in this, and it shall make your Fortune.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>ACT III. SCENE I.</head> 
+
+ <head> <font>THE STREET BEFORE MR.</font> STRICTLAND'S <font>HOUSE</font> .</head> 
+
+<nonSpeech> <font>Enter</font> Bellamy <font>in a Chairman's Coat</font> .</nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> How tediously have the Minutes past these last
+few Hours! and the envious Rogues will fly,
+no Lightning quicker, when we would have them stay. --
+Hold! let me not mistake. -- This is the House. </dialogue><nonSpeech> <font>Pulls
+out his Watch.</font> </nonSpeech><dialogue> By Heaven! it is not yet the Hour --
+I hear somebody coming. The Moon's so bright -- I
+had better not be here, 'till the happy Instant comes.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<pagebreak id="31" />
+<nonSpeech> <font>Enter</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Wine is no Antidote to Love, but rather feeds
+the Flame. Now am I such an amorous Puppy, that I
+cannot walk straight Home, but must come out of my way
+to take a View of my Queen's Palace by Moon-light. --
+Ay, here stands the Temple where my Goddess is adored!
+the Door opens! </dialogue><nonSpeech> <font>Retires.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech> <nonSpeech> <font>Under the Window.</font> </nonSpeech><dialogue> Madam, Madam, hist!
+Madam -- How shall I make her hear? --
+</dialogue><nonSpeech>Jacintha <font>in Boys Cloaths at the Window.</font> </nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Who is there? -- What's the Matter? --
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> It is I, Madam. You must not pretend to stir
+'till I give the Word -- You'll be discover'd if you do. --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> What do I see! a Man. My Heart
+misgives me! --
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> My Master is below sitting up for Mrs.           
+<font>Clarinda</font> .
+He raves as if he was mad about her being out so late.
+   </dialogue><nonSpeech> <font>Frankly.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Here is some Intrigue, or     
+other. I
+must see more of this, before I give further way to Love.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> One Minute he is in the Street -- the next he is
+in the Kitchen. Now he will lock her out, and then he'll 
+wait himself, and see what Figure she makes when she
+vouchsafes to venture home.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I long to have it over. Get me but once out
+of this House!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Cowardly Rascal! Would I were in 
+his Place.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> If I can but fix him any where, I can let you
+out myself. -- You have the Ladder ready in Case of
+Necessity.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Yes! yes! </dialogue><nonSpeech> <font>Exit</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> The Ladder! This must lead to   
+some
+Discovery. I shall watch you, my young Gentleman.
+I shall.
+<pagebreak id="32" />
+</dialogue><nonSpeech> <font>Enter</font> Clarinda, <font>and Servant</font> .</nonSpeech>
+   <nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> This Whisk is a most enticing Devil. I am
+afraid I am too late for Mr. <font>Strictland's</font> sober Hours.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Ha! I hear a Noise!
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> No! I see a Light in <font>Jacintha's</font> Window. You
+may go home. </dialogue><nonSpeech> <font>Giving the Servant Money.</font> </nonSpeech><dialogue> I am safe.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Sure it must be he! Mr. <font>Bellamy.</font> -- Sir!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech> <nonSpeech> <font>Aside</font> </nonSpeech><dialogue> Does not he call to me?
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Ha! who's that? I am frighted    
+out of
+my Wits. -- A Man! --
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Is it you?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Yes! yes! 'tis I! 'tis I!
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Listen at the Door.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I will, 'tis open -- There is no Noise -- All's
+quiet.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Sure it is my Spark -- and talking to             
+<font>Jacintha</font> .
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> You may come down the Ladder -- quick.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Catch it then; and hold it.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I have it. Now I shall see what sort of 
+Mettle my young Spark is made of. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> With a Ladder too! I'll assure you. But I must
+see the end of it. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Hark! did not somebody speak!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> No! no! Be not fearful -- 'Sdeath! we are 
+discover'd. </dialogue><nonSpeech>Frankly <font>and</font> Clarinda <font>retire</font> .</nonSpeech>
+<nonSpeech> <font>Enter</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Hist! hist! are you ready?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Yes, may I venture?
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Now is your Time. He is in high Conference
+with his Privy-Counsellor Mr. <font>Tester</font> . You may come
+down the Back Stairs, and I'll let you out. </dialogue><nonSpeech> <font>Exit</font> Lucet.</nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I will, I will, and am heartily glad of it.
+</dialogue><nonSpeech> <font>Exit</font> Jacintha.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech> <nonSpeech> <font>Advancing</font> </nonSpeech><dialogue> May be so -- But you and I   
+shall
+have a few Words before you get off so cleanly.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech> <nonSpeech> <font>Advancing.</font> </nonSpeech><dialogue> How lucky it was I came home
+<pagebreak id="33" />
+at this Instant. I shall spoil his Sport, I believe. Do
+you know me, Sir?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I am amaz'd! You here! This was 
+unexpected indeed!
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Why, I believe I do come a little unexpectedly;
+ but I shall amaze you more -- I know the whole Course
+of your Amour; all the Process of your mighty Passion
+from its first Rise --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> What is all this! --
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> To the very Conclusion, which you vainly hope
+to effect this Night.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> By Heaven, Madam, I know not what you
+mean. I came hither purely to contemplate on your
+Beauties.
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Any Beauties, Sir, I find will serve your Turn.
+Did I not hear you talk to her at the Window?
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Her!
+   </dialogue><nonSpeech> <font>Clar.</font> </nonSpeech><dialogue> Blush, blush for Shame; but be assur'd you have
+seen the last both of <font>Jacintha</font> and me. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> <font>Jacintha!</font> Hear me, Madam --  She is gone.
+This must certainly be <font>Bellamy's</font> Mistress, and I have
+fairly ruin'd all his Scheme. This it is to be in Luck.
+</dialogue><nonSpeech> <font>Enter</font> Bellamy, <font>behind</font> .</nonSpeech>
+   <nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Ha! A Man under the Window!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> No, here she comes, and I may convey her to
+him.
+</dialogue><nonSpeech> <font>Enter</font> Jacintha, <font>and runs to</font> Frankly.</nonSpeech>
+   <nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I have at last got to you: Let's haste away --
+Oh!
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Be not frighten'd, Lady.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Oh! I am abus'd, betray'd!
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> Betray'd! <font>Frankly!</font>
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> <font>Bellamy.</font>
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> I can scarce believe it, tho' I see it. Draw --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Hear me, <font>Bellamy</font> -- Lady.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Stay -- do not fight.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I am innocent; it is all a Mistake.
+<pagebreak id="34" />
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> For my Sake, be quiet -- We shall be discover'd.
+The Family is alarm'd.
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> You are obey'd -- Mr. <font>Frankly</font> , there is but 
+one
+Way --
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> I understand you. Any time but now. You
+will certainly be discover'd. To-morrow -- at your
+Chambers. --
+   </dialogue><nonSpeech> <font>Bella.</font> </nonSpeech><dialogue> 'Till then, farewel. </dialogue><nonSpeech> <font>Exeunt</font> Bella.        
+<font>and</font> Jacin.</nonSpeech>
+   <nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Then, when he is cool, I may be heard; and
+the real, tho' suspicious Account of this Matter may be
+believ'd. Yet amidst all this Perplexity, it pleases me to
+find my fair <font> <foreign>incognita</foreign> </font> is jealous of my Love.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>within.</font> </nonSpeech><dialogue> Where's <font>Lucetta</font> ?     
+Search every
+Place.
+   </dialogue><nonSpeech> <font>Frank.</font> </nonSpeech><dialogue> Hark! the Cry is up -- I must be gone.
+</dialogue><nonSpeech> <font>Exit</font> Frankly.</nonSpeech>
+<nonSpeech> <font>Enter Mr.</font> Strictland, Tester, <font>and Servants</font> .</nonSpeech>  
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> She's gone! She's lost! I am cheated!
+pursue her! <comment type="compiler">SOURCE TEXT: Pursuer CORRECTED TO pursue her IN        
+ERRATA</comment> Seek her!
+   </dialogue><nonSpeech> <font>Tester.</font> </nonSpeech><dialogue> Sir, all her Cloaths are in her Chamber.
+   </dialogue><nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> Sir, Mrs. <font>Clarinda</font> said she was in Boys       
+Cloaths.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Ay, ay! I know it -- <font>Bellamy</font> has her --
+Come along -- Pursue her. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Ranger.</nonSpeech><dialogue>
+<comment type="compiler">RANGER'S MONOLOGUE OMITTED: FINDING THE LADDER AND SUSPECTING 
+MISCHIEF, HE CLIMBS AND THEN REMOVES IT.</comment>
+<pagebreak id="35" />
+</dialogue> <head>SCENE II.</head> 
+
+ <head> <font>MRS.</font> STRICTLAND'S <font>DRESSING-ROOM</font> .</head> 
+
+<nonSpeech> <font>Enter Mrs.</font> Strictland, <font>follow'd by</font> Lucetta.</nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Well! I am in great Hopes she will
+escape.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Never fear, Madam. The Lovers have the
+start of him, and I warrant, they keep it
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Were Mr. <font>Strictland</font> ever to suspect my
+being privy to her Flight, I know not what might be the
+Consequence.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Then you had better be undressing -- He may
+return immediately.--
+</dialogue><nonSpeech> <font>As she is sitting down to the Toilet</font> , Ranger <font>enters        
+behind</font> .</nonSpeech> 
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Young and beautiful.-- </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> I have watch'd him pretty narrowly of late,
+and never once suspected till this Morning --
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> And who gave you Authority to watch
+his Actions, or pry into his Secrets?
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> I hope, Madam, you are not angry. I thought
+it might have been of Service to you to know my Master
+was jealous.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> And her Husband jealous! If she does but send
+away the Maid, I am happy.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech> <nonSpeech> <font>Angrily.</font> </nonSpeech><dialogue> Leave me!
+<pagebreak id="36" />
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> This is to meddle with other Peoples Affairs.
+</dialogue><nonSpeech> <font>Exit in Anger.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> What a lucky Dog I am! I never made a
+Gentleman a Cuckold before. Now, Impudence, assist me.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech> <nonSpeech> <font>Rising</font> </nonSpeech><dialogue> Provoking! I am sure I    
+never
+have deserv'd it of him.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Oh! Cuckold him by all means, Madam, I am
+your Man! </dialogue><nonSpeech> <font>She shrieks.</font> </nonSpeech><dialogue> Oh, fy, Madam! If you
+squawl so cursedly, you will be discover'd.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Discover'd! What mean you, Sir? Do
+you come to abuse me?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> I'll do my Endeavours, Madam: You can
+have no more.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Whence came you? How got you here?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Dear Madam, so long as I am here, what
+signifies how I got here, or whence I came? But that I may
+satisfy your Curiosity. First, as to your whence came you?
+I answer, out of the Street: And to your How got
+you here? I say, in at the Window. It stood so 
+invitingly open, it was irresistible. But, Madam -- You
+was going to undress. I beg I may not incommode you.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> This is the most consummate Piece of
+Impudence! --
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> For Heaven's sake, have one Drop of Pity for
+a poor young Fellow, who long has lov'd you.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> What would the Fellow have?
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Your Husband's Usage will excuse you to the
+World.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> I cannot bear this Insolence! Help! help!
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Oh! hold that clamorous Tongue! Madam,
+speak one Word more, and I am gone, positively gone?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Gone! So I would have you.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Lord! Madam, you are so hasty.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Shall I not speak, when a Thief, a
+Robber breaks into my House at Midnight? Help! help!
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Ha! no one hears. Now, <font>Cupid</font> , assist me!
+Look ye, Madam, I never could make fine Speeches, and
+cringe, and bow, and fawn, and flatter, and lye. I have
+<pagebreak id="37" />
+said more to you already, than I ever said to a Woman
+in such Circumstances in all my Life. But since I find
+you will yield to no Persuasion to your Good -- I will
+gently force you to be grateful. </dialogue><nonSpeech> <font>Throws down his Hat, 
+and seizes her.</font> </nonSpeech><dialogue> Come, come! unbend that Brow, and
+look more kindly on me!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> For Shame, Sir -- Thus on my Knees,
+let me beg for Mercy. </dialogue><nonSpeech> <font>Kneeling.</font> </nonSpeech>
+   <nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> And thus, on mine, let me beg the same.
+</dialogue><nonSpeech> <font>He kneels, catches, and kisses her.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>within.</font> </nonSpeech><dialogue> Take away her Sword! She'll
+hurt herself!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Oh! Heavens! that is my Husband's
+Voice!
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech> <nonSpeech> <font>Rising.</font> </nonSpeech><dialogue> The Devil it is!
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>within</font> </nonSpeech><dialogue> Take away her Sword, I say;
+and then I can close with her.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> He is upon the Stairs, now coming up.
+I am undone, if he sees you.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> Pox on him! I must decamp then. Which
+Way?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Thro' this Passage into the next Chamber.
+   </dialogue><nonSpeech> <font>Rang.</font> </nonSpeech><dialogue> And so into the Street. With all my Heart.
+You may be perfectly easy, Madam. Mum's the Word.
+I never blab. -- </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> I shall never leave off so, but
+wait till the last Moment. </dialogue><nonSpeech> <font>Exit</font> Ranger.</nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> So, he is gone? What could I have said,
+if he had been discover'd!
+</dialogue><nonSpeech> <font>Enter</font> Mr. Strictland, <font>driving in</font> Jacintha,
+Lucetta <font>following</font> .</nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Once more, my pretty masculine Madam,
+you are welcome home. And I hope to keep you
+somewhat closer than I have done: for to-morrow Morning,
+eight o'Clock, is the latest Hour you shall stay in this
+lewd Town.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Oh, Sir! when once a Girl is equip'd with a
+hearty Resolution, it is not your Worship's Sagacity, nor
+<pagebreak id="38" />
+the great Chain at your Gate can hinder her from doing
+what she has a Mind.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Oh, Lord! Lord! How this Love
+improves a young Lady's Modesty!
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Am I to blame to seek for Happiness any
+where, when you are resolv'd to make me miserable
+here!
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I have this Night prevented your making
+yourself so; and will endeavour to do it for the future.
+I have you safe now, and the Devil shall not get you out
+of my Clutches again. I have lock'd the Doors and barr'd
+them, I warrant you. So, here -- </dialogue><nonSpeech> <font>Giving her a Candle.</font> </nonSpeech><dialogue>
+Troop to your Chamber, and to Bed, whilst you are well.
+Go -- </dialogue><nonSpeech> <font>He treads on</font> Ranger's <font>Hat</font> .</nonSpeech><dialogue> What's here? a Hat!
+A Man's Hat in my Wife's Dressing-Room!
+</dialogue><nonSpeech> <font>Looking at the Hat.</font> </nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> What shall I do?
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech> <nonSpeech> <font>Taking up the Hat, and looking at Mrs.</font>
+Strictland.</nonSpeech><dialogue> Ha! By Hell! I see 'tis true.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> My Fears confound me. I dare not tell
+the Truth, and know not how to frame a Lye!
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Mrs. <font>Strictland</font> ! Mrs. <font>Strictland</font> ! 
+How
+came this Hat into your Chamber!
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Are you that way dispos'd, my   
+fine
+Lady, and will not trust me?
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Speak, Wretch, speak. --
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I could not have suspected this. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Why dost thou not speak?
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Sir --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Guilt -- 'tis Guilt that ties your Tongue!
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> I must bring her off, however. -- No 
+Chambermaid can help it. -- </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> My Fears are just, and I am miserable --
+Thou worst of Women!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> I know my Innocence, and can bear this no 
+longer.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I know you are false, -- and 'tis I who will
+bear my Injuries no longer. </dialogue><nonSpeech> <font>Both walk about in a Passion.</font> </nonSpeech>
+<pagebreak id="39" />
+   <nonSpeech> <font>Lucet.</font> </nonSpeech> <nonSpeech> <font>To</font> Jacintha <font>aside</font> .</nonSpeech><dialogue> Is not the Hat  
+yours? Own
+it, Madam. </dialogue><nonSpeech> <font>Takes away</font> Jacintha's <font>Hat, and Exit</font> .</nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> What Ground? what Cause have you for
+Jealousy, when you yourself can witness, your
+leaving me was accidental; your Return uncertain; and
+expected even sooner than it happen'd? The Abuse is gross
+and palpable.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Why, this is true!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Indeed, <font>Jacintha</font> , I am innocent.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> And yet this Hat must belong to
+somebody.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Dear Mrs. <font>Strictland</font> , be not concern'd when 
+he
+has diverted himself a little longer with it --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Ha! --
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> I suppose he will give me my Hat again?
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Your Hat?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Yes, my Hat. You brush'd it from my Side
+yourself, and then trod upon it; whether on purpose to
+abuse this Lady, or no, you best know yourself.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> It cannot be -- It's all a Lye.
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Believe so still -- with all my Heart -- But the
+Hat is mine.
+</dialogue><nonSpeech> <font>Snatches it, and puts it on.</font> </nonSpeech>
+   <nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Why did she look so?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Your Violence of Temper is too much for her.
+You use her Ill, and then suspect her for that Confusion
+which you yourself occasion.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Why, did not you set me right at first?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Your hard Usage of me, Sir, is a sufficient 
+Reason why I should not be much concern'd to undeceive you
+at all. 'Tis for your Lady's sake, I do it now; who
+deserves much better of you than to be thus expos'd for
+every slight Suspicion. See where she sits -- Go to her.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech> <nonSpeech> <font>Rising.</font> </nonSpeech><dialogue> Indeed, Mr.              
+<font>Strictland</font> , I have
+a Soul as much above --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Whew! now you have both found your
+Tongues, and I must bear their eternal Rattle!
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> For Shame! Sir, Go to her, and --
+<pagebreak id="40" />
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Well! well! what shall I say? I forgive --
+all is over. I, I, I forgive!
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Forgive? What do you mean?
+   </dialogue><nonSpeech> <font>Jacin.</font> </nonSpeech><dialogue> Forgive her? is that all? Consider, Sir --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Hold -- hold your confounded Tongues,
+and I'll do any thing. I'll ask Pardon -- or forgive -- or
+any thing. Good now, be quiet -- I ask your Pardon --
+there -- </dialogue><nonSpeech> <font>Kisses her.</font> </nonSpeech><dialogue> For you, Madam -- I am
+infinitely oblig'd to you, and I could find in my Heart to
+make you a Return in kind, by marrying you to a 
+Beggar, -- but I have more Conscience. Come, come; to
+your Chamber. -- Here, take this Candle -
+</dialogue><nonSpeech> <font>Enter</font> Lucetta <font>pertly</font> .</nonSpeech>
+   <nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Sir, if you please, I will light my young Lady
+to Bed.
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> No! no! no such thing, good Madam.
+She shall have nothing but her Pillow to consult this
+Night, I assure you. -- So, in, in. </dialogue><nonSpeech> <font>The Ladies take leave.</font> </nonSpeech>
+<nonSpeech> <font>Exit</font> Jacintha.</nonSpeech><dialogue> Good Night, kind Madam.
+   </dialogue><nonSpeech> <font>Lucet.</font> </nonSpeech><dialogue> Pox of the jealous Fool! We might both have
+escap'd out of the Window purely. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> Go, get you down; and, do you hear?
+order the Coach to be ready in the Morning at Eight
+exactly. </dialogue><nonSpeech> <font>Exit</font> Lucetta.</nonSpeech> <nonSpeech> <font>Locks the Door after her.</font> </nonSpeech><dialogue> So
+she is safe till to-morrow, and then for the Country;
+and when she is there, I can manage as I think fit.
+   </dialogue><nonSpeech> <font>Mrs. Strict.</font> </nonSpeech><dialogue> Dear Mr. <font>Strictland</font> --
+   </dialogue><nonSpeech> <font>Mr. Strict.</font> </nonSpeech><dialogue> I am not in a Humour, Mrs. <font>Strictland</font> ,
+fit to talk with you. -- Go to Bed, I will endeavour to
+get the better of my Temper, if I can -- I'll follow
+you! </dialogue><nonSpeech> <font>Exit Mrs.</font> Strictland.</nonSpeech><dialogue> How despicable have I
+made myself! </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

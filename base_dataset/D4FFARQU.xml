@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4FFARQU">
+  <dialogueHeader>
+
+    <filename>D4FFARQU</filename>
+
+    <identifier>4 FICTION D4FFARQU</identifier>
+
+    <title>COVENT-GARDEN</title>
+
+    <author>FARQUHAR GEORGE</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1699</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">FARQUHAR, GEORGE.</attribution>
+      <frontMatter>THE ADVENTURES OF COVENT-GARDEN, IN IMITATION OF SCARRON'S CITY
+ROMANCE. 
+(...)
+LONDON, PRINTED BY H. HILLS, FOR R. STANDFAST, NEXT DOOR TO THE THREE
+TUNN TAVERN JUST WITHIN TEMPLE BARR.
+1699.
+PP. 1.1 - 9.7     SAMPLE 1
+PP. 17.20 - 23.14 SAMPLE 2
+PP. 31.24 - 34.23 SAMPLE 3
+PP. 48.16 - 51.22 SAMPLE 4
+PP. 52.18 - 54.15 SAMPLE 5
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">COMMONLY ATTRIBUTED TO GEORGE FARQUHAR.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="1" />
+ <head>THE
+ADVENTURES
+OF
+COVENT-GARDEN.</head> 
+
+<nonSpeech>A Young Gentleman somewhat
+addicted to Poetry and the
+Diversions of the Stage,
+standing one Evening behind the Scenes in
+<font>Drury-lane</font> Playhouse, was accosted
+with a Message by the Door-keeper,
+that a Lady in the Entrance desir'd
+to speak with him; he readily obey'd
+the Charge, but was strangly surpris'd
+to be saluted by a Voice well known
+to him, and a Person whom he
+imagin'd in another Kingdom (one whom
+<pagebreak id="2" />
+he passionately lov'd) and whose
+absence he much regretted; their Joys
+were mutual at the Interview, but
+his the greater, because heightn'd by
+surprise and unexpectancy;</nonSpeech><dialogue> <font>for
+Heavens sake, Madam</font> </dialogue><nonSpeech> ( <font>said the Spark in a
+transport</font> ) </nonSpeech><dialogue> <font>is your Husband dead?
+and may I hope at last that you are
+mine</font> ; </dialogue><nonSpeech>The Lady answer'd only by a
+deep Sigh, and conducting him to
+the Coach which waited for her, she
+gave him the following account.</nonSpeech><dialogue> <font>You
+may remember, my dear</font> Peregrine,
+</dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>that constrain'd by the
+Rigour of covetous Parents, who
+consulted my Fortune, not Inclinations, I broke
+my Vows and Protestations to you and
+married</font> Richly. <font>Revive not the fatal
+remembrance</font> </dialogue><nonSpeech> ( <font>answer'd</font> Peregrine) </nonSpeech><dialogue>
+<font>which occasion'd me so much misery,
+forcing me thro grief to leave the
+Kingdom, and come hither for</font> London,
+<font>but rather declare the cause which so
+happily has Blest me now with your
+Presence so far beyond my hopes</font> . <font>Alas
+<pagebreak id="3" />
+Sir</font> , </dialogue><nonSpeech> <font>reply'd</font> Emilia,</nonSpeech><dialogue> <font>why shou'd you Sir,
+doubt the occasion, knowing your self and
+knowing me? how could I rest in the
+Embraces of Another, whilst nothing
+but a narrow Sea parted me from my
+dear</font> Peregrine. <font>I gave my friends
+the satisfaction to see me married to</font>
+Richly, <font>but did my self the Justice to
+live with none but my Dearest</font> . --
+</dialogue><nonSpeech>with which words pressing his Hand,
+and letting her Head fall with a Sigh
+in his Bosom, she murmur'd out the
+rest in a Language which Lovers only
+understand. The Coach stopt in
+<font>Bow-street Covent-Garden</font> , where the
+Lady had taken Lodgings.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">EMILIA HAS TAKEN LODGINGS IN A HOUSE OPPOSITE TO WHERE PEREGRINE'S
+NEW MISTRESS LIVES. PEREGRINE GOES TO HIS CLUB WHERE HE TELLS THE
+COMPANY ABOUT EMILIA'S RETURN.</comment>
+<pagebreak id="6" />
+<omission type="sentence" /> </dialogue><nonSpeech>there was
+none of the company dispos'd to
+comply with his humour, but a 
+Captain, who swearing a bloudy
+Oath that put his Scarlet out of
+countenance, declar'd he would Drink for
+his Mistress as much as <font>Peregrine</font>
+shou'd for his Guts, <font>and</font> </nonSpeech><dialogue> Damme
+</dialogue><nonSpeech> ( <font>continu'd he</font> ) </nonSpeech><dialogue> <font>I have got the prettiest,
+kindest creature, and she is newly come
+to Town; but what is yet stranger, I
+have not yet enjoy'd her, tho I have
+seen her twice</font> . <font>I shou'd think it more
+strange</font> </dialogue><nonSpeech> ( <font>said</font> Peregrine) </nonSpeech><dialogue> <font>if you ever
+enjoy her, if she be one that values her
+Reputation</font> . Zoons </dialogue><nonSpeech> ( <font>cry'd the
+Captain</font> ) </nonSpeech><dialogue> <font>you look like an honest Fellow,
+<pagebreak id="7" />
+and I'll tell you a secret; My Mistress
+is the prettiest Lady in</font> England, <font>and
+she Lodges hard by in</font> Bow-street. </dialogue><nonSpeech>The
+whole Company, who knew that
+<font>Peregrine</font> Courted a Lady in <font>Bow-street</font> ,
+burst out a Laughing, and one of them
+ask'd the Captain where abouts his
+Mistress liv'd?</nonSpeech><dialogue> <font>About the middle of
+the Street</font> , </dialogue><nonSpeech> ( <font>reply'd he</font> ) which increas'd
+the Laughter all about the Table.
+Here appear'd another Caprice in the
+humour of our Lover: <font>Peregrine</font> ,
+who just now had forgot and laid by
+all thoughts of his former Mistress,
+had his passion renew'd by the
+apprehension of a Rival, and his Flame
+like other Fire, meeting with
+opposition, began to rage more furiously;
+he ask'd the Captain what
+incouragment he had receiv'd, to authorise
+him to call that Lady Mistress?</nonSpeech><dialogue> <font>Only
+this</font> </dialogue><nonSpeech> ( <font>said the Captain</font> ) </nonSpeech><dialogue> <font>that I am
+belov'd by her above all Men in the
+World, for which I have her own
+Declaration</font> . </dialogue><nonSpeech> <font>Peregrine</font> being sensible
+<pagebreak id="8" />
+how far a Lac'd Coat and Feathers
+usually work upon the Female Sex,
+was very uneasy, and calling a
+Reckoning left the Company.</nonSpeech><dialogue>
+<comment type="compiler">PEREGRINE GOES TO SEE EMILIA SEVERAL TIMES WITHOUT SUCCESS: HE
+IS SEEN BY HIS NEW MISTRESS SELINDA WHO SENDS FOR HIM.</comment>
+<omission type="line" /> <font>Sir</font> </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>I was afraid
+that you had mistaken my Lodgings, by
+your freequent calling at another House
+so near me, and therefore I sent my
+<pagebreak id="9" />
+Servant to set you right</font> . </dialogue><nonSpeech>He was
+waken'd from his sweet Dream of
+<font>Emilia</font> by so just a charge; but the words
+of the Captain coming in his Head,</nonSpeech><dialogue>
+<font>Madam</font> </dialogue><nonSpeech> ( <font>said he</font> ) </nonSpeech><dialogue> <font>I saw the Sign of a
+Lac'd Coat hung out at your House,
+which occasion'd my mistaking it</font> . <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="17" />
+<comment type="compiler">THE CAPTAIN IS NOT SELINDA'S LOVER: SELINDA AND PEREGRINE GO TO
+A FAIR WHERE THEY FIND EMILIA TOGETHER WITH LORD C--: PEREGRINE SEES
+THE CAPTAIN THROUGH EMILIA'S WINDOW.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>he found 
+himself now touch'd in the 
+tenderest part, and the Captain's 
+Expressions which he could bear when
+the Company suppos'd them
+Apply'd to <font>Selinda</font> , he could not suffer
+<pagebreak id="18" />
+now he found them meant of
+<font>Emilia</font> ,</nonSpeech><dialogue> <font>Gods</font> </dialogue><nonSpeech> ( <font>cry'd he out</font> ) </nonSpeech><dialogue> <font>shall I be
+outrival'd by a Fool in the affection
+of one as Admirable for her sense as
+for her Beauty; tho the Coward durst
+not meet me at the place appointed,
+he will certainly resent an affront in
+his Mistresses presence, which may
+afford me revenge of both</font> . </dialogue><nonSpeech>Hereupon
+he comes to the Door, and opening
+it without any Ceremony, comes
+madly up, but was met upon the
+Stairs by <font>Emilia</font> ; who running to
+him, caught him in her tender Arms,
+saying,</nonSpeech><dialogue> <font>My dear</font> Peregrine, <font>how have
+I long'd to see You? and what have
+I done to Merit this strangeness of
+Yours</font> ? </dialogue><nonSpeech>She went to Kiss him, but he
+hearing a Person pass down Stairs
+by him, look'd about, and saw it was
+only a Porter.</nonSpeech><dialogue> <font>O my dearest</font>
+</dialogue><nonSpeech> ( <font>concluded she</font> ) </nonSpeech><dialogue> <font>I am overjoy'd that you're
+come so oportunely for my relief; for
+I have been pester'd these Five or six
+Days incessantly by my Lord C--
+<pagebreak id="19" />
+who has sent just now to know if I
+am at leasure to receive a visit</font> . <font>I
+suppose Madam</font> </dialogue><nonSpeech> ( <font>answer'd</font> Peregrine) </nonSpeech><dialogue> 
+<font>that you are not at leasure, for you
+have Company above Stairs</font> . <font>None
+that shall detain me from
+entertaining you</font> </dialogue><nonSpeech> ( <font>replyed she</font> .) </nonSpeech><dialogue> <font>Madam</font> ,
+</dialogue><nonSpeech> <font>answered</font> Peregrine,</nonSpeech><dialogue> <font>you shall not prevent
+me from entertaining him by all your
+Artifices; for by Heavens I'll pull off
+his</font> Lions <font>Skin, and show the</font> Ass <font>in
+his own Colours</font> . <font>Who do you mean
+pray Sir</font> </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>a Coward in the
+King's Livery</font> ? <font>Madam, your Captain
+above.</font> <font>A Captain</font> ! </dialogue><nonSpeech> <font>replied</font> Emilia,</nonSpeech><dialogue>
+<font>ha, ha, ha, I'll be hang'd if you have
+not mistaken my Lord's Footman for
+an Officer, ha, ha, ha, a very good
+Jest, poor</font> Peregrine, <font>you have not
+rub'd the Sleep out of your Eyes
+this Morning</font> . <font>Truly Madam</font> </dialogue><nonSpeech> ( <font>said</font>
+Peregrine) </nonSpeech><dialogue> <font>your behaviour makes me
+doubt that I am Awake</font> . <font>No, no</font> ,
+</dialogue><nonSpeech> ( <font>replyed she</font> ) </nonSpeech><dialogue> <font>you are Dreaming, as
+I shall convince you</font> ; </dialogue><nonSpeech>and leading
+<pagebreak id="20" />
+him up into her Chamber,</nonSpeech><dialogue> <font>Is this
+your Captain</font> ? <omission type="line" />
+<comment type="compiler">A PORTER IS WEARING THE CAPTAIN'S COAT: EMILIA SAW PEREGRINE
+COMING.</comment>
+<pagebreak id="21" />
+<omission type="line" /> </dialogue><nonSpeech>At the 
+same instant <font>Emilia</font> spy'd him, and
+with great surprise cryed out,</nonSpeech><dialogue> <font>O
+Lord; Sir, I am Ruin'd</font> . </dialogue><nonSpeech>The
+Captain asked what was the matter?</nonSpeech><dialogue>
+<font>O</font> </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>dear Sir, yonder's my
+Husband, who has seen you, and if
+we find not a device to impose upon
+him, he will Murder me</font> . <font>What shall
+we do</font> </dialogue><nonSpeech> ( <font>said the Captain</font> ) </nonSpeech><dialogue> <font>not all
+the Stratagems in the Art Military
+can save us</font> . <font>But I have one
+Stratagem in the Art of Love shall do</font> ,
+</dialogue><nonSpeech> <font>said she</font> ;</nonSpeech><dialogue> <font>Strip, strip, Sir,
+imediately, change Cloaths with the Porter</font> .
+</dialogue><nonSpeech>The Captain very willing to oblige
+the Lady, obeyed her Commands,
+and equipp'd the Porter immediately,
+and puting on the Porters Coat,
+Frock, and Apron, slunk down Stairs
+by <font>Peregrine</font> undiscover'd, leaving
+the gawdy Porter in <font>Emilia's</font>
+Chamber; which so much occasioned
+<pagebreak id="22" />
+<font>Peregrine's</font> wonder. He had the
+demonstration of his Eyes that it was
+the Captain but some Minutes
+before, and now by the same Evidence
+it appears that it is not he.</nonSpeech><dialogue> <font>This is
+all Illusion</font> </dialogue><nonSpeech> ( <font>said</font> Peregrine <font>in a
+Consternation</font> ) .</nonSpeech><dialogue> <font>Illusion</font> ! </dialogue><nonSpeech> ( <font>replyed</font>
+Emilia) </nonSpeech><dialogue> <font>I little thought that</font> Peregrine
+<font>could have such ill thoughts of Me,
+as to believe I would entertain an
+Officer at this Hour in my Chamber</font> .
+<font>Truly Madam</font> </dialogue><nonSpeech> ( <font>answered</font> Peregrine) </nonSpeech><dialogue>
+<font>tho Love be blind, I don't think
+Jealousy is so, and tho Womens Beauty
+depends on our fancy, their Vertue
+does not; we rightly can Judge of
+that, tho not of tother</font> . <font>Sir</font> </dialogue><nonSpeech> ( <font>said</font> 
+Emilia) </nonSpeech><dialogue> <font>you have never received any
+proofs of my immodesty, tho many of
+my Love, and I therefore think it
+both ingratitude and injustice in you
+to tax my Vertue, which you ought
+to defend, since you are sensible it has
+held out even against you whom I so
+dearly lov'd, and who (I thought)
+<pagebreak id="23" />
+lov'd me, but I find now too late that I
+have been mistaken</font> ; </dialogue><nonSpeech>upon which she
+burst out in Tears.</nonSpeech><dialogue> <font>Go back Sir</font> </dialogue><nonSpeech> ( <font>said
+she to the Porter</font> ) </nonSpeech><dialogue> <font>and tell your Lord
+that I begin to suspect his designs upon
+me for vicious; alas, I am
+unacquainted with the Tricks of this City, and
+did not imagine that a Nobleman could
+have any base designs upon a Poor
+Womans Honour; go quickly to him, I
+say, and bid him never trouble me
+again, for he has made me already an
+unfortunate Woman</font> . </dialogue><nonSpeech>With which
+words she Wept most bitterly.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="31" />
+<comment type="compiler">THE CAPTAIN IS BEATEN BY PEREGRINE WHO TAKES HIM FOR A PORTER:
+THE CAPTAIN IS THEN SPOTTED BY THE PORTER'S WIFE WHO ASSUMES HE
+HAS MURDERED HER HUSBAND AND TAKEN HIS CLOTHES: THE CAPTAIN IS BEATEN
+BY THE MOB AND BROUGHT TO A MAGISTRATE. PEREGRINE GOES TO THE THEATRE
+AND MEETS SOME FRIENDS: HE SEES SELINDA IN A BOX AND GOES TO HER.</comment>
+<omission type="line" /> <font>You Criticks</font> </dialogue><nonSpeech> ( <font>said</font>
+Selinda</nonSpeech><dialogue> <font>make a mighty sputter about
+<pagebreak id="32" />
+exactness of Plot, unity of time, place,
+and I know not what, which I can
+never find do any Play the least good</font> .
+</dialogue><nonSpeech> (Peregrine <font>smild at her Female
+ignorance</font> .) <font>But she continued</font> ,</nonSpeech><dialogue> <font>I have
+one thing to offer in this dispute, which
+I think sufficient to convince you; I
+suppose the chief design of Plays is to
+please the People, and get the
+Play-house and Poet a Livelyhood</font> . <font>You
+must pardon me Madam</font> , </dialogue><nonSpeech> ( <font>replyed</font>
+Peregrine) </nonSpeech><dialogue> <font>Instruction is the business
+of Plays</font> . <font>Sir</font> </dialogue><nonSpeech> ( <font>said the Lady</font> ) </nonSpeech><dialogue>
+<font>make it the business of the Audience
+First to be pleas'd with Instruction,
+and then I shall allow you it to be
+the chief end of Plays</font> . <font>But suppose
+Madam</font> </dialogue><nonSpeech> ( <font>said he</font> ) </nonSpeech><dialogue> <font>that I grant what
+you lay down</font> . <font>Then Sir</font> </dialogue><nonSpeech> ( <font>answered she</font> ) </nonSpeech><dialogue>
+<font>you must allow that what ever Plays
+most exactly Answer this aforesaid
+end, are the most exact Plays. Now
+I can instance you many Plays, as all
+those by</font> Shakespear <font>and</font> Johnson, <font>and
+the most of Mr.</font> Dryden's, <font>which you
+<pagebreak id="33" />
+Criticks quarrel at as irregular, which
+nevertheless still continue to please
+the Audience, and are a continual
+support to the</font> Theatre; <font>there's very 
+little of your Unity of time or place in
+any of them, yet they never fail to
+Answer the proposed end very
+succesfully. Besides Sir, I have heard your
+self say, that Poetry is purely an
+imitation of Nature; what business then
+can Art pretend in the affair</font> ? <font>O
+Madam</font> , </dialogue><nonSpeech> ( <font>Answered</font> Peregrine) </nonSpeech><dialogue> <font>this
+Art is only the improvement or
+perfection of Nature, and is us'd in
+Poetry, as Geometrical Lines in Painting
+do delineate the peice to an exact
+Model or Form</font> . <font>Then certainly</font>
+</dialogue><nonSpeech> ( <font>replyed the Lady</font> ) </nonSpeech><dialogue> <font>these rules are ill
+understood, or our Nature has
+changed since they were made; for we find
+they have no such effects now as they
+had formerly. For Instance, I am told
+the</font> (Double Dealer) <font>and</font> , (Plot and
+no Plot) <font>are two very exact Plays, as
+you call them, yet all their Unity of
+<pagebreak id="34" />
+Time, Place, and Action, neither
+pleased the Audience, nor got the
+Poets Money. A late Play too call'd</font>
+(Beauty in Distress) <font>in which the
+Author, no doubt, sweat as much in
+confining the whole Play to one Scene,
+as the Scene-Drawers should were it to
+be changed a hundred times; this
+Play had indeed a commendatory
+Copy from Mr.</font> Dryden, <font>but I think he
+had better have altered the Scene,
+and pleased the Audience; in short
+had these Plays been a little more
+exact, as you call it, they had all been
+exactly Damn'd</font> . </dialogue><nonSpeech> <font>Peregrine</font> would
+have answered, but a pluck by the
+Sleeve obliged him to turn from
+<font>Selinda</font> to entertain a Lady Mask'd
+who had given him the Nudg; he
+presently knew her to be <font>Emilia</font> ,
+who whisperd him in the Ear,</nonSpeech><dialogue> <font>I find
+Sir, what</font> Guyomar <font>said just now
+is very true</font> , <omission type="sentence" />
+<pagebreak id="35" />
+<comment type="compiler">VERSE OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<pagebreak id="48" />
+<comment type="compiler">PEREGRINE IS DISCARDED BY SELINDA AND HIMSELF DISCARDS EMILIA: 
+EMILIA WANTS TO BORROW MONEY FROM PEREGRINE AND HE GOES TO SEE HER.</comment>
+<omission type="line" /> </dialogue><nonSpeech>He
+begged to know the Cause of her
+great Grief, making all protestations <comment type="compiler">SOURCE TEXT: potestations</comment> 
+(that Passion could suggest) of using
+his utmost endeavours in relieving
+her.</nonSpeech><dialogue> <font>Alas</font> Peregrine </dialogue><nonSpeech> ( <font>answered she</font> ) </nonSpeech><dialogue>
+<font>my Misfortunes are many, and all
+proceeding from so Dear an occasion,
+that I could wish them to continue,
+rather than think the Cause should cease.
+<pagebreak id="49" />
+In short</font> , </dialogue><nonSpeech> ( <font>continued she Weeping</font> ) </nonSpeech><dialogue> <font>my
+Passion for you has drawn me into a
+necessity of being troublesom to one
+whose kindness will perhaps flow from
+a Principle of Charity, not Love. But
+Sir, (I scorn to be pitied; and if I
+can't merit your Esteem, I disdain
+to be an Object of your Compassion</font> .
+<font>Madam</font> </dialogue><nonSpeech> ( <font>replied he</font> ) </nonSpeech><dialogue> <font>my Charity may
+extend to share Superfluities, but no
+less motive then Love could engage
+me thus to distribute my necessaries</font> .
+</dialogue><nonSpeech>Upon which he gave her Ten <font>Guineas</font> ,
+leaving himself but One.</nonSpeech><dialogue> <font>Well, my
+dear</font> Peregrine </dialogue><nonSpeech> ( <font>says she</font> ) </nonSpeech><dialogue> <font>I am too
+sensible of the unhappiness of your
+Circumstances, and will therefore Trespass
+no further upon them: You shall only
+spare me some of your Love to lay out
+upon Another, and that shall pay the
+Ransom for your Money</font> . </dialogue><nonSpeech>Peregrine
+<font>was strangely surprised at her
+Discourse</font> !</nonSpeech><dialogue> <font>Be not startled, Sir</font> , </dialogue><nonSpeech> ( <font>said
+she</font> ) </nonSpeech><dialogue> <font>for a Proof of your Affection it
+<pagebreak id="50" />
+must be so; I have long been Solicited
+by my Lord C-- and have
+received some Presents from Him, and
+was in a fair way of Commanding what
+I pleased, had not my unlucky
+kindness to you at the Play last Night
+raised his Jealosy to that Degree,
+that he has forsaken me. Now, Sir,
+since your circumstances debar you from
+recompencing the loss, I think you are
+obliged to be Instrumental to Me in
+recovering his Affection; but do not
+think (my Dearest) that he can ever
+destroy your Interest in my Heart, but
+rather heighten it, being a means to
+support that Love which the 
+scantiness of your Fortune would Starve</font> .
+</dialogue><nonSpeech>Very reasonable Arguments to make
+<font>Peregrine</font> a downright Pimp! He was
+strangely Netled, but being resolv'd
+to see the Utmost.</nonSpeech><dialogue> <font>How Madam</font> </dialogue><nonSpeech> ( <font>said
+he</font> ) </nonSpeech><dialogue> <font>can I be Instrumental in your
+Reconciliation with his Lordship</font> ? <font>Only
+thus</font> </dialogue><nonSpeech> ( <font>Replied she</font> ) </nonSpeech><dialogue> <font>you must know
+<pagebreak id="51" />
+he is wonderfully Charmed with Wit
+and Writing fine, in a Woman; now
+I am sensible you have an Excellent
+Talent in Epistolary Style, (which I must
+still remember since first your
+Charming Letters conquered me;) you must
+therefore write an Ingenious Letter
+for me, which I will Transcribe, and
+send to his Lordship, which will
+Infallibly reclaim him</font> . <font>But suppose
+Madam</font> </dialogue><nonSpeech> ( <font>said</font> Peregrine) </nonSpeech><dialogue> <font>that my
+Lord discovers the difference of Stile
+if you Write to him again</font> ? <font>No, no</font>
+</dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>you shall Answer all my
+Lords Letters for me</font> . </dialogue><nonSpeech> <font>Peregrine</font>
+immediately conceiving, that by this
+means he should see my Lord <font>C--'s</font>
+Letters, and thereby discover if the
+Intreague went any further then he 
+would have it, undertook the Task,
+and wrote a Letter which wrought
+the desired effect.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="52" />
+<comment type="compiler">THE LORD COMES TO EMILIA: HE ASKS WHO SHE TALKED TO AT THE PLAY.</comment>
+<font>'Tis a Creature, my Lord</font> , </dialogue><nonSpeech> ( <font>replyed
+she</font> ) </nonSpeech><dialogue> <font>called a necessary Lover</font> . <font>I have
+often heard</font> </dialogue><nonSpeech> ( <font>said he</font> ) </nonSpeech><dialogue> <font>of a necessary
+Animal called a Husband, but never
+of a necessary Lover before</font> . <font>Such, my
+Lord</font> , </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> <font>are of the same
+<pagebreak id="53" />
+use to us, as a Husband to a Wife,
+to cover all our Faults. They defend
+our Honours in all Company being
+possessed of a good Opinion of our
+Vertue; which Opinion once Established, we
+take all care to Improve</font> . <font>Methinks</font>
+</dialogue><nonSpeech> ( <font>answered he</font> ) </nonSpeech><dialogue> <font>your freedom with that
+Gentleman were enough to destroy that
+good Opinion, if he entertained any
+such before</font> . <font>No, my Lord</font> </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue>
+<font>these are the Arts by which we
+secure them; for granting them all
+innocent Freedoms and Incouragment
+without the least Favour, makes them
+set a favourable construction upon such
+our Behaviour with others, and
+induces them to believe all Stories
+prejudicial to our Reputation rather the effects
+of Mens Vanity, than our kindness:
+Besides, being once drawn into a
+beliefe of their being beloved by us,
+their Vanity suggests, that since we are
+Vertuous in respect of them, we must
+certainly be so in regard of those that
+<pagebreak id="54" />
+are more indifferent to us</font> . <font>But that
+Gentleman</font> , </dialogue><nonSpeech> ( <font>Answered my Lord</font> ) </nonSpeech><dialogue> <font>if
+I am not Misinformed in his
+Character, has too much Sense to be made
+such a Tool of</font> . <font>Only Ingenious Men</font>
+</dialogue><nonSpeech> ( <font>answered she</font> ) </nonSpeech><dialogue> <font>are fit for our purpose,
+because such Persons are only able to
+Nourish a Passion without Enjoyment</font> ;
+Secondly, <font>being conscious of their
+Merit they imagine our Love very real
+because of the worthiness of the
+Object</font> ; And Lastly, <font>being the
+Oracles of the Age, their words are
+taken among their Friends, and our
+Reputation thus Establish'd</font> . 
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

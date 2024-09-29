@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4CSHADW">
+  <dialogueHeader>
+
+    <filename>D4CSHADW</filename>
+
+    <identifier>4 COMEDY D4CSHADW</identifier>
+
+    <title>LANCASHIRE-WITCHES</title>
+
+    <author>SHADWELL THOMAS</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1682</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">SHADWELL, THOMAS.</attribution>
+      <frontMatter>THE LANCASHIRE-WITCHES, AND TEGUE O DIVELLY THE IRISH-PRIEST:
+A COMEDY ACTED AT THE DUKE'S THEATER.
+WRITTEN BY THO. SHADWELL.
+(...)
+LONDON: PRINTED FOR JOHN STARKEY AT THE MITER IN FLEETSTREET NEAR
+TEMPLE-BARR. 
+MDCLXXXII.
+PP. 29.1 - 52.34
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">ERRORS IN PAGE NUMBERING OF SOURCE TEXT INDICATED BELOW,
+I.E. P. 32 IS NUMBERED P. 22, P. 50 IS NUMBERED P. 58, AND P. 51 IS 
+NUMBERED P. 59.</comment>
+
+<comment type="compiler">AUTHOR'S ENDNOTES TO ACT III OMITTED, AND THUS REFERENCES TO THESE, 
+I.E. a, b, c, ETC., IN THE RUNNING TEXT ALSO OMITTED.</comment>
+
+<pagebreak id="29" />
+
+</dialogue> <head>ACT. III.</head> 
+
+<nonSpeech>Enter Sir <font>Edward Hartfort, Belfort</font> and <font>Doubty</font> .</nonSpeech>
+
+   <nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> You have extreamly delighted us this morning, by 
+your House, Gardens, 
+your Accomodation, and your way of Living; you put me in mind
+of the renowned <font>Sidneys</font> Admirable description of <font>Kalandar</font> .
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Sir you Complement me too much.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Methinks you represent to us the Golden 'days of  
+Queen <font>Elizabeth</font> , such sure 
+were our Gentry then; now they are grown Servile Apes to Forreign    
+customes, they
+leave off Hospitality, for which we were famous all over             
+<font>Europe</font> , and turn Servants
+to Board-wages.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> For my part, I love to have my Servants part of 
+my Family, the other
+were to hire day Labourers to wait on me; I had rather my Friends,   
+Kindred, 
+Tennants and Servants should live well out of me, than Coach-makers, 
+Taylors, 
+Embroiderers, and Lacemen should: To be pointed at in the Streets,   
+and have Fools stare 
+at my Equipage, is a vanity I have always scorn'd.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> You speak like one descended from those Noble    
+Ancestors that made <font>France</font> 
+tremble, and all the rest of <font>Europe</font> Honour 'em.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> I reverence the Memory of 'em: But our          
+New-fashion'd Gentry love the 
+<font>French</font> too well to fight against 'em; they are bred abroad       
+without knowing any thing 
+of our Constitution, and come home tainted with Foppery, slavish     
+Principles, and 
+Popish Religion.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> They bring home Arts of Building from hot         
+Countries to serve for our cold
+one; and Frugality from those places where they have little Meat and 
+small Stomacks, 
+to suffice us who have great plenty and lusty Appetites.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> They build Houses with Halls in 'em, not so big as
+former Porches; 
+Beggers were better entertained by their Ancestors, than their       
+Tennants by them.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> For my part, I think 'twas never good days, but 
+when great Tables were 
+kept in large Halls; the Buttery-hatch always open, Black Jacks, and 
+a good smell 
+of Meat and March-beer, with Dogs-turds and Mary-bones as Ornaments  
+in the 
+Hall: These were signs of good House keeping, I hate to see          
+<font>Italian</font> fine Buildings 
+with no Meat or Drink in 'em.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I like not their little Plates, methinks there's  
+Vertue in an English Sur-loyn.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Our Sparks bring nothing but Forreign Vices and  
+Follies home; 'tis 
+rediculous to be bred in one Country to learn to live in another.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> While we lived thus (to borrow a Coxcombly      
+word) we made a better 
+Figure in the World.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> You have a mind that suits your Fortune, and can  
+make your own 
+happiness.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> The greatest is the Enjoyment of my Friends,    
+and such Worthy Gentlemen 
+<pagebreak id="30" />
+as your Selves, and when I cannot have enough of that; I have a      
+Library, good 
+Horses and good Musick.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Princes may envy such an English Gentleman.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> You are too kind, <font>I am a true English-man, I  
+love the Princes Rights and 
+Peoples Liberties, and will defend 'em both with the last penny in   
+my purse, and the last drop 
+in my veins, and dare defy the witless Plots of Papists</font> .
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Spoken like a Noble Patriot.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Pardon me, you talk like English-men, and you   
+have warm'd me; I hope 
+to see the Prince and People flourish yet; old as I am, in spite of  
+Jesuits, I am sure our 
+Constitution is the Noblest in the World.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Would there were enough such English Gentlemen.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Twere to be wisht; but our Gentry are so much    
+poysoned with Forreign 
+Vanities, that methinks the Genius of <font>England</font> seems sunk into    
+the Yeomanry.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> We have indeed too many rotten Members. You     
+speak like Gentlemen, 
+Worthy of such Noble Fathers, as you both had; but Gentlemen I spoke 
+of Musick, 
+I see two of my Artists, come into the Garden, they shall entertain  
+you with a Song 
+this Morning.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Sir You oblige us every way.
+</dialogue><nonSpeech> <font>An Italian Song.</font> </nonSpeech><dialogue> 
+Finely compos'd, and excellently perform'd.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I see Sir you are well serv'd in every thing.
+
+</dialogue><nonSpeech>Enter <font>Isabella</font> and <font>Theodosia</font> .</nonSpeech> 
+
+   <nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> My sweet Cousin good Morrow to thee, I hope to  
+call thee shortly by 
+another Name, my dear Child, Heaven's bless thee.                    
+</dialogue><nonSpeech> <font>Isab. Kneels.</font> </nonSpeech> 
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Ladies your most humble Servant; you are early up 
+to take the pleasure of 
+the Morning in these Gardens.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> 'Tis a Paradice you are in; every object within  
+this place is ravishing.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> This place affords variety of Pleasures; nothing  
+here is wanting.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Where such fine Ladies are.
+ 
+</dialogue><nonSpeech> <font>Enter Servant with</font> Teague O Devilly <font>an Irish-Priest</font> .</nonSpeech>
+
+   <nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> A Gentleman, To speak with you.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> With me! Daughter pray shew those Gentlemen the 
+Statues, Grottoes 
+and the Water-works, I'le <comment type="compiler">SOURCE TEXT: I le</comment> wait on you          
+immediately.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> This is an opportunity beyond our hopes.          
+</dialogue><nonSpeech> <font>Ex. Bell. Doubt. Isab. Theo.</font> </nonSpeech>
+   <nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Would you speak with me? 
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Arrah, and please ty Oorship, I am come here to 
+dis plaash to maake a 
+wisitt unto thee, dest dou not know me Joy?
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Oh! You live at Mr. <font>Redletters</font> my Catholick 
+Neighbours.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Ah by my Shoul, I.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> How came you to venture hither? you are a       
+Popish-Priest.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Ay, but 'tis no matter for all daat Joy: by my  
+Shoul, but I vill taak de 
+<pagebreak id="31" />
+Oades, and I think I vill be excus'd, but hark vid you a while, by   
+my trott I shall 
+be a Paapist too for all daat, indeed, yes.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Excellent Principles.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I do come for de nonest to see dee, and yet I   
+do not come one purpose 
+gra: But it is no matter, I will talk vid you aboot daat, I do come  
+upon occaasion
+and Mr. <font>Redletter</font> did shend me unto dee.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> For What?
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> What will I say unto dee now, but Mr.           
+<font>Redletter</font> did shend me, and yet I did 
+come off my self too for all daat upon occaasion, daat I did heare,  
+concerning of dee, 
+dat dy House and de Plaash is all over-run with Witches and Spirits, 
+do you see 
+now?
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> I had best let this Fool stay to laugh at him,  
+he may be out of the damn'd 
+Plot, if any Priest was? Sure they would never trust this Fool.      
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> What shaall you shay unto me upon all dis, I    
+will exorcize doze Vitches, and 
+I will plague dose Devils now by my Shoul, vid Holy-water, and vid   
+Reliques, and 
+I will freet 'em out of this Plaash, God shaave the King.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> I have forgot your Name.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> They do put the Name of <font>Kelly</font> upon me, Joy, 
+but by my fait I am call'd 
+by my own right Name, <font>Tegue O Devilly</font> .
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> <font>Tegue O Devilly?</font>
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Yes, a very oold Naam in <font>Eereland</font> by my     
+Shalvaation, well gra, I have <comment type="compiler">SOURCE TEXT: wel l gra, Ihave</comment> 
+brought upon my Cloke-bagg shome Holy-water, and I will put it upon  
+the Devils 
+and de Vitches Faashes, and I will make you shome more Holy-water,   
+and you will 
+vaash all de Roomes vid it and bee -- 
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Well, Father <font>Tegue O Devilly</font> , You're       
+welcom; but how dare you venture 
+publickly in these times?
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Why, I have great consideraation upon dy        
+Prudence; for if dou wouldst 
+betray me, now phare will be de soleedity of dat Joy.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> I speak not for my self, but others.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> The Devil taak me now, I do think, I will       
+suffer for my Religion, I am affraid 
+I will be slain at lasht at the plaash they call Saint <font>Ty-burn</font> , 
+but I do not caare by my 
+Shalvaation; for if I will be hang'd, I will be a Saint presently,   
+and all my Country 
+shall pray unto Saint <font>Tegue</font> , besides, shome great people will   
+be naamless too, I tell 
+you I shay noe more, but I will be prayed unto Joy.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Prayed too! Very well.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Yes by my Shoule will I, and I will have        
+Reliques maade of me too.
+
+</dialogue><nonSpeech> <font>Enter Servant.</font> </nonSpeech>
+
+   <nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> Sir <font>Jeffery Shacklehead</font> and my Lady have some 
+business with you, and desire 
+your company within.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Come Father <font>Tegue</font> , come along with me, do  
+you hear, find the 
+Gentlemen that are walking with my Daughter and her Couzen, and tell 
+'em I will wait on 
+'em presently. </dialogue><nonSpeech> <font>Ex. Sir Edw. and Priest.</font> </nonSpeech>
+   <nonSpeech> <font>Serv.</font> </nonSpeech><dialogue> I will. They are here, Gentlemen, my Master is    
+called away upon business
+<pagebreak id="32" />
+<comment type="compiler">SOURCE TEXT HAS PAGE NUMBERED 22</comment>
+he begs your excuse, and will wait on you presently.                 
+</dialogue><nonSpeech> <font>Ex. Serv.</font> </nonSpeech>
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Heaven gives us yet a longer Opportunity, and     
+certainly intends we should 
+make use of it; I have my own Parson that comes to hunt with me at   
+<font>Whally</font> , Madam, 
+an excellent School Divine, that will end all differences betwixt us.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> He is like to begin 'em betwixt us, the Name of a 
+Parson is a dreadful Name 
+upon these occasions, he'l <comment type="compiler">SOURCE TEXT: he l</comment> bring us into a     
+Condition we can never get out of, but by 
+Death.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> If the absolute command of me and my Fortune can  
+please you, you shall never 
+desire to get out of it.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I should at more distance and with more          
+reverence approach you, Madam, 
+did not the shortness of the time, and the great danger of losing    
+you, force me to 
+be free; Throw not away this pretious time, a Minute now is          
+Inestimable.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Yet I must consider on that Minute on which the   
+happiness or Misery of all 
+my Life may depend.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> How can I imagine that you who have rambled up    
+and down the Southern 
+World, should at last fix on a Home-bred Mistress in the North? how  
+can you be in 
+earnest?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Consult your Understanding and your               
+Looking-Glass, one will tell you how 
+Witty, Wise, and Good you are, the other, how Beautiful, how Sweet,  
+how 
+Charming.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Men before they are Married turn the great end of 
+their Perspective; but the 
+little end after it.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> They are Men of ill Eyes, and worse               
+Understanding; but for your Perfections 
+there needs no Perspective.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> If I were inclin'd to Marriage, methinks we are   
+not well enough acquainted 
+yet to think of that.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> To my Reputation I suppose you are no Stranger,  
+nor to my Estate, which 
+lies all in the next County; and for my Love, I will convince you of 
+it, by setling what 
+ever you please, or all that Estate upon you before I expect any     
+Favour from you.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> You are so Generous beyond my Deserts, that I     
+know not how to Credit 
+you.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Your Modesty is too great, and your Faith too    
+little.
+
+</dialogue><nonSpeech> <font>Enter Sir</font> Tymothy.</nonSpeech>
+
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Death, Who are these whith my Mistress and my   
+Sister? Oh! they are the 
+silly Fellows that we saw at the Spaw, that came hither last night,  
+do you know Sir, 
+that this is my Mistress Sir.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I know Sir that no man is worthy of that Honour.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Yes Sir, I will make you know that I am Sir,    
+and She has the Honour to be 
+my Mistress.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Very well Sir.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Very well Sir, No 'tis very ill Sir, that you   
+should have the boldness to 
+take my Mistress by the Hand Sir, and if you do Sir, I must tell you 
+Sir -- What do 
+you Smile Sir?
+<pagebreak id="33" />
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> A man may do what he will with his own Face. I    
+may Smile Sir --
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> If you do Sir, I will fight Sir, I tell you     
+that Sir. hah,
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Sir <font>Timothy</font> , you are a Bloody-minded man.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> 'Tis for my Honour, my Honour, he is plaguely   
+afraid; look you Sir, if 
+you Smile Sir, at me Sir, I will Kick Sir, that's                    
+<comment type="compiler">SOURCE TEXT: that s</comment> more Sir.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> If you do, you will be the fifteenth man I have   
+run through the Body Sir.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Hah! What does he say, through the Body, oh.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Yonders my Brother, we must not be so             
+perticular, let's <comment type="compiler">SOURCE TEXT: let s</comment> joyn.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> How, the Body Sir.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Yes Sir, and my custom is (if it be a great       
+affront, I kill them, for) I rip out 
+their Hearts, dry 'em to Powder, and make Snuff on 'em.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Oh Lord! Snuff!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I have a box full in my pocket Sir, will you      
+please to take some.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> No Sir, I thank you Sir: Snuff quoth a, I will  
+have nothing to do with 
+such a cruel man, I say no more Sir.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Your Servant Sir -- 
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Your Servant Sir: does he take such Snuff too?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> The same -- do you hear Sir, if you value your    
+own life, which I will save 
+for the Families sakes, not a word of this to any man.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> No Sir, Not I Sir? Your humble servant.
+
+</dialogue><nonSpeech>Enter Sir <font>Edward</font> .</nonSpeech>
+
+   <nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> I ask your pardon Gentlemen, I was stay'd by    
+what, if you please to 
+walk in, will divert you well enough.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Wee will wait on you Sir.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Daughter, Sir <font>Jeffery</font> and my <font>Lady</font> have  
+made complaints of you for
+abusing Sir <font>Timothy</font> ; let me hear no more on't, we have resolv'd 
+the Marriage shall 
+be to Morrow, it will become you to be upon a little better Tearms   
+to day.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Do you here that Gentlewoman --
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Gentlemen, I have sent to <font>Whally</font> for all    
+your Servants, and Horses, and 
+Doggs, you Must do me the honour to Make some stay with me.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> We cannot enough acknowledg your great Civility.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> No Complements, I obliege my self, Sir          
+<font>Jeffery Shacklehead</font> and I have 
+just now agreed, that to morrow shall be the Day of Marriage between 
+our Sons 
+and Daughters.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Very short warning.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Hee'l <comment type="compiler">SOURCE TEXT: Hee l</comment> not delay it longer.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I'le in and see what the reason of this sudden    
+resolution.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Sir we wait on you.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Stay you there a while with Sir <font>Timothy</font> .   
+</dialogue><nonSpeech> <font>Ex. all but Sir</font> Tim. <font>and</font> Isab.</nonSpeech>
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Dear Cousin, prethee be kinder to me, I protest 
+and vow, as I am a 
+Christian, I love the better then both my Eyes, for all this.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Why how now Dogs face, hast thou the Impudence to 
+make love again, 
+<pagebreak id="34" />
+with that hideous Countenance? that very insipid silly <font>Physnomy</font>  
+of thine? with that 
+most piteous mein? why, thou lookst like an <font>Operator</font> for Teeth.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> This is all sham, I wont beleive it; I can see  
+my self in the great glass, 
+and to my mind no man looks more like a Gentleman than my self.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> A Gentleman! with that silly wadling shuffling    
+gate? thou hast not mien good 
+enough for a chief Constable, every change of thy Countenance, and   
+every motion 
+of thy Body proclaims thee an Ass.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Ay, Ay, come Madam, I shall please you better   
+when I am Marry'd, with 
+a trick that I have; I tell yee.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Out of my sight, thou makest me sick to see thee.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> I shall be more Familiar with you to            
+Morrow-night, oh my dear rogue -- 
+well I say no more, faith I shall, well, no more to be said.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Be gone thou Basilisk, here, I vow if thou wert   
+the only man on Earth, the 
+Kinde should cease rather than I would Marry thee.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> You'l be in a better humour to Morrow-night,    
+though you are such a 
+vixen now.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> This place, where some Materials are to mend the  
+Wall, will furnish me with 
+some Ammunition: be gone I say.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> I shant do't, I know when I am in good Company, 
+come prethee Cousin, 
+do not let us Fool any longer, to Morrow we shall be one flesh --    
+de ye see:
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I had rather be inoculated into a Tree, than be   
+made one Flesh with thee; can 
+that <font>Westphalia</font> hide of thine ever become one Flesh with me?     
+when, I can become one 
+Ass with thee it may, you shall never change my mind.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Well, well, I shall have your Body to           
+Morrow-night, and I warrant you
+your mind shall soon follow it.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Be gone, thou infinite Coxcomb, I'le              
+<comment type="compiler">SOURCE TEXT: I le</comment> set thee farther. 
+</dialogue><nonSpeech> <font>She throws Stones at him.</font> </nonSpeech>
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> What, what, what a pox! hold, what a Devil, are 
+you mad? Flesh, 
+heart, hold, what a plague, uds bud, I could find in my heart to     
+turn again.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Do filthy Face, do if thou darst.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Oh help, murder, murder.                        
+</dialogue><nonSpeech> <font>Ex.</font> Sir <font>Timothy</font> .</nonSpeech>
+   <nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I have no patience with this Fool, no Racks, or   
+Tortures shall force me to 
+marry him. </dialogue><nonSpeech> <font>Ex. Isab.</font> </nonSpeech>
+
+<nonSpeech> <font>Enter Young</font> Harford <font>and</font> Theodosia.</nonSpeech>
+
+   <nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I am very indifferent about this Matrimony, and   
+for ought I see, you are 
+so too.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> I must confess you are as fine a Gentlewoman as 
+ever I saw, and I am 
+not worthy of you; but my Father says he will disinherit me, if I    
+will not marry 
+you to Morrow; therefore I desire you would please to think on't.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I will think on't.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> You shall command all my Estate, and do what    
+you will; for my part, 
+I resolve all my Life, to give up my self wholly to my Sports, and   
+my Horses, and 
+<pagebreak id="35" />
+my Dogs, and to drink now and then a cup of Ale with my Neighbours,  
+I hate 
+Wine.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> You will do very well.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> He says we must be Married to Morrow at Ten, I  
+can be going a Hawking 
+by six and come home time enough, I would be loath to neglect my     
+Hawking at 
+Powts in the height of the Season.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> By no means, you'd do very ill if you should.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> Ay so I should, but shall I tell my Father that 
+you will have me to 
+Morrow? you know the Writings are Sealed, and Wedding-Cloaths bought 
+of all 
+sides.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Well, I shall do as becomes me.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> Well, Cousin there's no more to be said         
+betwixt you and I then, <foreign>Pauca 
+Verba</foreign> , a word to the Wise, I say, is enough, so I rest your       
+humble Servant to 
+command; I'le tell my Father what you say presently, your Servant    
+to, tell you truly
+I had never so much mind to be Married as now; for I have been so    
+woundedly 
+frightned with Witches, that I am affraid to lye alone, dee see;     
+well, I am glad this 
+business is over: a pox upon all making of Love for me.              
+</dialogue><nonSpeech> <font>Ex.</font> Yo. <font>Har.</font> </nonSpeech>
+   <nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I thought I saw my Cousin in yon Walk, 'tis time  
+for us to consult what to 
+do, my Father and Mother are resolved upon to Morrow for the fatal   
+day. 
+</dialogue><nonSpeech> <font>Ex. Theo.</font> </nonSpeech>
+
+<nonSpeech> <font>Enter</font> Smerk, <font>and</font> Priest, <font>and Mrs.</font> Susan.</nonSpeech>
+
+   <nonSpeech>Priest.</nonSpeech><dialogue> <font>By my shoule, Joy, I thank you for my Fast-break,   
+for it does give refreshment unto 
+me, and Consolaation too gra.</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>Thank you Mistress</font> Susan, <font>my Caudle was          
+admirable; I am much strengthened 
+by these good Creatures</font> .
+   </dialogue><nonSpeech>Sus.</nonSpeech><dialogue> <font>Yours was admirable -- if Mother</font> Demdike <font>has any   
+Skill, I shall find the opperation 
+before night, and I will be reveng'd for his scorn to me</font> .         
+</dialogue><nonSpeech>Aside.</nonSpeech>
+   <nonSpeech>Priest.</nonSpeech><dialogue> <font>Though thou dosht know me, yet thou dosht shay thou 
+wilt tell nothing concerning 
+of me.</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>No, for my part though I differ in some things, yet  
+I honour the Church of</font> Rome 
+<font>as a true Church</font> .
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>By my Shalvaation yee did all come out of us        
+indeed, and I have expectaation daat 
+you will come in agen, and I think I will live to shee it; perhaps I 
+will tell you now, you had 
+your Ordination too with us.</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>For my part, I think the Papists are honest, loyal   
+men, and the Jesuits dyed 
+innocent.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>Phaat dou dosht not believe de Plot de Devil taak   
+me.</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>No, no, no Papist Plot, but a Presbyterian one.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>Aboo, boo, boo, By my Shalvaation I will embraash   
+dy Fathers Child, and I will 
+put a great kish upon dy cheeke, now for dat, ay dear ish a damnd    
+Presbyterian Plot to put 
+out de Paapists, and de Priests, and de good Men; and if I would     
+have my minde, de Devil 
+taak me I would shee 'em all broyle and fry in de plaash they call</font> 
+Smithfield, <font>Joy</font> .
+<pagebreak id="36" />
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>I would have Surplices cram'd down their Throats, or 
+would have 'em hang'd in 
+Cannonical Girdles.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>Let me Imbraash my Joy agen for daat.</font>
+
+</dialogue><nonSpeech> <font>Enter</font> Bellfort <font>and</font> Doubty.</nonSpeech>
+
+   <nonSpeech>Bell.</nonSpeech><dialogue> <font>We shall have excellent sport with these Priests, see 
+they are come from their Breakfast, 
+and Embracing.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>And dou dosht not believe de Paapist Plot my Joy.</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>No, But the damn'd Presbyterian Plot I do: I would   
+be a Turk before I would be a 
+Presbyterian; Rogues, Villains.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>By my Shoule I vill give Satisfaction unto dee, and 
+maak dee of my Church, we 
+have shome good Friends of dy Church, and dou art almost as good a   
+Friend as he in de West, 
+I have forgot his Naam, I doe take it did begin vid a</font> T.
+   </dialogue><nonSpeech>Doubt.</nonSpeech><dialogue> <font>How now! Do not you believe a Popish Plot?</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>No; but a Presbyterian one I do.</font> <comment type="compiler">SOURCE TEXT HAS 
+<font>Presbyterianone</font> AS ONE WORD.</comment>
+   </dialogue><nonSpeech>Bell.</nonSpeech><dialogue> <font>This is great Impudence, after the King has affirm'd  
+it in so many Proclamations, and 
+three Parliaments have voted it</font> , <foreign>Nemine contradicente</foreign> .
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>Parliaments, tell me of Parliaments, with my Bible   
+in my hand, I'le dispute with 
+the whole House of Commons; Sir, I hate Parliaments, none but        
+Phanaticks, Hobbists, and 
+Athiests, believe the Plot.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>By my fait and trot, dou dosh't maak we weep        
+indeed, by my Shoul, Joy, dou wilt 
+be a good Catholick, if I will instruct dee, I will weep on dee      
+indeed.</font>
+   </dialogue><nonSpeech>Bell.</nonSpeech><dialogue> <font>Why the true and wise Church of England-men believes  
+it, and are a great Rock 
+against the Church of Rome.</font> <comment type="compiler">NO ITALICS FOR England IN SOURCE
+TEXT.</comment>
+   </dialogue><nonSpeech>Doubt.</nonSpeech><dialogue> <font>And Preach and Write learnedly against it; but such  
+Fellows as you are scandals 
+to the Church</font> , a Company of Tantivy Fools.
+   </dialogue><nonSpeech>Bell.</nonSpeech><dialogue> <font>All the Eminent men of the Church of</font> England        
+<font>believe the Plot, and detest it with 
+horror</font> , and abominate the Religion that contriv'd it.
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>Not all the Eminent men, for I am of another         
+opinion.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: Doubt.</comment> <font>By my shoul, by my Shoul,   
+Joy, dey are our Enemies, and I would have no fait put 
+upon dem; but</font> dis is my dear Friend.
+   </dialogue><nonSpeech>Doubt.</nonSpeech><dialogue> <font>This is a Rascal conceal'd in the Church, and is     
+none of it; sure his Patron knows 
+him not.</font>
+   </dialogue><nonSpeech>Bell.</nonSpeech><dialogue> <font>No certainly!</font>
+   </dialogue><nonSpeech>Smerk.</nonSpeech><dialogue> <font>You are Hobbists and Athiests.</font>
+   </dialogue><nonSpeech>Priest.</nonSpeech><dialogue> <font>It is noe matter for all daat Joy, what dey do shay 
+unto dee for by Chreest, and by 
+Saint Paatrick dey be Heretick Doggs, by my Shalvaation dou dosht    
+maake me weep upon de 
+agen; by de Lady</font> Mary, <font>I think I will be after reconciling       
+dee to <comment type="compiler">SOURCE TEXT: deet o</comment> de Catholick Church
+indeed</font> .
+
+</dialogue><nonSpeech>Enter Sir <font>Jeffery</font> , Lady, Sir <font>Edw.</font> and <font>Isab.</font>
+and <font>Theodosia</font> .</nonSpeech>
+
+   <nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Your Servant Gentlemen.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Your most humble Servant.
+<pagebreak id="37" />
+   </dialogue><nonSpeech> <font>Bell.</font> <comment type="compiler">AND</comment> <font>Doubt.</font> </nonSpeech><dialogue> Your most humble Servant.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Is not my <font>Irish</font> man a pleasant fellow?
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> A great Father of the Church.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> And perhaps may come to be hang'd for't.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Sir <font>Jeffery</font> is going to take some           
+informations about Witches, perhaps that 
+may divert you not ill, 'Tis against my opinion, but I give him way.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> I hope you are pleas'd to pardon my             
+incivillity, in rushing unawares into 
+your Chamber last night; but I know you are so much a Gentleman, so  
+well-bred, 
+and so accomplisht, I know you do --
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Madam.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> And for that reason I will make you my          
+Confident in a business, that 
+perhaps, I do not know, but I think it may not be to your            
+disadvantage, I will 
+communicate it to you in private. Now, Sir <font>Jeffery</font> and I are to  
+take some Examinations. I 
+assist him very much in his business, or he could never do it.       
+</dialogue><nonSpeech> <font>He sits down and La.</font> Shac.</nonSpeech>
+   <nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Call in these Fellows, let's hear what they'l  
+say about these Witches; come 
+on, Did you serve my Warrant on Mother <font>Demdike</font> ?                 
+</dialogue><nonSpeech> <font>They call the Constable in 
+and a Country fellow.</font> </nonSpeech>
+   <nonSpeech> <font>Const.</font> </nonSpeech><dialogue> Sir, I went to her House (and please your        
+Worship) and lookt in at her 
+Window, and she was feeding three great Toads, and they daunc'd and  
+leapt about 
+her, and she suckled a great black Cat well nigh as big as a         
+Spaniel; I went into the 
+House, and she vanisht, and there was nothing but the Cat in the     
+middle, who spit and 
+star'd at me, and I was frighted away.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> An arch Witch I warrant her.
+   </dialogue><nonSpeech> <font>Const.</font> </nonSpeech><dialogue> I went out at the back-dore, and by the          
+Threshold sat a great Hare, I struck 
+at it, and it run away, and ever since I have had a great pain in my 
+back, and cannot 
+make Water, saving your presence.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> A fit of the Gravel.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> No, by my shoule, she is a great Witch, and I   
+vil cure you upon daat.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> No: I tell you, Sir <font>Edward</font> , I am sure she 
+is a Witch, and between you 
+and I, last night, when I would have been kind to my Wife, she       
+bewitcht me, I found 
+it so.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Those things will happen about five and fifty.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I will tell you now, Joy, I will cure you too.
+* Taak one of de Tooths of a dead man, and bee, and 
+burn it, and taak dee smoke into both your Noses, as 
+you taak Snush, and anoint your self vid dee Gaall of a 
+Crow, taak Quicksilver, as dey do call it, and put upon 
+a Quill, and plaash it under de shoft Pillow you do shit upon, den   
+maake shome 
+waater through de Ring of a Wedding, by St. <font>Patrick</font> , and I will 
+shay shome <font> <foreign>Ave Maaries</foreign> </font> 
+for dee, and dou wilt be sound agen: gra.
+<comment type="compiler">AUTHOR'S COMMENT ADJACENT TO THE PRECEDING SPEECH GIVEN BELOW.</comment>
+</dialogue><nonSpeech>* This Receipt is in <font>Scott.</font> 
+he has collected out of Inquisitors and
+Witch-mongers.</nonSpeech>
+   <nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Who is this pretends to skill in Witchcraft?
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> A very learned man in these matters, that comes 
+hither on purpose.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> I shall be glad of your better acquaintance.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I vil be very vel pleash'd to be                
+<comment type="compiler">SOURCE TEXT: b</comment>  after being acquainted vid dee Joy.
+<pagebreak id="38" />
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Have you any more to say? Fellow speak to me.
+   </dialogue><nonSpeech> <font>Const.</font> </nonSpeech><dialogue> Why, an't please your Worship forsooth, Mother   
+<font>Demdike</font> said she would be 
+reveng'd <comment type="compiler">SOURCE TEXT: reveng d</comment> on me for not giving her some     
+Butturmilk; and the next night coming from 
+<font>Rachdale</font> , I saw a great Black Hog, and my Horse threw me, and I 
+lost a Hog that 
+night, he dy'd, that was as well when he went to bed, as ever he was 
+since he was 
+born.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> 'Tis enough, a plain, a manifest Witch, make a  
+Warrant for her.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Ay, do.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Take some of the Thatch of her House, and burn  
+it at your House, and 
+you shall see she will come streight.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Or to morrow about dawn, piss in a Pot, and    
+cover it with your right, 
+neither Stocking, and the Witch will be tormented in her Bladder,    
+and come to you 
+roaring before night. <comment type="compiler">AUTHOR'S COMMENT THAT FOLLOWS GIVEN BELOW.</comment>  
+</dialogue><nonSpeech> <font>These two Remedies are in</font> Scott.</nonSpeech>
+   <nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> A most profound Science.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> And poor old Ignorant wretches must be hang'd for 
+this.
+   </dialogue><nonSpeech> <font>Const.</font> </nonSpeech><dialogue> A Cow of mine is bewitcht too, and runs about    
+the Close as if she were mad; 
+and that, I believe, Mother <font>Hargrave</font> bewitcht, because I deny'd  
+her some <font>Gos. -- good</font> .
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Put her into the Warrent too: 'Tis enough, a   
+little thing will serve for 
+evidence against a Witch.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> A very little one.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> 
+* Put a pair of Breeches or <font>Irish</font> Trowsers upon your 
+Cows head, Fellow, upon a <font>Fryday</font> Morning, and wid a great 
+Stick maak beat upon her, till she do depart out of de Close, 
+and she vill repair unto de Witches dore, and she vill knock 
+upon it vid her Horns indeed.
+<comment type="compiler">AUTHOR'S COMMENT ADJACENT TO THE PRECEDING SPEECH GIVEN BELOW.</comment>
+</dialogue><nonSpeech>* This is likewise to
+be found in <font>Scott</font> .
+Abundance of this
+kind is to be seen in
+<foreign>Flagellum Diabol.</foreign> in
+the Second <foreign>Tom.</foreign> of
+<foreign>Mall. Maleficarum</foreign> .</nonSpeech>
+   <nonSpeech> <font>Const.</font> </nonSpeech><dialogue> Thank you good Sir.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Sir, I see you are a Learned man in this       
+business, and I honour you.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Your Servant Sir, I will put shome holy waater  
+into your Cows mout, and I 
+vill maak Cure upon her for all daat indeed.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Come, has any one else any thing to inform?
+   </dialogue><nonSpeech> <font>Const.</font> </nonSpeech><dialogue> Yes an't please your Worship, here is a          
+Neighbour, <font>Thomas o Georges</font> .
+   </dialogue><nonSpeech> <font>Tho. o G.</font> </nonSpeech><dialogue> Why, an't please your Worships, I was at      
+<font>Mal. Spencers</font> House where she <comment type="compiler">SOURCE TEXT: he</comment>  
+wons i'th' Lone, and whoo had a meeghty great Cat, a black one by'r  
+Lady, and 
+whoo kist and whoo clipt Cat, and ay set me dawn a bit (meet a bit)  
+and believe 
+Cat went under her Coats, Quo ay what don yeo doo with that fow Cat? 
+why, says 
+Whoo, who soukes me. Soukes tee! Marry that's whaint quo ay, by'r    
+Lady what 
+can Cat do besides? Why, says whoo, whoost carry me to <font>Rachdale</font>  
+believe. Whaw, 
+quo ay, that's protty! Why, says whoo, yeost ha one an yeow win to
+carry yeow; 
+by'r Lady, quo ay, with aw my heart, and thank ow too, marry 'twill  
+save my Tit a 
+pow'r of labour; so whoo cawd a Cat to me, a huge Cat, and we ridden 
+both to 
+<font>Rachdale</font> strieght along.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Well said, this was home; I love a Fellow that    
+will go through stitch.
+   </dialogue><nonSpeech>Sir. <font>Jeff.</font> </nonSpeech><dialogue> This is a Witch, indeed, put her name in.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> This is naw thing by my Shoule, I will tell you 
+now it is naw thing for all 
+daat, a Vich, if she be a good Vitch, will ride upon a Graashopper,  
+I tell you, very well, 
+<pagebreak id="39" />
+and yet a Graashopper is but a weak beast neither; you do maak       
+wonder upon dis, 
+but by my Shoule it is naw thing.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Where did you take Cat, say you, together?
+   </dialogue><nonSpeech> <font>Tho. o. Geor.</font> </nonSpeech><dialogue> Why, we took Cat ith' Lone meer a mile off.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> So you rid eight mile upon Cats: are there any 
+more informations?
+   </dialogue><nonSpeech> <font>Const.</font> </nonSpeech><dialogue> No more an't please your Worship, but when I     
+have once taken 'em, enough 
+will come in.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Go then about taking 'em, and bring 'em before  
+Sir <font>Jeffery</font> , and my self, 
+I'le warrant you wee'l order 'em.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I will tell you now Fellow, taak de shoe of a   
+Horse, and nayle it upon your 
+Threshold, de plaash dou dosht goe into dy dore upon.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> And put a Clove of Garlick into the Roof of    
+thy House.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> <font>Fennel</font> is very good in your House against   
+Spirits and Witches, and <font>Alicium</font> , 
+and the Herb <font>Mullein</font> , and <font>Long-wort</font> , and <font>Moly</font> too is   
+very good.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> 
+* Burne shome Brimstone, and maak a sweet
+fume of de Gall of a Black Dogg, Joy, and 
+besmeare dy Pots, and dy Walls, and bee, and Cross dy 
+Self, and I will touch dee vid Reliques, and dee to gra.
+<comment type="compiler">AUTHOR'S COMMENT ADJACENT TO THE PRECEDING SPEECH GIVEN BELOW.</comment>
+</dialogue><nonSpeech>* <font>This is to be found in</font> Delrio, <font>and</font>
+Remig. <font>and</font> Fr. Silvester.</nonSpeech>
+   <nonSpeech> <font>Const.</font> </nonSpeech><dialogue> Thank you good Sir.
+   </dialogue><nonSpeech> <font>Tho. o. Geor.</font> </nonSpeech><dialogue> Thank a.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Is not this an excellent Art?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Tis so extravagant, that a man would think they  
+were all in Dreams that ever 
+writ of it.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I see no manner of Evidences against these poor  
+Creatures.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I could laugh at these Fools sufficiently, but    
+that all the while our Mistresses 
+are in danger.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Our time is very short, prethee let's consider   
+what is to be done.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Well, my Dear, I must open my heart to thee; I am 
+so much in Love with this
+<font>Bellfort</font> , that I shall dye if I lose him.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Poor <font>Isabella</font> , dying is something an         
+inconvenient business; and yet I should 
+live very uncomfortable without my Spark.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Our time's very short, therefore preethee let's   
+play the fool no longer, but 
+come to the point when we meet 'em.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Agreed: But when shall we meet 'em?
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I warrant thee before Midnight.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Come, let us take one turn in the Garden, and   
+by that time my Dinner 
+will be ready.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Madam, For Heaven's sake consider on what a short 
+time my Happiness or 
+Ruin depends.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Have a care, Sir <font>Jeffery</font> and his Lady will be 
+Jealous.    
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> This is a good sign. </dialogue><nonSpeech> <font>To himself.</font> </nonSpeech>
+   <nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Not a word, we shall be suspected, at night we    
+will design a conferrence.
+<pagebreak id="40" />
+
+</dialogue><nonSpeech> <font>Enter</font> Mal Spencer <font>and</font> Clod.</nonSpeech>
+
+   <nonSpeech> <font>M. Spen.</font> </nonSpeech><dialogue> Why so unkind <font>Clod</font> ? You frown and wonnot  
+kiss me.
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> No marry, I'le <comment type="compiler">SOURCE TEXT: I le</comment> be none of   
+thy Imp, I wott.
+   </dialogue><nonSpeech> <font>M. Spen.</font> </nonSpeech><dialogue> What dost thou mean my Love? prethee kiss me.
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> Stand off by'r Lady an I lift kibbo once, Ist     
+raddle thy bones: 
+thou art a fow Queen, I tell o that, thou art a fow Witch.
+   </dialogue><nonSpeech> <font>M. Spen.</font> </nonSpeech><dialogue> I a Witch! a poor Innocent young Lass, that's  
+whaint, I am not awd 
+enough for that Mon.
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> And I believe my Eyne, by the Mass I saw you in   
+Sir <font>Yedards</font> Cellar last neeght 
+with your Haggs, thou art a rank Witch, uds flesh I'le not come nere 
+thee.
+   </dialogue><nonSpeech> <font>M. Spen.</font> </nonSpeech><dialogue> Did you see me? Why, if I be a Witch, I am the 
+better Fortune for you, 
+you may fare of the best and be rich.
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> Fare, marry I'le fare none with thee, I'le not be 
+hang'd, nor go to the Deel 
+for thee, not I by th' mass, but I will hang thee on I con by'r Lady.
+   </dialogue><nonSpeech> <font>M. Spen.</font> </nonSpeech><dialogue> Say you so Rogue, I'le plague you for that.    
+</dialogue><nonSpeech> <font>She goes out.</font> </nonSpeech>
+   <nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> What is whoo gone? 'Tis for no good marry, I ha   
+scap'd a fine waife, a fow 
+Carrion by'r Lady, I'le hang the Whean and there be no more Witches  
+in <font>Loncashire</font> . 
+   Flesh whats 'tiss? </dialogue><nonSpeech>Mal. <font>Enters with a Bridle, and puts it on  
+ere he is aware.</font> </nonSpeech>
+   <nonSpeech>Mal. S.</nonSpeech><dialogue> <font>a Horse, Horse, be thou to me, 
+And carry me where I shall flee.</font> </dialogue><nonSpeech>She gets upon him, and flies
+away.</nonSpeech>
+
+<nonSpeech>Enter <font>Demdike, Dickenson, Hargrave</font> , &amp;c. with their Imps, and
+<font>Madg</font> , who is to be the new Witch.</nonSpeech>
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Within this Shattered Abby Walls,
+This Pit oregrown with Brakes and Briers,
+Is fit for our dark Works, and here
+Our Master dear, will soon appear,
+And make thee Mother <font>Madge</font> a Witch,
+Make thee be Happy, long-liv'd, Rich,
+Thou wilt be Powerful and Wise,
+And be reveng'd of thy Enemies.
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> 'Tis that I'd have, I thank you Dame.
+   </dialogue><nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Here take this Imp, and let him suck,
+He'l do what e're thou bidst him, call 
+Him Puck-Hairy,
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> Come hither Puck-Hairy. </dialogue><nonSpeech> <font>En. an Imp in shape  
+of a black shock, comes to her.</font> </nonSpeech>
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Where is thy Contract written in Blood?
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> 'Tis here.
+   </dialogue><nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> So t'is firm and good.
+Where's my Mamilion? come my Rogue,
+<pagebreak id="41" />
+And take thy Dinner.
+   </dialogue><nonSpeech> <font>Dicken.</font> </nonSpeech><dialogue> Where's my Puggy?
+Come to me and take thy Duggy.
+   </dialogue><nonSpeech> <font>Harg.</font> </nonSpeech><dialogue> Come my <font>Rouney, where art thou</font> ?
+
+</dialogue><nonSpeech> <font>Enter</font> Mal. Spencer, <font>Leading</font> Clod <font>in a Bridle</font> .</nonSpeech>
+
+   <nonSpeech> <font>Mal.</font> </nonSpeech><dialogue> Come Sirrah, I have switcht you well 
+I'le tye you up now to the Rack. 
+</dialogue><nonSpeech> <font>She ties him up, and joyns with the other Witches.</font> </nonSpeech><dialogue>
+Well met Sisters, where's my Pucklin?
+Come away my pretty Sucklin.
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> Waunds and Flesh, what con Ay do naw, I am turn'd 
+into a Horse, a Capo, 
+a meer Titt; Flesh Ayst ne're be a Mon agen, I marle I con speak, I  
+conno pray, 
+I wot a pox o'th' Deel Mun, Ay live of Oates, and Beans, and Hay aw  
+my life, instead 
+of Beef and Pudding: uds Flesh I neigh too, </dialogue><nonSpeech> <font>He neighs.</font> </nonSpeech><dialogue>
+Oh who has switcht and spurd me plaguely, I am raw all over me, whoo 
+has ridden 
+a wounded way about too.
+<comment type="compiler">CHARMS IN VERSE OMITTED.</comment>
+<pagebreak id="42" />
+
+</dialogue><nonSpeech> <font>The Devil appears in Humane Shape with four Attendants.</font> </nonSpeech>
+
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Peace, here's our Master him Salute,
+And kiss the Toe of his Cloven Foot. </dialogue><nonSpeech> <font>They kiss the Devils       
+Foot.</font> </nonSpeech><dialogue>
+Now our new Sister we present,
+The Contract too, sign it with Blood. </dialogue><nonSpeech>Madge <font>signs it with her    
+Blood</font> .</nonSpeech>
+   <nonSpeech> <font>Dev.</font> </nonSpeech><dialogue> First, Heaven you must renounce.
+   </dialogue><nonSpeech> <font>Madge.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Dev.</font> </nonSpeech><dialogue> Your Baptism, thus I wash out too.
+The new Name <font>Maudlin</font> you must take,
+And all your Gossips must forsake,
+And I these new ones for you make.
+   </dialogue><nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> A piece of your Garment now present
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> Here, take it Master, I'm content. </dialogue><nonSpeech> <font>Gives it  
+him.</font> </nonSpeech>
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Within this Circle I make here,
+Truth to our Master you must swear.
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Dev.</font> </nonSpeech><dialogue> You must each month some murdered Children pay,
+Besides your yearly tribute at your day.
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> I will.
+   </dialogue><nonSpeech> <font>Dev.</font> </nonSpeech><dialogue> Some Secret part I with my mark must sign,
+A lasting token, that you are wholly mine.
+   </dialogue><nonSpeech> <font>Madg.</font> </nonSpeech><dialogue> Oh!                                               
+</dialogue><nonSpeech> <font>The Devil takes her hands between his.</font> </nonSpeech>
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Now do your Homage.
+   </dialogue><nonSpeech>Dev.</nonSpeech><dialogue> <font>Curse Heaven, Plague Mankind, go forth and be a Witch.</font>
+</dialogue><nonSpeech> <font>The Musick sounds in the Air.</font> </nonSpeech>
+
+<nonSpeech> <font>Song.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">SONG OMITTED.</comment>
+<pagebreak id="43" />
+
+</dialogue><nonSpeech> <font>They Dance with fantastick unusual postures</font> </nonSpeech><dialogue>
+
+<comment type="compiler">DEVIL'S SPEECH IN VERSE OMITTED.</comment>
+<pagebreak id="44" />
+
+</dialogue><nonSpeech> <font>Enter</font> Tom Shacklehead, <font>with a Gun on his shoulder</font> .</nonSpeech>
+
+   <nonSpeech> <font>Demd.</font> </nonSpeech><dialogue> Who's here? who's here?
+   </dialogue><nonSpeech> <font>Tom. Sha.</font> </nonSpeech><dialogue> Waunds what's <comment type="compiler">SOURCE TEXT: what s</comment> here?   
+The Witches By'r Lady,
+I'le shoot amongst 'em: have at ye. </dialogue><nonSpeech> <font>They all vanish, and</font> Clod 
+<font>Neighs</font> .</nonSpeech><dialogue>
+Hey, Dive-dappers, Dive-dappers:
+What a Devils here! <font>Clod</font> tied by a Bridle and a Neighing! What a 
+Pox ail'st thou? 
+Const a tell? </dialogue><nonSpeech>Tho. Shac. <font>takes off the Bridle</font> .</nonSpeech>
+   <nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> Uds flesh, I am a Mon agen naw!
+Why, I was a Horse, a meer Tit, I had lost aw
+My speech, and cou'd do naught but neigh;
+Flesh I am a Mon agen.
+   </dialogue><nonSpeech> <font>Tom. Sha.</font> </nonSpeech><dialogue> What a dickens is the fellee wood?
+   </dialogue><nonSpeech> <font>Clod.</font> </nonSpeech><dialogue> Ise ta the Bridle with me, fly from the Deel, and 
+the Witches, and I'le tell you 
+aw at the Ale-house.
+   </dialogue><nonSpeech> <font>Tom. Sha.</font> </nonSpeech><dialogue> What a murrain ails the Hobbell?
+I mun follow, and see what's the matter.
+
+</dialogue><nonSpeech>Act Ends.</nonSpeech><dialogue>
+
+<comment type="compiler">AUTHOR'S ENDNOTES ON PP. 44-46 OMITTED.</comment>
+
+<pagebreak id="46" />
+
+</dialogue> <head>ACT. IV.</head> 
+
+<nonSpeech>Sir <font>Edward</font> , Sir <font>Jeffery</font> , La. <font>Shaklehead</font> , Sir        
+<font>Timothy</font> and <font>Isabella</font> .</nonSpeech>
+
+   <nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> I Am sorry I am forced to complain of my Cosin.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Sorry, marry so am not I; I am sorry she is     
+so pert and ill-bred, 
+truly Sir <font>Edward</font> 'tis unsufferable for my Son, a man of his      
+Quality and Title, Born 
+of such a Family, and so Educated, to be so abused, to have Stones   
+thrown at him 
+like a Dog.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> We must e'en break off the Match, Sir          
+<font>Edward</font> .
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Sir, I am ashamed of it, I blush and grieve to  
+hear it; Daughter, I never 
+thought to see this day.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Sir, I am so amazed I know not what to say, I     
+abuse my Cosin! Sure, he is 
+bewitched.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> I think I am, to Love you after it, I am sure   
+my Arm's black and blew, 
+that it is.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> He jested with me, as I thought, and would have   
+ruffled me, and kissed me, 
+and I run from him, and in foolish play, I quoited a little Stone or 
+two at him.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> And why did you call me Filthy-face, and ugly   
+Fellow, hah, 
+Gentlewoman?
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> He ugly! Nay, then I have no Eyes, though I     
+say't, that should not say't, 
+I have not seen his Fellow --
+<pagebreak id="47" />
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Nor I neither: 'twas a jest, a jest, he told me   
+he was handsomer for a Man, 
+than I for a Woman.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Why, look you there, you Blockhead, you Clown, 
+you Puppy, why do 
+you trouble us with this impertinent lye?
+   </dialogue><nonSpeech>La <font>Sha.</font> </nonSpeech><dialogue> Good words, Sir <font>Jeffery</font> , 'twas not so much  
+amiss; hah, I'le tell you 
+that.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Sure this is some mistake, you told me you were 
+willing to marry.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I did not think I should be put to acknowledg it  
+before this Company: But 
+Heaven knows, I am not more willing to live; the time is now so      
+short, I may 
+confess it.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> You would not use him, you intend to marry, ill.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I Love him I am to marry more than Light or       
+Liberty. I have thus long 
+dissembled it through Modesty; but, now I am provoked, I beseech you 
+Sir, think not 
+that I'd dishonour you so.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Look you, you have made her weep; I never found 
+her false or 
+disobedient.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Nay, good dear Cousin, don't cry, you'l make me 
+cry too; I can't forbear, 
+I ask your pardon with all my heart, I vow I do, I was to blame, I   
+must confess.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Go too, Sir <font>Timothy</font> , I never could believe 
+one of your parts would play 
+the Fool so.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> And you will marry to morrow.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> I never wisht for any thing so much, you make me  
+blush to say this.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Sweet Cousin forgive me, and Sir <font>Jeffery</font> ,  
+and Sir <font>Timothy</font> .
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Can I be angry at any thing. when I am to be      
+married to morrow? 
+And I am sure I will be, to him I love more than I hate this Fool.   
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> I could find in my heart to break your head,   
+Sir <font>Timothy</font> , you are a 
+Puppy.
+   </dialogue><nonSpeech>Sir <font>Edw.</font> </nonSpeech><dialogue> Come let's <comment type="compiler">SOURCE TEXT: let s</comment> leave 'em     
+together, to understand one another better.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Cousin, Daughter I should say, I beg your      
+pardon, your Servant.
+</dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Servant, Sweet Daughter. </dialogue><nonSpeech> <font>Ex. Sir</font> Edw.       
+<font>Sir</font> Jeff. <font>and Lady</font> .</nonSpeech>
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Dear Cosin be in good humour, I could wish my   
+self well beaten for 
+mistaking one that loves me so, I would I might ne're stir, if I did 
+not think you had 
+been in earnest: well, but I vow and swear I am mightily beholden to 
+you, that you 
+think me so fine a person, and love me so dearly; Oh how happy am I  
+that I shall 
+have thee to morrow in these Arms! by these ten bones, I love you    
+more than all the 
+Ladies in <font>London</font> put them together. Prethee Speak to me, O that  
+Smile Kills me, oh 
+I will so Hug thee and Kiss thee, and Love thee to morrow night --   
+I'd give forty 
+pound to morrow night were to night, I hope we shall have twins      
+before the year 
+comes about.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Do you so Puppy? </dialogue><nonSpeech> <font>She gives him a box on the  
+Ear, and pulls him by the Ears.</font> </nonSpeech>
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Help, Help, Murder, Murder.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Help, Help, Murder, Murder.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> What a Devils to do now? hah, she Counterfeits  
+a Sound.
+<pagebreak id="48" />
+</dialogue><nonSpeech>Enter <font>Theodosia</font> at one Door, and Sir <font>Jeffery</font> , and         
+<font>Lady</font> at the other.</nonSpeech>
+
+   <nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> How now, my Dear, what's the matter?
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> What's the Matter?
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> I feel the matter, She gave me a Cuff, and      
+lug'd me by the Ears, and 
+I think she is in a Sound.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Oh the Witch! the Witch came just now into the    
+Room, and struck Sir 
+<font>Timothy</font> , and Lug'd him, and beat me down.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Oh Lord, a Witch! Ay, 'twas a two legg'd Witch.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> And, assoon as she had done, she run out of that  
+Door.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> 'Tis very true, I met her and was frighted, and   
+left her muttering in the next 
+Room.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Oh Impudence!
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> You Puppy, you Coxcomb, will you never leave   
+these lyes, is the fellow 
+bewitched? </dialogue><nonSpeech> <font>He cudgels Sir</font> Tim.</nonSpeech>
+   <nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Go Fool, I am ashamed of you.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> Let's see if we can take this Witch.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Quickly, before she flies away. </dialogue><nonSpeech> <font>Ex. Sir</font>  
+Jeff. <font>and Lady</font> .</nonSpeech>
+   <nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Well, I have done, I'le ne're tell tale more.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Begone, Fool, go.
+   </dialogue><nonSpeech>Sir <font>Tim.</font> </nonSpeech><dialogue> Well, I will endure this, but I am resolved to  
+marry her to morrow and 
+be revenged on her; if she serves me so then, I will tickle her Toby 
+for her, faith I 
+will. </dialogue><nonSpeech> <font>Ex.</font> Sir <font>Tim.</font> </nonSpeech>
+   <nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Well, I'le be gone, and get out of the way of 'em.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Come on.
+
+</dialogue><nonSpeech> <font>Enter Young</font> Harfort <font>Drunk</font> .</nonSpeech>
+
+   <nonSpeech>Yo. <font>Harf.</font> </nonSpeech><dialogue> Madam! Cozen hold a little, I desire a word    
+with you.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I must stay.
+   </dialogue><nonSpeech> <font>Isab.</font> </nonSpeech><dialogue> Adieu then.
+   </dialogue><nonSpeech>Yo. <font>Harf.</font> </nonSpeech><dialogue> I am drunken well neegh, and now I am not so   
+hala, (since we must 
+marry to morrow) I pray you now let us be a little better acquainted 
+to neeght, I'le <comment type="compiler">SOURCE TEXT: I le</comment> make 
+bold to Salute you in a Civil way.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> The Fool's drunk.
+   </dialogue><nonSpeech>Yo. <font>Harf.</font> </nonSpeech><dialogue> By the Mass she kisses rarely, uds lud she has 
+a Breath as sweet as a Cow, 
+I have been a Hawking, and have brought you home a power of Powts in 
+my bag 
+here; we have had the rarest sport, we had been at it still, but     
+that 'tis neeght.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> You have been at some other sport I see.
+   </dialogue><nonSpeech>Yo. <font>Harf.</font> </nonSpeech><dialogue> What, because I am merry? nay, and I list, I   
+can be as merry as the best on 
+'em all.
+<comment type="compiler">FOUR LINES OF VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> I see you can be merry indeed.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> Ay that I can, Fa, la, la, fa, la. </dialogue><nonSpeech> <font>He      
+Sings Roger a Coverly.</font> </nonSpeech><dialogue>
+<pagebreak id="49" />
+   I was at it helter Skelter in excellent Ale, with Londoners that  
+went a Hawking, brave 
+Roysters, honest fellows that did not beleive the Plot.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Why don't you beleive the Plot?
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> No, the Chaplain has told me all; there's no    
+<font>Popish</font> Plot, but there's a 
+<font>Presbyterian</font> one, he says, none but Phanaticks believe it.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> An Excellent Chaplain to make love to his Patrons 
+Daughter, and Corrupt 
+the Son. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue>
+Why all the Eminent men of our Church beleive it; this fellow is     
+none of the Church, 
+but crept into it for a livelyhood, and as soon as they find him     
+they'l turn him out of it.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> Nay, Cousin I should not have told it, he       
+Charged me to say nothing of it; but 
+you and I are all one, you are to be bone of my bone to morrow: And  
+I will 
+Salute you once more upon that d'e see. 
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Hold, Hold, not so fast, 'tis not come to that yet.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> 'Twill come to that and more to morrow, fa, la, 
+la, but I'le out at four a 
+Hawking, though for all that, d'e understand me?
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Here's <font>Doubty</font> , I must get rid of this fool.  
+</dialogue><nonSpeech>Enter <font>Doubty</font> .</nonSpeech><dialogue>
+Cousin, I hear your Father coming; if he sees you in this Condition  
+hee'l be very Angry.
+   </dialogue><nonSpeech>Yo. <font>Har.</font> </nonSpeech><dialogue> Thank you Kindly, no more to be said, I'le go   
+and Sleep a little: I see 
+she loves me, fa, la, la, la. </dialogue><nonSpeech> <font>Ex. Yo.</font> Harfort.</nonSpeech>
+   <nonSpeech> <font>Doubty.</font> </nonSpeech><dialogue> Dear Madam, this is a happy minuite thrown upon 
+me unexpectedly, and 
+I must use it: To morrow is the fatal day to ruin me.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> It shall not ruin me; the Inquisition should not  
+force me to a Marriage with 
+this fool.
+   </dialogue><nonSpeech> <font>Doubty.</font> </nonSpeech><dialogue> This is a step to my Comfort; but when your     
+Father shall to morrow hear 
+your refusal, you know not what his passion may produce; restraint   
+of Liberty is 
+the least.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> He shall not restrain my Liberty of Choice.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Put your self into those hands that may defend   
+you from his Power: the 
+hands of him, who loves you more than the most Pious value Heaven,   
+than Misers 
+Gold, than Clergy men love Power, than Lawyers strife, than Jesuits  
+Blood and 
+Treachery.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> If I could find such a man.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Then look no farther Madam, I am he; speak but   
+one word, and make me 
+the happiest man on Earth.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> It comes a little to quick upon me; are you sure  
+you are the man you 
+speak of?
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> By Heaven; and by your Self I am, or may I be    
+the scorn of all Mankind; 
+and the most Miserable too, without you.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> Then you shall be the man.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Heaven; on my Knees I must receive this          
+Blessing; there's not another I 
+would ask, my Joy's too big for me.
+   </dialogue><nonSpeech> <font>Theo.</font> </nonSpeech><dialogue> No Raptures for Heavens sake, here comes my       
+Mother, adieu.
+<pagebreak id="50" />
+<comment type="compiler">SOURCE TEXT HAS PAGE NUMBERED 58.</comment>
+
+</dialogue><nonSpeech> <font>Enter</font> Lady Shaklehead.</nonSpeech>
+
+   <nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I must Compose my self.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Sir your most humble Servant.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Your Ladiships most humble Servant.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> It is not fit I should lose this opportunity,   
+to tell you that (which 
+perhaps may not be unacceptable to a person of our Complexion) who   
+is so much a 
+Gentleman, that I'le swear I have not seen your equal.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Dear Madam, you confound me with your Praises.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> I vow 'tis true; indeed I have strugled with my 
+self before I thought fit 
+to reveal this: but the consideration of your great accomplishments, 
+do indeed, as 
+it were, ravish, or extort it from me, as I may so say.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I beseech you Madam.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> There is Friend of mine, a Lady (whom the world 
+has acknowledged 
+to be well bread, and of Parts too, that I must say, and almost      
+confess) not in the 
+Bud indeed, but in the Flower of her Age, whom time has not yet      
+invaded with 
+his injuries; in fine, envy cannot say that she is less than a full  
+ripe Beauty.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> That this Creature should bring forth such a     
+Daughter. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Fair of Complexion, Tall, Streight, and shaped  
+much above the ordinary; 
+in short, this Lady (whom many have Languished, and Sigh'd in vain   
+for) does of 
+her self, so much admire your Person, and your Parts, that she       
+extreamly desires to 
+contract a Friendship with you, intire to all intents and purposes.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> 'Tis impossible she should be in earnest, Madam, 
+but were she, I cannot 
+Marry ever.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Why she is Married already, Lord how dull he    
+is! she is the best Friend I 
+have, Married to an old man, far above her sprightly years.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> What a Mother-in-Law am I like to have!          
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Can you not Guess who this is all this while?
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Too well. </dialogue><nonSpeech> <font>To himself.</font> </nonSpeech><dialogue>
+   Not I truly Madam. </dialogue><nonSpeech> <font>To her.</font> </nonSpeech> 
+   <nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Ha, ha, ha: No! that's strange, ha, ha, ha.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> I cannot possibly.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Ha, ha, ha, I'le swear! ha, ha, ha.
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> No, I'le <comment type="compiler">SOURCE TEXT: I le</comment> swear.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> 'Tis very much, you are an ill guesser, I'le    
+vow, ha, ha, ha! Oh Lord! not 
+yet?
+   </dialogue><nonSpeech> <font>Doubt.</font> </nonSpeech><dialogue> Not yet, nor ever can.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Here's Company, retire.
+     
+</dialogue><nonSpeech>Enter <font>Smerk</font> and <font>Tegue O Divelly</font> .</nonSpeech>
+
+   <nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> I am all on fire, what is it that Inspires me!   
+I thought her ugly once, but 
+this morning thought her ugly: And thus to burn in love already!     
+Sure I was blind, 
+she is a beauty greater than my fancy e're could form; a minutes     
+absence is death to 
+me.
+<pagebreak id="51" />
+<comment type="compiler">SOURCE TEXT HAS PAGE NUMBERED 59.</comment>
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Phaat Joy, dou art in Meditaation and           
+Consideraation upon something? if it 
+be a Scruple upon thy Conscience, I believe I vill make it out unto  
+dee.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> No Sir, I am only ruminating a while; I am       
+inflamed with her affection, O 
+<font>Susan! Susan</font> ! Ah me! Ah me!
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Phaat dost dou not mind me? nor put dy thought  
+upon me? I do desire to 
+know of dy Faathers Child, what he does differ from de Caatholick    
+Church in, by my 
+fait it is a braave Church, and a gaallant Church (de Devil taake    
+mee) I vill tell 
+you now, phare is dere such a one? vill you speak unto me now Joy,   
+hoh?
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> 'Tis a fine Church, a Church of Splender, and    
+riches, and power, but there 
+are some things in it --
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Shome things! Phaat dosht dou taalk of shome    
+things? By my shoule I vill 
+not see a better Church in a Shommers day, indeed, dan de Caatholick 
+Church. I 
+tell you there is braave dignities, and promotions too; what vill I  
+shay unto you? 
+by St. <font>Phaatrick</font> , but I do beleeve I vill be a Cardinal before  
+I vill have death. Dey 
+have had not one <font>Eerish</font> Cardinal a great while indeed.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> What power is this that urges me so fast, oh     
+Love! Love!
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Phaat dosht dou shay, dosht dou love promotions 
+and dignities? den I predee 
+now be a Caatholick. What vill I say unto you more? but I vill tell  
+you, You do 
+shay dat de Caatholicks may be shaved, and de Caatholicks do shay,   
+dat you vill 
+be after being damn'd, and phare is de solidity now of daat, daat    
+dou vill not turn a 
+good Caatholick?
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> I cannot beleive there is a Purgatory.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> No! Phy I vill tell you what I vill shay unto   
+you, I have sheen many 
+Shoules of Purgatory dat did appear unto me; And by my trot, I do    
+know a Shoule 
+when I do shee it, and de Shoules did speak unto me, and did deshire 
+of me dat I vould 
+pray dem out of that plaashe: And dere Paarents, and Friends did     
+give me shome 
+money, and I did pray 'em out. Without money indeed, we cannot pray  
+dem out,
+no fait.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> That may not be so hard; but for                 
+Transubstantiation, I can never beleive it.
+   </dialogue><nonSpeech> <font>Priest</font> </nonSpeech><dialogue> Phaat dosht not beleive de Cooncel of Trent Joy? 
+dou vilt be damn'd indeed, 
+and de Devil take me, if dou dosht not beleive it. I vill tell you   
+phaat vill I say 
+to you a Cooncel is infalible; and I tell you, de Cardinals are      
+infalible too, upon 
+occaasion, and dey are damn'd Heretick Dogs, by my shoulvaation, dat 
+do not beleive 
+every oord dey vill speak indeed.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> I feel a flame within me, oh Love, Love, wether  
+wilt thou carry me?
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Art thou in love Joy? by my shoule dou dosht    
+Comitt fornicaation, I vill 
+tell you it is a veniall Sinn, and I vill after be absolveing you    
+for it: but if dou dosh
+Comitt Marrage, it is mortall, and dou vilt be damn'd and bee fait   
+and trot. I predee 
+now vill dou fornicate and not Marry: for my shaake now vilt dou     
+fornicate.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Sure I am bewitch'd.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Bewitch'd in love, Aboo! boo! I'le tell you     
+now, you must 
+taake de Womans * Shoe dat dou dosht Love sho, and dou must maak 
+a Jaakes of it, dat is to shay, dou must lay a Sirreverence, and be in
+it, and it will maake cure upon dee.
+<comment type="compiler">AUTHOR'S COMMENT ADJACENT TO THE PRECEDING SPEECH GIVEN BELOW.</comment>
+</dialogue><nonSpeech>* <font>Vide Scot.</font> 
+Discovery <font>&amp;c.</font> </nonSpeech>
+   <nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh the Witch! the Witch! <font>Mal. Spencer</font> , I am 
+struck in my Bowels, take 
+<pagebreak id="52" />
+her away, there, oh! I have a Thousand Needles in me, take her away, 
+<font>Mal. Spencer</font> .
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Phaare is shee, <font>Mal. Spencer</font> .               
+<font> <foreign>Exercizo te Conjuro te in Nomine, &amp;c.</foreign> </font> 
+</dialogue><nonSpeech>He mutters and Crosses himself.</nonSpeech>
+   <nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh, I have a Million of Needles Pricking my      
+Bowels.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I vill, set up a hubub for dee, help! help! who 
+is dere? help, Aboo, boo, boo.
+
+
+</dialogue><nonSpeech>Enter Sir <font>Jeffery</font> , and <font>Lady</font> , and <font>Susan</font> .</nonSpeech>
+
+   <nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh Needles! Needles! Take away <font>Mal.            
+Spencer</font> , take her away.
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> He is bewitch'd, some Witch has gotten his     
+Image, and is tormenting it.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Hold him, and I vill taak some course vid him,  
+he is possess'd, or obsess'd <comment type="compiler">SOURCE TEXT: obess'd</comment> , I 
+vill touch him vid some Relicks.
+   </dialogue><nonSpeech> <font>Susan.</font> </nonSpeech><dialogue> Oh, good Sir, help him, what shall I do for him?
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> Get some Lead melted (and holding over his      
+body) power it into a 
+Poringer full of Water, and if there appear any image upon the Lead, 
+then he is 
+bewitch'd. <comment type="compiler">AUTHOR'S COMMENT THAT FOLLOWS GIVEN BELOW.</comment>            
+</dialogue><nonSpeech> <font>This experiment is to be found in</font> <foreign>Mal. Mallific.</foreign> </nonSpeech>
+   <nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Peash, I shay, here is shome of St.             
+<font>Phaatricks</font> own Whisker, and some of the 
+Snuff he did use to taak, dat did hang upon his Beard; here is a     
+Tooth of St. <font>Winifred</font> , 
+indeed, here is a Corn from de Toe of St. <font>Ignatius</font> , and here is 
+de paring of his Nails too.
+</dialogue><nonSpeech> <font>He rubs him with these Relicks.</font> </nonSpeech>
+   <nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh worse, worse, take her away.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> By my shoule it is a very strong Devil, I vill  
+try some more, here is St. 
+<font>Caaterine</font> de Virgins Wedding-Ring, here is one of St.            
+<font>Bridgets</font> Nipples of her Tuggs, by my 
+shoule, here is some of de sweat of St. <font>Francis</font> , and here is a  
+piece of St. <font>Laurence's</font> 
+Gridiron, dese vill make Cure upon any shickness, if it be not ones  
+lasht shickness.
+   </dialogue><nonSpeech> <font>Susan.</font> </nonSpeech><dialogue> What will become of me, I have poyson'd him, I   
+shall lose my Lover, and 
+be hang'd into the bargain.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh! I dye, I dye, oh, oh.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> By my shoule it is a very strong Devil, a very  
+aable Devil, I vill run and fetch 
+shome Holy-vater. </dialogue><nonSpeech> <font>Ex. Priest.</font> </nonSpeech>
+   <nonSpeech> <font>Susan.</font> </nonSpeech><dialogue> Look up, dear Sir, speak to me, ah woes me, Mr.  
+<font>Smerk</font> , Mr. <font>Smerk</font> .
+   </dialogue><nonSpeech>Sir <font>Jeff.</font> </nonSpeech><dialogue> This <font>Irish-man</font> <comment type="compiler">NO ITALICS FOR man IN     
+SOURCE TEXT</comment> is a Gallant man about Witches, he out-does me.
+   </dialogue><nonSpeech>La. <font>Sha.</font> </nonSpeech><dialogue> But I do not know what to think of his Popish   
+way, his Words, his Charms, 
+and Holy Water, and Relicks, methinks he is guilty of Witchcraft     
+too, and you should 
+send him to Goal for it.
+   </dialogue><nonSpeech> <font>Smerk.</font> </nonSpeech><dialogue> Oh! oh!
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

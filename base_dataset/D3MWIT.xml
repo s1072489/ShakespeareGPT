@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3MWIT">
+  <dialogueHeader>
+
+    <filename>D3MWIT</filename>
+
+    <identifier>3 MISC D3MWIT</identifier>
+
+    <title>VVIT AND VVEALTH</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1647</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="MISCELLANEOUS">Miscellaneous text types</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>VVIT AND VVEALTH CONTENDING FOR PREHEMINENCE: IN A DIFFERENT
+DIALOGUE BETWEEN WAT WITTY-POLE AND DAVY RICH. 
+(...) 
+LONDON, PRINTED FOR T. B. AT THE SIGN OF THE MAIDEN-HEAD, NEARE 
+HOLBORN CONDUIT. 
+1647.
+PP. 2.1 - 16.35
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">THE SPEECH OF WAT IS GIVEN IN BLACK LETTER, THAT OF DAVY IN PLAIN 
+FONT. ONLY DEVIATIONS FROM THIS ARE CODED AS &quot;FONT OTHER THAN THE 
+BASIC FONT&quot;.</comment>
+
+<pagebreak id="2" />
+</dialogue> <head>A
+DIALOGUE
+BETWEEN
+VVIT AND VVEALTH.</head> 
+
+   <nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> 
+Care I for thy worldly trash? not a rush:
+tell not mee of thy millions, thousands, and
+hundreds: I prayse my (bountifull) starres
+I have an inbred treasury, not valuable in
+respect of that which thou countest good.
+   </dialogue><nonSpeech> <font>Davy,</font> </nonSpeech><dialogue> I, I, talk on, talk on; it seemes thou art
+neither acquainted with wealth, nor (what thou
+brag'st of most) wit; for thou art quite beside thy
+Arethmatick, putting the cart before the horse:
+millions first, and hundreds last: a preposterous
+Argument, suitable to thy disposition.
+   </dialogue><nonSpeech> <font>Wat:</font> </nonSpeech><dialogue> Why? I tell thee (foole) I am soe
+weaned from the very conception of any thought
+<pagebreak id="3" />
+concerning Riches, that tis noe wonder, if all
+words spoken by mee on that hatefull subject
+prove to be abortive.
+   </dialogue><nonSpeech> <font>Da.</font> </nonSpeech><dialogue> How doest thou live then, I prithee?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> By my wit, I tell thee, and hold it a
+farre richer Patrimony then all thy gold can
+make thee soe much as capable of.
+   </dialogue><nonSpeech> <font>Da.</font> </nonSpeech><dialogue> Marry I tell thee in my conceit thou'st
+but a very bad trade on't now. What canst thou
+expect to get by thy wit, in an age which regards
+neither wit, honesty, conscience, humanity,
+Noble-Ancestrey, nor indeed (to bee briefe) any
+thing; but what I am Master of, (and by which
+I can accomplish whatsoever my thoughts
+would acquire) and that is money, the darling
+of the time, the conquerour of Conquerers, the
+Coyner of Honesty, and the Muzzell of
+Eloquence?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> O brave <font>Davy</font> , why now I perceive
+the case is much altered since I saw thee last, I
+doe not think but thou haste bought (and read)
+<font>Greens Groats worth of Wit</font> , or (rather) <font>Wits
+Common-wealth</font> ; why thy phrase and
+manners is quite changed from what was wont to
+bee, or I now expected, I do not think but thou
+art become one of the wits of the times, all thy
+usuall Dialect was <font> <foreign>Opus</foreign> </font> &amp; <font> <foreign>usus</foreign>  </font> , or <font> <foreign>Noverint
+<pagebreak id="4" />
+universi, &amp;c.</foreign> </font> but now let me see what is't the
+Darling of the Time, Conquerour of
+Conquerers, Muzzle of Eloquence; O rare stile! but
+tell me <font>Davy</font> , is all this Rhethorick proper to
+Pelf?
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> This quotha? why I'd have thee to know
+<font>Wat</font> , that these golden phrases, and thousands
+more daily in use are the very children of drosse
+(as thou callest it) Subjects of silver, Servants
+and slaves of gold: why man didst never heare
+talke of golden Boyes, Girles worth gold, and
+penny white, brown bread Lasses? I'm sure thou
+hast <font>Wat</font> .
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I marry have I, what then? are all
+these Epethits equivalent with an admirable
+wit, a quaint conceit, a curious delivery, an
+exquisite device, an elaborate stile, and a gallant
+humour?
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Tush, what of all this? why, I say
+againe and againe, and as many times againe as
+thou wilt, that all this, and as much as thou canst
+sum up between Shrove-tide and Easter, are but
+Lent by the benevolence of industrious gold and
+silver, does not money buy Learning? and (I
+prethee) does not learning make Divines, 
+Lawyers, Phisitians, Phylosophers, Poets, and what
+not? <font> <foreign>Ergo</foreign> </font> , no mony no Master, no Master no
+<pagebreak id="5" />
+Scholler; for it is an old Proverb, <font>No penny,
+no Paternoster</font> ; therefore <font>Wat</font> leave off thy
+bragging of wit, least thou prove thy self a fool,
+in preferring it before wealth, which is (as it
+were) a creator of Wit.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I protest <font>Davy</font> , though indeed I never
+held thee to bee very wise, yet I tell thee, I
+never expected such a vacuity of discretion, as now
+thou hast bewrayed in thy last discourse, out
+upon thee, hold thy tongue for shame, till thou learn
+how to use it better: I vow I'me asham'd of
+thee.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Why Sirrah? tell me patiently, I beleeve
+in truth this is but a flourish of wit, a meere
+whimsie to daunt me, and make mee leave off,
+but in faith thou art a younger brother in that,
+all thy witty flashes cannot beat me off from my
+ground, I say still, that wealth is to be preferred
+before wit, as being (in a manner) the very nurse
+and foster father of it, all these thy bravadoes
+shall never beat me off, while I can speak my
+minde to maintain it.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I marry, thou hast spun a fine thred
+indeed, thy argument is even as strong as a
+Spiders web, which thou shalt see me presently blow
+away, and dissolve with a blast from my mouth;
+thou hast spoken like a meere Dody-pole as thou
+<pagebreak id="6" />
+art, in seeking to prove that Wealth buyes
+Learning, and Learning creates wit, when it
+is apparently seen to the contrary; onely this
+I confesse that Literature is a most necessary
+handmaid to the Muses, without which (indeed)
+they cannot be well dressed, but <font> <foreign>Poe`ta nasci ut
+non fit</foreign> </font> , a Poet is so born, not so made, for
+unlesse a man have an inbred and naturall
+proclivity, what boots all his Learning? nay rather,
+doth it not render him more odious to his
+auditors, who expecting the Nut of Learning, finde
+nothing but the shell of guilded ignorance, like
+a Jay deck'd in Peacocks feathers, a Sow with
+a gold ring in her snout, and a Millers Asse,
+garnished with the rich saddle and trappings of
+<font>Beucephalus</font> , doth not the experience of all ages
+ratifie this? speak man.
+   </dialogue><nonSpeech> <font>Davy,</font> </nonSpeech><dialogue> Thou wouldst inforce me to beleeve
+so, but I neither can nor will, without
+particulars to confirm thy words more then a generall
+saying that it is so, therefore I absolutely deny
+the Argument to be good unlesse thou canst
+instance some pregnant proofe to justifie thy
+assertion.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> That I can very readily doe, not
+needing to trouble thee with precedent men &amp; times,
+but even turning to those now living in this
+<pagebreak id="7" />
+present age, and of them one most eminent may
+serve to dignifie a multitude of others more
+obscure: what thinkest thou of that notable (only)
+English Poet <font>John Taylor</font> , how many sublime
+and (truely) witty Poems hath hee published in
+Print? raising a Pyramides to his never
+dying memory, of an ingenuous fertile braine
+without any addition of learning worth 
+mention: but what his own industrious (and inbred)
+capacity hath possest him of; what curry-combs
+hath hee taken out of the Iron-mongers own
+shop to dresse the (ill-conditioned) Iade withall?
+how artificially hath he rosted and broyled him
+upon his own spits, and grid-irons, how hath
+hee fry'd and toss'd him in his own frying-pan,
+basted him with his own ladle, and boyl'd him
+like a Calves-head and Bacon in his own
+pottage-pot? Now I prethee judge impartially of
+this; the one vaunts much of great learning
+(which thou sayest is bought with money) the
+other professeth himself to be guilty of very
+little (if any) and yet how different their writings
+are, having (with all possible acerbity prest the
+Presse against each other, the world hath
+censured already, and so doe thou now.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Why, is not the Iron-monger
+counted for a pregnant witty fellow? I think he is,
+<pagebreak id="8" />
+he hath published (and doth weekly) a number
+of Pamphlets, which some like exceeding well.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Why, I tell thee hee hath no wit, but a
+kinde of railing invention; was ever any age
+guilty of producing such a firebrand of
+mischiefe? what pestiferous incentives hath hee
+writen and published, to stir up sedition betwixt
+the King and his people, while it is to be feared
+hee is really true to neither.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Well then, leaving this discourse, let us
+proceed to something (in my conceit) more
+pertinent to our purpose, which shall bee this:
+whether Wit or Wealth (as I touched in the
+beginning) will best feed and cloath a man?
+answer me to that briefly and plainly; here's the
+case, thou hast Wit enough, and I have Wealth
+enough; now which of them affords the best
+maintenance, there lies the state of the question,
+I hold my principle still, Wealth is to be 
+preferred before Wit?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> And I will confidently defend the
+precedency of Wit before Wealth, as being a
+divine and supernaturall gift, which mony can
+never purchase.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> That's confest but neverthelesse thou
+canst not deny but Wealth is a Divine gift, as
+well as Wit, is it not? doth not holy writ
+<pagebreak id="9" />
+mention many godly men, very rich?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I prethee <font>Davy</font> let holy Writ alone in
+our quarrell, for I love not to mix holy and
+prophane matters together, but if thou shouldest
+hedge in them to make thy fence the stronger,
+the examples are so few, in comparison of
+others, that have abandoned riches to imbrace
+contemplation in poverty; that the difference
+would easily appeare; to what end thinkest thou
+did my Couzen <font>Crates</font> that witty Phylosopher,
+throw all his wealth (which was abundance)
+into the Sea; was it not because it was an
+impediment to his study, and our Poets in
+imitation of him, if they be possest with any worldly
+trash (as loathing to keep it) doe they not drown
+it in Sack, as he drowned his in the Sea? what
+should he doe with wealth, who hates it in
+comparison of his study? the Muses children ne're
+turn Usurers, nor care they for coyn, but for
+necessity, all besides is superfluous.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> This is all true (I confesse) but tell me
+one thing <font>Wat</font> , how if thou should'st come to
+be sick, lame, cast in prison, or feel any such kind
+of affliction, can thy wit ease or release thee, will
+the Phisitians, or Gaolers, take learned Epistles,
+or witty Poems, in lieu of their fees, canst thou
+in rime shew them a reason why they should
+<pagebreak id="10" />
+deliver thee without money? nay, Ile goe a
+nearer and easier way with thee, canst thou by
+such meanes procure any palliation or 
+mitigation to (or of) thy misery, will they be mollified
+with Madrigalls, softned with Sonets, entreated
+with Epigrams overcome with Odes? tell mee
+seriously, <font>Wat</font> , what think'st thou? whether will
+Wit or Wealth (in such sad exigents) stand thee
+in the most stead?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> This touches home I protest, thou
+never graveld'st me till now, yet Ile beare up still;
+and suppose that reliefe may be gain'd by Art;
+for if <font>Orpheus</font> had power with his dulced
+harmony to convert salvage beasts from their
+naturall (and customary) truculency, can it be
+imagined that men (such as are Phisitians or
+Gaolers) should be more barbarous then bruit beasts,
+more salvage then Satyres, more cruel then
+Caniballs, and more inhumane then Incubuses,
+have I clench'd the nayle <font>Davy</font> , what sayest
+thou?
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Very sleightly, <font>Wat</font> , nay, now I
+perceive thou beginnest to yeeld, I have beat thee
+out of thy play; run thee off o'thy legges, put
+thee besides thy Text, turn'd thee out of tune,
+and whipt thee to confession of thy folly, yeeld
+up the <comment type="compiler">SOURCE TEXT DAMAGED: A WORD BEGINNING WITH &quot;b&quot;              
+OBLITERATED</comment> <font>Wat</font> for in truth thou art utterly
+<pagebreak id="11" />
+foyl'd in thy argument, art thou not?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Ne're the sooner for a hasty word,
+<font>Davy</font> , I confesse that I doubt some of this is too
+true, but howsoever, <font>Davy</font> , let mee have tryall
+by thy own Law, thou didst put me to
+particular proofes in a generall plain case, the like I
+claime of thee.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Very willingly, <font>Wat</font> , but let one
+include many as thou servedst mee (about <font>Iohn
+Taylor</font> ) there is an honest man, a very good
+friend of mine, and one whom thou knowest
+very well (but he shall now goe namelesse) he is
+(by many) accounted to have an indifferent
+portion of wit, but in this sad predicament being a
+close prisoner in <font> <foreign>Aulum Iustitia</foreign> </font> , belonging to
+<font> <foreign>Nova Porta</foreign> </font> ) he is altogether destitute of mony,
+and consequently of friends; all shunning him
+(as a man utterly forlorn and forsaken;) nay,
+which is most (and worst) of all: Some to whom
+the key of his wit (when he was at liberty) did,
+in a manner, open the doore to their earthly
+happinesse (I think they expect no heavenly) now
+in his distressed captivity, doe utterly abandon his
+sight not vouchsafing to visit him with money
+due to him, nor giving him former imployment,
+what sayest thou to this, <font>Wat</font> , wilt thou yet
+grant me the Victory?
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Truely I am heartily sorry, that thou
+givest mee such (a failing) occasion; especially
+considering that he is an intimate acquaintance
+of mine (as thou sayest he is) tush, I am not
+absolutely induced to beleeve it; yet indeed this
+present age hath gotten the start of all precedent
+times for ingratitude, hypocrisie, hardnesse of
+heart, neglect of lawdable Arts (and Customes,)
+and indeed want of common honesty; but let
+mee see, I was about to ask thee how the
+Gaolers use him (for that was our argument before)
+but 'tis needlesse discourse for if his professed and
+obliged friends, are so ingratefully cruell, a man
+may almost conclude it as an Article that his
+wit or honesty will but little prevaile with the
+Keepers without that which makes the Mare to
+goe.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Why so I said before, and yet <comment type="compiler">&quot;t&quot; IN &quot;yet&quot; NOT  
+SEEN IN SOURCE TEXT</comment> in troth <comment type="compiler">SOURCE TEXT: introth</comment> ,
+<font>Wat</font> , I must needs (in his case) vary something
+from my first principle: for his particular hee
+hath found unexpected favour from his Keepers
+(whether wone by his wit, honesty, or both, I
+question not) for were not their hearts softned
+in consideration of his condition which is
+without paralell) he had been cast into the common
+Gaole before this time, there to have perished
+without any remedy.
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Well, <font>Davy</font> , me thinks yet I smell the
+victory as hot in my nostrils as a Beare does
+honey in a marrow-bone: hast not thou confest
+it thy self? dost not thou (with pitying his case,
+withall) conclude that his wit and honesty
+procure him favour without money? what can be
+more cleare? a ha <font>Davy</font> ? have I taken you tardy
+ath' last? come yeild, yeild.
+   </dialogue><nonSpeech> <font>Dav.</font> </nonSpeech><dialogue> Well <font>Wat</font> : I perceive that if I give thee
+an Inch thou'lt take an Ell: but I prithee don't
+vaunt before the victory: suppose I have granted
+that the Keepers are kind to him beyond
+customary use? wilt thou therefore runne away with
+the argument, as though the poore man might
+not be better us'd for money, if he had it? away
+with thee, thou a <font>Wity-pole</font> , thou a <font>Dody-pole</font> ,
+(as thou call'st me) thou hast absolutely brought
+thy self into a Meander of folly; from which all
+thy pretended Wit cannot deliver thee.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> O brave <font>Davy</font> , I protest I think the
+rich fool will carry't when all is done.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Rich fool quotha, marry, <font>Wat</font> , as the
+world goes now adaies, he's most wise (or wity,
+or what thou wilt call it) that can keep a penny
+for a rainy day (as the Proverb sayes) come, come
+<font>Wat</font> , have thou wit to save thy money when
+thou hast it, thou'lt brook thy name the better
+<pagebreak id="14" />
+by't, doe not stand upon a vain opinion of living
+by thy wit, I tell thee thou mayest as well turn
+Chamelion and live by the aire, consider with thy
+self, the condition of people though they speak
+faire in prosperity, while the golden sun or the
+silver Moon of thy fortunes, reflect upon them,
+what will they doe, or what will they say when
+those refulgent Luminaries are set or eclipsed,
+Faith if thou wantst either meat, drink, or
+apparell, so thou mayst, till new Lights be recovered,
+if thou owe money, wit will not pay it, thats
+certaine.
+<comment type="compiler">WAT'S VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Then, <font>Wat</font> , it seems all these reasons
+don't move thee to retract thy sayings.
+<comment type="compiler">WAT'S VERSE OMITTED.</comment>
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Well <font>Wat</font> , thou hast got two strings
+to thy bow, what thou canst not get with
+reason thou'lt have in rime, well, Ile yeeld on one
+condition.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> What's that, a request that is
+reasonable, or rimeable, speak?
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> Both, I desire a Song before we part,
+that shall end our controversie.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Wilt thou not be angry? may I sing
+what comes at my tongues end.
+   </dialogue><nonSpeech> <font>Davy.</font> </nonSpeech><dialogue> I, I, what comes next let's have it, I
+prethee honest <font>Wat</font> .
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Then have at it, 't shall bee extempore,
+a tryall of Wit.
+<comment type="compiler">WAT'S SONG OMITTED.</comment>
+<pagebreak id="16" />
+<comment type="compiler">WAT AND DAVY PART WITH VERSES.</comment> 
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+ 
+
+
+
+  </dialogueText>
+</dialogueDoc>

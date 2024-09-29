@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4FWARD">
+  <dialogueHeader>
+
+    <filename>D4FWARD</filename>
+
+    <identifier>4 FICTION D4FWARD</identifier>
+
+    <title>WHOLE PLEASURES</title>
+
+    <author>WARD EDWARD</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1688/1710? 1714?</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">WARD, EDWARD.</attribution>
+      <frontMatter>THE WHOLE PLEASURES OF MATRIMONY: INTERWOVEN WITH SUNDRY
+DELIGHTFUL AND COMICAL STORIES; TOGETHER WITH THE CHARMING DELIGHTS
+AND RAVISHING SWEETS OF WOOING AND WEDLOCK, IN ALL ITS VARIOUS AND
+DIVERTING ENJOYMENTS.
+WRITTEN BY E. W. GENT.
+(...)
+LONDON: PRINTED, BY AND FOR THO. NORRIS: AND SOLD BY EDW. MIDWINTER,
+AT THE LOOKING-GLASS ON LONDON-BRIDGE.
+(1710? 1714?).
+PP.  39.10 -  41.16 SAMPLE 1
+PP.  48.14 -  51.21 SAMPLE 2
+PP.  54.24 -  60.25 SAMPLE 3
+PP.  86.28 -  89.27 SAMPLE 4
+PP.  93.3 -  94.26  SAMPLE 5
+PP. 102.22 - 105.34 SAMPLE 6
+PP. 108.27 - 110.37 SAMPLE 7
+PP. 115.28 - 122.14 SAMPLE 8
+PP. 124.37 - 125.35 SAMPLE 9
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText> 
+
+<comment type="compiler">BRITISH LIBRARY CATALOGUE GIVES PUBLICATION DATE AS &quot;1710?&quot;.
+ESTC GIVES &quot;1714?&quot;.</comment>
+
+<comment type="compiler">THIS IS THE FIRST EDITION OF &quot;WHOLE PLEASURES OF MATRIMONY...&quot;. 
+HOWEVER, FIRST PRINTED AS &quot;PLEASURES OF MATRIMONY...&quot; IN 1688.</comment>
+
+<comment type="compiler">LEVELS OF NARRATION AND DIRECT SPEECH CANNOT ALWAYS BE CLEARLY
+DISTINGUISHED.</comment> 
+
+<comment type="compiler">SOURCE TEXT GIVES PAGE NUMBER 119 AS NUMBER 199.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="39" />
+   <nonSpeech>But though that pleasure's quickly over, yet
+another comes on: For he has now the Pleasure of
+having her Home; where she has been staid for I
+do not know how long, by Mrs. <font>Idlesby</font> , and Mrs.
+<font>Pratewel</font> ; for the one having nothing to do, and
+the other nothing to talk of, came thither on
+purpose to find <comment type="compiler">SOURCE TEXT: fine</comment> Business for the One, and a    
+Subject of
+Discourse for the Other; neither did they know
+but it might be an Introduction to a farther
+Trouble, and be a Means of their being invited to the
+Wedding. Having therefore nicely surveyed Mr.
+Bridegroom's Elect;</nonSpeech><dialogue> <font>Well, but when are you married</font> ,
+</dialogue><nonSpeech>says <font>Idlesby</font> ?</nonSpeech> <nonSpeech>Also,</nonSpeech><dialogue> <font>When is the Day</font> , </dialogue><nonSpeech>added
+<font>Pratewel</font> ?</nonSpeech><dialogue> <font>There is no such Haste, for that</font> , </dialogue><nonSpeech>said Mrs.
+<font>Bride</font> Elect:</nonSpeech><dialogue> <font>No, no</font> , </dialogue><nonSpeech>replied <font>Pratewel</font> ,</nonSpeech><dialogue> <font>there   
+is no
+great Haste; and yet, I believe, you think the sooner
+the better</font> . <font>Why should you say so</font> , </dialogue><nonSpeech>says Mrs. <font>Bride</font> ,
+with an Air of Modesty?</nonSpeech><dialogue> <font>Because I am sure I
+should think so myself, were it my Case</font> , </dialogue><nonSpeech>replied
+Mrs. <font>Pratewel</font> , very pertly.</nonSpeech><dialogue> <font>I am sure</font> , </dialogue><nonSpeech>says the
+<font>Bridegroom</font> </nonSpeech><dialogue> that is to be, <font>if Mrs.</font> Betty <font>do not think
+so, I do</font> . <font>That is very well said</font> , </dialogue><nonSpeech>said Mrs. <font>Idlesby</font> ;</nonSpeech><dialogue>
+<font>I like a Man that is brisk, and longs to be at the 
+Business <comment type="compiler">SOURCE TEXT: Butsiness</comment> </font> . <font>Not so fast,              
+Gentlewomen</font> , </dialogue><nonSpeech>quoth <font>the Mother</font> :</nonSpeech><dialogue>
+<font>Let me have no more Haste than good Speed: Do ye
+think I will have my Daughter married in Hugger
+<pagebreak id="40" />
+mugger? No in good Truth, will not I: I intend she
+shall be married like my Child. She shall not come
+among the Rabble at</font> Duke's Place: <font>I will have her be
+married with a License, and go to the Church from
+my House in Coaches, with Bride-men and Bride-maids,
+and all that</font> . <font>But must they be married at your
+Parish-Church</font> ? </dialogue><nonSpeech>quoth Mrs. <font>Pratewel</font> .</nonSpeech><dialogue> <font>No by my Truth     
+shan't
+they</font> , </dialogue><nonSpeech>replied the Mother;</nonSpeech><dialogue> <font>that is too near to make
+any Show as they ride along: I intend they shall be
+married at</font> Bow Church <font>in</font> Cheap-side, <font>that they
+may be seen as they ride along: and all the young
+VVomen wish themselves in my Daughter's Place that
+Night, and all the young Men in my Son-in-laws; by
+which the Bride and Bridegroom may reflect upon their
+own Happiness</font> . <font>Well, I profess, you are much in the right
+of it</font> , </dialogue><nonSpeech>says Mrs. <font>Pratewel</font> :</nonSpeech><dialogue> <font>I hate these stolen Weddings
+mortally; it looks as if Folks were ashamed of what 
+they did: And for their hearing the Sighs and VVishes
+of the young Gentlemen and Gentlewomen as they pass
+along, that was an extraordinary Thought: I wonder
+how you came to think of it</font> . <font>Why truly</font> , </dialogue><nonSpeech>says the 
+Mother,</nonSpeech><dialogue> <font>it is what I observing at my own VVedding; (for
+you must know I was as publickly married, as I intend my
+Daughter shall be:) And as we rid along, I heard one
+Gentleman say</font> , O that I was to be that
+Gentlewoman's Bedfellow to Night! I envy the
+Bridegroom's Happiness, <font>says another</font> . I did not care if I
+was in the Bride's Place, <font>says a Gentlewoman that knew 
+what it was</font> ; for I like the Bridegroom extreamly:
+<font>These Things I tell ye, put strange Thoughts in me, that
+I could hardly eat my Dinner, for thinking what a
+Supper I should have</font> . <font>Truly</font> , </dialogue><nonSpeech>says Mrs. <font>Idlesby</font> ,</nonSpeech><dialogue>
+<font>you make me almost wish that my Turn were as near as
+your Daughter's</font> . </dialogue><nonSpeech>This Dialogue being over, (which
+<pagebreak id="41" />
+must needs be very pleasant for a young Man to
+hear) Mr. Bridegroom Elect calls for a Bottle of
+Canary, with as much Confidence as if he were at
+Home, (and indeed so he is in effect) and he finds
+an exact Observance paid to what he says; for up
+comes the Maid with a Bottle and a Glass in a
+Silver Plate, and a Damask Napkin on her Arm;
+and presenting him the Glass first, he gives it to
+his Mother, who drinks to Mrs. <font>Idlesby</font> , and she
+to the young Gentleman; and, as if the Devil was
+at the Bottom of the Glass, tosses it all off, because
+he would not leave him a Drop: He drinks to Mrs.
+<font>Pratewel</font> , and she to the young Lady, who rather
+sips than drinks, and so sets down the Glass: And
+then having commended to each other their Choice,
+the two Visitants take their Leave.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">THE NARRATOR THEN PROCEEDS TO ADDRESS THE READER, TELLING 
+OF THE PLEASURE TO BE GAINED FROM FREQUENT VISITS TO ONE'S LOVER.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="48" />
+   <nonSpeech>If any further Object, That the elected
+Bridemaids do often quarrel and fall out about
+Dressing up the Bride-bed: I answer, Those Quarrels
+are the greatest pleasures in the VVorld to a young
+VVooer, because the Subject-matter of them, is
+how they may best accommodate him; by
+avoiding of all Reflections; and is indeed a very
+comical Scene, as I shall further shew: Sometimes the
+Controversie is about the Colour of the Ribbons:
+Suppose then that one argues for Yellow very
+strongly:</nonSpeech><dialogue> <font>Yellow</font> , </dialogue><nonSpeech>cries the adverse party:</nonSpeech><dialogue> <font>VVhat,
+the Colour of Jealousie! That was never known for a
+Bride bed before. VVhy, you would not have them 
+jealous on the VVedding-night, would ye</font> ? </dialogue><nonSpeech>Another
+propound Fillamot:</nonSpeech><dialogue> <font>Why, that is worse than the other</font> ,
+</dialogue><nonSpeech>cries another:</nonSpeech><dialogue> <font>How ridiculous would that look, to
+dress up a Bride-bed with Fading Love</font> ? <font>No, no</font> ,
+</dialogue><nonSpeech>says another,</nonSpeech><dialogue> <font>I am for Blue and Green</font> . <font>But why
+so pray</font> , </dialogue><nonSpeech>says the Third?</nonSpeech><dialogue> <font>Because</font> , </dialogue><nonSpeech>answers the Former,</nonSpeech><dialogue>
+<font>Blue is the Emblem of Constancy, and Green of
+Youth; which is youthful Constancy, and I think
+very proper</font> . <font>No</font> , </dialogue><nonSpeech>says another,</nonSpeech><dialogue> <font>I will tell you what
+<pagebreak id="49" />
+it shall be: It shall be Blue and Black <comment type="compiler">SOURCE TEXT: Back</comment> , for  
+that shews
+Constancy till Death</font> . <font>That is a foolish Fancy indeed</font> ,
+</dialogue><nonSpeech>says another;</nonSpeech><dialogue> <font>those Colours will not agree at all; for
+Black is a Mourning Colour</font> . <font>Then I think</font> , </dialogue><nonSpeech>says
+another,</nonSpeech><dialogue> <font>it must be Blue and Green</font> . <font>Pshaw, Pshaw,
+Green it self is but a melancholy <comment type="compiler">SOURCE TEXT: melanchloy</comment>        
+Colour, and not proper
+at a Wedding</font> , </dialogue><nonSpeech>says another,</nonSpeech><dialogue> <font>Ah, but I mean Grass
+Green</font> , </dialogue><nonSpeech>says the last Maid,</nonSpeech><dialogue> <font>and that shews Mirth and
+Jolitry; and so that was pitch'd on for One</font> . </dialogue><nonSpeech>Then
+another Bride-maid propounded to mix Violet
+with it:</nonSpeech><dialogue> <font>Violet</font> ! </dialogue><nonSpeech>quoth another,</nonSpeech><dialogue> <font>why that signifies
+Religion; and what have young married People to do
+with that, when they are in Bed</font> ? </dialogue><nonSpeech>Long the Contest
+lasted about the <font>Colours</font> , but at last <font>Grass Green</font> and
+<font>Gold Tissue</font> carry'd the Day.</nonSpeech><dialogue>
+<comment type="compiler">AN ARGUMENT CONCERNING THE CHOICE OF FAVOURS THEN TAKES PLACE,
+WITH THE MILLENER CONDEMNING THE BRIDE AND GROOM'S CHOICE OF GOLD
+AND POPPINGAY GREEN, AND IN TURN BEING REBUFFED BY THE OLDER
+BRIDESMAID.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>But as to this,
+the Millioner met with a Check-mate from the 
+elder Bride-maid, who gave him the following
+<pagebreak id="50" />
+Rebuff:</nonSpeech><dialogue> <font>I say, Poppingay shall stand; for your
+Exception against it is nonsensical: For, why should you
+go about to exclude Wantonness from new married
+People, when it is as natural to them as Milk to a Calf!
+I would not give a Half-penny for a young Husband,
+that would not be as wanton as a young Colt. And 
+therefore Poppingay is a meterial Colour, and shews young
+married People what they must do, and so must not be left
+out: But as for Gold Colour, if that be a Sign of
+Avarice, even take it away; for a Covetous Husband is the
+Devil</font> . <font>There is no necessity for any of these</font> , </dialogue><nonSpeech>says the
+youngest Bride-maid;</nonSpeech><dialogue> <font>for there is Variety enough in
+Colours; and therefore I am for Flame Colour,
+Flesh Colour, Willow, and Milk White</font> . <font>You have mixt
+good and bad together</font> , </dialogue><nonSpeech>says the Milliner:</nonSpeech><dialogue> <font>As for Flame
+Colour, nothing can be better; for that denotes Beauty
+and Desire; but you have spoiled all with Flesh Colour,
+for that shews Lasciviousness; nor are you better in the 
+Willow, for that signifies forsaken</font> . <font>How</font> , </dialogue><nonSpeech>says the eldest
+Bride-maid,</nonSpeech><dialogue> <font>Lasciviousness and Forsaken! Udsbobs,
+we will have neither of them; For though I like
+Wantonness well enough, I cannot abide Lasciviousness: And
+then what a rude Thing would it be, to give such Favours
+to young Ladies and Gentlemen, as should tell the VVorld
+they were forsaken by their Lovers? And therefore my
+Advice is to keep the Flame Colour and the VVhite, and
+to put in the Sea Green and the Red</font> . <font>The Red</font> , </dialogue><nonSpeech>said
+the Milliner,</nonSpeech><dialogue> <font>signifie Justice, and so may do very well;
+but as for Sea Green, that is a Colour of Inconstancy</font> .
+<font>Why then</font> , </dialogue><nonSpeech>says the youngest Bride-maid,</nonSpeech><dialogue> <font>that will
+do best in the VVomen's Top-knots, and be suitable to
+their Dispositions; but I would have the Red stand by all
+means; I will tell you why, Because if a young Man
+<pagebreak id="51" />
+marries a young Woman, and neglects doing of her
+Justice, he ought to be banished from the Society of
+the Female Sex. But what shall we have with it?
+What do you think of Maiden's Blush, Carnation, and
+Peach Colour</font> ? <font>As for Peach Colour, I like it well</font> ,
+</dialogue><nonSpeech>quoth the Milliner;</nonSpeech><dialogue> <font>but Maiden's Blush denotes
+Envy, and Carnation shews Deceit; which might well
+enough serve at a Widow's Wedding: But with
+Submission, I think it not so proper at a young Virgin's</font> .
+<font>Well, after all</font> , </dialogue><nonSpeech>says the elder Bride-maid,</nonSpeech><dialogue> <font>let us
+keep the Maiden's Blush out of the Bride's Top-knot,
+and the rest of us may wear it well enough: For I am
+afraid, the Coyest of us all will be ready to Envy
+her for being married before us</font> . <font>Well</font> , </dialogue><nonSpeech>says the
+youngest Bride-maid,</nonSpeech><dialogue> <font>I see there is so much
+Diversity in Colours, that we shall never be all of a Mind,
+and therefore let me make one Proposal for
+accommodating this Matter, and that is thus: Let us refer it
+to the Milliner himself</font> . </dialogue><nonSpeech>To this they all agreed;
+and he being desired to make the Favours 
+according to the best of his Judgment, did so.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="54" />
+<comment type="compiler">THE MARRIAGE CEREMONY HAS TAKEN PLACE AND THE WEDDING PARTY HAVE
+RETURNED HOME.</comment>
+   </dialogue><nonSpeech>Well, in return of all these good Wishes, the
+Bridegroom calls for a Bumper of White Wine;
+which being brought him,</nonSpeech><dialogue> <font>Come Gentlemen</font> , </dialogue><nonSpeech>quoth
+he,</nonSpeech><dialogue> <font>VVhat think you of a VVhet before Dinner</font> ? </dialogue><nonSpeech>And
+so drinks off his Bumper, and sees it go round, but
+is willing to spare the Women, as the weaker
+Vessels: But among the Men it went round twice, and
+was in a fair Way to have gone round the third
+Time; but just as he was laying his Hand upon the
+third Glass, his Bride desires him not to drink too
+much before Dinner, lest it should spoil his
+Stomach: And here is another pleasure, to have his
+Bride take such a care of his Health.</nonSpeech><dialogue>
+<pagebreak id="55" />
+<comment type="compiler">THE NARRATOR THEN TELLS THE READER HOW LITTLE THE GUESTS
+CONVERSED UNTIL THE THIRD COURSE OF DINNER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>For a grave Gentleman, that had pretty
+well satisfied the Cravings of his Stomach, and so
+had nothing else to do, begins to entertain the
+Company with an Harangue in praise of 
+Marriage; and at first dash, tells them, <font>Marriage was
+instituted in Paradise</font> ; in Deference to whose learned
+<pagebreak id="56" />
+Opinion, all the Religious Youngsters make a very
+reverend bow to him. Upon which he proceeds
+thus:</nonSpeech><dialogue> <font>Marriage, let me tell ye, Gentlemen and
+Ladies, is a very serious Thing: For besides that, as I
+told you before, it was instituted in Paradise; it was
+there also they were bid to Increase and Multiply</font> . </dialogue><nonSpeech>At
+this Word starts up a great Matron, who now
+thought it was a fit time for her to speak, and says,</nonSpeech><dialogue>
+<font>If they had not, I do not know where you and I should
+have been, old Gentleman</font> ; </dialogue><nonSpeech> <font>which set all the Company a
+sneering</font> : But the old Gentleman goes on:</nonSpeech><dialogue> <font>It is
+Marriage that furnishes Churches with Pastors, Courts
+with Judges and Magistrates, and Kingdoms with
+Soldiers for their Defence: And therefore, Children are to
+be esteem'd the blessings of Heaven, and so they were by
+the Jewish Women, who accounted Barrenness, if not a
+Curse, yet a very great Scandal</font> . <font>Ay, truly</font> , </dialogue><nonSpeech> (says an
+arch Wag of a Midwife, who had a mind to make
+a Parenthesis in his Discourse) </nonSpeech><dialogue> <font>and so do the English
+Women too I'll assure you: But I hope for better Things
+from my young Mistress here: For I look upon my
+Master to be a likely Man, and one that can do Business.
+I'll tell you what Gentlefolks, I had Nine Children
+in seven Years, my self; and so may my young
+Mistress there too, for ought I know, for she is as likely as
+I; and I hope</font> , Mr. <font>Bridegroom, you are as well
+provided as my Husband was; I am sure your Nose
+promises as well, and I do not doubt it: And let me
+tell you, I have often given shrew'd Guesses in such 
+Cases</font> . </dialogue><nonSpeech>The Midwife being at this time out of
+Breath, the old Gentleman went on with his
+Harangue:</nonSpeech><dialogue> <font>Mariage</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> <font>is not only in Esteem
+among Christians, but also among Pagans: For
+among the</font> Lacedemonians, <font>all Men that were not
+<pagebreak id="57" />
+marrid before Twenty, were to be whipt by the 
+Women as Drones: And among the</font> Romans, <font>Those that
+had been three times Married, were crown'd with
+Garlands of Palm-trees</font> . </dialogue><nonSpeech>He would have 
+proceeded to the tyring of the Company, but very
+luckily there was a Pear-pye set before him, which
+made Water in his Mouth, and put an end to his
+Discourse. The Midwife, that was resolv'd to
+have no more of his tedious Lecture, pronounced
+a Question to him, to turn the Tide of his
+Discourse:</nonSpeech><dialogue> <font>Pray Sir</font> , </dialogue><nonSpeech>says she,</nonSpeech><dialogue> <font>let me ask you one
+Question; What Age do you think most proper for a young
+Couple to Marry at</font> ? </dialogue><nonSpeech>But the Gentleman having his
+Mouth full of Pear-pye, could make no Return:
+And therefore the Midwife, resolving not to be 
+bauk'd, went on, without any Answer, thus:</nonSpeech><dialogue> <font>Why
+then, young <comment type="compiler">SOURCE TEXT: yonng</comment> Gentlemen, and Ladies too, for I  
+speak
+to you all; I'll tell you why I ask, because I knew a
+young Man that wanted something of Nine, who got
+a Maid with Child</font> . <font>A young Man, do ye call him</font> ,
+</dialogue><nonSpeech>says one of the Guest?</nonSpeech><dialogue> <font>I rather think it was a Boy,
+at that Age</font> . <font>Why, look ye, Sir</font> , </dialogue><nonSpeech>reply'd she,</nonSpeech><dialogue> <font>you
+may call him a Boy indeed, because he was so young,
+but I am sure he play'd a Man's Part in getting a
+Child</font> , <font>I am afraid, Mother</font> , </dialogue><nonSpeech>says a merry Wag
+at the Table,</nonSpeech><dialogue> <font>that the Maid had some other Help,
+besides that young Man</font> : </dialogue><nonSpeech>Which set them all a
+laughing: But Mrs. Bride only pull'd down her Hood
+over her Eyes, and smil'd. The Midwife was not
+so to be dash'd out of Countenance, and therefore
+very readily reply'd,</nonSpeech><dialogue> <font>Well, Gentlemen, let them
+laugh that win, but as I hope to be a Lady, the
+Story was true, as that I drink off this Glass; and so,
+here is a good Health to the Bride and Bridegroom,
+and all the rest of the good Company, and send ye all
+<pagebreak id="58" />
+good Luck; Nay, and more than that</font> , </dialogue><nonSpeech> (and then she
+sets down her Glass) </nonSpeech><dialogue> <font>I have heard of a Boy, if you'll
+<comment type="compiler">SOURCE TEXT: you ll</comment>
+have it so, that at ten Years of Age got his Nurse with
+Child: How say you now? How say you</font> ? </dialogue><nonSpeech>says the
+Wag I mentioned before?</nonSpeech><dialogue> <font>Why, I say he was a 
+very tractable Lad, for his Nurse put him forward I'll
+warrant ye?</font> <font>Truly</font> , </dialogue><nonSpeech>says she,</nonSpeech><dialogue> <font>I have good Authority
+for what I say, if what a Scholar reported to me, be
+true, do ye see now. And therefore I would advise all
+Parents, not to let young Children of different Sexes lie
+together; for I have heard the young Cock crow, as well
+as the old One: Nay, do not think strange of what I
+say: for I assure you all Physicians are of Opinion, that
+Maids are ripe at Fourteen, and Men at Seventeen;
+and some (as I have told ye) are qualified to do
+Business sooner: But after Fourteen and Seventeen, both
+Sexes hone after Matrimony, or something that's
+Equivalent</font> . <font>That is</font> , </dialogue><nonSpeech>says one of the Company,</nonSpeech><dialogue> <font>they
+hone after Enjoyment</font> . <font>O my Conscience</font> , </dialogue><nonSpeech>quoth
+Mother Midnight,</nonSpeech><dialogue> <font>you are in the right of it; and 
+therefore a Friend of mine said very well</font> , Marry your
+Daughters betimes, or they will marry themselves,
+<font>Now you may think, that I say this to promote my own
+Trade; But ifecks I speak cordially for the publick
+Good: But if I should, I hope there is no hurt in a good
+Meaning: And so</font> </dialogue><nonSpeech> (taking up the Glass) </nonSpeech><dialogue> <font>once more,
+here is the Bride and Bridegroom's good Health</font> . </dialogue><nonSpeech>After she
+had drank, another of the Guests starts up, and says,</nonSpeech><dialogue>
+<font>Well, I cannot but follow so good an Example, and
+therefore Mrs. Bride, and Mr. Bridegroom, Here's your
+good Health, I wish you much Joy, and every Year a
+lusty Boy</font> . <font>That was well remembered</font> , </dialogue><nonSpeech>said the 
+Midwife:</nonSpeech><dialogue> <font>That ought to have been my Wish indeed, but I
+am so forgetful, I cannot think of my own Business</font> . </dialogue><nonSpeech>And
+<pagebreak id="59" />
+now the Bridegroom, that had the Pleasure to
+hear all these Discourses, starting up of a sudden,
+and taking a full Glass in his Hands, pay his
+Devoirs to his fair Bride, and drinks to her, which
+was accompanied with the loud Huzza's of the
+whole Company, crying,</nonSpeech><dialogue> Long live the Bride and 
+Bridegroom; </dialogue><nonSpeech>And so the Dinner ended.</nonSpeech>
+   <nonSpeech>As soon as they are risen from Table, and the
+reciprocal Bows of all Parties to each other were
+over, Mother Midnight comes up to the 
+Bridegroom, and whispers him thus in the Ear:</nonSpeech><dialogue> Now
+Son, prove your self a Man; I'll warrant thee, Boy,
+thou hast a Maiden-head: But have a care of being
+too boisterous at first, you must crop the Flower 
+gently, lest you pull up the whole plant by the Roots.
+</dialogue><nonSpeech>Then leading him to the Bride:</nonSpeech><dialogue> Now the Blessing of
+Heaven, </dialogue><nonSpeech>cries she,</nonSpeech><dialogue> light upon my young Mistress
+here! Come, you'll have a happy Night on't I'll
+warrant you: Never fear it, Madam; you'll undergo
+it well enough: Marry, I wish I was to take your
+place: The very Thoughts on't makes my Mouth
+water. Well, Heavens bless your Endeavours, and
+send you a whole Dicker of Boys and Girls, that you 
+may live to be a great Grand-mother. </dialogue><nonSpeech>Then
+turning her about,</nonSpeech><dialogue> Ladies and Gentlewomen, </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue>
+You see here is a good Example, </dialogue><nonSpeech> (pointing to the
+Bride and Bridegroom) </nonSpeech><dialogue> pray make haste and follow
+it. Remember what the Song says, Gather your
+Rose-buds while you may. A Word to the Wise is
+enough. </dialogue><nonSpeech>Then one of the Guest cries,</nonSpeech><dialogue> Come, Ladies,
+now let us have a Dance. A good Motion, </dialogue><nonSpeech>cries
+another:</nonSpeech><dialogue>
+   <font>The shaking of your Heels, now let us see;
+   The shaking of the Sheets anon will be</font> .
+   </dialogue><nonSpeech>And was not the very Thoughts of that think you,
+<pagebreak id="60" />
+a great Pleasure to the Bridegroom? Then the
+Company draw out, and each Man takes his Mate:
+But just as they were going to dance, the merry
+Midwife cries out, by way of Admiration:</nonSpeech><dialogue> <font>A 
+goodly Sight by my Troth! Whip me if ever I saw Pidgeons
+better pair'd: Well, if I could have my Will, they
+should go just thus coupled to the Parson, and all
+be married together: O it would be a comely Sight 
+indeed! And then what Increasing and Multiplying
+would there be! And what a deal of Business should
+I have about three Quarters of a Year hence</font> ! <font>All in
+good Time, Mother</font> , </dialogue><nonSpeech>says one of the Guests:</nonSpeech><dialogue> <font>My
+Turn will come by and by, as the Men said that was
+last to be hang'd</font> . </dialogue><nonSpeech>Then to dancing they went, and
+O what Pastime was it for the bridegroom to see
+and hear himself admir'd by all the Company, for
+his Activity in Dancing, and cutting his Capers
+like the High-lander, and keeping time with his
+Head and Tail together, just like a Crow that is
+pecking of Nuts: 'Tis true, the rest do but
+whisper out his Praises, but the Midwife, she cries out
+aloud;</nonSpeech><dialogue> <font>Well danc'd, young True Penny! Thou art
+right, I'll <comment type="compiler">SOURCE TEXT: I ll</comment> warrant thee: Thou wilt do a Woman's
+Business to the Purpose, upon my Word: There is a Back
+will never fail her</font> . <omission type="line" />
+<comment type="compiler">THE GROOM HAS TO ENDURE ONE LAST CUSTOM BEFORE BEING 
+LEFT ALONE WITH HIS BRIDE TO CONSUMMATE THEIR MARRIAGE.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="86" />
+<omission type="line" /> <nonSpeech>But all this will not satisfie some; our young
+Woman is for a Child, and will have one too, if
+it be to be had; for she expects some
+peculiar Pleasure in the getting of it, which she has not
+yet tasted. And therefore away rambles she to
+confer with her Friends and Neighbours about the
+Matter. And seeing at one House a lusty young
+Boy in Nurse's Arms,</nonSpeech><dialogue> <font>Goodlack</font> , </dialogue><nonSpeech>cries she,</nonSpeech><dialogue> <font>What
+<pagebreak id="87" />
+a fine lusty Child is this! How long have you been
+Married, pray</font> ? Near fourteen Months, </dialogue><nonSpeech>says the
+other.</nonSpeech><dialogue> And pray how old is your Child then?
+Why I think it will be about four Months old to
+Morrow Sevennight. Udsbods, </dialogue><nonSpeech>says our young 
+Woman,</nonSpeech><dialogue> you have made use of your time: Why I
+have been married this half Year, and nothing
+coming yet. </dialogue><nonSpeech>Before she had made an end, 
+another of the Gossips came in, and having heard
+her last Words,</nonSpeech><dialogue> Pray what is the Matter, 
+Neighbour, </dialogue><nonSpeech>quoth she?</nonSpeech><dialogue> Matter! </dialogue><nonSpeech>quoth the Child's Mother:</nonSpeech><dialogue>
+In good Truth, I think there is Matter enough:
+Why she has been Married half a Year, and no
+Sign of any thing yet. How! </dialogue><nonSpeech>Says the other:</nonSpeech><dialogue>
+That is Matter enough indeed; and yet for all that
+there may be no Fault in the Man: 
+Uds-niggars-noggers, </dialogue><nonSpeech>says the young Woman,</nonSpeech><dialogue> the Man in no
+Fault! Why does one of my Years and
+Complexion look as if there were any Deficiency in me? I
+know myself so well, that I will give any One leave
+to judge whether I am in the Fault or no. Hold a
+little, you are too hot, </dialogue><nonSpeech>quoth the second Neighbour;</nonSpeech><dialogue>
+All Women are not alike. Some Women have
+been two or three Years married before they have
+had a Child. Very well; and you would have me
+stay so long too, would you? </dialogue><nonSpeech>Just as she was
+going to be angry, in steps a grave experienced
+Neighbour, with this short Prologue,</nonSpeech><dialogue> I have just
+been at my Neighbour <font>Fruitful's</font> Groaning: How,
+</dialogue><nonSpeech>quoth the other:</nonSpeech><dialogue> Is she brought to Bed then? Yes,
+of a very fine Boy. And how long had she been
+married, </dialogue><nonSpeech>cries the young Woman?</nonSpeech><dialogue> But the other
+Day in a manner. Goodness! But the other Day!
+And I have been this half Year married, and do not
+find the Ground-work is yet laid! </dialogue><nonSpeech>By this Time
+<pagebreak id="88" />
+other Neighbours come in, and the matter being
+canvass'd among them; One of the wisest makes
+this Speech:</nonSpeech><dialogue> Mistress, this is a Matter of no
+small moment, let me advise you, therefore, to
+take the just Dimensions of your Husband's
+Instrument of Generation, both as to the Length and
+Compass, for till then, no right Judgment can
+be made. I think that is needless, </dialogue><nonSpeech>says another,</nonSpeech><dialogue>
+for I know my Neighbour's Husband, and I'll
+assure you he is a very likely Man: But he has not
+been long married, and is very Uxorious, and
+you know a Man may over do his VVife, as well 
+as under do her: And therefore, Neighbour, if
+you will have a Child, put a Curb to your Husband's
+Fury, and give him a little time to supply what
+has been exhausted: Yolks of Eggs, Cock-stones,
+Lobsters, Cray-fish, Periwinkles, Oysters, Beef
+Marrow, Sweet VVine, and Skirrits, are Things 
+you would do well to give him; for they have a
+great deal of Spermatick Virtue. I think, </dialogue><nonSpeech>says
+one of the good VVomen,</nonSpeech><dialogue> you nam'd Skirrits, they
+are the best Things in the VVorld, I can assure you:
+For my Husband is a Seaman, and brought me
+Home some Skirrits, and told me it was what the
+Sweedish VVomen gave their Husbands to make
+them kind, when they perceiv'd their Affections
+were in the VVane: And so we eat the Skirrits
+together; and I really found the good Effects of
+them; for my Husband would needs have me up
+into the Chamber after Dinner; and to tell you the
+truth, he never pleas'd me better in his Life: So
+that I thought I could not do a better thing than
+persuade him to go into <font>Sweedland</font> again, and to
+bring some more Skirrits with him. You have
+interrupted me, Mistress, </dialogue><nonSpeech>said she that spoke
+<pagebreak id="89" />
+before;</nonSpeech><dialogue> but I like what you said; tho' I am going to
+tell ye, That the Kidneys of a little Crocodile 
+dry'd, and beaten to Powder, and about half an
+Ounce of it drank in a Glass of Alicant, will make
+your Husband so kind, that you need not doubt 
+of the good Effect of his Embraces. I suppose you
+are not ignorant of the Virtue of Eringoes: It is
+one of the choicest Things the Confectioners make,
+unless it be a Satyrion Root; which if they knew
+the use of, they would candy greater quantities
+than they do. Ay, so they would, </dialogue><nonSpeech>cry'd another;</nonSpeech><dialogue>
+and there be your Cantharides too. Have a care
+there, Neighbour, </dialogue><nonSpeech>says the former;</nonSpeech><dialogue> Cantharides
+must not be made too bold with: They are
+dangerous Things, and must be us'd with Judgment.
+Give me leave to tell you a true Story, 
+Neighbours: A young married VVoman that shall be
+nameless at present, not being got with Child so
+soon as she desir'd, repair'd to an Apothecary she
+knew, and ask'd if there was no Drug in his Shop
+would invigorate her Husband to get her with
+Child? The Apothecary told her, he had a
+Powder, which if given her Husband in a little Broth,
+would make him as Lusty as <font>Hercules</font> . The
+VVoman desir'd, and had the Dose, paying what he
+ask'd for it. And giving it according to
+Directions, found the Operation to her own Content. 
+<comment type="compiler">THIS WOMAN'S SPEECH CONTINUES: A FURTHER EXCERPT INCLUDED 
+IN SAMPLE 5.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="93" />
+<comment type="compiler">WOMAN'S LONG SPEECH CONCLUDES BELOW:</comment>
+<omission type="line" /> </dialogue><nonSpeech>So
+finding a fit Opportunity, she one Day opens the
+Matter to him thus:</nonSpeech><dialogue> My Dear, we have made a
+shift to get an Estate, but have neither Child nor
+Chick to leave it to. The Fault of that does not lie
+at my Door, says my Friend; I have done enough
+to get one. That is the Thing in Question, said his 
+Wife, and therefore I would fain have try'd it. Try'd,
+quo' he, we have try'd it oft enough, I think
+already; and I know no other Way to try it than
+we have done. Why, I will tell ye Husband, quo'
+she, I have a Crotchet in my Pate. Ay, ay, says
+my Friend, I do not question but you have Crotchets
+enow in your Pate, but that wont all make a
+Child. Ay but, says she, the Way that I will
+propound, is the Way to have a Child, either of yours
+or mine. Say you so, says my Friend; prithee,
+Dear, tell me what Way is that? But then you
+must agree to it, says the Wife, I'll agree to any 
+thing, quoth he, so that I may but have a Child of
+my own: Why then Husband 'tis this, says she:
+Do you chuse a young Maid for your
+Companion, and I'll chuse out a young Man for mine: And
+so let us make a fair Tryal: If you get the Maid
+with Child, then the Fault is mine; but if the Man
+gets me with Child, then the Fault is yours.
+This is an extraordinary Contrivance, and much
+to the Purpose, says the Husband, and I very 
+readily agree to it: And because I'll make as little
+Noise on it as can be, says he, I'll even take our
+Maid, for she is a good cleanly little Girl, and
+one that looks as if she could do Business. I like
+your Choice very well, said the Wife; and
+<pagebreak id="94" />
+because I'd make as little Noise as you; I'll e'en make
+Choice of our Journey-man, and then the Thing
+will be all done among ourselves. And all Parties
+being agreed, by his Tryal of Skill it was soon
+known where the Fault lay; the poor
+Journey-man labour'd in vain; all his Seed was lost upon
+that barren Soil on which he cast it. But it far'd 
+otherwise with the Husband, for he so well 
+cultivated the Ground that he broke up, that the
+Unmarried Maid was in three Quarters of a Year
+Metamorphos'd to a Mother, and brought her
+Master a brave Boy to Town, which brought I
+know not how much Joy to the whole Family.
+'Tis true, the Neighbours were disgruntled, and
+the Church-warden would have been secur'd that
+the Bantling should be no Charge to the Parish:
+But the good Wife readily answer'd, There was
+no need of that, for she would bring up the Child for
+her own. And was there not a great deal of
+Pleasure now in all this Contrivance? The good
+Wife had the Pleasure of her Man, and the 
+Husband of his Maid: The Child was of the Master's
+own getting, and the Maid gave it freely to her
+Mistress; the Mistress accepted the Gift, and the
+Maid was ready for another Tryal, if her Mistress
+was not satisfied with that.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="102" />
+<omission type="line" /> <nonSpeech>Now Women have always an
+Ambition to equal one another:</nonSpeech><dialogue> And therefore, </dialogue><nonSpeech>quoth the
+Wife's Mother to her Son-in-law,</nonSpeech><dialogue> I should be sorry that
+any Daughter of mine should lye in like a Porter's Wife:
+You had a good Portion with my Daughter: I am sure
+much more than Mr. <font>Little Corn</font> had with his Wife; and
+yet, I will assure you she lay-in the other Day, and had all
+Things very decent about her. And I can tell you it
+will be much for your Credit, if you take care that my
+Daughter be rather above her than below her, for great
+notice will be taken of it. And now is the time to shew
+yourself like a Father, as you have done already like a
+Husband. </dialogue><nonSpeech>And is it not a Pleasure for a Man to be
+convinc'd by such Arguments as these? For look you, do you
+see, when a Wife's Mother speaks to the Husband about
+the Daughter, it is all Gravity, and the Arguments are
+unanswerable. And indeed, what can the Son say to
+his? The best Answer is,</nonSpeech><dialogue> Mother, You know I know
+<pagebreak id="103" />
+nothing of these Matters, and therefore must refer them
+to your better Judgment, and more prudent 
+Management. But, Mother, pray be as frugal as you can. 
+Frugal! </dialogue><nonSpeech>Replies the Mother in a great Pet;</nonSpeech><dialogue> pray when
+did you ever know me otherwise? Nay, </dialogue><nonSpeech>says the Son,</nonSpeech><dialogue>
+I do not speak of that Mother -- but -- But me no Buts,
+</dialogue><nonSpeech>quoth the Mother;</nonSpeech><dialogue> for I thought you had a better Opinion
+of me: I am sure you have reason to have it, for I have
+sav'd you above 40 <font>l.</font> by these two Suits of Child
+bed-Linnen I have already presented your Wife with; two
+such Suits as the best Alderman's Wife in the Parish need
+not be asham'd of. I take it a miss you should But me
+with these Buts; for I think I have done a Mother's
+Part. </dialogue><nonSpeech>This sharp Repartee of the Mother, makes the
+Son pull in his Horns, with a,</nonSpeech><dialogue> Pray Mother, do what you
+think fit: </dialogue><nonSpeech>For the young Man finds he may as well But
+against the City Walls; as But against the Wife's Mother;
+for it is a sure Rule, the Mother and the daughter are
+always of a side. But those are but easie Things, all this 
+is still a Pleasure; and so cannot be call'd a discomfort of
+Matrimony. The young Man is willing to comply, tho'
+he is willing to save his Money, and so there is another
+way to fetch him finely over the Coals. Suppose we him
+therefore in Bed with his big-bellied Wife; and after some
+private Favours granted, thus he begins to come over
+him:</nonSpeech><dialogue> Lack-a-day, my dear, could I but have guess'd
+what Charges Matrimony brings along with it, I believe
+I should never have Marryed. Why, what Charges now,
+my dear? </dialogue><nonSpeech>Cries the kind Husband,</nonSpeech><dialogue> Alack, alack, my
+Mother tells me of so many Things I shall want, that it
+even distracts me. Prithee, what Things are those, </dialogue><nonSpeech>cries
+he?</nonSpeech><dialogue> Why she tells me I must have a new Bed. Well, 
+</dialogue><nonSpeech>says the good natur'd Fool,</nonSpeech><dialogue> do not let that trouble thee.
+I know of a lovely damask Bed to be sold at Second
+Hand; and I fancy I can have it very reasonable: I am
+sure for less than half what it cost. How, </dialogue><nonSpeech>says the Wife,</nonSpeech><dialogue>
+a Second hand Bed: Foh upon it: After I know not who
+has lain in it, and with I know not what distempers: I'll
+be poyson'd with no Second-hand Bed. Well, well,
+<pagebreak id="104" />
+</dialogue><nonSpeech>cries the Husband,</nonSpeech><dialogue> then thee shalt have a new One. </dialogue><nonSpeech>And
+is not this a Pleasure now for a Man to find that nothing
+will please his Wife but the best? Here is nothing like
+any Disturbance, but all as calm and smooth as Cream in a
+Milk-bowl.</nonSpeech>
+   <nonSpeech>But in the Morning the Mother comes again:</nonSpeech><dialogue> Well,
+Son, </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> you advis'd me Yesterday to be as frugal
+as I could; and I have been studying all this Night long to
+save Charges; but after all, I find you must be at the
+Expence of a new Bed. 'Tis the first time, and it will
+be for your Reputation to have all Things New. But
+whether it had best be a Damask, or a find Cloath Bed,
+that is what I know not how to resolve on. But which
+soever it be, for the first Fortnight it must be all
+Callicut both within and without; and therefore that must
+be had in the first Place. How much do you think will
+serve, Mother, </dialogue><nonSpeech>cries the Son?</nonSpeech><dialogue> About as much as will
+reach the length of a Mile; for you must consider, there
+must be Chairs, and Stools, and Cushion correspondent,
+and that is a Thing that you must have regard to. For I
+will tell you, A Parson came once to pray with a poor 
+Woman that was just recommending her Soul to Heaven,
+and because the poor Woman had never a Cushion for
+him to kneel upon, he even left her to make what shift
+she could for herself; for without she'd had a Cushion
+he would pray none with her. And do you think that our
+Parson that has above 300 <font>l.</font> a Year, and rustles in the
+best Silks he can buy, will christen your Child without
+an extraordinary Cushion. And then there must be
+(for you know these are Things that cannot be avoided)
+a Crimson Sattin Mantle, with a Gold and Silver Lace as
+broad as -- I wont tell you how broad, but your Wife
+may -- For that is the Rule we go by: So that when the
+Gossips see the Breadth of the Lace upon the Mantle,
+they readily guess at something else. So that it will
+advance your Reputation to have a broad Lace on your
+Child's Mantle: I shall not need to explain myself
+further, for Word to the Wise is enough. But, 
+good-lack-a-day what have I forgot? You must have a
+<pagebreak id="105" />
+Cupboard of Plate, whatever comes on it: And if the
+Warming Pan were of the same Mettal, it would be much more
+genteel; and rather than you should be without it, I would
+give 40 <font>s.</font> towards it myself. There ought also for the
+Day in which the Child is made a Christian, to be a large
+pair of fine <font>Holland</font> Sheets, with deep <font>Flanders</font> Lace, or if
+it were fine <font>Honiton-Lace</font> , I believe that may do very
+well; for I would not have you be extravagant neither,
+nor would I put you to any more Charge than needs
+must ---- And tho' these Charges may seem great, yet you
+must consider it is but for once in your whole Life: For
+as soon as the Month is out, they are laid up in Lavender
+till the next Occasion, unless (as Fashions alter) you
+think fit to make any Change. <comment type="compiler">NO ITALICS FOR Lace IN               
+Honiton-Lace IN SOURCE TEXT ABOVE.</comment> I confess, every time
+there must be a new Gown at the first going of your
+Wife abroad: For every time she is a new Woman, and it is
+but Reason that a new Woman should have new Cloaths.
+I think also it is best to put you in mind (tho' that it is
+what you cannot be Ignorant of) that there must be care
+taken for Belly-Cheer, whatever be wanting; and
+therefore you must provide fine Sugar, not only for your
+Wife's <comment type="compiler">SOURCE TEXT: Wfe's</comment> use, but for the Nurse to steal: (for  
+whether you
+allow it or not, they will do it.) Sack and old Malaga
+must also be taken care of, for your Wife's and your
+Nurse's Mornings Droughts; for the Nurse will be sure
+to come in for her Snack, in all such Cases. And for
+your general Entertainments, they ought to bear some
+Proportion to the Decorations of your Wife's Chamber.
+And at the Christening, let there be plenty of 
+Neats-Tongues and <font>Westphalia-Hams</font> ; and for Oranges,
+Lemons, and Plumb-cakes, let them be pil'd up
+Mountain-high; and the <font>French</font> and <font>Spanish</font> Judges run in such
+Plenty, that the whole Parish, shall I say, or Ward rather,
+may ring of your Generosity. <comment type="compiler">NO ITALICS FOR Hams IN SOURCE TEXT.</comment>
+<comment type="compiler">MOTHER-IN-LAW'S SPEECH CONTINUES...</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="108" />
+   <nonSpeech>But see how fast fresh Pleasures crowd upon him: The
+Woman is safe a Bed, the Child is dress'd, and he has
+newly had an Invitation to come into the Chamber;
+where he is no sooner come, but he is entertained with
+the harmonious Charms of Gossips Tongues, all
+chatting over the new-born Babe, and crying out,</nonSpeech><dialogue> <font>Father's
+own Child, I'll warrant him, as like as if it were spit out of
+his Mother; the very Nose, the Eyes, the Chin, were all so
+like, that nothing can be liker</font> : <omission type="sentence" />
+<pagebreak id="109" />
+<comment type="compiler">THE CHILD'S BIRTH MAKES THE FATHER FORGET HIS FATIGUE 
+AND HE ORGANISES A MEAL TO THANK ALL WHO HELPED HIS WIFE.</comment>
+   </dialogue><nonSpeech>Ay, but the Women talk a little merrily over their Cups
+to the young Man: And pray what if they do? They
+know he is not ignorant of what a Woman is, and they are
+<pagebreak id="110" />
+all married Folks. Besides, it is a Pleasure for a Man to
+hear himself commended for the Vigour of his Natural
+Parts, although perhaps a little smuttily.</nonSpeech><dialogue> Come, </dialogue><nonSpeech>says the
+Midwife,</nonSpeech><dialogue> I have heard say, that beyond Sea there has been
+Laws, that if a Woman found her Husband Importent,
+she might make Choice of the most likely that was next 
+of Kin: But thanks be praised, there is no need of that
+in this good Family. Here, Son, go on and prosper: In
+Nine Months time I hope the same Occasion will present
+again: I love to see a Man that does his Work within
+the Year. I thank you, Mother, </dialogue><nonSpeech>says the new Father,</nonSpeech><dialogue>
+you do well to encourage a young Gamester: You would
+have me to be a good Customer to your Trade: But
+where is your kindness all this while to your Son? How
+do you mean, </dialogue><nonSpeech>says Mother Midnight?</nonSpeech><dialogue> <font>Why</font> , </dialogue><nonSpeech>says he,</nonSpeech><dialogue> you
+tell us of Laws made in Kindness to the Women, but is
+there never a Law made for the Men, that the Midwife,
+or the Nurse might supply the VVife's Place during the
+Gander-Month? Uds-bodkins, </dialogue><nonSpeech>says one of the
+Company.</nonSpeech><dialogue> I do not like that, for then we should have all young
+midwives and young Nurses; and what should we poor
+VVomen do with such unexperienced Persons? <font>Why,
+then Madam</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> what if the Law were made thus,
+<font>That the Wives of those Husbands who could not get them
+with Child, should come to us Try'd Men, during this
+Vacation from our own Wives, to see what we could
+do</font> ? Truly there is something in that, </dialogue><nonSpeech>replied the
+Gentlewoman.</nonSpeech><dialogue> But why should VVomen be forc'd? There is
+Reason in what you say, but I would have every VVoman left
+so far free, that she should either accept or refuse, at
+her own Pleasure: For Charity is one thing, and
+VVantonness another. </dialogue><nonSpeech>And therefore, I think that
+Gentlewoman was in the right, who having been kind to her
+Neighbour, while his VVife was in the Straw, refus'd
+him, when he came to request the same Kindness when
+his VVife was up, and well again:</nonSpeech><dialogue> <font>What</font> , </dialogue><nonSpeech>said she,</nonSpeech><dialogue> did
+you take me for a VVhore?
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="115" />
+   <nonSpeech>One Woman wants to be satisfied about the best time
+for a Man's Caressing of his Wife, whether it be day or
+night, and what part of it either? Now where can this
+Question be put for a Satisfactory Answer, so properly
+as amongst those that have made Trial of all Times, and
+so are best qualified for determining the Case. And
+therefore the Question being fairly started, that there are,
+or ought to be, certain Set times allow'd for that 
+matter; which were the most proper Seasons? To this, one
+gave her Judgment for four or five Hours after
+dinner; and another four or five Hours after Supper: For
+then the Body was neither too full, nor too empty,
+<pagebreak id="116" />
+either of which are Hindrances to the due 
+Performance; and that in that time the Concoxion of the
+Stomach is in a great measure perfected, the natural Heat
+is refreshed, and the Spirits are invigorated. And tho'
+the Man should be liberal in his Expences, yet there
+would be still a Reserve in Store. Another was of
+Opinion, That Evening-Caresses were most delightsome,
+but those of the Morning more wholsome: Upon which
+a third declared that it was so, she was for the 
+Evening-Caresses for Pleasure, and the Morning Embraces for
+Health: And this last Opinion was generally embraced
+by the whole Company. But the Scruples of the first
+were not yet answered, which was to know what were
+the certain Limits which Nature had set to the
+Frequency of Performance. But here one of the Gossips said,</nonSpeech><dialogue>
+Neighbour, I do not like this Talk of Limits, as if a Man
+were to be stinted in his Duty: For my Part, I never
+stint my Husband in this Case; let him e'en do it as
+often as he pleases, he shall never be stinted for me: I'll
+never do, as I have read a Woman did in <font>Portugal</font> , who
+complained to the King of her Husband's being too kind
+to her, and desir'd the King to stint him, as to the
+Frequency of his Love. How, </dialogue><nonSpeech>says another,</nonSpeech><dialogue> that Woman
+was a Fool, and so was the Man too, to be stinted by
+him. I think so truly, </dialogue><nonSpeech>replied another:</nonSpeech><dialogue> I am sure he
+should never have stinted my Husband, had he been the
+best King in <font>Christendom</font> : 'Tis an Infringement of the
+Liberty of the Subject: Stinted! Udsbodkins, I would
+fain know what Authority any King has to stint my
+Husband ----- </dialogue><nonSpeech>At this, finding the Woman to grow into
+a Passion, they all fell a-laughing; and after the Cup
+was pass'd about, they call'd a new Cause, and that was
+about the Duty of Husbands:</nonSpeech><dialogue> For my Part, </dialogue><nonSpeech>says one,</nonSpeech><dialogue>
+I think it is but our Husbands Duty to be Subservient to
+our Wills, and it is our own Faults if they are not; for
+seeing it is we that bear, it is but fit that they should 
+suffer: We treat them at first as our Equals, and then their
+Ambition soon promps them to become our Masters; but
+let us keep them under at first, and they will be always so. I
+<pagebreak id="117" />
+had one Occasion to go to a Gossipping, as this is, and
+I ordered my Husband to come and fetch me Home at
+such an Hour, but he never came; but he had better
+have come: For I made him Court me a whole Week
+afterwards, before I'd let him come to Bed to me. Nay,
+if my Mind has not been well, I have made him rise many
+a Time in a frosty Morning, to kindle me a Fire in my
+Chamber. But suppose, </dialogue><nonSpeech>said another Gossip,</nonSpeech><dialogue> he had
+been refractory, and would not have done this? Why
+then, </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> I would have kick'd out of Bed; he should
+not have laid foisting by me, while I wanted to have
+any thing done. You are happy, Madam, </dialogue><nonSpeech>cries the other;</nonSpeech><dialogue>
+I wish I could follow your Example: But, alas, my
+Husband comes in roaring and ranting a Nights, as if he had
+pull the House down; and if I do but speak the least
+Word to contradict him, then he falls foul upon the
+great Looking-glass in the Dining-room; and then I fall
+a crying, and am forced to hold my Peace for fear he
+should break something else. If he were my Husband,
+</dialogue><nonSpeech>said the first,</nonSpeech><dialogue> I would soon make him leave off that Trick.
+As how pray, </dialogue><nonSpeech>said the other.</nonSpeech><dialogue> Why I would go to the next
+Shop where I was known, and take as many
+Looking-glasses upon his Score, as would hang round the
+Room. Cuds-bobs, </dialogue><nonSpeech>quoth the Complaniant,</nonSpeech><dialogue> he will send 
+them all Home again, if I do, and what shall I be the
+better for that? O a great deal, says the other, for before 
+he can send them Home again, break them yourself, and
+that will make him weary of breaking Looking-glasses, I
+warrant you. My Neighbour has hit it, </dialogue><nonSpeech>cries another;</nonSpeech><dialogue>
+That is paying him in his own Coin. But now you talk
+of that, </dialogue><nonSpeech> (says One that had been hitherto silent) </nonSpeech><dialogue> what
+shall I do with my Husband, that says he thinks it is his
+Duty to get his Maid with Child? O, </dialogue><nonSpeech>says another
+Termagent,</nonSpeech><dialogue> let your Man get you with Child, and there is a
+<font>Rowland</font> for his <font>Oliver</font> . I will tell you of a strange
+Adventure </dialogue><nonSpeech> (continu'd she) </nonSpeech><dialogue> we have a high Press stands in
+our Garret, where we put such Cloaths as we do not
+usually wear; thither I went the other Day to look for an
+old Petticoat that I had Occasion for, and (would you
+<pagebreak id="118" />
+think it?) there I found the prettiest little moppet of a
+Babe that I ever saw in my Life, fast asleep, and as quiet
+as a Lamb; I presently called up my Maid, and 
+demanded of her whose Child that was? She presently fell
+upon her knees, and asked my Pardon; telling me it was
+hers: Yours, Impudence, said I; Pray who got it?
+My Master, forsooth, quoth she; I could not find in my
+heart to do it any hurt: and have looked to it so 
+carefully ever since it was born, that I am sure you never so
+much as heard it cry; no more I did not truly. And I
+was so taken with the Inginuity and good Nature of my
+maid towards the innocent moppet, that I even sent for
+a Nurse, and put it out at my own Charges. But where
+was the Revenge of all this, </dialogue><nonSpeech>was the general cry of all?</nonSpeech><dialogue> 
+O, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> as that was my Husband's Child, and none
+of mine; so I will take care that the next I have, shall be
+mine, and none of my Husband's. Besides, I read the
+poor Cuckold such a curtain Lecture for it, that I have
+kept his Neck under the Girdle ever since. You are too
+severe, </dialogue><nonSpeech>replies another,</nonSpeech><dialogue> for so small a Crime. For so
+small a Crime do you call it, </dialogue><nonSpeech>said she?</nonSpeech><dialogue> Yes, truly, 
+</dialogue><nonSpeech>answered the other:</nonSpeech><dialogue> For it is as customary in this Age, for
+masters to kiss their Maids, as it is for Children to piss
+a Bed; Nay, there are some that will kiss their Maids
+tho' the Mistress lay a dying. Ay, </dialogue><nonSpeech>says another Gossip,</nonSpeech><dialogue> I
+can tell you a pleasant Story <comment type="compiler">SOURCE TEXT: Sory</comment> about that. Pray 
+what is it,
+</dialogue><nonSpeech>cried they all?</nonSpeech><dialogue> Why then thus it was: There was a
+certain Pewterer that had a very good careful Wife, whom
+he loved very well; but, alas, the good Woman fell very
+sick on a sudden; and her Husband, knowing she was
+not immortal, though verily she had been upon her 
+death-bed; which made him sigh, and sob, and bemoan
+his Loss at such a pitiful Rate as would have grieved any
+one to see it: Insomuch that nothing would serve his
+Turn, but he would even die with her: At last, when
+every one thought the poor Woman past Recovery, and
+no Body was in the Chamber but himself and the 
+Chamber-maid, who was of a Rosy Complexion, and
+Beautiful enough, he called the poor harmless Girl to him
+<pagebreak id="119" />
+<comment type="compiler">SOURCE TEXT GIVES PAGE NUMBER 119 AS NUMBER 199</comment>
+(for she was hardly twenty Years of Age) and he spoke her
+thus, as well as Grief would give him leave: O <font>Betty</font> ,
+I see thy Mistress draws near her End, and I am even
+resolv'd to die with her; and therefore, here take the
+Keys, for I recommend my House and Children, and
+what I have to thy Care. The poor Thing was so touch'd
+with her Master's Compassion to her Mistress, that she
+gave him the most comfortable Words she could, 
+desiring him to <font>lay aside all such despairing Thoughts, for he
+might still live to take care of his Children himself</font> ; and
+that he had the more need, if her Mistress did die, to
+take care of himself upon that Account. O <font>Betty</font> , cry'd
+he, there is but one Thing can recover me, and that is
+the hopes that thou wilt be kind to me; and thereupon
+flings her upon the Bed, and falls a Kissing her, and
+feeling her Bubbies, and would have proceeded farther, if
+the Maid had not struggled with him: All which being
+beheld by the Sick Wife, who had not spoken in three
+days before, it put her into such a Rage, that she
+recovered her Speech again first, and then her Health, and
+lived many Years after, to upbraid the Hypocrisie and
+Falseness of her Husband.
+   It was very well done of her indeed, </dialogue><nonSpeech>cry'd they all?</nonSpeech><dialogue> 
+For the Man was a little too Hasty: But now you talk
+of Maids, </dialogue><nonSpeech>says one of the Company,</nonSpeech><dialogue> I will tell you a good
+Story of a Man that served me, and lived with me three
+or four Years after I was Married: She was a good
+handsome Girl, as well as an honest Girl: And my Husband,
+you must know, had such a Mind to be doing with her,
+that when I was out of the way, he'd never let her be in
+quiet, which the Maid always gave me an Account of.
+But at length, the Wench being quite tired with his
+Solicitations, was resolved to put a Trick upon him, and
+be rid of him for ever; and thus it was: I being at a
+Neighbour's hard by, which my Husband knew nothing
+of, but thinking I had been further off, and safe enough,
+he goes to the Wench, who was sifting of Flower in the 
+Pastry to make a Lamb-Pasty of, and had a Straw Hat on
+her Head, and a Night Rail about her Shoulders, and
+<pagebreak id="120" />
+coming to her, was very hot in his Courtship, urging the 
+Convenience of such an Opportunity, which was not to
+be slipt: The Maid seems to comply; but being willing 
+to be secure, desires him to keep the Boulter going
+while she went out upon the Scout, to see all Things were 
+safe; and so gave him the Straw Hat and Night Rail to put
+on till she came again; my Husband readily consented;
+but now what does this Wench do, but comes running to
+tell me what Business she left him employ'd in: Away
+comes I, as fast as I could, to give my new Pastry-Maid a
+Visit: But never did I see poor Creature so strangely 
+bedizen'd, as he was with the Flower, the Night-Rail, and the
+Straw Hat: Honest Wench, said I to him, what shall I
+give you a Year to live with me, for I believe you may
+make a very good Servant? But when my Husband heard
+my Voice, he then found himself betray'd; which made
+him look as if he could not help it; but he never stay'd to
+make a reply; but flinging off the Straw Hat, and taking
+off the Night-Rail, away runs he out at the Back-door, as
+if Nick had been at his Tail. Marry, and so I think he
+was, </dialogue><nonSpeech>says another,</nonSpeech><dialogue> when you were so near him; </dialogue><nonSpeech>at which
+they all broke out into a loud Laughter.</nonSpeech><dialogue> -- Well, </dialogue><nonSpeech>says
+another Gossip,</nonSpeech><dialogue> I will tell you a Story of a young Gamester
+that was kind to his Maid; and one Morning very early,
+for want of a better Opportunity, he carried her into the
+Grass-plat in the Garden, and laying her down gently, did
+what he should not a done with her, but perceiving one
+of his Neighbours had seen him, soon after has done his
+Wife into the same Place, and there serves her as he had
+serv'd the Maid: Within a Day or two after, came the
+good Woman that had seen him at it with his Maid, and
+tells her what she had seen her Husband do to his Maid.
+My Maid! Neighbour, says the good Woman, you are
+mistaken, it was myself. Why, said the Neighbour, (who
+was sure of what she saw) do you think I do not know you
+from your Maid? I tell you it was your Maid: And I am
+sure, reply'd the other, I know the Matter better than you
+do, and I tell you it was myself: Nor could her Neighbour
+after all persuade her to the contrary.
+<pagebreak id="121" />
+   </dialogue><nonSpeech>And now they proceed to other Causes, and if they
+know any Ill of their Neighbours, besure now they will
+declare it. Nay, I say that of them, they are
+impartial too, for if they should chance to hear any Good they
+do (for every Age produces some Miracles) they will speak
+of that too:</nonSpeech><dialogue> Neighbour, </dialogue><nonSpeech>says one of them to another,</nonSpeech><dialogue> I
+heard such a One was forced to submit to a Search
+the other Day in the Court of Arches, upon her Husband's
+Complaint. Uds-niggers-noggers, but did she? Pray
+what was the Issue? O, </dialogue><nonSpeech>said the other,</nonSpeech><dialogue> she came off
+with flying Colours. As how, I pray? Why the
+Midwife that gave in the Verdict, brought it in, That she
+was in as good a Condition <comment type="compiler">SOURCE TEXT: Conditition</comment> as she was,  
+and had
+sufficient to serve any four Men in <font>England</font> . Why then
+Neighbour, sure her Husband might be satisfied. </dialogue><nonSpeech>Then
+another whispers her Neighbour in the Ear, (but so loud
+that she might be heard by all the Company) </nonSpeech><dialogue> Gossip,
+did you hear nothing of Mrs. <font>Lightbody</font> ? No, not I, </dialogue><nonSpeech>said
+the other?</nonSpeech><dialogue> Pray what of her? Why they say she was
+brought Home in a Coach the other Night, at past twelve
+a Clock, by three extraordinary <comment type="compiler">SOURCE TEXT: extraordiary</comment>        
+Gallants, and six great
+Candles were called for, to light them up Stairs: And
+there they were entertained with Wine, and I know not
+what, till three a Clock in the Morning: And 
+sometimes Mrs. <font>Lightbody</font> and one of the Sparks with her,
+went into a with-drawing Room, and afterwards
+another, and then the third, and tarried with each of them
+half an Hour at a time all alone. Why, you do not say so, 
+</dialogue><nonSpeech>says her Gossip.</nonSpeech><dialogue> Yes, but I do, </dialogue><nonSpeech>says she,</nonSpeech><dialogue> and could make
+it out too; but I will not say all I know; for the Thing
+was told to me as a Secret, and I do not care to be a Blab
+of my Tongue. Why, methinks One might have served
+her Turn, </dialogue><nonSpeech>said the other.</nonSpeech><dialogue> I think so too, Neighbour: It
+is as much as an honest Woman can dispence withal, at
+least if her Husband's be like mine. You say well for
+tha`t, says the other; but some Women are never 
+satisfied. I pity the poor Man her Husband; </dialogue><nonSpeech>and then shakes
+her Head, as tho' she would shake the Teeth out of her 
+Mouth:</nonSpeech><dialogue> Well, Neighbour, these are ill Things.
+<pagebreak id="122" />
+   </dialogue><nonSpeech>And thus sometimes Drinking, and sometime Chatting,
+they spent their Time, till their Husbands were come to
+attend them Home. And now the young Father (who was
+loth to disturb them before, that they might Chat the more
+freely together) enters the Room, attended by all their
+Husbands; who are resolved to have their Turn of 
+Talking as well as the Women:</nonSpeech><dialogue> Pray, my Dear, </dialogue><nonSpeech>cries one of
+them,</nonSpeech><dialogue> take notice of this Youngster: I intend to get you
+such another before to Morrow Morning. Stay and hold,
+</dialogue><nonSpeech>says his Wife:</nonSpeech><dialogue> But I will not tye you up to such hard
+Meat; I will give you a Week's Time, and do the Best you
+can; and yet I am afraid you will come short of my
+Neighbour. </dialogue><nonSpeech>And is not this a Pleasure for the young Father, to
+hear his Workmanship commanded thus?</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="124" />
+<omission type="line" /> <nonSpeech>There are
+some Men indeed in the World that do not care to have
+their Children (almost as soon as born) in gaudy Silk,
+<pagebreak id="125" />
+Lac'd Coats, and all other Matters correspondent; but
+their Wives have an Answer ready cut and dry'd for them,
+which is,</nonSpeech><dialogue> Is it finer than my Neighbour <font>Allfine's</font> Child?
+Nor so fine neither, I am sure: And I am sure we may
+afford it as well as she: </dialogue><nonSpeech>And this Answer stops the 
+Husband's Mouth presently. And yet he is not so well
+satisfy'd, but that he shakes his Head, saying,</nonSpeech><dialogue> My Dear, the
+<font>Lacedemonians</font> were a frugal Nation, and never used to
+dress up their little Ones in so gay a Manner. </dialogue><nonSpeech>This makes
+the Wife angry, and therefore she returns,</nonSpeech><dialogue> Fart for the
+<font>Lacedemonians</font> , and their Frugality too; What do you tell
+me of the <font>Lacedemonians </font> ? Sure I know how to dress my
+Children as well as the <font>Lacedemonians</font> ; and I tell ye, I
+had as live have no Children, as not to see them go fine.
+   </dialogue><nonSpeech>This may perhaps look a little rough; but by-and by
+comes the God-mother, who having heard the Child is
+to be Coated, brings in a gilt Coral, a Silver Spoon and
+Poringer, and a new Tankard of the same Metal, with
+a Train of half a score Gossips, and by-and-by such
+another parcel, and as many more after them, till at last the
+House be as full as the late Gossip's Feast. Why, here is
+a new Trouble all of a sudden: And yet it cannot be
+avoided neither; for the Odd-Mother will expect to be
+treated, and handsomely too, for she deserves it; marry,
+she should be treated every Day in the Week upon the 
+same Terms. And as for the Provision, they that live
+at <font>London</font> never want a Market. Then the Husband
+beckons to his Wife.</nonSpeech><dialogue> -- Hark ye, do you hear? Why here is the
+whole Tribe of <font>Gad</font> come in upon us: What, more Treats
+yet? Yet, ah yes, and yet too, if I please: And what
+of all that: they are your Friends as well as mine, be not
+they? Come, prithee, do not stand, shall I, shall I; but
+make hast to Market, and buy that which is good,
+and send it Home quickly, for it is near Twelve a Clock,
+and then, what Time will Dinner be ready?
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

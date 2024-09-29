@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOPOET">
+  <dialogueHeader>
+
+    <filename>D3HOPOET</filename>
+
+    <identifier>3 HANDB OTH D3HOPOET</identifier>
+
+    <title>TEMPORIZING POETS</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1641</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE DOVVNEFALL OF TEMPORIZING POETS, UNLICENST PRINTERS, UPSTART
+BOOKSELLERS, TROTTING MERCURIES, AND BAWLING HAWKERS. 
+BEING A VERY PLEASANT DIALOGUE BETWEEN LIGHT-FOOT THE MERCURY, AND 
+SUCK-BOTTLE THE HAWKER, RED-NOSE THE POET BEING MODERATOR BETWEEN 
+THEM; THE CORRUPTIONS OF ALL WHICH BY THEIR CONFERENCE IS PLAINLY 
+DESCRIBED.
+PRINTED MERRILY, AND MAY BE READ UNHAPPILY, BETWIXT HAWKE AND BUSSARD.
+(LONDON)
+1641.
+PP. 1.1 - 5.29
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="1" />
+ <head>THE DOWNEFALL OF TEMPORISING POETS, 
+PRINTERS, BOOKE-SELLERS, TROTTING MERCURIES, AND 
+BAWLING HAWKERS: EXPRESSED IN A DIALOGUE, BETWEEN 
+LIGHTFOOT THE MERCURY, AND SUCK-BOTTLE THE 
+HAWKER: RED-NOSE THE POET 
+BEING MODERATOR.</head> 
+   <nonSpeech> <font>Light-foot.</font> </nonSpeech><dialogue> How now <font>Suck-bottle</font> , how goes the world
+with you? me-thinkes you are growne
+very wist of late, thy cheekes looke as
+thin as a Shrove-tuesday pan-cake; surely thou hast oft the
+priviledge of the Ale-tap, or will mother <font>Nip</font> at the bunch
+of Grapes score no longer? Tell me the cause of thy
+dejected countenance.
+   </dialogue><nonSpeech> <font>Suck-bottle.</font> </nonSpeech><dialogue> A pox on you <font>Lightfoot</font> , if it had     
+not beene
+for you I might have beene now merry and frolicke, with
+my pipe and my pot; but now alas the case is altered: the
+Fidlers go a begging.
+   </dialogue><nonSpeech> <font>Lightf.</font> </nonSpeech><dialogue> Sirrah <font>Suck-bottle</font> , doe not you lay the    
+cause of
+your downfull upon me, for if it had not beene for your
+tearing throat, my basket with papers would have filld my
+<pagebreak id="2" />
+purse with crownes; whereas now I could scarce get money
+enough to buy shooes to trot from the Exchange to
+Westminster, and from Westminster to the Old Bayly, from
+the Old Bayly to Pauls Church-yard, and from thence to
+Westminster againe: it is well known to the whole world,
+that what we got wee tooke paines for, like true Adamites
+we got our living by the sweat of our browes.
+   </dialogue><nonSpeech> <font>Suck-B.</font> </nonSpeech><dialogue> You were true Adamites indeed; for some of
+you had scarce cloathes enow to cover your nakednesse; it
+was better sport than to see a Beare-bayting, to heare a
+male and female Mercury scolding together. I once                    
+<comment type="compiler">SOURCE TEXT: oncc</comment> going
+in Smithfield, one calld rogue, the other whore; one
+comming by wisht the Divell to take them both: the woman
+with her tippet standing up, her tongue being almost
+weary with Billingsgate worke, going out of doores, chanced
+to slip, and in stead of a womans smock, shewed a mans
+shirt on her backe. And this is the gentility of your
+worshipfull <font>Mercuries</font> , both male and female: and then to
+make up the matter, you solely endeavored to pull down the
+admirable Corporation, or rather Bacchanalian Society of
+most reverend wandring Stationers.
+   </dialogue><nonSpeech> <font>Lightf.</font> </nonSpeech><dialogue> You may well call your selves wandring
+Stationers, for there was scarce one of you that could say, at such a
+house I will lodge to night: one of you came out of a hedge,
+another out of New-gate, a third out of the New-prison,
+and the fourth not beeing above a moneth out of Bedlam,
+roundly, profoundly, and soundly cries out with a voyce
+made of cannon proofe, <font>Come buy a new Booke, a new Booke,
+newly come forth</font> ; these are the most admirable proprieties
+which belong to your most admired Corporation.
+<pagebreak id="3" />
+   </dialogue><nonSpeech> <font>Suck-b.</font> </nonSpeech><dialogue> <font>Light foot</font> , cease thy rayling,             
+<font>Light foot</font> look
+where <font>How now Mars</font> comes, the Regent Master of all
+Ballad-singers, he who thinkes his Muse came from
+<font>Helicon</font> , when as it is well knowne the first originall of it
+was taken out of a Tan-pit, I say, let this worthy Patron
+of Strangullion Poetry moderate the cause, betwixt us
+two, for why, we are both at variance.
+
+</dialogue><nonSpeech>Enter <font>Poet.</font> </nonSpeech>
+
+   <nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> What is the matter most worthy Gentlemen?
+me thinkes yee should rather deplore one anothers late
+misfortunes, than to deride at each others misery, I
+privately heard all your discourse, which will be a laughter
+to the whole world.
+   You Master <font>Light-foot</font> call Master <font>Suck-bottle</font> Knave,
+and Master <font>Suck-bottle</font> calls you Knave, and as for my
+part, I thinke yee are both Knaves, for why, neither of
+yee both deal honestly, I will shew you a reason for it,
+as for you Mercuries, instead of binding of Bibles you
+have chang'd your Trades to binde one another to that
+you never had, your good behaviours I mean, moreover
+there are amongst you double dealers, for why? you
+have been meer Male and Female, one upon another.
+now for you Gentlemen Hawkers, or rather wandering
+Book-sellers, whose mouthes are like open sepulchres,
+for why? they are alwayes gaping, as for your hands,
+they are open also to take money, when yee can get it,
+yee are beholding to traiters, for had they not been bad,
+you had never took so much good money.
+<pagebreak id="4" />
+But who was the better for it? not your selves I am sure:
+for why, you have spent it all at the Ale-house; and now,
+be it spoken to each one of your comforts, the next time
+you cry books about London, your reward shall be the
+whipping post; for why, there must be nothing sold
+without License.
+   </dialogue><nonSpeech> <font>Light-f.</font> </nonSpeech><dialogue> Master Poet, your tongue runnes before your
+wit, you tell us of our faults, but never looke upon your
+own. I saw the other day a Poet in print, shiting out of the
+Divels breech: you are very religious men, rather than you
+will lose halfe a crowne, you will write against your owne
+Fathers. You will make mens wills before they be sicke,
+and hang them before they are in prison, and cut off heads
+before you know why or wherefore. You have an
+indifferent strong Corporation: 23 of you sufficient writers,
+besides <font>Martin Parker</font> . This alteration notwithstanding hath
+made all your breeches make buttons: two or three of you
+if they had not trusted unto their legges, it is ten to one if
+they had not taken acquaintance with the Gate-house, and
+then have lent the Pillory an eare or two. I thinke Master
+Poet I am even with you.
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> Sawcy <font>Mercury</font> , the arrantest knave of forty, 
+if it
+had not been for us Poets, your wives petticoats had not
+been so laced, nor you blacke cloaked: wee shall have you
+shortly cry a poxe on the Printer, and then go hang your
+selves, and save yong <font>Gregory</font> a labour. There is a zealous
+Brother neere Warwicke lane, will helpe you to make up
+the number finely.
+   </dialogue><nonSpeech> <font>Suck b.</font> </nonSpeech><dialogue> Master Poet, let me desire you to cease, I have
+heard you thus long with patience, let us all three bee
+<pagebreak id="5" />
+friends, and be brothers in adversity I am the oldest
+Hawker amongst two hundred threescore and seventeen honest
+men and true, come, how say you, are we friends?
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> Well spoken <font>Sim Suck-bottle</font> , I were not
+worthy the name of a Poet if I would not condescend to be
+friends, so the band of amity were made in an Ale-house
+or a Taverne.
+   </dialogue><nonSpeech> <font>Light.f.</font> </nonSpeech><dialogue> Have you any money Poet?
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> Money? I wonder when you ever see Poets
+have money two dayes together, I sold a copy last night,
+and have spent the money, and now have another copy to
+sell, but a pox on't, nobody will buy it because it is not
+licenceable, come, I know thou hast money <font>Light foot</font> .
+   </dialogue><nonSpeech> <font>Light-f.</font> </nonSpeech><dialogue> By this light not I.
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> Nor you <font>Suck-bottle</font> ?
+   </dialogue><nonSpeech> <font>Suck-B.</font> </nonSpeech><dialogue> Why I? I was drunke last night, and never a
+new booke being out to day, I am quite broke.
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> Why then here be three broken gentlemen of us.
+   </dialogue><nonSpeech> <font>Light.f.</font> </nonSpeech><dialogue> Thy fall O Poet, makes poor <font>Light foot</font> mad.
+   </dialogue><nonSpeech> <font>Suck.b.</font> </nonSpeech><dialogue> Thy fall O Poet, makes <font>Suck bottle</font> sad.
+   </dialogue><nonSpeech> <font>Poet.</font> </nonSpeech><dialogue> If Mercuries be mad, and Hawkers sad,
+I'me sure no reason I have to be glad.
+Farewell kinde Brothers, 'tis a cursed fate,
+One hour should make five so unfortunate,
+Poet, Book-seller, Mercury, Hawker,
+And Printer, which but lately was a talker,
+How much he got, but fortune late hath frown'd,
+All five are falne, all five do kisse the ground.
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

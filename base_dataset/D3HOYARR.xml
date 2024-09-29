@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOYARR">
+  <dialogueHeader>
+
+    <filename>D3HOYARR</filename>
+
+    <identifier>3 HANDB OTH D3HOYARR</identifier>
+
+    <title>COFFEE-HOUSE</title>
+
+    <author>YARRANTON ANDREW</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1679</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">YARRANTON, ANDREW.</attribution>
+      <frontMatter>A COFFEE-HOUSE DIALOGUE: OR A DISCOURSE BETWEEN CAPTAIN Y---- 
+AND A YOUNG BARRESTER OF THE MIDDLE-TEMPLE; WITH SOME REFLECTIONS UPON 
+THE BILL AGAINST THE D. OF Y.
+(LONDON.
+1679)
+PP. 1.9 - 4.15
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">NO TITLE PAGE: TITLE TAKEN FROM HEADING ON PAGE 1.</comment>
+
+<pagebreak id="1" />
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> A Young Lawyer come amongst us! perhaps you may   
+learn something; I have
+been telling these young Gentlemen you see with me by what means I
+could make this Kingdom the most Flourishing Kingdom in the whole
+World.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I am sorry <comment type="compiler">SOURCE TEXT: sotry</comment> I am come to late  
+to hear how so good an Effect might be so easily wrought.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Nay Sir, you are not come too late, for I can      
+(without any weariness) sit here to tell
+it all day long, I so greatly desire the Publick Good. In short Sir, 
+what I have been saying is
+this; I can plainly demonstrate how we may beat the <font>Dutch</font>        
+without fighting, pay Debts
+without Money, make all the Streets in <font>London</font> Navigable Rivers,  
+harbour all the King's Great
+Ships upon the top of an Hill, where they shall be secured from Wind 
+and Weather, and from
+an hundred other Accidents they are else obnoxious to. All or most   
+of this you may see
+printed in a Book of mine, which I know you Lawyers are against,     
+because it likewise
+maintains a Register, which spoils your Trade; but to be Friends     
+with you, though I have undone
+you in the First Part, I have a Second Part waiting at the Press,    
+that will maintain you all
+sumptuously, if there were ten times as many more as there are; what 
+say you to all this
+young Lawyer, Ha?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I say you have out stripp'd all the Poets that ever  
+wrote and that 'tis pity the King
+and Council should have no more regard to your Person and            
+Discourses, than wise man have
+for <font>Mountebanks</font> .
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Sir the Reason's plain why they mind the           
+Improvement of the Nation no more;
+heark you, the Great ones have another sort of Game to play; -- no   
+more of that --
+you understand me.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Not I, I profess; I cannot be reconcil'd to half a   
+Sentence join'd with a little
+push, a wink, a nod, a smile, or a Finger held up to the Nose; I     
+have hated those sort of
+tricks, ever since I've read my Lord <font>Bacon's Essays</font> , where,     
+under the Title of seeming wise
+(he saith) such persons help themselves with Countenance and         
+Gesture, and are wise by signs,
+and when they know within themselves, they speak of that they do not 
+well know, would
+nevertheless seem to others to know of that which they may not well  
+speak. Therefore Sir, if
+you would do any good upon me, you must speak, and not leave me to   
+conjecture what you
+can say.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Psha! I see you do not know the World: pray read   
+this Paper.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> A Club to consist of threescore Lords and Gentlemen  
+<comment type="compiler">SOURCE TEXT: Genletmen</comment> . <font> <foreign>Imprimis</foreign> </font> , They shall be      
+called <font>the 
+Improvers of</font> England. <font>Item</font> , They shall meet twice in the      
+week. <font>Item</font> . They shall have
+provided for them a pennyworth of Cheese, Bread, Beer and Mustard. A 
+brave Treat for Lords
+<pagebreak id="2" />
+I confess! I'le read no more, unless you tell me how this Paper is   
+pertinent to our former
+Discourse.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> This is to satisfie you, that I am not only one    
+that seem wise; for I was Chair-man
+of the Club, and I tell you, there were some there under my          
+Instructions, would have
+baffled all the Coife; therefore whate're you may think on me, you    
+see some Ingenious
+Gentlemen have thought me fit to be their Instructor.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> That any Ingenious man desired you to be Chair-man,  
+is more than I know, or ever heard
+on before; But pray Sir no more of that! Tell me what you mean by    
+saying <font>The Great Ones
+have another Game to play</font> .
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> You will understand it too soon, I am sure I       
+foresaw what's now coming upon us,
+before you was born. -- We are a lost People -- a lost People! An    
+undone Nation, An 
+undone Nation!
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Still more Riddles! Good Captain what's the matter?  
+What's the City on Fire at one
+end, and are they cutting Throats at the other?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> You may sport at these things, you are but a young 
+man, and cannot see so far as I
+do: that Priest yonder, can tell you, 'twill not be long before you  
+must burn, unless you are
+resolved (as he is) to turn.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Do you know that Gentleman?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> No, I never saw the man before.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> How can you pretend to be acquainted with his        
+Resolves?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> What do you talk of pretend? pray who does not     
+know that all the Clergy of the
+Church of <font>England</font> (as you phrase it) are a Pack of -- I know what?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> What do you mean by <font>I know what</font> ? for my part I  
+am very well satisfied, if you did
+know what they were, you would speak of them with as much Reverence, 
+as you do Detraction.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Psha! I tell you they are all a parcel of          
+Self-interested Fellows, and Papists in their Hearts.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I perceive you are such an Enemy to Prerogative,     
+that you'l encroach even upon the
+Almighty's, and not suffer him to monopolize the knowledge of        
+Hearts; but how ignorant, as
+well as impious this Affirmation is, will appear: for how can they   
+be self-interested, and for
+Popery? for if that comes in, there will a great many come to share  
+with them in their
+Spiritual Livings.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> You are a young man, and run too fast; for any one 
+knows, if Popery gets once the
+upper hand, all the Lands taken from the Church in <font>H.</font> 8. time    
+will be restored again; though
+some therefore doe come to share with them, yet their Advantages     
+will be much greater.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> You may as well say every private mans Estate will   
+be taken from him, and given to the
+Church; for no man holds any Estate by a stronger Title, than the    
+Purchasers of Church-lands
+hold those Lands: for first they were sold by Act of Parliament, and 
+in Queen <font>Maries</font> Days
+instead of abrogating that Act, it was corroborated by another, to   
+which the consent of his
+Holiness was given; and if this be not Security strong enough, I'le  
+be content (though I confess
+'twill be a great punishment) to write in Vindication of a Register. 
+But Sir, to let this Slip
+of yours pass, pray instruct me for what reason our worthy Divines   
+stand condemn'd in your
+Judgment, for Papists?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> For what Reasons? Why, don't all the World know    
+they are against Bringing in the
+Bill, <font>&amp;c.</font> and that they openly pray for the Duke?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Is this all? 
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> All! Ay and enough too.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I am sorry to see you thus hurried on by a blind     
+Zeal; for why should they not pray for
+his Highness? Let him be good or bad, their Prayers are necessary;   
+if good, that he may be so
+preserved, if bad, that he may be reclaim'd and converted.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> I shall not so much insist upon this; but as to    
+the other Points, I mean the Bill: I 
+have a Paper in my Pocket will confound all your Divines, and all    
+your Lawyers put together;
+here, do but read, and you'l be convinced.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> What, it's Intituled <font>A Word without Doors</font> ?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> The same.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I have read him already; but for my part, I neither  
+approve of the Man, nor his Reasons.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Not the Man! Why you don't know who 'tis.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> But I know he fails in his Morals, by injuriously    
+calumniating both His Majesty, and all
+the Worthy Clergy of our Church: for <font>Pag. 3.</font> he tells you, 'tis  
+the constant Practice of
+Church-men to debauch young Gentlemen with ill Principles: and, the  
+Episcopal Sees,
+Deanries, <font>&amp;c.</font> were the certain and constant Rewards of such      
+Services: such Superlative Impudence
+ought to be quell'd, not with a Pen, but with the Magistrates Sword. 
+However, this is to be 
+<pagebreak id="3" />
+said in alleviation of his Fault, what he has spoke, is so grosly    
+false, that no one (in their Wits)
+will believe him.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Pray let this alone, come to his Reasons; methinks 
+you do not care to meddle with
+them.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I will shew you, there is not one thing, in the      
+whole Pamphlet, worthy the name of a
+Reason; For as to the first and last position, which he so much      
+endeavours to refute (and God
+knows does it boldly enough) there is no need of them to maintain    
+this Cause, so that the four
+first Pages and the four last, (which the Gentleman is pleased to    
+give us <font> <foreign>ex abundanti</foreign> </font> )
+contains only a parcel of insignificant Stuff. As for his Instance   
+of <font>Reboboam</font> , that God said This 
+thing was of Him, what then? Therefore he approved of the Action of  
+the Rebels. This
+looks like the Logick of one that rails at the University. <font>Is      
+there any Evil in the City, and I have
+not done it</font> , saith the Lord; <font> <foreign>Ergo</foreign> </font> he approves of the    
+afflicting Instruments. He hardned
+<font>Pharoah's</font> Heart, that he might not let the Children of           
+<font>Israel</font> go; <font> <foreign>ergo</foreign> </font> he was pleased with
+<font>Pharoah</font> for keeping them. A brave Divine! Indeed the Church of   
+<font>England</font> men and he do differ
+in Opinion.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Well, but he hath other Instances.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I tell you Sir, they are all impertinent; for he     
+hath neither proved his Cases to be
+parallel to ours, nor that the Actors did what they did justly; the  
+question between us, is not only
+what hath, and what may be done; but what hath justly, and may       
+justly be done; for unless he
+will argue, Every thing that hath been done, hath been justly done   
+(which is like his
+Logick) he hath said nothing to the purpose. When he can prove that  
+<font>William</font> and <font>Henry</font> did
+justly exclude <font>Rob.</font> who was their right and true King <font>de       
+Jure</font> , he will speak to the Point:
+But pray observe his Reason why <font>Rob.</font> was put by; because         
+<font>William</font> was not an honest man,
+not because <font>Rob.</font> was dishonest. What think you, is not this a    
+brave Fellow to be in Print?
+I so much insist Sir, upon this Term <font>justly</font> ; because the        
+Supreme Authority may chance to do
+something unjust: (else instead of Destroying, he'l Make Popes) for  
+they may do something
+against the Divine Law. But to be short, what think you of           
+<font>Strafford's</font> Case? I hope we all
+know that Act of Parliament was sufficiently repented of, because    
+'twas unjust. Let us see
+then how it suits with our Case; <font>Strafford</font> received a more       
+severe punishment by that Act,
+than the Laws of the Realm had provided for such Offences; this was  
+all, and here lay the
+injustice of the Act. If this Bill had pass'd, the <font>D.</font> had        
+receiv'd more severe Punishment
+for his Faults, than the Laws of the Realm have provided in such     
+Cases; either therefore, that
+Act was just, or this Bill unjust. <font> <foreign>In Tricesimo Quinto</foreign> </font> of  
+the Queen it is with good reason
+provided, if any made open Submission and Declaration of his or      
+their Conformity, that
+then they shall be discharged, of and from all and every the         
+Penalties and Punishments 
+inflicted. Now suppose the D. should conform: if this Bill had       
+pass'd, it had nothing availed him;
+and though the meanest Subject in the Kingdom might have taken       
+Advantage by his
+Conformity, yet the D. could not; a most unreasonable thing. Now     
+upon the whole matter I
+appeal to any impartial man, whether this Argument will not hold:    
+All Subjects ought in
+reason and justice to bear equal Punishments for equal Faults. But   
+if the Bill had pass'd, the
+D. had had a more severe Punishment than any other Subject for the   
+same Fault; Therefore, <font>&amp;c.</font>
+We have hitherto taken it for granted the D. is a Papist, but now    
+let us see whether the
+Parliament could justly (when the Bill was brought) take notice of   
+him as such; I demand
+therefore, Had he been legally convicted of Popery?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> I cannot say that.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Why then, every man is supposed innocent, till he be 
+Tryed, and proved Guilty; and
+I believe all people will agree to this Argument, That 'tis highly   
+unjust to Condemn any man
+unheard; but if this Bill had passed, the D. had been condemned      
+unheard; therefore he had
+been unjustly Condemned. 'Tis certain by the same Reason and         
+Justice, they may make a 
+Law to Condemn one man unheard, they may make a Law to Condemn all   
+men unheard;
+and how would you like such a Law?
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> I perceive you conclude the Duke to be guilty of   
+no other Fault but Popery;  but
+alas! we all know there are a great many other Offences laid to his  
+Charge, and things
+of a high Nature too -- but no more of that.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Now are we to believe you have a thundering Reserve, 
+when in truth you do not
+know so much as you have spoke. Suppose him Sir, to be Actor of the  
+most and 
+greatest Crimes that ever mortal man was; let him (without Favour)   
+be charged with them
+all; but let him be summon'd to make his Defence, and then from what 
+Imputation he
+cannot clear himself, let him suffer for it according to the Laws in 
+such Cases: But that there
+should be new Laws made to punish His particular Person only, or     
+that he should be condemn'd
+<pagebreak id="4" />
+unheard, are things I will maintain (against you and all the         
+Fanatick Crew) to be
+Dissentaneous both to right Reason and Justice.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Talk what you will, I cannot believe but that the  
+Parliament may lay the next
+Heir aside: for what if he should be a Fool, or a Mad-man; must we   
+be govern'd by 
+him?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> I begin now to be weary with your Impertinence.      
+Pray, who does not know 'tis
+every man's Fate (according to Law and Reason) that is an Ideot, or  
+Mad-man to
+lose the Government of his Inheritance, and this rather fortifies    
+than exonerates what
+<font>I</font> have said: That Justice must be alike to all Subjects.         
+Therefore <font>I</font> hope <font>I</font> have
+fully evinc'd, that though the Divines are against the Bill, (which  
+is more than either
+you or <font>I</font> know) they are not for that blame-worthy.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Nay, talk as long as you will, I shall still be of 
+the same mind.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Well, I see you are an obstinate, prejudic'd Man,    
+therefore <font>I'le</font> 
+take my Leave. <comment type="compiler">ONLY FIRST LETTER OF I'le IN ITALICS IN SOURCE 
+TEXT.</comment> 
+<font>Farewell.</font> 
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

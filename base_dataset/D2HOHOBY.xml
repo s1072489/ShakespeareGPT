@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HOHOBY">
+  <dialogueHeader>
+
+    <filename>D2HOHOBY</filename>
+
+    <identifier>2 HANDB OTH D2HOHOBY</identifier>
+
+    <title>CVRRY-COMBE</title>
+
+    <author>HOBY EDWARD</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1615</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">HOBY, EDWARD.</attribution>
+      <frontMatter>A CVRRY-COMBE FOR A COXE-COMBE. OR PVRGATORIES KNELL.
+IN ANSWER OF A LEWD LIBELL LATELY FORICATED BY IABAL RACHIL AGAINST
+SIR EDVV. HOBIES COVNTER-SNARLE: ENTITULED PURGATORIES TRIUMPH OUER
+HELL. DIGESTED IN FORME OF A DIALOGUE BY NICK-GROOME OF THE
+HOBIE-STABLE REGINOBVRGI. 
+(...)
+LONDON, PRINTED BY WILLIAM STANSBY FOR NATHANIEL BUTTER, AND ARE TO
+BE SOLD AT HIS SHOP NEERE S. AUSTINS GATE AT THE SIGNE OF THE PIED
+BULL. 
+1615.
+PP. 1.1 - 38.15
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue> 
+
+<comment type="compiler">SOURCE TEXT HAS MARGINAL NOTES, INDICATED BY &quot;a&quot;, &quot;b&quot; ETC., WHICH 
+ARE OMITTED BELOW.</comment>
+
+<pagebreak id="1" />
+</dialogue> <head>A 
+CVRRY-COMBE
+FOR A COX-COMBE.</head> 
+
+ <head>CHAP. I.
+<font>THE LIBELLERS MALICE, PRIDE, FRAUD, AND
+FOLLY DETECTED.</font> </head> 
+
+   <nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> What, honest <font>Nick</font> !
+Welcome into <font>Sheppy</font> . How
+fares the noble Knight,
+and all the true Trojans
+at home?
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I thanke God
+Sir, all well. My Master
+remembers his loue to your Worship, to you Master
+Vicar, and to all his friends in these parts.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> We are much bound to him for his kinde
+remembrance; but I wonder what winde driues you
+<pagebreak id="2" />
+hither? we may strew greene rushes for you; I thinke
+you were neuer heere since Master Maior tooke his
+oath.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Sir, you are in the right, but such
+troublesome guests come soone enough, like foule weather,
+before they be sent for.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Nay say not so <font>Nick</font> , the worst dogge in your
+masters house cannot come vnwelcome to
+<font>Queenborough</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> That's more of your kindnesse then our
+merit; but I pray you what's the reason the bowling
+greene is so emptie vpon so faire a day?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Why man, there is a great Faire at
+<font>Sittingburne</font> , thither they are all gone, tag, rag and
+longtaile.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Then I feare I am come at an ill time.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Why so?
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> My master hath sent me for the pyde nagge,
+hee would haue him runne in <font>Iames</font> parke, lest hee
+spoile himselfe this drie season: besides, I haue
+appointed the Smith to bee heere in the afternoone.
+Now if the Castle-keeper bee gone to buy
+Hobbyhorses too, I am in a faire case.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> To put you out of doubt, vpon my
+knowledge he is ridde out, more then an houre and a halfe
+since.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Then it is likely to be darke night before he
+finde the way home.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Assure your selfe of that; it is a forfeit for a
+Sheppy-man to come from a Faire till Sunne set.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Sue the ill lucke; and the worst is, I know
+<pagebreak id="3" />
+not how to spend the time all this liue-long day.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> As if I haue not a good dish of Oysters,
+and a cold pye at home to hold you tacke.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Many thankes good Master Maior: but in
+very deed I brake my fast so well with our old
+Gardiner at <font>Vpberry</font> before I came out, that I shall haue
+little mawe to any meate till night.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Then what will you doe?
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> On my little honestie I know not, vnlesse
+some good bodie would lende mee a Play-booke to
+make my worship laugh.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Faith <font>Nick</font> I doe not remember any such in
+my custodie, but our Searcher lent me a merry book
+which came to his hands the last weeke.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Sir, you meane that squibbing pamphlet
+against Sir <font>Edward Hoby</font> , which I borrowed of you
+yesterday morning.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> The very same: I would you would take
+the paines to fetch it.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> That labour shall be saued, we neuer parted
+companies since we met.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Now if you bee kinde gentlemen, let vs sit
+downe yonder, vpon Pennylesse Bench, and
+suruey it.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Agreed; for I thinke wee shall haue no
+bodie in hast come to trouble vs.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> What may the title of the booke bee? and
+who is the Author?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> He may be <font>Nicholas nemo</font> , for ought I know,
+he discouers himselfe only by the marke of I. R.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I dare lay a good wager it is that <font>Ishmael
+<pagebreak id="4" />
+Rabshacheh</font> , whom my Master so hampred in his
+<font>Cou~ter-snarle</font> : my minde giues me it is the same <font>Gurgullio</font> ,
+whose late arriuall makes him so much merriment.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Not vnlike: hee hath wonne the spurres
+for an arch-rayler. The most rauing, and brauing
+<font>Pasquil</font> that euer I read. Had he gotten any prize by his
+last worke, you should haue now seene him out of
+his maskers sute: he stands close behinde his picture:
+if it passe currant, he will then peepe out, otherwise
+he will hide his head in a Bench-hole.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> But is this the fashion of professed
+Diuines, to broach Positions which they dare not
+justifie with the subscription of their names, and being
+namelesse themselues, to perbreake persons of note.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Doe you wonder at that? As if old
+pursetakers will present themselues in their owne likenes
+without <font>vizards</font> , and <font>scarfes</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Indeede that were the next way to the
+Gallowes; but surely this kinde of cunning
+ioyned with so great scurrility (which in my little view
+I discouered) would make me shrewdly suspect their
+sinceritie, who are so intemperate in their owne
+affections, and regardlesse of better mens credits.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> This is the Catholike charitie, and
+soulegaining patience practised now adayes; but he is not
+without his shifts. That he concealeth his name, it
+is his humilitie, as regardlesse of wordly respects.
+That hee is so tarte, it proceedeth from his zeale of
+the cause, not any hatred of the person.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> In my opinion he needs not feare any great
+applause for the extraordinary skil of his work. T'is
+<pagebreak id="5" />
+well if he scape in this learned age without reproof.
+But to make zeale the Patron for his personall
+frumps, is intollerable hypocrisie.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Could he shew any such sparkes of
+personall disdaine, flying from Saint <font>Augustines</font> penne,
+there were yet some little hope, that hee hath at least
+a dramme of that <font>Primitiue Spirit</font> : but you shall
+heare how he contradicts himselfe. Saint
+<font>Augustine</font> (saith he) <font>did endeauour to curbe the motions of
+anger, seeking to ouercome his Aduersaries, not by returne
+of iniurious reproaches, to disgrace their persons, but by
+cleare Demonstrations of the victorious truth</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Then is hee as like Saint <font>Augustine</font> , as an
+Owle to an Iuie bush.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> And could hee single out no body but my
+Master to make the Anuill of his malice? I doubt hee
+hath taken a wrong Sowe by the eare; if his coate
+be not swingd' well and thriftily, let me bee held for
+a sowced Gurnet.
+  </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Indeede it had beene the wiser way, first to
+haue beleguered the Castle which he formerly lost;
+and had not either vaine hope of a second voluntarie
+lapse, or necessarie feare of some foule discouerie,
+diuerted his force, hee would rather haue followed
+the chase of his olde prey. Well, hee is not vnlike to
+haue some hornets about his eares: But for Sir
+<font>Edward</font> , hee hath passed his word to answere him with
+comtempt.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Silence verily is fittest for a Gentleman of
+his place, vnlesse his aduersarie were of more worth
+then his Start-vp.
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I wonder in my heart what <font>Ishmael</font> meant
+to come vpon him with a fresh reply, hauing publike
+notice of his resolution.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> This was it that animated him; the Knights
+<font>Dormitabo</font> secur'd his pen free passage without
+controll.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Nay, then I would my girdle might breake;
+seeing he will wake a sleeping Lyon, as long as I can
+hold a <font>Currie-combe</font> in my hand, I will ferret his sides
+till he crie <font>Flebo</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> I perceiue thou art true bred; such a
+Whelp is fittest for this game: But how camest thou
+by thy Latin?
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Faith, I waited on a yong Gentleman, at
+<font>Oxford</font> , some three, or foure yeares, where I got a
+few broken ends together, enough to patch <font>Rabsh.</font>
+his Cox-combe with a <font>Sternigogulus</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> On my soule thou art a merrie grigge. I
+would not for the price of a good Breake-fast haue
+wanted thy companie in the reuiew of this discourse.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Perhaps you will say so, by that time wee
+haue done; It shall goe hard if I find not Crotchets
+in this Beetle-head, to descant vpon his plaine song.
+But I long to heare the bookes name.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> It is called <font>Purgatories Triumph ouer Hell</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> What! <font>Ishmael</font> the Conqueror? O
+victorious <font>Rabshacheh</font> . In what pompe art thou led to the
+Capitoll?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Would you know how? his Charriot is
+drawne with foure grisly <font>Anticques</font> : <font>Sophistrie</font> ,
+<font>Scurrilitie</font> , <font>Impudencie</font> , and <font>Hypocrisie</font> , and attended 
+with
+<pagebreak id="7" /> 
+<font>Falshood</font> , <font>Philosophie</font> , <font>Atheisme</font> , and <font>Idolatrie</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> If he triumph after the old Roman maner,
+he must (for the gaining of applause) be very liberall
+in his gifts to the people.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Hee passeth for that of all that euer I knew.
+Here he flings a <font>Rams horne</font> , there a <font>Tobacco pipe</font> ; here
+hee bestowes a <font>Black-more Girle</font> of his owne taking;
+there hee casts our <font>Ladies Gloues</font> . <font>Asses</font> are his
+ordinarie fauours; and as for <font>Wine, Suger, Honnie-sops, Greene
+Goslings, Cocatrices, Wood-cockes, Cockes egges</font> , and
+<font>Sallets</font> , you would admire his lubberalitie.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Stop there good <font>M. Vicar</font> , <font>Nickes</font> teeth will
+water, if you talke of any more such Iunckets.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> No not if hee gaue <font>Quailes</font> insteede of
+<font>Woodcockes</font> ; these dainterils haue layen so long vpon his
+hands, that I feare me they are scarce sweete.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> His last Treatise, (if I be well aduised) 
+wherein hee began to fling at the Knight, was Christned,
+<font>The ouerthrow of the Protestants pulpit Babels</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> The <font>Ouerthrow</font> ? <font>O Hercules!</font> They must bee
+Bables indeed if he bee able to moue them. What a
+braue Lad is this, that dreames of nothing but
+Ouerthrowes, and Triumphs? No doubt hee rescued
+many Shauelings in this skirmish. Twas pittie hee
+was not in <font>England</font> when my Lord <font>DelaWare</font> 
+vndertooke his voyage: Then should his Lordship haue
+had no neede to haue stood to the curtesie of the
+two Vniuersities. <font>Rabshacheh</font> alone would haue soon
+brought those poore Sauages, vnder the belt of his
+Discipline. But had he not great lucke (trow you) to
+scape <font>Cerberus</font> his fanges, comming so neere the
+confines of Hell?
+<pagebreak id="8" />
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> He complayneth that he met with a
+<font>Cerberus</font> , meaning the Knights <font>Counter-snarle</font> , <font>Which
+entertained him with an vnfriendly welcome, and
+saluted his pinnace with a peale of vnlouely termes</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> And well worthie, for hee gaue the onset
+without a challenge, neither came he as a <font>Merchant</font>
+(according to his colourable pretence) <font>with an Oliue
+branch, towards the hauen of his fauour</font> ; but as a man
+of Warre with a flagge <font>of defiance</font> , to batter the
+invincible Fort of the Knights reputation.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Nay by your leaue, S=r=. <font>Edward</font> cast out his
+Gloue to any <font>Romified Rennegado</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> What was that to <font>I. R.</font> ? what needed hee
+haue fought as the Popes Voluntarie, vnder those
+colours? Had he such interest in the Title, that hee
+could not forbeare the Claime?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> As for that, it had beene pardonable, if in
+the confidence of his cause, hee had endeauoured to
+disable the Knights refutation of <font>Purgatorie</font> , by the
+<font>Dint of argument</font> . but to <font>dart his Porcupine quills</font> to
+blemish his credit, to <font>snuffe at a Tobacco pipe, to iest
+with his sword</font> , nay to make him a <font>Pedler</font> to vent
+other mens patches, as it argueth rather an aking
+tooth, then a religious minde, so is it able to driue
+<font>Sobrietie</font> her selfe into an <font>arring passion</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Had the <font>Cumaean Virgin</font> , I meane Discretion,
+beene his guide in that journey; <font>had the respect of the
+Knights honor, or desire of well-fare of his soule</font> , beene
+superintendent in his thoughts, hee would haue
+found another way to the wood. 'Tis strange
+<font>Rhetorique</font> to alienate his affections, whose <font>Iudgments</font> we
+labour to informe.
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Will you haue the right? I haue gotten the
+length of his foote. <font>Prurit-anus Wilson</font> sees that
+<font>Ishmael</font> hath a Wind-mill in his head, therefore hee
+buzzeth in his eares to set the clapper a iogge, that so
+he may get a good Grist.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Had there not been some such pecuniary, or
+sinister ayme, I verily thinke <font>Rabshacheh</font> his pen had
+beene at a full period. Hee would haue accepted the
+Knights reasonable satisfaction, and endured a little
+showre, especially raised by the blustring windes of
+his owne distemper: hee would not haue prouoked
+the grimme Porter the second time, whom he found
+so fell at the first. Somewhat it is that makes him so
+bray in the eares of his supposed <font>Cerberus</font> , who was
+well contented to haue taken a nappe, and to let him
+passe without regard.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Yet would he make the world beleeue hee
+is so desirous of peace, that hee hath now out of the
+aboundance of his charity brought him a <font>hony sop</font>
+to stop his mouth.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Trust mee truly, hee comes ouer him with
+kindnesse; this hony was not fetched from the <font>Bees</font>
+hiue, but from the <font>Aspes</font> hole, more like to stir choller
+then to procure rest.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> This tricke he learned in his passage of
+<font>Charon</font> the Ferriman; to looke towards <font>peace</font> with his
+face, and rowe towards <font>discord</font> with his pen. He sets
+out the <font>Oliue branch</font> for a signe, but his vessels are
+full of gall and wormewood within.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> If we may take his owne word in his owne
+worke, it is the <font>gentle sound of a solid answere, It is a
+<pagebreak id="10" />
+purgatory sallet to purge his prophane humours, made of
+fiue medicinable hearbs, wherein he hath powred the oyle
+of charitable exhortations, mingled with the vineger of
+sharpe reprehension, yet so sparingly that it cannot be
+displeasing to his tast</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> If hee had presented him with the iuice of
+<font>Rue</font> , and <font>skymd hony</font> , it had beene more proper for
+the dimnesse of his sight. It seemes he hath not been
+brought vp vnder an <font>Apothecary</font> , but rather in a
+<font>Cookes</font> shop, he is so cunning in dishing out this
+saucy <font>Allegory</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> What will ye say then to this? <font>I haue done
+my best to quench the fire which flashed from the
+bramble bush of your distempered thoughts, not with cold
+water of a dull deniall, nor with the oyle of sinners, which
+might increase the flame, by soothing you in your errour,
+but with wine and sugar.</font> I hope you will not taxe this
+to be broken-winded.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I promise you an excellent close. Had my
+master such a <font>Skull</font> in his kitchin, that would quench
+the fire with <font>wine</font> and <font>sugar</font> , the <font>Vintners</font> and
+<font>Grocers</font> would soone share his lands: his patrimony
+would then be in a dangerous consumption indeed.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font>Nick</font> , you are somewhat too quicke, his
+honest meaning is to bee accepted: yet if I haue any
+iudgement, hee is more elegant in one leafe of this
+booke, then in all the other he wrote before.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Marry hee may thanke Sir <font>Edward</font> for that,
+whose phrases are so interlaced throughout the
+whole discourse, that <font>Rabshacheh</font> his stile may seeme
+to haue put on her holli-day coate.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> This one thing I heard a Gentleman of good
+quality obserue, that hee hath an extraordinary gift
+in the retorting of conceipts: And withall protested
+that he thought <font>Ishmael</font> was begotten on the side of
+a hill, he so returns word for word like an Eccho.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> The truth is, the poore man hath a very
+weake stomacke, hee casts vp whole periods as they
+went downe, without digestion or alteration.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> If I were his Phisition, I would prescribe him
+a cup of wine and sugar next his heart, for what with
+his <font>watching</font> , <font>weeping</font> and <font>whipping</font> , he hath a very
+bad stomacke, and a worse braine.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> He ill deserues it, who measures other mens
+liquor, by the shallow panne of his owne wheeling
+skonce. If hee breake his fast with nymble-brained
+<font>Wilson</font> somewhat more liberally, hee strait fumbles
+in the mouth, and tumbles out a <font>double foole</font> in
+euery answere according to his <font>simple folly</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> He was not then mistaken that did
+<font>Hierogliphick</font> him by the name of <font>Rabshacheh</font> , which vpo~ long
+search he hath found to signifie <font> <foreign>Multum Ebrius</foreign> </font> : as
+much to say, as <font>Cozen German</font> to <font>Floud</font> the <font>Ignatian</font> ,
+who hath in his time made more razling Indentures,
+then the best Scriuener in <font>Doway</font> or S=t=. <font>Omers</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Yet as flustred as hee was, when his wench
+told him that he kissed like a Clowter, hee could text
+her with <font> <foreign>Labia Sacerdotis custodiunt sapientiam</foreign> </font> . And
+when shee pleaded that it went against her heart, he
+could protest by the faith of a Catholique, not to
+come within a foote of her conscience.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> It seemes indeed he speakes not by guesse
+<pagebreak id="12" />
+like a <font>Nouice</font> , but as one beaten to the trade by
+experimentall proofe, when he saith, <font>I know that the
+custome of men that are tipled is, when they stagger
+themselues, to thinke that Churches, and the very heauens reele
+about them</font> . Marke how feelingly he speakes euen of
+the thought.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Let him be what he will, this is no fit Court
+to draw his Inditement: hee will trauerse it with an
+<font>Appeale</font> ; Let vs rather heare how he bestirs himselfe
+for Purgatory.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Nay by your leaue Sir, his Apology
+touching the exceptions in the <font>Counter-snarle</font> must haue
+the precedence. This hath he cunningly in his first
+chapter prefixed to a worke; by good probability,
+long studied, against the Knights first letter, some
+sixe yeares since directed to M=r=. <font>T. H.</font> 
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Bee it as it list: seeing wee are come as
+<font>Auditors</font> to sitte vpon his account, let vs first see his
+charge, and then his discharge.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Indeed equity her selfe cannot prescribe a
+more indifferent course then this. There is great
+reason your <font> <foreign>fiat</foreign> </font> should stand in these <font>praecincts</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> No doubt he hath placed a Lion in the
+forefront to make the better way, for the Marshalling of
+his weaker and more heartlesse troopes.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> If he haue the least dramme of Rhetoricall
+Chiualry, he will be sure to put the best legge
+formost.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> You are both wide; in stead of a Lion, hee
+hath committed the conduct of his forces to <font>Reynald</font>
+the foxe, whom hee presents on his paper stage with
+<pagebreak id="13" />
+a Target, to shield him from the imputation <font>of
+vttering any thing to the Knights reproach</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> It must be a nimble Foxe that can shift off
+so many palpable wrongs; hee had neede haue his
+ioynts thoroughly annointed with the oyle of
+leazing.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Doubt you not that; his poynts are well
+tagg'd with <font>fraud</font> . And first, as if hee (good man)
+meant nothing but pure deuotion, hee deplores the
+<font>hard hap of his infortunate treatise, in falling vpon so
+vndeserued misconstruction</font> , wishing that the few lines
+which concerned the <font>Knight</font> , <font>had beene read by him
+when he was fasting</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Hee were a wise man would loose a good
+Breakfast, for better repast then I could euer
+discouer in his Larder. It seemes his booke is somewhat a
+kinne to an <font>Apothecaries</font> drugge, which requires the
+attendance of an houre-glasse, and a Spanish <font> <foreign>seruicio</foreign> </font> .
+Hee that dares not but allow a certaine number of
+Psalms in our Ladies Psalter to be read after supper,
+is angry if his owne lines bee perused when a man
+hath dined. If there bee any such danger in taking
+his receits vpon a full stomack, he should haue done
+well to prescribe both diet and time.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Vndoubtedly hee hath a reference to the
+<font>wine</font> and <font>sugar</font> , mentioned in his Preface, which
+liquor he saith the Knight loues well. This holy
+water runnes from his pen in such aboundance as if he
+had <font>Bacchus</font> his tunne for a Standish: hee dreames of
+no body but <font>Ennius</font> , who in his merry veyne wrote
+more wise sentences, then euer issued from
+<pagebreak id="14" />
+<font>Rabshacheh</font> his most sober thoughts; heerein he displayeth
+his folly, or rather his malice, in the highest degree.
+But the best is, he is like to purchase as much thanks
+of the iudicious Reader, by this his iniurious
+<font>scandall</font> , as <font>Sophocles</font> his vngracious Sonnes got by
+traducing their old Father for a Dotard, and so vnfit for
+the management of his estate. The Knight is able
+to shew him more then a <font>Tragedy</font> to wipe away this
+blurre: where <font>Malice</font> is the prompter, you must
+imagine <font>Impudency</font> will deliuer a good euidence.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font> <foreign>Ecce potator vini</foreign> </font> , <comment type="compiler">GREEK OMITTED</comment> are
+no new inuentions, nor grounded truths: as if a
+Gentleman cannot drinke a cup of wine but hee must
+instantly be as wise as staring <font>Gaal</font> . The Knight is of
+an affable, and pleasant disposition, yet hee comes
+not alwaies vp to <font>Hilary</font> Tearme. <font>Vlisses</font> was no
+Plough-man, though once for a priuate end he
+fained himselfe a Rusticke, and put his hands to the
+share. <font>Cato</font> was vpbraided for being all night in a
+tauerne, but how did hee answere for himselfe? <font>You
+should relate</font> (quoth he) <font>how many daies before I spent at
+my booke, and neuer budg'd out of my study</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> <font>Ishmael</font> cannot heare with that eare: Hee
+should haue shewed more discretion in shaping his
+credulous <font>Censures</font> , according to the prescript of this
+direction; had he <font>Itemd</font> the <font>lampe oyle</font> , as well as hee
+summed the <font>Spanish</font> wine, his intruding curiosity
+would haue passed with lesse blame. <font> <foreign>Nemo omnibus
+horis sapit.</foreign> </font> Hee that is lumpish at his meales, will
+proue but a slug in his more serious affaires.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I am sure the old Frier was of your minde
+<pagebreak id="15" />
+in this; for handling those words <font> <foreign>Vinum non
+habent</foreign> </font> , He made his diuision thus. Here is first <font> <foreign>vinum,
+ibi optimus liquor</foreign> </font> . Secondly, <font> <foreign>non habent, ibi pessimus
+clamor</foreign> </font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Gra-mercy <font>Nick</font> , I perceiue thou hast not left
+all thy Latine shreads at home. But I would gladly
+know what the Knight mistooke in the perusall of
+his discourse that he should be thus charged with an
+<font>inconsiderate suruey</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> The Knight (if you be remembred) tooke
+it in ill part that hee was taxed by the <font>Cecropidan for
+want of learning, wit, valour</font> , and <font>conscience</font> , as also with
+the <font>surplussage of selfe-conceit</font> .
+   </dialogue><nonSpeech> <font>Ma</font> </nonSpeech><dialogue> And can hee either blame the acceptance,
+or deny the cause, which is yet extant vnder his own
+hand?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Yes, hee forsooth doth not simply
+derogate from the Knight in any of these, but
+comparatiuely matching them together, giues the
+precedence, where he thinks he had most cause. <font>I did
+diuide</font> (saith he) <font>the three degrees of comparison, betwixt
+your three most commendable qualities, Valour, Learning,
+Witte. I gaue the positiue to your valour; The 
+comparatiue I did assigne to your pen: To your wit I did reserue
+the superlatiue degree: my conceit did without fraude,
+sincerely aime at your praise. If I did preferre your wit &amp;
+Learning before your Valour, you haue no iust cause of
+offence</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Were there no more but this, it is more then
+common Ciuility can well warrant; had hee not bin
+ill tutord hee might haue learned that comparisons
+<pagebreak id="16" />
+are odious. Might not the Knights commendable
+qualities say vnto him, <font> <foreign>Quis te constituit iudicem inter
+nos</foreign> </font> ? The question <font> <foreign>de primatu</foreign> </font> was not allowable
+amongst the Disciples. In this case <font> <foreign>diuidatur</foreign> </font> , shewes
+little care of the whole. The Poet might haue
+informed him, <font> <foreign>Quae non prosunt singula, iuncta iuuant</foreign> </font> : he
+that hath but an vnce of each of those former
+properties, wants not a graine of a worthy man. So that
+by sundring them he labours to lessen their esteem,
+and by disparaging that which he seemes to hold in
+highest regard, hee plainly nullifies the repute of the
+rest.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Hee that hath but halfe an eye, may easily
+perceiue his comparatiue praises, to be indeede
+priuatiue disgraces: as you may see by his Comment
+vpon his owne text. For wheras he stiled the Knights
+booke an <font>vnlearned Letter</font> , he now explanes himselfe,
+that the want of <font>Philosophicall and Theologicall
+verities occasioned that censure</font> . <font>The learning</font> (saith hee)
+<font>with want whereof I charged your Letter, is neither
+Pernassian, nor Poeticall, nor Prophane, but Sacred, Holie
+and Deuine</font> .
+   Is this the comparatiue degree wherewith hee
+dubs his pen? <font> <foreign>Est aliquid prodire tenus</foreign> </font> : seeing
+<font>Rabshacheh</font> will afford no more, tis well wee haue this. But
+such a Boone is not like long to be enioyed. I feare
+<font>Rabshacheh</font> repents himselfe already of his seeming
+bounty; For as if his pen had beene ouer lauish, hee
+doth interpret the <font>Pernassian learning</font> formerly
+acknowledged, to signifie <font>Fustian phrases, nullity of
+iudgement without any mediocrity of Logicke, a slippery
+<pagebreak id="17" />
+veyne of writing, impertinent and ridiculous
+annotations, language that must haue a Parliament to naturalize
+it, witlesse cauils, babbling able to make learned mens
+heads ake, speech not so wise as the braying of Balaams
+Asse, a gaudy stile, a head blanke without matter,
+defiling, nay loading his margent with all manner of
+impertinent stuffe, as vulgar sentences, triuiall verses,
+childish authors, reeling, tottering, and ridiculous
+phrases, seruing only to wast inke and to blurre paper</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I promise you he hath mended the matter
+well, these milde censures are able to raise <font>fits of
+choler</font> . Is this the <font>Pernassian Lawrell</font> with which hee is
+content to crowne my Masters temples? Is this the
+tune which the <font>poeticall sisters sing in Apolloes quire</font> ?
+then may the gingling of my <font>Curry-combe</font> passe
+currant for reasonable good melody. I easily beleeue
+hee went <font>young from Helicon</font> , who can no better
+iudge of those Christall streames.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> If a man should giue <font>Floud</font> this attribute, that
+he is <font> <foreign>tam Philosophiae, quam theologiae peritus</foreign> </font> , which
+(bearing a double construction) may be warranted,
+albeit he haue beene scarce seasoned with the
+Principles of eyther Science, and so a Dullard in both:
+how could he but hold himselfe ill handled, if
+afterward the same party should tell him that he shewed
+more <font>foolery</font> then <font>Philosophy</font> , more <font>Dunsery</font> then
+<font>Diuinity</font> ? But the best is, (as I heard the Knight once say)
+he makes no more reckoning of his praise, in giuing
+him that hee had not, then of his dispraise, in taking
+from him that he had; as hauing neither more nor
+lesse, for either of both.
+<pagebreak id="18" />
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Yet this comes short of <font>Rabshacheh</font> his
+equiuocating straine. For did hee sincerely ayme at the
+Knights praise in his grant <font>of Pernassian learning</font> , why
+doth hee then gainelay it in those his contradictory
+imputations? or did his mentall entendment seeke
+the disparagement of the Knights learning (as now
+the euent hath made apparant) to what ende then
+doth he protest the sincerity of his good meaning?
+Why doth he labour to colour his former frumpe
+with a distinction of learning, yeilding the lesser arm
+of that tree to the Knight, and keeping the greater
+(as purchased by his long study and delight) to
+himselfe? whereas in fine he dispossesseth him of all,
+euen of the least leafe of the smallest branch.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Thus is the Foxe now vncased, his <font>Flag</font>
+of due respect, and <font>dutifull affection</font> , prooued to bee
+but the <font>Ensigne of Subtilty</font> : but I would gladly see
+vpon what ground he buildeth those his
+derogatory and disgracefull termes.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Forsooth he hath gotten the wind of an
+opposition betweene the Knights <font>poetry</font> , and his <font>prose</font> ,
+and that in the first sentence of his <font>Counter-snarle</font> ,
+which he produceth as a <font>perspectiue vnto the rest</font> . 
+<font>Heresie</font> (saith hee) <font>hath in all ages contriued artificiall
+shadowes, which he iustifieth with this marginall verse</font> .
+<font> <foreign>Artibus impietas ingeniosa caret?</foreign> </font> This <font>Rabshacheh</font>      
+reading
+without an Intergatory saith, <font>that the marginall Muse
+gainsaith the text</font> , whereas the argument is drawne
+<font> <foreign>ab impossibili, vizt.</foreign> </font> that it cannot be that <font>witty
+Impiety</font> should be to seeke of cunning conueighance, then
+which nothing can bee more sutable to the purpose.
+<pagebreak id="19" />
+But admit there were no dash visible to his squinting
+eyes, besides the full poynt, yet might his wisdome
+haue taken it for spoken <font>Ironically</font> , in which
+acceptation it is no lesse then <font>vnicent</font> to the <font>Prose</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Tut, this Make-bate hath no other proiect
+but to set <font>Ephraim</font> against <font>Manasses</font> , and <font>Manasses</font>
+against <font>Ephraim</font> , to cast a bone betweene the
+<font>Margent</font> , and the <font>Text</font> , and to set them both together
+by the eares with the truth: but the best is, the least
+dash of a pen will easily reconcile them.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Nay this is not all, hee challengeth the <font>Prose</font>
+also, as <font>notoriously false</font> , in auerring that the
+<font>countenance of venerable Antiquity is the artificiall colour
+wherwith Heresie doth paint her selfe, whereas</font> (saith he)
+<font>Heresie hath in all ages disclaimed the Award of Antiquity</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Then I am sure our Preacher deliuered
+false doctrine the last Sunday, for hee spake much of
+<font> <foreign>Patrem habemus Abrahamum</foreign> </font> , and I remember hee
+had such a word as <font> <foreign>Templum Domini</foreign> </font> , which was
+frequent (as he said) in the mouth of the <font>Idolatrous</font> and
+<font>Hypocriticall Iewes</font> . Hee spake somewhat also of the
+<font>Adamians</font> , who vouched nothing but Antiquity,
+and of the <font>Acephali</font> who pleaded the authority of
+<font>Athanisius</font> and <font>Cyril</font> for the passage of their heresie:
+the particulars are crept out of my slippery braine.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Hee might further haue informed you of
+the Heretique <font>Dioscorus</font> , who in the open <font>Councell</font>
+did vant of the Pedegree and descent of his doctrine,
+from all the ancient Fathers of the Church. <font> <foreign>Ego
+testimonia habeo sanctorum patrum, Athanasij, Gregorij
+&amp;c. Ego defendo patrum dogmata.</foreign> </font> <font>I haue the witnesse</font>
+<pagebreak id="20" />
+(saith hee) <font>of the holy Fathers; I defend the Fathers
+doctrine</font> . Was not <font>Carosus</font> an Heretique? yet forsooth
+he did beleeue, <font> <foreign>secundum expositionem trecentorum
+decem et octo patrum</foreign> </font> ; <font>according to the exposition of the
+three hundred and eighteene Fathers</font> . If the <font>Plea</font> of
+<font>Antiquity</font> were not a glistering varnish, <font>Andreas
+Barbatius</font> would not haue gone so high to fetch the descent
+of his <font>Romish Cardinalls</font> grounding their foundation
+vpon those words of <font>Hannah</font> , <font> <foreign>Domini sunt Cardines
+terra, et posuit super eos orbem</foreign> </font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Hee might haue shewen himselfe a more
+skilfull Herauld, and gone neerer the sound, &amp; sence,
+had he drawne their originall from these wordes of 
+the Apostle: <font> <foreign>Vos autem carnales estis</foreign> </font> ; but these
+<font>Arcadians</font> must bee a day or two elder then the Moone,
+or else they will hold themselues no Gentlemen:
+their holy water must either flow from <font>Elizaeus</font> , or
+else it hath but a base current; and could they not
+fetch the authority of their Monasticke life from the
+sample of Christ himselfe, they would repute it, as of
+an vpstart family.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I applaud their witte; this is not the worst
+fetch to gaine esteeme. Were I a rich man it should
+cost me an hundred pound twice told, but I would
+haue <font>Saturne</font> or <font>Priamus</font> to stand on the top of my
+line. I would not sticke to alter two or three letters
+of my name, to make my selfe of kinne to
+<font>Pantigruel</font> . Me thinks <font> <foreign>Moecenas atauis edite regibus</foreign> </font>   
+is a
+statly <font>Iambick</font> , it runnes so full in the mouth.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> The best iest (the liuely <font>Embleme</font> of his
+malicious spirit) is this that hee playeth vpon the
+<pagebreak id="21" />
+letters which fall in order, without any choice, as
+directs to the marginall notes. Hee had charged the
+Knight with an <font>vnlearned Letter</font> : heereupon Sir
+<font>Edward</font> , discouering diuers his <font>Solaecismes and
+Incongruities</font> , (more then were named) to abridge the length
+of his <font>Letter</font> did margent thus. <font> <foreign>Siegoindignus</foreign> </font> (which
+word hee falsly cited) <font> <foreign>hac contumelia, tu indignus qui
+faceres tamen</foreign> </font> . This falling vnder the letter, O,
+<font>Rabshacheh</font> wittely tells him that, <font>that had reason to cry, O,
+with which letter it was marked</font> . In like manner he
+descants vpon the letter, <font>T</font> , by which hee vnderstands
+<font>Throne</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Alas poore man, I beshrew my heart if I
+do not pitty the penury of his barren conceit. He
+was neere driuen, (God wot) when hee was faine to
+ransacke the Wardrope of his witte, for such
+thredbare shifts.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> What thinke you of this? when the Knight
+tells him that <font>hee had a spight onely at one page, which
+lies in the heart of his Letter</font> , hee in the quaintnesse of
+his nimble Conceipt retorts it thus. <font>It lies in the
+heart.</font> Was not here an <font>Eccho</font> farre fetch'd? When
+the Knight sayes, <font>well flowne Buzzard</font> , he 
+conceitedly answeres <font>I did not marke how neere a kinne that
+soaring bird was to a Buzzard</font> . For <font>Miles gloriosus hath
+beene long since hissed off the stage</font> , he returnes <font>you play
+Miles gloriosus</font> : somewhat more Arte hee shewes in
+putting <font>Cerberus</font> , for <font>Gelons dogge</font> ; for <font>a good mans
+Dogge hath broken his legge ouer a lesse stile</font> , he altering
+the person saith, <font>I feare your good dogge hath broken
+his legge</font> . And as for the <font>Noddy</font> , the <font>Couentree Cappe</font> ,
+<pagebreak id="22" />
+and the <font>Tobacco pipe</font> , he bandies them vp and downe,
+as if the <font>Tennis-court</font> would affoord him no other
+balls. Thus doth he play <font>Tom Skull</font> , reuerberating
+according to his Rhetoricall skill the same syllables
+without any variety of inuention.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Sir, It was well obserued. I now see <font>Nicks</font>
+report was grounded vpon good warrant. <font>Ishmael</font>
+is a perfect <font>Atomist</font> , there cannot a <font>Mote</font> passe his
+fingers, <font>he notes the very number of the lines</font> . Sir <font>Edward</font>
+cites a part of two <font>verses</font> out of a knowne <font>Poet</font> , onely
+with alteration of one word, <font>vizt, -- <foreign>stulta est
+clementia -- perituro parcere funi</foreign> </font> . Whereupon
+<font>Rabshacheh</font> tells his reader, that the Knight makes a verse
+that <font>exceedeth no lesse in fury then in feete</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> He hath not onely a quarrell to my Masters
+<font>Poetry</font> , but for want of better stuffe hee scannes his
+<font>woods</font> also vpon his fingers, and findes them too
+short by many feete. Yet I dare vndertake there are
+<font>Oakes</font> enough left standing to beare a millon of as
+stout Scar-crowes as <font>Rabshacheh</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> That which galleth him is, that the Knight
+now <font>possesseth the lands, which were formerly in the
+tenure of Romish Catholiques</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Now you speak of that, you put me in mind
+of a merry answere which I heard my Master make
+touching that point. The Woods (quoth hee)
+standing vpon holy ground, he hath little reason to find
+fault if I gaue them <font> <foreign>primam Tonsuram</foreign> </font> ; withall hee
+concluded, that he was not a little glad he had
+power so to order them; and the rather, for that such
+<font>Dawes &amp; Puttocks</font> might be disappointed for building
+their nests there.
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> The felling of those Woods (as I haue
+heard) will be the raising of a more charitable work:
+But of what timber are those fellowes made, who
+with their goggle eyes prye into euery mans priuate
+affaires? Is this the next way to further <font>Purgatories
+Triumph</font> ? but amongest other things, I muse how
+<font>T. H.</font> scapes his fingers, seeing his reuolt first bredde
+this quarrell; tis a wonder hee doth so quietly part
+with his prey, <font>and tread so tenderly in that path, with
+so kind a respect</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Assure your selfe there is a pad in the straw.
+It is either for feare of some foule discouery, or for
+hope of his recouery: hee finds it his best course, to
+sooth him with the acknowledgement of a <font>learned
+and pithy Treatise</font> , and to free him from the vices of
+vulgar life.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> We will not diue so deepe in his thoughts.
+I warrant the Knight laughes his heart sore at the
+<font>Black-moore</font> wench, which <font>Ishmaels</font> inuention hath
+lately landed on our English coast.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Laugh! I protest there comes not a friend
+to visit him, but hee tells him of the <font>Negro</font> , &amp; how
+friendly <font>Rabshakeh</font> hath promised to bring him to
+the house where shee is to bee found: onely hee
+feares shee is some cast wench; and if the Frier her
+Ghostly Father, by whom she was conuerted, haue
+blowne vpon her, hee hath passed his word to turne
+her ouer to <font>Nick</font> Groome. And shall not I (thinke
+you) be well promoted with the <font>Iaponians</font> reuersion?
+But the best is he coniures them all <font>not to acquaint
+the Ladies by any meanes, lest they suspect his neglect
+<pagebreak id="24" />
+of their attractiue beauties, whose smiles hee holdeth in
+high esteeme</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> If the Knight should make vse of
+<font>Rabshacheh</font> his curtesie in this, he shall haue good cause to
+confesse that there is a <font>Puragtory</font> indeed. When he
+shall meet with <font>Plutoes Neece</font> vpon Earth, hee will
+giue the more credite to those singing flames, and
+ghastly Ghosts in the after World.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> I haue heard good <font>Philosophers</font> affirme, that
+dreames most commonly arise, either <font> <foreign>Ex praeuia
+cogitatione</foreign> </font> , so saies <font>Isidor</font> , <font> <foreign>Saepe quae in die      
+cogitamus, in
+nocte cognoscimus</foreign> </font> ; or <font> <foreign>Ex cerebri perturbatione</foreign> </font> , and
+then, <font> <foreign>Mira &amp; inaudita somniamus, secundum vaporem
+cellulam phantasticam inficientem</foreign> </font> ; or else <font> <foreign>ex sanguinis
+infectione</foreign> </font> , and then <font> <foreign>somniant se ambulare per
+loca immunda</foreign> </font> . Now perhaps <font>I. R.</font> hauing an ill braine, and
+worse bloud, had beene reading of <font>Ixion</font> , and his
+<font>Clowde</font> : or of <font>Helides</font> , or else the Poet <font>Nicaeus</font> , who
+had both faire daughters of <font>Negroes</font> or of
+<font>Alexander</font> &amp; his <font>Aegyptian Cleopatra</font> , and so hauing a spleen
+at the Knight, doth with a strong imagination fasten
+the supposed crimes vpon him, as if hee had bin
+<font>peccant</font> in that kind.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> <font>Peccant</font> in that kind; I heard him say one day
+in the Stable, hee would giue 20. pound <font>Rabshacheh</font>
+had said troth, wishing that all rich widdowes neere
+London might read his booke: for then they would
+hold him <font>fierce</font> , and craue no other testimony for the
+approbation of his courage and virility.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> The like fable the <font>Licaonite</font> coyneth to
+disgrace one <font>I. D.</font> whom he describeth to be one of the
+<pagebreak id="25" />
+Knights <font>fellow tobaccaean Wrighters</font> ; who (saith the
+<font>Cecropidan</font> ) <font>with morning and euening deuotions, did
+prostrate himselfe on the ground to the Picture of his
+Mistresse, with this praier</font> ; <font> <foreign>Illumina tenebras meas</foreign> </font> :
+<font>Lighten my darknesse <comment type="compiler">SOURCE TEXT: darnesse</comment> sweet Lady</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> O notable figment! this is inuented to cry
+quittance for our <font>Ladies borrowed face</font> , mentioned in
+the Letter to the <font>Collapsed Ladies</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> As I am a true man, I cannot imagine that
+so impious an affection can harbor in any Protestant
+breast; but I remember I met not long since with a
+pretty <font>Epigram</font> , not altogether dissonant from this
+purpose, made vpon the credible relation of a
+Gentleman who had trauelled forraine parts: which as
+neere as I can hit it, runnes thus.
+<comment type="compiler">VERSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I promise you this is more then an inch
+beyond the reach of my Latin: I would it were
+Englished.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> On the sudden I cannot render it better
+then thus.
+<comment type="compiler">VERSE OMITTED.</comment>
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> If my doublet had no better buttons then
+<font>Iohn Clements</font> of <font>Bruxels</font> had, I should cracke them
+all with laughing at this conceipt. I trow <font>Ishmaels</font>
+darknesse will bee sufficiently enlightned with this
+more passable probability. If hee haue any sparke of
+shame he will not heereafter seeke such <font>glow-worms</font> ,
+which show themselues in the blacknesse of vgly
+vntruth, when they are once brought to the light of
+Triall.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Surely his braine is very like the soyle of
+<font>Africa</font> , which (as <font>Cosmographers</font> say) yeelds euery
+Moone, a new supply of strange Monsters, and
+deformed creatures, not to be paraleld by any former
+praesidents. But all this while wee haue ouerslipped
+his <font>positiue degree</font> . What saies he to the Knights
+valour?
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> In my opinion he might well haue giuen
+ouer that chase, as hauing receiued a modest, short
+sufficient, and discreet answere. Yet saith he, <font>your
+letter gaue me iust cause to suspect your valour. For you
+confesse that the horror of the gun-pouder plot doth liuely
+represent before you, euen in your dreams, and imprint in
+your most serious thoughts, that furious blast, which your
+selfe, your poor self should haue sensibly felt. Had you
+trembled at the bloudy massacres of many worthy Peeres, such a
+fit might haue beseemed a Knight: Now the onely cause
+of your feares and teares was the immoderate feeling of
+<pagebreak id="27" />
+your owne priuate danger; And what if your eies had bin
+put out with that pouder, should the Common-wealth haue
+lost any whit of her sight</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> It were better the <font>Crowes</font> should picke out
+the eies of tenne thousand such <font>Ishmaelites</font> , who are
+not onely as so many <font>motes</font> , but huge <font>beames</font>
+blemishing the sight of the body polliticke. Though he
+think there is not such a <font>doting Iustice of peace again in
+a country</font> , holding him no wiser then M=r=. <font>T. D. not so
+politicke as the Statist deceased</font> , yet it is well knowne
+his approued sufficiencies neede no such trumpet to
+commend him in the gates.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> You haue no reason to take it in ill part, hee
+serues all Iustices of peace alike, glauncing at them as
+<font>good for nothing but to wast paper and inke in friuolous
+questions</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font>Nicke</font> , passion hath almost drawne vs aside
+from the first <font>Cauill</font> pretended against the <font>Knights
+courage</font> , which was <font>the immoderate sense of his owne
+priuate danger</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> You say well; he builds vpon that <font>Adage</font> ,
+<font> <foreign>Degeneres animos timor arguit</foreign> </font> , which might bee easily
+salued with that <font>authentique Maxime</font> , <font> <foreign>Charitas
+incipit a seipso</foreign> </font> . It is an old saying and a true, <font> <foreign>Qui sibi
+nequam, cui bonus</foreign> </font> ? Hee that is regardlesse of his owne
+soule, life, and state, is no fit guardian for a 
+Common-weale. But see how purblind this <font>eye-maker</font> is; when
+he hath a purpose to play the counterfet. Hee that
+was so quick-sighted to spye a marginall note ninty
+two pages off to serue his owne turne, will not now
+see that which is directly opposite, beeing directed
+<pagebreak id="28" />
+thereunto with the letter <font>K</font> , wherewith hee hath not
+beene vnacquainted since hee could number <font>thrice
+fiue yeares of his life</font> ; for had he but cast his eye (O
+partiall eye) aside, hee might haue seene <font>Lucretius</font>
+bedewing his cheekes with this lament, <font> <foreign>Vna dies dabit
+exitio, multosque per annos Sustentata ruet moles et
+machina regni</foreign> </font> . So that if the question be how it could
+stand with the Knights valour to <font>imprint the horror of
+that furious blast in his most serious thoughts</font> , he brings
+in <font>Lucretius</font> epitomizing that, which himself thorow
+the amazement of a so monstrous proiect was
+vnable to particularize to the full: vizt. <font>that the glorious
+fabrike of this auncient and famous Kingdome should haue
+lyen flat on the ground</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font> <foreign>Hinc illae lacrimae.</foreign> </font> This winde no doubt
+raised the storme of the Knights passion, wherof that
+the reader might entertaine more then a generall, or
+cursory apprehension, he giues him an hint by
+himselfe, and his owne friends, what euery true <font>Brittaine</font>
+should haue either corporally or relatiuely felt.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Had he made an enumeration of the
+worthy Peeres, whose massacre was murtherously
+intended, then would he haue charged him (as I heare he
+doth for his Apology in the behalfe of the most
+renowmed, and euer memorable <font>Archbishop) with
+base deuotion, fawning, flattering conceipts, foolish
+fidling in their praises</font> , and what not? Or else you should
+haue seene them all summed vp, with one and the
+same regardlesse account, that had the powder put
+out these <font>I. Is.</font> <font>the Common-wealth had not lost any
+whit of her sight</font> .
+<pagebreak id="29" />
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> It is very probable, howsoeuer he speake of
+some of his owne profession who detest that bloudy
+plot more, and for higher respects then the Knight,
+yet it seems this Libeller is none of that number: for
+albeit there was an impossibility that Sir <font>Edward</font>
+should haue gone to the pot alone, without the
+company of many noble Lords, and the rest his worthy
+associates there assembled, he sticks not to say, <font>that
+if that pouder had blowne him vp, the Common-wealth
+should haue had no cause to bewaile her losse</font> . Thus doth
+<font>Iabal Rachil</font> bewray his true intention in the
+particular, which pollicy aduiseth him to colour
+and conceale in the generall.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font>Iabal Rachil</font> ! here is a new                   
+<font>Hierogliphicke</font> ,
+spick and spanne, from the mint: you haue on the
+sodaine giuen him as fit a name as the best <font>Linguist</font>
+could possibly haue inuented. These two wordes
+do import as much as <font> <foreign>Fluuius Detractionis</foreign> </font> , <font>a Floud of
+Slaunders</font> ; the first of which hath no neerer affinity
+with his name, then the other with his nature, as
+being <font> <foreign>rerum falsarum hamaxarius</foreign> </font> , so regardlesse of Kisse
+and Kinne, that he will be easily drawne, according
+to the Prouerb ( <font>with speed</font> ) to libell against his own
+Father and neerest of bloud.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> As I am true Groome, I thought M=r=. Mayor
+had called him <font>Rake-hell</font> , which hee might well haue
+warranted; For whatsoeuer <font>Malice</font> could inuent,
+<font>Sophistry</font> suggest, <font>Hypocrisie</font> pretend, or <font>Impudencie</font>
+maintaine, his <font>crooked finger</font> hath raked together, out
+of the bogs of Hell, to cramme this his railing
+Pamphlet withall.
+<pagebreak id="30" />
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> You haue not yet heard al he hath to say, for
+the degrading of the Knights valour, who (saith <font>Iabal</font> )
+<font>sheweth no small want of nobility and valour, in
+desiring that the most superlatiue seuerity might bee
+practised in the sharpest research of that viperous brood, those
+merci-lesse hell-hounds, the Priests and Iesuites, whome
+Mercy it selfe should bee thought cruell euer to
+forgiue</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Were hee not past all shame, hee would haue
+swallowed downe that morsell with silence; The
+more he rubs that sore, the more he renewes the
+memory of that Tragicall ende of <font>Henry the fourth of
+France</font> , whose princely breast carried to his graue the
+Characters of their gracelesse, and vngrateful
+disloyalty. Their murther of Kings, their garboyles
+raised in free States, and their alienating the hearts of
+subiects from their obliged obedience, must not in
+any hand in them bee held treason, but deuotion;
+wheras on the contrary it is not Courage, but
+Cowardise, to seeke by the execution of penall lawes
+(which are now grown rusty for want of vse) to free
+the country from such <font>Wolues</font> , who make themselues
+drunke with the bloud of the Saints, playing with
+imperiall Globes, as Whales do with barrels, which
+they tosse vp and downe at their pleasures.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Yet as if these things were nifles, no whit
+preiudiciall to a Common-weale, he complaineth of
+want of the Knights Charity, <font>Can any noble bloud</font>
+(saith hee) <font>harbour in that heart, that is so greedy of
+Innocent bloud? The Lion spareth his prostrate enemie,
+whereas you long to teare out our hearts, in which you
+<pagebreak id="31" />
+cannot finde any sinne, besides an ouer-feruent desire to helpe
+you to heauen</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> An ouer-feruent desire indeede. <font> <foreign>Calescunt
+plus satis.</foreign> </font> Rather then faile, if there be any powder in
+a Country, they will send fiery Chariots to hoise vs
+vp into the Clouds.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> It were better in my opinion to trauel
+thither on foot; hee shall bee sure to lose much lether
+who spurres Cut so fast: but by his leaue I will not
+hyre such a blind Guide at so deere a rate. When I
+come to S=t= <font>Omers</font> , <font>Doway</font> or <font>Rome</font> , he will beare mee
+in hand, that I haue a little further to trauell, as
+being in the Suburbs of Paradise, whereas (God wot)
+I shall haue gone so farre out of my way, and then
+stand in need of a new helpe, to bring mee out of the
+Deuills mouth.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Wee shall heare anon what ghostly
+directions hee will giue vs to further vs in this voyage: In
+the meane season it is not amisse to obserue what
+skill hee vseth in peruerting the Knights meaning.
+The Knight indeed professeth irreconcilable
+detestation; but of whom? <font>Of the Incendiaries of the
+Romish forge.</font> Hee proclaimes not warre against <font>the
+Inueagled Ladies</font> , and other poore seduced soules; his
+discretion hath taught him not to bind the nocent
+and innocent in one bundle. They are <font>Incendiaries</font>
+whom hee brandeth as worthy perpetuall
+detestation. <font> <foreign>Et quam diu tales</foreign> </font> , as long as they deserue   
+that
+denomination, I cannot see how the most <font>regular 
+Charity</font> dare bid them <font>God speed</font> ; neither doth he
+malitiously desire, but rather vpon more then probable
+<pagebreak id="32" />
+coniecture by way of caution foretell the
+damnation of their soules who second those hellish Pyoners,
+in those diuellish courses, which are so odious in the
+sight of God and man. Reason he had to expresse his
+dislike as <font>pathetically</font> as he could; for that hee feared
+the like incouragements, and meritorious attributes,
+to such future attempts from the Papall Sea, by
+whose Agents that plot is now (in shew) disclaimed;
+though rather for the contrary successe, then the
+barbarous immanity thereof.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> I am verily perswaded that most Christian
+Charity would not sticke to professe eternall 
+opposition to that <font>viperous brood</font> , whose hearts harbour
+dangerous factions, whose tongues are tip'd with
+malitious scandalls, whose hands are imbrued in a 
+Sea of innocent bloud. If the great <font>Iudge</font> haue shut
+the gates of heauen against such inueterate, and
+impenitent Murtherers, I cannot see how mercy can
+be hired by the Popes <font>Indulgences</font> to lend them a key
+for their entrance into life.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> <font> <foreign>Tempora mutantur.</foreign> </font> It was no cruelty of  
+yore
+to cast a poore harmlesse infant springing from the
+scorched womb of the mother, into the fiery flames,
+there to be consumed; but now the very speech of
+<font>Parliament seuerity</font> against notorious traytours, and
+matchlesse Malefactors, argues <font>want of Nobility and
+Valour</font> : the truth is, our Iustices may be wel suspected
+for both, as being according to <font>Iabals</font> account <font>taller
+men of their tongues, then of their hands</font> . Did they
+imploy their authority in suppressing them in their
+particular Shires, as well as they vse their wits in
+<pagebreak id="33" />
+decreeing against them in the <font>Parliament house</font> , they
+should gaine more honour, and the Countrey reape
+farre more good.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> <font> <foreign>Quae supra nos nihil ad nos.</foreign> </font> I dare say  
+you long
+till you heare how he laies about him in the defence
+of <font>Purgatory</font> , but his meaning is to try your patience.
+The second part of his <font>Apology</font> touching certaine
+exceptions against himselfe, taketh vp the
+remainder of his first Chapter. For the dispatch of these
+<font>toyes</font> (so hee tearmes them) as if hee were
+challenging his Copes-mate at <font> <foreign>tria sequuntur tria</foreign> </font> , hee    
+doth
+methodically diuide this sequele into <font>Flies</font> , <font>Fies</font> and
+<font>Lies</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> The rime may well beseeme <font>Skelton</font>
+the Poet, or <font>Elderton</font> the Ballad-maker; but
+I would gladly see the reason; what meanes he by
+<font>Flyes</font> ?
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Sir <font>Edward</font> (I remember) to abate the pride
+of his spurtling quill in blemishing the worth of
+other mens lines, giues him a tast of such an <font>indecorum</font> ,
+wouen throughout that work, as would inforce true
+<font>Literature</font> to blush at the very first sight therof, there
+being very few leaues wherein the Reader shall not
+meet with a <font>Cobweb</font> , a <font>Spider</font> or a <font>Flye</font> . Some of which
+he there paged to saue himselfe a labour in the
+discouery of those many other <font>Solaecismes</font> , <font>Incongruities</font> ,
+and <font>Iobbing Parentheses</font> , which any curious eye
+without the helpe of Spectacles might easily discerne.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> And what flappe hath he gotten to free his
+paper from these magotting creatures, whose
+blowing hath made his periods so vnsauory?
+<pagebreak id="34" />
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> He doth confesse, and auoid. He forsooth had
+rather vtter his minde in a <font>crabbed then a new created
+phrase</font> ; as being <font>more curious that his doctrine be true,
+then his speech smooth</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Hee that will take vpon him to Minorize
+the learning of Authors, and to dedicate his workes
+vnto persons of that extraordinary note, and
+superlatiue iudgement, must not onely weigh his 
+positions in the ballance of the sanctuary, that they bee
+consonant to the truth, but <font>polish</font> them also with a
+Rhetoricall <font>file</font> , that they want not those comely
+<font>ornaments</font> which are requisite in the Professors of
+<font>Art</font> . The fabricke of Theologicall worke ought to
+bee raised <font> <foreign>ex lapidibus politis</foreign> </font> . Ragged and rugged
+stones are fitter for the wild <font>Quarry</font> , then to stand in
+the <font>beautifull gate</font> . To runne a poore silly heartlesse
+<font>Metaphor</font> out of breath, argues little variety of wit
+and lesse solidity of iudgement.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Will you see <font>wit</font> play her prize? then listen
+how pretily <font>Rachil</font> can defend <font>Solaecismes</font> . <font>Such
+seeming faults</font> (saith he) <font>are by iudicious censures esteemed
+not to be blemishes, but rather ornaments in the purest
+Writers. The stile is childish which still feareth the rod,
+not daring to depart one sillable from the rules of
+Grammar. As in a Consort of sweet voices, a Discord now and
+then doth make the Musicke more pleasing, so the
+worthiest writers haue let some iobs passe in their workes, which
+rather delight then offend a Iudicious Reader</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> Heere is a Ladde for the nonce to helpe a
+lame dogge ouer a stile. O thou rarely patronized
+<font>Barbarity</font> , downe on thy marrow-bones, prostrate
+<pagebreak id="35" />
+thy selfe at the foote of this thy valorous Champion
+borne in <font>Brinitania</font> , who hath stretched his fiue wits
+on the Tenter-hooks to maintaine thy worth. Tis
+great pitty that this lusty <font>Iuuentus</font> came so raw from
+the <font>ferula</font> ; had he continued a little longer at School
+by this time he would haue made the <font>Welkin</font> roare.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> I know not how other men stand affected:
+for my owne part, I haue euer held that Fidler
+worthy to bee turned out of doores among the rascall
+company, (though he haue a badge on his sleeue as
+broad as my hand) who still harpes vpon one string,
+and dwells vpon one tune, be it the best horne-pipe,
+that euer <font>Lincoln-shire</font> affoorded. Doth not one harsh
+bleating voice disgrace a whole quire? Doth not one
+vnsauory hearb giue a relish to the whole pot of
+pottage? A discord I grant may be admitted with some
+grace, but not continued without some intollerable
+disgust. In a word, if one flye mar a boxe of sweetest
+ointment, I cannot see what credit this multiplicity
+of <font>Spiders, Cobwebs, &amp; Flyes</font> can bring to <font>Iabals</font> booke.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I hope we shall find better stuffe in the rest;
+how doth he shake off the <font>flyes</font> ? they sticke I feare so
+close to his skin, (maugre his <font>Neapolitan</font> perfume)
+that they will hardly out of the bone.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> He blusters mainly that the Knight shold
+crie, <font>Fie vpon his genericall and accidentall Christning of
+Bells, relatiue honour of Images, and metaphoricall diuision
+of the Kingdome betweene God and the Virgin</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Is he so impudent as to stand in the defence
+of these vncouth and ridiculous fopperies, which
+can shew no other pedegree but <font>heathenish folly, and
+<pagebreak id="36" />
+Idolatrous superstition</font> to countenance them from
+exploding contempt.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> As touching the first practise; he doth not
+say that <font>Bells</font> are Christned; but that the <font>Blessing of
+bells hath some genericall similitude with the Christning
+of a Child</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Whether it be a similitude, or an <font>Identity</font>
+I am not so cunning a Logician to distinguish. It skils
+not much how they please to tearme it, who are
+driuen to their shifts in seeking some colourable 
+mantle to shroud it from the inglorious note of <font>heathenish
+bastardy</font> . The question is, <font> <foreign>quo iure</foreign> </font> , what warrant he
+hath for this genericall similitude, (which he
+confesseth) betweene the <font>Blessing of Bells</font> , and the <font>Christning
+of a Child</font> .
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> Nay there he leaues you to your own search.
+If you can neither find <font>Scripture, Father, nor ancient
+Councell</font> to warrant this practise, hee meanes not to
+be your Informer. It sufficeth him beeing betweene
+Hawke and Buzzard to turne it ouer with a witlesse
+and vnciuill iest, which he deuideth betweene his old
+familiars the <font>Buzzard</font> and the <font>Asse</font> .
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I haue heard some say there was once much
+adoe about the <font>shadow</font> of an <font>Asse</font> : but there beeing
+store of that breed at <font>Doway</font> , <font>Iabal</font> is now growne so
+nice, that he will not be seene vpon the backe of his
+olde <font>animal</font> , wherefore the poore wearied <font>Asse</font> is
+faine to ride him.
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> Tis pitty they should part companies; yet
+did I neuer see man more troubled with the <font>mare</font> in
+his sleepe; then <font>Rachil</font> is at mid-day with the <font>Asse</font> ,
+<pagebreak id="37" />
+of whom he grones to be disburdened. Faine would
+he haue the Printer beare part of his luggage; but
+seeing it is now more then a yeere and a day since
+the <font>Lazi-as</font> was found as a stray, and cryed in open
+Mart by <font>Rabshakeh</font> , the custome of the Mannor
+<font><foreign>secundum vsum Sarum</foreign> </font> makes it his owne, without
+cutting off either mane or tayle.
+   </dialogue><nonSpeech> <font>Min.</font> </nonSpeech><dialogue> My masters I am glad to see your wits so
+frolicke; yet I must needes say it is but <font> <foreign>Lex talionis</foreign> </font> :
+besides, his reasoning approoues more then you say.
+For admit a <font>Venetian Pander</font> , should put on the Popes
+robes, his <font>Triple Crowne</font> , his <font>slipper</font> , come with S.
+<font>Peters keyes</font> , sit downe in the <font>Conclaue</font> on the Chayre
+appropriated to his Holinesse: and that he should in
+his passage be saluted by the Vulgar as Pope
+(bearing those ensignes with which that Deity alone is
+dignified) Should he not be sure to be called <font>Coram</font> ,
+and pay deare for this his genericall, and accidentall
+resemblance? Will it serue his turne to say, Alas no
+man heard mee say that I was <font>Paulus Quintus</font> , I did
+but weare his vestiments, and a little counterfeit his
+state.
+   </dialogue><nonSpeech> <font>Nick.</font> </nonSpeech><dialogue> I will giue him my word hee shall finde it
+better to play the <font>Deuill</font> , then so to immitate the
+<font>Pope</font> .
+   </dialogue><nonSpeech> <font>Ma.</font> </nonSpeech><dialogue> The case is of the same nature. The
+blessing of Bells is no lesse presumptuously
+accompanied with the sacred rites, and ceremonies of <font>Baptisme</font> ,
+(yea with greater solemnities) then the Christning
+of Children: so that the Laye people know not how
+to distinguish them. Now marke how <font>Iabal</font> playes
+<pagebreak id="38" />
+the <font>Pandar</font> , he doth not say that <font>Bells</font> are Christned,
+onely this, <font>The blessing of Bells hath some generall
+resemblance with Christning</font> . Neither is the Venetian
+<font>Pandar Pope</font> , though habited like the <font>Pope</font> : Shall he
+not be sure to haue this pearle or the like rung in his
+eares, by one <font>Antipho</font> or other. <font> <foreign>Quo pergis ganeo?
+vnde emergis, vestitum hunc nactus? quid tibi quaeris?
+Satin' sanus? quid sibi hic vestitus quaerit?</foreign> </font> I haue so
+charitable an opinion of <font>Rachil</font> , that his reuerent
+respect to the <font>Primate</font> of the Romish Sea, would make
+him say, Fye vpon such a Pope. Yet (see how blind
+deuotion ouer-swaies th'equity of his iudgement in
+the like) hee quarrells with the Knight for saying,
+<font>Fye vpon your genericall and accidentall Christening of
+Bells</font> .
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

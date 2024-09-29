@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1CWARNE">
+  <dialogueHeader>
+
+    <filename>D1CWARNE</filename>
+
+    <identifier>1 COMEDY D1CWARNE</identifier>
+
+    <title>MENAECMI</title>
+
+    <author>WARNER WILLIAM</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1595</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">WARNER, WILLIAM.</attribution>
+      <frontMatter>MENAECMI.
+A PLEASANT AND FINE CONCEITED COMAEDIE, TAKEN OUT OF THE MOST 
+EXCELLENT WITTIE POET PLAUTUS: 
+CHOSEN PURPOSELY FROM OUT THE REST, AS LEAST HARMEFULL, AND YET 
+MOST DELIGHTFULL.
+WRITTEN IN ENGLISH, BY VV. VV.
+LONDON 
+PRINTED BY THO. CREEDE, AND ARE TO BE SOLD BY WILLIAM BARLEY, 
+AT HIS SHOP IN GRATIOUS STREETE.
+1595.
+PP. A4V.5 - F1V
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">THE SYMBOL * IS USED IN THE TEXT ACCORDING TO THE FOLLOWING NOTE 
+IN THE SOURCE TEXT, P. A3R:
+* Where you finde this marke, the Poets conceit is 
+somewhat altred, by occasion either of the time, the country,
+or the phrase.</comment>
+
+<comment type="compiler">THE SOURCE TEXT HAS OCCASIONAL VARIATION IN FONT WITHIN WORDS. BELOW 
+SUCH WORDS ARE RENDERED AS ONE FONT ONLY, IN THE WAY THEY MOST 
+FREQUENTLY OCCUR IN THE SOURCE TEXT. THUS, FOR EXAMPLE, &quot;M<font>ul.</font>&quot; IS 
+GIVEN AS &quot;<font>Mul.</font>&quot; AND &quot;<font>I</font>f&quot; IS GIVEN AS &quot;If&quot; BELOW.</comment>
+
+<pagebreak id="A4V" />
+</dialogue> <head>SCENE. 2.</head> 
+
+   <nonSpeech> <font>Enter Menechmus talking backe to his
+wife within.</font> </nonSpeech><dialogue>
+
+If ye were not such a brabling foole and
+mad-braine scold as yee are, yee would
+neuer thus crosse your husbande in all
+actions. Tis no matter, let her serue me
+thus once more, Ile send her home to
+her dad with a vengeance. I can neuer
+go foorth a doores, but shee asketh mee
+whither I go? what I do? what busines?
+what I fetch? what I carry? * As though she were a 
+Constable, or a tollgatherer. I haue pamperd her too much: she
+hath seruants about her, wooll, flax, and all things necessary
+to busie her withall, yet she watcheth &amp; wondreth whither
+I go. Well sith it is so, she shall now haue some cause, I mean
+to dine this day abroad with a sweet friend of mine.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Yea mary now comes hee to the point that prickes
+me: this last speech gaules mee as much as it would doo his
+wife; If he dine not at home, I am drest.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> We that haue Loues abroad, and wiues at home, 
+are miserably hampred, yet would euery man could tame his
+shrewe as well as I doo mine. I haue now filcht away a fine
+ryding cloake of my wiues, which I meane to bestow vpon
+one that I loue better. Nay, if she be so warie and watchfull
+ouer me, I count it an almes deed to deceiue her.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Come, what share haue I in that same?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Out alas, I am taken.
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> True, but by your friend.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What, mine owne <font>Peniculus</font> ?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Yours (ifaith) bodie and goods if I had any.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why thou hast a bodie.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Yea, but neither goods nor good bodie.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Thou couldst neuer come fitter in all thy life.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Tush, I euer do so to my friends, I know how to    
+come
+alwaies in the nicke. Where dine ye to day?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Ile tell thee of a notable pranke.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> What did the Cooke marre your meate in the 
+dressing? Would I might see the reuersion.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tell me didst thou see a picture, how <font>Iupiters</font> 
+Eagle 
+snatcht away <font>Ganimede</font> , or how <font>Venus</font> stole away <font>Adonis</font> .
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Often, but what care I for shadowes, I want        
+substance.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Looke thee here, looke not I like such a picture?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> O ho, what cloake haue ye got here?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Prethee say I am now a braue fellow.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> But hearke ye, where shall we dine?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tush, say as I bid thee man.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Out of doubt ye are a fine man.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What? canst adde nothing of thine owne?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Ye are a most pleasant Gentleman.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> On yet.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Nay not a word more, vnlesse ye tell mee how you 
+and your wife be fallen out.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Nay I haue a greater secret then that to impart to
+thee.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Say your minde.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Come farther this way from my house.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> So, let me heare.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Nay farther yet.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> I warrant ye man.
+   </dialogue><nonSpeech> <font>* Men.</font> </nonSpeech><dialogue> Nay yet farther.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Tis pittie ye were not made a water-man to row in  
+a wherry.
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Because ye go one way, and looke an other, stil    
+least 
+your wife should follow ye. But what's the matter, Ist not 
+almost dinner time?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Seest thou this cloake?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Not yet. Well what of it?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> This same I meane to giue to <font>Erotium</font> .
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> That's well, but what of all this?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> There I meane to haue a delicious dinner prepard
+for her and me.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> And me?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> And thee.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> O sweet word. What, shall I knock presently at her 
+doore?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I knocke. But staie too <font>Peniculus</font> , let's not  
+be too
+rash. Oh see shee is in good time comming forth.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Ah, he now lookes against the Sun, how her beames 
+dazell his eyes.
+</dialogue><nonSpeech>Enter <font>Erotium.</font> </nonSpeech>
+   <nonSpeech> <font>Eroti.</font> </nonSpeech><dialogue> What mine owne <font>Menechmus</font> , welcome sweete
+heart.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> And what am I, welcome too?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> You sir? ye are out of the number of my welcome
+guests.
+   </dialogue><nonSpeech> <font>* Pen.</font> </nonSpeech><dialogue> I am like a voluntary souldier, out of paie.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>Erotium</font> , I haue determined that here shal be  
+pitcht 
+a field this day; we meane to drinke for the heauens: And
+which of vs performes the brauest seruice at his weopon the
+wine boll, your selfe as Captaine shall paie him his wages 
+according to his deserts.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Agreed.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> I would we had the weapons, for my valour pricks
+me to the battaile.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Shall I tell thee sweete mouse? I neuer looke vpon
+thee, but I am quite out of loue with my wife.
+   </dialogue><nonSpeech> <font>Eroti.</font> </nonSpeech><dialogue> Yet yee cannot chuse, but yee must still weare
+<pagebreak id="B2R" />
+something of hers: whats this same?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> This? such a spoyle (sweete heart) as I tooke from
+her to put on thee.
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Mine owne <font>Menechmus</font> , well woorthie to bee my
+deare, of all dearest.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Now she showes her selfe in her likenesse, when shee
+findes him in the giuing vaine, she drawes close to him.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I thinke <font>Hercules</font> got not the garter from      
+<font>Hypolita</font> so hardly, as I got this from my wife. Take this, and   
+with
+the same, take my heart.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Thus they must do that are right Louers: especially
+if they meane to beggers with any speed.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I bought this same of late for my wife, it stood mee
+(I thinke) in some ten pound
+   </dialogue><nonSpeech> <font>Penicu.</font> </nonSpeech><dialogue> There's tenne pounde bestowed verie 
+thriftily.
+   </dialogue><nonSpeech> <font>Menechmus.</font> </nonSpeech><dialogue> But knowe yee what I woulde haue yee 
+doo?
+   </dialogue><nonSpeech> <font>Erotium</font> </nonSpeech><dialogue> It shall bee done, your dinner shall be 
+readie.
+   </dialogue><nonSpeech> <font>* Men.</font> </nonSpeech><dialogue> Let a good dinner be made for vs three. Harke
+ye, some oysters, a mary-bone pie or two, some artichockes,
+and potato rootes, let our other dishes be as you please.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> You shall sir.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I haue a litle businesse in this Cittie, by that   
+time
+dinner will be prepared. Farewell till then, sweete <font>Erotium</font> :
+Come <font>Peniculus</font> .
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Nay I meane to follow yee: I will sooner leese my 
+life, then fight of you till this dinner be done.
+   </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Erotium.</font> </nonSpeech><dialogue> Who's there? Call mee <font>Cylindrus</font> the Cooke
+hither.
+
+</dialogue><nonSpeech> <font>Enter Cylindrus.</font> </nonSpeech><dialogue>
+
+<font>Cylindrus</font> , take the Hand-basket, and heere, there's
+<pagebreak id="B2V" />
+ten shillings is there not?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Tis so mistresse.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Buy mee of all the daintiest meates ye can get, ye
+know what I meane: so as three may dine passing well, and
+yet no more then inough.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> What guests haue ye to day mistresse?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Here will be <font>Menechmus</font> and his Parasite, and my
+selfe.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> That's ten persons in all.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> How many?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Ten, for I warrant you, that Parasite may stand for
+eight at his vittels.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Go dispatch as I bid you, and looke ye returne with
+all speed.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> I will haue all readie with a trice.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+ <head>ACT. 2. SCEN. 1.</head> 
+<nonSpeech>Enter <font>Menechmus</font> , <font>Sosicles</font> . <font>Messenio</font> his seruant,
+and some Saylers.</nonSpeech>
+
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Surely <font>Messenio</font> , I thinke Sea-fairers neuer   
+take
+so comfortable a ioy in any thing, as when they haue
+bene long tost and turmoylde in the wide seas, they hap at
+last to ken land.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Ile be sworn, I shuld not be gladder to see a whole
+Country of mine owne, then I haue bene at such a sight. But
+I pray, wherfore are we now come to <font>Epidamnum</font> ? must we
+needs go to see euerie Towne that we heare off?
+   </dialogue><nonSpeech> <font>Menech.</font> </nonSpeech><dialogue> Till I finde my brother, all Townes are alike to
+me: I must trie in all places.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Why then let's euen as long as wee liue seeke your
+brother: six yeares now haue we roamde about thus, <font>Istria,
+Hispania, Massylia, Ilyria</font> , all the vpper sea, all high           
+<font>Greece</font> ,
+all Hauen Towns in <font>Italy</font> , I think if we had sought a needle
+all this time, we must needs haue found it, had it bene aboue
+ground. It cannot be that he is aliue, and to seek a dead man
+<pagebreak id="B3R" />
+thus among the liuing: what folly is it?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yea, could I but once find any man that could
+certainly enforme me of his death, I were satisfied; otherwise
+I can neuer desist seeking: Litle knowest thou <font>Messenio</font> how
+neare my heart it goes.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> This is washing of a Blackamore. Faith let's goe
+home, vnlesse ye meane we should write a storie of our
+trauaile.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Sirra, no more of these sawcie speeches, I         
+perceiue I
+much teach ye how to serue me, not to rule me.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> I, so, now it appeares what it is to be a         
+seruant. Wel
+yet I must speake my conscience. Do ye heare sir? Faith I
+must tell ye one thing, when I looke into the leane estate of
+your purse, and consider aduisedly of your decaying stocke,
+I hold it verie needfull to be drawing homeward, lest in
+looking your brother, we quite lose our selues. For this assure
+your selfe, this Towne <font>Epidamnum</font> , is a place of outragious
+expences, exceeding in all ryot and lasciuiousnesse: and (I
+heare) as full of Ribaulds, Parasites, Drunkards, Catchpoles,
+Cony-catchers, and Sycophants, as it can hold: then for
+Curtizans, why here's the currantest stamp of them in the world.
+Ye must not thinke here to scape with as light cost as in
+other places. The verie name shews the nature, no man comes 
+hither <font> <foreign>sine damno</foreign> </font> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yee say very well indeed: giue mee my purse into
+mine owne keeping, because I will so be the safer, <font> <foreign>sine         
+damno</foreign> </font> .
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Why sir?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Because I feare you wil be busie among the 
+<comment type="compiler">SOURCE TEXT: among the the</comment> 
+Curtizans, &amp; so be cosened of it: then should I take great paines
+in belabouring your shoulders, so to auoid both these harms,
+Ile keep it my selfe.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> I pray do so sir, all the better.
+</dialogue><nonSpeech>Enter <font>Cylindrus</font> .</nonSpeech><dialogue>
+* I haue tickling geare here yfaith for their dinners: It 
+grieues me to the heart to think how that cormorant knaue
+<font>Peniculus</font> must haue his share in these daintie morsels But
+<pagebreak id="B3V" />
+what? Is <font>Menechmus</font> come alreadie, before I could come
+from the Market? <font>Menechmus</font> how do ye sir? how haps it
+ye come so soone?
+   </dialogue><nonSpeech> <font>Menech.</font> </nonSpeech><dialogue> God a mercy my good friend, doest thou know
+mee?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Know ye? no not I. Where's mouldichappes that 
+must dine with ye? A murrin on his manners.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Whom meanest thou good fellow?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Why <font>Peniculus</font> worship, that whorson            
+lick-trencher,
+your Parasiticall attendant.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What <font>Peniculus</font> ? what attendant? My Attendant?
+Surely this fellow is mad.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Did not I tell ye what cony-catching villaines yee
+should finde here?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> <font>Menechmus</font> , harke ye sir, ye come too soone    
+backe
+again to dinner, I am but returned from the Market.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Fellow, here thou shalt haue money of me, goe get
+the priest to sacrifice for thee. I know thou art mad, els thou
+wouldst neuer vse a straunger thus?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Alas sir, <font>Cylindrus</font> was wont to be no stranger 
+to you,
+know ye not <font>Cylindrus</font> ?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>Cylindrus</font> , or <font>Coliendrus</font> , or what the    
+diuell thou art,
+I know not, neither do I care to know.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> I know you to be <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Thou shouldst be in thy wits, in that thou namest
+me so right, but tell me, where hast thou knowne me?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Where? euen heere, where ye first fell in loue with
+my mistresse <font>Erotium</font> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I neither haue Louer, neither knowe I who thou
+art.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Know ye not who I am? who fils your cup &amp;
+dresses your meate at our house?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> What a slaue is this? that I had somewhat to breake
+the Rascals pate withall.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> At your house, when as I neuer came in <font>Epidamnum</font>
+till this day.
+<pagebreak id="B4R" />
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Oh thats true. Do ye not dwell in yonder house?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Foule shame light vpon them that dwell there, for
+my part.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Questionlesse, hee is mad indeede, to curse himselfe
+thus. Harke ye <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What saist thou?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> If I may aduise ye, ye shall bestow this money which
+ye offred me, vpon a sacrifice for your selfe: for out of doubt
+you are mad that curse your selfe.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> What a verlet art thou to trouble vs thus?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Tush he wil many times iest with me thus. Yet when
+his wife is not by, tis a ridiculous iest.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> VVhat's that?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> This I say, Thinke ye I haue brought meate inough
+for three of you? If not, ile fetche more for you and your
+wench, and snatchcrust your Parasite.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> VVhat wenches? what Parasites?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Villaine, Ile make thee tell me what thou meanest
+by all this talke?
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> Away Iack Napes, I say nothing to thee, for I know
+thee not, I speake to him that I know.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Out drunken foole, without doubt thou art out of
+thy wits.
+   </dialogue><nonSpeech> <font>Cyl.</font> </nonSpeech><dialogue> That you shall see by the dressing of your meat. Go,
+go, ye were better to go in and finde somewhat to do there,
+whiles your dinner is making readie. Ile tell my mistresse ye
+be here.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Is he gone? <font>Messenio</font> I think vppon thy words
+alreadie.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Tush marke I pray, Ile laie fortie pound here dwels
+some Curtizan to whom this fellow belong.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> But <font>I</font> wonder how he knowes my name.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Oh ile tell yee. These Courtizans assoone as anie
+straunge shippe arriueth at the Hauen, they sende a boye
+or a wench to enquire what they be, what their names be,
+whence they come, wherefore they come, &amp;c. If they can by
+<pagebreak id="B4V" />
+any meanes strike acquaintance with him, or allure him to
+their houses, he is their owne. We are here in a tickle place
+maister, tis best to be circumspect.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I mislike not thy counsaile <font>Messenio</font> .
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> I, but follow it then. Soft, here comes somebodie
+forth. Here sirs, Marriners, keep this same amongst you.
+</dialogue><nonSpeech>Enter <font>Erotium</font> .</nonSpeech><dialogue>
+   Let the doore stand so, away, it shall not be shut. Make
+hast within there ho: maydes looke that all things be readie.
+Couer the boord, put fire vnder the perfuming pannes, let all
+things be very handsome. Where is hee, that <font>Cylindrus</font> sayd
+stood without here? Oh, what meane you sweet heart, that
+ye come not in? I trust you thinke your selfe more welcome
+to this house then to your owne, and great reason why you
+should do so. Your dinner &amp; all things are readie as you
+willed. Will ye go sit downe?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Whom doth this woman speake to?
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Euen to you sir, to whom else should I speake?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Gentlewoman ye are a straunger to me, and I
+maruell at your speeches.
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Yea sir, but such a straunger, as I acknowledge ye 
+for
+my best and dearest friend, and well you haue deserued it.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Surely <font>Messenio</font> , this woman is also mad or    
+drunke,
+that vseth all this kindnesse to mee vppon so small
+acquaintance.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Tush, did not I tell ye right? these be but leaues
+which fall vpon you now, in comparison of the trees that wil
+tumble on your necke shortly. I tolde ye, here were siluer
+tong'de hacsters. But let me talke with her a litle. 
+Gentlewoman what acquaintance haue you with this man? where
+haue you seene him?
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Where he sawe me, here in <font>Epidamnum</font> .
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> In <font>Epidamnum</font> ? who neuer till this day set    
+his foote
+within the Towne.
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Go, go, flowting Iack. <font>Menechmus</font> what need al  
+this?
+I pray go in.
+<pagebreak id="C1R" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> She also calls me by my name.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> She smels your purse.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>Messenio</font> come hither, here take my purse. Ile  
+know
+whether she aime at me or my purse, ere I go.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Will ye go in, to dinner sir?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> A good motion, yea and thanks with all my heart.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Neuer thanke me for that which you commaunded
+to be prouided for your selfe.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> That I commaunded?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Yea, for you and your Parasite.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> My Parasite?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> <font>Peniculus</font> , who came with you this morning when
+you brought me the cloake which you got from your wife.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> A cloake that I brought you, which I got from my
+wife?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Tush what needeth all this iesting? Pray leaue off.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Iest or earnest, this I tell ye for a truth. I     
+neuer had
+wife, neither haue I, nor neuer was in this place till this
+instant: for only thus farre am I come, since I brake my fast in
+the ship.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> What ship do ye tell me off?
+   </dialogue><nonSpeech> <font>* Mess.</font> </nonSpeech><dialogue> Marry ile tell ye, an old rotten weather-beaten
+ship, that we haue saild vp and downe in this sixe yeares, Ist
+not time to be going homewards thinke ye?
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Come, come, <font>Menechmus</font> , I pray leaue this     
+sporting
+and go in.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Well Gentlewoman, the truth is, you mistake my
+person, it is some other that you looke for.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Why, thinke ye I know ye not to be <font>Menechmus</font> ,
+the sonne of <font>Moschus</font> , and haue heard ye say, ye were borne
+at <font>Syracusis</font> , where <font>Agathocles</font> did raigne, then             
+<font>Pythia</font> , then
+<font>Liparo</font> , and now <font>Hiero</font> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> All this is true.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Either shee is a witch, or else shee hath dwelt   
+there
+and knew ye there.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Ile goe in with her <font>Messenio</font> , Ile see further 
+of this matter.
+<pagebreak id="C1V" />
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Ye are cast away then.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why so? I warrant thee. I can loose nothing,
+somwhat I shall gaine, perhaps a good lodging during my abode
+heere. Ile dissemble with her an other while. Nowe when
+you please let vs go in, I made straunge with you, because
+of this fellow here, least he should tell my wife of the cloake
+which I gaue you.
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Will ye staie any longer for your <font>Peniculus</font> your
+Parasite?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Not I, Ile neither staie for him, nor haue him let
+come in, if he do come.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> All the better. But sir, will yee doo one thing for
+me.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What is that?
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> To beare that cloake which you gaue me, to the
+Diars, to haue it new trimd and altred.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yea that will be well, so my wife shall not know it.
+Let mee haue it with mee after dinner. I will but speake a 
+word or two with this fellowe, then ile follow yee in. Ho
+<font>Messenio</font> come aside: goe and prouide for thy selfe, and these
+shipboyes in some Inne, then looke that after dinner you
+come hither for me.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Ah maister will yee be conycatcht thus 
+wilfully.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Peace foolish knaue, seest thou not what a sot she
+is, I shall coozen her I warrant thee.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Ay maister.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Wilt thou be gone?
+   </dialogue><nonSpeech> <font>* Mess.</font> </nonSpeech><dialogue> See, see, she hath him safe inough now. Thus
+he hath escaped a hundreth Pyrates hands at sea: and now
+one land-rouer hath bourded him at first encounter. Come
+away fellowes.
+<pagebreak id="C2R" />
+
+</dialogue> <head>ACT. 3.</head> 
+
+<nonSpeech>Enter <font>Peniculus.</font> </nonSpeech><dialogue>
+
+* Twentie yeares I thinke and more, haue I playde
+the knaue, yet neuer playd I the foolish knaue as I
+haue done this morning. I follow <font>Menechmus</font> , and he goes
+to the Hall where now the Sessions are holden: there
+thrusting our selues into the prease of people, when I was in
+midst of all the throng, he gaue me the slip, that I could
+neuer more set eye on him, and I dare sweare, came directly
+to dinner. That I would he that first deuised these Sessions
+were hang'd, and all that euer came of him: tis such a
+hinderance to men that haue belly businesses in hand. If a man be
+not there at his call, they amearce him with a vengeance.
+Men that haue nothing else to do, that do neither bid anie
+man, nor are themselues bidden to dinner, such should come
+to Sessions, not we that haue these matters to looke too. If it
+were so, I had not thus lost my dinner this day: which I think
+in my conscience he did euen purposely couzen me off. Yet
+I meane to go see: if I can but light vppon the reuersion, I
+may perhaps get my peny-worthes. But how now? is this
+<font>Menechmus</font> comming away from thence? dinner done, and
+all dispacht? what execrable lucke haue I?
+</dialogue><nonSpeech>Enter <font>Menechmus</font> the trauailer.</nonSpeech><dialogue>
+   Tush I warrant ye, it shall be done as ye would wish, Ile
+haue it so altered and trimd anew, that it shall by no meanes
+be knowne againe.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> He carries the cloake to the Dyars, dinner done, the
+wine drunke vp, the Parasite shut out of doores. Well, let me
+liue no longer, but ile reuenge this iniurious mockerie. But
+first ile harken awhile what he saith.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Good goddes, who euer had such lucke as I? Such
+cheare, such a dinner, such kinde entertainment? And for a
+farewell, this cloake which I meane shall go with me.
+<pagebreak id="C2V" />
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> He speakes so softly, I cannot heare what hee saith,
+I am sure he is now flowting at me for the losse of my 
+dinner.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> She tels me how I gaue it her, and stole it from my
+wife. When I perceiued she was in an error, though I knew
+not how, I began to sooth her, and to say euery thing as she
+said. Meane while I far'd well, and that a free cost.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Well, I'le go talke with him.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Who is this same that comes to me?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> O well met fickle-braine, false and treacherous
+dealer, craftie and vniust promise breaker. How haue I deserued,
+you should so giue me the slip, come before and dispatch the
+dinner, deale so badly with him that hath reuerenst ye like a 
+sonne.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Good fellow what meanest thou by these speeches?
+Raile not on mee, vnlesse thou intendst to receiue a Railers
+hire.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> I haue receiued the iniury (sure I am) alreadie.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Prethee tell me, what is thy name?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Well, well, mock on sir, mock on, doo ye not know
+my name?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> In troth I neuer sawe thee in all my life, much    
+lesse
+do I know thee.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Fie, Awake <font>Menechmus</font> awake, ye ouersleepe your
+selfe.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I am awake, I know what I say.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Know you not <font>Peniculus</font> ?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>Peniculus</font> , or <font>Pediculus</font> , I know thee not.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Did ye filch a cloake from your wife this morning,
+and bring it hither to <font>Erotium</font> ?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Neither haue I wife, neither gaue I any cloake to
+<font>Erotium</font> , neither filcht I any from any bodie.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Will ye denie that which you did in my company?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Pen.</font> </comment> Wilt thou say I haue    
+done this in thy company?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> VVill I say it? yea I will stand to it.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Away filthie mad driuell away, I will talke no
+<pagebreak id="C3R" />
+longer with thee.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Not a world of men shall staie me, but ile go tell 
+his
+wife of all the whole matter, sith he is at this point with me.
+I will make this same as vnblest a dinner as euer he eate.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> It makes mee wonder, to see how euery one that
+meetes me cauils thus with me. VVherefore comes foorth
+the mayd now?
+</dialogue><nonSpeech>Enter <font>Ancilla, Erotiums</font> mayd.</nonSpeech><dialogue>
+<font>Menechmus</font> , my mistresse commends her hartily to you,
+and seeing you goe that way to the Dyars, shee also desireth
+you to take this Chaine with you, and put it to mending at
+the Goldsmythes, shee would haue two or three ounces of
+gold more in it, and the fashion amended.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Either this or any thing else within my power, tell
+her, I am readie to accomplish.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> Do ye know this Chaine sir?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yea I know it to be gold.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> This is the same you once tooke out of your wiues
+Casket.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> VVho, did I?
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> Haue you forgotten?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I neuer did it.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> Giue it me againe then.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tarry, yes I remember it: tis it I gaue your       
+mistres.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> Oh, are ye aduised?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> VVhere are the bracelets that I gaue her likewise?
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> I neuer knew of anie.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Faith, when <font>I</font> gaue this, I gaue them too.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> VVell sir, ile tell her this shall be done?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I, I, tell her so, shee shall haue the cloake and  
+this
+both togither.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> I pray <font>Menechmus</font> , put a litle iewell for my   
+eare to
+making for me, ye know <font>I</font> am alwaies readie to pleasure you.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>I</font> will, giue mee the golde, ile paie for the
+workemanship.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> Laie out for me, ile paie it ye againe.
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Alas I haue none now.
+   </dialogue><nonSpeech> <font>Anc.</font> </nonSpeech><dialogue> When you haue, will ye?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I will. Goe bid your mistresse make no doubt of
+these, I warrant her, ile make the best hand I can of them. Is
+she gone? Doo not all the gods conspire to loade mee with
+good lucke? well I see tis high time to get mee out of these
+coasts, least all these matters should be lewd deuises to draw
+me into some snare. There shall my garland lie, because if
+they seeke me, they may thinke I am gone that way. * I wil
+now goe see if <font>I</font> can finde my man <font>Messenio</font> , that <font>I</font> may  
+tell
+him how <font>I</font> haue sped.
+
+</dialogue> <head>ACT. 4.</head> 
+
+<nonSpeech>Enter <font>Mulier</font> , the wife of <font>Menechmus</font> the Citizen,
+and <font>Peniculus</font> .</nonSpeech>
+
+   <nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Thinkes he <font>I</font> will be made such a sot, and   
+to be
+still his drudge, while he prowles and purloynes all that
+<font>I</font> haue to giue his Trulles?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Nay hold your peace, wee'll catch him in the nicke.
+This way he came, in his garland forsooth, bearing the cloak
+to the Dyars. And see <font>I</font> pray where the garland lyes, this
+way he is gone. See, see, where he comes againe now
+without the cloake.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> VVhat shall <font>I</font> now do?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> VVhat? that which ye euer do, bayt him for life.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Surely <font>I</font> thinke it best so.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Stay, wee will stand a side a little, ye shall     
+catch him
+vnawares.
+</dialogue><nonSpeech>Enter <font>Menechmus</font> the Citizen.</nonSpeech>
+
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> It would make a man at his wittes end, to see how
+brabbling causes are handled yonder at the Court. If a
+poore man neuer so honest, haue a matter come to be scand,
+there is hee outfaste, and ouerlaide with countenance: If a 
+<pagebreak id="C4R" />
+rich man neuer so vile a wretch come to speake, there they
+are all readie to fauour his cause. VVhat with facing out bad
+causes for the oppressors, and patronizing some iust actions
+for the wronged, the Lawyers they pocket vp all the gaines.
+For mine own part, <font>I</font> come not away emptie, though <font>I</font> haue
+bene kept long against my will: For taking in hand to 
+dispatch a matter this morning for one of my acquaintaunce,
+<font>I</font> was no sooner entered into it, but his aduersaries laide so
+hard vnto his charge, and brought such matter against him,
+that do what <font>I</font> could, <font>I</font> could not winde my selfe out til now.
+<font>I</font> am sore afrayd <font>Erotium</font> thinks much vnkindnes in me that
+<font>I</font> staid do long, yet she will not be angry considering the gift
+<font>I</font> gaue her to day.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> How thinke ye by that?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> <font>I</font> thinke him a most vile wretch thus to abuse  
+me.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>I</font> will hie me thither.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Yea go pilferer <comment type="compiler">SOURCE TEXT: pilferet</comment> , goe    
+with shame inough, no bodie
+sees your lewd dealings and vile theeuery.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> How now wife, what aile yee? what is the
+matter?
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Aske yee mee whats the matter? Fye vppon
+thee.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Are ye not in a fit of an ague, your pulses beate so
+sore? to him <font>I</font> say.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Pray wife, why are ye so angry with me?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Oh you know not?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> He knowes, but he would dissemble it.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What is it?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> My cloake.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Your cloake.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> My cloake man, why do ye blush?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> He cannot cloake his blushing. Nay I might not go
+to dinner with you, do ye remember? to him I say.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Hold thy peace <font>Peniculus</font> .
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Ha hold my peace, looke ye, he beckons on mee to
+hold my peace.
+<pagebreak id="C4V" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I neither becken nor winke on him.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Out, out, what a wretched life is this that I liue.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why what aile ye woman?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Are ye not ashamed to deny so confidently, that
+which is apparant.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I protest vnto you before all the goddes (is not   
+this
+inough) that I beckond not on him.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Oh sir, this is an other matter, touch him in the
+former cause.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What former cause?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> The cloake man, the cloake, fetch the cloake againe
+from the Dyars.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What cloake?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Nay ile say no more, sith ye know nothing of your
+owne doings.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tell me wife, hath any of your seruants abused you?
+Let me know.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Tush, tush.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I would not haue you to be thus disquietted.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Tush, tush.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> You are fallen out with some of your friends       
+<comment type="compiler">SOURCE TEXT: ftiends</comment> .
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Tush, tush.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Sure I am, I haue not offended you.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> No, you haue dealt verie honestly.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Indeed wife, I haue deserued none of these words,
+tell me, are ye not well?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> What shall he flatter ye now?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I speak not to thee knaue. Good wife come hither.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Away, away, keep your hands off.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> So, bid me to dinner with you againe, then slip away
+from me, when you haue done, come forth brauely in your
+garland to flout me: Alas you knew not me, euen now.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why Asse, I neither haue yet dined, nor came <font>I</font>
+there, since we were there togither.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> VVho euer heard one so impudent? Did yee not
+meete me here euen now, and would make me beleeue <font>I</font> was
+<pagebreak id="D1R" />
+mad, and said ye were a straunger, and ye knew me not?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Of a truth since wee went togither to the Sessions
+Hall, I neuer returned till this very instant, as you two met
+me.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Go too, go too, I know ye well inough. Did ye think
+I would not cry quittance with you, yes faith, I haue tolde
+your wife all.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What hast thou told her?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> I cannot tell, aske her.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tell me wife, what hath he told ye of me? Tell me
+I say, what was it?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> As though you knew not, my cloake is stolne from me.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Is your cloake stolne from ye?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Do ye aske me?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> If <font>I</font> knew, I would not aske.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> O craftie companion, how he would shift the
+matter, Come, come, deny it not, I tell ye, I haue bewrayd all.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What hast thou bewrayd?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Seeing ye will yeeld to nothing be it neuer so
+manifest, Heare mee, and ye shall know in fewe words both the
+cause of my griefe, and what he hath told me. I say my cloake
+is stolne from me.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> My cloake is stolne from me?
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Looke how he cauils, she saith it is stolne from
+her.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I haue nothing to say to thee: I say wife tell me.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I tell ye, my cloake is stolne out of my house.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Who stole it?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> He knowes best that carried it away.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Who was that?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> <font>Menechmus.</font> 
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> T'was very ill done of him. What <font>Menechmus</font> was
+that?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> You.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I, who will say so?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I will.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> And I: and that you gaue it to <font>Erotium</font> .
+<pagebreak id="D1V" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I gaue it?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> You.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> You, you, you, shall we fetch a kennell of Beagles
+that may cry nothing but you, you, you, you. For we are
+wearie of it.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Heare me one word wife, I protest vnto you by all
+the gods, <font>I</font> gaue it her not, indeed I lent it her to vse a while.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Faith sir, <font>I</font> neuer giue nor lend your apparell 
+out of
+doores, mee thinkes ye might let mee dispose of mine owne
+garments, as you do of yours. <font>I</font> pray then fetch it mee home
+againe.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> You shall haue it againe without faile.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Tis best for you that <font>I</font> haue: otherwise thinke 
+not
+to roost within these doores againe.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> Harke ye, what say ye to me now, for bringing these
+matters to your knowledge?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> <font>I</font> say, when thou hast anie thing stolne from   
+thee,
+come to me, and I will helpe thee to seeke it. And so
+farewell.
+   </dialogue><nonSpeech> <font>Pen.</font> </nonSpeech><dialogue> God a mercy for nothing, that can neuer be, for    
+<font>I</font>
+haue nothing in the world worth the stealing. So now with
+husband and wife and all, <font>I</font> am cleane out of fauour. A
+mischiefe on ye all.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> My wife thinks she is notably reueng'd on me, now
+she shuttes mee out of doores, as though I had not a better
+place to be welcome too. If she shut me out, I know who wil
+shut me in. Now will I entreate <font>Erotium</font> to let me haue the
+cloake againe to stop my wiues mouth withal, and then will
+<font>I</font> prouide a better for her. Ho who is within there?
+somebodie tell <font>Erotium</font> I must speake with her.
+
+</dialogue><nonSpeech>Enter <font>Erotium.</font> </nonSpeech>
+
+   <nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Who calls?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Your friend, more then his owne.
+<pagebreak id="D2R" />
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> O <font>Menechmus</font> , why stand ye here? pray come in 
+<comment type="compiler">SOURCE TEXT: it</comment> .
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Tarry, I must speake with ye here.
+   </dialogue><nonSpeech> <font>Ero.</font> </nonSpeech><dialogue> Say your minde.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Wot ye what? my wife knowes all the matter now,
+and my comming is, to request you, that I may haue againe
+the cloake which I brought you, that so <font>I</font> may appease her:
+and I promise you, ile giue ye an other worth two of it.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Why <font>I</font> gaue it you to carry to your Dyars, and 
+my
+chaine likewise, to haue it altered.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Gaue mee the cloake and your chaine? In truth I
+neuer sawe ye since I left it heere with you, and so went
+to the Sessions, from whence I am but now returned.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Ah then sir, I see you wrought a deuice to defraude
+mee of them both, did <font>I</font> therefore put yee in trust? Well,
+well.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> To defraud ye? No, but <font>I</font> say, my wife hath
+intelligence of the matter.
+   </dialogue><nonSpeech> <font>Erot.</font> </nonSpeech><dialogue> Why sir, <font>I</font> asked them not, ye brought them me 
+of
+your owne free motion. Now ye require them againe, take
+them, make sops of them: you and your wife togither, think
+ye I esteeme them or you either. Goe, come to mee againe
+when I send for you.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What so angry with mee, sweete <font>Erotium</font> ?       
+Staie, I
+pray staie.
+   </dialogue><nonSpeech> <font>* Erot.</font> </nonSpeech><dialogue> Staie? Faith sir no: thinke ye I will staie at  
+your
+request?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What gone in chasing, and clapt to the doores: now
+I am euerie way shut out for a very benchwhistler: neither
+shall I haue entertainment heere nor at home. I were best
+go trie some other friends, and aske counsaile what to do.
+<pagebreak id="D2V" />
+</dialogue> <head>ACT. 5.</head> 
+<nonSpeech>Enter <font>Menechmus</font> the Traueller, <font>Mulier</font> .</nonSpeech><dialogue>
+
+   Most foolishly was I ouerseene in giuing my purse and
+money to <font>Messenio</font> , whom I can no where find, I feare
+he is fallen into some lewd companie.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I maruaile that my husband comes not yet, but see
+where he is now, and brings my cloake with him.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I muse where the knaue should be.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I will go ring a peale through both his eares for  
+this
+his dishonest behauiour. Oh sir, ye are welcome home with
+your theeuery on your shoulders, are ye not ashamde to let
+all the world see and speake of your lewdnesse?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> How now? what lackes this woman?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Impudent beast, stand ye to question about it? For
+shame hold thy peace.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What offence haue I done woman, that I should
+not speake to you?
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Askest thou what offence? O shamelesse
+boldnesse.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Good woman, did ye neuer heare why the
+Grecians termed <font>Hocuba</font> to be a bitch?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Neuer.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Because she did as you do now, on whom soeuer she
+met withall, she railed, and therfore well deserued that
+dogged name.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> These foule abuses and contumelies, I can neuer 
+endure, nay rather will I liue a widowes life to my dying day.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What care I whether thou liuest as a widow or as a
+wife. This passeth, that I meet with none but thus they vexe
+me with straunge speeches.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> What straunge speeches? I say I will surely liue a 
+widowes life, rather then suffer thy vile dealings.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Prethee for my part, liue a widow till the worldes
+end, if thou wilt.
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Euen now thou deniedst that thou stolest it from
+<pagebreak id="D3R" />
+me, and now thou bringest it home openly in my sight. Art
+not ashamde?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Woman, you are greatly to blame to charge mee
+with stealing of this cloake, which this day an other gaue me
+to carry to be trimde.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Well, I will first complaine to my father. Ho boy,
+who is within there? <font>Vecio</font> go runne quickly to my father,
+desire him of all loue to come ouer quickly to my house. Ile
+tell him first of your prankes, I hope he will not see me thus
+handled.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What a Gods name meaneth this mad woman thus
+to vexe me? 
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I am mad because I tell ye of your vile actions, and
+lewde pilfring away my apparell and my Iewels, to carry to
+your filthie drabbes.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> For whome this woman taketh mee I knowe not, <font>I</font>
+know her as much as I know <font>Hercules</font> wiues father.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Do ye not know me? That's well, I hope ye know
+my father, here he comes, looke, do ye know him?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> As much as I knew <font>Calcas</font> of <font>Troy</font> . Euen    
+him and
+thee I know both alike.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Doest know neither of vs both, me nor my father?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Faith nor thy grandfather neither.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> This is like the rest of your behauiour.
+   </dialogue><nonSpeech>Enter <font>Senex.</font> </nonSpeech><dialogue>
+* Though bearing so great a burthen, as olde age, I can
+make no great haste, yet as I can, I will goe to my daughter,
+who I know hath some earnest businesse with me, that shee
+sends in such haste, not telling the cause why I should come.
+But I durst laie a wager, I can gesse neare the matter: I
+suppose it is some brabble between her husband and her. These
+yoong women that bring great dowries to their husbands,
+are so masterfull and obstinate, that they will haue their own
+wils in euerie thing, and make men seruants to their weake
+affections. And yoong men too, <font>I</font> must needs say, be naught
+now a dayes. Well ile go see, but yonder mee thinks stands
+<pagebreak id="D3V" />
+my daughter, and her husband too. Oh tis euen as I gessed.
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Father ye are welcome.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> How now daughter? What? is all well? why is your
+husband so sad? haue ye bin chiding? tell me, vvhich of you
+is in the fault?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> First father know, that I haue not any way
+misbehaued my selfe, but the truth is, I can by no meanes endure
+this bad man to die for it: and therefore desire you to take
+me home to you againe.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> What is the matter.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> He makes me a stale and a laughing stocke to all the
+world.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Who doth?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> This good husband here, to whom you married me.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> See, see, how oft haue I warned you of falling out
+with your husband?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> I cannot auoid it, if he doth so fowly abuse me.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> I alwaies told ye, you must beare with him, ye must
+let him alone, ye must not watch him, nor dog him, nor
+meddle with his courses in any sort.
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> Hee hauntes naughtie harlottes vnder my
+nose.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Hee is the wiser, because hee cannot bee quiet at
+home.
+   </dialogue><nonSpeech> <font>Mulier.</font> </nonSpeech><dialogue> There hee feastes and bancquets, and spendes
+and spoiles.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Wold ye haue your husband serue ye as your drudge?
+Ye will not let him make merry, nor entertaine his friendes
+at home.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Father will ye take his part in these abuses, and
+forsake me?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Not so daughter, but if I see cause, I wil as well 
+tel him
+of his dutie.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I vvould I vvere gone from this prating father and
+daughter.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Hitherto I see not but hee keepes ye vvell, ye vvant
+<pagebreak id="D4R" />
+nothing, apparrell, mony, seruants, meate, drinke, all thinges
+necessarie: I feare there is fault in you.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> But he filcheth away my apparrell and my iewels, to
+giue to his Trulles.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> If he doth so, tis verie ill done, if not, you doo 
+ill to
+say so.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> You may beleeue me father, for there you may see
+my cloake which now he hath fetcht home againe, and my
+chaine which he stole from me.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Now will <font>I</font> goe talke with him to knowe the     
+truth.
+Tell me <font>Menechmus</font> , how is it, that I heare such disorder in 
+your life? Why are ye so sad man? wherein hath your wife
+offended you?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Old man (what to call ye <font>I</font> know not) by high   
+<font>Iobe</font> ,
+and by all the Gods <font>I</font> sweare vnto you, whatsoeuer this
+woman here accuseth mee to haue stolne from her, it is vtterly
+false and vntrue, and if I euer set foote within her doores, <font>I</font>
+wishe the greatest miserie in the worlde to light vppon
+me.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Why fond man, art thou mad to deny that thou euer
+setst foote within thine owne house where thou dwellest?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Do <font>I</font> dwell in that house?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Doest thou denie it?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Harke yee daughter, are ye remooued out of your
+house?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Father, he vseth you as he doth me, this life I haue
+with him.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> <font>Menechmus</font> , I pray leaue this fondnesse, ye    
+iest too
+peruersly with your friends.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Good old father, what I pray haue you to do with
+me? or why should this woman thus trouble me, with whom
+I haue no dealings in the world?
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Father, marke I pray how his eies sparkle, they    
+rowle
+in his head, his colour goes and comes, he lookes wildly.
+See, see.
+<pagebreak id="D4V" />
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What? they say now I am mad, the best way for me
+is to faine my selfe mad indeed, so I shall be rid of them.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Looke how he stares about, now he gapes.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Come away daughter, come from him.
+   </dialogue><nonSpeech> <font>* Men.</font> </nonSpeech><dialogue> <font>Bachus, Appollo, Phoebus</font> , do ye call mee to 
+come
+hunt in the woods with you, I see, I heare, I come, I flie, but
+I cannot get out of these fields. Here is an old mastiffe bitch
+stands barking at mee, and by her standes an old goate that
+beares false witnesse against many a poore man.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Out vpon him Bedlam foole.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Harke, <font>Appollo</font> commaunds me that <font>I</font> should  
+rende 
+out hir eyes with a burning lampe.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> O father, he threatens to pull out mine eyes.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Good gods, these folke say I am mad, and
+doubtlesse they are mad themselues.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Daughter.
+   </dialogue><nonSpeech> <font>Mul.</font> </nonSpeech><dialogue> Here father, what shall we do?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> What if I fetch my folkes hither, and haue him
+carried in before he do any harme.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> How now? they will carry mee in if I looke not to
+my selfe: I were best to skare them better yet. Doest thou
+bid me <font>Phoebus</font> , to teare this dog in peeces with my nayles?
+if I laie hold on him, I will do thy commandment.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Get thee into thy house daughter, away quickly.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> She is gone: yea <font>Appollo</font> I will sacrifice this 
+olde
+beast vnto thee: and if thou commandest mee, I will cut his
+throate with that dagger that hangs at his girdle.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Come not neare me sirra.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yea I will quarter him, and pull all the bones out
+of his flesh, then will I barrell vp his bowels.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Sure I am sore afraid he will do some hurt.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Many things thou commandest me <font>Appollo</font> , wouldst
+thou haue me harnesse vp these wilde horses, and then clime
+vp into the Chariot, &amp; so ouer-ride this old stincking
+toothlesse Lyon. So now I am in the Chariot, and I haue hold on
+the raines, here is my whip, hait, come ye wilde Iades, make a 
+<pagebreak id="E1R" />
+hideous noyse with your stamping: hait I say, will ye not
+go?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> What? doth he threaten me with his horses?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Harke, now <font>Appollo</font> bids mee ride ouer him that
+<comment type="compiler">SOURCE TEXT: him that that</comment> stands there, and kill him. How now?  
+who pulles mee
+downe from my Chariot by the haires of my head. Oh shall
+I not fulfill <font>Appolloes</font> commandment?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> See, see, what a sharpe disease this is, and how   
+well he
+was euen now. I will fetch a Phisitian straight, before hee
+grow too farre into this rage.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Are they both gone now? Ile then hie me away to
+my ship, tis time to be gone from hence.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech>Enter <font>Senex</font> , and <font>Medicus</font> .</nonSpeech>
+   <nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> My loines ake with sitting, and mine eies with
+looking, while I staie for yonder laizie Phisitian: see now where
+the creeping drawlatch comes.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What disease hath hee said you? Is it a letarge or a
+lunacie, or melancholie, or dropsie?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Wherfore I pray do I bring you, but that you shuld
+tell me what it is? and cure him of it.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Fie, make no question of that, Ile cure him I
+warrant ye. Oh here he comes, staie, let vs marke what he doth.
+
+</dialogue><nonSpeech>Enter <font>Menechmus</font> the Citizen.</nonSpeech>
+
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Neuer in my life had I more ouerthwart fortune
+in one day, and all by the villanie of this false knaue the
+Parasite, my <font>Ylisses</font> that workes such mischiefs against mee his
+King. But let me liue no longer, but ile be reuengde vppon
+the life of him: his life? nay tis my life, for hee liues by my
+meate and drinke, Ile vtterly withdraw the slaues life from
+him. And <font>Erotium</font> shee sheweth plainly what she is: who
+because I require the cloake again to carrie to my wife, saith
+I gaue it her, and flatly falles out with me. How
+vnfortunate am I?  
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Do ye heare him?
+<pagebreak id="E1V" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> He complaines of his fortune.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Go to him.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> <font>Menechmus</font> , how do ye man? why keepe you not
+your cloake ouer your arme? It is verie hurtfull to your
+disease. Keepe ye warme I pray.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why hang thy selfe, what carest thou.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir can you smell anie thing?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I smell a prating dolt of thee.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Oh I will haue your head throughly purged. Pray
+tell me <font>Menechmus</font> , what vse you to drinke? white wine or
+claret?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What the diuell carest thou?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Looke, his fit now begins.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Why doest not as well aske mee whether <font>I</font> eate
+bread, or cheese, or beefe, or porredge, or birdes that beare
+feathers, or fishes that haue finnes.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> See what idle talke he falleth into.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Tarry, I will aske him further.
+<font>Menechmus</font> , tell me, be not your eyes heauie and dull
+sometimes?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What doest thinke I am an Owle?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Doo not your guttes gripe ye, and croake in your
+belly?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> When I am hungrie they do, else not.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> He speakes not like a mad man in that. Sleepe ye
+soundly all night?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> When I haue paid my debts I do. The mischiefe
+light on thee, with all thy friuolous questions.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Oh now he rageth vpon those words, take heed.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Oh this is nothing to the rage he was in euen now.
+He called his wife bitch, and all to nought.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Did <font>I</font> ?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Thou didst, mad fellow, and threatenedst to ryde
+ouer me here with a Chariot and horses, and to kill mee, and
+teare me in peeces. This thou didst, <font>I</font> know what I say.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> <font>I</font> say, thou stolest <font>Iupiters</font> Crowne from   
+his head,
+<pagebreak id="E2R" />
+and thou wert whipt through the Towne for it, and that
+thou hast kild thy father, and beaten thy mother. Doo ye
+thinke I am so mad that I cannot deuise as notable lyes of
+you, as you do of me?
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Maister Doctor, pray heartily make speede to cure
+him, see ye not how mad he waxeth?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ile tell ye, hee shall be brought ouer to my house,
+and there will I cure him.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Is that best?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What else, there I can order him as I list.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Well, it shall be so.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Oh sir, <font>I</font> will make yee take neesing powder this
+twentie dayes.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Ile beate yee first with a bastanado, this thirtie
+dayes.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Fetch men to carry him to my house.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> How many will serue the turne?
+   </dialogue><nonSpeech> <font>Medicus.</font> </nonSpeech><dialogue> Being no madder then hee is now, foure will
+serue.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> Ile fetch them, staie you with him maister Doctor.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No by my faith, Ile goe home to make readie all
+things needfull. Let your men bring him hither.
+   </dialogue><nonSpeech> <font>Sen.</font> </nonSpeech><dialogue> I go.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Are they both gone? Good Gods what meaneth
+this? These men say I am mad, who without doubt are mad
+themselues. I stirre not, I fight not, <font>I</font> am not sicke. I speake
+to them, I know them. Well what were I now best to do? I
+would goe home, but my wife shuttes me foorth a doores.
+<font>Erotium</font> is as farre out with me too. Euen here <font>I</font> will rest me
+till the euening, I hope by that time, they will take pittie
+on me.
+</dialogue><nonSpeech>Enter <font>Messenio</font> the Trauellers seruant.</nonSpeech><dialogue>
+* The proofe of a good seruant, is to regard his maisters
+businesse as well in his absence, as in his presence: and I
+thinke him a verie foole that is not carefull as well for his
+<pagebreak id="E2V" />
+ribbes and shoulders, as for his belly and throate. When I
+think vpon the rewards of a sluggard, I am euer pricked with
+a carefull regard of my backe and shoulders: for in truth I
+haue no fancie to these blows, as many a one hath: methinks
+it is no pleasure to a man to be basted with a ropes end two
+or three houres togither. I haue prouided yonder in the 
+Towne, for all our marriners, and safely bestowed all my
+masters Trunkes and fardels: and am now comming to see
+if he be yet got forth of this daungerous gulfe, where I feare
+me is ouer plunged, pray God he be not ouerwhelmed and
+<comment type="compiler">SOURCE TEXT: ouerwhelmed and and</comment> past helpe ere I come.
+</dialogue><nonSpeech>Enter <font>Senex</font> , with foure Lorarij, porters.</nonSpeech><dialogue> 
+   Before Gods and men, <font>I</font> charge and commaund you sirs,
+to execute with great care that which I appoint you: if yee
+loue the safetie of your owne ribbes and shoulders, then goe
+take me vp my sonne in lawe, laie all hands vpon him, why
+stand ye stil? what do ye doubt? I saie, care not for his
+threatnings, nor for anie of his words. Take him vp and bring him
+to the Phisitions house: I will go thither before.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> What newes? how now masters? what will ye do
+with me? why do ye thus beset me? whither carrie ye mee?
+Helpe, helpe, neighbors, friends, Citizens.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O <font>Iupiter</font> , what do I see? my maister abused  
+by a
+companie of varlets.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Is there no good man will helpe me?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Helpe ye maister? yes the villaines shall haue my
+life before they shall thus wrong ye. Tis more fit I should
+be kild, then you thus handled. Pull out that rascals eye that
+holds ye about the necke there. I'le clout these peasants, out
+ye rogue, let go ye varlet.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I haue hold of this villaines eie.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Pull it out, and let the place appeare in his head.
+Away ye cutthroat theeues, ye murtherers.
+   </dialogue><nonSpeech> <font>Lo. Omnes.</font> </nonSpeech><dialogue> O, O, ay, ay, </dialogue><nonSpeech>crie pittifullie.</nonSpeech>
+   <nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Away, get ye hence, ye mongrels, ye dogs. Will ye
+<pagebreak id="E3R" />
+be gone? Thou raskall behind there, ile giue thee somewhat
+more, take that. It was time to come maister, you had bene
+in good case if I had not bene heere now, I tolde you what
+would come of it.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Now as the gods loue me, my good friend I thank
+thee: thou hast done that for me which I shall neuer be able
+to requite.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> I'le tell ye how sir, giue me my freedome.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Should I giue it thee?
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> Seeing you cannot requite my good turne.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Thou art deceiued man.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> Wherein?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> On mine honestie, <font>I</font> am none of thy maister,    
+<font>I</font> had
+neuer yet anie seruant would do so much for me.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Why then bid me be free: will you?
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Yea surelie, be free, for my part.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O sweetly spoken, thanks my good maister.
+   </dialogue><nonSpeech> <font>Seruus alius.</font> </nonSpeech><dialogue> <font>Messenio</font> ,  we are all glad of your   
+good
+fortune.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O maister, ile call ye maister still, I praie vse 
+me in
+anie seruice as ye did before, ile dwell with you still, &amp; when
+ye go home, ile wait vpon you.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Nay, nay, it shall not need.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Ile goe staight to the Inne and deliuer vp my
+accounts, and all your stuffe: your purse is lockt vp safely
+sealed in the casket, as you gaue it mee. I will goe fetch it to
+you.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Do, fetch it.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> I will.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I was neuer thus perplext. Some deny me to be him
+that I am, and shut me out of their doores. This fellow saith
+he is my bondman, and of me he begs his freedome: he will
+fetch my purse and monie: well if he bring it, I will receiue
+it, and set him free, I would he would so go his way. My old
+father in lawe, and the Doctor saie I am mad, who euer sawe
+such straunge demeanors? well though <font>Erotium</font> be neuer so
+<pagebreak id="E3V" />
+angrie, yet once againe ile go see if by intreatie <font>I</font> can get the
+cloake on her to carrie to my wife.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+<nonSpeech>Enter <font>Menechmus</font> the Traueller, and <font>Messenio</font> .</nonSpeech> 
+   <nonSpeech> <font>Men.</font> </nonSpeech><dialogue> Impudent knaue, wilt thou say that I euer saw thee
+since I sent thee away to day, and bad thee come for mee
+after dinner?
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> Ye make me starke mad: I tooke ye away and
+reskued ye from foure great bigboand villaines, that were
+carrying ye away euen heere in this place. Heere they had ye
+vp, you cried, Helpe, helpe, I came running to you, you
+and I togither beate them away by maine force. Then for
+my good turne and faithfull seruice, ye gaue mee my
+freedome: I tolde ye I would go fetch your Casket, now in the
+mean time you ranne some other way to get before me, and
+so you denie it all againe.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> I gaue thee thy freedome?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> You did.
+   </dialogue><nonSpeech> <font>Men.</font> </nonSpeech><dialogue> When I giue thee thy freedome, Ile be a bondman
+my selfe: go thy wayes.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Whewe, marry I thanke ye for nothing.
+
+</dialogue><nonSpeech>Enter <font>Menechmus</font> the Citizen.</nonSpeech><dialogue> 
+ 
+   Forsworne Queanes, sweare till your hearts ake, and your
+eyes fall out, ye shall neuer make me beleeue that I carried
+hence either cloake or chaine.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O heauens, maister what do I see?
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> What?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Your ghoast.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> What ghoast?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Your Image, as like you as can be possible.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Surely not much vnlike me as I thinke.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> O my good friend and helper, well met: thanks
+for thy late good helpe.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Sir, may I craue to know your name?
+<pagebreak id="E4R" />
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I were too blame if I should not tell thee anie
+thing, my name is <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Nay my friend, that is my name.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I am of <font>Syracusis</font> in <font>Sicilia</font> .
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> So am I.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Are you a <font>Syracusan</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O, ho, I know ye: this is my maister, I thought hee
+there, had bene my maister, and was proffering my seruice to
+him, pray pardon me sir, if <font>I</font> said any thing <font>I</font> should not.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Why doating patch, didst thou not come with
+me this morning from the ship?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> My faith he saies true, this is my maister, you may
+go looke ye a man: God saue ye maister: you sir farewell.
+This is <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I say that I am <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> What a iest is this? Are you <font>Menechmus</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Euen <font>Menechmus</font> the sonne of <font>Moschus</font> .
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> My fathers sonne?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Friend, <font>I</font> go about neither to take your   
+father
+nor your country from you.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> O immortall Gods, let it fall out as I hope, and  
+for
+my life these are the two Twinnes, all things agree so iump
+togither. I will speake to my maister. <font>Menechmus</font> ?
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> What wilt thou?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> <font>I</font> call ye not both, but which of you came     
+with me
+from the ship?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Not I.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> <font>I</font> did.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Then <font>I</font> call you. Come hither.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Whats the matter?
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> This same is either some notable cousening
+Iugler, or else it is your brother whom we seeke. <font>I</font> neuer sawe
+one man so like an other, water to water, nor milke to milke,
+is not liker then he is to you.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Indeed I thinke thou saiest true. Finde it
+<pagebreak id="E4V" /> 
+that he is my brother, and <font>I</font> here promise thee thy freedom.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> Well, let me about it. Heare ye sir, you say your
+name is <font>Menechmus</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> <font>I</font> do.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> So is this mans. You are of <font>Syracusis</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> True.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> So is he. <font>Moscus</font> was your father?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> He was.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> So was he his. What will you say, if I find that ye
+are brethren and twins?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I would thinke it happie newes.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Nay staie maisters both, I meane to haue the honor
+of this exploit. Answere me: your name is <font>Menechmus</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> And yours?
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> And mine.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> You are of <font>Syracusis</font> ?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> And I.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Well, this goeth right thus farre. What is the
+farthest thing that you remember there?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> How I went with my father to <font>Turentum</font> ,   
+to a
+great mart, and there in the preasse I was stolne from him.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> O <font>Iupiter</font> !
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Peace, what exclaiming is this? How old were ye
+then?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> About seuen yeare old, for euen then I shedde
+teeth, and since that time, I neuer heard of anie of my
+kindred.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Had ye neuer a brother?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Yes, as I remember, I heard them say, we were
+two twinnes.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> O Fortune!
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Tush, can ye not be quiet? Were ye both of one
+name?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Nay (as I think) they cald my brother,        
+<font>Sosicles</font> .
+<pagebreak id="F1R" />
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> It is he, what need farther proofe?
+O Brother, Brother, let me embrace thee.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Sir, if this be true, I am wonderfully glad,  
+but
+how is it, that ye are called <font>Menechmus</font> ?
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> When it was tolde vs that you and our father
+were both dead, our Graundsire (in memorie of my fathers
+name) chaungde mine to <font>Menechmus</font> .
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Tis verie like he would do so indeed. But let 
+me
+aske ye one question more, what was our mothers name?
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> <font>Theusimarche.</font> 
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Brother, the most welcome man to mee, that
+the world holdeth.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> I ioy, and ten thousand ioyes the more, hauing
+taken so long trauaile and huge paines to seeke you.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> See now, how all this matter comes about. This it
+was, that the Gentlewoman had ye in to dinner, thinking it
+had bene he.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> True it is, I willed a dinner to be prouided  
+for
+me heere this morning, and I also brought hither closely a
+cloake of my wiues, and gaue it to this woman.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Is not this the same, Brother?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> How came you by this?
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> This woman met me, had me in to dinner,
+enterteined me most kindly, and gaue me this cloake, and this
+Chaine.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Indeed she tooke ye for mee: and I beleeue I
+haue bene as straungely handled by occasion of your
+comming.
+   </dialogue><nonSpeech> <font>Messe.</font> </nonSpeech><dialogue> You shall haue time inough to laugh at all these
+matters hereafter. Do ye remember maister, what ye
+promised me?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Brother <font>I</font> will intreate you to performe   
+your
+promise to <font>Messenio</font> , he is worthie of it.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> <font>I</font> am content.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> <font>Io Tryumphe.</font> 
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Brother, will ye now go with me to            
+<font>Syracusis</font> ?
+<pagebreak id="F1V" />
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> So soone as I can sell away such goods as I
+possesse here in <font>Epidamnum</font> , I will go with you.
+   </dialogue><nonSpeech> <font>Men. Tra.</font> </nonSpeech><dialogue> Thanks my good Brother.
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> <font>Messenio</font> , plaie thou the Crier for me,   
+and make
+a proclamation.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> A fit office. Come on. O yes.
+What day shall your sale be?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> This day sennight.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> All men, women and children, in <font>Epidamnum</font> , or
+elsewhere, that will repaire to <font>Menechmus</font> house this day
+senight, shall there finde all maner of things to sell: seruaunts,
+houshold stuffe, house, ground <comment type="compiler">SOURCE TEXT: gronnd</comment> , and all: so 
+they bring readie
+money.
+Will ye sell your wife too sir?
+   </dialogue><nonSpeech> <font>Men. Cit.</font> </nonSpeech><dialogue> Yea, but I thinke no bodie will bid money 
+for her.
+   </dialogue><nonSpeech> <font>Mess.</font> </nonSpeech><dialogue> Thus Gentlemen we take our leaues, and if we haue
+pleasde, we require a <font>Plaudite</font> .
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

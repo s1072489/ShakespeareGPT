@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1THICKF">
+  <dialogueHeader>
+
+    <filename>D1THICKF</filename>
+
+    <identifier>1 TRIAL D1THICKF</identifier>
+
+    <title>ROBERT HICKFORD</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1571/1730</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">EMLYN, SOLLOM.</attribution>
+      <frontMatter>VIII. THE TRIAL OF MR. ROBERT HICKFORD, AT THE QUEEN'S-BENCH,
+FOR HIGH-TREASON, 9 FEBRUARY, 1571. HIL. 14 ELIZ.
+IN: A COMPLETE COLLECTION OF STATE-TRIALS, AND PROCEEDINGS FOR 
+HIGH-TREASON, AND OTHER CRIMES AND MISDEMEANOURS; FROM THE REIGN OF 
+KING RICHARD II. TO THE END OF THE REIGN OF KING GEORGE I.
+IN SIX VOLUMES.
+WITH TWO ALPHABETICAL TABLES TO THE WHOLE.
+THE SECOND EDITION, WITH GREAT ADDITIONS.
+LONDON: PRINTED FOR J. WALTHOE SEN. (...), 
+M.DCC.XXX.
+(VOL. I)
+PP. 117.54C1 - 118.58C2 SAMPLE 1
+PP. 120.28C2 - 121.3C2  SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="117C1" />
+<nonSpeech>After the reading of the Indictment,
+being ask'd by the Clerk of the Crown,
+If he were Guilty or Not Guilty? He
+answer'd to this effect; being
+admonish'd to speak higher, whereunto he
+excus'd himself by the Lowness of his Voice.</nonSpeech>
+   <nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I am here indicted of divers Points of
+High-Treason, part whereof I deny, for that I
+was never privy to the same: My Fact, such as
+<pagebreak id="117C2" />
+it is, I am ready to confess, and declare as I have
+already confess'd it. I am not learned in the
+Law, I know not in what Form to answer unto
+it. This only I require to be heard to declare the
+Truth, so far as the Matter toucheth me: I here
+protest before your Honours, and in the Presence
+of God, that I bring a Conscience untouch'd
+with any intent of hurt, ever conceiv'd by me
+against the Queen's Majesty's Person, or my
+<pagebreak id="118C1" />
+Country; I never meant any such thing in my Heart;
+I know the Law hath not Intent to the Conscience,
+or Intent of Men; but is to judge only of the
+Mind, according to the appearing of outward
+Facts: so the Law cannot accept my Intent for
+my Purgation. Therefore I shall declare the
+Truth of my Doing, and upon that further open
+unto you at large my Dealing in the Matters
+contain'd in the Indictment. First, For the Matter of
+moving of Sedition, I did never know that any
+such thing was meant by my Lord, or any other;
+and whatsoever was by him, or any other intended,
+I was not privy unto it. I do confess indeed,
+that the Articles mention'd in the Indictment were
+sent to my Lord, my late Master, which by his
+Commandment I decypher'd, for they were
+brought in Cypher. Then my Lord read them,
+and folded them up, and put them in the Pocket
+of his Hose, and said, The Bishop of <font>Rosse</font> will
+never be quiet, and then he went to Supper; and
+from that time I never saw that Writing till it was
+shew'd me in the <font>Tower</font> . What Answer my Lord
+made to them, or whether he answer'd them or
+no, I know not.
+   </dialogue><nonSpeech>C.J. <font>Catlin.</font> </nonSpeech><dialogue> <font>Hickford</font> , you seem to be a Man of
+Knowledge and Learning, you have been indicted,
+and are now arraign'd according to Order of Law;
+you must follow Order, you must answer to the
+Indictment, confess or deny it, you shall be heard
+after to say your Mind. You must plead unto it
+Guilty or not Guilty.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I do confess the Law hath no respect
+to Man's Intent, but judgeth according to his
+Fact. I confess I saw these Articles and
+decypher'd them, I shew'd them to my Lord; I
+revok'd them not, as in Duty I ought to have done,
+and therefore I think my self Guilty.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> The Indictment containeth divers
+Clauses of Treason, therefore answer, if you be
+guilty, to any special Matters contain'd in the
+Indictment, or that you will confess your self Guilty of
+the whole.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I may not confess of my self that
+whereof my Conscience doth not accuse me, some
+Parts I am not privy to; the first Point, 
+concerning stirring of Sedition, I do not know that ever
+any such thing was meant by my Lord. What
+Intention he had, God and his own Conscience
+knoweth it. As touching the Matter of <font>Rodolph's</font>
+going over to the King of <font>Spain</font> , to the Pope,
+and the Duke of <font>Alva</font> , and the Instructions of
+that Voyage contain'd in the thing, that by my
+Lord's Commandment I decypher'd: I answer, as
+I have before said, that I never knew of any
+Proceeding, nor dealt therein afterwards; and my
+Lord, when he read it decypher'd, he answer'd as
+I said before, The Bishop of <font>Rosse</font> will never be
+quiet. I thought he had burnt that Paper, as a
+thing that he lik'd not; but what he did with it,
+or in the Matter afterward, I cannot tell.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> You must answer more roundly and
+directly to the Matter; for these Circumstances and
+Points, you shall be heard afterward. In the mean
+time answer plainly, if you be Guilty or not
+Guilty.
+   </dialogue><nonSpeech> <font>Southcote.</font> Mr. <font>Southcote</font> spake to the same effect,
+and told him, That if he pleaded Not Guilty,
+these his Declarations should be heard at large
+upon the Evidence.</nonSpeech>
+   <nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> To part of the Indictment I confess
+my self Guilty, which concerneth the
+<pagebreak id="118C2" />
+decyphering of the Letters by my Lord's Procurement and
+Commandment; after which time I never dealt
+in it.
+   </dialogue><nonSpeech> <font>Southcote.</font> </nonSpeech><dialogue> You were best to plead Not Guilty
+to the whole Indictment; and for such Matters
+and Parts of the Indictment as you can clear 
+your self, the Jury may find you not Guilty, and
+find you Guilty for the rest.
+   </dialogue><nonSpeech>The Lord Chief Justice and Mr. Attorney
+advis'd to the same effect.</nonSpeech>
+   <nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I am Guilty. I know under how
+merciful a Queen I live: I submit my self wholly
+to her Majesty's Mercy. I will not stand long
+upon that, whereof mine own Conscience
+condemneth me.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> Confess you Guilty to the whole
+Indictment?
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Are you Guilty of
+adhering to, and comforting the Queen's
+Enemies, and the conveying of the
+<font>French</font> Packet and Money that was sent to relieve
+them?
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I confess my self Guilty.
+   </dialogue><nonSpeech> <font>Serj.</font> Then, after some pause, Mr. Serjeant
+<font>Barham</font> spake to this effect:</nonSpeech><dialogue> Forasmuch as <font>Robert
+Hickford</font> hath been indicted of High-Treason, and
+among other things, that he hath adher'd to and
+comforted the Queen's Enemies, and the same
+Indictment hath been read unto him, and he hath
+confess'd the Treasons; I am to pray your
+Lordships, on the Queen's Majesty's behalf, that his
+Confession may be entred, and Judgment given
+for the Queen against him, according to the Law.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> May I now declare to what Points I
+am not Guilty?
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> There are two Points in the
+Indictment that concern your self; the Dealing in the
+Matter about <font>Rodolph's</font> Voyage, and the
+Instruction for the same, and the adhering to and
+comforting of the Queen's Enemies: Are you not
+Guilty of these?
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I am Guilty.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> If you will yet wave and forsake your
+Confession, we are content to admit you to do so,
+and you may yet plead Not Guilty, and you shall
+have your Trial.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> No, I will submit me wholly to her
+Majesty's Mercy. I know under how merciful a
+Prince I live, tho my Deserts be far unworthy,
+by my Master's Means and Procurement. I know
+I bring, as I said, a Conscience untouch'd with
+any Intent or Meaning of Hurt to her Majesty's
+Person, or to my Country. And this I say before
+God, and in the Presence and Witness of you
+all; howbeit the Law accepteth not, nor judgeth
+by secret Intents, for so might every Man clear
+himself.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="120C2" />
+   <nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I beseech you, my Lord, let me use
+a few words, to declare the Course of my
+Doing. My Lord was not then deliver'd: Shortly
+after it happen'd, that by occasion of a Sickness,
+and being sick of the Plague in the <font>Tower</font> , my
+Lord was remov'd to his own House at the
+<font>Charter-house</font> ; then we had great hope that we
+should shortly be receiv'd into her Majesty's
+Favour, and come to the Court again, and so
+continu'd till the Cypher came from the Bishop of
+<font>Rosse</font> , before which time and since I was never
+privy to that Matter. The Cause why I was
+never afterward made privy, was this; My Lord
+being at home at his House at <font>Charter-house</font> , I
+told him, I lik'd not this Doing, it would not have
+good end.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Why did you then still follow? Why
+left you him not?
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> He answer'd me, thou art a Fool,
+thou understandest not.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> He told you Truth, that you were a
+Fool, for you play'd the Fool indeed.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I would then have gone from him,
+and I sought to depart; he would never give me 
+leave, as Mr. <font>Bannister</font> well knoweth.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> Why? he was not your Prince, you were
+not so bound that he could compel you to tarry
+with him.
+   </dialogue><nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> Otherwise I dealt not with the Bishop
+of <font>Rosse</font> .
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> In following him, the Hurt was yours;
+if you had been a good Subject, and had regard
+of your Duty, you might and should have taken
+other Course; but you had a higher Hope, to
+have seen your Master in higher State to advance
+you; you had more Respect to your Master than
+to your Mistress.
+   But this is nothing to the Matter.
+   </dialogue><nonSpeech>So his purpos'd longer Speech was cut off, and
+then he said shortly thus:</nonSpeech>
+   <nonSpeech> <font>Hickford.</font> </nonSpeech><dialogue> I humbly thank your Lordship again
+for your good Admonition; and as your Lordship
+hath rehears'd the History of the <font>French</font>
+Embassador to the Duke of <font>Milan</font> , so I would and pray
+God, that he that hath brought my Lord to this
+<pagebreak id="121C1" />
+may have the like Success. I humbly submit my
+self to the Queen's Majesty's Mercy. I know I
+have liv'd under a most gracious and merciful
+Queen. I wish God long to preserve her
+Majesty, and this little time that I have left I will
+spend in Prayer for her Preservation; and I
+beseech God have Mercy upon me.
+<pagebreak id="121C2" />
+   </dialogue><nonSpeech>Whereunto the Court, and all that were present,
+said,</nonSpeech><dialogue> <font>Amen</font> ; </dialogue><nonSpeech>and some said secretly, he had then
+shew'd himself a wiser Man than his Master.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

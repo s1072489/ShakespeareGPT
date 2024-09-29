@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HFERON">
+  <dialogueHeader>
+
+    <filename>D2HFERON</filename>
+
+    <identifier>2 HANDB FRE D2HFERON</identifier>
+
+    <title>THE FRENCH GARDEN</title>
+
+    <author>ERONDELL PETER</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1605</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-FRENCH">Language teaching handbook: French</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ERONDELL, PETER.</attribution>
+      <frontMatter>THE FRENCH GARDEN: FOR ENGLISH LADYES AND GENTLEWOMEN TO WALKE 
+IN. OR, A SOMMER DAYES LABOUR. BEING AN JNSTRUCTION FOR THE ATTAYNING 
+VNTO THE KNOWLEDGE OF THE FRENCH TONGUE: (...)
+BY PETER ERONDELL PROFESSOR OF THE SAME LANGUAGE.
+LONDON 
+PRINTED FOR EDWARD WHITE AND ARE TO BE SOLDE AT HIS SHOP NEERE 
+THE LITTLE NORTH-DOORE OF S. PAULES CHURCH AT THE SIGNE OF THE GUN. 
+1605
+PP. D4V.1 - K1V.29
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">ENGLISH TEXT PRINTED ON ALTERNATE PAGES.</comment>
+
+<pagebreak id="D4V" />
+</dialogue> <head>THE FRENCH GARDEN.</head> 
+
+ <head>THE DIALOGUES.</head> 
+
+ <head>THE RISING IN THE MORNING.</head> 
+
+<nonSpeech>The Lady, called my <font>Lady Ri-melaine:
+the chamber-maid (called Prudence) the Page:
+the wayting Gentle-woman (named Ioly.) </font> </nonSpeech><dialogue>
+
+   What, is it so broad day? God send vs
+the light of Heauen.
+
+<comment type="compiler">A MORNING PRAYER OMITTED.</comment>
+<pagebreak id="D6V" />
+Hoe! who is in the inner Chamber?
+how now Maidens, heere you not?
+are you deafe? </dialogue><nonSpeech> <font>Prudence the Chamber-maide.</font> </nonSpeech><dialogue> 
+I am heere Madam. </dialogue><nonSpeech> <font>The La.</font> </nonSpeech><dialogue> Why
+doe you suffer me to sleepe so long?
+I am ashamed of my selfe truely, </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> I came
+heather soft and faire, once or twice,
+to see if you were awaked, and seeing
+you a sleepe I durst not awake you,
+but it is not so late as you thinke.
+   </dialogue><nonSpeech> <font>La:</font> </nonSpeech><dialogue> What is it a clocke? </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> it is but
+halfe an houre past seauen.
+   </dialogue><nonSpeech> <font>La:</font> </nonSpeech><dialogue> what is it so farre day? Oh God!
+I went to bed yesternight so timely, thinking to
+rise this morning, at y=e= farthest at 6. a clock: now
+I verifie in me the graue speeches of that great
+Philosopher the Emperor <font>Marc. Aur.</font> speaking
+of the vnsatiablenes of mankinde, when he said
+(among other things) the more I sleep, the more
+I would sleep. Go too go too, draw the
+windowe Curtaines: call my Page,
+let him bring some wood to my Chamber doore,
+make a fier quickly that I may rise.
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> Page where are you? what are you not
+readye? I thinke you must haue
+<pagebreak id="D7V" />
+a Chamberlaine. </dialogue><nonSpeech> <font>The Page.</font> </nonSpeech><dialogue> How now?
+what haue you seene this morning?
+hath your Louer broken promise
+with you? how sharp you are! how wel you play
+the Mistresse? my Lady could not chide
+better, what ayleth you? </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> I crye you
+mercye sir, haue I offended you?
+one may not speake to you, but with reuerence,
+you haue forgotten your last beating, you
+haue great need that my Lady remember
+you, it is so long since shee made
+you be whipped: will it please you
+to fetch some wood? bring some faggots
+and billets, forget not a bauen,
+and see that it be drye, for the faggots
+are too greene, lay them at the Chamber
+doore, &amp; come not in the chamber vntil my Lady
+be vp, or that you be called,
+hasten you. </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> O God! how long
+you make me tarrye! kindle the 
+fire quickly, warme my smocke, and giue
+it me. Where is Ioly? call her:
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> she commeth Madame Mistresse Iolye,
+My Ladye calleth you in great hast:
+   </dialogue><nonSpeech> <font>Iolye.</font> </nonSpeech><dialogue> Good Lord! what shall I doe?
+she will chide me, I pray thee sweet
+heart, help me a little to put on my gowne,
+giue me that Rebato as it is, I
+will pin it anone, I haue not
+leysure to doe it now: I cannot
+<pagebreak id="D8V" />
+finde my Kertle nor my aprone,
+I giue you great thankes, I will
+an other time, doe so much for you.
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> Mend that same a little, that
+hangeth behinde you. </dialogue><nonSpeech> <font>Iolye.</font> </nonSpeech><dialogue> I am well enough
+I will dresse my selfe better anone.
+let me goe, I heare my Ladye call.
+   </dialogue><nonSpeech> <font>Ladye.</font> </nonSpeech><dialogue> Will you keepe me heere
+all the day? where be all my
+thinges? goe fetch my cloathes:
+bring my petty-coate bodyes: I meane my
+damask quilt bodies with whale bones, what
+lace doe you giue me heere? this lace is too
+shorte, the tagges are broken, I cannot
+lace my selfe with it, take it away, I will haue
+that of greene silke: when shall I haue my
+vnder coate? giue me my peticoate of wrought <comment type="compiler">SOURCE TEXT: wrought?</comment>
+Crimson veluet with siluer fringe: why doe
+you not giue me my night gowne? for
+I take colde: where be my stockens?
+giue me some cleane sockes, I will
+haue no woorsted hosen, showe me
+my Carnation silke stockins: where laide you
+last night my garters? take away these slippers,
+giue me my veluet pantofles;
+send for the shoomaker that he may haue
+againe these turn-ouer shooes, for they be too high
+Put on my white pumpes: let them vp
+I will none of them: Giue me rather my
+Spanish leather shooes, for I will walke
+<pagebreak id="E1V" />
+to day, This shooing-horne hurteth me,
+Can you not put them on with the furre?
+Tye the strings with a strong double
+knot, for feare they vntye them-selues:
+Iolye, come dresse my head, set
+the Table further from the fire, it is too neere.
+Put my chayre in his place, Why doe you
+not set my great looking glasse on the table?
+It is too high, set the supporter lower,
+Vndoe my night attire:
+Why doe you not call the Page to warme the
+rubbers? let him be called: heere sirra warme
+that, and take heed you burne it not.
+I praye you Iolye rubbe well my head,
+for it is very full of dandrife, are not my combes
+in the case? Where is my
+Iuorye combe? Combe mee
+with the boren combe: Giue me
+first my combing cloth, otherwise
+you will fill me full of haires, the haires
+will fall vpon my cloathes,
+Combe backe-ward, O God! you combe
+too harde, you scratch me, you
+pull out my hayres, can you not
+vntangle them softly with your handes
+before you put the combe to it? </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> will
+it please you to rise vp a little Madame?
+For your haires are so long, that they
+trayle on the ground </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> My daughter
+Fleurimonde is like me in that,
+<pagebreak id="E2V" />
+hath she not faire haires, what say you of it?
+   </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> Truly Madame she hath the fayrest,
+the longest flaxen-couler haires that one can see,
+there needeth no curling of them, for they are
+curled of themselues, In truth she
+hath the fayrest head of haires that euer I sawe.
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> I like her the better for it,
+it is a thing verye comely for a
+woman, and as <font>Saint Paul</font> saith,
+It is an Ornament vnto her, but whilst
+we prattle, we forget that the
+time goeth away: go too, I am combed enough.
+Page, take the combe-brushes, and make cleane
+my combes, take heed you doe not make them
+cleane with those that I vse to my head: take a
+quill to take away the filth from them, and
+then put them in the case, that none be
+missing: go too, make an end of dressing my head.
+   </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> What doth it please you to weare to day
+Madame? will it please you to weare your
+haires onely, or els to haue your
+French whood? </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> giue me
+my whood, for me thinketh it is
+some-what colde, and I haue a rewme which
+is falne on the left side of my head,
+But tarrye, what weather is it?
+   </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> Truely Madame it seemeth that this
+day will be the fayrest day that hath bene this 
+great while. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> I perceiue
+that you would haue me to take an
+<pagebreak id="E3V" />
+other attyre, and for to please you, I am
+content of it, but if I be sicke thereby, I will
+laye the blame on you. </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> Noe with 
+the grace of God Madame.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Set vp then my French whood and my
+Border of Rubies, giue me an other
+head attyre: take the key of my closet,
+and goe fetch my long boxe where I set
+my Iewels (for to haue them out) that I vse to
+weare on my head, what is become of my wyer?
+where is the haire cap? haue you any ribans to
+make knots? where be the laces
+for to binde my haires? go too Page giue me
+some water to wash, where's my muske ball?
+giue me rather my paste of Almonds, for
+it scoureth better: where is my piece
+of Scarlet to wipe my face? giue
+me that napkin: now set on my
+Carkenet of precious stones: call
+my Taylor to bring my gowne, not
+the close one, but my open gowne of
+white Sattin layd on with buttons of Pearle.
+Prudence, giue me my bracelets of Aggathes
+Shall I haue no vardingale? you
+remember nothing, you haue a
+Coneyes memorye, you lose it in running,
+go too you head-braine fellowe, Page hear you?
+you doe but playe the foole, doe you not see
+that I want my buske? what is
+become of the buske-poynt? </dialogue><nonSpeech> <font>Iol.</font> </nonSpeech><dialogue> what dooth it
+<pagebreak id="E4V" />
+please you to haue Madame, a ruffe band or a
+Rebato? </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> Let me see that ruffe,
+How is it that the supporter is so soyled?
+I knowe not for what you are fit, that
+you cannot so much as to keep my
+cloathes cleane: I beleeue that the meanest
+woman in this towne, hath her apparel in better
+order then I haue: take it away giue me my
+Rebato of cut-worke edged, is not the wyer
+after the same sorte as the other?
+It is great wonder if it be any thing better,
+Me think it is now time that you should
+knowe how to serue. Is there no small
+pinnes for my Cuffes?
+Looke in the pinne-cushen.
+Pinne that with a blacke pinne, giue
+me my girdle and see that all the
+furniture be at it: looke if my Cizers,
+the pincers, the pen-knife, the knife to close
+Letters, with the bodkin, the ear-picker and my
+Seale, be in the case: where is my pursse
+to weare vpon my gowne? and see that my siluer
+Comfet box be full of Comfets: haue I a cleane
+handkercher? I will haue no Muffe, for it is not
+colde, but shall I haue no gloues?
+Bring my maske and my fanne,
+Help me to put on my Chayne of pearles.
+Page come hether, goe to my Ladye
+of <font>Beau-seiour</font> <comment type="compiler">NOTE IN MARGIN: <font>Beau-seiour</font> signifieth      
+faire abode.</comment> , haue me most humblye
+commended vnto her, &amp; tell her that if she haue
+<pagebreak id="E5V" />
+no greater busines, if it
+pleaseth her to take the paines to come &amp; dyne
+with vs, &amp; bring with her, her Sister Mistresse
+<font>Du Pont-gailliard</font> <comment type="compiler">NOTE IN MARGIN: <font>Du Pont-gaillard</font> : of    
+the liuely bridge.</comment> , they shall be most hartilie 
+welcome, and whome so euer it shall please
+them to bring w=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> them, &amp; we will do 
+something
+this after noone for to recreate vs
+and passe the time: goe your wayes, bring me
+an answer forth-with: and you Prudence set vp
+all my night-geare, put them in
+the cushen cloath dresse my chamber, &amp; then goe
+aske Mistresse <font>Clemence</font> (my Daughters
+Mistresse) if they be readye?
+Bid her bring with her to me in the gallerie,
+<font>Fleurimonde</font> &amp; <font>Charlot</font> with their worke. Iolye
+come with me, carye with you my prayer-booke
+and my Psalter, first goe
+to the boyes chamber, see if they be
+readie: come againe by and by, to the end that
+I be not alone, you shall finde me
+in the gallerie.
+<pagebreak id="E6V" />
+</dialogue> <head>THE 2. DIALOGUE.</head> 
+
+<nonSpeech> <font>Prudence: The Mistresse (named M=rs=.
+Clemence Valdory) The Daughters: 
+Fleurimonde, and Charlotte</font> .</nonSpeech>
+
+   <nonSpeech> <font>M=rs=. Clem.</font> </nonSpeech><dialogue> Who knocketh there?
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> It is I M. Clemence,
+   </dialogue><nonSpeech> <font>Mistr,</font> </nonSpeech><dialogue> Come in, the doore is not locked
+nor bolted.
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> God giue you
+good morrowe Gentle-women: good morrowe
+Mistresse Clemence: </dialogue><nonSpeech> <font>Fleuri.</font> </nonSpeech><dialogue> And to you also
+Prudence, what newes? doe you bring vs
+anye newes? is my Mother vp?
+   </dialogue><nonSpeech> <font>Pru.</font> </nonSpeech><dialogue> Vp! she is alreadie in the gallery, she
+hath sent me to knowe if you were readie,
+She biddeth you you three to come to her,
+and that yo bring your worke with you
+   </dialogue><nonSpeech> <font>Mist.</font> </nonSpeech><dialogue> Did not I tell you so? in truth
+it grieueth me verye much to see you so
+sluggish. I haue called you an houre 
+before you began to rise, you will
+force me in the end to complaine
+to my Ladye your mother: it is a thing
+vndecent and vnwholsome, for young people
+to lye a bed so long: go too
+mistresse Charlot, your
+eldest sister is readie, are not
+you so yet? </dialogue><nonSpeech> <font>Chorl.</font> </nonSpeech><dialogue> I pray you
+<pagebreak id="E7V" />
+doe not tell my mother and you shall see
+that heer-after we shalbe more dilligent,
+not-with-standing I am readie doe you not
+remember the Prouerbe which my
+Brother tolde vs the other day, that to rise early
+is not the best chance but to breake-fast is
+the surest thing? Sister where be our workes?
+I forgot my needle case, take the
+silke, the bottome of threed, the cruel is not
+vntwyned it is all one, let vs goe when
+you please, but tary a little, I haue
+not my siluer thimble, it is within my
+worke-boxe.
+
+</dialogue> <head>THE 3. DIALOGUE.</head> 
+
+<nonSpeech> <font>The Ladye: the Daughters: the
+Mistrisse</font> </nonSpeech>
+
+   <nonSpeech> <font>The Dau.</font> </nonSpeech><dialogue> I Beseech you Mother pray
+to God to blesse me and giue
+me your blessing, if it pleaseth you.
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> I pray the strong Almightie God
+to increase his graces in you,
+and to blesse you. I meruaile verie much that
+French-men (which bring vp and teach their
+Children so well) doe not make them to aske
+their parentes blessing (I meane their fathers
+and mothers) seeing that it is a thing that hath
+<pagebreak id="E8V" />
+hath bene vsed by the holy Patriarches,
+<comment type="compiler">COMMENT IN MARGIN: The duety of children towards their pare~ts 
+to craue their blessinges.</comment> 
+And also that <font>Ecclesiasticus</font> saith, that the
+blessing of the father, doth strengthen the houses
+of the children, and that the mothers
+cursse doth roote out the foundation thereof:
+What say you to it mistresse Clemence?
+   </dialogue><nonSpeech> <font>Mist.</font> </nonSpeech><dialogue> Madame, y=e= fathers &amp; mothers in France
+doe not neglect to pray to God for their
+Children, and although they vse not the
+outward Cerimonie, yet they doe blesse
+them, and without doubt, God heareth their
+Prayers, and maketh the children to prosper.
+<comment type="compiler">COMMENT IN MARGIN: The duetie of parentes towards their Children.</comment> 
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> But yet a thing is of small
+value, if it be not worth the asking: 
+And although it is the part of fathers &amp; mothers
+(truely Christians) to haue care of
+their childrens education, and to pray
+zealously for them, and also to prouide them
+necessary thinges for this temporall life,
+(Otherwise they should be worse then
+Infidels and the fowles of the ayre)
+Yet it is the childrens duetye
+to require it in all humblenes: but enough of
+that. If French-men doe amisse therein, we
+neglect (it may be) manye other
+good customes w=c= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> they do obserue. Now 
+Fleurimond, haue you prayed to God to day?
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Yes forsooth mother. </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> It is
+well done, for (as <font>Monsieur de Pibrac</font> saith
+in the first verse of the first of his Quadrins)
+<pagebreak id="F1V" />
+God first of all, then honour father and mother:
+which agreeth <comment type="compiler">SOURCE TEXT: agreeeth</comment> very well with this sentence:
+Set God before, then let vs care for our selues.
+which is as much to say, that the first
+care we ought to haue, is to
+serue God, and then after to care for
+transitorie thinges, but note well that which I
+tell you: Go too Charlote, where is your
+minde? fixe my Instruction in
+your memorye. I say that so soone as one
+doth awake, yea euen at the breake of day,
+we must praise God, according to an other
+Quadrin of that honorable and learned
+personage before-named: which followeth.
+
+   At peepe of day, rise and praise God,
+Let this first worke appeere:
+At night leaue worke, and praise God to,
+And thus spend all the yeere.
+
+   So that we ought to begin
+and end the day, yea our yeeres, by one
+same thing: that is, to serue and praise God.
+When you haue some more
+knowledge in the french tongue, I
+will that your Master
+make you to learne by heart,
+<font>Mounsi. de Pibracs</font> Quadrins, for they be full
+of erudition and rich sentences. I pray you
+Mist. Clemence, and I doe charge you, aboue all
+<pagebreak id="F2V" />
+things, that you stir them to the seruice of God.
+Youth is bound to haue in reuerence
+their Maisters.
+<comment type="compiler">COMMENT IN MARGIN: The duetie of children towards their maisters &amp; 
+teachers.</comment> 
+and all those which teach them to good,
+for they are to them as second fathers and
+mothers: yea <font>Allexander</font> the great did preferre
+his Maister <font>Aristotle</font> to his Father Phillip,
+in as much that he had receiued but life
+of his father, &amp; of <font>Aristotle</font> , he had the meanes
+and knowledge to liue wel, for there is one same
+resemblance betweene the not being, &amp; the euill
+being, sauing that, that which is not, getteth
+no euill fame, and is not in danger
+of eternall torment, but he which
+hath a bad being, or is wicked, is
+subiect to both: <comment type="compiler">COMMENT IN MARGIN: A Caueat for Maisters &amp;        
+teach-</comment> Therefore
+it is a good conclusion, that it were better to be
+vnborne then vntaught
+vertuously and Christianly.
+I put to your iudgement how much
+they shall haue one day to answere
+that haue charge of those young impes, which
+in steed to prop them &amp; keep straight, leaue them
+to take such foldes as they list, so that
+when they haue taken growth, it is
+easier to breake them, or vnroot them altogether,
+then to redresse the~: I say not this for you,
+mistresse Clemence, for we haue made choise of you,
+as of one which hath both sufficiencie and will,
+to discharge faithfully your duetie.
+<pagebreak id="F3V" />
+And I hope that we shall not be found
+faultie for our Iudgement
+therein. Fleurimond, showe me
+your worke: is this your
+Cut-work? me thinketh that there is
+somewhat amisse:
+I espie a fault in it, the edge is reasonablie
+well made: is this your net-worke? see how
+she frowneth! if I begin with you I will make
+you leaue that frowning: &amp; you Charlote where
+is your work? are your tapistrie cushens ended?
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> I haue but one cushen to do. I lacke silke,
+I know not what is become of y=e= cushen canuas
+all my golde and siluer is done,
+I want more blacke yarne,
+I haue not enough of blewe cruell.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Aske some of the Steward
+or of the purs-bearer: but you mistres Clemence
+buye some your selfe, for you knowe better the
+price of such things then they: I pray you let the~
+haue what is fit for them, to the end they
+lose no time, for time lost is neuer recouered.
+At what houres do your Maisters come?
+   </dialogue><nonSpeech> <font>Charl:</font> </nonSpeech><dialogue> Our dauncing Maister
+commeth about nine a clocke:
+our singing Master, and he that teacheth
+vs to play on the virginalles, at tenne:
+he that teacheth vs on the Lute
+and the Violl de Gambo, at foure a clocke
+in the after noone: and our French Master
+<pagebreak id="F4V" />
+commeth commonly betweene seauen and eight
+a clocke in the morning. </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> It is then
+time that you goe studie your lessons,
+to the end you may say them well when
+he commeth: haue you broken your fast to day?
+   </dialogue><nonSpeech> <font>Fleuri.</font> </nonSpeech><dialogue> Yes Mother. </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> Now
+goe in Gods name, whome I praye
+to fill you with his graces. I goe to the
+Nurces chamber, to see your brethren.
+
+</dialogue> <head>THE 4. DIALOGUE.</head> 
+
+<nonSpeech> <font>The French Master: the Daughters:
+the Cousin (called M=r=. Du petit-sens:) </font> <comment type="compiler">NOTE IN MARGIN:        
+<font>Petit sens</font> signifieth little wit.</comment>
+<font>The Ladye.</font> </nonSpeech>
+
+   <nonSpeech> <font>The M=r=.</font> </nonSpeech><dialogue> God giue you good morrowe
+Gentlewomen.
+   </dialogue><nonSpeech> <font>The Daugh.</font> </nonSpeech><dialogue> And to you also Sir,
+How doe you to day?
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Well at your commaundement:
+And you, how is it with you this morning?
+   </dialogue><nonSpeech> <font>The Daugh.</font> </nonSpeech><dialogue> Very well thanks be to God:
+What is it a clocke? it seemeth that you
+come some what later then you
+were wont: </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Pardon
+me Mistresse, it is but halfe an houre
+past seauen: Now can you say your lessons?
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Truly Sir without lying,
+<pagebreak id="F5V" />
+we cannot say them verye 
+well, it is best to speake the truth, for though
+we should say otherwise, you will see
+the contrarye, and then we should commit a
+double faulte. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Go too, let vs see what
+you can doe: where be your bookes?
+   </dialogue><nonSpeech> <font>Fleur.</font> </nonSpeech><dialogue> Sister Charlote, I pray you goe
+fetch our bookes, bring our French
+Garden, and all our other bookes.
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> I cannot finde them, where did you set
+them yesterday? </dialogue><nonSpeech> <font>Fleur.</font> </nonSpeech><dialogue> Good God! what
+a short memorie you haue? did you not carye
+them your selfe into our Closet?
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> You say true, they are vpon the table,
+I will goe fetch them: holde, heere they
+be all. Sir will it please you
+sit downe at the tables end? my Sister
+shall sit on the other side, and I heere,
+to th'end you may heare vs the better: heere is a
+Chayre and a cushen, giue me a stoole:
+   </dialogue><nonSpeech> <font>The Cousin:</font> </nonSpeech><dialogue> God be with you then my good
+faire Cosins, seeing that you goe to excercise
+your French, I will be gone, for feare I
+hinder you. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> No forsooth
+you shall not let vs
+at all, goe not awaye for
+that, the Gentle-women are glad
+of your companye, you shall help them to
+say their lessons, at least you may iudge
+how well they pronounce and learne:
+<pagebreak id="F6V" />
+Will it please you to take your place by
+them? now in the name of God let vs begin.
+Mistres Fleurimond read first,
+speake somewhat lowder, to th'end I may heare
+if you pronounce well: say that worde
+againe. Wherefore do you sound that <font>s</font> ?
+Doe you not knowe that it must be
+left? well, it is well said, read with
+more facilitie, without taking such paines: doe
+not haste so much: do you not hurt
+your stomacke against the boord?
+Holde your booke higher, or els
+set it on a cushen: well, you haue
+read enough, Construe me that, what is that?
+do you vnderstand that? tell me the signification
+in English, </dialogue><nonSpeech> <font>Fleur.</font> </nonSpeech><dialogue> Truly Sir I cannot
+tell it, I vnderstand it not, I beseech
+you tell it me, and I will remember it
+against an other time.
+   </dialogue><nonSpeech> <font>The Maist.</font> </nonSpeech><dialogue> Giue <comment type="compiler">SOURCE TEXT: Gine</comment>
+me your paper and I will write it, to th'end
+you forget it not. This paper sinckes:
+The Incke is too white: your penne
+is naught. </dialogue><nonSpeech> <font>Fleur.</font> </nonSpeech><dialogue> I pray you Sir
+mend it me. </dialogue><nonSpeech> <font>The Maist,</font> </nonSpeech><dialogue> Giue
+me then your penknife, for I
+cannot cut it with my fingers.
+   </dialogue><nonSpeech> <font>Fleur,</font> </nonSpeech><dialogue> You cannot doe it without your fingers.
+   </dialogue><nonSpeech> <font>The Maist.</font> </nonSpeech><dialogue> You say true, nor without penknife
+neither. This penknife cutteth nothing, I goe
+to whet it: now I finde the penne good,
+<pagebreak id="F7V" />
+trye if it be good for you. </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> It is
+too small: it writes somewhat too bigge,
+   </dialogue><nonSpeech> <font>The Cousin.</font> </nonSpeech><dialogue> Truly Cousin, you tryumph:
+In hearing you speake, one would take you for
+a French-woman, you speake it so well.
+Go too little Cousin Charlet, let vs heare how
+daintily you speake: can you
+speake French? </dialogue><nonSpeech> <font>Charlot,</font> </nonSpeech><dialogue> Not yet
+verye well:
+<comment type="compiler">COMMENT IN MARGIN: the names of the kindred.</comment>
+   </dialogue><nonSpeech> <font>The Cou.</font> </nonSpeech><dialogue> How call
+you in french, my great gra~father my great gra~mother,
+My granfather, my granmother, my
+grandchilde (both man &amp; woman) my father, my
+mother, my sonne, my daughter, my brother, my
+Sister, my vnkle, my aunt, my nephew,
+My neese, my cousin germaine, my she cousin
+germaine, my gossip, my she gossip,
+My Godson my Goddaughter, my Godfather,
+My Godmother, my cousin germaine remooued,
+My she cousin germaine remoued,
+my sonne in law (that hath maried my daught.)
+my daughter in lawe (y=t= hath maried my sonne)
+My father in lawe, my mother in lawe,
+My stepfather, my stepmother.
+My sonne in law (that is my wifes or husbands sonne),
+My daughter in lawe (of the same degree,)
+My brother in lawe, my sister in lawe,
+My kinsmen, my kinswomen, my friendes,
+My she friends, my friend, my she friend,
+My allyedsme~, my allyeds-wome~, my neighbor,
+my she neighbor, my neighbors, my she neighbors
+<pagebreak id="F8V" />
+a Midwife, a woman keeper,
+A man seruant,
+A woman seruant,
+The seruing men, the seruing women:
+   </dialogue><nonSpeech> <font>Charl.</font> </nonSpeech><dialogue> Truly I knowe not, I pray you
+speake English, for truely I vnderstand you not,
+I haue not practised it so long
+as my Sister, I doe but begin to learne.
+   </dialogue><nonSpeech> <font>The Cousin,</font> </nonSpeech><dialogue> Ther is beginning in all thinges:
+You cannot goe vp to your chamber
+but you must passe the first step, 
+and so from step to step, you come
+in the end to the height of it. </dialogue><nonSpeech> <font>The Maist,</font> </nonSpeech><dialogue> mistres
+Charlote, will it please you to read?
+   </dialogue><nonSpeech> <font>Charl.</font> </nonSpeech><dialogue> When it pleaseth you Sir,
+I am readie to read. </dialogue><nonSpeech> <font>The Maist.</font> </nonSpeech><dialogue> And I
+to heare you: begin, for the time 
+tarieth not for vs, Say that againe:
+doe not force your voyce, onely obserue
+your rules, and read as
+though you should read english:
+doe you not see that this worde endeth by <font>e</font>
+feminine? &amp; th'other word following beginneth
+by a vowell? why doe you sound
+that <font>e</font> , then? Mistres Fleurimond,
+heare her read, and tell her when she 
+misseth, that will proffit you as much as if
+you should read your selfe, for by the teaching
+of an other, one doth instruct himselfe. I
+shall see also thereby, how you
+<pagebreak id="G1V" />
+remember your rules: doe you not see
+that she hath missed there?
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Sister, doe not pronounce <font>l</font> ,
+in this worde <font>mol</font> , not <font>t</font> , in this
+worde <font>et</font> , but rather as if it were 
+written <font>mou</font> , and <font>e</font> , </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> You
+did note that very well.
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> God giue you good morowe Master <font>E.</font>
+Doe not stirre, keepe your place,
+How doe your Scholers learne?
+All by leisure, not making ouer-much haste,
+They be full of conscience,
+They will not take too much for their money,
+But we knowe you are
+an honest man, and therefore our trust
+is, that you will set them forward, as much
+as you can. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Verily Madame,
+You haue no cause to reprooue them
+of negligence, for (though I speake it
+before them) it is no flattery to say
+the truth: yea it is as badly done
+to neglect prayse where it is due
+(seeing it is to a good spirit, a sting
+to pricke him forward to doe good)
+as shame to praise where praise is not deserued,
+They take as much paine as any
+other Gentlewomen that I know, and therfore
+I assure you (and beseech you to beleeue me,
+for I would tell you if it were otherwise)
+that there wanteth no diligence in them.
+<pagebreak id="G2V" />
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> So it is for all that, that I was not
+so long a learning as Fleurimonde,
+and yet I speake it reasonably well,
+It might serue my turne at need.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Madame you speake it
+naturally well, and truly I reioyce my selfe
+very much also, for that Mistres
+Fleurimond speaks it so well, although that the
+prayses therof ought to be attributed
+rather to her good spirite, then to my sufficiencie
+in teaching. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> You would praise
+him that hath taught me.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Both you and he deserue great prayses.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Well, good Master <font>E.</font>
+I goe where I thought before to goe.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Gentlewomen, haue I giuen you 
+newe lessons? </dialogue><nonSpeech> <font>The Daughters,</font> </nonSpeech><dialogue> Yea sir.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> And you Mistris Fleurimonde,
+Haue I showed you that which you haue
+to write out of English into French?
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Yea sir. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Mistris
+Charlotte, haue you declined your verbes?
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> Yea sir. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Then we
+haue done all for this day, and so
+I will take my leaue from you, and
+bid you farewell vntill we meete againe.
+   </dialogue><nonSpeech> <font>The Dau.</font> </nonSpeech><dialogue> God be with you sir vntil to morow,
+But I pray you to come to morowe, somwhat
+timelyer (if you can) because
+I beleeue that my mother will goe forth,
+<pagebreak id="G3V" />
+and we shall goe with her.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> Well Gentlewomen, I will come as
+soone as I may. </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> Is this
+he which teacheth you to speake French?
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> Yes, doe you not see it? how doe you
+like him? is he not sufficient to teach?
+   </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> I can finde no faulte in it.
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> I beleeue you, but yet what
+say you of him? </dialogue><nonSpeech> <font>The Cou.</font> </nonSpeech><dialogue> I beleeue he did neuer
+Traffike in the East countries, nor was euer a
+silke Merchant. </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> I vnderstand you well,
+it is because he is so plainely
+cloathed: </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> Doth he not feare
+that your cloathes should marre his?
+Me thinketh that some gallant fellowe
+and braue withall, would be fitter
+to teach Gentlewomen of so good a house,
+and of such qualityes as you are.
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Cousen, you deceiue your selfe,
+It is not the weed y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> maketh the    
+monke, all they
+that are clothed with silke and are braue, are not
+alwaies the most sufficient; often-times more
+learning is found in one meanely
+apparailed, then in them that haue but an
+outward brauerie: would to God you
+would speak to him, he wold tel you wel enough
+that though he be in Canuas, yet he is no
+Sonne to a wind-mil. My mother hath folowed
+the counsaile of Esope, she hath not so
+much regarded the outward showe, as
+<pagebreak id="G4V" />
+the spirit, and hath chosen vs, rather, a
+Man of vnderstanding without silke, then a
+silken man without vnderstanding: otherwise,
+some horse-keeper that neuer did any thing els
+then dresse his horses, might
+haue bene sufficient to teach vs.
+Truly tis a vice which beareth to much sway in
+our time, that one doth respect more the
+gilding of the body, then the riches of the minde.
+So that one be brauely apparailed, it
+booteth not: one passeth euery where. Indeed
+I held you for a man of better iudgement,
+But what? you followe the vulgar.
+   </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> Truely Cousin you are well
+worthy to haue a good and sufficient Master,
+He which you haue, is infinitely
+beholding vnto you, for the good opinio~ you haue
+of him, but I hope you will not take in
+euill parte that which I haue said.
+   </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Wel, wel, I forgiue you, condicionally
+that heerafter you beare more respect to
+the vertue of the persons (if you can
+iudge therof) the~ to their magnifical swagering.
+   </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> Will it please you to co~maund me
+any seruice? </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> No Cousin, I will
+not presume to commaund, but
+I pray you that we may haue your
+Company at dinner. </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> You
+shall excuse me for this day, therefore
+I bid you farwell. </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> I am sure
+<pagebreak id="G5V" />
+you will not goe before you take your leaue
+of my mother. </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> where is my Lady?
+I know not where to goe finde her. </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> Sister
+Charlote, I pray you goe tell my mother
+that my Cousin of Petit-sence, will
+be gone, you shall finde her in the
+Nurces chamber, or with my bretheren.
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> Well Sister I goe, but
+keepe him then vntill I come againe,
+I will not tarye. </dialogue><nonSpeech> <font>Fleu.</font> </nonSpeech><dialogue> You are come
+againe very soone, what saith she?
+   </dialogue><nonSpeech> <font>Char.</font> </nonSpeech><dialogue> Cousin, she hath charged me
+not onely to pray you, but also to lay
+her commaundement, that you goe not
+vntill she hath spoken with you.
+   </dialogue><nonSpeech> <font>The Cousi.</font> </nonSpeech><dialogue> Well, then I dare not disobey,
+Seeing that it is her pleasure.
+
+</dialogue> <head>THE 5. DIALOGUE.</head> 
+
+<nonSpeech> <font>The Lady: the Nurce.</font> </nonSpeech>
+
+   <nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> Good morrowe Nurce.
+   </dialogue><nonSpeech> <font>Nurce,</font> </nonSpeech><dialogue> God giue you
+good morrowe Madame.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> How now,
+how doth the childe?
+   </dialogue><nonSpeech> <font>Nurce,</font> </nonSpeech><dialogue> He is
+fayre and plumpe, and doth very wel thanks be
+to God, sauing y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> he hath bin       
+somwhat waiward
+the last night. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Hath he so?
+<pagebreak id="G6V" />
+what shold aile him? it may be he hath some tooth
+a growing, is he in his cradle? see if he sleepeth,
+   </dialogue><nonSpeech> <font>Nurce,</font> </nonSpeech><dialogue> He is full awaken Madame.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> He is not yet made readie is he?
+   </dialogue><nonSpeech> <font>Nurce,</font> </nonSpeech><dialogue> No Madame, I haue let him sleepe
+all this morning.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Vnswaddle
+him, vndoe his swadling bands, giue him his
+breakefast whilst I am heere, make
+his pappe, take away that fierbrand w=c= <comment type="compiler">SUPERSCRIPT LETTER        
+UNCLEAR</comment> smoketh
+for it will taste of the smoke, where is his little
+spoone? wash him before me, haue you
+cleane water? <font>o`</font> my little hart! <comment type="compiler">COMMENT IN MARGIN: the names  
+of all the partes of mans body</comment> God
+blesse thee, Rub the crowne of his head,
+wash his eares, and put some fine 
+clout behinde them, to thend to keepe
+them drye and cleane, wash his face:
+Lift vp a little his haires,
+Is not that same durt that I see vpon
+his forehead? his browes are very round,
+What hath he vpon his ey-lids? me thinks that
+his eyes are some what watrish, make
+the~ cleane: how quick is his ey-ball, hath he not
+a pimple vpon his nose? his little cheekes
+are wet, I beleeue you did leaue him
+alone to crye and weepe: picke his
+nosthrils, wipe his mouth and his lips,
+How many teeth hath he? his gummes be sore,
+Showe me his tongue, let me see
+the pallet of his mouth, he hath a prettie chin,
+What a faire necke he hath! pull off his shirt
+<pagebreak id="G7V" />
+y=u= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> art prety &amp; fat my litle         
+darling, wash his 
+armepits: what ayleth his elboe? <font>o`</font> what an arme he
+hath! his hand-wrist is very small: open his
+right hand: the palme of his left hand
+is all on water, did he sweat? how he spreadeth
+his small fingers! his thumbe and little finger
+are Flea-bitten, for the blacke spots
+are there yet, is there any Fleas in your
+Chamber? pare his nayles, for feare
+he scratch him selfe when his
+armes be free, put a linnen vpon his breast,
+His nauill is red, is it sore? <font>o`</font> let
+him pisse, ah little knaue, you will showe 
+that you haue a yarde: his little <comment type="compiler">SOURCE TEXT: litte</comment> purse
+is not flaggish, it is a signe that he is in health.
+His knees are very round, he hath a worme 
+at the right knee, see if he hath none
+on the left, lay him on his belly, that I
+may see his backe. His shoulders are
+euen, I cannot see his ribbes,
+Turne him from the one side to the other,
+that I may see him on both sides,
+His little buttockes are fleshie, he is
+so well fed, that I can see
+no bones of his, his skin is so white and
+cleere, that the veynes are seene: Oh! what
+little mans thighes be these? he will haue good
+legges, wash the calues of his legges
+vpwards: wipe his shinnes, he
+hath rubbed one foote against the other,
+<pagebreak id="G8V" />
+for his anckle bone is fleyed, See
+how he beateth with his heeles, doe you kicke
+sirha? you haue not washed the insides nor
+the soles of his feete, Forget not to make cleane
+his toes, the great toe and all, now
+swadle him againe, <comment type="compiler">COMMENT IN MARGIN: the names of a childes       
+cloathes.</comment> But first put
+on his biggin and his little band with an
+edge, where is his little petticote? giue him
+his coate of changeable taffata, and his sattin
+sleeues: Where is his bibbe? let him haue his
+gathered Aprone with stringes, and hang a
+Muckinder to it: you need not yet to giue him
+his Corall with the small golden chayne,
+for I beleeue it is better to let him
+sleepe vntill the after noone, giue him
+some sucke, I pray you take heed
+to wipe well the nipple of your dugge
+before you put it in his mouth, for feare that
+there be any haire or other thing which may
+hurt him. You mayd, goe fetch the childes
+cradle, make his bed, where is his pillowe?
+seeke a cleane pillow-bere, Set on the 
+couerlet, now put him in his cradle and
+rocke him till he sleepe, but bring him
+to me first that I may kisse him: God send
+thee good rest my little boykin. I pray
+you good Nurce haue a care of him.
+   </dialogue><nonSpeech> <font>Nurce,</font> </nonSpeech><dialogue> Dout not of it Madame
+with the grace of God. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Well then,
+God be with you till anon.
+<pagebreak id="H1V" />
+</dialogue> <head>THE 6. DIALOGUE.</head> 
+
+<nonSpeech> <font>The Lady: the 2. Sonnes Guy &amp; Rene:
+the Master (called M=r=. Champorte-aduis) &amp;
+the Childrens boye (called Richard 
+Neuf-a bien.) </font> </nonSpeech><dialogue>
+<comment type="compiler">NOTE IN MARGIN: <font>Champorte, aduis</font> signifieth feeld bearing 
+counsell. <font>Neuf a bien</font> signifieth neuer to do good.</comment>
+
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Open the doore here:
+How now Children what doe you?
+You holde your bookes, it is
+well done. </dialogue><nonSpeech> <font>The Chil.</font> </nonSpeech><dialogue> I beseech you
+Madame giue me your blessing
+if it pleaseth you: </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> My Children,
+Seeing it hath pleased God (the onely giuer of
+all good) who might haue made me some bace
+creature and of no dignitie, to call me to
+that degree: I am a Lady to all, but mother
+specially to my Children, therefore the
+sweetest and most pleasant name that they
+can giue me, is to call me
+Mother. I pray God to heap his
+blessings on you: haue you saluted your Father
+to day? </dialogue><nonSpeech> <font>The Chil.</font> </nonSpeech><dialogue> Yes Mother.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Where is your Master?
+   </dialogue><nonSpeech> <font>Chil.</font> </nonSpeech><dialogue> He is in his studie Mother.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Rene, goe tell him that I am heere.
+   </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> Master my mother is in
+our chamber, and she would speake with you.
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> God giue you good morrowe Madame.
+<pagebreak id="H2V" />
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Good morrowe Master
+Champ-porte-aduis, I come to visit you this
+Morning, and am very glad to finde your
+Schollers so well employed as to their
+Bookes, as I perceiue you doe not keep them
+idle, wherefore I like you the better,
+For there is nothing more hurtfull, not
+onely to youth, but also to all
+sortes of persons, then idlenes, for it
+is the inuenter and mother of all euils.
+You knowe wherefore they are put to
+your charge, which is, not onely to
+teach them in the Grammer &amp; the Latin tongue,
+but also to bring them vp in good
+maners, and to aduise them of their
+duties, and therefore I dout not
+but that the first thing you make them
+to do, is to pray to God: come hether Guy, haue
+you said your prayers this morning? </dialogue><nonSpeech> <font>Guy,</font> </nonSpeech><dialogue> Yes 
+Mother. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> And you also Rene?
+   </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> Yes Mother, so soone as we
+are risen and haue put on our cloathes, and that
+we haue washed, our Master maketh vs
+to say prayers, and to read a Chapter in the
+Bible, to repeat some Sentences out of
+Cicero or some other good Author,
+Then we goe to breake-fast, hauing broken fast
+we studie our lessons, as you haue
+found vs. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Go too, read me this
+Chapter: softe, read leysurely,
+<pagebreak id="H3V" />
+You make too much haste: doe you not knowe
+that haste makes waste? </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> I haue done
+Mother, I am at the end of the Chapter.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> You haue read, but it is not
+enough to read. They that be wise, doe read for
+their Instruction, &amp; not for the sound of wordes
+onely, you are passed your A, B, C.
+that one giueth to little Children for
+to learne to pronounce and sound the wordes,
+You must be better then Parrots,
+which doe pronounce some wordes as well as
+we doe, and yet are neuer the wiser
+for want of intellgence: Haue you remembred
+and do you vnderstand y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> which you  
+haue read?
+Otherwise you are no better then a
+Parrot. I remember I haue heard your
+Master tell you once, this Latin Sentence:
+<font> <foreign>Legere et non intelligere negligere est</foreign> </font> .
+Which is as much to say (as I take it)
+To read and not vnderstand, is an
+vnprofitable thing: therefore haue regarde when you
+read, to conceiue your reading,
+to make profit by it, otherwise you read in vaine
+and doe nothing but lose time. <comment type="compiler">COMMENT IN MARGIN: The duetie of    
+Schoole-Masters.</comment> Master
+Champorte-aduis, it seemeth vnto me, that
+they which haue youth vnder their
+gouernment, ought to doe as the good
+Phisitions, that sound the bodies of their
+Pacients: and if they finde them in danger
+to fall into some sicknes, doe
+<pagebreak id="H4V" />
+minister vnto them preseruatiues to preuent it.
+In like sorte the parents and masters
+ought to search diligently, if their
+Children be adicted to any vice,
+to free them fro~ the same, euen from their youth,
+before they be ouermuch rooted in them.
+I pray you to tell me the truth) for I am
+not any of those foolish mothers, which will
+neuer beleue any imperfections of
+children, but like the she Ape,
+It seems vnto them that they be aboue al other
+faire and perfect) doe you finde any
+bad inclination in mine?
+   </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> In truth Madame, I see them not
+giuen to any lewd vice,
+somtimes there is a litle iealousie,
+specially when I praise one of them,
+for hauing said his lesson better then the other,
+but not that they enter into any variance
+for it. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> O, if there be but an
+Emulation who shall doe best, it is not
+to be reproued, for it is generositie, but if
+one be enuious of the others good,
+that proceedeth from a bad nature, and
+therefor that spot is intollerable.
+Guy and Rene, come neere to me, which of you
+write best? </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> It is
+my brother Mother. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Holde then
+Guy, there is an Inke-horne gilt, furnished
+of all things necessarie, that I giue you, to thend
+<pagebreak id="H5V" />
+to encourage you to learne the better.
+   </dialogue><nonSpeech> <font>Guy,</font> </nonSpeech><dialogue> I most humbly thanke you
+Mother, truely it is faire.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Rene what say you of your
+Brothers Inke-horne? are you sorye for it?
+   </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> Truely mother I am not sorye
+that he hath it, neuertheles if I had the like
+I would be the gladder: beleue me that
+I enuye him not, but I hope that (euen as
+he excelleth me in writing) I will
+excell him shortly in some other matter,
+and then you will giue me also something
+as good as it or better. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Well,
+I shall see (God willing) how you will
+profit, notwithstanding you ought
+to be as glad of your brothers good, as
+of your owne, if I thought that you
+should enuie him for it, I would cause you to be
+whipt very soundly, for you must
+knowe, that there is nothing more absurd, nor
+blockish then enuye. Doe you lose any thing
+of the good that an other hath? it did not
+belong vnto you, nor you were not possesser of it,
+You haue then neuer a whit the lesse, wherfore
+should you grieue at it then? the enuious
+Man doth harme to none but himselfe,
+For (as the rust eateth yron, so)
+Enuie eateth the enuious men, and you shall
+neuer see any but fooles, that are enuious of
+an others happines. </dialogue><nonSpeech> <font>Mast.</font> </nonSpeech><dialogue> But Madame,
+<pagebreak id="H6V" />
+I had forgotten to tell you that your sonne Guy
+is somwhat slowe to rise in the morning, for one
+must call him three or foure times before
+he come out of his bed, I haue thought good to
+tell it you before his face, specially at this
+time, to the end it may please you to take the
+paine to tell him his lesson, as well
+as to his yonger brother. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Is it
+true? truly M. Champorte-aduis, the
+greatest faulte is in you, it is but a
+benumming of the limbes that he hath,
+which you ought to supply, in annointing
+him w=t= the iuice of Birch, which is excellent for
+such a cure, &amp; if you apply it but twice or thrice,
+You shall see a meruailous operation,
+But if your medicine be not of force, let
+me knowe it, &amp; I will make him such a morning song,
+y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> it wil awake him in all          
+diligence &amp; hasten him
+more then a good pace. Come hether freind, I am
+ashamd to hear that w=c= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> I hear of    
+you, that you
+are so childish as not to knowe yet, not only that
+which is dece~t for you, but also wholsom for the
+body &amp; the mind. Ther is nothing y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> 
+drieth more
+the limbes, nor dulleth more the spirit,
+then ouermuch sleepe, besides the wrong
+that you doe to your reputation, if
+you continue in it, &amp; that it comes to y=e= <comment type="compiler">SUPERSCRIPT LETTER     
+UNCLEAR</comment> knowlege
+of others. The wisest that euer was of Kings,
+giueth small wormes to be masters
+of sluggards, sending them to the schoole
+<pagebreak id="H7V" />
+of the Pismire. The Lacedemonians and
+Athenians, iudged idlenes and
+slugish rest, to be a thing worthy of punishment,
+as enormious vices: and said that it
+ought to be had in horror and shame:
+   </dialogue><nonSpeech> <font>Guy,</font> </nonSpeech><dialogue> Lady and Mother, I cannot but
+yeilde to your inuincible reasons, knowing
+that which you say proceedeth from a deere
+care that you haue of my good, and from a
+true motherly loue that you beare me:
+One thing I craue of you, that you be not
+offended with me, and heerafter
+I wil wholy submit my self to euery reasonable
+thing, so that with the grace of God, you
+will be contented therwith. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> God
+graunt it: You haue almost attayned
+to the age of nyne yeeres, at least to eight
+and a halfe, and seing that you knowe your
+dutie, if you neglect it you deserue
+greater punishment then he which through
+ignorance doth it not. Think not
+that the nobilitie of your Ancesters
+doth free you to doe all that you
+list, contrarywise, it bindeth you
+more to followe vertue, for euen as there
+is no estimation made of a Iade, though he haue 
+a couragious Gennet to his Sire,
+Euen so the nobilitie endeth in him
+which forsaketh her steppes. What is it
+that raysed vp in eminent honors, so many
+<pagebreak id="H8V" />
+personages issued from meane
+Parents, as one Marcus Actilius
+Regulus, which was not borne of noble linage:
+Or as one Seruius Tullius, and many
+others, but vertue: which consisteth not in
+idlenes &amp; sluggishnes, but in actiuity &amp; vigila~cy:
+Contrarywise, what hath annihilated &amp; spotted
+the memory of so many others, that tooke their
+being from generous and haughty spirits,
+whose memorie is, neuertheles
+perminent, for it is no reason that the
+vertue of the father, should be obscured by y=e= <comment type="compiler">SUPERSCRIPT LETTER 
+UNCLEAR</comment> 
+vnworthines of the sonne, but y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment>    
+euery one be
+honored for his owne merrits) but to haue
+swarued from the actes of true noblenes
+As one Domitian (the memory of whome
+stinketh yet for his enormious vices) though
+he had for Father, Vespasian and Titus:
+For Brother, memoryes of vertue: I say then,
+That whosoeuer will participate of the honor
+and nobilitie of his Parents, he must
+Propagate the same by vertue, and not
+onely to followe the French Etimologie
+of this worde <font>noblesse</font> or <font>gentillesse</font> which
+commeth of <font>non blesse</font> or <font>nul blesse</font> , or of
+Curtesie and affable bountifulnes, but
+one must also abstaine himselfe from vices, to be
+the vtter ennimy thereof, &amp; maintaine the right
+and Iustice (Queene of all vertues.)
+<comment type="compiler">NOTE IN MARGIN: <font>Noblesse</font> or <font>nul blesse</font> signifieth hurting 
+none, or to hurt none.</comment>
+But alas! (for the most part of the nobilitie
+<pagebreak id="I1V" />
+of this day, this worde <font>noblesse</font> ,
+may well be turned into <font>nous blesse</font> or
+<font>moult blesse</font> in stede of <font>non blesse</font> (hurt none)
+<comment type="compiler">NOTE IN MARGIN: <font>Nous blesse</font> or <font>moult blesse</font> signifieth hurt 
+vs or much hurt.</comment>
+For we doe relye so much vpon a Title
+(all mustie) of ancientrye of our predecessors,
+that we haue no care to reuiue their
+memorye by our vertues, the which (rather) we
+darken and burye (as much
+as lyeth in vs) by our vices and tyrannies
+y=t= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> we vse towards those who we      
+ought to defend
+and keep fro~ wrongs &amp; iniuries. Euery one then
+of sound iudgement, may well knowe, that
+it is not enough to be issued from noble
+and vertuous predecessors: and also that he
+which buildeth, or is the beginner of
+his house, deserueth as much praise, as he
+which pulleth it downe doth shame: it seemed
+good vnto me my deere children (although that
+your great youth affoordeth you no
+Capacitie as yet, (wholy
+to comprehend my wordes) to giue you
+this instruction, trusting that heer-after,
+God will enable you with his grace, to conceiue
+and followe it, to his glory, to your praise,
+and ioy of vs all your parents and friendes.
+Come hether both of you, doe you weare your
+cloathes Gentle-men like?
+Where is your hat-band?
+And you, where is the cipres of yours?
+Haue you taken cleane shirts this morning?
+<pagebreak id="I2V" />
+Your bands be not cleane.
+Why haue you taken your wast-coates?
+Is it so colde? button your
+Dublet, are you not ashamed to be
+so vntrussed? where is your Ierkin?
+for this morning is somewhat colde:
+And you also, take your coate.
+are you vngirt? Boy Neuf-a-bien,
+heare you? you do nothing but play tricks there,
+Goe fetch your Masters siluer hatched
+Daggers, you haue not
+brushed their breeches,
+Bring the brushes
+and brush them before me, Lord God
+how dustie they are! they are full
+of dust, what stockins haue you?
+your silke stockins or your wosted hose? put on
+your garters embroidred with siluer, for it may
+be that yee shall goe foorth with me, where are
+your <comment type="compiler">SOURCE TEXT: hour</comment> Cuffes and your falles?
+haue you cleane handkerchers?
+Take your perfumed gloues that are lyned,
+Put on your gownes vntill we goe,
+and then you shall take your cloakes
+lyned with Taffata, and your Rapiers
+with siluer hiltes.
+Tye your shooe-stringes.
+Well, take your bootes, your boot-hosen,
+and your gilt spurres. Ri. Neuf-a-bien,
+haue you made cleane their shooes to day?
+<pagebreak id="I3V" />   
+   </dialogue><nonSpeech> <font>Rich. Neuf-a-bien,</font> </nonSpeech><dialogue> Yea Madame.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Truely so it seemes, come hether
+you brasen-facte lyer, art thou not ashamed
+to affirme so apparant a lye before me?
+The myre and durt sticke on them yet.
+Seest thou not that they are all durtie?
+<comment type="compiler">COMMENT IN MARGIN: Of lying.</comment>
+Truely I will teach you how to lye, or rather
+how you should not lye.
+I will not leaue such a vice vnpunished.
+M. Cha~-port-aduis, I wil haue him to be whipt
+soundly before his Masters,
+And (as it is said) to beat the dog before the lyon
+for an example vnto them.
+There is nothing more bace
+then lying, and euery one that is wise 
+will abhorre it. It is written in the Prouerbes
+of Salomo~, that the righteous man hateth lyes.
+The Sonne of Sirach saith also
+in these wordes, Vse not any lying at
+all, for the vse thereof commeth neuer to good.
+<comment type="compiler">COMMENT IN MARGIN: <font>Prouerbes</font> chapter 13. verse 5</comment>
+He which will be beleeued, ought
+neuer to lye, for a lyer is neuer beleeued,
+Yea, if it happen that sometimes he saith true,
+it shall be taken still for a lye.
+It behoueth then that euery one
+which will get a good reputation
+shun this vice as it were a mad dogge,
+For whosoeuer is once bitten with it, findeth
+it incurable. But I heare some body knocke
+at the doore, Rene, see who it is.
+<pagebreak id="I4V" />
+   </dialogue><nonSpeech> <font>Rene`,</font> </nonSpeech><dialogue> It is Mistris Ioly, mother,
+w=c= <comment type="compiler">SUPERSCRIPT LETTER UNCLEAR</comment> bringeth word, that my Lady of   
+Beau-seiour
+and Mistris Du Pont-gaillard, and
+some others be come.
+<comment type="compiler">NOTE IN MARGIN: <font>Beau seiour</font> signifieth faire abode 
+<font>Du-pont-gaillard</font> liuely bridg</comment>
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> They are welcome,
+I must then be gone.
+
+</dialogue> <head>THE 7. DIALOGUE.</head> 
+
+ <head>SHEWING THE RECEIUING INTO THE HOUSE.</head> 
+
+<nonSpeech> <font>The Lady: my Lady of beau-seiour:
+M=rs=. Du Pont-galliard.</font> </nonSpeech>
+
+   <nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Madame de Beau-seiour,
+I thinke my selfe so much
+beholding vnto you, for the curtesie you haue
+done me, to haue taken such paine, as to
+come see vs, and which is more, to haue
+brought Mistris Du Pont-galliard
+your Sister (whose companye
+is as agreeable vnto me, as of any
+Gentlewoman that I know) that I know not
+how to be able to acknowledge it,
+but (without greater or more formall
+Cerimonies) you are most hartily
+welcome, and yee also Gentlemen.
+   </dialogue><nonSpeech> <font>Lady Beau-seiour,</font> </nonSpeech><dialogue> We must humblie
+thanke you Madame, you haue more
+cause to finde vs faultie, for
+<pagebreak id="I5V" />
+comming so late, though we come timely
+enough for to dine. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> How late?
+It is but tenne a clocke.
+   </dialogue><nonSpeech> <font>La, Beau.</font> </nonSpeech><dialogue> Pardon me Madame,
+It was halfe an houre past tenne, before
+we came out of our house.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> For all that, it is not yet eleuen
+a clocke, nor dinner time,
+For the Butler hath not yet couered the table.
+and therefore if you think it good,
+we may make a turne in the Exchange,
+It is not farre hence, for
+I must buye a silke waste-coate
+which I haue lost in play to M. De sur-amont,
+against a veluet Muffe.
+   </dialogue><nonSpeech> <font>La. Beau.</font> </nonSpeech><dialogue> We are at your
+commaundement, let vs goe where it pleaseth you.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Page, bid the Coach-man put
+his horsses to the Carosse. Iolye, speake to the
+Butler to lay the table-cloath, and that all
+be readie when we come againe.
+Giue me my maske, and goe fetch
+my Fanne. Now let vs goe in Gods name.
+Who shall we haue to be our gentleman vsher?
+for mine is sicke.
+   </dialogue><nonSpeech> <font>Mist. Du Pont-galliard,</font> </nonSpeech><dialogue> My
+Neuewe Du vault-l'amour, Madame,
+if it pleaseth you to accept his seruice.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> But if it pleaseth him to showe vs
+so much curtesie, as to take the paine
+<pagebreak id="I6V" />
+to accompany vs, for we can
+haue no better. Go too Coach-man,
+why doe we tarrye? driue your
+horsses.
+
+</dialogue> <head>THE 8. DIALOGUE.</head> 
+
+ <head>FOR TO CHEAPEN.</head> 
+
+<nonSpeech> <font>The Shop-keeper or Sempster: her
+Maide (called Atire-gain:) The Lady: Mist.
+Du Pont-galliard: Mast. Du vault-l'amour.</font> </nonSpeech><dialogue>
+<comment type="compiler">NOTE IN MARGIN: <font>attire-gain</font> signifieth drawing gaine (or 
+profit.) <font>Du vault l'amour</font> , signifieth worth loue.</comment>
+
+   </dialogue><nonSpeech> <font>Attire-gain:</font> </nonSpeech><dialogue> Madame, what doth it please 
+you to haue? would ye haue
+any faire linnen cloath? Mistris, see what
+I haue, and I will showe you the
+fayrest linnen cloath in London, if you doe not
+like it, you may leaue it, 
+You shall bestowe nothing but he looking on,
+The payne shall be ours to showe them you.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Into what Shop shall we goe?
+   </dialogue><nonSpeech> <font>Mast. du vault-l'amour.</font> </nonSpeech><dialogue> Madame, will it
+please you to enter into this Shop?
+This Maid doth inuite vs to it by her tongue,
+which she hath as free, as any that
+euer I heard. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Yet she is
+scarce worthy your loue, though she
+be reasonable fine &amp; prettie, but seeing that you
+<pagebreak id="I7V" />
+affect her, we will see with what she will
+furnish vs for your sake.
+Now my friend, haue you any faire holland?
+   </dialogue><nonSpeech> <font>Attire-gain,</font> </nonSpeech><dialogue> Yes forsooth Madame,
+and the fairest lawne that euer you handled:
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> thou speakst a proud word, what knowest
+thou, what lawne I haue ha~dled? it may be that
+I haue had better then any that is
+in all thy shop. </dialogue><nonSpeech> <font>Atire-gain,</font> </nonSpeech><dialogue> I doe not
+say to the contrary Madame, but so it is
+notwithstanding, that I haue as good &amp; as faire
+as euer was made. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Well, well, you
+doe but your duetie, but God
+knoweth how largely you will speake,
+when you shall be for your selfe,
+seeing that you praise so highly your masters
+Marchandise: otherwise Ciceroes saying
+in his Offices, is of no authoritie,
+but you learne your trade, for
+to liue thereby heerafter. How sell you
+the Ell of this Cambricke?
+   </dialogue><nonSpeech> <font>Atire-gain,</font> </nonSpeech><dialogue> I knowe you haue so good
+Iudgement in linnen cloath, that I dare not
+showe you any for good, vnlesse it were
+so: there needes no replye to
+such a Lady as you are, you may
+say your pleasure, the Cambricke will
+cost you twentie shillings the Ell.
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> Truly it lacketh no price:
+And if thinges be so much worth as those which
+<pagebreak id="I8V" />
+sell them, doe make them to be: your Cambricke
+is very good, for you holde it at a good price,
+But yet I will not giue so much tho.
+   </dialogue><nonSpeech> <font>Atire-Ga,</font> </nonSpeech><dialogue> How much will it please you to giue
+then Madame? to the end that
+I may haue your Custome?
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> I will giue you fifteene shillings,
+If you will take my money make
+shorte, for I haue other busines then to
+tarye heere, </dialogue><nonSpeech> <font>Atire-Ga.</font> </nonSpeech><dialogue> Truely Madame
+I would be verye sorie to denye you
+if I could giue it at that price,
+but in truth I cannot, vnles I should lose by it.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> I will giue you sixteen,
+and not one halfepeny more. Mistris
+Du Pont-galliard, is it not enough?
+   </dialogue><nonSpeech> <font>Mist. du-po.gal:</font> </nonSpeech><dialogue> Me thinketh it Madame
+that you offer too much, as for me, 
+I would not giue so much.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Let vs goe then to the shop on
+the other side. </dialogue><nonSpeech> <font>Atire-Ga.</font> </nonSpeech><dialogue> Shall we giue it her
+at that price Mistris? </dialogue><nonSpeech> <font>The Sempster,</font> </nonSpeech><dialogue> Showe
+me the marke of it. Yes call them backe.
+   </dialogue><nonSpeech> <font>Atire-Ga.</font> </nonSpeech><dialogue> Madame, if you finde any
+better, I am content to giue you
+mine for nothing. </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Let it be
+as good as it will, yet you shall not haue
+of me a penye more for it, for I haue
+offred too much alreadie.
+   </dialogue><nonSpeech> <font>Semp.</font> </nonSpeech><dialogue> Madame, I am content to
+<pagebreak id="K1V" />
+lose in it, of the price that I sell it to others,
+in hope that you will buye of vs
+when you shall haue need: how many
+Elles will it please you to haue?
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Halfe a dossen Elles.
+   </dialogue><nonSpeech> <font>Sempst.</font> </nonSpeech><dialogue> Go too Attire-gaine, where is the Ells?
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Make good measure. Master
+Du vault-l'amour, I pray you to
+buye for me yonder wastcoate that I see
+in that other shop, for if I cheapen
+it, they will ouer price it me by the halfe,
+As for you, they knowe you haue
+better skill in it. Ioly pay for this cloath.
+Now, are you payed and contented?
+   </dialogue><nonSpeech> <font>Sempst.</font> </nonSpeech><dialogue> Yes Madame. I most humbly
+thanke you. Beleeue me you haue bestowed
+your money very well, and you haue good cheap
+Will you buye no shirts, ruffes,
+Falling bandes, handkerchers, night-coyfes,
+Falles, sockes, edged lace,
+Boote-hosen wrought,
+Or any other thing that we haue?
+All is at your commaundement.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Not for this time
+I thanke you, farewell my she friend.
+   </dialogue><nonSpeech> <font>Semst.</font> </nonSpeech><dialogue> Madame, God haue you in his keeping.
+   </dialogue><nonSpeech> <font>Lady,</font> </nonSpeech><dialogue> Page goe see if the Coach be ready,
+Runne quickly. Coach-man we must alight
+in Cheapside, at the Mercers and Gold-smiths.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

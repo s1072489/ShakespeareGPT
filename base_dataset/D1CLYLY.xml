@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1CLYLY">
+  <dialogueHeader>
+
+    <filename>D1CLYLY</filename>
+
+    <identifier>1 COMEDY D1CLYLY</identifier>
+
+    <title>ALEXANDER</title>
+
+    <author>LYLY JOHN</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1584</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">LYLY, JOHN.</attribution>
+      <frontMatter>A MOSTE EXCELLENT COMEDIE OF ALEXANDER, CAMPASPE, AND DIOGENES,
+PLAYED BEEFORE THE QUEENES MAIESTIE ON TWELFE DAY AT NIGHT, BY HER 
+MAIESTIES CHILDREN, AND THE CHILDREN OF POULES.
+IMPRINTED AT LONDON FOR THOMAS CADMAN.
+1584.
+PP. A4V.30 - F4R.12
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A4V" />
+   <nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> Here commeth <font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I see <font>Hephestion</font> , that these Philosophers are
+here attending for vs.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> They were not Philosophers, if they knewe
+not their dueties.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> But I much meruaile <font>Diogenes</font> shoulde bee so
+dogged.
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> I do not think but his excuse wilbe better
+then <font>Melippus</font> message.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I wil go see him <font>Hephestion</font> , because I long  
+to
+see him that would commaunde <font>Alexander</font> to come, to
+whom all the world is like to come. <font>Aristotle</font> &amp; the reste
+sithence my comming from <font>Thebes</font> to <font>Athens</font> , from a
+place of conqueste to a pallace of quiet, I haue resolued
+with my self in my court to haue as many Philosophers
+as I had in my camp soldiers. My court shalbe a schoole,
+wherein I wil haue vsed as great doctrine in peace, as I 
+did in warre discipline.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> We are al here ready to be commanded, &amp; glad
+we are that we are commanded, for that nothing better
+becommeth kinges then literature, which maketh them
+come as neere to the Gods in wisdome, as they doe in
+dignitie.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> It is so <font>Aristotle</font> , but yet there is among   
+you,
+yea &amp; of your bringing vp, that sought to destroy 
+<font>Alexander</font> , <font>Calistenes</font> , <font>Aristotle</font> , whose treasons      
+againste his
+prince shall not bee borne out with the reasons of his
+Phylosophy.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> If euer mischiefe entred into the hearte of
+<font>Calistenes</font> , let <font>Calistenes</font> suffer for it, but that          
+<font>Aristotle</font> euer
+imagined any such thing of <font>Calistenes</font> , <font>Aristotle</font> doth 
+denie.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Well <font>Aristotle</font> , kindred may blind thee, and
+affection mee, but in kinges causes I will not stande to
+schollers arguments. This meeting shalbe for a 
+co~mandement, that you all frequente my courte, instructe the
+young with rules, confirme the olde with reasons: lette
+your liues be answerable to your learninges, leaste my
+proceedinges be contrary to my promises.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> You sayde you woulde aske euerye one
+of them a question, which yester night none of vs could
+aunswere.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I will. <font>Plato</font> , of all beastes, which is the 
+subtillest?
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>Plato</font> </nonSpeech><dialogue> That which man hetherto neuer knew.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Aristotle</font> , how should a man bee thought a    
+God?
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> In doing a thing vnpossible for a man.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Crisyppus</font> , which was first, the day or the   
+night?
+   </dialogue><nonSpeech> <font>Crisip.</font> </nonSpeech><dialogue> The day by a day.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> In deede straunge questions must haue straung
+answers. <font>Cleanthes</font> , what say you, is life or death
+the stronger?
+   </dialogue><nonSpeech> <font>Clean.</font> </nonSpeech><dialogue> Life, that suffereth so many troubles.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Crates</font> , how long should a man liue?
+   </dialogue><nonSpeech> <font>Crates</font> </nonSpeech><dialogue> Till he think it better to die then liue.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Anaxarchus</font> , whether doth the sea or the earth
+bring forth most creatures?
+   </dialogue><nonSpeech> <font>Anax.</font> </nonSpeech><dialogue> The earth, for the sea is but a parte of the
+earth.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Hephestion</font> , me thinkes they haue answered all
+well, and in such questions I meane often to trye them.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> It is better to haue in your court a wise      
+manne,
+then in your ground a golden mine. Therefore would I
+leaue war, to studie wisdome, were I <font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> So would I, were I <font>Hephestion</font> . But come let  
+vs go
+and giue release, as I promised to our <font>Theban</font>
+thralles.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+   <nonSpeech> <font>Plato</font> </nonSpeech><dialogue> Thou art fortunate <font>Aristotle</font> , that           
+<font>Alexander</font> is
+thy scholler.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> And all you happy that he is your souereigne.
+   </dialogue><nonSpeech> <font>Crisip.</font> </nonSpeech><dialogue> I could like the man well, if he could be 
+conte~ted to be but a man.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> He seeketh to draw neere to the Gods in 
+knowledge, not to be a God.
+   </dialogue><nonSpeech> <font>Plato</font> </nonSpeech><dialogue> Let vs questio~ a litle with <font>Diogines</font> , why   
+he went
+not with vs to <font>Alexander</font> . <font>Diogenes</font> , thou didst forget thy
+duetie, that thou wentst not with vs to the king.
+<pagebreak id="B2R" />
+   </dialogue><nonSpeech> <font>Dioge.</font> </nonSpeech><dialogue> And you your profession, that you went to the
+king.
+   </dialogue><nonSpeech> <font>Plato</font> </nonSpeech><dialogue> Thou takest as great pride to be peeuish, as 
+others do glory to be vertuous.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And thou as great honor being a Philosopher
+to be thought courtlike, as others shame that be 
+courtiers, to be accounted Philosophers.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> These austere maners set aside, it is wel known
+that thou didst counterfeit money.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And thou thy manners, in that thou didst not
+counterfeit money.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> Thou hast reason to contemn the court, being
+both in bodye and minde too crooked for a 
+courtier.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> As good bee crooked, and endeuour to make
+my selfe straight from the court, as to bee straighte, and
+learne to be crooked at the court.
+   </dialogue><nonSpeech> <font>Crates</font> </nonSpeech><dialogue> Thou thinkest it a grace to be opposite against
+<font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And thou to be iumpe with <font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Anaxar.</font> </nonSpeech><dialogue> Let vs goe: for in co~temning him, we shal 
+better please him, then in wondring at him.
+   </dialogue><nonSpeech> <font>Arist.</font> </nonSpeech><dialogue> <font>Plato</font> , what doest thou thinke of            
+<font>Diogenes</font> ?
+   </dialogue><nonSpeech> <font>Plato</font> </nonSpeech><dialogue> To be <font>Socrates</font> furious, let vs goe.
+</dialogue><nonSpeech> <font> <foreign>Exeunt philosophi.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS SECUNDUS, SCHAENA PRIMA.</foreign> </head> 
+<nonSpeech> <font>Diogenes, Psyllus, Manes, Granichus.</font> </nonSpeech>
+
+   <nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Behold <font>Manes</font> where thy maister is, seeking
+either for bones for his dinner, or pinnes for his sleeues.
+I will goe salute him.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Doe so, but mum not a word that you sawe
+<font>Manes</font> . 
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Then staye thou behinde, and I will goe with 
+<font>Psyllus</font> .
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> All hayle <font>Diogenes</font> to your proper person.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> All hate to thy peeuish conditions.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> O Dogge.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> What dost thou seeke for here?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> For a man and a beast.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> That is easie without thy light to be founde,
+be not all these men?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Called men.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> What beast is it thou lookest for?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> The beast my man <font>Manes</font> .
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> He is a beast in deede that wil serue thee.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> So is he that begat thee.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> What wouldest thou do, if thou shuldest finde
+<font>Manes</font> ?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Giue him leaue to doe as hee hath done 
+beefore.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Whats that?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> To runne away.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Why, hast thou no neede of <font>Manes</font> ?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> It were a shame for <font>Diogenes</font> to haue neede of
+<font>Manes</font> , and for <font>Manes</font> to haue no neede of <font>Diogenes</font> .
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> But put the case he were gone, wouldst thou
+entertaine any of vs two?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Vppon condition.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> What?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> That you should tell mee wherefore anye of
+you both were good.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Why, I am a scholler, and well seene in 
+Philosophy.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> And I a prentice, and well seene in paynting.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Well then <font>Granichus</font> , be thou a painter to 
+amende thine ill face, and thou <font>Psyllus</font> a Philosopher to
+correct thine euil manners. But who is that <font>Manes</font> ?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I care not whoe I were so I were not 
+<font>Manes</font> .
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> You are taken tardie.
+<pagebreak id="B3R" />
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Let vs slip aside <font>Granichus</font> , to see the 
+salutation betweene <font>Manes</font> and his maister.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> <font>Manes</font> , thou knowest the last daye I threw 
+away my dish, to drink in my hand, because it was 
+superfluous, now I am determined to put away my man, and
+serue my selfe: <font> <foreign>Quia non egeo tui vel te</foreign> </font> .
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Maister, you know a while agoe I ran away,
+so doe I meane to doe againe, <font> <foreign>quia scio tibi non esse 
+argentum</foreign> </font> .
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I know I haue no money, neither will I haue
+euer a man: for I was resolued long sithe~ce to put away
+both my slaues, money and <font>Manes</font> .
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> So was I determined to shake off both my
+dogges, hunger and <font>Diogenes</font>
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> O sweete concent betweene a crowde and a 
+Iewes harpe.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Come, let vs reconcile them
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> It shal not neede: for this is their vse, now do
+they dine one vpon an other.
+</dialogue><nonSpeech> <font>Exit Diog.</font> </nonSpeech>
+   <nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> How nowe <font>Manes</font> , art thou gone from thy
+mayster.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> No, I didde but nowe binde my selfe to
+him.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Why, you were at mortall iars.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> In faith no, we brake a bitter iest one vppon
+another.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Why, thou art as dogged as he.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> My father knew them both litle whelpes.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Well, I wil hie me after my maister.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Why, is it supper time with <font>Diogenes</font> ?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I, with him at al times when he hath meate.
+   </dialogue><nonSpeech> <font>Psyllus.</font> </nonSpeech><dialogue> Why then euerye man to his home, and let
+vs steale out againe anon.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> Where shall we meete.
+<pagebreak id="B3V" />
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Why, at <font> <foreign>Ala vendibili suspensa haedera non 
+est 
+opus</foreign> </font> .
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> O <font>Psyllus</font> , <font> <foreign>habeo te loco                
+parentis</foreign> </font> , thou
+blessest me.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS SECUNDUS, SCHAENA SECUNDA.</foreign> </head> 
+
+<nonSpeech> <font>Alexander, Hephestion, Page, Diogenes, Apelles.</font> </nonSpeech>
+
+   <nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Stand aside sir boy, till you bee called. 
+<font>Hephestion</font> , how doe yee like the sweete face of <font>Campaspe</font> ?
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> I cannot but commend the stout courage of
+<font>Timoclea</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Without doubt <font>Campaspe</font> had som great man
+to her father.
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> You know <font>Timoclea</font> had <font>Theagines</font> to her 
+brother.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Timoclea</font> stil in thy mouth, art thou not in   
+loue?
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> Not I.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Not with <font>Timoclea</font> you meane, wherein you
+resemble the Lapwing, who crieth most where her neast
+is not. And so you lead me from espying your loue with
+<font>Campaspe</font> , you cry <font>Timoclea</font> .
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Coulde I aswell subdue kingdomes, as I
+can my thoughtes, or were I as farre from ambition, as
+I am from loue, all the world would account me as 
+valiaunt in armes as I know my self moderate in affection.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Is loue a vice?
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> It is no vertue.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Well, nowe shalt thou see what small 
+difference I make betweene <font>Alexander</font> and <font>Hephestion</font> . And
+sith thou hast beene alwaies partaker of my triumphes, 
+thou shalt be partaker of my tormentes. I loue 
+<font>Hephestion</font> , I loue I loue <font>Campaspe</font> , a thing farre vnfit    
+for a 
+Macedonian, for a king, for <font>Alexander</font> . Whye hangest thou
+downe thy head <font>Hephestion</font> ? blushing to hear that which 
+<pagebreak id="B4R" />
+I am not ashamed to tell.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Might my wordes craue pardon and my
+counsell credit, I woulde both discharge the duetie of a
+subiect, for so I am, and the office of a friend, for so I wil. 
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Speake <font>Hephestion</font> , for whatsoeuer is spoken, 
+<font>Hephestion</font> speaketh to <font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> I cannot tell <font>Alexander</font> , whether the      
+reporte
+be more shamefull to be heard, or the cause sorowfull to
+be beleeued? What, is the sonne of <font>Phillip</font> , king of 
+Macedon become the subiect of <font>Campaspe</font> , the captiue of 
+<font>Thebes</font> ? Is that minde, whose greatnes the world coulde not
+containe, drawn within the compasse of an idle alluring
+eie? Wil you handle the spindle with <font>Hercules</font> , when you
+shuld shake the speare with <font>Achilles</font> ? Is the warlike sound
+of drumme and trumpe turned to the softe noyse of lire
+and lute, the neighing of barbed steedes, whose loudnes
+filled the ayre with terrour, and whose breathes 
+dimmed the sunne with smoake, conuerted to delicate tunes
+and amorous glaunces? O <font>Alexander</font> , that soft and 
+yeelding minde should not bee in him, whose hard and 
+vnconquered heart hath made so many yeelde. But you
+loue, ah griefe, but whom? <font>Campaspe</font> , ah shame, a maide
+forsooth vnknowne, vnnoble, and who can tell whether
+immodest? whose eies are framed by arte to inamour,
+and whose heart was made by nature to enchaunt. I, but
+she is bewtiful, yea, but not therefore chaste: I, but she is
+comly in al partes of the body: yea, but she may be 
+crooked in some parte of the mind: I, but she is wise, yea, but
+she is a woman: Bewtie is like the blackberry, which 
+seemeth red, when it is not ripe, resembling pretious stones
+that are polished with honney, which the smother they
+look, the sooner they breake. It is thought wonderful 
+among the sea men, that <font>Mugil</font> of all fishes the swifteste is
+found in the belly of the <font>Bret</font> of all the slowest; And shal
+it not seeme monstrous to wise men, that the hearte of
+the greatest conquerour of the worlde, should be found
+<pagebreak id="B4V" />
+in the handes of the weakest creature of nature? of a 
+woman? of a captiue? <font>Hermyns</font> haue faire skinnes, but
+fowle liuers, Sepulchers fresh colours, but rotten bones,
+women faire faces, but false heartes. Remember 
+<font>Alexander</font> thou haste a campe to gouerne, not a chamber, fall
+not from the armour of <font>Mars</font> to the armes of <font>Venus</font> , fro~
+the fiery assaults of warre, to the maidenly skirmishes of
+loue from displaying the Eagle in thine ensigne, to sette
+downe the sparrow. I sigh <font>Alexander</font> that where fortune
+could not counquer, folly should ouercome. But behold
+al the perfection that may be in <font>Campaspe</font> , a haire curling
+by nature, not arte: sweete alluring eies, a faire face made
+in despite of <font>Venus</font> , and a stately porte in disdaine of 
+<font>Iuno</font> , a witte apt to conceaue, and quick to aunswere, a skin
+as softe as silke, and as smooth as iet, a long white hand,
+a fine little foote, to conclude, all partes aunswerable to
+the best part, what of this? Though she haue heauenlye
+gifts, vertue and bewtie, is she not of earthly mettal flesh
+and bloud? You <font>Alexander</font> that would be a God, shewe
+your self in this worse then a man, so soone to bee both
+ouerseene and ouertaken in a woman, whose false teares
+know their true times, whose smooth wordes wounde
+deeper then sharpe swordes. There is no surfeit so 
+dangerous, as that of honeye, nor any poyson so deadly, as
+that of loue, in the one phisicke cannot preuaile, nor in
+the other counsel.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> My case were light <font>Hephestion</font> , and not 
+worthy to be called loue, if reason were a remedie, or 
+sente~ses could salue, that sense cannot conceaue. Litle do you
+know, and therefore sleightly doe you regard the dead
+embers in a priuate perso~, or liue coles in a great prince,
+whose passions and thoughts do as farre exceede others
+in extremitie, as their callinges doe in Maiestie. An 
+Eclipse in the Sunne is more then the fallinge of a starre,
+none can conceiue the tormentes of a king, vnlesse hee
+be a king, whose desires are not inferiour to their 
+<pagebreak id="C1R" />
+dignities. And then iudge <font>Hephestion</font> if the agonies of loue be
+dangerous in a subiect, whether they be not more then
+deadly vnto <font>Alexander</font> , whose deep and not to be 
+conceiued <comment type="compiler">SOURCE TEXT HAS &quot;con ceiued&quot; DIVIDED BY LINE BREAK</comment>     
+sighes, cleaue the heart in shiuers, whose 
+wounded thoughtes can neither be expressed nor endured.
+Cease then <font>Hephestion</font> with argumentes to seeke to refel
+that, which with their deitie the Gods cannot resist, and
+let this suffice to aunswere thee, that it is a king that 
+loueth and <font>Alexander</font> , whose affections are not to be 
+measured by reason, being immortall, nor I feare me to bee
+borne being intollerable.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> I must needes yeeld, when neither reason nor
+counsel can be heard.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Yeelde <font>Hephestion</font> , for <font>Alexander</font> doth    
+loue, &amp;
+therefore must obtaine.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Suppose she loues not you, affection co~meth
+not by appointmente or birth, and then as
+good hated as enforced.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I am a king, and wil commaund.
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> You may, to yeelde to luste by force, but to
+consent to loue by feare you cannot.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why, what is that, which <font>Alexander</font> maye not
+conquer as he list?
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Why, that which you say the Gods cannot 
+resiste, Loue.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I am a conquerour, shee a captiue, I as 
+fortunate, as she faire: my greatnes may answere her wants,
+and the giftes of my minde, the modestie of hers: Is it
+not likely then that shee should loue? Is it not 
+reasonable?
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> You say that in loue there is no reason, and
+therefore there can be no likelyhood.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> No more <font>Hephestion</font> : in this case I wil vse   
+mine
+owne counsell, and in all other thine aduice, thou mayst
+be a good soldier, but neuer good louer. Call my page.
+Sirha, goe presentlye to <font>Apelles</font> , and will him to come to
+<pagebreak id="C1V" />
+me without either delay or excuse.
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> I goe.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> In the meane season to recreate my spirits, 
+being so neere, we will goe see <font>Diogenes</font> . And see
+where his tub is. <font>Diogenes</font> .
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Who calleth?
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Alexander</font> : how happened it that you woulde
+not come out of your tub to my pallace?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Because it was as far from my tub to your 
+pallace, as from your pallace to my tub.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why then doest thou ow no reuere~ce to kings?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why so?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Because they be no Gods.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> They be Gods of the earth.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Yea, Gods of earth.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Plato</font> is not of thy mind.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I am glad of it.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Because I would haue none of <font>Diogenes</font> minde,
+but <font>Diogenes</font>
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> If <font>Alexander</font> haue any thing that may pleasure
+<font>Diogenes</font> , let me know, and take it.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Then take not from me, that you cannot giue
+me, the light of the world.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> What dost thou want?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Nothing that you haue.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I haue the world at commaund.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And I in contempt.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Thou shalt liue no longer then I will.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> But I shall die whether you wil or no.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> How should one learne to be content?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Vnlearne to couet.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Hephestion</font> , were I not <font>Alexander</font> , I     
+would wishe
+to be <font>Diogenes</font> .
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> He is dogged, but discrete, I cannot tell how
+<pagebreak id="C2R" />
+sharpe with a kinde of sweetenes, full of wit, yet
+too to wayward.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Diogenes</font> , when I come this way again, I wil  
+both
+see thee, and confer with thee.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Doe.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> But here commeth <font>Apelles</font> , how now            
+<font>Apelles</font> , is
+<font>Venus</font> face yet finished?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Not yet: Bewtie is not so soone shadowed, whose
+perfection commeth not within the compasse
+either of cunning or of colour.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Wel let it rest vnperfect, &amp; come you with mee,
+where I will shewe you that finished by nature, 
+that you haue beene trifling about by arte.
+
+</dialogue> <head> <foreign>ACTUS TERTIUS, SCHAENA PRIMA.</foreign> </head> 
+<nonSpeech> <font>Apelles, Campaspe.</font> </nonSpeech>
+
+   <nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Lady, I doubt whether there bee any colour so
+fresh, that may shadow a countenance so faire.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Sir, I had thought you had beene commaunded
+to paint with your hand, not to glose with your tongue,
+but as I haue heard, it is the hardest thing in painting to
+set down a hard fauour, which maketh you to dispair of
+my face, and then shal you haue as great thanks to spare
+your labour, as to discredit your arte.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Mistresse, you neither differ from your selfe nor
+your sex: for knowing your own perfectio~, you seeme to
+dispraise that which men moste commend, drawing the~
+by that meane into an admiration, where feedinge
+themselues they fal into an extasie, your modestie being
+the cause of the one, and of the other, your affections.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> I am too young to vnderstande your speache,
+thogh old enough to withsta~d your deuise: you haue bin
+so long vsed to colours, you can do nothing but colour.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Indeed the colours I see, I feare, wil altar the 
+colour I haue: but come Madam, wil you draw neere: for
+<pagebreak id="C2V" />
+<font>Alexander</font> will be here anon. <font>Psyllus</font> , stay you heere at the 
+window, if anye enquire for me, aunswere, <font> <foreign>Non lubet esse
+domi</foreign> </font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+ <head> <foreign>ACTUS TERTIUS, SCAENA SECUNDA.</foreign> </head> 
+<nonSpeech> <font>Psyllus, Manes.</font> </nonSpeech>
+
+   <nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> It is alwaies my maisters fashion, when any fair
+gentlewoman is to be drawne within, to make mee to
+stay without. But if he shuld paint <font>Iupiter</font> like a Bul, like
+a Swanne, like an Eagle, then must <font>Psyllus</font> with one hand
+grinde colours, and with the other hold the candle. But
+let him alone, the better he shadowes her face, the more
+will he burne his own heart. And now if a manne coulde
+meete with <font>Manes</font> , who I dare say, lookes as leane, as if
+<font>Diogenes</font> dropped out of his nose.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> And heere come <font>Manes</font> , whoe hath as muche
+meate in his maw, as thou hast honestie in thy 
+head.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Then I hope thou art very hungry.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> They that know thee, know that.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> But doest thou not remember that wee haue
+certeine licour to conferre withal.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I, but I haue busines, I must go cry a thing.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Why, what hast thou lost?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> That which I neuer had, my dinner?
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Foule lubber wilt thou crie for thy dinner?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I meane, I must cry, not as one wold saye cry,
+but cry, that is, make a noyse.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Why foole, that is all one, for if thou cry,    
+thou
+must needes make a noise.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Boy, thou art deceiued Cry hath diuerse 
+significations, and may bee alluded to manye thinges, knaue
+but one, and can be applyed but to thee.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Profound <font>Manes</font> .
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Wee <font>Cynickes</font> are madde fellowes, didste thou
+<pagebreak id="C3R" />
+not finde I did quip thee?
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> No verely, why, whats a quip?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> We great girders call it a short saying of a sharp
+witte, with a bitter sense in a sweete word.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> How canst thou thus diuine, deuide, define, 
+dispute, and all on the sodaine?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Wit wil haue his swing, I am bewitcht, inspirde,
+inflamed, infected.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Well, then will not I tempt thy gybing spirite.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Do not <font>Psyllus</font> , for thy dull head will bee   
+but a
+grindstone for my quick wit, which if thou whet with 
+ouertwhartes, <font> <foreign>peristi, actum est de te</foreign> </font> . I haue drawne     
+bloud
+at ones braines with a bitter bob.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Let me crosse my self: for I die, if I crosse   
+thee.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Let me do my busines, I my self am afraid, least
+my wit should waxe warm, and then must it needes 
+consume some hard head with fine &amp; prety iests. I am 
+sometimes in such a vaine, that for want of some dull pate to
+worke on, I begin to gird my selfe.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> The Gods shield mee from such a fine fellowe,
+whose words melt wits like waxe.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Well then, let vs to the matter. In fayth my
+maister meaneth to morow to flye.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> It is a iest.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Is it a iest to flye? shouldest thou flye so      
+soone,
+thou shouldest repent it in earnest.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Well, I will be the cryer.
+   </dialogue><nonSpeech> <font>Man. and Psyl. one after another.</font> </nonSpeech><dialogue> O ys, o ys, o ys, All 
+manner of men, women, or children, that wil come to 
+morow into the market place, betweene the houres of nine
+and ten, shall see <font>Diogenes</font> the Cynick fly.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> I do not think he wil flye.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Tush, say fly.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Fly.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Now let vs goe: for I wil not see him againe,     
+till
+midnight, I haue a back way into his tub.
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Which way callest thou the backwaye, when 
+euery way is open.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I meane to come in at his back.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Well, let vs goe away, that we may returne 
+speedely.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS TERTIUS, SCHAENA TERTIA.</foreign> </head> 
+<nonSpeech> <font>Apelles, Campaspe.</font> </nonSpeech>
+
+   <nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I shall neuer drawe your eies well, because they
+blind mine.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Why the~, paint me without eies, for I am blind?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Were you euer shadowed before of any?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> No. And would you could so nowe shadow me,
+that I might not be perceiued of any.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> It were pittie, but that so absolute a face should
+furnish <font>Venus</font> temple amongst these pictures.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What are these pictures?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is <font>Laeda</font> , whom <font>Ioue</font> deceiued in     
+likenes of
+a swan.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> A faire woman, but a foule deceit.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is <font>Alcmena</font> , vnto who~ <font>Iupiter</font> came  
+in shape
+of <font>Amphitrio~</font> her husband, and begate <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> A famous sonne, but an infamous fact.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> He might do it, because he was a God.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Nay, therefore it was euil done, because he was 
+a God.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is <font>Danae</font> , into whose prison             
+<font>Iupiter</font> drisled a
+golden shewre, and obtained his desire.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What gold can make one yeelde to desire?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is <font>Europa</font> , whom <font>Iupiter</font> rauished,   
+this 
+<font>Antiopa</font> .
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Were al the Gods like this <font>Iupiter</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> There were many Gods in this like <font>Iupiter</font> .
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> I thinke in those daies loue was well ratified 
+<pagebreak id="C4R" />
+among men on earth, when lust was so full 
+autorised by the Gods in heauen.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Nay, you may imagine there were wome~ passing 
+amiable, whe~ ther were Gods exceding amorous.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Were women neuer so faire, men would be false.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Were woman neuer so false, men wold be fond.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What counterfeit is this <font>Apelles</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is <font>Venus</font> , the Goddesse of loue.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What, be there also louing Goddesses?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> This is she that hath power to commaunde the
+very affections of the heart.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> How is she hired, by praier, by sacrifice, or     
+bribs?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> By praier, sacrifice and bribes.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What praier?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Vowes irreuocable.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What sacrifice?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Hearts euer sighing, neuer dissembling.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What bribes?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Roses and kisses? but were you neuer in loue?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> No, nor loue in me.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Then haue you iniuried many.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> How so?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Because you haue beene loued of many.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Flattered perchance of some.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> It is not possible that a face so faire, and a    
+wit so
+sharp, both without comparison, shulde not bee
+apte to loue.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> If you begin to tip your tong with cunninge, I
+pray dip your pensil in colours, and fall to that you must
+doe, not that you would doe.
+</dialogue> <head> <foreign>ACTUS TERTIUS, SCHAENA QUARTA.</foreign> </head> 
+<nonSpeech> <font>Clytus, Parmenio, Alexander, Hephestion, Crysus,
+Diogenes, Apelles, Campaspe.</font> </nonSpeech>
+   <nonSpeech> <font>Clytus</font> </nonSpeech><dialogue> <font>Parmenio</font> I cannot tell howe it co~meth to    
+passe,
+that in <font>Alexander</font> now a daies there groweth an vnpacie~t
+kinde of life, in the morning he is mela~cholye, at noone
+<pagebreak id="C4V" />
+solomne, at all times either more sower or seuere, then
+he was accustomed.
+   </dialogue><nonSpeech> <font>Parme.</font> </nonSpeech><dialogue> In kinges causes I rather loue to doubte then
+coniecture, and thinke it better to be ignoraunt then 
+inquisitiue: they haue long eares and stretched armes, in
+whose heades suspition is a proofe, and to bee accused is
+to be condemned.
+   </dialogue><nonSpeech> <font>Clytus</font> </nonSpeech><dialogue> Yet betweene vs there canne be no daunger to
+finde out the cause: for that there is no malice to 
+withstand it. It may be an vnquenchable thirste of 
+conquering maketh him vnquiet: it is not vnlikely his long ease
+hath altred his humour: that hee shoulde be in loue, it is
+not impossible.
+   </dialogue><nonSpeech> <font>Parme.</font> </nonSpeech><dialogue> In loue <font>Clytus</font> , no, no, it is as farre from 
+his
+thought, as treason in ours: hee, whose euer waking eye,
+whose neuer tired heart, whose body pacient of labour,
+whose mind vnsatiable of victorie hath alwaies bin 
+noted, cannot so soone be melted into the weake conceites
+of loue: <font>Aristotle</font> told him there were many worlds, and 
+that he hath not conquered one that gapeth for all, 
+galleth <font>Alexander</font> . But here he commeth.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Parmenio</font> , and <font>Clitus</font> , I would haue you  
+both 
+redy to goe into Persia about an ambassage no lesse 
+profitable to me, then to your selues honourable.
+   </dialogue><nonSpeech> <font>Clitus</font> </nonSpeech><dialogue> We are ready at all commaundes, wishing 
+nothing els, but continually to be commaunded.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Well, then withdraw your selues, till I haue 
+further considered of this matter.
+</dialogue><nonSpeech> <font> <foreign>Exeunt Clytus &amp; Parmenio.</foreign> </font> </nonSpeech><dialogue>
+   Now we will see how <font>Apelles</font> goeth forward: I doubt
+me that nature hath ouercom arte, and her countena~ce
+his cunning.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> You loue, and therefore think any thing.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> But not so farre in loue with <font>Campaspe</font> , as   
+with
+<font>Bucephalus</font> , if occasion serue either of conflicte or of 
+conquest.
+<pagebreak id="D1R" />
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Occasion cannot want, if wil doe not. Behold
+all Persia swelling in the pride of their owne power, the
+Scithians carelesse what courage or fortune canne doe:
+the Egyptians dreaminge in the southsayinges of theyr
+Augures, and gaping ouer the smoak of their beastes 
+intralles. All these <font>Alexander</font> are to bee subdued, if that
+world be not slipped out of your head, which you haue
+sworne to conquer with that hand.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I confesse the labours fit for <font>Alexander</font> ,    
+and yet
+recreation necessary among so manye assaultes, bloudie
+woundes, intollerable troubles: giue mee leaue a litle, if
+not to sitte, yet to breath. And doubt not but <font>Alexander</font>
+can when he wil throw affections as farre from him, as
+he can cowardise. But behold <font>Diogenes</font> talking with one 
+at his tub.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> One pennie <font>Diogenes</font> , I am a Cynick.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> He made thee a begger, that first gaue thee any
+thing.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> Why, if thou wilte giue nothinge, no bodye
+wil giue thee.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I want nothing, till the springs dry, &amp; the earth
+perish.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> I gather for the Gods.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And I care not for those gods, which want 
+money.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> Thou art a right Cynicke, that wyll gyue 
+nothing.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Thou art not, that wil beg any thing.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> <font>Alexander</font> , kinge <font>Alexander</font> , giue a     
+poore 
+Cynick a groat.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> It is not for a king to giue a groat.
+   </dialogue><nonSpeech> <font>Crysus</font> </nonSpeech><dialogue> Then giue me a talent. 
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> It is not for a begger to aske a talent. Awaye.
+<font>Apelles</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Here.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Now Gentlewomanne, doth not your bewtie
+<pagebreak id="D1V" />
+put the painter to his trump?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Yes my lord, seeing so disordered a countena~ce,
+he feareth he shall shadow a deformed 
+counterfeit.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Would he could colour the life with the feature.
+And me thinketh <font>Apelles</font> , were you as cunning as report
+faith you are, you may paint flowers aswell with sweete
+smels, as fresh colours, obseruing in your mixture suche
+things as should draw neere to their fauours.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Your maiestie must know, it is no lesse harde to
+paint fauours then vertues, colours can neither
+speake nor think.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Where do you first begin, when you draw anye
+picture?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> The proportion of the face in iust compasse, as I
+can.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I would begin with the eie, as a light to all the 
+rest.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> If you wil paint, as you are a king, your Maiesty, 
+maye beginne wher you please, but as you wold
+be a painter, you must begin with the face.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Aurelius</font> would in one houre colour foure      
+faces.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I meruaile in half an houre he did not foure.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why, is it so easie?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> No, but he doth it so homely.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> When wil you finish <font>Campaspe</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Neuer finishe: for alwaies in absolute bewtie
+there is somwhat aboue arte.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why shoulde not I by labour bee as cunning as
+<font>Apelles</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> God shield you should haue cause to be so 
+cunning as <font>Apelles</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Me thinketh four colours are sufficie~t to shadow
+any countenance, &amp; so it was in the time of <font>Phydias</font> .
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Then had men fewer fancies, &amp; wome~ not so many
+fauors. For now, if the haire of her eie browes be black,
+<pagebreak id="D2R" />
+yet must the heare of her head be yellowe: the attire of
+her head must be different from the habite of her body,
+els would the picture seeme like the blason of auncient
+Armorie, not like the sweete delight of new found 
+amiablenes. For as in garden knottes diuersitie of odours
+make a more sweete sauour, or as in musicke diuers
+stringes cause a more delicate consent, so in painting, the
+more colours, the better counterfeit, obseruing blacke
+for a ground, and the rest for grace.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Lend me thy pensil <font>Apelles</font> , I wil paint, and 
+thou
+shalt iudge.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Here.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> The coale breakes.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> You leane too hard.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Now it blackes not.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> You leane too soft.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> This is awry.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Your eie goeth not with your                      
+<comment type="compiler">SOURCE TEXT: yout</comment> hand.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Now it is worse.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Your hand goeth not with your minde.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Nay, if all be too hard or soft, so many rules and
+regardes, that ones hand ones eie, ones mind muste all
+draw together, I had rather be setting of a battell, then
+blotting of a bourd. But how haue I done here?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Like a king.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I think so: but nothing more vnlike a Paynter.
+Wel <font>Apelles</font> , <font>Campaspe</font> is finished as I wish, dismisse her, &amp;
+bring presently her counterfeit after me.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I wil.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Now <font>Hephestion</font> , doth not this matter cotton  
+as I
+would, <font>Campaspe</font> looketh pleasantly, liberty wil encrease
+her bewtie, and my loue shal aduaunce her honour.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> I wil not contrary your maiestie, for time must
+weare out that loue hath wroughte, and reason weane
+what appetite noursed.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> How stately she passeth bye, yet howe soberlie, a
+<pagebreak id="D2V" />
+sweete consent in her countenance with a chast disdain,
+desire mingled with coynesse, and I cannot tell howe to
+tearme it, a curst yeelding modestie.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Let her passe.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> So shee shall for the fairest on the earth.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS TERTIUS, SCHAENA QUINTA.</foreign> </head> 
+
+<nonSpeech> <font>Psyllus, Manes, Apelles.</font> </nonSpeech>
+
+   <nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> I shalbe hanged for tarying so long.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> I pray God my maister bee not flowne before 
+I come.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Away <font>Manes</font> , my maister doth come.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Where haue you bin all this while?
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> No where but heere.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Who was here sithence my comming?
+   </dialogue><nonSpeech> <font>Psil.</font> </nonSpeech><dialogue> No body.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Vngratious wag, I perceiue you haue beene a 
+loytering, was <font>Alexander</font> no body?
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> He was a king, I meant no meane body.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I wyll cogell your bodye for it, and then wyll I
+saye it was no bodye, because it was no honest
+body. Away in.
+</dialogue><nonSpeech> <font>Exit Psyl.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">APELLES' SOLILOQUY AND SONG PP. D2V-D3V OMITTED.</comment>
+
+<pagebreak id="D3V" />
+</dialogue> <head> <foreign>ACTUS QUARTUS, SCHAENA PRIMA.</foreign> </head> 
+
+<nonSpeech> <font>Solinus, Psyllus, Granichus, Manes,
+Diogenes, Populus.</font> </nonSpeech>
+
+   <nonSpeech> <font>Soli.</font> </nonSpeech><dialogue> This is the place, the day, the time, that        
+<font>Diogenes</font>
+hath appointed to flye.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> I wil not loose the flight of so fair a foule as 
+<font>Diogenes</font> is, though my maister cogel my no bodye,
+as he threatned.
+   </dialogue><nonSpeech> <font>Gran.</font> </nonSpeech><dialogue> What <font>Psyllus</font> , will the beaste wag his winges 
+to
+day?
+   </dialogue><nonSpeech> <font>Psyl.</font> </nonSpeech><dialogue> We shal heare: for here commeth <font>Manes</font> :       
+<font>Manes</font>
+will it be?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Be, he were best be as cunning as a Bee, or else
+shortly he will not be at all.
+   </dialogue><nonSpeech> <font>Gran.</font> </nonSpeech><dialogue> How is he furnished to flye, hath he feathers?
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Thou art an asse, Capons, Geese and Owles haue
+feathers. He hath found <font>Dedalus</font> old waxen wings, and
+hath beene peecing them this moneth, he is so broad in
+the shoulders. O you shal see him cut the aire euen like a 
+Tortoys.
+<pagebreak id="D4R" />
+   </dialogue><nonSpeech> <font>Soli.</font> </nonSpeech><dialogue> Methinks so wise a man should not be so mad,
+his body must needes be too heauy.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Why, he hath eate~ nothing this seuennight but
+corke and feathers.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Tutch him <font>Manes</font> .
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> He is so light that he can scarse keepe him from
+flying at midnight.
+</dialogue><nonSpeech> <font> <foreign>Populus intrat.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Manes</font> </nonSpeech><dialogue> See they beginne to flocke, and behold my 
+maister bustels himself to flye.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Yee wicked and bewitched Athenians, whose
+bodies make the earth to groane, and whose breathes
+infect the aire with stench. Come ye to see <font>Diogenes</font> flye?
+<font>Diogenes</font> commeth to see you sinke: yee call me dog, so
+I am, for I long to gnawe the boanes in your skins. Yee
+tearme me an hater of menne: no, I am a hater of your
+ma~ers. Your liues dissolute, not fearing death, wil proue
+your deaths desperate, not hoping for life. What do you
+els in Athens but sleepe in the daye, and surfeite in the
+night: backGods in the morning with pride, in the 
+euening bellyGods with gluttony. You flatter kings, &amp;
+call them Gods, speak trueth of your selues, and co~fesse
+you are deuils. From the Bee you haue take~ not the 
+honey, but the wax to make your religion, framing it to the
+time, not to the trueth. Your filthy lust you colour vnder
+a courtly colour of loue, iniuries abroad vnder the title
+of pollicies at home, &amp; secrete malice creepeth vnder the
+name of publike iustice. You haue caused <font>Alexander</font> to
+dry vp springs and plant vines, to sow roket and weede
+endiffe, to sheare sheepe, and shrine foxes. All conscience
+is sealed at Athens. Swearing commeth of a hot mettle:
+lying of a quick wit: flattery of a flowing tong, vndecent
+talk of a mery disposition. Al things are lawful at Athe~s.
+Either you think there are no Gods, or I must think yee
+are no men. You build as though you shoulde liue for 
+euer, and surfeit as though you should die to morow.
+<pagebreak id="D4V" />
+None teacheth true Phylosophy but <font>Aristotle</font> , beecause
+he was the kinges schoolemaister. O times, O menne, O
+corruption in manners. Remember that greene grasse
+must turne to dry hay. When you sleep, you are not sure
+to wake, and when you rise not certeine to lye downe.
+Looke you neuer so hye, your heads must lye leuel with
+your feet. Thus haue I flown ouer your disordered liues,
+and if you will not amende your manners, I will studie
+to flye further from you, that I may be neerer to 
+honestie.
+   </dialogue><nonSpeech> <font>Soli.</font> </nonSpeech><dialogue> Thou rauest <font>Diogines</font> , for thy life is        
+different fro~ 
+thy woordes. Did not, I see thee come out of a
+brothel house? was it not a shame?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> It was no shame to goe out, but a shame to goe
+in.
+   </dialogue><nonSpeech> <font>Grani.</font> </nonSpeech><dialogue> It were a good deede <font>Manes</font> , to beate thy 
+maister. 
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> You were as good eate my maister.
+   </dialogue><nonSpeech> <font>One of the people.</font> </nonSpeech><dialogue> Hast thou made vs all fooles, and    
+wilt
+thou not flye?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I tell thee, vnlesse thou be honest, I wil fly.
+   </dialogue><nonSpeech> <font>People</font> </nonSpeech><dialogue> Dog, dog, take a boane.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Thy father neede fear no dogs, but dogs thy 
+father.
+   </dialogue><nonSpeech> <font>People</font> </nonSpeech><dialogue> We wil tel <font>Alexander</font> , that thou reproouest  
+him
+behind his back.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And I wil tell him, that you flatter him beefore
+his face.
+   </dialogue><nonSpeech> <font>People</font> </nonSpeech><dialogue> We wil cause all the boies in the streete to     
+hisse
+at thee.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> In deede I think the Athenians haue their 
+childre~ redy for any vice, because they be Athenia~s.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Why maister, meane you not to flye?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> No <font>Manes</font> , not without wings.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> Euery body wil account you a lyar.
+<pagebreak id="E1R" />
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> No, I warrant you: for I will alwayes say the 
+Athenians are mischieuous.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> I care not, it was sport ynogh for me to see    
+these
+old huddles hit home.
+   </dialogue><nonSpeech> <font>Gran.</font> </nonSpeech><dialogue> Nor I.
+   </dialogue><nonSpeech> <font>Psyllus</font> </nonSpeech><dialogue> Come, let vs goe, and hereafter when I meane 
+to raile vpon any body openly, it shall be giuen 
+out, I will flye.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUARTUS, SHAENA SECUNDA.</foreign> </head> 
+
+<nonSpeech> <font>Campaspe, Apelles.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">CAMPASPE'S SOLILOQUY OMITTED.</comment>
+
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Gentlewoman, the misfortune I had with your
+picture, will put you to some paines, to sitte againe to be 
+painted
+<pagebreak id="E1V" />
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> It is small paines for me to sit still, but       
+infinit for
+you to draw still.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> No Madame, to painte <font>Venus</font> was a pleasure,
+but to shadowe the sweet face of <font>Campaspe</font> it is a
+heauen.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> If your tongue were made of the same flesh that
+your heart is, your wordes woulde be as your thoughts 
+are: but such a common thing it is amongst you to 
+commend, that oftentimes for fashion sake you call the~ 
+bewtifull, whom you know blacke.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> What might men doe to be beleeued?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Whet their tongues on their hearts.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> So they doe, and speake as they think.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> I would they did.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I would they did not. 
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Why, would you haue them dissemble?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Not in loue, but theyr loue. But will you giue
+me leaue to ask you a question without offe~ce?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> So that you will aunswere me an other without
+excuse.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Whom do you loue best in the world?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> He that made me last in the world.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> That was a God.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> I had thought it had beene a man: but whome
+do you honour most <font>Apelles</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> The thing that is likest you <font>Campaspe</font> .
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> My picture?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I dare not venture vpon your person. But come, 
+let vs go in: for <font>Alexander</font> will thinke it longe till
+we returne.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUARTUS. SCHAENA TERTIA.</foreign> </head> 
+<nonSpeech> <font>Clytus, Parmenio.</font> </nonSpeech>
+
+   <nonSpeech> <font>Clytus</font> </nonSpeech><dialogue> We heare nothing of our Embassage, a colour
+<pagebreak id="E2R" />
+belike to bleare our eies, or ticle our eares, or inflame
+our heartes. But what doth <font>Alexander</font> in the meane 
+season, but vse for <foreign>Tantara, Sol. Fa. La.</foreign> for his harde couch,
+downe beddes, for his handfull of water, his standinge
+Cup of wine?
+   </dialogue><nonSpeech> <font>Parme.</font> </nonSpeech><dialogue> <font>Clytus</font> , I mislike this new delicacie and    
+pleasing
+peace: for what els do we see now then a kind of softnes
+in euery mans minde, Bees to make their hiues in 
+soldiers helmets, our steedes furnished with foote clothes of
+golde, insteede of saddles of steele: More time to bee 
+required to scowre the rust of our weapons, the~ there was
+woont to be in subdewing the countries of our enemies.
+Sithence <font>Alexander</font> fell from his harde armour to his
+softe robes, beholde the face of his court, youthes that
+were woont to carry deuises of victory in their shieldes,
+engraue now posies of loue in their ringes: they that
+were accustomed on trotting horses to charge the 
+enemie with a launce, now in easie coches ride vp &amp; downe
+to court Ladies: in steede of sworde and target to hazard
+their liues, vse penne and paper to paint their loues. Yea,
+such a feare and faintnes is growne in courte, that they
+wish rather to heare the blowing of a horne to hunt, the~
+the sound of a trumpet to fight? O Phillip, wert thou 
+aliue to see this alteration, thy men turned to women, thy
+soldiers to louers, gloues worne in veluet, caps in steede
+of plumes in grauen helmets, thou wouldest either dye
+among them for sorow, or confound them for anger.
+   </dialogue><nonSpeech> <font>Clitus</font> </nonSpeech><dialogue> Cease <font>Permenio</font> , least in speaking what 
+becommeth thee not, thou feele what liketh thee not: trueth is
+neuer without a scratcht face, whose tongue although it
+cannot be cut out, yet must it be tied vp.
+   </dialogue><nonSpeech> <font>Parme.</font> </nonSpeech><dialogue> It greeueth me not a litle for <font>Hephestion</font> ,  
+whoe
+thristeth for honour, not ease, but such is his fortune &amp;
+neerenesse in friendship to <font>Alexander</font> , that he must lay a 
+pillowe vnder his head, when he would put a targette in
+his hand.
+<pagebreak id="E2V" />
+But let vs draw in, to see how well it beecomes them to
+tread the measures in a daunce, that were wont to set
+the order for a march.
+</dialogue><nonSpeech> <font> <foreign>Exeunt,</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUARTUS, SCHAENA QUARTA.</foreign> </head> 
+
+<nonSpeech> <font>Apelles, Campaspe.</font> </nonSpeech>
+
+   <nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I haue now <font>Campaspe</font> almost made an end.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> You told me <font>Apelles</font> , you would neuer end.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Neuer end my loue: for it shalbe eternal.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> That is, neither to haue beginning nor ending.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> You are disposed to mistake, I hope you do not
+mistrust.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> What will you saye, if <font>Alexander</font> perceiue your
+loue?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> I will say, it is no treason to loue.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> But how if he will not suffer thee to see my 
+person?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Then will I gase continually on thy picture.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> That will not feede thy heart.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Yet shall it fill mine eie: beesides the sweete
+thoughtes, the sure hopes, thy protested faith, will cause
+me to embrace thy shadow continuallye in mine armes,
+of the which by stronge imagination I will make a 
+substaunce.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Wel, I must be gon: but this assure your self,    
+that
+I had rather be in thy shop grinding colours, then in 
+<font>Alexanders</font> court, following higher fortunes.
+
+</dialogue><nonSpeech> <font>Campaspe alone.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">CAMPASPE'S SOLILOQUY OMITTED.</comment>
+
+<pagebreak id="E3R" />
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUARTUS, SCHAENA QUINTA.</foreign> </head> 
+
+<nonSpeech> <font>Apelles, Page.</font> </nonSpeech>
+
+   <nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Now <font>Apelles</font> , gather thy wittes together: 
+<font>Campaspe</font> is no lesse wise then faire, thy selfe must be no lesse
+cunning then faithfull. It is no small matter to be riuall
+with <font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> <font>Apelles</font> , you must come away quicklye with the
+picture, the king thinketh that nowe you haue
+painted it, you play with it.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> If I would playe with pictures, I haue enough at
+home.
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> None perhaps you like so well.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> It may be I haue painted none so well.
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> I haue knowne many fairer faces.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> And I many better boies.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+<pagebreak id="E3V" />
+ <head> <foreign>ACTUS QUINTUS, SHAENA PRIMA.</foreign> </head> 
+<nonSpeech> <font>Diogenes, Syluius, Perim, Milo Trico,
+Manes.</font> </nonSpeech>
+
+   <nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> I haue brought my sons <font>Diogenes</font> , to bee     
+taught
+of thee.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> What can thy sonnes doe?
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> You shall see their qualities: Daunce sirha.
+</dialogue><nonSpeech> <font>Then Perim daunceth.</font> </nonSpeech><dialogue>
+How like you this? doth he well?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> The better, the worser.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> The musicke very good.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> The Musitions very badde, who onelye studie to
+haue their stringes in tune, neuer framing their
+manners to order. 
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Now shall you see the other: tumble sirha.
+</dialogue><nonSpeech> <font>Milo tumbleth.</font> </nonSpeech><dialogue>
+How like you this? why do you laugh?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> To see a wagge, that was born to break his neck
+by destinie, to practise it by arte.
+   </dialogue><nonSpeech> <font>Milo.</font> </nonSpeech><dialogue> This dogge will bite me, I wil not be with him.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Feare not boy, dogges eate no thistles.
+   </dialogue><nonSpeech> <font>Perim.</font> </nonSpeech><dialogue> I meruaile what dog thou art, if thou be a dog.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> When I am hungry, a mastiue, and when my 
+belly is full, a spaniell.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Doest thou beleeue that there are any gods, that
+thou art so dogged?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I must needs beleeue there are Gods: for I think
+thee an enemie of them.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Why so?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Beecause thou hast taught one of thy sonnes to
+rule his legges, and not to follow learning, the other to
+bend his body euery way, and his minde no way.
+   </dialogue><nonSpeech> <font>Perim.</font> </nonSpeech><dialogue> Thou doest nothing but snarle, and barke like
+a dogge.
+<pagebreak id="E4R" />
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> It is the next way to driue away a theefe.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Now shall you heare the third, who signes like a
+Nightingall.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I care not: for I haue heard a Nightingall sing
+her self.
+   </dialogue><nonSpeech> <font>Syl.</font> </nonSpeech><dialogue> Sing sirha.
+
+</dialogue><nonSpeech> <font>Trico singeth.</font> </nonSpeech>
+
+   <nonSpeech> <font>Syl.</font> </nonSpeech><dialogue> Loe <font>Diogenes</font> , I am sure thou canst not doe so
+much.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> But there is neuer a Thrush but can.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> What hast thou taught <font>Manes</font> thy man?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> To be as vnlike as may be thy sonnes.
+   </dialogue><nonSpeech> <font>Manes</font> </nonSpeech><dialogue> He hath taught me to fast, lye hard, and runne 
+away.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Howe saiest thou <font>Perim</font> , wilte thou bee with
+him?
+   </dialogue><nonSpeech> <font>Perim.</font> </nonSpeech><dialogue> I, so he will teach me first to runne away.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Thou needest not be taught, thy legs are so 
+nimble.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Howe sayest thou <font>Milo</font> , wilte thou be with 
+him? 
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Nay, hold your peace, he shall not.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Why?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> There is not roome enough for him and mee 
+both to tumble in one tub.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Well <font>Diogenes</font> , I perceiue my sonnes brook   
+not
+thy manners.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I thought no lesse, when they knewe my 
+vertues.
+   </dialogue><nonSpeech> <font>Sylui.</font> </nonSpeech><dialogue> Farewel <font>Diogenes</font> , thou neededst not haue 
+scraped rootes, if thou woldest haue followed 
+<font>Alexander</font> .
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Nor thou haue followed <font>Alexa~der</font> , if thou    
+hadst
+scraped rootes.   </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+<pagebreak id="E4V" />
+ <head> <foreign>ACTUS QUINTUS, SCHAENA SECUNDA.</foreign> </head> 
+
+<nonSpeech> <font>Apelles alone.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">APELLES' SOLILOQUY OMITTED.</comment>
+
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUINTUS, SCHAENA TERTIA.</foreign> </head> 
+
+<nonSpeech> <font>Milectus, Phrigius, Layis
+Diogenes.</font> </nonSpeech>
+
+   <nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> It shal go hard, but this peace shal bring vs some
+pleasure.
+   </dialogue><nonSpeech> <font>Phry.</font> </nonSpeech><dialogue> Downe with armes, and vp with legges, this is a 
+world for the nonce.
+<pagebreak id="F1R" />
+   </dialogue><nonSpeech> <font>Lays</font> </nonSpeech><dialogue> Sweete youthes, if you knew what it were to saue
+your sweete bloud, you would not so foolishly go about
+to spend it. What delight can there be in gasshinge, to
+make foule scarres in faire faces, &amp; crooked maimes in
+streight legges? as though men being borne goodlye by 
+nature, would of purpose become deformed by follye,
+and all forsooth for a new found tearme, called valiant,
+a worde which breedeth more quarrelles then the sense
+can commendation.
+   </dialogue><nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> It is true <font>Lays</font> , a featherbed hath no fellow, 
+good
+drinke makes good bloud, and shal pelting wordes spill
+it?
+   </dialogue><nonSpeech> <font>Phry.</font> </nonSpeech><dialogue> I meane to enioy the world, and to draw out my
+life at the wiredrawers, not to curtall it off at the 
+cuttelers.
+   </dialogue><nonSpeech> <font>Lays</font> </nonSpeech><dialogue> You may talke of warre, speake bigge, conquer
+worldes with great wordes: but stay at home, where in
+steede of Alarums you shall haue daunces, for hot 
+battelles with fierce menne, gentle skirmishes with faire
+womenne. These pewter coates canne neuer sitte so well
+as satten dublets. Beleeue mee, you cannot conceiue
+the pleasure of peace, vnlesse you despise the rudenes of
+warre.
+   </dialogue><nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> It is so. But see <font>Diogenes</font> prying ouer his     
+tubbe:
+<font>Diogenes</font> , what saiest thou to such a morsel?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I say, I would spit it out of my mouth, because it
+should not poyson my stomacke.
+   </dialogue><nonSpeech> <font>Phry.</font> </nonSpeech><dialogue> Thou speakest as thou arte, it is no meate for
+dogges.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I am a dogge, and Phylosophy rates mee from
+carion. 
+   </dialogue><nonSpeech> <font>Lays</font> </nonSpeech><dialogue> Vnciuill wretch, whose manners are 
+aunswerable to thy callynge, the tyme was thou wouldest haue
+hadde my companie, had it not beene, as thou saidst too
+deare.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> I remember there was a thing, that I repented
+<pagebreak id="F1V" />
+me of, and now thou haste told it, indeede it was
+too deare of nothing, and thou deare to no 
+bodye.
+   </dialogue><nonSpeech> <font>Lays</font> </nonSpeech><dialogue> Downe villaine, or I wil haue thy head broken?
+   </dialogue><nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> Will you couch?
+   </dialogue><nonSpeech> <font>Phry.</font> </nonSpeech><dialogue> Auaunt curre: Come sweete <font>Lays</font> , let vs goe to
+some place, and possesse peace. But first let vs sing, there
+is more pleasure in tuning of a voyce, then in a vollye of
+shotte.
+   </dialogue><nonSpeech> <font>Milec.</font> </nonSpeech><dialogue> Now let vs make haste, least <font>Alexander</font> finde
+vs
+here.
+</dialogue><nonSpeech> <font> <foreign>Exeunt,</foreign> </font> </nonSpeech>
+
+ <head> <foreign>ACTUS QUINTUS, SCHAENA QUARTA.</foreign> </head> 
+
+<nonSpeech> <font>Alexander. Hephestion, Page, Diogenes,
+Apelles, Campaspe.</font> </nonSpeech>
+
+   <nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Mee thinketh <font>Hephestion</font> you are more 
+melancholy then you were accustomed, but I perceiue it is all
+for <font>Alexander</font> . You can neither brooke this peace, nor
+my pleasure, be of good cheare, though I winke, I sleepe
+not.
+   </dialogue><nonSpeech> <font>Hephest.</font> </nonSpeech><dialogue> Melancholy I am not, nor well content: for I
+know not how there is such a ruste crept into my bones
+with this long ease, that I feare I shall not scowre it out
+with infinite labours.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Yes, yes, if all the trauailes of conquering the
+world will set either thy body or mine in tune, wee will
+vndertake them. But what think you of <font>Apelles</font> ? Did yee
+euer see any so perplexed? Hee neither aunswered 
+directly to any question, nor looked stedfastly vppon anye
+thing. I hold my life the painter is in loue.
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> It may be: for commonly we see it incident in
+artificers to be inamoured of their own workes, as 
+<font>Archidamus</font> of his woodden doue, <font>Pygmalion</font> , of his iuorie
+<pagebreak id="F2R" />
+Image, <font>Arachne</font> of his wodde~ swan, especially painters,
+who playing with their own conceites, now coueting to
+draw a glauncing eie, then a rolling, now a wincking, stil
+mending it, neuer ending it, till they bee caught with it,
+and then poore soules they kisse the colours with their
+lippes, with which before they were loth to tainte theyr
+fingers.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I wil finde it out. Page, goe speedelye for       
+<font>Apelles</font> , 
+will him to come hether, and when you see vs earnestly
+in talke, sodenly cry out, <font>Apelles</font> shoppe is on fire.
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> It shalbe done.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Forget not your lesson
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> I meruaile what your deuice shalbe.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> The euent shall proue.
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> I pittie the poore painter, if he be in loue.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Pittie him not, I pray thee, that seuere grauity  
+set
+aside, what do you think of loue?
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> As the Macedonians doe of their hearbe Beet,
+which looking yellow in the ground, and blacke in the 
+hand, thinke it better seene then toucht.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> But what do you imagine it to be?
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> A word by superstition thought a God, by vse
+turned to an humour, by self will made a flattering 
+madnesse.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> You are too hard harted to think so of loue. Let
+vs go to <font>Diogenes</font> . <font>Diogenes</font> , thou maist think it somwhat,
+that <font>Alexander</font> commeth to thee againe so soone
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> If you come to learn, you could not come soone
+enough, if to laugh, you be come too soone.
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> It would better become thee to be more 
+curteous, and frame thy self to please.
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And you better to be lesse, if you durst          
+displease.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> What dost thou think of the time we haue here?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> That we haue litle, and lose much.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> If one be sick, what wouldest thou haue him do?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Be sure that he make not his Phisition his hiere.
+<pagebreak id="F2V" />
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> If thou mightest haue thy wil, how much grou~d
+would content thee?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> As much as you in the ende must bee contented
+withall.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> What, a world?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> No, the length of my body.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Hephestion</font> , shal I be a litle pleasaunt with 
+him?
+   </dialogue><nonSpeech> <font>Heph.</font> </nonSpeech><dialogue> You may: but he wil be very peruerse with you.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Apel.</font> </comment> It skilleth not, I    
+cannot be angry with him. 
+<font>Diogenes</font> , I pray thee, what dost thou think of loue?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> A litle worser then I can of hate.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> And why?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Because it is better to hate the thinges, which
+make to loue, the~ to loue the things, which giue
+occasion of hate.                            
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Why, be not women the best creatures in the world?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> Next men and Bees.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> What dost thou dislike chiefly in a woman?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> One thing.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> What?
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> That she is a woman.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> In mine opinion thou wert neuer born of a 
+woman, that thou thinkest so hardly of wome~. But now 
+co~meth <font>Apelles</font> , who I am sure is as far from thy thoghts, as
+thou art fro~ his cunning. <font>Diogenes</font> , I wil haue thy cabin 
+remoued nerer to my court, because I wilbe a philosopher
+   </dialogue><nonSpeech> <font>Diog.</font> </nonSpeech><dialogue> And when you haue done so, I pray you remoue
+your court further from my cabinne, because I
+wil not be a courtier.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> But here commeth <font>Apelles</font> . <font>Apelles</font> , what 
+peece of
+work haue you now in hand?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> None in hand, if it like your maiestie: but I am
+deuising a platforme in my head.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I think your hand put it in your head. Is it 
+nothing about <font>Venus</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> No, but some thing about <font>Venus</font> .
+<pagebreak id="F3R" />
+   </dialogue><nonSpeech> <font>Page</font> </nonSpeech><dialogue> <font>Apelles</font> , <font>Apelles</font> , looke about you, your  
+shope is
+on fire.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Ay me, if the picture of <font>Campaspe</font> be burnt, I 
+am
+vndone.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Stay <font>Apelles</font> , no haste, it is your hart is   
+on fire, not
+your shop, &amp; if <font>Camp.</font> hang there, I wold she were burnt.
+But haue you the picture of <font>Campaspe</font> ? Beelike you loue
+her wel, that you care not thogh al be lost, so she be safe.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Not loue her: but your Maiestie knowes that
+painters in their last works are said to excell themselues,
+and in this I haue so much pleased my self, that the 
+shadow as much delighteth mee beeing an artificer, as the
+substaunce doth others that are amorous.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> You lay your colours grosely, though I could not
+paint in your shop, I ca~ spy into your excuse. Be not 
+ashamed <font>Apelles</font> , it is a Gentlemans sport to be in loue. Call
+hither <font>Campaspe</font> . Me thinks I might haue bin made 
+priuie to your affection, though my counsel had not beene
+necessary, yet my countenance might haue bin thought
+requisite. But <font>Apelles</font> forsooth loueth vnder hand, yea &amp;
+vnder <font>Alexanders</font> nose, and, but I say no more.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> <font>Apelles</font> loueth not so: but he liueth to do as 
+<font>Alexander</font> will.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Compaspe</font> , here is newes, <font>Apel.</font> is in     
+loue with 
+you.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> It pleaseth your maiesty to say so.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Hephestion</font> , I wil try her to. <font>Campaspe</font> , 
+for the good
+qualities I know in <font>Apelles</font> and the vertue I see in you, I
+am determined you shal enioy one the other. Howe saye
+you <font>Campaspe</font> , would you say, I?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Your handmaid must obey, if you commaund.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Think you not <font>Hephestion</font> that shee would faine
+be commaunded?
+   </dialogue><nonSpeech> <font>Heph.</font> </nonSpeech><dialogue> I am no thought catcher, but I gesse vnhappily.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> I will not enforce mariage, where I cannot 
+co~pel loue.
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> But your maiestie may moue a question, where
+<pagebreak id="F3V" />
+you be willing to haue a match.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Beleeue me <font>Hephestion</font> , these parties are     
+agreed,
+they would haue me both priest and witnesse. <font>Apelles</font> ,
+take <font>Campaspe</font> , why moue ye not? <font>Campaspe</font> , take <font>Apelles</font> ,
+wil it not be? If you be ashamed one of the other, by my
+consent you shal neuer come togeather. But dissemble
+not <font>Campaspe</font> , do you loue <font>Apelles</font> ?
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Pardon my Lord, I loue <font>Apelles</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> <font>Apelles</font> , it were a shame for you, being      
+loued so
+openly of so faire a virgin, to say the contrary. Doe you
+loue <font>Campaspe</font> ?
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Onely <font>Campaspe</font> .
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Two louing wormes, <font>Hephestion</font> , I perceiue 
+<font>Alexander</font> cannot subdue the affections of menne, though he
+co~quer their countries. Loue falleth like dew aswel vpo~
+the low grasse, as vppon the high Caedar. Sparkes haue
+their heate, Antes their gall, Flyes their splene. Well,
+enioy one an other, I giue her thee fra~ckly <font>Apelles</font> . Thou
+shalt see that <font>Alexander</font> maketh but a toye of loue, and
+leadeth affection in fetters, vsing fa~cie as a foole to make
+him sport, or as a minstrell to make him merry. It is not
+the amorous glaunce of an eie can settle an idle thought
+in the heart, no no, it is childrens game, a life for 
+seamesters and schollers, the one pricking in cloutes haue 
+nothing els to thinke on, the other picking fancies out of
+books, haue litle els to meruaile at. Go <font>Apelles</font> , take with
+you your <font>Campaspe</font> , <font>Alexander</font> is cloied with looking on
+that, which thou wondredst at.
+   </dialogue><nonSpeech> <font>Apel.</font> </nonSpeech><dialogue> Thankes to your maiestie on bended knee, you
+haue honoured <font>Apelles</font> .
+   </dialogue><nonSpeech> <font>Camp.</font> </nonSpeech><dialogue> Thankes with bowed hearte, you haue blessed
+<font>Campaspe</font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> Page, go warne <font>Clitus</font> and <font>Parmenio</font> and the 
+other Lordes to be in a readines, let the trumpet sounde,
+strike vp the drumme, and I will presently into Persia.
+<pagebreak id="F4R" />
+How now <font>Hephestion</font> , is <font>Alexander</font> able to resiste loue as
+he list?
+   </dialogue><nonSpeech> <font>Hephe.</font> </nonSpeech><dialogue> The conquering of <font>Thebes</font> was not so 
+honourable, as the subdueing of these thoughts.
+   </dialogue><nonSpeech> <font>Alex.</font> </nonSpeech><dialogue> It were a shame <font>Alexander</font> should desire to 
+commaund the world, if he could not commaund himselfe.
+But come, let vs goe, I will <comment type="compiler">SOURCE TEXT: wll</comment> try whether I can  
+better beare
+my hand with my heart, then I could with mine eie. And
+good <font>Hephestion</font> , when al the world is woone, and euery
+countrey is thine and mine, either find me out an other
+to subdue, or of my word I will fall in loue.
+
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

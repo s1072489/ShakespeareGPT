@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4FTRAGE">
+  <dialogueHeader>
+
+    <filename>D4FTRAGE</filename>
+
+    <identifier>4 FICTION D4FTRAGE</identifier>
+
+    <title>THE PLAYER'S TRAGEDY</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1693</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE PLAYER'S TRAGEDY. OR, FATAL LOVE, A NEW NOVEL.
+LONDON: PRINTED, AND SOLD BY RANDAL TAYLOR, NEAR STATIONER'S HALL.
+1693.
+PP. 10.4 - 16.28   SAMPLE 1
+PP. 33.14 - 36.27  SAMPLE 2
+PP. 38.24 - 39.30  SAMPLE 3
+PP. 42.27 - 57.13  SAMPLE 4
+PP. 72.19 - 74.15  SAMPLE 5
+PP. 79.24 - 84.15  SAMPLE 6
+PP. 89.8 - 95.16   SAMPLE 7
+PP. 103.8 - 105.23 SAMPLE 8
+PP. 107.1 - 109.13 SAMPLE 9
+PP. 112.17 - 117.8 SAMPLE 10
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="10" />
+<comment type="compiler">GERARDO ASKS THE COUNT WHETHER MONTANO IS IN LOVE.</comment>
+<omission type="line" /> That indeed is his
+unhappy circumstance </dialogue><nonSpeech> ( <font>reply'd the</font>
+Count) </nonSpeech><dialogue> and that with a very coy and
+unkind Nymph, that's deaf to all his
+Prayers, and, tho of the Play-House,
+will not be won by <font>Money</font> , nor <font>Youth</font> .
+That's a Miracle indeed </dialogue><nonSpeech> ( <font>return'd</font>
+Gerardo) </nonSpeech><dialogue> but pray, who is this invincible
+<font>Amazon</font> , that will not yield to
+my Friend <font>Montano</font> ? <font>Bracilla</font> </dialogue><nonSpeech> (reply'd
+the <font>Count</font> ) </nonSpeech><dialogue> who in my opinion hath
+hath nothing taking but her Youth,
+and affected Coyness. That Coyness
+</dialogue><nonSpeech> (said <font>Gerardo</font> ) </nonSpeech><dialogue> I can tell you the cause
+of, which though it be not due to her
+Vertue, is at least to her Constancy in
+Love, <font>Monfredo</font> having taken Possession
+of her heart, if report and my own
+observations fail me not. Prithee, thou
+art such a living Libel </dialogue><nonSpeech> (reply'd the
+<font>Count</font> ) </nonSpeech><dialogue> that like <font>Medly</font> in Sir <font>Forpling
+Flutter</font> , no Woman thou knowest, escapes
+thee, of how great quality soever, much
+less an <font>Actress</font> , whose Reputation, as
+well as Person is exposed for the
+Pleasure, and Diversion of the Audience.
+<pagebreak id="11" />
+   'Tis too true </dialogue><nonSpeech> (interrupted <font>Montano</font> ) </nonSpeech><dialogue>
+I have long since found the cause of all
+my unhappiness in that successful Rival
+<font>Monfredo</font> . She has indeed </dialogue><nonSpeech> (pursued the
+<font>Count</font> ) </nonSpeech><dialogue> been more severe to you of late
+than formerly, for I remember at first
+she heard your Address with more
+pleasure, than pain. True </dialogue><nonSpeech> (answered
+<font>Montano</font> ) </nonSpeech><dialogue> I well remember the happy time,
+the joy of which is not yet effac'd with
+all her after Cruelty.
+   But thou art ignorant </dialogue><nonSpeech> ( <font>continu'd
+he</font> ) </nonSpeech><dialogue> <font>Gerardo</font> of the progress of my Love,
+I'll therefore repeat it from the
+beginning, with all its most material <comment type="compiler">SOURCE TEXT: meterial</comment>
+circumstances, that you may the better advise
+me. Do so </dialogue><nonSpeech> ( <font>reply'd</font> Gerardo) </nonSpeech><dialogue> poor
+<font>Lover</font> , and I'll give thee the best
+Advice that I'm able, and I warrant I
+either cure, or satisfie thy Passion, if I
+have any skill in the Mathematicks. But
+pray proceed.
+<comment type="compiler">MONTANO'S SPEECH: HE FALLS IN LOVE WITH BRACILLA WHEN SHE IS ACTING
+IN A PLAY. THE COUNT AND MONTANO DRINK HEAVILY AFTERWARDS BUT MONTANO
+GOES BACK TO THE THEATRE THE NEXT NIGHT WHERE BRACILLA PLAYS THE PART
+OF A YOUNG LOVER -- HIS SPEECH CONTINUES:</comment>
+<pagebreak id="13" />
+   Being behind the Scenes, the first
+opportunity I had -- Madam ( <font>said I</font> )
+you act the Lover to a Miracle, and it
+became you so wonderfully, that I vow
+'tis a thousand pities but you shou'd
+be one in reality. I'm not at all oblig'd
+to you, Sir, ( <font>reply'd she</font> ) for your wish,
+in such an inconstant Interess'd Age
+as this is, since it must only contribute
+to my certain ruine. Why, Madam,
+( <font>said I</font> ) did you never Love? What
+makes you ask that familiar question
+( <font>return'd she something angry, and leaving
+me, pursu'd</font> ) whether I have or no, I shall
+never Love you I'm sure. The
+Heavens forbid ( <font>reply'd I, and follow'd her</font> )
+But pardon me, Madam, I design'd not
+to affront you by that demand, because
+I thought it impossible so much of it
+shou'd appear in your bare
+personating a Lover, with an absolute
+insensibility within, and that you shou'd be
+so every way compleated for Love, and
+yet be without that Blessing of Humane
+Life. Sir, ( <font>said she</font> ) if you think this
+Discourse pleases me, I shall leave you
+to convince you that it does not.
+Not so, I beseech you, Madam,
+<pagebreak id="14" />
+( <font>answer'd I</font> ) rather than lose the
+Happiness of your Conversation, I'll curb
+my forward Heart, that is unwilling
+to let me talk of any thing but its
+wounds. Alas! poor Gentleman
+( <font>replyes she, and smil'd</font> ) then you are in
+Love it seems, and out of pure spite
+to those that are not so, you endeavour
+to spread the infection you have caught,
+or like some troublesome People at a
+Feast, will needs thrust the Dish you
+esteem upon every one, never
+considering that another may hate it. Nay,
+you Lovers, are still as impertinent,
+as they, for neither of you will take
+any denyal, which methinks is
+something troublesome, as well as uncivil.
+But pray, Sir, ( <font>pursu'd she, without
+giving me any time to answer</font> ) what Fair
+Lady has undone you? None of us I
+dare swear, for then you wou'd not
+lose your time with me, which you
+might employ to bend her stubborn
+Heart. But perhaps, you are a happy
+Lover, and so can borrow some time
+from your Mistress, to make
+Proselytes. If so, ( <font>concluded she</font> ) 'tis pity
+you shou'd fling it away, and a
+thousand fine sayings to boot on me, since I
+vow, Sir, I'm as deaf to that, as the
+People to Virtue in distress.
+<pagebreak id="15" />
+   She staid not to hear me, but ran
+to t'other side of the Stage, and before
+I cou'd overtake her, was Enter'd. I
+was extreamly pleas'd with her
+Discourse, and was impatient till the end
+of the Act, that I might attack her
+once more, if it were only to have
+the satisfaction of talking to her.
+   But, Madam, ( <font>said I</font> ) but are you
+indeed so very irreconcilable an Enemy
+to Love? Why, Sir, ( <font>reply'd she</font> )
+shou'd you doubt it? Do you expect to
+find that on the Stage? We represent
+too many of its follies to be guilty of
+them our selves. You shou'd go to
+some Country Village, where perhaps
+you may find some believing
+Romantick Virgin, that may gratifie your
+Curiosity, but you are much mistaken
+if you think it the growth of the
+Theatre -- Gad the Girl spoke a
+profound Truth </dialogue><nonSpeech> ( <font>interrupted</font> Gerardo) </nonSpeech><dialogue> in
+that, for the Devil a bit of Love did I
+ever know there out of their parts,
+unless when Money made 'em Act that
+in their own Persons, which they did
+for the same represent in anothers. But
+pray proceed --
+   Ah, Madam, ( <font>said I</font> , </dialogue><nonSpeech> <font>continu'd</font>
+Montano) </nonSpeech><dialogue> banish not the Thoughts of
+<pagebreak id="16" />
+Love from any place where you abide,
+for there must still be <font>Lovers</font> . Besides,
+'tis ingrateful to the little God to
+flight him, who was the cause of your
+Being. For my part ( <font>continu'd I</font> )
+I shall cherish it, since my self, and
+all the rest of Mankind, as well as
+you, owe our Life and Being to it. I 
+shall never grant that, ( <font>return'd she</font> )
+unless you can prove, that ev'ry Man and
+Wife Love one another. Doubtless,
+Madam, ( <font>answer'd I</font> ) the most
+disagreeing Couple have their intervals of
+Dearness. Dearness, ( <font>said she</font> )
+Madness you mean -- but for Heaven's
+sake, Sir, no more of this Discourse,
+since 'tis very much my aversion. Ah,
+Madam, ( <font>reply'd I</font> ) what can be more
+proper to talk of to the most Charming
+of her Sex, than of Love. Love
+( <font>answer'd she</font> ) ought not to be mention'd in
+sober Company, the very symptoms of
+it confess the Fool, and Mad-man, a
+thousand antick postures, extravagant
+sayings, and wishes, as well as
+preposterous ways, to gain what it
+pretends to, therefore no more of Love,
+as you value your Reputation. <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="33" />
+<comment type="compiler">MONTANO ASKS FOR ADVICE REGARDING HIS LOVE PROBLEMS.</comment>
+   First, </dialogue><nonSpeech> (reply'd <font>Gerardo</font> ) </nonSpeech><dialogue> 'Gad I'm
+extreamly sorry that in your first
+Amour you shou'd not only meet with
+so many Obstacles, but should take such
+ill Methods in the Prosecution of it;
+for the Conduct of your Passion shews
+that you took wrong measures all along.
+   'Tis you therefore, </dialogue><nonSpeech> ( <font>said the Count</font> ) </nonSpeech><dialogue>
+that must put him in the right path,
+from which his unexperienc'd Youth
+has made him deviate.
+   That shall be my task, my Lord,
+</dialogue><nonSpeech> ( <font>reply'd</font> Gerardo) </nonSpeech><dialogue> tho' 'tis now a more
+desperate case, than if right measures
+had been taken at first. Alas,
+</dialogue><nonSpeech> ( <font>interrupted</font> Montano) </nonSpeech><dialogue> I hope what's past, has
+not render'd the Disease incurable?
+<pagebreak id="34" />
+No, no, </dialogue><nonSpeech> ( <font>reply'd</font> Gerardo) </nonSpeech><dialogue> have a
+little Courage, the Fair as well as Towns
+are won, by assurance and constancy.
+I wou'd therefore desire both you and
+my Lord, to lay aside all this great
+trouble that possesses you.
+   As for me, </dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue> the
+only care and trouble that affects me
+in this Affair, is the grief of my
+Friend, who was continually possess'd
+with all the Ravings of a Man, that
+wholly gave up himself to Love. He's
+deaf to all that I can urge, and Reason;
+brings him no relief. Ah, my Lord,
+</dialogue><nonSpeech> ( <font>reply'd</font> Montano) </nonSpeech><dialogue> he that pretends to
+be a Lover, and at the same time to be
+govern'd by Reason, is but a Hypocrite.
+   Why is Love then </dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue>
+so irreconcilable an Enemy to Reason,
+that it can never cohabit with it?
+Oh! without doubt </dialogue><nonSpeech> (reply'd <font>Gerardo</font> ) </nonSpeech><dialogue>
+they are at mortal odds, for Reason
+in all things prefers a <font>medium</font> as the
+surest basis of all <font>Certainty</font> and <font>Good</font> , but
+a <font>mean</font> in <font>Love</font> is as odious as in
+Poetry. Right, </dialogue><nonSpeech> (assum'd <font>Montano</font> ,</nonSpeech><dialogue> for
+'tis but indifference disguis'd in
+another word, and what is so
+contradictory in Nature, as an <font>unconcern'd</font> and
+<font>indifferent</font> Lover? True, </dialogue><nonSpeech> ( <font>pursu'd</font>
+<pagebreak id="35" />
+Gerardo) </nonSpeech><dialogue> for indifference banishes
+Desire, and he that's once free from 
+Desire, is no longer in the number of the
+<font>Loving</font> ; for <font>Love</font> , is nothing but an
+unsatisfi'd desir'd Union, and
+becoming, as much as Nature will allow,
+one with the Object we admire. I
+find, </dialogue><nonSpeech> ( <font>reply'd</font> Montano <font>with some
+satisfaction</font> ) </nonSpeech><dialogue> that you <font>Gerardo</font> have known
+what Love is, since you give so very
+good an account of its Nature, for
+tho' we cannot all be like <font>Salmacs</font>
+transform'd, or as I may better say,
+swallow'd up into the very same Being with
+our Mistress, yet certainly no Lover, if
+he Lov'd as I do, but wou'd desire a
+perpetual Union, and ne'er be parted
+from, but eternally be cleaving to the
+fair <font>one he adores</font> . --
+   But if you once grant </dialogue><nonSpeech> ( <font>interrupted the</font>
+Count) </nonSpeech><dialogue> that <font>Love</font> is so very great a
+Foe to <font>Reason</font> , you must give one leave
+to infer, that the first can't be
+admitted without the abdication of the
+latter, and if so, (abstracting from the
+case of my Friend) all the pity he
+deserves, that gives himself up to that
+Passion, is a Slabb'ring Bib, or <font>Bedlam</font> ,
+since he must be either a Fool, or a
+Madman, or a perfect <font>Brute</font> , Reason
+<pagebreak id="36" />
+being the only distinction betwixt Man
+and Beast; for I can't think, either the
+substance and form of Humane Kind,
+essentially different from that of Brutes.
+My Lord, </dialogue><nonSpeech> ( <font>said</font> Gerardo) </nonSpeech><dialogue> you speak
+as if <font>Love</font> were a voluntary Passion,
+which we might either admit, or avoid
+as we please, and if so, certainly what
+you observ'd wou'd hold good, but it
+being wholly involuntary, and a Power that
+we can't resist, I presume the unhappy
+Patient, merits as much pity, as those,
+whom Fortune or Distempers renders
+miserable. Be that as 'twill </dialogue><nonSpeech> ( <font>answer'd
+the</font> Count) </nonSpeech><dialogue> if indifference be a fault
+in <font>Love</font> , I'm sure all beyond
+moderation is distraction, and which, I thank
+my Stars, I never yet was subject to.
+Your Lordship, </dialogue><nonSpeech> ( <font>reply'd</font> Gerardo) </nonSpeech><dialogue> is too
+wise for your Age, for whatever the
+fancy'd Happiness of extravagant <font>Love</font>
+may be to such Lovers, I'm perswaded
+the moderate Lover meets with as
+much in reality upon Tryal. And for
+my part, I can say this for my self,
+</dialogue><nonSpeech> ( <font>continu'd he</font> ) </nonSpeech><dialogue> that my Passion never rose
+above an <font>Amouret</font> in my Life.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="38" />
+<comment type="compiler">MONTANO'S FRIENDS CONTINUE TO ADVISE HIM:</comment>
+   Thou wer't a Lover for my Mony
+</dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue> and didst know how to
+extract Pleasure out of all
+circumstances, which is the best sort of
+Chymistry. And I wish my poor Amorous
+Friend here, cou'd follow this
+Example; but he does not only vex and
+<pagebreak id="39" />
+torment himself to no end or purpose, but
+by banishing Reason, as an Enemy to
+his Love, depriving me of all
+remedies of his Distemper, in either
+extinguishing, or satisfying his Passion.
+   So much the unhappier I </dialogue><nonSpeech> ( <font>reply'd</font>
+Montano) </nonSpeech><dialogue> who am depriv'd of all means of
+obtaining <font>Bracilla</font> , tho her Embraces
+alone can cure my tortur'd Soul.
+   You blindly keep your self in an
+Error </dialogue><nonSpeech> ( <font>said</font> Gerardo) </nonSpeech><dialogue> by perswading
+your self, that there is no way of
+obtaining her, because by taking the
+wrong, you have hitherto been
+unsuccessful. Follow but my instructions,
+and if thou dost not gain her without
+the expence of another sigh, then I'll
+quit all my pretences to intrigue, and
+subscribe my self a most egregious
+Blockhead.
+   Gad, and if thy Counsel </dialogue><nonSpeech> ( <font>said the</font>
+Count) </nonSpeech><dialogue> be successful (for that's the
+Test of all Excellence you know in our
+Age) thou shalt be receiv'd as Grand
+Master of the new Order of Knights of
+<font>Intrigue</font> . I'm sure I shall value him
+</dialogue><nonSpeech> ( <font>pursued</font> Montano <font>very seriously, and
+sigh'd</font> ) </nonSpeech><dialogue> as my deliverer as long as I
+live; and I'm Impatient to hear him;
+therefore pray proceed.
+<comment type="compiler">LONG SPEECH OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<pagebreak id="42" />
+<comment type="compiler">GERARDO AND THE COUNT DEBATE COURTING WITH MONEY:</comment>
+   For my part </dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue> I
+highly approve of your Counsel, and
+think you have prescribed the surest
+and most easie way of Happiness to
+<pagebreak id="43" />
+my Friend, and I wish he were in
+an humour of putting it straight
+into execution. Nay, if he be so
+Wedded </dialogue><nonSpeech> ( <font>replied</font> Gerardo) </nonSpeech><dialogue> to the Virtue
+of his Mistress, and his own Torments,
+that he'll not take wholsome advice,
+I've done with him, and give him
+o're for lost; for believe me, a
+modest and humble Passion will
+succeed with no Woman, much less with
+an Actress, that by her Profession
+denies all notions of bashfulness.
+Women in general, and those in
+particular, stoop only to the forward and
+the bold, or else to all Charming,
+Witty, Eloquent Gold.
+   Alas! </dialogue><nonSpeech> ( <font>said</font> Montano) </nonSpeech><dialogue> I'de give all
+I'm worth to possess <font>Bracilla</font> ,
+especially by her own consent, but I fancy
+you are mistaken in her, she's
+exempt from that Mercenary Devil's
+Jurisdiction that guide the rest of the
+Females of the Stage. As much as she
+is exempt </dialogue><nonSpeech> ( <font>replied the</font> Count) </nonSpeech><dialogue> from
+Love and Intrigue, since you see, tho'
+she be so deaf to you, she can caress
+the worn-out Carcass of <font>Monfredo</font> ,
+in the worst capacity. Nay, my
+dear Lord, </dialogue><nonSpeech> ( <font>answered</font> Montano) </nonSpeech><dialogue>
+mistake not, I am very willing to try all
+<pagebreak id="44" />
+means to satisfie my eager longing,
+and 'twas only my fear suggested
+what I said, having hitherto been so
+unfortunate in my Addresses to her.
+But let us put this Advice in
+Execution <comment type="compiler">SOURCE TEXT: Exe- tion AT LINE BREAK</comment> as soon as        
+possible.
+   'Tis now </dialogue><nonSpeech> ( <font>said</font> Gerardo) </nonSpeech><dialogue> I believe,
+about the end of the fifth Act of
+the Play, and if you design any thing
+to night with <font>Coromella</font> , you must get
+in before the Play be done. I'll send
+my Man in </dialogue><nonSpeech> ( <font>replied the</font> Count) </nonSpeech><dialogue> to fetch
+her hither to us. No, no, you are
+out, my Lord, </dialogue><nonSpeech> ( <font>said</font> Gerardo) </nonSpeech><dialogue> for
+she's a Bawd of better Quality, than
+to be at the beck of a Footman.
+Therefore if you have no mind to
+remove, I'll go to her my self, and
+convey her to you immediately before
+the hurry.
+<comment type="compiler">COROMELLA HAS SUPPER WITH THE MEN WHEREAFTER THEY TELL HER ABOUT
+MONTANO'S PREDICAMENT.</comment>
+<pagebreak id="45" />
+   Alas! poor Gentleman </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue>
+is this young Cupid that doats on our
+coy <font>Psyche</font> <comment type="compiler">SOURCE TEXT: Psyhe</comment> ? I am the unhappy Wretch
+</dialogue><nonSpeech> ( <font>replied</font> Montano) </nonSpeech><dialogue> that dies for the
+Possession of <font>Bracilla</font> ; which I have in
+vain pursued this Twelve-Month, and
+must despair of, unless you can give
+me any hope. Hope! </dialogue><nonSpeech> ( <font>assumed</font>
+<pagebreak id="46" />
+Gerardo) </nonSpeech><dialogue> hope is almost as great a
+crime in those that confide in
+the exquisite <font>Coromella</font> , as despair;
+for it lessens her Reputation: You
+may be sure, infallibly certain of
+success, if she say the word.
+   Then on her saying that word
+</dialogue><nonSpeech> ( <font>replied</font> Montano) </nonSpeech><dialogue> depends all my 
+happiness. But there is some other
+preliminaries </dialogue><nonSpeech> ( <font>interrupted the</font> Count) </nonSpeech><dialogue> to
+be adjusted before she passes her
+Parole in this case. My Lord has
+reason </dialogue><nonSpeech> ( <font>pursued</font> Gerardo) </nonSpeech><dialogue> for <font>any
+Labourer is worthy his hire</font> . I think her so
+worthy of hers </dialogue><nonSpeech> ( <font>replied</font> Montano) </nonSpeech><dialogue> that
+she shall be her own Carver. Well,
+Sir, </dialogue><nonSpeech> ( <font>said</font> Coromella) </nonSpeech><dialogue> as our
+Profession is more natural than that of a
+Lawyer, so are we more generous;
+for till I have made you happy, I'll
+have no <font>Fee</font> , and then -- And then
+</dialogue><nonSpeech> ( <font>interrupted</font> Montano) </nonSpeech><dialogue> thou shalt
+command my all -- Then, Sir, you shall
+be your own Carver </dialogue><nonSpeech> ( <font>pursued</font>
+Coromella) </nonSpeech><dialogue> for 'tis a thousand pities that
+such a pretty young Gentleman as you
+should languish in vain, for whom a
+hundred Virgins die; some, to my
+knowledge, wou'd purchase your
+Embraces, at as high a rate, as you wou'd
+<pagebreak id="47" />
+those of the ill natur'd <font>Bracilla</font> . As
+ill-natur'd as she is </dialogue><nonSpeech> ( <font>assum'd the</font> Count) </nonSpeech><dialogue> I
+hope you can now mold her, and make
+her face so us'd to frowns put on a more
+acceptable form, and bless my Amorous
+Friend with the <font> <foreign>deux yeux</foreign> </font> , and
+wanton smiles. Never doubt me, my
+Lord, </dialogue><nonSpeech> ( <font>replied</font> Coromella) </nonSpeech><dialogue> no Man can
+upbraid me with promising more, than
+I perform'd, and if your Friend will
+be directed by my advice, he shall not
+be two nights without her in his Arms,
+and then let him do with her what he
+thinks fit.
+<comment type="compiler">COROMELLA SPEAKS OF MEN WHO DO FOOLISH THINGS WHEN IN LOVE:</comment>
+<pagebreak id="49" />
+   Prithee, thou plead'st for thy
+Interest </dialogue><nonSpeech> ( <font>interrupted</font> Gerardo) </nonSpeech><dialogue> for Men
+love that Pleasure which they
+purchase hardly, as Women and Fops
+value things for being far fetch'd
+and dear bought.
+
+   Those are wretched Mortals
+indeed </dialogue><nonSpeech> ( <font>replied</font> Coromella) </nonSpeech><dialogue> that, like
+old Letchers, place their delights in
+stripes; a Man of Sense and Vigour
+needs none of these provocations,
+and falls too whenever the Victuals
+are set before him, tho' he was not
+at the pains of earning them. Gads
+<pagebreak id="50" />
+my life </dialogue><nonSpeech> ( <font>continued she</font> ) </nonSpeech><dialogue> you'd extend
+the Curse of Mankind farther than
+'twas intended, by making him earn
+his Pleasure, as well as Food, by
+the sweat of his Brow.
+
+   Prithee <font>Gerardo</font> </dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue>
+interrupt not the Lady, methinks
+her discourse is extreamly pleasant
+and reasonable. Pray, Madam,
+proceed, for I assure you, you have
+almost made me a Convert to the
+Method you propose. But what
+certainty of Success has a man, if he
+put his Cause into your hands?
+
+   That is according to the Merits
+of the <font>Client</font> </dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> that is his
+Purse or Generosity; for, Sir, we
+have no Causes in <font> <foreign>Forma Pauperis</foreign> </font> ,
+and he that has Money, and will
+yet starve a good Cause, deserves to 
+lose it.
+
+   Spoken like an Oracle, by
+Heaven </dialogue><nonSpeech> ( <font>said the</font> Count, <font>and smil'd</font> ) </nonSpeech><dialogue> but
+supposing nothing wanting of the
+<font>Client's</font> side, what assurance has he
+of Success? Infallible experience
+<pagebreak id="51" />
+</dialogue><nonSpeech> ( <font>replied</font> Coromella) </nonSpeech><dialogue> for I defie the
+World to say that the endeavours
+of a Mistress in her Profession ever
+fail'd. I'm sure I may, without a
+lie, boast, that from the Girl of
+seven to the Matron of Seventy, I
+have never been foil'd to this day,
+which is at least the thirtieth Year
+of my Profession.
+
+   Girls of seven </dialogue><nonSpeech> ( <font>interrupted the</font>
+Count) </nonSpeech><dialogue> why sure you deal not in
+such unripe commodities? Ah! my
+Lord, you lye under a very great
+mistake </dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> for here as well as
+in the <font>Indies</font> , we have some of our
+Sex ripe before that age, at least in
+mind, if not in body. I have known
+some have Children before they
+reach'd the teens, and not one in
+a thousand keeps her Maidenhead
+to a dozen Years of age, if
+handsome. Why I my self, my Lord,
+can't remember that ever I was a 
+Maid, for from an Infant I dally'd
+with my equals, and so proceeded
+till I came to be Mans meat, else I
+cou'd never have arriv'd to all the
+<pagebreak id="52" />
+Perfections in the Noble Mystery I
+profess.
+
+   'Tis indeed a Mystery, </dialogue><nonSpeech> ( <font>said</font>
+Montano) </nonSpeech><dialogue> I shou'd be glad to hear a
+farther account of it, since I must
+owe my happiness to't, if you,
+Madam, think fit to give us that
+satisfaction.
+
+   I think I may be free here 
+</dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> Mr. <font>Gerardo</font> knows enough
+of it already, not to be scandaliz'd,
+and tell tales out of School; and for
+you two, one of you have an
+immediate, and the other, in good time,
+may have a dependance on me; to
+gratifie you therefore, and to divert
+you from your amorous Anxiety,
+I'll tell you some part of our
+Art.
+<comment type="compiler">COROMELLA'S SPEECH: HOW TO BE A BAWD OF QUALITY.</comment>
+<pagebreak id="54" />
+   Agents </dialogue><nonSpeech> ( <font>interrupted the</font> Count) </nonSpeech><dialogue> why
+have you your Dependants and Spies,
+and under Officers? Yes, my Lord,
+</dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> and that in all Dresses
+<pagebreak id="55" />
+and Degrees, at least, such as can
+form themselves to any. <omission type="line" />
+<comment type="compiler">COROMELLA CONTINUES HER SPEECH:</comment>
+   But in these Visits to the Wives
+</dialogue><nonSpeech> ( <font>said the</font> Count) </nonSpeech><dialogue> don't the Husbands
+sometimes find you out? Once or
+<pagebreak id="56" />
+twice, indeed </dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> in my life,
+I inconsiderately went to speak to
+the Wife of a Gentleman that had
+known the Town very well, and my
+Person, and Name; sending which
+up, instead of the Lady, the Husband
+came, and us'd me indeed, most
+unmercifully, but I was reveng'd on
+him; for I got her at last by other
+means, and I was more cautious for
+the future.
+
+   The <font>Savoy</font> for that </dialogue><nonSpeech> ( <font>interrupted</font>
+Gerardo) </nonSpeech><dialogue> there I'm sure you were foil'd.
+Good reason why </dialogue><nonSpeech> ( <font>replied she</font> ) </nonSpeech><dialogue> the
+Spark liv'd not long enough to
+experience my Revenge, I had certainly
+else paid him in the same kind I
+did the other.
+
+   But I'll tell you one of the most
+difficult Tasks I ever met with, the
+Narrative being pleasant, and then
+Gentlemen I'll take my leave of you,
+and go about the Affair of the Young
+Lover here. But Sir, you must be
+sure to have the Lady's price ready,
+what ever you do with me. Let me
+but know both, and I'll not fail
+<pagebreak id="57" />
+you </dialogue><nonSpeech> (reply'd <font>Montano</font> :) </nonSpeech><dialogue> Alas, mine
+won't exceed Five or Ten Guineas,
+nor hers, I believe Fifty or a
+Hundred at most: Reasonable enough in
+Conscience </dialogue><nonSpeech> (said the <font>Count</font> ) :</nonSpeech><dialogue> but
+prithee to the account of the
+Intrigue.
+
+   Right, my Lord </dialogue><nonSpeech> (reply'd she) </nonSpeech><dialogue> and
+by it you'll find I am a Mistress in
+my profession, and one you may 
+entirely confide on, if your Lordship
+shou'd ever have any occasion of 
+me.
+<comment type="compiler">HERE BEGINS COROMELLA'S NARRATIVE OF CLELIA AND HER LOVER.</comment> 
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="72" />
+<comment type="compiler">COROMELLA'S NARRATIVE CONTINUES:</comment>
+<omission type="line" /> I presented her
+another Letter from the <font>Count</font> ,
+and informed her how
+Passionately he Doated on her, and that
+'twas pity to make so Young, and
+<pagebreak id="73" />
+so accomplish'd a Gentleman perish in
+his Youth, only because he lov'd her.
+<font>Alas</font> ! return'd <font>Clelia, 'tis not in my
+power to make him less miserable if I had the
+Will, nor do I know whether I have that,
+unless you'll please to give me some
+account of his Person; for I confess, that I
+have often seen a Gentleman in the
+Church, speak a thousand soft and tender
+things with his Eyes, and have taken
+some Pleasure in that Discovery, his
+Person being every way so amiable</font> . He is
+( <font>replyed I</font> ) very young, of a middle
+<font>stature</font> ; wears a dark Wigg; has the
+Eye of an Eagle; with all the softness
+of a Cupid in his Face; his Limbs and
+Body very well shap'd: And Madam
+( <font>concluded I</font> ) a Tongue, that would
+Charm beyond all things, cou'd you but
+hear him talk.
+   <font>Alas</font> ! (replyed <font>Clelia</font> ) and sigh'd) <font>but
+that's Impossible, I'm sure; I'm here kept a
+close Prisoner by my Husband, and
+permitted the Company of none but the Ugly,
+the Old, and the Envyous of my own Sex;
+and</font> I <font>wonder at your dexterity of
+gaining admittance to me, since none but the
+Parsons Wife has interest enough in him
+to do it</font> . Well, Madam, ( <font>said I</font> ) may
+I assure the <font>Count (for of that Quality
+is your Lover</font> ) that he may hope you
+<pagebreak id="74" />
+have no aversion for him. <font>You may</font> ,
+(return'd she) <font>but what will that avail
+him; for had I as ardent a desire to
+meet him as he pretends to have to meet
+me; Alas! 'tis impossible; therefore tell
+the lovely stranger, (for I find by your
+description of him, 'tis the Gentleman I
+so oft observed at Church) I wish he could
+forget me, and that I could not think of
+him, for both our happiness. I might with
+some patience have born this unnatural
+Captivity my Husband has put me into,
+if I had not seen him</font> . She said no
+more, but blushing, delivered me an
+Answer to the <font>Counts</font> first Letter. <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="79" />
+<comment type="compiler">COROMELLA'S NARRATIVE CONTINUES: CLELIA'S LOVER DISGUISED 
+AS A WOMAN (COROMELLA'S NIECE) MEETS CLELIA.</comment>
+   <font>Clelia</font> view'd his Eyes with some
+surprize, and immagin'd she saw
+something in his Face extreamly like the
+<font>Count</font> , but could not perswade her self
+'twas him, he so 'ery way acted the
+Woman, and as much as possible curb'd
+his eagerness in kissing her. My doubt
+being soon resolv'd, I thus spoke to
+<pagebreak id="80" />
+<font>Clelia. Madam</font> (said I) <font>I commend
+the Care and Tuition of my Niece to you,
+and hope that you will be company
+enough for one another, for I intend no
+Men shall be admitted to her
+Conversation, since there's danger in them; and
+it must be happiness enough for her to
+Converse with so Virtuous and
+accomplished a Lady as you, all day. Nay,
+if that will please the young Lady</font> , (said
+<font>Hoffman</font> ) <font>she shall supply my place as
+often as I am in the City, all Night too,
+if it were not for fear my Wife would
+spoil her, and make her think too well
+of a married Life, and so render her
+uneasie, till she fling away her pretty self
+on some undeserving Man or other. Oh!
+by all means</font> (return'd I) <font>let them lye
+together as oft as may be</font> , I <font>would have
+an Intimacy betwixt them, it may the
+better divert my Niece</font> , Clemene's
+<font>Thoughts, (for that Name the</font> Count
+<font>assumed) from the Noise of the World,
+and make her in love with this
+delightful Retirement</font> .
+   The <font>Count</font> had much ado to forbear
+smiling, to hear so pleasant a device
+contriv'd by the very Husband of her
+he long'd to possess, and therefore to
+defer his happiness no longer than needs
+must, the Count was resolv'd to try
+<pagebreak id="81" />
+what his word might do to obtain it
+that Night. <font>Therefore</font> , said he, <font>I wish
+Sir you would spare the Lady this Night,
+for I am afraid to lye alone the first
+Night or two in a House I have never
+lain in before, and my Aunt cannot
+endure a Bedfellow in the Summer time.
+O fie, Niece</font> (replyed I) <font>you must not
+desire to rob the Gentleman of the dear
+Company of his Wife when he's at home,
+since 'tis pain enough</font> I <font>warrant to miss
+her so many Nights, as business obliges a
+separation, and one of the Maids may
+serve to lye with you. Oh by no means</font>
+(replyed <font>Hoffman</font> ) <font>I'll not be so rude to
+give the Lady so ill a Bed-fellow as
+any of my Servants, they are all told, and
+troublesome to such young sweet
+Creatures as Madam</font> Clemene, <font>therefore
+my Dear, you shall secure her fears this
+Night or too, nay, perhaps a Week, for
+I design to morrow to go to Town, in the
+persuit of this Ladies Affairs. Clelia</font>
+innocently submitted to her Husbands
+Command, and caressed the Count with
+a double kindness, since obliged to it
+by the likeness he had to the Man she
+lov'd, and by her Conjugal
+Obedience.
+<comment type="compiler">COROMELLA'S NARRATIVE CONTINUES: CLELIA AND THE COUNT, WHO STILL 
+HAS NOT REVEALED HIS IDENTITY, ARE IN BED TOGETHER.</comment>
+<pagebreak id="83" />
+   He first took her by the hand,
+softly press'd it, and conveyed it to his
+Mouth, and on it fixt a thousand
+Kisses. <font>'Tis in vain, Divine Creature</font>
+(said the <font>Count</font> ) <font>for me to pretend to
+delay my haypiness any longer, since the
+Center of my joy lyes so near me</font> . And
+so clasping her fast in his Arms, almost
+smother'd her with Kisses, till he put
+her so out of Breath with strugling,
+that she could not cry out, but faintly
+asked him (now almost in possession of
+her Heaven of Bliss) if he were the
+<font>Count</font> of -- but still struggl'd, so that
+he was as far from obtaining as at first.
+<font>Yes, my Charming</font> Clelia (replyed <font>the</font>
+Count) <font>I am the Man you name, that
+have languish'd and dy'd for the
+Embraces of thee, the fairest and most beautiful
+of thy Sex, so many Weeks in vain,
+and am now repuls'd, too cruelly repuls'd,
+when by so much Art I have overcome
+<pagebreak id="84" />
+all other Obstacles that hemm'd thee
+round to keep mee from my happiness --
+Ah Sir</font> , (replyed <font>Clelia</font> ) <font>How can I
+think you love me, when you would
+betray me to the Infamy of being a Whore?
+Oh my charming Love</font> , (returned the
+<font>Count</font> ) <font>why should'st thee, with the
+Vulgar give so odious a Name to the
+justest of Actions, can it be ill to reward
+the sighs of a dying Lover? On the
+contrary, it is not unjust not to pitty him
+that loves you to all the extravagance of
+raving</font> ; and with these words, he got
+into an entire possession of the
+strugling <font>Nymph</font> , <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="89" />
+<comment type="compiler">THE RESPONSE TO COROMELLA'S NARRATIVE:</comment>
+   <font>I am wonderfully taken</font> </dialogue><nonSpeech> (said the Count
+to <font>Coromella</font> ) </nonSpeech><dialogue> <font>with your</font> Clelia, <font>and you
+must make me haypy in a sight of her.
+When I have serv'd your Friend</font> </dialogue><nonSpeech> (reply'd
+she) </nonSpeech><dialogue> <font>I shall be much at your Lordships
+service, on that, or any other account.
+Sr. I hope Montano, will not now
+despair of success with Bracilla, when I
+undertake it, who have performed such
+wonders for the</font> Count <font>and</font> Clelia. <font>Nay</font> ,
+</dialogue><nonSpeech> (interrupted Gerardo) </nonSpeech><dialogue> <font>dear</font> Coromella,
+<font>he were a Pagan indeed, that had not
+an implicit Faith in thee, without the
+Confirmation thou hast given us, since the
+Fame of thy Art is not so obscure as to
+stand in need of Examples to confirm it;
+let the Quacks in thy Mystery, like those
+in Physick, set out Bills and
+Attestations of the success of their skill, but thou,
+like established College Physicians, wilt
+always gain Practice by thy settl'd Fame
+and Reputation</font> .
+<pagebreak id="90" />
+   I think indeed </dialogue><nonSpeech> ( <font>said Montano</font> ) </nonSpeech><dialogue> my
+Case is not so desperate as that of the
+Count of -- since <font>Bracilla</font> is not hem'd
+in with so many difficulties as <font>Clelia</font>
+was, and so far from being averse to
+the Embraces of a Lover, that she at
+this time wantons in those of a Player.
+Nay, and what's more </dialogue><nonSpeech> ( <font>persu'd
+Gerardo</font> ) </nonSpeech><dialogue> she has from an Infant, almost had
+the Virtuous Education of the Stage,
+which could not but inspire her with
+the severest and most Stoical Principles
+of Chastity, and against Pleasure. No,
+no </dialogue><nonSpeech> ( <font>said Coromella</font> ) </nonSpeech><dialogue> the Virtue as well as
+Pleasure of an <font>Actress</font> is her Intrest,
+and till you gratify that, you must
+expect no more from her than from a
+perfect <font>Lucretia</font> .
+
+   But it grows late </dialogue><nonSpeech> ( <font>said Coromella</font> ) </nonSpeech><dialogue>
+and I must leave you, for I'll
+immediately set my Engins to work for this
+sighing Lover; and promise him they
+shall bring her into his Arms to
+morrow Night at farthest, and so I take
+my leave of you, Gentlemen,
+expecting to find <font>Montano</font> to morrow in the
+Pitt, where I'll give him an account of
+the matter, and where, when, and how
+he shall prepare himself for the
+<font>Amorous Rendezvous</font> .
+<comment type="compiler">COROMELLA HAS NO INTENTION OF BRINGING BRACILLA AND MONTANO
+TOGETHER: INSTEAD SHE PLANS TO BRING MONTANO INTO THE ARMS OF
+CLELIA (THE CLELIA OF COROMELLA'S NARRATIVE). COROMELLA AND 
+CLELIA MEET.</comment>
+<pagebreak id="92" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Clelia</font> was extreamly pleas'd
+with her proposition, but desir'd to be 
+satisfyed how that could be, since he
+neither knew her, and was so 
+desperately engaged with the new Charms
+of <font>Bracilla</font> :</nonSpeech><dialogue> That <font>Bracilla</font> </dialogue><nonSpeech> ( <font>return'd 
+Ceromella</font> ) </nonSpeech><dialogue> you must personate, if you
+design to be happy, and you must in
+your Embraces as much as may be, act
+the Maid, your Statute and hers agree,
+and your Face is only different from 
+hers, being infinitely more Charming
+and Beautiful. You must be cautious
+of speaking aloud, unless you can
+imitate her Voice, and never permit
+him to stay till Day, or let him
+see you by Candle light; make him
+undress himself in your
+Anti-chamber, and come to you in the Dark.
+And be very coy till he presents you
+with the price of his happiness in a
+Purse of Gold. Never </dialogue><nonSpeech> ( <font>return'd
+Clelia</font> ) </nonSpeech><dialogue> will I be mercenary to the Man
+I love especially. Then never must you
+be happy in him </dialogue><nonSpeech> ( <font>reply'd Coromella</font> ) </nonSpeech><dialogue> For
+that is the condition on which we have
+agree'd, but you shall not need to be
+mercenary, let me have the Money for
+<pagebreak id="93" />
+my care to serve you both, he will
+have no cause to complain, since I do
+him no wrong, but put a change
+upon him much to his advantage if he
+saw you, and you will meet with the
+Man you Love, and that full of desire
+of a starved affection.
+   </dialogue><nonSpeech> <font>Clelia</font> at last agrees to <font>Coromella's</font>
+Proposal, and Sets all things in order
+for the Nights Adventure; she Baths
+and perfumes her self, and Chamber,
+to gratify as many Senses as she could
+for her young amorous Lover.</nonSpeech>
+
+   <nonSpeech>In the mean time <font>Coromella</font> finds
+<font>Montano</font> in the Pit, and tells him, if
+he will, he may be happy that Night,
+but that he must submit to the
+conditions of the bashful Lady that was
+to make him happy.</nonSpeech><dialogue> <font>Any thing</font>
+</dialogue><nonSpeech> (reply'd Montano) </nonSpeech><dialogue> <font>any Conditions the
+devine</font> Bracila <font>shall impose that are
+consistant with enjoying her</font> . </dialogue><nonSpeech>This he spoke
+a little too loud, for which she check'd
+him, but he desired her to excuse the
+sudden transport of his Joy, and desir'd
+her to Name her Conditions.</nonSpeech><dialogue> <font>No</font> ,
+</dialogue><nonSpeech> (said she) </nonSpeech><dialogue> <font>not in this place, but retire
+to the Tavern where we were last Night,
+and there we'll discourse further on the
+point</font> . </dialogue><nonSpeech>He obeyed, and parting from 
+<pagebreak id="94" />
+her, passed from one place to another,
+and at the end of the Act stole out,
+and about the middle of the last Act
+<font>Coromella</font> followed him, and found
+him with a great deal of Impatience
+expecting her at the Tavern, where he
+had provided a Collation, and brought
+the Guineas with him, to carry to the
+desir'd <font>Bracilla</font> , resolving to spend the
+Night there till the happy Mistress
+came.</nonSpeech>
+
+   <nonSpeech> <font>Coromella</font> being come to him, he
+presses her to let him know the
+Conditions of happiness.</nonSpeech><dialogue> <font>Sr.</font> </dialogue><nonSpeech> (said she) </nonSpeech><dialogue>
+<font>you must not yet think to gratify all your
+Senses, but must be satisfied, that no part
+of your feeling shall be denyed its
+Pleasure, for</font> Bracilla <font>is not only a Modest
+Actress, but stands much on her
+Reputation, and will not give any young Man
+as you are a right of keeping her in awe,
+by being able to tell the World, or her to
+her face, that you have lain with her,
+after all her resistance; but that you may
+know, 'tis her You lye with to Night,
+buy a pair of Fine Gloves, and present
+her with 'em, and she'll wear 'em to
+morrow in the Play when she Acts very well
+dressed. But you must leave her in two
+or three hours time, because she must be
+<pagebreak id="95" />
+at home again at her Lodging in some
+order; and if you think fit to accept these
+offers and all things else, be in readiness;
+you may an hour after Play time go to
+her, and revel in her Arms till past
+Twelve; this first time she'll so far
+indulge you, and in that time my young
+Lover will not be much grieved to retire to
+your own Lodging</font> .
+
+   <font>Any Conditions I tell you</font> </dialogue><nonSpeech> (replyed
+Montano) </nonSpeech><dialogue> <font>of my happiness I'll accept
+of, and such a Testimony as wearing my
+Gloves on the Stage will be a sufficient
+proof that I am not deceived by you,
+here therefore, goe and Buy a pair that
+may fit and please her</font> . <omission type="line" />
+<comment type="compiler">MONTANO GOES TO CLELIA (BELIEVING SHE IS BRACILLA).</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+<dialogue>
+<pagebreak id="103" />
+<comment type="compiler">MONTANO GOES TO CLELIA A SECOND TIME.</comment>
+   You are not </dialogue><nonSpeech> ( <font>said she softly</font> ) </nonSpeech><dialogue> a man
+fit to be trusted with such Favours you
+aspire to; you cannot better moderate
+your self according to those Rules I
+prescribe. Pardon me, my dear
+charming <font>Bracilla</font> </dialogue><nonSpeech> ( <font>replyed</font> Montano) </nonSpeech><dialogue> and
+forgive the first transgression I have
+done, too much transported to see these
+Gloves, the dear assurance that it was
+you indeed that gave me all those
+happy Joys last Night, but for the future,
+I'll be more cautious, and will not trust
+my self so far as to venture behind
+the Scenes, for fear I should commit
+some other Offence; therefore my
+Charming dear <font>Bracilla</font> , forgive this
+one, this little Fault.
+
+   Well, if you'l swear </dialogue><nonSpeech> ( <font>replyed Clelia</font> ) </nonSpeech><dialogue>
+that you'l never more come behind the
+Scenes, nor speak to me in the Day
+time, I'll admit you to plead for your
+<pagebreak id="104" />
+self, and if I like your Arguments,
+perhaps may forgive you, at least
+after I have two or three Nights
+experienced your fidelity and obedience to
+my Commands.
+
+   This is no proper place </dialogue><nonSpeech> ( <font>said
+Montano</font> ) </nonSpeech><dialogue> for me to express my Repentance;
+Passengers came too often by us, and
+may o're hear us, if you will but step
+with me into the Coach, there may
+you hear me better. Well </dialogue><nonSpeech> ( <font>replyed
+Clelia</font> ) </nonSpeech><dialogue> on Condition that you'l use no
+other argument but words, I'll venture
+my self with you, but I'll send my
+Maid home to make my Chamber
+ready for me to go to Bed, having had
+so ill rest last Night; <omission type="sentence" />
+<comment type="compiler">IN THE COACH MONTANO STARTS TO KISS CLELIA.</comment>
+<pagebreak id="105" />
+<omission type="line" /> Hold </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> you are
+already breaking Articles, and employ
+more in that behalf than Words,
+contrary to the Conditions of Agreement.
+You wrong me, Madam </dialogue><nonSpeech> ( <font>replyed he</font> ) </nonSpeech><dialogue>
+those Conditions were only of force,
+till I had sufficiently convinced you of
+my Repentance, which you having
+allowed all acts now lawful for me. I
+must confess </dialogue><nonSpeech> ( <font>said she</font> ) </nonSpeech><dialogue> I shou'd have
+extended my Considerations, but I did
+not expect you would make so good
+a defence as to gain your Cause in so
+short a time; but it being sufficient to
+have obtained my Pardon this time,
+methinks you should not presume to
+ask any new Favours of me till I think
+fit to bestow 'em. <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+<dialogue>
+<pagebreak id="107" />
+<comment type="compiler">MONTANO AND CLELIA.</comment>
+   Ah! Madam </dialogue><nonSpeech> ( <font>said he</font> ) </nonSpeech><dialogue> what do you
+prepare such a Feast as this for me, I hope
+to feed on a more delicious Collation
+than this, your fair Self I mean;
+dressed by Love with all the delights of
+Hearts. Is not once enough </dialogue><nonSpeech> ( <font>replyed
+she</font> ) </nonSpeech><dialogue> to be wicked, but that you must
+still desire to repeat it? 'Twould be
+a folly and wickedness too, </dialogue><nonSpeech> ( <font>said he</font> ) </nonSpeech><dialogue>
+should I fall on these trifles, and neglect
+so divine a Banquet as Love presents
+me in thy soft tender Arms; on this,
+this dear, this melting panting Bosom; <omission type="sentence" />
+<comment type="compiler">AFTER MANY NIGHTS MONTANO STAYS TILL MORNING AND DISCOVERS 
+THAT HIS MISTRESS IS NOT BRACILLA.</comment>
+<pagebreak id="109" />
+
+   Your fifty <font>Guineas</font> , Sir, </dialogue><nonSpeech> ( <font>said Clelia,
+all in Tears</font> ) </nonSpeech><dialogue> tho' I had 'em not, yet
+I'le restore you, for I was never
+Mercenary, but the Gloves I'll keep for your
+dear sake, and wish <font>Bracilla</font> lov'd you
+more than I. Pardon me, Madam,
+</dialogue><nonSpeech> ( <font>return'd Montano</font> ) </nonSpeech><dialogue> I desire no such
+matter, but let her that has got them keep
+them, provided she make me happy in
+<font>Bracilla's</font> Arms; and Madam, I hope
+you'll pardon the rude Words, my
+disappointed Passion made me speak;
+and tho' I cannot serve you after this
+knowledge of my mistake, without an
+Injury to my Love; I hope you will
+excuse me if I never see you more.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 10">
+<dialogue>
+<pagebreak id="112" />
+<comment type="compiler">MONTANO MEETS WITH HIS FRIENDS THE COUNT AND GERARDO.</comment>
+   If Bawds begin to fail even with
+Players </dialogue><nonSpeech> ( <font>said Gerardo</font> ) </nonSpeech><dialogue> I know not what
+help to give you, unless the Expedient
+of a certain French Lover may do.
+What is that </dialogue><nonSpeech> ( <font>said Montano</font> ) </nonSpeech><dialogue> pray let's
+have it, for perhaps it may furnish us
+with some expedient or other of
+Relief. Oh! a certain one </dialogue><nonSpeech> <font>replyed
+Gerardo</font> ,</nonSpeech><dialogue> but 'tis like desperate
+Remedies, 'twill Kill or Cure. Prithee </dialogue><nonSpeech> ( <font>said
+Montano</font> ) </nonSpeech><dialogue> torture me not with Delays,
+but begin your Account.
+<pagebreak id="113" />
+   Why then 'tis thus </dialogue><nonSpeech> ( <font>replyed
+Gerardo</font> ) </nonSpeech><dialogue> A young Gentleman at <font>Paris</font> was
+two Years desperately in Love with a
+Lady of that City; his long sufferings,
+fidelity, adresses, sighs, complaints, and
+all the other efforts of Love were all
+unprofitable: At last being one happy
+Day all alone with her in a Closet,
+he declared to her, that since he had
+found that there was nothing that could
+touch her hard Heart with any
+tenderness for him, he was now resolv'd
+to dye; That till this time he had
+used a Language common to all
+Lovers, but that now he would speak one
+peculiar to himself; <font>And that you may,
+Madam</font> , (said he to her) <font>not lose the
+full satisfaction of my Death, and have
+the pleasure of seeing me dye by degrees;
+I will Perish by Famine, tho' in your
+Closet</font> . 
+<comment type="compiler">GERARDO'S NARRATIVE: A FRENCH LOVER LIES DOWN TO DIE IN 
+HIS MISTRESS'S HOUSE.</comment>
+<pagebreak id="114" />
+   The fourth Day the Lady began to
+make Reflections with her self of the
+Scandal that she should incur. <font>A Man
+dead in my Closet</font> (said she) <font>dead by
+Dispair! dead by Famine! Alas! I'm
+undone! What a noise will this make in
+the World? Which will never believe
+<pagebreak id="115" />
+the truth of the matter, but make a
+thousand Scandalous Jests on the
+unhappy Accident</font> . She was nearly touch'd
+with so considerable an Evidence of so
+extraordinary a Passion; and I believe
+that had as great an influence upon her
+as the fear of the Scandal. After
+therefore she had again endeavour'd by
+perswasions to get him out of her
+Closet, to no purpose; ( <font>she said to him</font> )
+Sir, since all the good reasons I have
+weyed to you, will not make you
+comply with me, to hasten and forsake the
+place; since I find you will rather dye
+here, if you will but retire from hence
+you shall possess whatever you please.
+<comment type="compiler">THE FRENCH LOVER IN GERARDO'S STORY COMES TO LIFE AGAIN.</comment>
+<pagebreak id="116" />
+   Now <font>Montano</font> </dialogue><nonSpeech> ( <font>concluded Gerardo</font> ) </nonSpeech><dialogue>
+if you can undergo this Expedient, you
+may perhaps be as successful. No, no,
+</dialogue><nonSpeech> ( <font>said the Count</font> ) </nonSpeech><dialogue> the Reputation of a
+Player is not strong enough to make
+her yield in the same manner, for she
+would rather Glory in it than be 
+afraid of the Scandal. You are in an
+Error, my Lord, </dialogue><nonSpeech> ( <font>replyed Gerardo</font> ) </nonSpeech><dialogue> since
+the fear of being Endicted for Murder,
+would make her supply the defect of 
+the love of her own Reputation.
+However I would not really advise my
+Friend to trye, but only if he can
+get such an opportunity of being in
+a Chamber alone with her, let him
+employ the perswasive Rhetorick of
+Gold in one hand, and manly Vigour
+in the other; and I'm perswaded he
+will not fail. No, no </dialogue><nonSpeech> ( <font>said Montano</font> ) </nonSpeech><dialogue>
+I know my only Bar to happiness; 
+<font>Monfredo</font> posses her very Soul, and
+her Interest and Love combining in him;
+she will not run the risque of
+offending him, tho' for the saving the Life
+of the most loving and foolish Doater
+of Mankind.
+<pagebreak id="117" />
+   That Lett methinks </dialogue><nonSpeech> ( <font>said Gerardo</font> ) </nonSpeech><dialogue>
+should be easily removed, if he be
+so sawcy and insolent as they say he
+is, and if he will, being the
+Property of another, interlope in the free
+Trade, he ought to be punished, or
+put out of the way a while till you
+succeed in your Wishes.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

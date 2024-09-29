@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3FMARIA">
+  <dialogueHeader>
+
+    <filename>D3FMARIA</filename>
+
+    <identifier>3 FICTION D3FMARIA</identifier>
+
+    <title>MARIANVS</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1641</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>MARIANVS, OR, LOVES HEROICK CHAMPION. 
+DESCRIBING HIS HONORABLE TRAVAILES AND HAUGHTY ATTEMPTS IN ARMES, WITH
+HIS SUCCESSE IN LOVE. INTERMIXED WITH MANY PLEASANT DISCOURSES, 
+WHEREIN THE GRAVER SORT MAY TAKE DELIGHT, AND THE YOUTHFULL BEE
+ENCOURAGED BY HONOURABLE AND WORTHY ADVENTURES TO GAINE FAME. 
+LONDON. PRINTED BY B. ALSOP AND T. FAWCET, AND ARE TO BE SOLD BY IAMES
+BECKET AT HIS SHOP AT THE INNER TEMPLE GATE. 
+1641.
+PP.  17.20 -  28.12 SAMPLE 1
+PP.  70.13 -  77.26 SAMPLE 2
+PP.  85.5 -  87.13  SAMPLE 3
+PP.  99.9 - 101.22  SAMPLE 4
+PP. 140.3 - 151.21  SAMPLE 5
+PP. 156.1 - 158.17  SAMPLE 6
+PP. 162.1 - 179.7   SAMPLE 7
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SOURCE TEXT HAS PAGE NUMBER 70 FOR 72.</comment>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="17" />
+<comment type="compiler">DIPHILUS SPEAKS TO EPHESTRIS:</comment>
+<omission type="sentence" /> and therefore <font>Ephestris</font> </dialogue><nonSpeech> (quoth 
+he) </nonSpeech><dialogue> thou hast done overmuch wrong,
+to derogate the honour due to <font>Thracian</font>
+Dames, especially our Peerlesse
+<font>Amoretta</font> , whose Face if beautious <font>Helena</font>
+lived, for whom so many thousands lost
+their lives, she might well resigne that
+Title of the onely faire, to her, and none
+<pagebreak id="18" />
+but she; whose like liveth not.
+<comment type="compiler">NARRATIVE PARAGRAPH OMITTED.</comment>
+<comment type="compiler">EPHESTRIS ANSWERS DIPHILUS:</comment>
+   Why (my Lord) shall matter of so
+small moment cause friends to jarre?
+What is beauty, whereof wee have so
+long disputed, and so highly of us
+regarded? Nothing but a fading pleasure,
+an ornament of the face which maketh
+the heart proud, and draweth the mind
+from every good motion to many
+odious offences, whereby the honourable
+in committing dishonourable actions,
+are so blemished, that they become a
+common by-word to the veriest drudge
+that Nature hath framed, <font>Helena</font> was
+faire, and accounted the onely of her
+time, yet who so much scorned?
+<font>Cressida</font> beautifull, yet who more false? If
+beauty be attended on with such shame
+as these two famous women gained,
+<pagebreak id="19" />
+why should we care who is beautifull?
+My sweet <font>Diphilus</font> mistake me not, if
+I have passed my judgement rashly, for
+neither care I whose fame in that case
+is esteemed or defamed, but passe them
+by as things of no regard; onely for
+argument I have spoken more then either
+I regard or account of: therefore let
+not this be any breach of our friendship,
+for I protest, if thou shouldst say, the
+white Swan were as blacke as the
+Raven, the Ocean dry, and Ships floating
+on the maine; J would affirme it,
+rather then our friendship should be for
+such a matter discontinued.
+   Well <font>Ephestris</font> </dialogue><nonSpeech> (quoth <font>Diphilus</font> ) </nonSpeech><dialogue> I
+finde your kindnesse great, and will
+thanke you for it, but trust me, this
+gloze may not serve your turne, for as
+you have spoken heresie against Beauty
+and maintained a stranger before your
+home-borne Ladies, you shall either
+recant your judgement, before our
+soveraigne Princesse <font>Amoretta</font> , or receive
+such penance by your quest assigned,
+which I promise thee shall be all
+honorable Ladies. O my Lord </dialogue><nonSpeech> (answered
+<pagebreak id="20" />
+<font>Ephestris</font> ) </nonSpeech><dialogue> I hope I shall find your Honour more
+kind, then for so small an offence
+to deliver your Friend Prisoner at the
+Bar, where the parties shall be Judges,
+and my Jury such, as all Lawes allow
+me to appeale from, if you should; and
+my fault such, as if my life were in their
+tryall depending, I might well make
+my Testament, and dispose of what I
+possesse, heartily desiring God to
+receive my Soule; for sure I am, my body
+should not long enjoy Breath: for no
+greater Corrasive can be offered that
+Sex, then to attribute the honour of
+such a prize to any one particular, they
+all standing on tearmes of Beauty, as
+the Crow which thinkes her owne
+Birds the fairest: so Women how
+ill-faced and wrinkled soever they be,
+may not endure to heare any 
+commended, if happily they should heare it
+spoken by such as they dare not in
+Speech displease, yet will their 
+countenance shew their Hearts discontent, by
+scrowling of the Browes, hanging the
+Lip, or setting a sweet Face, as sugred
+as the Gall, or by some such outward
+<pagebreak id="21" />
+action or other, shall you find where
+that nipt her, for which offence looked
+she never so highly, with Bell, Booke
+and Candle, you shall be cursed, and
+never more come in her <font>Pater noster</font> , how
+deepe soever you have beene in her
+<font>Creed</font> .
+   Hold, hold, <font>Ephestris</font> </dialogue><nonSpeech> (quoth
+<font>Diphilus</font> ) </nonSpeech><dialogue> too much of one thing is good
+for nothing. Thou hast plai'd the
+excellent Orator. Who had thought
+your Lordships experience had beene
+such, for thereon J know you ground
+all your authority: Author I am sure
+in Schooles you never read any, which
+have so highly abused that sacred Sex,
+sacred I may well call them, my
+<font>Ephestris</font> , who are not honoured of Mortall
+Creatures, but of the Gods, and 
+therefore in the higher account, and the
+more in regard, the greater thy offence,
+and the more grievous thy
+punishment.
+<comment type="compiler">NARRATIVE PARAGRAPH CONTINUING ONTO NEXT PAGE OMITTED.</comment>
+<pagebreak id="22" />
+<comment type="compiler">FABRITIUS ADDRESSES DIPHILUS:</comment>
+   My Lord <font>Diphilus</font> ; what, is your 
+honour become Beauties Champion?
+Farre was it from my thought, that
+ever you would with such earnestnesse
+have defended our faire Ladies, but since
+I see you are so great an Advocate, I
+will cause you to have thankes for it at
+our returne, other reward I dare promise
+none. And you my Lord <font>Ephestris</font> , that
+so clarkely have depraved them, would
+I might be your Scholler, whose
+experience is so great, <font>Tully</font> , <font>Ovid</font> , or
+<font>Marcus Aurelius</font> , that wrote most in their
+disgrace, never writ so largely. I must
+needs say, as my Lord <font>Diphilus</font> , our
+Ladies are little beholding vnto you, for
+the danger committed in the same, the
+least is heresie, and how heresie is to be
+punished your honor knoweth: yet my
+Lord, as I would gladly become a
+peacemaker, and that friends may not grow
+at ods, whereby any danger might
+happen to your person, albeit the offence
+be not pardonable, yet the fault made in
+a forraigne country ought there to have
+<pagebreak id="23" />
+this tryall. If it shall stand with your
+good liking, no Ladies present to heare
+your hard censure, your favour may be
+the more: and since I have by patience
+of this honourable company, intruded
+my selfe to speake in our Ladies cause,
+not being a feed Counceller for them, I
+will intreat these noble Gentlemen to
+give me leave, and let me censure of
+the same, so it stands with your
+Lordships good pleasure.
+   Now truely, </dialogue><nonSpeech>quoth <font>Ephestris</font> ,</nonSpeech><dialogue> I find
+your Lordship is kind, and more kind
+then I can desire or deserve, when I
+shall need your favour in matter of
+more import, I will make bold: till
+when, I put you down with <font>Diphilus</font>
+for one of my small friends, for this
+matter I shall need small friendship,
+vnlesse to bring your cause to better
+effect, you doe as many crafty people
+now a dayes vse, to make small
+conscience, in selling mens Soules to the
+Divell for money, to sweare what he
+shall command them, how false soever,
+to the impoverishing of many, whose
+good hospitality, &amp; other good
+<pagebreak id="24" />
+neighborhood was more then ever such base
+villains could reach unto, if such a
+Co~panio~ you met me w=th=,                                          
+<comment type="compiler">me w=th= APPEARS AS ONE WORD IN SOURCE TEXT</comment> or serch out some
+subtill Lawyer that can by his quirkes
+and quiddities in Law, make a bad
+matter good, and annointing the Iudge
+with <font> <foreign>Vnguentum aureum</foreign> </font> , cause him to
+incline to the same, my Cake is dough,
+if by such Subornations, or Swearing,
+and false Iudgement, my Speech be
+wrested to your advantage.
+  Cease my <font>Ephestris</font> , this dread,
+Heavens forsend, for this offence thy
+punishment should be as thou
+deservest, much lesse that any sinister
+meanes should be used to bring thee to
+open Pennance: yet good <font>Ephrestris</font> , let
+me intreat thee, as in this Assembly
+thou hast unjustly given the prize of
+Beauty to <font>Medullina</font> , and therein
+thou hast wronged highly the onely of
+the World, by thy partiall Judgement,
+in derogating from her the Title of
+most excellent, which is most 
+Honourable, and no more than her worth
+requireth; confesse but thy fault and
+errour in the same, and an end if thou
+<pagebreak id="25" />
+lovest thy owne good, refuse not this
+offer, least worse befall thee then
+<font>Acteon</font> , or to <font>Paris</font> for his rash judgement.
+Thou hast learned us in thine own
+<font>Exordium</font> , that women are inspired with
+minds of revenge. Be therefore by thy
+friends entreated, before the punishme~t
+come vpon thee, so maist thou keepe
+thee from much sorrow, for if no
+greater mischiefe fall vpon thee thou shalt
+be sure of more curses, then thy weake
+carkase can beare: for my <font>Ephistris</font> , in
+friendship I say this, and warne thee as
+one that loveth thee, knowing their
+inclinations, which as thy selfe confesseth
+is bent to revenge: if so, as many as shal
+heare of this blasphemy, if they do thee
+no other ill, their cursing thou shalt be
+sure of, and womens curses, are as bad
+as the curse of holy St. <font>Gillian</font> , which
+is said to be ten times worse then the
+Divels.
+   Treason, treason, my Lords, </dialogue><nonSpeech>quoth
+<font>Ephestris</font> ,</nonSpeech><dialogue> if I have spoken heresie, this
+questionlesse is no better then treason,
+and the comparison so odious as may
+not be endured, the Divell and a woman
+<pagebreak id="26" />
+joyned in one) as fit a match as may be 
+made. Well my Lord, since in my error
+I have found you kind in favouring
+my fault, let vs doe as all bribing
+Officers vse, beare with me, and I'le hold
+with thee: so by concealing my fault,
+the lesse dangers shall happen vnto you,
+if you refuse my kind offer, I come vpon
+you with an old Proverbe (ka mee) ka
+thee) or as children play, (tell of me, Ile
+tell of thee.) Well watcht my Lord
+<font>Ephestris</font> , </dialogue><nonSpeech>quoth the whole company,</nonSpeech><dialogue>
+but my Lords, let the further hearing
+of this matter rest, till better
+opportunity, least your tediousnesse, breed
+trouble to my Lord the Prince, whose
+quiet, I would not willingly offend.
+   My honourable Lords, </dialogue><nonSpeech>answered
+the Prince,</nonSpeech><dialogue> if these discourses of those
+Noble men be pleasing to your honors,
+assure you, they are no way offensive
+vnto me, I have troubled you from
+your better cheere, to accept of a sicke
+mans pittance, wherevnto you are all
+so heartily welcome, as to your owne
+Pallaces, (and welcome) saith our
+Countrey housholders, is the best
+<pagebreak id="27" />
+dish, at their feasts: if therefore my
+Lords you accept my welcome, I am
+the more honoured by you, which
+have so graciously vouchsafed mee
+your companies.
+   </dialogue><nonSpeech>Then turning to the Lord <font>Diphilus</font>
+he said,</nonSpeech><dialogue> for you my good Lord, how
+much I acknowledge my selfe indebted
+to you, I omit, and yeeld you as many
+thousand thankes for your pleasing
+speech, as there were sillables in your
+words: you have like your selfe
+defended the weaker sexe, for the which
+were I the Princesse <font>Amoretta</font> , your
+challenge made in my cause, should be
+bountifully rewarded: I am sorry my
+good Lord, my bad hap was such, that
+I knew you no sooner. But if it shall
+stand with your Lordships pleasure,
+that during the time of your abode
+here, to vouchsafe me your company,
+so it may be no disparagement to your
+serious affairs: perswade your self, your
+welcome shall be no better in any place
+then vnto me, for which kindnesse, you
+should binde me vnto your friendship. <comment type="compiler">PERIOD NOT VISIBLE 
+IN SOURCE TEXT.</comment>
+   Gracious Prince, </dialogue><nonSpeech>answered the Noble
+<pagebreak id="28" />
+<font>Diphilus</font> ,</nonSpeech><dialogue> thankes for your Princely
+favour, and gracing me thus, which am
+not any way to doe your Majesty
+service, but wherein your Highnesse shall
+command, I shall be ready with all
+dutifulnesse to accomplish.
+   Leave these speeches good my Lord,
+</dialogue><nonSpeech>quoth the Prince,</nonSpeech><dialogue> and offering duty
+where friendship is requested, and
+granting my sute, let me enjoy thy
+company, so shalt thou command <font>Armatius</font>
+for ever as a friend.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="70" /> 
+<comment type="compiler">ARMATIUS, CALLING HIMSELF MARIANUS, OFFERS HIS FRIENDSHIP TO THE 
+KING OF TREBISOND.</comment>
+   Most gracious Soveraigne, and
+liege Lord, pardon the bold attempt of 
+a rude stranger, <comment type="compiler">TWO COMMAS IN SOURCE TEXT</comment> whom dutifull zeale
+hath bound to your service, and of your
+gracious favour to all men, vouchsafe
+me that honour in this extream,
+wherein your worthy Citizens stand, distressed
+by this faithlesse Infidell, who doth
+seeke your subversion, and their utter
+ruine and decay: whose presumption,
+if it please your Excellence to give me
+leave, shall by me, and such as I can by
+<pagebreak id="71" />
+love and money draw unto me, be
+chastened, and made to know, your
+Highnesse can expell at your pleasure
+the power of a more strong and
+mighty Enemy, who though you have of
+courtesie suffered, it hath not beene of
+cowardize, as he shall well understand.
+In this request, most gracious and
+renowned Soveraigne, if it shall please
+you to honour me, I doubt not (by the
+ayde of the Highest) of a happy
+victory.
+<comment type="compiler">NARRATIVE PARAGRAPH OMITTED.</comment>
+<comment type="compiler">THE KING ANSWERS MARIANUS:</comment>
+   What ever thou be that honour
+vrgeth to this attempt, thankes for thy
+love, wishing my good, and
+forwardnesse in venturing thy life, yet before
+<pagebreak id="72" />
+<comment type="compiler">ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 70</comment>
+J accept thee for my Champion, say
+(gentle Friend) of what Countrey art
+thou: what name and Parentage; to
+the end that I may give thee honour
+as thy deserts and bloud doe require:
+and answering mee truly to these
+demands, tell mee what moved thee
+likewise, being so brave a man, and in thy
+flourishing estate, to hazard thy selfe in
+an action, wherein so many men of
+honour and great valour have lost their
+lives.
+   Know renowned <comment type="compiler">SOURCE TEXT: renowmed</comment> Lord </dialogue><nonSpeech> (quoth the
+Prince) </nonSpeech><dialogue> <font>Carmania</font> is my Country, my
+Father a Gentleman, professing martiall
+Discipline, my name <font>Marianus</font> , the
+youngest of many of my Fathers Sons,
+unto whom my Minority denyed such
+revenewes and livings as might
+sufficiently maintaine my estate, which
+caused me to employ my stocke in Trade
+of Marchandise, by which in time of
+peace I gained in your Country
+wealth sufficient, which with my body
+I offer in your Highnesse service, and
+doubt not but to free thy Princely
+Daughter from this Usurper, whose
+<pagebreak id="73" />
+vertue the world so much renowneth:
+for by that Faith which I received at
+the Font-stone, so long as I may breath
+life, never shall unhallowed Curre
+triumph in your Graces overthrow,
+nor in her dishonour.
+<comment type="compiler">NEW CHAPTER SUMMARY AND NARRATIVE PARAGRAPH WHICH CONTINUES 
+ONTO NEXT PAGE OMITTED.</comment>
+<pagebreak id="74" />
+<comment type="compiler">THE KING TO MARIANUS:</comment>
+   <font>Heroicke Champion</font> , well dost thou
+shew thy selfe a Gentleman, for under
+the habit of a Marchant, Gentility
+cannot be hid, no poore estate can banish
+the Noble, nor adverse Fortune
+whatsoever; but as Gold is soone brought
+from the baser Mettals to his forme by
+the skilfull Finer: so are the Noble
+knowne by their vertues.
+   <font>Heroicke Champion</font> , I have cause to
+honor thee for thy love &amp; forwardnesse,
+as also for thy Countrey; which
+(without flattering thee, or any there
+abiding) I love for your Kings sake. But to
+our matter, thou seest (my deare
+<font>Champion</font> ) the millions of cares heaped upon
+my gray head, through the oppression
+of this <font>Heathen</font> Prince, whereby I am
+made more miserable then the meanest
+Subject within my dominions; and the
+more is my misery, by recounting the
+wretched estate of my loving Subjects,
+whom I hold as deare as my life, &amp; wish
+<pagebreak id="75" />
+that by resigning my life and Crown, I
+might free them from bondage; were it
+nothing else the Tyrant required. But,
+toward Gentleman, whose love (wretch
+that J am) I cannot requite, my 
+daughter (O sorrow worse then death to
+recount) <font>Amoretta</font> , the only Solace of my
+life, and lifes sole good, in whose weale
+consisteth my good, and by violence
+offered her, what good can betide me?
+She, she, my deare <font>Champion</font> , it is, that
+drencheth my Soule into so deep a hell,
+that almost forgetting my selfe, living,
+I daily die; only recounting the miseries
+she should endure, if y=e= Tyrant triumph
+in our overthrow: but he y=t= in extreams
+sendeth comfort hath revived me, &amp;
+relieved my overcharged hart by thy kind
+offer; whose courage, and hope of
+victory being such, as thou wilt hazard thy
+deerest bloud for my daughters freedo~.
+Thanks (my good <font>Champion</font> ) is all y=t= I can
+yet yeeld thee; yet to adde more
+courage to thy noble mind, fighting for us
+&amp; our honor, my daugh. for whose good
+thou adve~turest, shal invest thee with y=e=
+order of knighthood, y=e= 1. honour y=t= ever
+<pagebreak id="76" />
+she gave to man of Arms, and shall pray
+for thy good successe: <omission type="sentence" />
+<comment type="compiler">THE KING CALLS FOR PRINCESS AMORETTA AND SPEAKS ABOUT MARIANUS:</comment>
+<omission type="sentence" />
+<font>Amoretta</font> </dialogue><nonSpeech> (quoth the King) </nonSpeech><dialogue> for that he
+hath so voluntarily offered the same
+for thy sake, and I relying on my
+God, and in his prowesse, have accepted
+him for my Champion, by thy hand,
+he shall receive the honour of
+Knighthood, his Title, <font>Loves Heroick
+Champion</font> : and so prosper he in his
+honorable action, and in all others as we wish,
+and himselfe desireth.
+<comment type="compiler">NARRATIVE PARAGRAPH CONTINUING ONTO NEXT PAGE OMITTED.</comment>
+<pagebreak id="77" />
+<comment type="compiler">AMORETTA ADDRESSES MARIANUS:</comment>
+   Kind Sir, whose honourable Service
+offered for my Fathers good, and all
+our weales, his Subjects; if I yeeld you
+not such recompence as your deserts do
+merite, blame me not of discourtesie;
+which have no better knowledge of
+you, but accept the hearty thankes of a
+Virgin, unto whom I hold my selfe so
+farre indebted, as I can no other way
+recompence, then wishing your good,
+yet in earnest of better good, refuse not
+at my hands to receive the honour of
+Knighthood, seeing my Lords pleasure
+is such: <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="85" />
+<comment type="compiler">AMORETTA TO MARIANUS:</comment>
+   Sir, how much I find my selfe
+indebted unto you, for your proffered
+Service and forwardnesse, in
+performing the same, I will not say, that in
+time what wants in me to accomplish,
+my Kingly Father will recompence,
+who hath seene and well noted your
+diligence used for his safety, with your
+great cost and charge, which he will
+not forget. In the meane time (good
+Servant) for so I will henceforth call
+you, so you will vouchsafe to accept of
+y=e= Title: I will pray for your good successe
+and happy victory, whereby your
+Renowne may passe the furthest parts of
+the Earth, and our Countrey by your
+prowesse delivered from <font>Heathen</font>
+thraldome.
+   Vertuous Princesse </dialogue><nonSpeech> (answered <font>Loves
+Heroicke Champion</font> ) </nonSpeech><dialogue> might it please
+your Excellence to conceive of my
+well meaning, as my desire is to
+deserve, my Fortune might be compared
+<pagebreak id="86" />
+with the happiest that liveth. For on
+the Faith of a Souldier, and by the
+Majesty of that Saint my heart most
+adoreth, there is none breathing life under
+the celestiall Globe, that shall command
+the simple Service of <font>Marianus</font> , but
+your Majesty, bound thereunto by your
+Princely favours. Enough my good
+Servant </dialogue><nonSpeech> (quoth the Princesse) </nonSpeech><dialogue> I take
+your word, having great cause to
+believe you, seeing your forwardnesse: But
+good Servant, if I might under
+<font>Benedicity</font> , know the Saint unto whom your
+devotions are bent, I would be so bold
+to offer a Virgins prayer at her Shrine,
+for your good successe. </dialogue><nonSpeech>The King
+overhearing their talke, brake them off
+thus.</nonSpeech><dialogue>
+   How now Madame, what have you
+that Gentleman at shrift (if so) and that
+his confession deserve a sharp pennance
+yet be good to him, he may in time
+amend.
+   Your Grace </dialogue><nonSpeech> (quoth the Princesse) </nonSpeech><dialogue>
+mistakes your selfe, your Highnesse
+knoweth I never tooke orders, therefore my
+authority is not to absolve, and
+<pagebreak id="87" />
+if by presumption J offend therein. I
+doubt the Fathers of our Church would
+reward me thereafter. But to let your
+Majesty know the truth, perceiving the
+desire he hath to doe you Service, I was
+bold to give him thankes: further
+recompence, J leave to your Excellence,
+who at your pleasure may better reward
+him.
+   Thou hast well said (Daughter, </dialogue><nonSpeech>quoth 
+the King ) </nonSpeech><dialogue> putting me in mind what I
+should doe, lest forgetting my honour
+to such as well deserve, <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="99" />
+<omission type="line" /> <nonSpeech>In 
+which conflict the Prince escaped, but
+all in vaine, the Destinies had
+determined there to finish the honour of that
+journey, by the hands of the <font>Heroicke
+Champion</font> .</nonSpeech>
+
+   <nonSpeech>Who overtaking him, gave him so
+grievous a blow with his Curtelex
+betweene the necke and shoulders, as made
+him forget his way, saying:</nonSpeech><dialogue> Stay proud
+Vsurper, and take my Lady the Princesse
+with thee; </dialogue><nonSpeech>and pulled him violently,
+with all the force he could by the
+Helmet unhorsed him, that the Knight
+verily supposed he had beene slain:
+wherefore dismounting himselfe, he revived
+him againe, unto whom he said.</nonSpeech><dialogue> My
+Lord, this is not for your Honour
+<pagebreak id="100" />
+to brave a King in his own Dominions
+and in his Court, by your Herald, and
+then to have so small a care of your
+word. In Faith Pagan (for thy sake) Ile
+never credit any <font>Heathen</font> on his word
+hereafter. Pitty is it a Prince of your
+esteeme should after so many Lectures
+read, play the Trevant (trust me) were I
+your Father, I should twigge the Youth
+well, to learne him hereafter to be more
+carefull of his businesse. </dialogue><nonSpeech>The Prince
+hearing himselfe so frumped, was more
+grieved thereat, then of all the losse he
+had received. Wherefore with a heart
+full of carefull heavinesse, he saith:</nonSpeech><dialogue>
+   Brave man at Arms, what ere thou
+be, to whom Fortune hath made me
+thrall, ill beseemeth such words of
+disgrace, to any one whom the Fates have
+overthrowne, but cursed be my selfe,
+which gave thee this opportunity,
+cursed that negligence, which maketh my
+Foe thus to tryumph in my fall. Thou
+<font>Mahomet</font> , suffer me not as thou art a
+Prophet, to live thus disgraced, to
+behold the Face of any man, surprized by
+so cowardly a Curre, who daring not
+<pagebreak id="101" />
+to thrust his head out of the kennell but
+by stealth, hath wrought my utter
+ruine and overthrow, taking his
+advantage. But glory not in this victory, for
+it may be, thou shalt have so great cause
+to repent thee thereof, as pleasure to 
+behold me now thy Prisoner.
+   Your Lordship is disposed to be
+pleasant </dialogue><nonSpeech> (qd. the Knight) </nonSpeech><dialogue> but it is the vse of
+<font>Christians</font> to give losers leave to 
+speake, if it so happen, my Fortune shall
+be the worse: In the meane time your
+Grace shall be my guest, I have an
+Hosts provided, will bid you welcome,
+who by this time, I doubt not, doth
+heare of your comming, that you need
+not feare of your Dinner.
+  </dialogue><nonSpeech>The Prince full of heavinesse, could
+not tell what to answer, wherefore 
+arming himselfe with all the patience he
+could to endure it, he was by this
+Conquerer, commanded to horse.</nonSpeech> 
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="140" />
+<comment type="compiler">SYRITHA ADDRESSES MARIANUS:</comment> 
+<omission type="sentence" /> Sir,
+perswading my selfe of your loyalty, I will for
+this time become your Embassador,
+although it should impaire my credit with
+her Excellence, whose favour I hold as
+deare as my life, and that you shall assure
+your selfe of my trustinesse herein, so
+please it you to meet me in this place
+to morrow, by that time the Suns power
+shall have drawne the dew from off the
+Earth, I shall returne you answer as you
+desire.
+   Thanks good <font>Syritha</font> , for thy 
+courtesie, assure you J will not dye in thy
+debt, if ever <font>Marianus</font> may requite it
+by any industry. In the meane time </dialogue><nonSpeech> (qd.
+he) </nonSpeech><dialogue> favor me so highly as weare this for
+my sake, </dialogue><nonSpeech>and pulling of a Diamond of
+great price gave it her, which she was
+loath to accept, yet giving thanks for his
+courtesie <comment type="compiler">SOURCE TEXT: &quot;si&quot; IN &quot;courtesie&quot; UNCLEAR</comment> , she said:</nonSpeech><dialogue>
+   Sir, would you did understand, I
+prize not my paines, that you should
+reward me with hire, or do you good in
+hope of benefit; for as it is
+unfitting a
+<pagebreak id="141" />
+Gentlewoman to take gifts bestowed in
+such manner: so is it discourtesie and no
+part of a woman-like condition, to refuse
+the gift of a friend: therefore accept 
+my thanks, till I may better deserve it.
+</dialogue><nonSpeech>Thus time passing away, <font>Syritha</font> taking
+her leave, departed towards the
+Princesse, and the Knight to his lodging,</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">NEW CHAPTER SUMMARY AND NARRATIVE PARAGRAPH CONTINUING 
+ONTO NEXT PAGE OMITTED.</comment>
+<pagebreak id="142" />
+<comment type="compiler">SYRITHA ADDRESSES THE PRINCESS:</comment>
+   Madam, duty commands me, answer
+your demand, yet having been to search
+some daintaine that might yeeld delight
+to your weak stomack, and cause better
+disgesture, by chance prying into y=e=
+garden for such things, I was encounered
+by the best skild in the Dominions of
+<font>Trebisond</font> , who gave me a receit; which
+I judge by my simple skill, will giue
+your Majesty great ease; yet doth the
+Physitian doubt whether your stomacke
+will disgest it. This gracious Lady </dialogue><nonSpeech>quoth
+<font>Syritha</font> ,</nonSpeech><dialogue> hath beene the cause of my
+absence, and no other.
+   (Alas good wench) how am I
+beholding to thee, that caring to recover
+my strength, searchest the depth of thy
+skill, but <font>Syritha</font> , in vaine seekest thou
+her health, whom no Physitian with all
+his hearbs, drugs, and simples, balms,
+<pagebreak id="143" />
+emplaisters, or what Art may provide, can
+remedy, onely God the great
+commander, must by his grace bring my desires
+to end, or by death end my daies of life.
+   What Madam, ever in this tune; once
+alter these discords which make your
+musicke jar, and sing the beliefe with a
+cheerfull voice, so may your mind be a
+little eased, and the receit I have to 
+minister, worke with the more effect: J
+speake this Madame, of experience, for
+every skilfull Physitian will prepare the
+body of his Patient, before he minister.
+Therefore Madame, if you will shake off
+this melancholy, you shall have a taste
+of what I promise, if not, your grace must
+pardon me, it were great pitty so
+precious a thing should be cast away.
+
+   Well <font>Syritha</font> </dialogue><nonSpeech> (quoth the Princesse) </nonSpeech><dialogue>
+thou art disposed to crosse me with thy
+words, which doe but encrease my
+Disease, yeelding small comfort <comment type="compiler">SOURCE TEXT: comort</comment> :
+therefore leaving those jests, say me my good
+wench, if thou hast ought will doe me
+good (if not) use me no more thus
+unkindly, lest overcome with the extreame
+<pagebreak id="144" />
+of my griefe, I chance to say with my
+tongue, what my hart will repent, or use
+my hands with such rigour, as
+becommeth not a Maiden.
+<comment type="compiler">NARRATIVE PARAGRAPH OMITTED.</comment>
+<comment type="compiler">SYRITHA TO THE PRINCESS:</comment>
+   </dialogue><nonSpeech> ( <font>Marianus</font> ) with that word, making
+a long pause, to note the Princesse
+countenance, on the suddaine naming her
+beloved, was interrupted thus;</nonSpeech><dialogue> 
+<font>Marianus</font> , <font>Syritha</font> , what franticke humour
+causeth thee to name him in this
+manner, with whom thou hadst never any
+thing to say? Madame </dialogue><nonSpeech> (qd. <font>Syritha</font> ) </nonSpeech><dialogue>
+attend the rest, before you either condemn
+me, or commend me. Then proceed,
+</dialogue><nonSpeech>quoth the Princesse.</nonSpeech><dialogue>
+   This <font>Marianus</font> , of whom my Tale
+is before your Excellence to be told, is
+that Knight, who of your Majesty is
+<pagebreak id="145" />
+called the <font>Heroicke Champion:</font> this
+Knight, as it is told me, loveth a Lady,
+but whom I cannot declare, before I
+know: but as it is told me by his deare
+friend which knoweth the secrets of his
+heart, so tormented is he in his passions,
+that the night naturally made for rest
+(restlesse) he consumeth in great
+discontent (the day) wherein all creatures
+delight, is unto him loathsome, so that
+through watching, and refusing his
+dyet, is altered from the sanguine, unto
+the yellow coloured Saffrone (yea
+Madam) these mine eyes are witnesses of it,
+who this day saw him passe into the
+Court, so feeble, that his weake Legs
+might hardly endure the waight of his
+body. No more of this my sweet <font>Syritha</font>
+lest thy tongue busied too long on this
+Tragedy, overcome with the extremity
+of my griefe, J be enforced to seeke an
+end of my torments, by dispatching my
+owne life. Oh <font>Syritha</font> , is this thy
+comfortable confection: Is this the reliefe thou
+preachest off, which would yeeld me
+such quiet of mind? Unhappy Lady,
+why should I live to see another enjoy
+<pagebreak id="146" />
+my Love? Is not <font>Marianus</font> my Servant,
+have not I made choice of him, and shall
+an other no way worthy to enjoy him,
+have that interest which might delight
+the Goddesses: Peace <font>Amoretta</font> ,
+whither comest thou? Let reason subdue
+rage, let reaso~ subdue rage, let not every
+one know thy love to <font>Marianus</font> , but
+conceale it as thou maist, and seeke some
+secret devise to give thy heart ease, by
+death which is thy best remedy: yet
+would I live to become a succour for
+the well deserving Knight, and gain his
+hearts desire for him, if I might. Cruell
+were that dame, and not worthy to
+enjoy y=e= simplest groome, which causelesse
+for love, consumeth such a man in all
+perfections and lineaments of body, as
+<font>Marianus</font> , without yeelding him love.
+But hearken <font>Syritha</font> , that thou maist in
+time when my body shall be intombed
+among the dead, report unto my Love
+(and loving Knight) how deare I held
+his love, as my countenance ofte~ shewed
+(though he) carelesse of loves toys never
+regard it, &amp; for he shall well know at my
+last end how I wish his welfare, doe but
+<pagebreak id="147" />
+this for me, by his friend to learn y=e= Ladies
+name whom the Kt. is so inthralled. This
+is all the Service y=t= I will ever command
+thee, that knowing her, I may become an
+intercessor for him, who~ my heart more
+desireth then all the worlds possession:
+</dialogue><nonSpeech>with this, teares which trickled downe
+from her eyes, restrained her tongue. In
+w=ch= sorrowfull passio~, her Maide~ becam
+a partner, &amp; grieved for her folly,
+committing so hainous a fault in procuring
+the same; she excused it in this manner.</nonSpeech><dialogue> 
+   Most gracious Princesse, how much
+I grieve to see your discomfort, J cannot
+say, but hope your Grace will pardon
+me, which have been more bold 
+(presuming on your favour) then beseemeth
+me, neither what I have done (gracious
+Lady) was of any intent to offend you,
+but to acquite my selfe of blame, in a
+matter which I have of courtesie
+undertaken, as the Sequele shall manifest, if it
+shall please your Ladiship to peruse this
+Letter which will (no doubt) resolve you
+without further pains to me, or trouble
+to your Grace, what she is that is best
+beloved of the <font>Heroicke Champion</font> ,
+<pagebreak id="148" />
+on the Earth. This letter I received at
+his hands, who hearing of your disquiet,
+desirous (as it would seeme) to
+acknowledge his duty to you, conjured me by
+many faire words, and proffers of good,
+to deliver it unto your hands; which
+albeit for modesty J did long refuse,
+thrusting that from me with my
+finger, which I would willingly have
+drawn to me with all my force: in the
+end I consented, and the rather for your
+Ladiships quiet, which I suppose, will
+bid it well-come for the Masters sake;
+who if my judgment in the <font>Planet
+Venus</font> deceive me not, will prove shortly
+a conjunction, or ile never trust my skill
+againe; for <font>Venus</font> being in the signe
+<font>Leo</font> , hath dominion over both houses,
+<font>viz</font> he and she, or he and you.
+<comment type="compiler">THE PRINCESS TO SYRITHA:</comment>
+<omission type="line" /> Now trust me wench,
+thou hast cunningly gone about the
+bush, and hast daintily sought to enter
+<pagebreak id="149" />
+into my deepest secrets, yet how
+cunningly soever you have dealt, there may
+be a quillity to deceive both thee and
+him: but I pray thee <font>Syritha</font> , tell me what
+speeches used the <font>Heroick Champion</font> at
+the delivery thereof, tell me sweet Girle
+in friendship.
+   The despairing Knight (good Madam)
+for so I must call him, how ever his
+valour showes it selfe in field, as no doubt
+worthily; so saith report: yet in love I
+see his dastardnesse, who loveth, yet dare
+not reveale the summe of his desires, but
+must commit it to a tell tale paper;
+languishing to the death, wanting his
+delight, and prolonging his sorrows by
+silence, his looks bewraying more then he
+can utter: for be it said, he that had seen
+not long since his beauty and gallant
+grace, the ability of his body, and noted
+every particular lineament, at this time
+with the debility thereof, should see a
+<font>Metamorphasis</font> , which might move the
+most hardest heart to pitty; the cause to
+me unknowne, but suspected. The
+assurance I doubt not but your Grace will
+soone understand, if you vouchsafe to
+<pagebreak id="150" />
+teare the Seale and peruse the contents.
+<comment type="compiler">SYRITHA TO THE PRINCESS:</comment>
+<omission type="sentence" /> Madam </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> though I made
+a fault in detaining so long the Physick
+that I promised you, yet I hope your
+Majesty will pardon that offence,
+considering the good it doth in working;
+how you disgest it I know not, but he
+that hath least skill in judging
+complexio~s, will say your marriage is
+<pagebreak id="151" />
+mended by twenty in the hundred; if you
+recover but so much of your losse every
+two daies, there are few (in one week)
+will beleeve you have beene sicke. Well
+wanton, well </dialogue><nonSpeech> (answer'd the Princesse) </nonSpeech><dialogue>
+you have beene prittily diposed to play
+your part, and take your pastime in 
+beholding the folly of both our loves,
+which I am the more willing to forget,
+in that thou hast so rightly judged of
+both our griefes. But leaving jest, I pray
+thee say my sweet <font>Syritha</font> , what said my
+Servant when he delivered these letters
+unto thee?
+   Madam, to say truth; nothing
+touching his love; but imported with such
+earnestnesse, for the presenting them
+unto your hands, as might have made
+many proud to do so charitable a deed, 
+craving it with Speech so pittifull, and 
+lookes so ruthfull: <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="156" />
+<comment type="compiler">PRINCESS IS SPEAKING TO SYRITHA:</comment>
+<omission type="line" /> J find thy love so
+great towards me, that J cannot requite
+it, which with such good regard
+balanceth each perill incident to both our
+states, if thou canst as well devise how we
+may enjoy our delight, without which
+we perplexed cannot long endure, what
+is it that <font>Amoretta</font> shall ever enjoy, but
+<font>Syritha</font> shall command? Then as thou
+tendrest my good, bethinke thee of some
+remedy, for my love to him is such, as
+nothing may extinguish. Say my sweet
+<font>Syritha</font> , shall I by writing answer his
+Letters, or no? In this I will be ruled by
+thee, how gladly soever I wish his
+comfort, in whom, of all Earthly creatures,
+consisteth my most comfort. Experience
+is the best wisdome </dialogue><nonSpeech> (qd. <font>Syritha</font> ) </nonSpeech><dialogue> who
+would ever have beleeved <font>Loves</font> power
+to be of such effect, how imperious
+soever he seemed, had they not seene and
+heard what I doe; through which I am
+compelled to recant my heresie, and say
+Love is a god, or how is it possible he
+could command Princes? But to your
+Graces request, whereas you have referred
+the answer of <font>Marianus</font> letters to me, I
+<pagebreak id="157" />
+was never so void of reason, nor so
+desirous to be counsellour to your
+Excellence, to take so great a matter upon
+me, yet shall I (if so please it you to hear
+me) deliver my simple opinion, as I wold
+doe my selfe in the like action. The old 
+Wives say, they that feed with the Divell
+must have a long spoone; and they that
+goe about to master Love, had need of
+many good precepts: disswade your
+Grace J will not to forget it, for I see it
+is vaine, neither would I wish you to 
+answer by writing; for a paper is soon lost,
+and lost, to whose finding it shall come, <comment type="compiler">come BLURRED 
+IN SOURCE TEXT</comment>
+t'is uncertaine; as soon to some envious
+Enemy, as a wel-willer, in which some
+word simply meant of you or me, may
+be construed by them at their pleasure,
+whereby your name may be brought in
+question; and a slander raised, is not so
+easily suppressed; writing is a specialty,
+whereof the subtill Lawyer takes no
+small advantage: to avoid all which
+casualties, this may you doe; pretend
+some matter of conference with him, &amp;c
+appoint the time when he shall attend
+your pleasure at your Lodging,
+<pagebreak id="158" />
+comming secretly unto you, &amp; at such time
+as the King your Father shall be
+imployed in serious affaires, so may you
+use your Speech at your pleasure. This
+would <font>Syritha</font> doe, your Grace may use
+your discretion.
+   J like thy devise well (good Wench)
+and give thee many thanks </dialogue><nonSpeech> (quoth the
+Princesse) </nonSpeech><dialogue> therfore faile not to meet him
+for thy promise, what else I refer to thy
+best judgment.
+   Now in faith Madam </dialogue><nonSpeech> (qd. <font>Syritha</font> ) </nonSpeech><dialogue> you
+have made a good choice for a Soliciter,
+but take me as I am, this is the first Suite
+that ever I was retained for: nor I doubt
+not (if I speed well now) of many
+Clients. <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="162" />
+<comment type="compiler">MARIANUS AND SYRITHA:</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>Wherfore taking him by the hand,
+she said,</nonSpeech><dialogue> Sir Knight, I am sorry J have
+charged you so farre, what cause
+soever J had, but t'is womanlike to be slain
+with words, and no fit passion for a man
+of your profession. That you may
+comfort your selfe, I first pardon the offence
+against me committed (and enjoin you)
+as you tender your credit with the
+Princesse <font>Amoretta</font> , that you faile not to
+repaire at such convenient time as you
+best can, unto her Lodging; where if you
+hold your word, you will excuse your
+Messenger.
+   Oh <font>Syritha</font> , how have thy Speeches
+tormented me, filling my Entrails with
+such a confusion of co~fortlesse thoughts
+as have overcome my Sences? Yet 
+<font>Syritha</font> , if thou be courteous, or have any
+spark of Gentility abide in thee: Say my
+good Lady, what countenance gave the
+Princesse to my bashfull paper?
+Vouchsafed she the reading of them? (Or how)
+to discomfort you good Kt </dialogue><nonSpeech> (qd. <font>Syritha</font> ) </nonSpeech><dialogue>
+it were pitty, being already at so low a
+<font>Datum</font> , which pittieth me to behold.
+Co~fort can I give none to thy desire but
+<pagebreak id="163" />
+this, thy Sute is Love, as your Letters
+import, in which despaire not: for thy
+Mistresse is a wom. though a Princesse, and
+how pittifull our Sexe is, I will not boast
+but wish thee not despaire; If thy Birth
+were as great as thy vertus, thou mightst
+boord and bed, as good as the Princesse
+<font>Amo.</font> unto who~ I will be a faithfull
+Solliciter. Mistake me not <font>Marianus</font> , I speak
+as a friend, &amp; so leave thee, untill thy
+co~ming to my Lady, which detract not, for
+time lost is such a precious thing, as can
+never be recalled. Before who~, whe~ thou
+shalt come, plead thine own cause, &amp;
+discover thine own griefe. And so farewell.
+   </dialogue><nonSpeech> <font>Marianus</font> , which had some greater
+hope by <font>Syritha</font> , her last Speeches, was
+so over-joyed, that he could not bid her
+farewell: yet after his <font>Memento</font> past, he
+saith:</nonSpeech><dialogue> farewell the faithfullest friend in
+my distresse, that ever J found. Oh
+<font>Syritha</font> , happy maist thou be in thy loves
+and highly honoured amongst men, by
+whom my cares are thus comforted
+(faithfull <font>Syritha</font> ) the worker of my
+harts happy content, by whom past all
+hope, I am by thy faithfulnesse &amp; truth 
+<pagebreak id="164" />
+in delivering my message, freed of so
+heavy a burthen, as was likely to have
+torne my poore oppressed heart in a
+million of pieces. <omission type="line" />
+<comment type="compiler">NARRATIVE PARAGRAPH CONTINUING ONTO NEXT PAGE OMITTED.</comment>
+<pagebreak id="165" />
+<comment type="compiler">A FURTHER NARRATIVE PARAGRAPH OMITTED.</comment>
+<comment type="compiler">THE PRINCESS TO MARIANUS:</comment>
+   Sir <font>Marianus</font> , whither I should
+chastice thy presumptio~ in writing so
+boldly unto me (or no) J am not yet
+resolved, but before I acquainte my Father
+therwith, J thought good to heare thee
+<pagebreak id="166" />
+speak, for that J would not suddainly
+disgrace thee, whom I have so often
+graced: as well to heare thy intent
+committing so great a folly, as what you can
+say in excuse therof. Princes are not to
+be jested with, nor to be attempted in
+such manner by their inferiours, and
+therefore thou hast highly erred in that
+thou hast done, and incurred the danger
+of our strictest lawes, by which thou art
+already conde~ned, were thy fact known.
+<comment type="compiler">REST OF PARAGRAPH OMITTED.</comment>
+<comment type="compiler">MARIANUS TO THE PRINCESS:</comment>
+   Gracious Lady, that I have presumed
+far, I cannot but acknowledge, yet that
+I have encurred such punishment as
+your Highnesse inferreth, I deny, unlesse
+death be the guerdon assigned for the
+faithfull <comment type="compiler">SOURCE TEXT: falthfull</comment> (for dutifull Service) and intire
+affection, urged me to seek thy favour
+in love, without which I may not live:
+so deeply are thy vertuous perfections
+imprinted in my heart, which if I enjoy
+<pagebreak id="167" />
+not, I desire no longer to breath.
+Therfore Madam, if thou disdaine his love,
+that living dieth continually for thee;
+do but say the word, and this blade so
+often imbrued in the bloud of mine
+Enemies, shall sacrifice his Masters owne
+true hart before thy face, that thy cruell
+selfe (maist witnesse to thy selfe) how
+faithfully thy Servant hath loved thee.
+<comment type="compiler">THE PRINCESS TO MARIANUS:</comment>
+<omission type="sentence" /> <font>Marianus</font> , that
+thou maist see, and seeing, report in all
+places, where ever thou shalt be come of
+Womens pitty, I grant thee pardon for
+thy fault, and with my pardon, thy life,
+which was wholy in me to dispose.
+   For loving me as thy Prince I hartily
+thank thee, but in seeking to obtain my
+love, as thy wife, that have beene
+<pagebreak id="168" />
+denied to divers and sundry Princes, in
+that thou errest, let each estate frame
+themselves in love, to their equals, so
+shall they sooner obtaine their desires; 
+and their loves in more tranquillity be
+maintained. Thou knowest thy birth
+how base it is, &amp; though for thy vertues
+it pleased my Princely Father to advance
+thee, who cannot of his Princely nature,
+but reward the deserts of the well
+deserving: If for his good to thee, thou seek
+to rob him of his Child, therein thou
+shewest a very ungratefull mind, and 
+layest open unto the world thy base
+condition.
+   Therfore persist to prosecute thy Sute,
+lest reason vanquish that brain-sick
+humor which so afflicts thee; in doing
+which, thou shalt shew thy love to be
+thy selfe: For no greater conquest can
+be atchieved, then conquering a mans
+owne effects. Doe this, &amp; thou shalt find
+<font>Amoretta</font> thy faithfull &amp; assured friend,
+who will be as carefull to advance thee,
+as I have found thee ready to pleasure
+me.
+   Alas good Madam </dialogue><nonSpeech> (answer'd y=e= Knight) </nonSpeech><dialogue>
+<pagebreak id="169" />
+I have often heard, the whole needs no
+Physitian, it is easier far to give
+counsell then to take it. The full gorged
+Churle little regardeth the starving
+creature at his gate, but (Madam) could
+you conceive the lest part of many
+thousand griefes that afflict me, you would
+pitty me at lest, though you yeelded me
+no farther favour: If thy heart be not
+harder then the Adamant (pitty me)
+sweet Lady, and yeeld thy grace to
+augment my life, or utterly denie me your
+favor for ever. I expect but your answer
+for my resolution is no other then J
+have profest (dastards feare to die) but
+the noble mind preferreth death which
+endeth all sorrows, before a life to be
+continued with discontent. <omission type="line" />
+<comment type="compiler">THE PRINCESS ASKS MARIANUS ABOUT PRINCE ARMATIUS (MARIANUS).</comment>
+<pagebreak id="170" />
+<comment type="compiler">MARIANUS REPLIES:</comment>
+<omission type="line" /> What reports soever your
+Grace hath heard of that Prince
+<font>Armatius</font> , I know not: a Subject J was to his
+Father, and ought to speake reverently
+of him (yet what is truth) and not for
+affection or despight, to say other then
+I will with my blood avouch.
+Wherefore Noble Lady, I will truly answer
+your demands.
+   The Prince, whose Father was
+matchlesse, gaining the love of all men, with
+care and honour maintained the
+reputation of his Country, which by his
+carelesse Son is blemished, who 
+neglecting the duty of a Child, without regard
+of Father, Crown, or Kingdome, exiled
+<pagebreak id="171" />
+himselfe, no man knowes where, or
+whether he rest alive or no: since which
+time, the King his Father, who loved
+him too deare (if Fathers love may be
+too deare) hath likewise absented
+himselfe, and liveth in exile. The Mother
+Queen, hath resigned her due to death,
+leaving (by losse of those honourable
+persons) their Country without a head,
+and their State by Subjects to be
+governed, wherby a ruine of the Kingdom
+is like to ensue, all proceeding from the
+Prince. A miserable country is y=t= </dialogue><nonSpeech> (qd. the
+Princesse) </nonSpeech><dialogue> &amp; to be lamented; but more y=e=
+losse of so noble a race, y=e= Father having
+bin such, and the Son as (report saith) so
+coward. But say (good Knight) </dialogue><nonSpeech>qd. she,</nonSpeech><dialogue>
+was there never any cause supposed of
+their departures; nor did not y=e= Father
+through his harsh demeanor, for youth
+at these times take unkindly their
+Fathers unkindnesse: and Age is froward,
+w=ch= frowardnesse might minister great
+cause of disconte~t. Madam </dialogue><nonSpeech> (qd. the Kt.) </nonSpeech><dialogue>
+to my knowledge, this I will say, my
+Father being a Courtier in some regard,
+wherby J came familiar with y=e= Prince,
+<pagebreak id="172" />
+and as youth will make choise of some
+one to participate with, so it pleased the
+Prince loving my Father well, to use
+my co~pany in all his exercises, through
+which I saw his demeanour, <omission type="sentence" />
+<comment type="compiler">LONG NARRATIVE PASSAGE OMITTED.</comment>
+<comment type="compiler">MARIANUS CONTINUES:</comment>
+<omission type="line" /> Ah 
+Madam </dialogue><nonSpeech> (qd. the Knight) </nonSpeech><dialogue> at his departure
+began our Countries griefe and my
+sorrow, from whom in life, I could never
+be separated, such was my love to him,
+which refused himselfe, his Crown, and
+dignities. A dolefull tale hast thou
+delivered </dialogue><nonSpeech> (quoth the Princesse) </nonSpeech><dialogue> which I
+perceive moveth you to impatience,
+wherfore, one demand and an end. The
+Prince <font>Armatius</font> , made choise of you,
+for his companion: Then under
+<pagebreak id="173" />
+<font>benedicity</font> let me crave (all law of friendship
+exempted) did he not acquaint you with
+his determinations? for me thinks it is
+scant credible, y=t= such an unity should
+be amongst men, their loves being so
+perfect, but he should disclose each
+secret intent whatsoever: many reasons
+draweth me to suppose it, which I will
+omit, for I perceive I am too tedious.
+Your Ladiship urgeth me farre, yet will
+J accomplish your request, who have
+power to command me. The 
+Gentleman who never offended, but in
+committing of this great offence, long
+before his departure, having be like some
+motion of desire in his thoughts,
+became of a pleasant Gentleman, the most
+melancholiest that could be found, that
+quite abolishing all company, he best
+contented himselfe with his secret
+cogitations; continuing this honour so
+long, that he fell sicke of an extreame
+Fever: which so encreased upon him,
+as all Physickes reliefe was quite given
+over: so that small was the hope of his
+recovery, whose distresse, the kind King,
+with the Mother Queen, grieved in
+<pagebreak id="174" />
+such wise to behold, as in short time it
+was hard to be judged which of the three
+endured most extreams. But God that
+in adversity sends comfort, restored the
+Prince to some strength: belike
+receiving some comfort in his imaginations,
+and by his recovery, y=e= King and Queen
+were both so comforted, as in short time
+they were raised from their sick
+Cabinets, to frolike it amongst their noble
+subjects, who joyed in nothing so much
+as in their healths. But how soone the
+Sun-shine <comment type="compiler">SOURCE TEXT: Suu-shine</comment> of their happinesse was 
+overshadowed with clouds of comfortlesse
+care, grieveth me to recount; yet dare I
+not gainsay your Ladiships request.
+The Prince recovered of his malady,
+made semblance of such content, that
+none but himselfe could witnesse by the
+least suspition, his hearts discontent, yet
+oftentimes should I, being seldom from
+his company, sighing with a number of
+farre fetched sobs, heare him say,
+Peerlesse Lady, would my love were as well
+known to thee as to mine own hart, the~
+doubtlesse wouldst thou pitty me who
+languish for thee, that art the onely
+<pagebreak id="175" />
+Princesse on the earth, Excelling in all
+vertues which beauty the honorable;
+the report of which hath fettered my
+fancies to thee, that I protest to be
+thine; or never mine owne: then
+looking with a gastly looke about him, to
+see if any overheard him, he would fall
+into some other discourse, ever
+applauding the rare perfections of his Mistresse
+who was unknowne to all but only to
+himselfe, and I, who from the first he
+acquainted with the same: briefly Lady
+(for I weary you with my discourse)
+the love of his Lady hath drawne him
+from his Country, whose <comment type="compiler">SOURCE TEXT: wbose</comment> absence
+caused the Kings exile, and the Kings exile
+the Queens death.
+   </dialogue><nonSpeech>The Princesse hearing all these
+extreams to grow from affection, knowing
+well her owne hearts discontent, with a
+sigh from the deepest, which wrung
+teares from her heart, she said;</nonSpeech><dialogue> Alas
+noble Gentleman, whose joy so soon
+overwhelmed, hath heaped so many cares
+upon me, what folly was there in thee,
+y=t= wouldst not disclose thy love which
+burn'd so veheme~tly: was y=e= dame so base
+<pagebreak id="176" />
+that thou fearest therby to ignoble thy
+issue, or of such high estate thou
+doubtest to obtaine her; if either, by
+perswasions all griefs might have bin
+mittigated of a Monarch, why thou by report
+deservest her; if a Beggar: thou mightst
+make her noble, what ere she were
+hearing of thy distresse, could she forbeare
+to pitty thee? No, no, were her hart more
+harder then the Diamond, it could not
+chuse at the hearing thereof, but relent
+the~, well worthy were she to be scorned
+of all Ladies, and never to be named
+amongst the number of women.
+   </dialogue><nonSpeech>The Prince seeing the Princesse in
+this pittifull humour, thought it good
+striking when the iron was hot, and
+taking the opportunity, answer'd her
+thus:</nonSpeech><dialogue> Is your Ladiships censure such of
+hard-hearted <comment type="compiler">HYPHEN UNCLEAR IN SOURCE TEXT</comment> Ladies, and will not be
+intreated of him, whose love to you, is
+no whit inferiour to the Prince
+<font>Armatius</font> , as himselfe would confesse were he
+present, and heard me recount the many
+griefes, wherewith love hath afflicted
+me: and might he be Iudge, would allow
+me recompence for my Service in love.
+<pagebreak id="177" />
+But Madam, if without offence I might
+demand this; say <font>Amoretta</font> , the Princesse
+of <font>Trebisond</font> were the Saint, unto who~
+this unhappy Prince had vowed his
+devotions, &amp; that all the passions he hath
+endured, are for your love, would you
+vovchsafe him love in recompence
+thereof? </dialogue><nonSpeech>The Princesse driven to her
+shifts at this demand, could not tell
+what to answer yet sharpning her wits
+(as women can doe) she said:</nonSpeech><dialogue> <font>Marianus</font> ,
+Love is not to be dallied with, as I have
+heard them say, which speak by
+experience; therefore I cannot directly
+answer thy question, but were I the
+Physitian that could cure his malady, and
+had so good judgment of his affects as
+of mine owne, charity would I should
+minister unto his Disease, what effect
+soever the potion would worke?
+provided this, that he disclosed his griefe in
+time: mistake me not <font>Marianus</font> , and
+pardon me if I conceale what I would
+utter my thoughts are mine own. Truth
+Lady </dialogue><nonSpeech> (qd. the Knight) </nonSpeech><dialogue> neither was the
+same demanded to urge any thing
+more then standeth with your good
+<pagebreak id="178" />
+liking: yet for the Prince, this I say, it
+were pitty he should die for love. So say
+J </dialogue><nonSpeech> (qd. the Princesse) </nonSpeech><dialogue> for few men there
+be of that condition, and as seldome is
+such a one seen, as multitude of blacke
+Swans. Your error is great, Madam </dialogue><nonSpeech> (qd.
+the Knight) </nonSpeech><dialogue> for many have beene with
+love, so overcome, that Kings have bin
+enforced to stoope to their Subjects,
+and the greatest Conquerours,
+whose valour many volumes record,
+by love compelled to forsake 
+themselves, taking sundry shapes and many
+toyles, to gaine the love of their Ladies.
+I speak now, Madam, for the Prince,
+whom I love well, and challenge your
+charity may be to him continued, for
+your love is the only Physick that must
+cure him, or else all other helpes are
+frivolous: in hope whereof, he breaths a
+lingring life, till your gracious consent
+finish his griefes, yeelding to his desires
+in whom it resteth, to restore him
+banished to his regall dignities, who is the
+cause of his exile: dastardnesse hath
+caused him to conceale it, bearing the
+extremity of his passions with
+<pagebreak id="179" />
+intolerable pain, whose flames encrease <comment type="compiler">SOURCE TEXT: encaease</comment> by
+viewing your excellent perfections; The
+want of whose grace,  haleth him on to
+desperatio~, not able any longer to resist
+Loves assaults, which with such hot
+Alarumes assaile him, that longer he
+cannot endure them. <omission type="line" />
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

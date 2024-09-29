@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2TLADYF">
+  <dialogueHeader>
+
+    <filename>D2TLADYF</filename>
+
+    <identifier>2 TRIAL D2TLADYF</identifier>
+
+    <title>LADY FRANCES</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1616/1730</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">EMLYN, SOLLOM.</attribution>
+      <frontMatter>XXVIII. THE TRIAL OF THE LADY FRANCES COUNTESS OF SOMERSET, FOR
+THE MURDER OF SIR THOMAS OVERBURY, THE 24TH OF MAY 1616. 14 JAC. I.
+IN: A COMPLETE COLLECTION OF STATE-TRIALS, AND PROCEEDINGS FOR 
+HIGH-TREASON, AND OTHER CRIMES AND MISDEMEANOURS; FROM THE REIGN OF 
+KING RICHARD II. TO THE END OF THE REIGN OF KING GEORGE I.
+IN SIX VOLUMES.
+WITH TWO ALPHABETICAL TABLES TO THE WHOLE.
+THE SECOND EDITION, WITH GREAT ADDITIONS.
+LONDON: PRINTED FOR J. WALTHOE SEN. (...), 
+M.DCC.XXX.
+(VOL. I)
+PP. 332.18C2 - 334.9C2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="332C2" />
+   <nonSpeech> <font>L. H. S.</font> </nonSpeech><dialogue> My Lords, the Reason why you be
+call'd hither this day, is to sit as Peers of <font>Frances</font>
+Countess of <font>Somerset</font> .
+   </dialogue><nonSpeech>Mr. <font>Fenshaw,</font> <font>Clerk of the Crown</font> .</nonSpeech><dialogue> <font>Frances</font>
+Countess of <font>Somerset</font> , hold up thy Hand.
+   </dialogue><nonSpeech>She does so, and held it up till Mr. Lieutenant
+told her she might put it down; and then he read
+the Indictment, containing <font>Weston's</font> Accounts, in
+the poisoning of Sir <font>Thomas Overbury</font> , and her
+abetting of him, the 8th of <font>May</font> 1613.
+   The Countess of <font>Somerset</font> , all the while the
+Indictment was reading, stood, looking pale,
+trembled, and shed some few Tears; and at the first
+naming of <font>Weston</font> in the Indictment, put her Fan
+before her Face, and there held it half cover'd till
+the Indictment was read.</nonSpeech>
+   <nonSpeech>Mr. <font>Fenshaw.</font> </nonSpeech><dialogue> <font>Frances</font> Countess of <font>Somerset</font> , what
+sayst thou? Art thou guilty of this Felony and
+Murder, or not guilty?
+   </dialogue><nonSpeech>The Lady <font>Somerset</font> making an Obeisance to the
+Lord High Steward, answer'd</nonSpeech><dialogue> Guilty, </dialogue><nonSpeech>with a low
+Voice, but wonderful fearful.
+   My Lady, upon her Arraignment, having
+pleaded Guilty, the Proceeding after was thus:</nonSpeech><dialogue>
+<comment type="compiler">ATTORNEY'S LONG SPEECH OMITTED.</comment>
+<pagebreak id="333C2" />
+<comment type="compiler">ATTORNEY REFERS TO THE KING'S INSTRUCTIONS REGARDING THE CASE.</comment>
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> There be other Directions in these
+Instructions, by way of Interrogatories, that are
+not now necessary to be read.
+   </dialogue><nonSpeech> <font>L. H. S.</font> </nonSpeech><dialogue> Let the Lords the Peers view these 
+Directions from the King.
+   </dialogue><nonSpeech> <font>Ld. Coke.</font> </nonSpeech><dialogue> None of these Interrogatories which
+the King desired there should be Examinations
+upon, came away empty; and whatsoever
+Whisperings there be abroad of the Death of <font>Weston</font> ,
+they all (some before the hour of their Death)
+confess'd the Fact, and died penitent; and if need
+should require, I have brought their Confessor
+along, (namely, Dr. <font>Whyting</font> .)
+   </dialogue><nonSpeech> <font>L. H. S.</font> </nonSpeech><dialogue> My Lords, you see, and have heard those
+Directions under the King's Hand; give the Glory
+to God, and Honour to the King.
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> May it please your Grace, <font>&amp;c.</font>
+whereas <font>Frances</font> Countess of <font>Somerset</font> hath been
+indicted as Accessary before the Fact, of the
+wilful Poisoning and Murder of Sir <font>Thomas Overbury</font> ;
+upon her Indictment, she hath been arraign'd;
+upon her Arraignment, pleaded guilty: I desire that
+her Confession may be recorded, and Judgment
+given against the Prisoner.
+   </dialogue><nonSpeech> <font>Fenshaw.</font> </nonSpeech><dialogue> <font>Frances</font> Countess of <font>Somerset</font> , hold up
+thine Hand: Whereas thou hast been indicted,
+arraign'd, and pleaded guilty, as Accessary before
+the Fact, of the wilful Poisoning and Murder of
+Sir <font>Thomas Overbury</font> ; what canst thou now say for
+thy self, why Judgment of Death should not be
+pronounced against thee?
+   </dialogue><nonSpeech> <font>C. of Som.</font> </nonSpeech><dialogue> I can much aggravate, but nothing
+extenuate my Fault; I desire Mercy, and that the
+Lords will intercede for me to the King. </dialogue><nonSpeech> (This she
+spake humbly, fearfully, and so low, the Lord
+Steward could not hear it, but Mr. Attorney
+related it.) </nonSpeech>
+   <nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> The Lady is so touch'd with
+Remorse and Sense of her Fault, that Grief surprizes
+her from expressing of her self; but that which she
+<pagebreak id="334C1" />
+hath confusedly said, is to this effect, That she
+cannot excuse herself, but desires Mercy.
+   </dialogue><nonSpeech>Sir <font>Richard Conningsby</font> sitting before the Lord
+High Steward, rises, and upon his Knee delivers
+him the White Staff.</nonSpeech>
+   <nonSpeech> <font>L. H. S.</font> </nonSpeech><dialogue> <font>Frances</font> Countess of <font>Somerset</font> , whereas
+thou hast been indicted, arraigned, pleaded guilty,
+and that thou hast nothing to say for thy self, it is
+now my part to pronounce Judgment; only thus
+much before, Since my Lords have heard with
+<pagebreak id="334C2" />
+what Humility and Grief you have confessed the
+Fact, I do not doubt they will signify so much to
+the King, and mediate for his Grace towards you:
+but in the mean time, according to the Law, the
+Sentence must be this, That thou shalt be carried
+from hence to the Tower of <font>London</font> , and from
+thence to the place of Execution, where you are
+to be hang'd by the Neck till you be dead; and
+the Lord have Mercy upon your Soul.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

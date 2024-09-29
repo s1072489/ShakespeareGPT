@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TAYLIF">
+  <dialogueHeader>
+
+    <filename>D5TAYLIF</filename>
+
+    <identifier>5 TRIAL D5TAYLIF</identifier>
+
+    <title>JOHN AYLIFFE</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1759</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL AT LARGE OF JOHN AYLIFFE, ESQ; FOR FORGERY; AT
+JUSTICE-HALL IN THE OLD-BAILEY, LONDON: ON THURSDAY THE 25TH DAY OF
+OCTOBER 1759.
+BEFORE THE RIGHT HON=BLE= SIR RICHARD GLYN, KNT. AND BART. LORD-MAYOR
+OF THE CITY OF LONDON.
+THE RIGHT HON=BLE= WILLIAM LORD MANSFIELD, LORD CHIEF JUSTICE OF HIS
+MAJESTY'S COURT OF KING'S-BENCH;
+SIR SIDNEY STAFFORD SMYTHE, KNT. ONE OF THE BARONS OF HIS MAJESTY'S 
+COURT OF EXCHEQUER;
+SIR JOHN EARDLEY WILMOT, KNT. ONE OF THE JUSTICES OF HIS MAJESTY'S
+COURT OF KING'S-BENCH.
+AND SIR WILLIAM MORETON, KNT. RECORDER OF THE CITY OF LONDON, AND
+OTHERS HIS MAJESTY'S COMMISSIONERS OF OYER AND TERMINER FOR THE SAME
+CITY.
+LONDON: PRINTED, AND SOLD BY M. COOPER, AT THE GLOBE IN
+PATER-NOSTER-ROW; 
+1759.
+PP. 11.5C2 - 26.21C2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">BOTH ROUND AND SQUARE BRACKETS USED IN SOURCE TEXT TO ENCLOSE 
+NARRATOR'S COMMENTS: RENDERED BELOW AS ROUND BRACKETS.</comment>
+
+<pagebreak id="11C2" />
+   </dialogue><nonSpeech> <font>Cryer.</font> </nonSpeech><dialogue> The evidence you shall give,
+between our Sovereign Lord the King 
+and the prisoner at the bar, shall be the 
+truth, the whole truth, and nothing but 
+the truth; so help you God. Kiss the 
+book. </dialogue><nonSpeech> <font> (Which he did.) </font> </nonSpeech>
+
+   <nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Mr Thomas, pray 
+tell my Lord, and the Jury, what your 
+business is.
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> I am clerk to Mr Jones, 
+a Stationer, in the Temple.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Look upon this 
+deed </dialogue><nonSpeech> <font> (giving him the counterpart executed
+by the prisoner.) </font> </nonSpeech><dialogue> Do you know the 
+hand-writing of that engrossment; if so, tell 
+us whose it is.
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> This is my hand-writing 
+as far as to the words <font> (In witness 
+whereof,) </font> and so on.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> How came you not 
+to engross the whole?
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> I cannot positively say. --
+We sometimes leave out the conclusion 
+by gentlemen's desire, in order that they 
+may add a covenant, or some such thing, 
+if it should be thought necessary; but 
+I cannot particularly recollect the reason 
+why the conclusion was omitted in this 
+case.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> How many parts 
+of this deed did you engross?
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> I engrossed this; and, 
+as appears by our day-book, another part.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> From whom did 
+you receive the instructions for these 
+engrossments?
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> From Mr Jones's son.
+<pagebreak id="12C1" />
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Were the parts you 
+engrossed agreeable to the draft?
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> They were.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Look at the words 
+<font> (thirty-five pounds) </font> engrossed at length in 
+the reddendum and covenant, for payment 
+of the rent in this counterpart; were they 
+part of the original ingrossment, or were 
+they afterwards inserted in blanks left for 
+that purpose?
+   </dialogue><nonSpeech> <font>Henry Thomas.</font> </nonSpeech><dialogue> I engrossed them at the 
+same time that I engrossed the rest, 
+agreeable to the draft.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Prisoner, would 
+you ask this witness any question?
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> We will now prove 
+the execution of this counterpart by the 
+prisoner. -- Call Mr Fannen. </dialogue><nonSpeech> <font> (Who appeared, and
+was sworn.) </font> </nonSpeech>
+   <nonSpeech> <font>Alexander Wedderburne, Esq; of counsel for 
+the Crown.</font> </nonSpeech><dialogue> Mr Fannen, look upon this 
+deed; </dialogue><nonSpeech> <font> (giving him the counterpart) </font> </nonSpeech><dialogue> did
+you see it executed, and by whom?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> This deed was executed 
+by Mr Ayliffe in my presence.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Tell us, if you can 
+recollect, when this was, and where?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I am not sure; but to 
+the best of my remembrance, it was 
+sometime the beginning of December last, at 
+Mr Fox's house.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Was there any other 
+deed executed at the same time?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> There was another part 
+executed by Mr Fox.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Look upon the back 
+of this deed; are you one of the 
+subscribing witnesses? 
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I am; and so I was to 
+the other part, which was executed by Mr 
+Fox.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Had you any 
+conversation with the prisoner touching this 
+<pagebreak id="12C2" />
+lease immediately after the execution of 
+it?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I had; but I cannot say, 
+whether it was immediately, or a day or 
+two after the lease was executed.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Where was this?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> It was in my room at 
+Mr Fox's house; I was not sure, though 
+I guessed, that the deed executed by Mr 
+Fox and witnessed by me, was a lease 
+of Rusley park; and, therefore, I asked 
+Mr Ayliffe, whether Rusley park was 
+let; to which he answered,that Mr Fox 
+had been so good to let it him at the 
+rent of thirty or thirty five pounds a year --
+I am not positive which. -- And he 
+expressed great obligations to Mr Fox for his 
+goodness in so doing.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I should be glad to look at 
+that deed.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> You shall see it as 
+soon as it has been read. In the mean 
+time, would you ask this witness any 
+question?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we will now call 
+a witness to prove the concluding words 
+of this counterpart <font> (In witness whereof 
+the parties to these presents have hereunto 
+interchangeably set their hands and seals, 
+the day and year first above written) </font> to be 
+of the prisoner's own hand-writing -- Call 
+Mr Ellis Dawe. </dialogue><nonSpeech> <font> (Who appeared and was 
+sworn.) </font> </nonSpeech>
+   <nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Mr Dawe, look at 
+the concluding words in this deed, 
+beginning with the words <font> (In witness whereof) </font>
+and tell us if you know the hand-writing.
+   </dialogue><nonSpeech> <font>Ellis Dawe.</font> </nonSpeech><dialogue> I do: I am well acquainted 
+with the prisoner Mr Ayliffe; and believe 
+these words to be of his hand-writing.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Look upon the 
+endorsement; I mean the title of the deed 
+<pagebreak id="13C1" /> 
+written upon the back of it; Whose 
+hand-writing do you take that to be?
+   </dialogue><nonSpeech> <font>Ellis Dawe.</font> </nonSpeech><dialogue> I believe it to be Mr 
+Ayliffe's hand.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Are you well 
+acquainted with his hand-writing?
+   </dialogue><nonSpeech> <font>Ellis Dawe.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Have you seen him 
+write?
+   </dialogue><nonSpeech> <font>Ellis Dawe.</font> </nonSpeech><dialogue> I have often seen him 
+write.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> We have now fully 
+established this deed, and desire it may be 
+read.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Let it be read.
+<comment type="compiler">SUMMARY OF THE DEED'S CONTENT OMITTED. THE DEED IS THEN SHOWN  
+TO BOTH JURY AND PRISONER.</comment>
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we will now 
+proceed to prove the publication of the 
+lease mortgaged by the prisoner to William 
+Clewer, Esq; and which bears date the 
+22d of Nov. and is at the yearly rent of 
+5 l. and for that purpose we will first 
+prove the mortgage, wherein that lease is 
+recited. -- Call Walter Hargrave. </dialogue><nonSpeech> <font> (Who 
+appeared and was sworn.) </font> </nonSpeech>
+   <nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Mr Hargrave, look at your 
+name set upon the back of this mortgage, 
+as a witness to the execution of it; and 
+tell us, whether that is your 
+hand-writing?
+<pagebreak id="13C2" />
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> This is my hand.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> By whom did you see this 
+mortgage executed?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> By Mr Ayliffe. -- 
+I saw him sign, seal, and deliver it, as 
+his act and deed. 
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Where did you see it 
+executed?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> At Mr Priddle's 
+chambers, in the King's-Bench-Walks, 
+in the Inner-Temple.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Is your name, set as a 
+subscribing witness to the receipt for the 
+consideration-money, likewise of your hand 
+writing?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> It is: I saw Mr 
+Ayliffe sign this receipt for 1700 l.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Did you see the prisoner, 
+at the time of the execution of this 
+mortgage, deliver any title-deeds to Mr 
+Clewer?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> Yes, he delivered 
+several deeds to Mr Clewer, and that lease 
+</dialogue><nonSpeech> <font> (pointing to the lease set out in the 
+indictment) </font> </nonSpeech><dialogue> was one of them.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Do you remember any 
+request being made at this time, to keep 
+the mortgage of that lease a secret? and 
+if you do, tell us by whom such request 
+was made, and who were present.
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> Mr Ayliffe desired 
+Mr Bradley, Mr Green, Mr Clewer, and 
+myself, to swear that we would keep it 
+secret.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> What answer was assigned to 
+this?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> We told him we 
+would take no such oath.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Was any reason given for 
+such request?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> The reason Mr 
+Ayliffe gave, was, that he would not on 
+any account have it come to Mr Fox's 
+ears.
+<pagebreak id="14C1" />
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Pray Sir, have 
+you any particular reason for 
+remembering this lease, so as to be sure, that it 
+was one of the title-deeds delivered by the 
+prisoner to Clewer?
+   </dialogue><nonSpeech> <font>Walter Hargrave.</font> </nonSpeech><dialogue> Yes, I have. -- I'll 
+show you.-- I remember it by this stamp.
+</dialogue><nonSpeech> <font> (Pointing to an imperfect blotted 
+country-stationer's mark in the margin.) </font> </nonSpeech>
+   <nonSpeech> <font>Cryer.</font> </nonSpeech><dialogue> Mr Jones is come. -- </dialogue><nonSpeech> <font> (Who 
+appeared, and was sworn.) </font> </nonSpeech>
+   <nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> My Lord, with 
+your lordship's leave, we will now go 
+back to the leases engrossed at Mr Jones's, 
+to which he ought regularly to have been 
+examined before, but that he happened 
+not to be in court. -- Mr Jones, do you 
+remember any person's applying to you, 
+some time in the latter end of the year 
+1758, to have a lease of Rusley-park, in 
+Wiltshire, engrossed in the name of 
+Ayliffe?
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> Yes; I did three parts of such 
+lease, Fox and Ayliffe. -- My clerk Henry 
+Thomas engrossed two of them, and 
+Henzell the other.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Were there any 
+particular directions given you by the person 
+who brought the draft to your house, 
+about omitting the common conclusion?   
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> I can't positively say, 'till 
+I see the deeds themselves. </dialogue><nonSpeech> <font> (The 
+counterpart of the lease executed by the prisoner 
+being thereupon put into his hand) </font> </nonSpeech><dialogue> We 
+engross'd this deed down to the words, <font>In 
+witness</font> . -- But the conclusion beginning 
+with those words is of some other person's 
+hand. -- It was omitted to leave room for 
+<pagebreak id="14C2" />
+something to be added, and must have 
+been ordered so by the person who brought 
+the draft.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Mr Fannen; the 
+last witness, has said there were three parts 
+of the lease engrossed at his house, how 
+many parts did you see executed? 
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> There were only two 
+parts executed; the original lease and 
+counterpart; the first by Mr Fox and the 
+other by Mr Ayliffe.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we desire that 
+the mortgage to Clewer, which we have 
+proved to have been executed by the 
+prisoner, may be read, in order to shew that 
+the lease which Hargrave swore was 
+delivered to Clewer, is the very lease recited in, 
+and assigned by, that mortgage.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Let it be read.
+<comment type="compiler">SUMMARY OF THE MORTGAGE'S CONTENT OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> We will now, my Lord, 
+proceed to prove, that the lease thus 
+recited in, and assigned by, this mortgage to
+Clewer, and proved to have been delivered 
+to him by the prisoner, is forged. --
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Mr Fannen, be 
+pleased to look at this lease. -- </dialogue><nonSpeech> <font> (The lease set out 
+in the indictment.) </font> </nonSpeech><dialogue>  Is the name John 
+<pagebreak id="15C1" /> 
+Fannen, written upon the back as a 
+subscribing witness, of your hand-writing?   
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> No Sir, it is not my 
+writing?
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Look at the name H. 
+Fox, subscribed at the bottom of it; is 
+that Mr Fox's hand?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> It is not.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Are you well 
+acquainted with Mr Fox's hand-writing?
+   </dialogue><nonSpeech> <font>Mr Fannen.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> How long have you 
+been acquainted with it?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I have known Mr Fox's 
+hand-writing these thirteen years.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Is your name upon 
+that deed like your hand-writing?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> There is an imitation 
+of my hand, but it is a very bad one.
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Do you always 
+write your name in the same manner?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I suppose I may not 
+always write it exactly the same, but as 
+nearly so as possible.    
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Then, how 
+can you be positive, that this is not your 
+hand?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> Because it is a very bad 
+imitation of it.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> What reason 
+have you for calling it a bad imitation?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> Because it is not like it. 
+It was certainly intended to imitate my 
+hand; but compare that writing with 
+mine upon the counterpart, and you'll see 
+a very great difference.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Look at these 
+</dialogue><nonSpeech> <font> (producing three several letters) </font> </nonSpeech><dialogue> are these 
+of your hand-writing?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> They are my writing.
+
+</dialogue><nonSpeech> <font>They were delivered into court.</font> </nonSpeech>
+<pagebreak id="15C2" />
+   <nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Can you positively 
+swear, that your name on the back of that 
+lease is not of your hand-writing?
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Lord Chief Justice, to Fannen.</font> </nonSpeech><dialogue> The 
+counterpart, which has been read, is dated 
+the 27th of November: and you have 
+said, that, at the time of the execution 
+of it, there was but one part executed by 
+Mr Fox; I would, therefore, ask you, 
+whether, in that month, or within a short 
+time before or after, you was witness 
+to any other deed between Mr Fox and 
+the prisoner? 
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> No, my Lord, I was 
+not: I remember being a witness to this 
+counterpart executed by the prisoner, and 
+to the original executed by Mr Fox, but 
+to no other deeds within that year.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Call Mr Hobson. 
+</dialogue><nonSpeech> <font>Who appeard, and was sworn.</font> </nonSpeech><dialogue> Take that 
+lease into your hand </dialogue><nonSpeech> <font> (the lease set out 
+in the indictment) </font> ;</nonSpeech><dialogue> is the name, James 
+Hobson, which is written upon the back of 
+it, of your hand-writing?    
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> No, Sir, it is not.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Does it appear to 
+you to have been writ with an intention 
+to imitate your hand? 
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> It certainly was 
+intended to be an imitation of my hand?
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Does it resemble 
+your hand-writing?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I think very little. There 
+are two letters particularly that are very 
+bad; the <font>H</font> is much wider than I write 
+it, and the tops of the <font>n</font> are not at all like 
+mine.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Look at the 
+counterpart, are you a subscribing witness to it?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I am: I remember my 
+being a witness to the prisoner's executing 
+this counterpart, and to Mr Fox's 
+executing the original.
+<pagebreak id="16C1" />
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Was you ever a 
+subscribing witness to the execution of any 
+other deed between Mr Fox and the 
+prisoner?    
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I don't recollect that 
+I ever was.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Are you sure that 
+you was not a witness to any such deed in 
+the month of November last?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I am certain I was 
+not.
+   </dialogue><nonSpeech> <font> Mr Serjeant Davy.</font> </nonSpeech><dialogue> Or in December?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I do not remember that 
+I was.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> When was this deed 
+executed?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> To the best of my memory 
+it was upon the 11th of December. 
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Can you recollect 
+whether you witnessed any such deed 
+within a month or two before, or after, the 
+month of December, 1758? 
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I don't remember that 
+I was a witness to any other deed at all.
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> You say you 
+was not a witness to any other deed 
+executed by Mr Fox to the prisoner. -- Pray, look 
+at this instrument; did you not see Mr 
+Fox execute it, and are not you a 
+subscribing witness? </dialogue><nonSpeech> <font>Giving him a paper 
+writing, signed and sealed by Mr Fox.) </font> </nonSpeech>
+   <nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> That is my hand-writing, 
+and I saw Mr Fox set his name to this 
+paper.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> You may not, 
+perhaps, understand what is meant by a <font>deed</font> ; 
+and, therefore, I will ask you, whether 
+you remember your being a witness in the 
+months of November or December last, 
+or at any time before or after, to the 
+execution of any other <font>parchment-deed</font> by 
+<pagebreak id="16C2" />
+Mr Fox, besides the lease and counterpart, 
+which you have mentioned?   
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I do not remember that 
+I was.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Are you acquainted 
+with Mr Fox's hand-writing?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I am well acquainted 
+with it.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Do you live with 
+him?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> How long have you 
+known his hand-writing?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> About eight years.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Look upon the name 
+H. Fox subscribed to the deed </dialogue><nonSpeech> <font> (the lease 
+set out in the indictment) </font> ,</nonSpeech><dialogue> is that Mr Fox's 
+hand-writing?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I believe not.
+   
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Tell us why you 
+think so.
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> Because of the I in the H. 
+</dialogue><nonSpeech> <font> (pointing to the first limb of the H.) </font> </nonSpeech><dialogue> which 
+Mr Fox always makes with a pointed 
+top; whereas, the top of this is round; 
+and because of the <font>x</font> , the end of which 
+is turned in a different manner from what 
+Mr Fox usually does.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Look at these 
+<font>x's</font> ; </dialogue><nonSpeech> <font> (producing some papers signed H. Fox.) </font> </nonSpeech><dialogue> 
+and tell us wherein they differ from this.
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> The turn of the <font>x</font> on 
+the parchment is rounder than in those of 
+Mr Fox's writing.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Do you think 
+it possible for a gentleman, in the course 
+of his signing his name, to write always 
+just alike?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I think it is possible for 
+a man to write always very much alike?
+<pagebreak id="17C1" />
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Have you 
+observed any difference in the manner of Mr 
+Fox's signing his name to a frank, and 
+when he subscribes it to a deed or letter?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> He does make a 
+difference.    
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Describe that 
+difference.
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> Mr Fox uses a different 
+<font>X</font> in his franks, from what he does at 
+other times; he turns the first limb of it 
+towards the right, and draws a strait 
+stroke a-cross.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Pray look at 
+his name on this paper, is this his 
+writing?
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> It is.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Is not the top 
+of that <font>I</font> </dialogue><nonSpeech> <font> (pointing to the first limb of the 
+H, upon the last paper) </font> </nonSpeech><dialogue> larger than the 
+top of this?  </dialogue><nonSpeech> <font> (Pointing to the first limb of 
+the H on one of the former papers.) </font> </nonSpeech>
+   <nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> It is larger; but they are 
+both pointed.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Is not that <font>x</font> 
+</dialogue><nonSpeech> <font> (upon the last paper) </font> </nonSpeech><dialogue> like the <font>x</font> subscribed 
+to the deed? </dialogue><nonSpeech> <font> (The lease in the indictment.) </font> </nonSpeech><dialogue> 
+Compare them carefully.
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> If you look at them 
+together, you will see a very great 
+difference.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Look at the 
+name H. Fox upon this paper. </dialogue><nonSpeech> <font> (Producing 
+a frank.) </font> </nonSpeech><dialogue> Is not that H very like the H 
+at the foot of that deed? </dialogue><nonSpeech> <font> (The lease in the 
+indictment.) </font> </nonSpeech>
+   <nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> There is but very little 
+difference except in the <font>x's</font> .
+   </dialogue><nonSpeech> <font>John Fannen.</font> </nonSpeech><dialogue> This frank may probably 
+be one of the prisoner's making; for he 
+used sometimes to frank in Mr Fox's 
+name.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Do you know what 
+business Mr Ayliffe was of formerly?
+<pagebreak id="17C2" />
+   </dialogue><nonSpeech> <font>James Hobson.</font> </nonSpeech><dialogue> I know nothing more of 
+him than that he was Mr Fox's steward.
+
+</dialogue><nonSpeech> <font>The papers were all delivered into court.</font> </nonSpeech>
+
+   <nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we will now 
+corroborate the evidence of the two last 
+witnesses, by the testimony of other 
+gentlemen well acquainted with their 
+hand-writing, and with Mr Fox's. -- Call 
+Mr Netherton. </dialogue><nonSpeech> <font> (Who appeared, and was 
+sworn.) </font> </nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know Mr Fannen?    
+   </dialogue><nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> I do; and have been 
+intimate with him several years?
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Have you seen him write?
+   </dialogue><nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> Yes: I have seen him 
+write many times.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Look at his name, set as a 
+subscribing witness to the execution of this 
+deed. </dialogue><nonSpeech> <font> (The lease set out in the indictment.) </font> </nonSpeech><dialogue> 
+Is that his hand-writing?
+   </dialogue><nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> This is not his hand. -- 
+The manner in which this is wrote, 
+particularly as to the shape of the letters, is 
+not at all like it. -- Mr Fannen makes the 
+strokes of his n's farther asunder, freer and
+rather sharper, and turns the bottom of 
+his J much rounder. 
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech> 
+   
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Look at the 
+name John Fannen on these papers; 
+</dialogue><nonSpeech> <font> (producing two letters) </font> </nonSpeech><dialogue> do you believe these 
+to be his hand?
+   </dialogue><nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> I believe they are?
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Are the tops 
+of these <font>n's</font> </dialogue><nonSpeech> <font> (upon the paper) </font> </nonSpeech><dialogue> sharper than 
+those upon the parchment? </dialogue><nonSpeech> <font> (The lease set out 
+in the indictment.) </font> </nonSpeech>
+   <nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> They appear so. --
+There is more similitude between the 
+<pagebreak id="18C1" /> 
+names on those papers, than between 
+either of them, and the name on this 
+parchment.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Do you, or do you 
+not, believe the name John Fannen, on 
+that parchment, to be his hand-writing, 
+or are you doubtful?
+   </dialogue><nonSpeech> <font>Samuel Netherton.</font> </nonSpeech><dialogue> I am not in the least 
+doubtful, my Lord; it is certainly forged.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Call Mr Cox. </dialogue><nonSpeech> <font> (Who 
+appeared, and was sworn.) </font> </nonSpeech><dialogue> Do you know 
+Mr Hobson, who has just now been 
+examined? 
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Are you acquainted 
+with the manner of his hand-writing?   
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Then look at the 
+name James Hobson on the back of this 
+deed. </dialogue><nonSpeech> <font> (The lease set out in the indictment.) </font> </nonSpeech><dialogue> 
+Do you believe that to be his hand? 
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> That is not his hand-writing.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Are you clear in that 
+opinion?
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I am.
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Pray, tell us 
+the grounds of your objection?
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I object against the <font>H</font> , the 
+<font>b</font> and the <font>n</font> . Mr Hobson makes his <font>H</font> 
+very narrow; this is very wide; the <font>b</font> and 
+<font>n</font> are remarkably different.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> How came you 
+to be so well acquainted with his hand?
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I have received many letters 
+from him.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> But did you 
+ever see him write his name?
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> I have often.
+   </dialogue><nonSpeech> <font>Lord Chief Justice, to Cox.</font> </nonSpeech><dialogue> Do you 
+believe Hobson's name upon the back of 
+<pagebreak id="18C2" />
+that deed to be his hand-writing, or not, 
+or are you doubtful?
+   </dialogue><nonSpeech> <font>Samuel Cox.</font> </nonSpeech><dialogue> My Lord, I have no doubt 
+at all; I do believe, that this is not his 
+hand.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> We desire Mr 
+Calcraft may be sworn. </dialogue><nonSpeech> <font> (Which was done 
+accordingly.) </font> </nonSpeech><dialogue> Mr Calcraft, I need hardly 
+ask you, if you are acquainted with Mr 
+Fox's hand-writing?
+   </dialogue><nonSpeech> <font>John Calcraft,</font> Esq;</nonSpeech><dialogue> I am very well 
+acquainted with his hand; having often 
+seen him write.
+   </dialogue><nonSpeech> <font>Mr Wedderburne.</font> </nonSpeech><dialogue> Then, Sir, please to 
+look at the name H. Fox subscribed to 
+this deed. </dialogue><nonSpeech> <font> (The lease set out in the 
+indictment.) </font> </nonSpeech><dialogue> Is that Mr Fox's hand?
+   </dialogue><nonSpeech> <font>John Calcraft,</font> Esq;</nonSpeech><dialogue> I don't take it to 
+be his hand. I never saw him make an 
+<font>H</font> as this. 
+   </dialogue><nonSpeech> <font>L. Ch. Justice, to Mr Calcraft.</font> </nonSpeech><dialogue> Some 
+persons, from being more conversant in 
+writing, have a more discerning eye than 
+others; therefore, Sir, I would ask you, 
+whether, from your particular 
+acquaintance with Mr Fox's manner of writing, 
+or from your knowledge of writing in 
+general, you can take upon you to say, that 
+you do or do not believe this name to 
+be of Mr Fox's writing, or have you any 
+doubt about it?
+   </dialogue><nonSpeech> <font>John Calcraft,</font> Esq;</nonSpeech><dialogue> From the 
+knowledge I have of Mr Fox's hand, I really 
+believe that this is not of his writing; 
+I never saw Mr Fox make such an <font>H</font> as 
+this.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Swear Mr Donisthorpe. 
+</dialogue><nonSpeech> <font> (Which was done.) </font> </nonSpeech><dialogue> Pray, Sir, are you 
+acquainted with Mr Fox's hand-writing?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I have been 
+acquainted with his hand-writing above 
+twenty-eight years.
+<pagebreak id="19C1" /> 
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Then look upon the name 
+H. Fox subscribed to this deed. </dialogue><nonSpeech> <font> (The lease 
+set out in the indictment.) </font> </nonSpeech><dialogue> Do you take 
+that to be Mr Fox's hand?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I do not take 
+it to be his hand. 
+   </dialogue><nonSpeech> <font>L. Ch. Justice.</font> </nonSpeech><dialogue> Do you believe, that 
+it is not Mr Fox's hand? or are you 
+doubtful whether it is or not?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I am as 
+certain as I can be of any thing which I did 
+not see done myself, that this is not Mr 
+Fox's hand-writing.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Are you in any station 
+under Mr Fox?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I have now 
+the honour to be his steward.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Do you know Mr Ayliffe, 
+the prisoner at the bar?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I have known 
+him many years.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Are you acquainted with 
+his hand-writing, particularly his 
+engrossing hand?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I am well 
+acquainted with his hand-writing; but 
+I never saw him engross.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Can you take upon you to 
+say, whether you believe the engrossment 
+of this deed </dialogue><nonSpeech> <font> (the lease set out in the 
+indictment) </font> </nonSpeech><dialogue> to be the prisoner's hand?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I don't call 
+this an engrossing hand.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Then can you tell us of
+whose hand-writing you take this deed 
+to be?
+   </dialogue><nonSpeech> <font>George Donisthorpe,</font> Esq;</nonSpeech><dialogue> I am certain 
+this is Mr Ayliffe's hand, as certain as 
+I am that the name H. Fox at the bottom 
+is not of Mr Fox's writing.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> We must desire Mr Dawe 
+to stand up again. </dialogue><nonSpeech> <font> (Which he did.) </font> </nonSpeech><dialogue> Mr 
+Dawe, you are acquainted with the 
+prisoner's hand; pray, look upon this deed, 
+<pagebreak id="19C2" />
+</dialogue><nonSpeech> <font> (the lease set out in the indictment) </font> ;</nonSpeech><dialogue> whose 
+hand do you take it to be?
+   </dialogue><nonSpeech> <font>Ellis Dawe.</font> </nonSpeech><dialogue> I believe it to be Mr 
+Ayliffe's hand.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Swear Mr Dalby. 
+</dialogue><nonSpeech> <font> (Which was done.) </font> </nonSpeech><dialogue> Did you, Sir, ever see 
+Mr Ayliffe write?
+   </dialogue><nonSpeech> <font>James Dalby,</font> Esq;</nonSpeech><dialogue> Yes: I have a great 
+many times.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Look upon the body 
+of this deed. </dialogue><nonSpeech> <font> (The lease set out in the 
+indictment.) </font> </nonSpeech><dialogue> Do you believe it to be of the 
+prisoner's hand-writing?
+   </dialogue><nonSpeech> <font>James Dalby,</font> Esq;</nonSpeech><dialogue> This is a much 
+stronger hand than he usually writes; but the cut  
+and turn of the letters are so exactly the 
+same, that I believe it to be his, though 
+I cannot say I ever saw any of his writing 
+upon parchment before.
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> If you never 
+saw any of his writing upon parchment, 
+and you admit this to be a stronger hand 
+than his, what reason have you to say this 
+deed is of his writing?
+   </dialogue><nonSpeech> <font>James Dalby,</font> Esq;</nonSpeech><dialogue> I have often seen 
+Mr Ayliffe write, and I have received many 
+letters from him; and I say, that the turn 
+of the letters in this deed greatly 
+resembles the manner of his hand-writing.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Let Mr Jones stand up. 
+</dialogue><nonSpeech> <font> (Which he did.) </font> </nonSpeech><dialogue> Pray, look at the 
+engrossment of that deed. </dialogue><nonSpeech> <font> (The lease set out in the 
+indictment.) </font> </nonSpeech><dialogue> Do you know any thing of 
+that hand-writing?
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> This is not the hand-writing 
+of any of my people. -- It is not an 
+engrossing hand, but very badly wrote.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Are you positive that this 
+is not the hand-writing of any of the 
+persons whom you employ?
+<pagebreak id="20C1" />
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> Yes; I am certain that this 
+was not wrote by any of the people whom 
+I employ, or ever did. 
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Have you ever seen any 
+writing like it?
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> It seems to me to be the 
+same hand with the concluding part of 
+the counterpart engrossed at my house.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> Give him the counterpart, 
+to compare the concluding words of the 
+two deeds. </dialogue><nonSpeech> <font> (Which was done.) </font> </nonSpeech><dialogue> Now from 
+your skill and practice in writing, do you 
+take these two conclusions, beginning at 
+the words, <font> (In witness) </font> to be wrote by 
+the same hand, or by different hands?
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> They are exactly alike, and
+appear to me to have been both done by 
+the same hand; and I believe them to 
+have been wrote by one person.
+ 
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Both what!
+   </dialogue><nonSpeech> <font>Mr Jones.</font> </nonSpeech><dialogue> The whole of this deed, 
+</dialogue><nonSpeech> <font> (the lease set out in the indictment) </font> </nonSpeech><dialogue> and the 
+words <font> (In witness) </font> to the end in the
+other. </dialogue><nonSpeech> <font> (Pointing to the counterpart.) </font> </nonSpeech>
+   <nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Swear Samuel Lodge. 
+</dialogue><nonSpeech> <font> (Which was done.) </font> </nonSpeech><dialogue> Mr Lodge, do you 
+know Mr Ayliffe's hand?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> Yes; Sir, I have been 
+acquainted with him many years.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Have you seen him 
+write?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I have seen him write 
+several times.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Did you live with 
+him?
+   </dialogue><nonSpeech> <font>Samuel.</font> </nonSpeech><dialogue> I used to be frequently 
+backwards and forwards with him.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Then look at the 
+body of that lease, </dialogue><nonSpeech> <font> (the lease set out in the 
+indictment) </font> </nonSpeech><dialogue> and tell us of whose 
+hand-writing it is?
+<pagebreak id="20C2" />
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I believe it to be Mr 
+Ayliffe's, it greatly resembles his hand. 
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Had you not some 
+conversation with the prisoner some time 
+about the month of December last, 
+concerning a lease from Mr Fox to him of 
+Rusley-park?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I remember I copied the 
+draft of such a lease, in order to be carried 
+to Mr Paterson, for his perusal.                                                     
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> What was the rent 
+reserved?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I left a blank for the 
+rent, Mr Ayliffe having told me, that 
+he did not know what the rent was to be; 
+he said it was to be a small one; perhaps, 
+5 l. a year; and possibly, but a 
+peppercorn.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> What was done 
+with this draft?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> When I had wrote it, 
+I believe I carried it to Mr Paterson. 
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Do you know of the 
+engrossing of that draft?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> No, Sir, I don't.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Did the prisoner, at 
+any time after the lease was executed, tell 
+you what the rent was?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> He told me it was five 
+pounds a year.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Did you see the 
+lease itself after it was executed?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> When did you see 
+it, and upon what occasion?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I can't directly say the 
+time; but I believe it was in December 
+last; Mr Ayliffe delivered it to me, among 
+other writings, at Mr Priddle's chambers, 
+or coming from thence.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Did he at that time 
+tell you what the rent was? 
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> No; not at that time; 
+but I looked to see. I had to put the parcel 
+<pagebreak id="21C1" />  
+into my pocket; and going soon after,
+to the vault; and having no waste-paper, 
+I took out the writings, which were 
+wrapped up in a new's-paper, and tore 
+part of it off. This gave me the 
+opportunity of seeing that the lease of Rusley 
+was in the parcel; upon which, I had the 
+curiosity to look into it, and see what
+the rent reserved was; and then I saw that 
+it was 35 l.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Was that lease of 
+the prisoner's hand-writing?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> No: it was a very 
+different hand, more like the hand-writing 
+of the counterpart which has been produced 
+here, as far as a person can carry the 
+resemblance of hand-writings in his mind.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Did you look at 
+the name subscribed at the bottom?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> Yes: it was signed 
+H. Fox.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> You said you had 
+known the prisoner a long time; what 
+was he originally?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I believe he kept a 
+school.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> What school?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> A writing and reading 
+school, I believe.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> Where was it he 
+kept a school?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> At Lineham, in the 
+county of Wilts.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> You say you are 
+acquainted with the manner of the 
+prisoner's hand-writing; pray, look at the 
+signature, H. Fox, at the foot of this deed, 
+</dialogue><nonSpeech> <font> (the lease set out in the indictment) </font> ;</nonSpeech><dialogue> whose 
+hand-writing do you believe that to be?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> It appears to me to have 
+a strong resemblance of Mr Ayliffe's 
+hand-writing.
+   </dialogue><nonSpeech> <font>Mr Serjeant Davy.</font> </nonSpeech><dialogue> What reason have
+<pagebreak id="21C2" /> 
+you to think so; have you ever seen him 
+sign Mr Fox's name?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> I have two or three 
+times seen him frank letters in Mr Fox's 
+name; and this looks like Mr Ayliffe's 
+manner of writing Mr Fox's name, though 
+it is wrote larger than what he used to do 
+in the franks.
+
+</dialogue><nonSpeech> <font>Cross Examination.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Did the prisoner 
+use to write Mr Fox's name in the manner 
+it is signed to that lease?
+   </dialogue><nonSpeech> <font>Samuel Lodge.</font> </nonSpeech><dialogue> Yes; except the <font>x</font> , 
+which he wrote like that used by Mr Fox 
+in his franks.
+<comment type="compiler">MR. ASTON'S SPEECH OMITTED: HE DECLARES THE FORGERY PROVED.</comment>
+<pagebreak id="22C1" />
+</dialogue><nonSpeech> <font>The forged lease was then read, and by the 
+counsel for the prisoner compared with 
+that set out in the indictment.</font> </nonSpeech>
+
+   <nonSpeech> <font>L. Ch. Justice,</font> </nonSpeech> <nonSpeech> <font> (to the Clerk of the 
+Arraigns.) </font> </nonSpeech><dialogue> Are the words <font>thirty-five pounds</font> , 
+both in the reddendum and covenant of 
+the counterpart, engrossed in words at 
+length; and is there any razure in either 
+of them in the lease set out in the 
+indictment?
+   </dialogue><nonSpeech> <font>Clerk of Arraigns.</font> </nonSpeech><dialogue> The rent reserved 
+in the counter-part is engrossed in words
+at length, and there is no razure in the 
+lease.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we rest it here.
+   </dialogue><nonSpeech> <font>L. Ch. Justice.</font> </nonSpeech><dialogue> Mr Ayliffe, the counsel 
+for the Crown have now gone through 
+their evidence; this, therefore, is the time
+to make your defence.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> The name to the lease 
+is Mr Fox's own hand-writing; that is 
+all I know.
+   </dialogue><nonSpeech> <font>L. Ch. Justice.</font> </nonSpeech><dialogue> Have you any witnesses 
+to call.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> My Lord, we 
+<pagebreak id="22C2" />
+beg leave to examine a few witnesses for 
+the prisoner. -- Call Gabriel Cruse </dialogue><nonSpeech> <font> (Who 
+appeared.) </font> </nonSpeech>
+   <nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> My Lord, I was 
+subpoena'd last Monday at Salisbury, and am 
+come up here from the country; I have 
+not been paid for my journey or expences; 
+therefore, I hope I shall be considered.
+   </dialogue><nonSpeech> <font>L. Ch. Justice.</font> </nonSpeech><dialogue> That is never done in 
+cases of felony.
+
+</dialogue><nonSpeech> <font>Whereupon Gabriel Cruse was sworn.</font> </nonSpeech>
+
+   <nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Do you know 
+Mr Fox?
+   </dialogue><nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> I know him: but I have 
+very little acquaintance with him.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Do you know 
+any thing of a lease executed by him to 
+the prisoner? 
+   </dialogue><nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> No: I know nothing 
+of his executing a lease.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Did you not 
+hear Mr Fox make some declaration 
+concerning a lease he had granted to the 
+prisoner?
+   </dialogue><nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> He told me that he had 
+ordered the prisoner to prepare a lease at 
+thirty-five pounds a year; but seemed to 
+think that he had been imposed upon; 
+for he said the lease, which had since been 
+produced to him, was only at five pounds 
+a year. -- That is all I know of the matter.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Explain yourself; 
+what was it Mr Fox said?
+   </dialogue><nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> He said, that the draft of 
+the lease was at thirty-five pounds a year, 
+but that he had signed the lease without 
+reading it.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Did you ever see 
+the lease he was he was speaking of in Mr Fox's 
+hands?
+   </dialogue><nonSpeech> <font>Gabriel Cruse.</font> </nonSpeech><dialogue> No: I never did.
+<pagebreak id="23C1" />
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call Adam 
+Brown. </dialogue><nonSpeech> <font> (Who appeared, and was sworn.) </font> </nonSpeech><dialogue> 
+Are you acquainted with Mr Fox's 
+hand-writing?
+   </dialogue><nonSpeech> <font>Adam Brown.</font> </nonSpeech><dialogue> Yes: I know it well.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> How long have 
+you been acquainted with it?
+   </dialogue><nonSpeech> <font>Adam Brown.</font> </nonSpeech><dialogue> About a dozen years.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Here, take this 
+deed. </dialogue><nonSpeech> <font> (The lease set out in the indictment.) </font> </nonSpeech><dialogue> 
+Look at the name H. Fox at the bottom 
+of it; do you or do you not believe that 
+to be Mr Fox's hand?
+   </dialogue><nonSpeech> <font>Adam Brown.</font> </nonSpeech><dialogue> The first glance of it 
+shews a great aukwardness. -- This is 
+not Mr Fox's hand, but a very bad 
+imitation of it. -- There is a stiffness in this 
+that I never observed in Mr Fox's writing. 
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call Thomas 
+Bonnell. </dialogue><nonSpeech> <font> (Who appeared, and was sworn.) </font> </nonSpeech><dialogue> 
+Of what profession, Sir, are you?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I am an Attorney.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Pray, look at 
+this deed </dialogue><nonSpeech> <font> (the lease set out in the indictment) </font> ;</nonSpeech><dialogue>  
+did you ever see this in Mr Fox's hands?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> No, Sir, I never saw 
+it before.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not Mr Fox make some 
+acknowledgment to you about it?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> That was matter of 
+private conversation, which I don't know 
+whether I am at liberty to repeat. 
+   </dialogue><nonSpeech> <font>L. Ch. Justice.</font> </nonSpeech><dialogue> Raise your voice; I don't 
+hear you.
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> Mr Fox asked me if 
+I knew any thing about the lease of 
+Rusley-Park.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Where was this 
+conversation?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I attended Mr Fox at 
+Holland-House. -- He told me Ayliffe had 
+grossly imposed upon him, for he had 
+made the rent 5 l. instead of thirty-five 
+pounds, and seem to intimate, that he 
+looked upon it as a fraud and not a forgery.
+<pagebreak id="23C2" /> 
+He said, he had first intended it should 
+be at 40 l. a year; but that being desirous 
+Mr Ayliffe should have it upon beneficial 
+terms, he had ordered him to make it at 
+35 l. That was nearly the sense of what 
+passed at that time.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> What time was 
+this?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> About the latter end 
+of July, to the best of my remembrance.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Was it before 
+or after Mr Clewer had sent Mr Fox the 
+lease that was in mortgage to him?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I believe it was after 
+that. -- I think, Mr Fox told me he had 
+seen it; -- but I will not be positive to 
+this; -- I am sure he said it was 5 l. 
+instead of 35 l.
+   </dialogue><nonSpeech> <font>Counsel for the Prisoner.</font> </nonSpeech><dialogue> Did Mr Fox 
+appear to speak of it as an imposition 
+upon him, or as a forgery?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I believe that Mr Fox 
+at this time thought that he had been 
+imposed upon, and made to execute a 
+lease at 5 l. instead of one at 35 l. as he 
+had agreed to.
+   </dialogue><nonSpeech> <font>Lord Chief Justice, to the counsel for the 
+prisoner.</font> </nonSpeech><dialogue> If you build upon Mr Fox's 
+opinion or belief concerning this matter, 
+you may call him as a witness, and have 
+the benefit of his evidence, although they 
+are not at liberty to call him on the part 
+of the Crown.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Mr Fox, my Lord, 
+is near at hand, and will be forth-coming 
+if they desire to examine him.
+   </dialogue><nonSpeech> <font>Counsel for the Prisoner.</font> </nonSpeech><dialogue> My Lord, we 
+don't desire it?
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Mr Bonnell, are 
+you not sure that Mr Fox told you he had 
+seen the lease in mortgage to Clewer?
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I think he told me so, 
+but am not certain.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Did he say 
+nothing to you about the counterpart?
+<pagebreak id="24C1" />   
+   </dialogue><nonSpeech> <font>Thomas Bonnell.</font> </nonSpeech><dialogue> I think he mentioned 
+it; but to be particular as to what he said 
+I cannot.
+   </dialogue><nonSpeech> <font>Counsel for the Prisoner.</font> </nonSpeech><dialogue> My Lord, we 
+beg leave to call some witnesses to the 
+prisoner's character.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> That seems 
+unnecessary; for the prisoner's character 
+before this particular fact has not been 
+impeached; on the contrary, it appears that 
+Mr Fox himself, 'till lately, had so good 
+an opinion of him, as to employ him to 
+be his steward. But proceed in your own 
+way.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call Francis 
+Scull. </dialogue><nonSpeech> <font> (Who appeared and was sworn.) </font> </nonSpeech><dialogue> Do 
+you know Mr Ayliffe?
+   </dialogue><nonSpeech> <font>Francis Scull.</font> </nonSpeech><dialogue> Yes, I have known him 
+a great many years, ever since he lived in 
+the parish of Lineham.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> What was his 
+general character?
+   </dialogue><nonSpeech> <font>Francis Scull.</font> </nonSpeech><dialogue> I generally looked upon 
+him as an honest man. I scarcely ever 
+heard any thing to his discredit. -- He 
+was formerly steward to Madam Horner; 
+and when she died he continued steward to 
+Mr Fox.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Did he continue 
+Mrs Horner's steward to the time of her 
+death? 
+   </dialogue><nonSpeech> <font>Francis Scull.</font> </nonSpeech><dialogue> I don't know whether he 
+did or not. -- But I have one particular 
+reason to look upon him as a very honest 
+man. -- He had, it seems, turned away a 
+servant of Mr Fox's, upon which I 
+applied to him to desire he would employ 
+him again; -- No, says he, I'll not employ 
+a servant, or any one, that is not a friend 
+to Mr Fox's interest, my honour will not 
+let me do it: for Mr Fox's interest is 
+concerned, as several persons have made 
+complaints of him to me.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call James 
+<pagebreak id="24C2" />
+Doleman. </dialogue><nonSpeech> <font> (Who appeared and was sworn) </font> </nonSpeech><dialogue> 
+Do you know Mr Ayliffe?
+   </dialogue><nonSpeech> <font>James Doleman.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> How long have 
+you known him? 
+   </dialogue><nonSpeech> <font>James Doleman.</font> </nonSpeech><dialogue> I have known him a 
+dozen or fourteen years.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> What was his 
+general character?
+   </dialogue><nonSpeech> <font>James Doleman.</font> </nonSpeech><dialogue> He bore a very good 
+character during that time; I looked upon 
+him as an honest man, and never heard to 
+the contrary in all my life.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call John Tuck.  
+</dialogue><nonSpeech> <font> (Who appeared and was sworn.) </font> </nonSpeech><dialogue> Do you 
+know Mr Ayliffe?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> Yes, I have known him 
+many years.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> What is his 
+general character?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> As to his character, as far 
+as ever I heard, he is a man of credit and 
+reputation.
+   </dialogue><nonSpeech> <font>Counsel for the Crown,</font> </nonSpeech><dialogue> Where do you 
+live?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> At Chippenham in the 
+county of Wilts.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> When you speak 
+of credit, What do you mean?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> That he is a very honest 
+man.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Don't you know 
+that he has of late been in very distressed 
+circumstances?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> I don't know it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Mr Tuck, you heard what 
+Mr Lodge has sworn against me; did he 
+not give me a very good character but a 
+week ago?
+   </dialogue><nonSpeech> <font>John Tuck.</font> </nonSpeech><dialogue> I have heard him give 
+you a good character.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Call Mr Bradley. 
+</dialogue><nonSpeech> <font> (Who appeared and was sworn.) </font> </nonSpeech><dialogue> How long 
+have you known Mr Ayliffe?
+<pagebreak id="25C1" />   
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I have known him a 
+year and an half, or thereabouts?
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Was you not one 
+of the subscribing witnesses to the mortgage 
+executed by the prisoner to Mr Clewer?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> Yes: I was.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Then look upon 
+the back of that deed, </dialogue><nonSpeech> <font> (the mortgage) </font> </nonSpeech><dialogue> and 
+tell us whether your name there is of your 
+hand-writing?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I will not disown it; 
+that is my hand-writing.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Then I suppose 
+you was present, and saw the prisoner 
+execute it.
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I certainly did?
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Do you 
+remember any request made at that time to keep 
+this mortgage a secret? 
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Was it not that 
+an oath of secrecy should be taken? 
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I cannot say that. --
+I only know that it was desired the 
+mortgage might be kept a secret.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Who was it that 
+desired it?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I believe it was Mr 
+Ayliffe's Attorney.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Did not Mr 
+Ayliffe himself desire it?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I don't remember that 
+I heard him say any thing about it.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Was Mr Ayliffe 
+present when his Attorney desired it?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I believe he was.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Tell us what was 
+said about it?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> It was said Mr Fox 
+would be very angry, if he knew that 
+Rusley-Park was sold or mortgaged; and 
+that therefore Mr Ayliffe was desirous it 
+should not be talked of.
+<pagebreak id="25C2" />
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> Who said all 
+this? Ayliffe, or his Attorney?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I really cannot swear 
+which of them said it; I only know 
+that this was spoke at the time the 
+mortgage was executed to Clewer.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> What is the 
+Attorney's name?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> Mr Priddle was the 
+Attorney; I think it was he repeated 
+those words; but I cannot recollect 
+positively who it was.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was it said in my hearing?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> I cannot say you 
+heard it. -- You was there when this deed 
+was signed.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> Is it an 
+unusual thing for a mortgager to desire 
+that his being under a necessity to 
+incumber his estate should be kept a secret, 
+and his circumstances not be exposed?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> No: I conceive that 
+it is often desired.
+   </dialogue><nonSpeech> <font>Counsel for the prisoner.</font> </nonSpeech><dialogue> If a mortgage 
+is paid off at the time, is there any 
+occasion to disclose it at all?
+   </dialogue><nonSpeech> <font>William Bradley.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Willlam Bradley.</font> </comment> 
+I should think there 
+can be none.
+   </dialogue><nonSpeech> <font>Mr Aston.</font> </nonSpeech><dialogue> My Lord, we think it 
+unnecessary to reply, or make any 
+observations upon the evidence given for the 
+prisoner.
+
+   </dialogue><nonSpeech> <font>My Lord Chief Justice then, in a very
+full, clear, and impartial manner, summed 
+up the evidence on both sides. After which 
+the Jury withdrew for about six minutes, 
+and being returned into Court, were called 
+over.</font> </nonSpeech>
+   <nonSpeech> <font>Clerk of the Arraigns.</font> </nonSpeech><dialogue> Gentlemen of 
+the Jury, Are you all agreed on your 
+verdict?
+<pagebreak id="26C1" />
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Clerk of the Arraigns.</font> </nonSpeech><dialogue> Who shall say 
+for you?
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> Our foreman.
+   </dialogue><nonSpeech> <font>Clerk of the Arraigns.</font> </nonSpeech><dialogue> John Ayliffe, 
+Hold up your hand </dialogue><nonSpeech> <font> (which he did) </font> .</nonSpeech><dialogue> 
+Gentlemen of the Jury, look upon the 
+prisoner; how say you, is he guilty of 
+the felony and forgery whereof he stands 
+indicted, or not guilty?
+   </dialogue><nonSpeech> <font>Foreman.</font> </nonSpeech><dialogue> Guilty.
+   </dialogue><nonSpeech> <font>Clerk of the Arraigns.</font> </nonSpeech><dialogue> What goods or 
+chattels, lands or tenements, had he at 
+the time of the same felony and forgery 
+committed, or at any time since to your 
+knowledge?
+   </dialogue><nonSpeech> <font>Foreman.</font> </nonSpeech><dialogue> None.
+   </dialogue><nonSpeech> <font>Clerk of the Arraigns.</font> </nonSpeech><dialogue> Hearken to your 
+verdict as the Court has recorded it: 
+You say that John Ayliffe is guilty of 
+the felony and forgery whereof he stands 
+<pagebreak id="26C2" />
+indicted, and that he had no goods or 
+chattels, lands or tenements, at the time 
+of the same felony or forgery committed, 
+or at any time since, to your knowledge, 
+and so say you all.
+   </dialogue><nonSpeech> <font>Counsel for the Crown.</font> </nonSpeech><dialogue> My Lord, there 
+is another indictment found by the Grand 
+Jury of the county of Middlesex, against 
+the prisoner, for the forging and 
+publishing another duplicate of the lease of 
+Rusley; upon which we are ready to 
+proceed to tryal, but that we think it will 
+be taking up the time of the Court 
+unnecessarily, as the prisoner is already 
+capitally convicted. And, indeed, as a 
+second conviction could only serve by way 
+of aggravation, we do not desire to throw 
+any difficulties in the way to mercy.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> It certainly is unnecessary.
+   </dialogue><nonSpeech>Upon which the prisonner was 
+remanded to Newgate.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

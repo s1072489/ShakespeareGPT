@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3WCROMW">
+  <dialogueHeader>
+
+    <filename>D3WCROMW</filename>
+
+    <identifier>3 WITNESS D D3WCROMW</identifier>
+
+    <title>INHUMANE CONSPIRACY</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1654</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A TRUE ACCOUNT OF THE LATE BLOODY AND INHUMANE CONSPIRACY 
+AGAINST HIS HIGHNESS THE LORD PROTECTOR, AND THIS COMMONWEALTH; FOR
+THE SUBVERSION OF THE PRESENT GOVERNMENT THEREOF, AND AN INVOLVING
+THIS NATION IN BLOOD. MANIFESTED BY THE EXAMINATIONS AND CONFESSIONS
+UPON OATH, OF SOME OF THE PRINCIPAL CONSPIRATORS THEMSELVES; AS ALSO
+BY THE DEPOSITIONS OF SEVERAL WITNESSES WHICH WERE TAKEN CONCERNING
+THE SAME.
+PUBLISHED BY SPECIAL COMMAND.
+LONDON, PRINTED BY THOMAS NEWCOMB, DWELLING IN THAMESTREET 
+OVER-AGAINST BAYNARDS CASTLE, 
+ANNO DOM. 1654.
+PP. 25.1 - 84.22
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">ERRONEOUS PAGE NUMBERS IN SOURCE TEXT: 47 AND 48 USED IN PLACE OF 
+36 AND 37.</comment>
+
+<pagebreak id="25" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> JOHN MAN, <font>TAKEN THE 29TH. OF
+MAY</font> , 1654. <font>UPON OATH. SAITH</font> ,</head> 
+
+   <nonSpeech>That upon Thursday was sevennight, he being with
+one <font>William Dodd</font> an apprentice, in his Masters shop
+<comment type="compiler">SOURCE TEXT: shop THE FIRST INSTEAD OF THE LAST WORD OF THE LINE</comment>
+without Ludgate, and near thereunto, whether he
+went on purpose to call the said <font>Dedd</font> to goe along with
+him to <font>Bowe</font> to a Faire: And asking him whether he would
+goe with him, he said, No, for that he had earnest business
+in the afternoon; And this Examinate demanding of him
+what that was, he asked him whether he heard no Newes;
+The Examinate told him No: Who then said, That there
+was very great news, which he would disclose to him this
+Examinate, if he would keep it secret; and that they would
+be made Men if it went forward; which this Examinate
+having promised to doe, the said <font>Dodd</font> acquainted him, That
+<font>Francis Fox</font> , an Apprentice in Pater-Noster-rowe at the
+Globe, and one <font>Sommerset Fox</font> , with severall others, were
+to have a Meeting at the Bell-Savage on Ludgate-Hill 
+towards Fleet-bridge, about the business: And the
+Examinate asking him what business, after making some further
+difficulty about the revealing of it: He said, <font>That they had
+resolved to Murther the Protector and his Councill, and
+then to proclaim</font> Charls Stuart <font>King of England</font> . And this
+Examinate then asking him, What strength they had to
+doe it with; He answered, That many thousands had
+already engaged in it, and that there were Meetings upon
+severall parts of this Town, and that the Outparts of the
+City, and Temple-Bar were made sure; and that nothing
+more remained but to effect the same in the City: And
+for the Guards, they intended to seize upon the Forces in
+the Mewes, Tower, Whitehall, and St James, all at once;
+and said, That some of the Protectors Guard were false to
+him, and that most of the Nobility of England was engaged
+in it, and that there was a Prisoner came out of the Tower
+every night, and went in again at his pleasure, and spoke as
+<pagebreak id="26" />
+if some Souldiers in the Tower would joyn with them:
+And so the said <font>Dodd</font> invited the Examinate to meet them
+at the place aforesaid, which he told them, He would, and
+had before promised him to engage in this business.</nonSpeech>
+   <nonSpeech>The Examinate further saith, That he did not meet
+with them that night: But meeting with the said <font>Dodd</font>
+upon Saturday after, he told the Examinate, That they met
+again upon the Sabbath day at the place aforesaid, where
+the Examinate met them, and there was present <font>Dodd</font> ,
+<font>Sommerset Fox</font> , and three others, one whereof they called
+<font>Gerard</font> ; but they not being suffer'd to goe in there, becaus
+it was the Lords day, they went up the street together, and
+told the Examinate, That they heard the <font>Gerards</font> were
+apprehended, but said, They were not concerned in that
+business, however they would desist, untill they saw how the
+<font>Gerards</font> came off: and then said, If the business goe on,
+they would rather then not do it, set the City on fire to
+quell the Trained Bands, and then march for Scotland.</nonSpeech>
+   <nonSpeech>This Examinate further saith, That he going through
+Pater-Noster-Rowe, <font>Francis Fox</font> called him to him, and
+asked him if there was no news; and the Examinate
+answering,</nonSpeech><dialogue> No; </dialogue><nonSpeech>he said,</nonSpeech><dialogue> Have you not heard that my Cousin
+<font>Gerard</font> was put upon the Rack in the Tower; </dialogue><nonSpeech>he said,</nonSpeech><dialogue> No:
+</dialogue><nonSpeech> <font>Fox</font> replyed, That there was none of their Company yet
+discovered.</nonSpeech>
+   <nonSpeech>He further saith, That the persons told him, that the
+Countreys would joyn with them, and that the Forces here
+were now very few, there being now but 5000 in England;
+and that they should be assisted out of France and Holland,
+and that one <font>Gerard</font> was lately come out of France.</nonSpeech>
+
+<nonSpeech> <font>Jo: Man.</font> </nonSpeech>
+<pagebreak id="27" />
+ <head> <font>THE EXAMINATION OF</font> JOHN JONES <font>APOTHECARY, TAKEN BY US</font>
+EDWARD WHALEY <font>AND</font> HENRY MIDDLETON, <font>ESQUIRES;
+THE 21 OF MAY</font> , 1654.</head> 
+
+   <nonSpeech>This Examinate saith, That about <font>Thursday</font> or
+<font>Friday</font> Sevennight, Dr. <font>Hynton</font> told him, that there
+was a plot against the Lord Protector; upon which
+this Examinate saith, That he gave such an Answer to the
+Doctor, as that he did not seem to dislike it, probably he
+might say,</nonSpeech><dialogue> very well; </dialogue><nonSpeech>or, that it might put an end to the
+business, but doth not perfectly remember the particular
+words.</nonSpeech>
+   <nonSpeech>Upon <font>Saturday</font> morning following, this Examinate met
+with one <font>Tudor</font> a Chyrurgion, at an Ale-house near to his
+own House; and after they were gone from thence, this
+Examinate asked <font>Tudor</font> , what news, saying, that there was
+a talk up and down the Town of a design against the Lord
+Protector (which news he saith he had from the Doctor)
+<font>Tuder</font> answered, There was such a thing, that <font>Giles Paulet</font>
+had enformed the Lord Protector, that <font>Jack Gerard</font> would
+cut the Lord Protectors throat where ever he met him.</nonSpeech>
+   <nonSpeech>This Examinate saith, that as he remembers, he spake
+words to this purpose, That he thought none would be so
+valiant as to do it. Whereupon <font>Tuder</font> answered, If it were
+come to that, he believed he should go as far as any. Upon
+which this Examinate did acquaint the Doctor what <font>Tuder</font>
+had said. Whereupon the Doctor and this Examinate
+believed that <font>Tuder</font> might be the man that might do it.</nonSpeech>
+   <nonSpeech>Upon the foresaid <font>Saturday</font> , and upon the same
+discourses, when they were speaking of the things aforesaid,
+this Examinate told <font>Tuder</font> , he heard <font>Philips</font> was come to
+Town. <font>Tuder</font> cryed,</nonSpeech><dialogue> O Lord, where is he, I have great
+business with him. </dialogue><nonSpeech>This Examinate replyed, he could not
+tell, but he would ask the Doctor, if he knew; and would
+inform him when he next met him.</nonSpeech>
+   <nonSpeech>This Examinate further saith, That upon <font>Munday</font>
+<pagebreak id="28" />
+morning he met <font>Tuder</font> accidentally in <font>Castle-yard</font> near        
+<font>Chancery
+Lane</font> ; and this Examinate desired him that he would go
+along with him to see one of his Patients, which he did;
+and it being an Inn where the Patient lay, they went into a
+room, and called for a cup of bear. This Examinate, as
+he best remembers, asked <font>Tuder</font> what became of the
+business? Who answered, That it might easily have been done
+on <font>saturday</font> , or words near to that purpose; for as he was
+coming along the Mill-bank he saw the Lord Protector in
+a pair of Oars; with little company, and admired that a
+Person of so great concernment should go so slenderly
+guarded.</nonSpeech>
+   <nonSpeech>This Examinate further saith, On <font>Tuesday</font> morning
+following, <font>Tuder</font> came to him, and askt him whether he had
+learnt of the Doctor where <font>Philips</font> lay. Who answered,
+he had askt the Doctor, but he would not tell.</nonSpeech>
+   <nonSpeech>This Examinate farther saith, that about <font>Thursday</font> or
+<font>Friday</font> before his discourse with <font>Tuder</font> . Doctor <font>Hynton</font>
+told this Examinate, speaking of the foresaid Design, that
+Col: <font>Philips</font> was in Town. He asked him where he was,
+the Doctor swore, By God he could not tell.</nonSpeech>
+   <nonSpeech>This Examinate further saith, That on <font>Saturday</font>
+sevennight in the afternoon he met with one Capt. <font>Morley</font> and
+Mr. <font>Hill</font> , whose wife is a Laundress to her Highness, they
+went and drunk together; and speaking of the affairs of
+<font>Scotland</font> , <font>Morley</font> said, it was the opinion of <font>Massey</font> and
+<font>Bunce</font> , when he was beyond the sea, that the taking off
+the Lord Protector would be more to the business then the
+killing of many thousands of men.</nonSpeech>
+   <nonSpeech>This Examinate further saith, That on <font>Thursday</font> night
+coming along the street about <font>Covent-Garden</font> , he was
+telling Mr. <font>Hill</font> of the business, but Mr. <font>Hill</font> seemed to
+slight it.</nonSpeech>
+   <nonSpeech>This Examinate further saith, That meeting Com: Gen.
+<font>Jay</font> , he spake to him as to Mr. <font>Hill</font> . Who answered, if he
+should acquaint the Lord Protector with it, he should have
+a reward, but he thought none durst do it, without it were
+the Woodman, meaning <font>Brown</font> .</nonSpeech>
+<pagebreak id="29" />
+   <nonSpeech>This Examinate further saith, That he likewise spoke to
+one <font>Palmer</font> a Taylor living about Charing-cross, the same
+things as he did to Mr <font>Hill</font> , but he made light of it, and
+said it was impossible. And this Examinate doth protest
+in the presence of God, to his best remembrance, he
+knoweth nothing more; but if any thing more shall occur to his
+memory, he shall declare it.</nonSpeech>
+<nonSpeech> <font>JOHN JONES.</font> </nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> SAMUEL WILDE <font>OF PUDDING-LANE,
+LONDON, MAY 29.</font> 1654.</head> 
+
+   <nonSpeech>Vpon Thursday was sevennight this Informant was at
+<font>Bowe-Fair</font> <comment type="compiler">NO ITALICS IN SOURCE TEXT FOR Fair</comment> , where he met  
+with one Mr <font>John Man</font> a
+Scrivener at Turners-Hall in <font>Philpot-lane</font> :</nonSpeech><dialogue> He askt me how
+I did, and what news, and if I heard nothing. I answered
+him, No, not I, but what concerned my Lord Mayor, who
+was abused in the Streets. He said, Did I hear nothing
+else? I told him, No: He said to me, He could tell me
+something that was very sad; <font>Of a wicked Plot which was
+against my Lord Protector and his Councill</font> , and all that did
+adhere to him, <font>with an intention to murther my Lord and
+his Council</font> . I asked him, Where he heard that news; He
+answered, That an acquaintance of his did relate to him
+this news that he told me: and moreover said, That if he
+would comply with them in their Designe, then he should
+know the full of the business; for they had met once
+together at the Bell-Savage in Fleetstreet, and that they were
+to meet again the next Sabbath-day; and if he would then
+come into Holborn, he should hear the full of their
+proceedings. Mr <font>Man</font> met five of the Company in the street,
+and demanded of them where they would goe; They
+looking about them, being timerous and fearfull, said, They
+could get in at no place to be entertained, by reason of my
+Lord Mayors proclamation for keeping the Sabbath, which
+was so strict, they could not be entertained any where, and
+therefore put it off till the Tuesday after, which was the
+<pagebreak id="30" />
+Thanksgiving day. But in the interim, they hearing that
+some were taken, they were fearfull who they should be:
+But yet they said they were none of their Company,
+notwithstanding they would desist awhile.
+   Afterwards Mr <font>Man</font> met with some of that Company,
+and askt of them what news, and they answered, None
+but only this, That those that were taken, pleaded ignorance
+for what was demanded of them; But for their parts, they
+were none of their Company, and they feared but one, who
+was <font>Francis Fox</font> , living at the Globe in Pater-Noster-row,
+because he was timerous and fearfull, and he would disclose
+all if he should be taken. He is Kinsman to one Col: <font>Fox</font> ,
+as also to Col: <font>John Gerard</font> who is in the Tower.
+   This day Mr <font>Man</font> going through Pater-Noster-Rowe,
+one <font>Fox</font> called him to him, and askt him if he heard no
+news; Mr <font>Man</font> made slight of it, and answered, None. <font>Fox</font>
+said, Have you not heard my Cousin <font>Gerard</font> was put upon a
+Rack in the Tower; He said, No, he heard no such matter.
+<font>Fox</font> replyed, That there was none of their Company yet
+discovered: by which it appears that the said <font>Fox</font> was the
+same mentioned formerly by the Hosier.
+   </dialogue><nonSpeech>The Informer further saith, That Mr <font>Man</font> further
+informed him, that the Hosier acquainted him, That most of
+the Nobility of the Land were in this Plot, and some of his
+Highness Guard: And further said, That they had a fit
+opportunity to take their advantage by reason the Guards
+were weakned, and the Souldiery sent away for <font>Scotland</font> ,
+and more were to be sent for <font>Holland</font> and <font>France</font> , and they
+had a List of the strength of the Army: also, that they had
+or were to have assistance out of <font>France</font> . He further said,
+That <font>Dodd</font> the Hosier told him, that one <font>Gerard</font> was lately
+come out of <font>France</font> .</nonSpeech>
+
+<nonSpeech> <font>SAMUEL WILDE.</font> </nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="36" />
+<comment type="compiler">ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 47</comment>
+</dialogue> <head> <font>THE EXAMINATION OF</font> THOMAS BARNES.</head> 
+
+   <nonSpeech> <font>Thomas Barnes</font> saith and confesseth, that Captain,
+<font>Wharton</font> said he would give him Horse and Armes
+and that he made <font>Wharton</font> acquainted with it &amp; he further
+saith that <font>Wharton</font> did tell him that he would furnish his
+Friends with Horse and Armes, and that <font>Wharton</font> did bid
+him make what Friends he could for Armes, and that he
+should have notice an houre or two before hand what was
+to be done, and that he was then to get to his Horse and
+Armes.</nonSpeech>
+   <nonSpeech>That this day fortnight he coming by <font>Whartons</font> house
+in Black Fryers, where he found <font>Wharton</font> and his Brother,
+who calling him to them, his Brother said to <font>Wharton</font> ,</nonSpeech><dialogue>
+here is one that I may trust my Life in his hand: </dialogue><nonSpeech>then
+<pagebreak id="37" />
+<comment type="compiler">ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 48</comment>
+<font>Wharton</font> told the Examinate that he should come the
+next morning, and he would tell him more. And coming
+according to appointment, <font>Wharton</font> askt him whether he
+would have Horse and Armes, to which he answered, he
+would with all his heart, if he could get them,</nonSpeech><dialogue> but when
+shall we have them; </dialogue><nonSpeech>he said</nonSpeech><dialogue> we will draw up in <font>Smith-field</font> ,
+and seize all the Horse therein: </dialogue><nonSpeech>and being demanded how
+the Horse and Armes were to be employed, the
+Examinate saith that <font>Wharton</font> inform'd him, it was to seiz upon
+the Protector, in order to change the Government; but
+where or when he knoweth not: And he further saith,
+That <font>Wharton</font> put on his Belt, and said,</nonSpeech><dialogue> With this
+Belt will I Proclaim <font>Charles</font> the second in <font>London</font> ; </dialogue><nonSpeech>and
+to the end that the <font>Protector</font> his seizure might be
+accomplisht, the said <font>Wharton</font> told the Examinate, that the
+Guards were easie to be surprized, and that being done
+that he would proclaim <font>Charls</font> the second as abovesaid and
+being askt whether he had communicated these things
+to any else, he said he did not, but to one <font>George Ivery</font> ,
+who works neer the Black Swan in <font>Thames-street</font> , to
+whom he told he might have Horse and Armes, but the
+said <font>Ivery</font> absolutely denied to accept therof, or to meddle
+in such businesses. <font>THOMAS BARNES.</font> </nonSpeech>
+
+ <head> <font>THE EXAMINATION OF</font> THOMAS COLLISON, <font>TAKEN THIS
+29 OF MAY</font> , 1654.</head> 
+
+   <nonSpeech>He saith, That he came out of <font>Scotland</font> with <font>Charles
+Stuart</font> , and rid a Trooper in the Duke of
+<font>Buckingham's</font> Troop; That he came acquainted with Mr
+<font>Allanson</font> about two years since, which he hath heard
+some persons call him Colonell, but the said Mr
+<font>Allanson</font> alwayes hath denyed that he was a Colonell,
+and all that the Examinate hath heard of <font>Allanson</font> being
+in the Kings Army, was, that he was at <font>Oxford</font> when it
+was a Garrison for the King in the Earl of <font>Essex</font> his
+time.</nonSpeech>
+<pagebreak id="38" />
+   <nonSpeech>He saith, that about twelve dayes since, as he now
+remembreth, as this Examinate and one Colonell <font>Charles
+Finch</font> , who lodgeth, or did lately lodge at the Sheers and
+Ball in Bowstreet in Covent-garden, neer <font>Phenix-alley</font>
+<comment type="compiler">NO ITALICS IN SOURCE TEXT FOR alley</comment> 
+there, were coming together from <font>Westminster</font> , the said
+<font>Finch</font> told this Examinate, being then against Whitehall,</nonSpeech><dialogue>
+see here what a slender Force there is, and there is not
+above 4000, or 6000 Men in Town, and we are subdued
+here by a small strength; </dialogue><nonSpeech>or words to that purpose: And
+that they were all Cowed, though they were enough (if
+they were of one mind) to doe the business, and redeem
+themselves, and bring the King home.</nonSpeech>
+   <nonSpeech>He further saith, That he met him the said <font>Finch</font> the
+next day after in <font>Newton-street</font> <comment type="compiler">NO ITALICS IN SOURCE TEXT      
+FOR street</comment> , near the Kings-gate near
+<font>Holborn</font> , and then told him at his last speaking unto him,
+he had but imparted part of his minde, for there was a
+Designe amongst them against the Government, the
+business was ripe, and if he would joyn with them, he would
+acquaint him with it all, but this Examinate refusing to
+intermeddle therein, the said <font>Finch</font> did not acquaint him
+with any further particulars of the Design. And this
+Examinate further saith, That the next day after he was
+at the Feathers Tavern in <font>Fleetstreet</font> with Mr <font>Edw:
+Allanson</font> , and Major <font>Mason</font> a Fencer, and being there drinking
+together, this Examinate told the said <font>Allanson</font> and
+<font>Mason</font> what Colonel <font>Finch</font> had acquainted him with; and that
+thereupon both of them wisht him not to meddle with
+any such business.</nonSpeech>
+   <nonSpeech>He further saith, That while they were sitting together,
+there came into their Company one Colonell <font>Forth</font> , or
+<font>Worth</font> , whose Lodging the Examinate knoweth not, and
+also one Mr <font>Rich</font> , whose Mother lives at the Sign of the
+Black horse in the New Market, a Cooks shop, but
+knoweth not whether the said <font>Rich</font> lyeth there, nor where
+he doth Lodge. There came in also one <font>Cave</font> a Musitian,
+but saith that nothing was said of that business whilst they
+were present.</nonSpeech>
+<pagebreak id="39" />
+   <nonSpeech>And the Examinate being further askt upon what
+occasion he told Mr <font>Allanson</font> of that Design aforesaid at the
+Tavern; he saith, That it was upon Mr <font>Alansons</font>
+demanding of him, what the Reason was that Col: <font>Finch</font> did
+come after him to Mr <font>Allansons</font> lodging, the said Colonel
+<font>Finch</font> being there but a little before they went to the
+Tavern. And being further demanded whether he did
+not acquaint the said Mr <font>Allanson</font> with what <font>Finch</font> told
+him, saith, as he now remembreth, he did. He further
+saith, That if Col: <font>Finch</font> be removed from his Lodging,
+he very probably Lodgeth at Mr <font>Bowrings</font> in little
+Wood-street at <font>Westminster</font> .</nonSpeech>
+   <nonSpeech>He saith further, That one <font>Nicholas Watson</font> a Barber,
+who liveth with a Barber in <font>Chancery-lane</font> , at the first
+shop on the left hand, as you goe into <font>Chancery-lane</font> out
+of <font>Fleetstreet</font> , did discourse with the Examinate
+concerning this Plot upon Saturday morning next, but told him
+no particulars. And being further askt concerning the
+Discourse he had with <font>Finch</font> , saith, That <font>Finch</font> told him
+that they intended to seise upon the Guards at <font>Whitehall</font> ,
+and the <font>Mewes</font> , and to doe it at Noon-day, and then the
+City should rise at the same time. And that <font>Finch</font> told 
+him, That if he this Examinate would engage in the
+business, he must take an Oath of Secrecie, as all others did
+that did engage therein.</nonSpeech>
+   <nonSpeech>And further sayes, That the Barber <font>Nicholas Watson</font>
+told him, That one <font>Wharton</font> had money given him in this
+Plot; and that he himself was to have had Six pound at
+<font>Clarkenwell</font> , and that there were severall Men listed, who
+were likewise to have Money.</nonSpeech>
+
+<nonSpeech> <font>THO. COLLISON.</font> </nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="44" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> NICHOLAS WATSON <font>BARBER
+TAKEN</font> 29. MAY 1654.</head> 
+
+   <nonSpeech>Saith, That upon Sunday was sevennight there came to
+him one <font>Thomas Barnes</font> dwelling at the sign of the
+Tunn or three Tunns in <font>Thames-street</font> in
+<font>Peters-Pauls-Wharf</font> at a Chandlers shop over against the Church,  
+and
+told him that there was a designe against the Lord
+<font>Protector</font> and this present Government, and divers Gentlemen
+were engaged in it, and that three, or 4000 men were listed
+already to that purpose; that they intended to make an
+attempt upon the <font>Lord Protectors</font> person either at Dinner,
+or as he went to <font>Hampton-Court</font> , and at the same time
+would surprize the Guards at <font>Whitehall</font> , which he said
+was easy to doe, in respect they had but one Match lighted
+upon the Guard, and before they could light the rest they
+would dispatch their business there. At the same time the
+Portcullis should be shut down, and then <font>Charles</font> the
+second, meaning <font>Charles Stuart</font> should be proclaimed.
+And the Examinate asking him who should doe it, the
+said <font>Barnes</font> told him that one <font>Wharton</font> who dwelt in
+<font>Black-Fryers</font> should doe it, and for that purpose a new Sute was
+given him, and a Belt worth five or six pounds,</nonSpeech>
+<pagebreak id="45" />
+   <nonSpeech>And the said Examinate further saith That the said
+<font>Barnes</font> , did invite, and desire him to engage in this design;
+and to encourage him, told him, that he would help him
+to a Horse, and Armes, and six pounds in money. And the
+Examinate being askt what the reason was, why the said
+<font>Barnes</font> should acquaint him with this design, saith, that
+as he conceives it was because he had bin formerly in
+Armes for the late King. And being demanded of him,
+who was present at this discourse, saith, that no person else
+was present, but that the said <font>Wharton</font> was with them a little
+before, and that when the said <font>Wharton</font> went forth from 
+them, the said <font>Barnes</font> having been whispering with him,
+said to him,</nonSpeech><dialogue> I will acquaint <font>Nich:</font> </dialogue><nonSpeech> (meaning the
+Examinate) </nonSpeech><dialogue> with the business.
+
+</dialogue><nonSpeech> <font>NICHOLAS WATSON.</font> </nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="51" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> IOHN HIPPON <font>A SOULDIER, TAKEN UPON
+OATH, THE</font> 21 OF IUNE 1654. <font>BEFORE</font> WILLIAM GOFFE
+<font>ESQUIRE, IUSTICE OF THE PEACE WITHIN THE
+CITY OF</font> WESTMINSTER.</head> 
+   
+   <nonSpeech>Who saith; That the Sister of this Examinate, who
+married a Schoolmaster, whose name is <font>Francis
+Gorker</font> , being acquainted with one they call
+Doctor <font>Hudson</font> , a blind man, living in the <font>Old-Bayly</font> , did
+acquaint the said <font>Hudson</font> that she had a Brother who was
+a Recusant, and a Souldier in the Lord <font>Protectors</font> owne
+Regiment, meaning the Examinate: and the said <font>Hudson</font>
+thereupon desiring to speak with this Examinate, the
+Examinate went unto him to his lodging in the <font>Old-Baily</font>
+<pagebreak id="52" />
+with his comrade <font>Copely</font> , and being come to him, the
+said <font>Hudson</font> saluted them both, and told them, he desired
+to be better acquainted with them, saying further, That
+he had a business to acquaint them with, if they would be
+secret; which they having promised to doe, The said
+<font>Hudson</font> told them, that there was a designe or Plot, to
+seize upon the Guards in the <font>Mewes</font> , Saint <font>James</font> and
+<font>White-hall</font> , and also for to seize upon the <font>Lord
+Protector</font> , and his <font>Councill</font> ; and askt this Examinate if he
+would ingage in it, and what other he knew of the
+Army that were Cavaliers, and would engage in this
+business, and that there were 4000 in the walls of
+the City that would be for them; and said, that they
+intended to bring in the King.</nonSpeech>
+   <nonSpeech>That the said <font>Hudson</font> inquired of him how strong
+the Guards were, and told him that this Examinate
+and his Comrade should have notice when they were
+ready, and that their worke should be to get as many as
+they could, who were Souldiers together, under colour
+of drinking, and when they begun their business, they
+should likewise fall on, and cry out,</nonSpeech><dialogue> Now is your
+oportunitie. </dialogue><nonSpeech>The Examinate further saith, That the said <font>Hudson</font>
+askt him whether there was match, Powder and Bullet
+upon the Guards; and told them, that there were at the
+same time men to be brought in boats by water, to fall
+upon the backside of <font>Whitehall</font> .</nonSpeech>
+   <nonSpeech>That <font>Hudson</font> did also inquire of him, how strong
+the Regiment was, and the Examinate answering about
+1000, the said <font>Hudson</font> said, they were but a handfull
+to ours: He also askt whether the <font>Protector</font> did not
+goe abroad, and when; whereto the Examinate answered,
+That he went abroad to <font>Hampton-Court</font> upon Saturdays.</nonSpeech>
+   <nonSpeech>He further saith, That the next day after <font>Iohn Wiseman</font>
+was apprehended, the Examinate went to the said Doctor
+<font>Hudson</font> , and told him that the said <font>Iohn Wiseman</font> was
+apprehended, whereto <font>Hudson</font> clapping his hand upon
+his brest, said,</nonSpeech><dialogue> is <font>Iack Wiseman</font> taken! I am sorry for it,
+<pagebreak id="53" />
+but he will be wrackt to death before he will confesse any 
+thing.
+   </dialogue><nonSpeech>And it being demanded of him, how many times he
+was at <font>Hudsons</font> lodgings since the apprehending of
+<font>Wiseman</font> , saith, he was never there since the time aforesaid,
+nor did he see him, untill they came together upon the
+Guard yesterday, and then speaking with the said <font>Hudson</font> ,
+he bid the Examinate that he should be sure not to confesse
+any thing, without he intended to be hanged, and that this
+morning he spake to him to the same effect.</nonSpeech>
+   <nonSpeech>He further saith, That he was about 3 or 4 times with
+<font>Hudson</font> , but cannot punctually say whether the aforesaid
+particulars were all said to him at once, or at several times;
+and being askt how often <font>Copley</font> was there, saith he
+cannot tell, he believeth very often, because he told him
+so, and that <font>Copley</font> shewed himself very forward for the
+carrying on this designe.</nonSpeech>
+<nonSpeech> <font>IOHN HIPPON.</font> </nonSpeech><dialogue>
+
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="59" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> EDWARD HUDSON, <font>TAKEN THE 24 OF
+IUNE</font> 1654 <font>UPON OATH, BEFORE</font> WILLIAM GOFF <font>ESQ, IUSTICE
+OF THE PEACE IN THE CITY OF</font> WESTMINSTER. <font>WHICH AT HIS
+REQUEST WAS READ BEFORE THE HIGH COURT OF IUSTICE</font> .</head> 
+
+   <nonSpeech>Who saith, That he knows nothing further
+concerning Major <font>Henshaws</font> going for <font>France</font> , then
+he hath set down in his former <font>Examination</font> ,
+but after <font>Henshaw</font> was returned, he came to this Examinate
+and told him the Discourse he had with Prince <font>Rupert</font> ;
+which was to this effect, That he propounded to the Prince
+that he was able to destroy the Protector and his Forces
+about the City of <font>London</font> with five hundred Horse; and
+that he would be able to raise those Horse to effect it
+with: That having propounded it to the Prince, he was
+carryed to <font>Charls Stuart</font> , whom they call the King,
+and that the Examinate propounded the same thing to
+<pagebreak id="60" />
+him, and was with him twice about it; but the said
+<font>Charls Stuart</font> (as the said <font>Henshaw</font> told him) answered,
+That he thought not that Designe feasible. Secondly,
+that if it were discovered, and did fail, it would be
+dishonorable. And thirdly, he was not then ready to second
+it; but said, That Prince <font>Rupert</font> and he did agree upon
+it, and that he came over by agreement with him to
+execute it.</nonSpeech>
+   <nonSpeech>Being demanded of the Examinate, What meetings he
+had with <font>Henshaw</font> , and any other persons about this
+Design; and by what means, and in what way it should be
+executed, saith,</nonSpeech>
+   <nonSpeech>That he never spake with any persons about the said
+Design, but with the said <font>Henshaw, John Wiseman</font> , and
+<font>Peter Vowell</font> of <font>Islington</font> , Schoolmaster; and with
+<font>Hippon</font> and <font>Copley</font> two Souldiers in the Protectors own
+Regiment. That <font>Henshaw</font> did acquaint him first with it,
+and the first time that he acquainted him with it, was
+upon <font>Henshaws</font> return from <font>France</font> , which was about the
+beginning of Easter Term last; and then having 
+acquainted him with what past in <font>France</font> , as before he hath
+exprest, he told him, That he would goe about it, and
+doubted not but he should in one Fortnight get a very
+considerable body; and said, That there were many
+Cavaliers in Town, who would be ready to joyn in it; and
+for the secret carriage of it, they would never speak but
+two together, and yet should be able to communicate their
+mindes to all their friends; or words to this effect.</nonSpeech>
+   <nonSpeech>That some little time after, he came to this Examinate,
+and told him, That he had been about his business, and
+spoke with severall persons concerning it, and said, That
+some relished it very well, and others hesitated, but he
+did not doubt but to carry it on; and so he continued to
+come to the Lodgings of the Examinate, and told the
+Examinate, That they had agreed to attempt the Lord
+Protector as he went to <font>Hampton Court</font> , and there to
+seize upon his person; but afterward <font>Henshaw</font> told him,
+<pagebreak id="61" />
+That they doubted that would be a difficult work; and
+besides, the Protector might get away himself, though
+they should beat his party, and he was the chief person
+they aimed at, and therefore they were upon
+consideration of other ways; and then spake of seizing upon the
+City, and of a Force they would get there: They spake
+also of falling upon the Foot when they were mustering,
+which they thought they might doe, by getting their
+body of Horse into the form of a Regiment with Colors,
+and so go to the Protectors Foot as friends, and then at
+unawares fall upon them, and so march with Drum and
+Colours to Whitehall. And that if any of these wayes
+took, they would set up Major-Generall <font>Brown</font> in the
+head of them, because of his relation to, and influence
+upon the City; and thought they might engage him by a
+Letter from <font>Charls Stuart</font> , which they would have ready:</nonSpeech>
+   <nonSpeech>He further saith, That the said <font>Henshaw</font> did ask him
+whether he the Examinate knew of any persons that would
+engage in it; whereto the Examinate answered, That he
+knew one; who was a very sober, honest, discreet man,
+which was the said Mr <font>Peter Vowel</font> , but did not know
+whether he would engage; whereupon the said <font>Henshaw</font>
+desired he might be tryed, and accordingly, when the said
+<font>Vowell</font> came to this Examinates Lodgings, as he often did,
+the Examinate did propound it to him; who at first did
+disrelish it as a thing not feasible, but afterwards he
+speaking with <font>Henshaw</font> himself, the said <font>Vowell</font> did consent to
+be an Actor in it; and saith, That the said <font>Henshaw</font> and
+<font>Vowell</font> met at this Examinates lodgings about six times
+after this, where they and this Examinate had often debate
+about the said Design, and which way to accomplish it, and
+speaking of persons to be engaged in it; the said <font>Vowel</font> said
+he had a good friend, which he would carry <font>Henshaw</font> to, if
+he pleased, but did not then name the man; but the
+Examinate perceived afterwards that it was one Cap. <font>Billingsley</font> a
+Butcher living in <font>Smithfield</font> , &amp; <font>Henshaw</font> told the Examinat
+afterward, that they had spoken with him, &amp; that he would
+be a considerable person, and able to raise 20 Horse, and
+many Foot.</nonSpeech>
+<pagebreak id="62" />
+   <nonSpeech>And being once in discourse about the said Designe,
+<font>Vowell</font> said, That there was a Guard of Horse at
+<font>Islington</font> , which were to be seized; Major <font>Henshaw</font> asked
+How many there were of them; but the Examinate
+remembers not what Answer was made thereto: but
+<font>Henshaw</font> said, That they might be seized easily now they were
+at Grass, and Riders might be set upon them: whereupon
+<font>Vowell</font> said, that <font>Billingsley</font> would be able to provide men
+enough to take them.</nonSpeech>
+   <nonSpeech>The Examinate further saith, that he had discourse with
+the said <font>Hippon</font> and <font>Copley</font> about the said design, to the
+effect of what he hath set down in his former
+Examination. He further saith, that <font>John Wiseman</font> was
+sometimes in the Room when these matters were in discourse.</nonSpeech>
+   <nonSpeech>And further saith, that <font>Henshaw, Vowell</font> , and <font>Wiseman</font>
+being together with this Examinate in his Lodgings, after
+<font>Gerard</font> was taken;</nonSpeech><dialogue> Well </dialogue><nonSpeech> (saith <font>Henshaw</font> ) </nonSpeech><dialogue> none of my
+party is yet discovered, and the Design may yet goe on:
+Yes </dialogue><nonSpeech> (said <font>Vowell</font> ) </nonSpeech><dialogue> that it may, but the people will be much
+discouraged. </dialogue><nonSpeech>He saith also, that he heard <font>Henshaw</font> speak
+of Colonell <font>Finch</font> to be engaged in this Design.</nonSpeech>
+   <nonSpeech>That the said <font>Henshaw</font> told him, that the Duke of <font>York</font>
+would be in <font>England</font> in August with 10000 men, of
+<font>French, English, Scotch</font> , and <font>Irish</font> ; which he said was a
+great secret; and that they intended to land at <font>Rye</font> , or in
+some other place in <font>Sussex</font> . He saith, <font>Henshaw</font> did frame
+the Libell posted up after <font>Gerard</font> was taken.</nonSpeech>
+   <nonSpeech>The Examinate being Sworn, and then asked whether
+the contents of this Paper were true in substance, confessed
+that it was, according to the best of his remembrance.</nonSpeech>
+
+<nonSpeech> <font>William Goffe.</font> </nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="64" />
+</dialogue> <head> <font>THE INFORMATION OF</font> IOHN MINOR, <font>TAKEN THIS
+29 OF JUNE</font> , 1654.</head> 
+
+   <nonSpeech>Who saith, about seven or eight weeks since, he met
+with Major <font>Henshaw</font> in <font>Covent-Garden</font> , and the
+Examinate asking him where he had been so long, that he
+had not seen him; whereto <font>Henshaw</font> answered, That he
+had been in <font>France</font> ; and the Examinate thereupon asking
+him what the news there was, he said, That he had
+business to acquaint him with, but could not say any thing of
+it, untill he had an hours time to discourse of it.</nonSpeech>
+   <nonSpeech>That there was with the Examinate at that time
+when he met with the said <font>Henshaw</font> , one Mr <font>Harris</font> a
+Clothier, who lives in <font>Dorset-shire</font> <comment type="compiler">NO ITALICS IN SOURCE TEXT  
+FOR shire</comment> ; who meeting a little
+while after with one <font>Conner</font> an Irish-man, (as was told 
+the Examinate) and the said <font>Henshaw</font> ; and <font>Henshaw</font> then
+speaking what great things he would and could doe, and
+that severall Gentlemen were about Town that lay idle.</nonSpeech>
+<pagebreak id="65" />
+<nonSpeech>That the Examinate did soon after meet the said <font>Henshaw</font>
+again, which was at the house of this Examinate; where
+<font>Henshaw</font> told him, That he had been with the King, and
+spake with him about destroying the Lord Protector and
+his Councell; which was to be done by seizing the Guards
+at the <font>Mewes, St James, Whitehall</font> , the Guards at
+<font>Southwark</font> , the Horse at <font>Holborn</font> and <font>Islington</font> , and     
+also the
+Gates of <font>London</font> :</nonSpeech><dialogue> and when that is done, you shall see
+</dialogue><nonSpeech>saith he,</nonSpeech><dialogue> persons of honor appear in it. </dialogue><nonSpeech>And the
+Examinate thereupon telling him, what he had heard
+concerning his being set on work by the Protector; the said
+<font>Henshaw</font> demanded who was the Author of that Report:
+And the Examinate telling him one <font>Conner</font> , the said
+<font>Henshaw</font> replyed,</nonSpeech><dialogue> If you will goe along with me, <font>Conner</font> will
+deny his words: </dialogue><nonSpeech>But the Examinate refusing to goe, told
+the said <font>Henshaw</font> , That he believed <font>Tuder</font> the Chyrurgion
+would goe with him, which the said <font>Tuder</font> did (as the
+Examinate heard since) and that the said <font>Henshaw</font>
+challenging him with those words, and <font>Conner</font> acknowledging
+that he had heard so; <font>Henshaw</font> struck him, and
+thereupon followed a Duell between them, wherein (as the
+Examinate heard) <font>Henshaw</font> was disarmed.</nonSpeech>
+   <nonSpeech>That a while after the <comment type="compiler">SOURCE TEXT: the the</comment> Examinate met   
+with <font>Henshaw</font>
+and <font>Tuder</font> , in the old Palace-yard, and being there
+together, and speaking of the design, <font>Henshaw</font> said, he had
+sent one to <font>Jack Gerard</font> meaning, Major <font>John Gerard</font> , and
+hoped that he would understand what he meant: And 
+the Examinate thereupon asking if <font>John Gerard</font> knew of
+it; the said <font>Henshaw</font> said he did, and that he could give
+him satisfaction in it.</nonSpeech>
+   <nonSpeech>That the same day, the Examinate and <font>Tuder</font> went to
+<font>John Gerards</font> lodgings by <font>Essex-house</font> <comment type="compiler">NO ITALICS IN SOURCE  
+TEXT FOR house</comment> , and finding him
+within, <font>Tuder</font> spake with him about the Design aforesaid;
+whereupon the Examinate askt <font>Gerard</font> what he knew of
+it: to which <font>Gerard</font> said, that he knew no more then what
+he had from <font>Henshaw</font> .</nonSpeech>
+   <nonSpeech>That within two or three days after, <font>Henshaw, John</font>
+<pagebreak id="66" />
+<font>Gerard</font> , and <font>John Wiseman</font> came to the house of the
+Examinate: And there being discoursing together of the
+said Design, <font>Henshaw</font> said in the presence of <font>Gerard</font> , That
+the business was in a great forwardness, and that he had
+brought Major <font>John Gerard</font> to speak about it.</nonSpeech>
+   <nonSpeech>That in their discourse, <font>Gerard</font> said, That he did very
+much doubt that <font>Henshaw</font> could not perform what he
+spake of: to which <font>Henshaw</font> said, That if they would meet
+him in <font>London</font> , they should be satisfied; and so appointed
+to meet there the next day, and in order thereto, to meet
+in the Palace-yard, whether the Examinate came, but met 
+there only <font>John Wiseman</font> , who told him, That <font>Gerard</font> and
+<font>Henshaw</font> were gone into <font>London</font> , and would send to him
+afterwards. And further saith, That he never saw <font>John
+Gerard</font> afterwards.</nonSpeech>
+
+<nonSpeech> <font>JOHN MINORS:</font> </nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITONS OMITTED.</comment>
+<pagebreak id="70" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> SOMERSET FOX, <font>TAKEN THE 19 DAY OF
+IUNE</font> , 1654. <font>BEFORE</font> JOHN BARKSTEAD <font>ESQ; LIEUTENANT
+OF THE TOWER OF</font> LONDON, <font>AND</font> WILLIAM
+GOFFE <font>ESQUIRE, IUSTICES OF THE PEACE
+FOR WESTMINSTER</font> .</head> 
+
+   <nonSpeech>Saith, That he did acquaint <font>Francis Fox, William Dodd</font> ,
+and <font>Robert Devereux</font> with the Design of <font>falling
+upon the Lord Protector</font> , and of seizing <font>upon the Guards</font> , at
+the <font>Mewes, St Iames</font> , and <font>Whitehall</font> , and that he had the
+knowledge of it from <font>Charls Gerard</font> , brother to Sir
+<pagebreak id="71" />
+<font>Gilbert Gerard</font> , now prisoner in the Tower, who told it to him
+upon a Thursday morning in Whitson-week in
+Essex-house, which was in the manner following: The said
+<font>Gerard</font> asked him if he had any Acquaintance or Kindred
+in the City: whereunto the Examinate answering, that
+he had: <font>Gerard</font> demanded if they would be true and
+honest: whereto the Examinate said, he thought they would:
+Whereupon <font>Gerard</font> said,</nonSpeech><dialogue> We at this end of the Town <font>have
+a Design</font> , which <font>I will acquaint you with</font> , if you will
+<font>promise Secrecie</font> : </dialogue><nonSpeech>which the Examinate having done, <font>Gerard</font>
+said, the Design is to <font>fall upon the Protector</font> , and the
+<font>Army here in London</font> , which they <font>had Horse enough to doe;
+with 300 horse</font> they would fall upon the Protector as hee
+went to <font>Hampton-Court</font> ; and they, and other parties to
+seize upon the <font>Guards at Whitehall</font> , the <font>Mewes</font> and <font>Saint
+Iames</font> : That they wanted only some body in the City:
+for procuring whereof, he wisht the Examinate would use
+his Interest and if that could be procured, they should
+carry their business: And the Examinate saying, he thought
+he could engage some; the said <font>Gerard</font> wisht him to
+speak with them, and to bring them unto him: and
+accordingly the Examinate spake with the persons aforesaid,
+and also <font>Thomas Saunders</font> , and brought them to meet with
+<font>Gerard</font> at the <font>Bell-Savage</font> upon <font>Ludgatehill</font> ; where the
+said <font>Gerard</font> did meet them. There were also at those
+Meetings, one Captain <font>Mildmay</font> , and another Gentleman
+with short white hair, whose name he knows not. And
+the said <font>Gerard</font> at the meeting, bid him be sure to be ready
+at 24 houres warning, when he should send to him.</nonSpeech>
+   <nonSpeech>And the Examinate being askt, whether <font>Charls Gerard</font>
+did not acquaint him that <font>Iohn Gerard</font> was engaged in
+this business; saith, he did not: But saith, that he did ask
+him the question, but the said <font>Charls</font> would give him no
+answer thereto.</nonSpeech>
+   <nonSpeech>He saith, that they had but two Meetings afterwards,
+one was upon the Friday after, and the other upon the
+Sunday, the later whereof was in the street; where
+<pagebreak id="72" />
+<font>Gerard</font> told them, that his two Brothers were apprehended
+upon suspition of the Plot; and that the Plot was
+discovered and broken.</nonSpeech>
+
+<nonSpeech> <font>SOMMERSET FOXE.</font> </nonSpeech>
+
+<nonSpeech> <font>John Barkstead.
+William Goff.</font> </nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="75" />
+</dialogue> <head> <font>THE EXAMINATION OF</font> CHARLS GERARD, <font>TAKEN UPON OATH THE 19
+DAY OF IUNE</font> , 1654. <font>BEFORE</font> IO: BARKSTEAD <font>ESQ; LIEUTENANT
+OF THE TOWER OF</font> LONDON, <font>AND</font> WILLIAM
+GOFFE <font>ESQUIRE, IUSTICES OF THE PEACE
+FOR WESTMINSTER</font> .</head> 
+
+   <nonSpeech>Saith, that Col. <font>Charls Finch</font> , and one Col. <font>Dean</font>
+walking with the Examinate in <font>Covent-garden</font> walks, about
+a week before <font>Whitsontide</font> , informed the Examinate that
+there was a Design laid in <font>France</font> , and that one Major
+<font>Henshaw</font> was come over from the Court at <font>Paris</font> , to
+prosecute and manage the same; and that the Design was to
+have faln upon the <font>Guards in Whitehall</font> and elswhere, and
+<font>to kill the Protector</font> , and then to secure the City of 
+<font>London</font> , and to compell the Lord Mayor to proclaim <font>Charls
+the second King</font> ; and in order thereunto, that the said
+Major <font>Henshaw</font> had <font>listed</font> 700 <font>men</font> , and <font>Col. Dean had   
+listed</font>
+200, and two other Gentlemen in <font>Southwark</font> had listed
+men also to the same purpose; the name of one of the
+Gentlemen was <font>Thomas Maerhood</font> , the other name the said
+Colonel concealed from the Examinate. And the said Col.
+<font>Finch</font> further informed the Examinate, that the said Major
+<font>Henshaw</font> had a great party in the City to be ready, and to
+be up in Arms at 24 hours warning. After which relation 
+he desired the Examinate to engage as many persons as he
+could, which the Examinate promised to do; and in
+pursuance thereof had a meeting at the <font>Bell-Savage</font> on
+<font>Ludgate-hill</font> with <font>Somerset Fox, Francis Fox, William Dodd</font> ,
+and others.</nonSpeech>
+   <nonSpeech>And he further saith, That about Friday before
+Whitsontide, the Examinate came into Mr <font>Iones</font> his house in
+<font>Rosestreet</font> , within 2 dores of the red Rose, where he found
+Col. <font>Finch</font> , Major <font>Henshaw</font> , and his brother <font>John Gerard</font> ,
+who were <font>discoursing of listing of Men for the said Designe</font> ,
+at his coming in; and the said Major <font>Henshaw</font> (having
+Paper and Ink before them) was saying, That he had Listed
+divers;</nonSpeech><dialogue> and you </dialogue><nonSpeech> (speaking to <font>Finch</font> ) </nonSpeech><dialogue> have listed 700 men,
+and Col. <font>Dean</font> hath listed 200 men.
+<pagebreak id="76" />
+   </dialogue><nonSpeech>And he further saith, that upon his pressing Colonell
+<font>Finch</font> to name persons to the Examinate, who were
+engaged in the said Design: There was named to him one Sir
+<font>Francis Vincent</font> , who lives about <font>Guilford</font> , and (as he
+now remembers, but cannot certainly say) was named by
+the said Colonell <font>Finch</font> : And also, that <font>Jones</font> the
+Apothecary was the said Sir <font>Francis Vincents</font> confederate in
+the said Design, to the best remembrance of this
+Examinate.</nonSpeech>
+<nonSpeech> <font>CHARLS GERARD.</font> </nonSpeech>
+
+<nonSpeech> <font>John Barkstead.
+William Goff.</font> </nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="81" />
+</dialogue> <head> <font>THE FURTHER EXAMINATION OF</font> IOHN WISEMAN, <font>TAKEN UPON
+OATH THE NINETEENTH OF JUNE</font> , 1654. <font>BEFORE</font> IOHN
+BARKSTEAD <font>ESQ; LIEUTENANT OF THE TOWER OF</font> LONDON, <font>AND</font>
+WILLIAM GOFF <font>ESQ JUSTICES OF THE PEACE FOR THE CITY OF
+WESTMINSTER</font> .</head> 
+
+   <nonSpeech>Saith, That about the beginning of <font>May</font> , or later end of
+<font>Aprill</font> last, he was at the house of one <font>Dayle</font> an
+Innekeeper in <font>Leather-lane</font> , in company with his brother
+<font>Henshaw</font> , and one <font>Peter Vowell</font> the Schoolmaster of           
+<font>Islington</font> ,
+and <font>Tuder</font> a Chyrurgian; and that whilst they were there,
+the said <font>Henshaw, Vowell</font> , and <font>Dayle</font> the Innkeeper went
+out of the Room into the Garden, and had conference
+there together a quarter of an hour, and then came again
+into the Room: whereupon <font>Vowell</font> went away, and the
+rest sate down together. And this Examinate then asking
+<pagebreak id="82" />
+<font>Henshaw</font> who that other man was, he said, it was <font>Peter
+Vowell</font> a Schoolmaster of <font>Islington</font> , who had directed him
+to <font>Dayle</font> the Innkeeper, to engage him, and who had
+<font>engaged to beat the Guards at that end of the Town</font> :</nonSpeech>
+   <nonSpeech>That afterwards he met with the said <font>Vowell</font> and
+<font>Henshaw</font> at one Doctor <font>Hudsons</font> in the <font>Old Baily</font> , two or
+three times before the Plot was discovered, where the said
+<font>Hudson, Henshaw</font> , and <font>Vowell</font> had private Conference 
+together, and (as this Examinate believes) it was about the
+Plot, his Brother <font>Henshaw</font> telling him as much: and that
+the reason why this Examinate was not admitted to the
+conference there, was, because <font>Vowell</font> would not be
+perswaded to <font>speak about the Plot before any more company,
+because it might not be known that he had a hand in it</font> .</nonSpeech>
+   <nonSpeech>That upon Sunday, the next day after the Plot was
+discovered, this Examinate was with his Brother <font>Henshaw</font>
+at the said Doctor <font>Hudsons</font> , where also was the said <font>Vowel</font> ,
+and they there discoursed again together as formerly in
+the same Room where this Examinate was: And having
+done their discourse;</nonSpeech><dialogue> Well, </dialogue><nonSpeech>saith the Doctor, in the
+hearing of this Examinate,</nonSpeech><dialogue> though the Plot be discovered,
+here's my Major </dialogue><nonSpeech> (meaning <font>Henshaw</font> ) </nonSpeech><dialogue> is not discouraged,
+the business may go on yet; yes, </dialogue><nonSpeech>said <font>Vowell</font> ,</nonSpeech><dialogue> that it may:
+</dialogue><nonSpeech>both the Doctor and <font>Vowell</font> saying, That those who were
+discovered were of <font>Gerards</font> party, and that none of
+<font>Henshaws</font> were yet discovered. At the same time <font>Vowell</font> asked
+<font>Henshaw</font> when he had bin at Doctors Commons to speak
+with Major <font>Baily</font> , whereto he answered, That he had bin
+there twice the day before, but had not spoken with
+him.</nonSpeech>
+   <nonSpeech>That he was often at <font>Hudsons</font> with his Brother
+<font>Henshaw</font> , and that <font>Hudson</font> would ask him what became of the
+business, and when he had been with <font>Vowell</font> , and <font>Baily</font> ,
+and Capt. <font>Billingsley</font> a Butcher; and  <font>Henshaw</font> would
+answer him, That it went on very well; and saith, That
+his Brother <font>Henshaw</font> had told him, That the said
+Butcher was fully engaged in it, and would be able to
+<pagebreak id="83" />
+provide Two hundred men and more; and said, That one
+day when he thought the business was to be done, he
+came forth with some Horse and Foot as farr as
+<font>Pickadilly</font> .</nonSpeech>
+   <nonSpeech>He further saith, that some few dayes after the Plot
+was discovered, he went with <font>Henshaw</font> to <font>Islington</font> to the
+said <font>Vowel</font> , and found him at his house, from whence they
+went together to drink their mornings Draught: And the
+said <font>Henshaw</font> and <font>Vowell</font> speaking some words together,
+<font>Vowell</font> said,</nonSpeech><dialogue> <font>If none of your party be discovered within
+this Fortnight, there will be men enough to fall into all
+the Quarters of the Town</font> , </dialogue><nonSpeech> <font>meaning</font> (as the Examinate
+conceives) <font>for carrying on the aforesaid Design</font> : And
+<font>Henshaw</font> then said, That there were <font>severall Regiments</font> both
+of Horse and Foot in the severall parts of the Nation <font>to
+rise</font> so soon as the stroke was struck here in <font>London</font> , <font>Which</font>
+Vowell <font>said would be very well, and would be a thing
+very easily done</font> .</nonSpeech>
+   <nonSpeech>He saith further, That when they were last together
+at Doctor <font>Hudsons, Henshaw</font> gave to <font>Vowell</font> some of the
+Libels mentioned in his other Examination, which <font>Vowell</font>
+said, He would dispose of.</nonSpeech>
+   <nonSpeech>He further saith, That he went with his Brother
+<font>Henshaw</font> and <font>John Gerard</font> to the house of one <font>Minors</font> ,
+dwelling in <font>Lambeth</font> in a little Garden-house, and there the
+said <font>Gerard</font> and <font>Henshaw</font> told him of their Design to <font>fall
+upon the Protector as he went abroad</font> , and also to seize
+upon the Guards, and <font>asked him if he would joyne with
+him</font> , which he <font>consented to doe</font> ; and said, He would be
+ready at a days warning, when they should desire it: And
+that there were other meetings between <font>Henshaw</font> and the
+said <font>Minors</font> , and the said <font>Minors</font> did also meet with         
+<font>Tuder</font> 
+upon this business.</nonSpeech>
+   <nonSpeech>That <font>Minors</font> further said, That a person (whose name
+he this Examinate remembers not) having lost the Heel
+of his Shooe, said,</nonSpeech><dialogue> What? will you not give me a Naile
+to fasten my heel, who am one that am to redeem you?
+<pagebreak id="84" />
+</dialogue><nonSpeech>and therefore he did fear the Plot might be
+discovered:</nonSpeech>
+   <nonSpeech>He further saith, that there are two Souldiers, one
+called <font>Copley</font> , the other <font>Hippon</font> , in the Lord Protectors
+Regiment (as he hath heard) who did often frequent Doctor
+<font>Hudsons</font> lodging, and <font>Henshaws</font> company, and believeth
+that both of them had knowledge of the said Design; for
+that <font>Copley</font> said a day or two before the <font>Gerards</font> were
+taken, to <font>Hudson</font> , that the Regiment was drawn into the
+Park, when he expected the City would have come down;
+and if they had, he being Sentinell was ready, which he
+conceives, was to have assisted the City; and for that (as
+<font>Henshaw</font> told this Examinate) the said <font>Copley</font> and <font>Hippon</font>
+gave constant intelligence to Doctor <font>Hudson</font> , what was
+done in the Guards at <font>Whitehall</font> , and what prisoners
+were brought in; and when this Examinate was upon the
+Guard, the said <font>Hippon</font> acquainted this Examinate
+privately, that he had told Doctor <font>Hudson</font> of his
+Imprisonment.</nonSpeech>
+
+<nonSpeech> <font>JOHN WISEMAN.</font> </nonSpeech>
+
+<nonSpeech> <font>Jo: Barkstead,
+William Goffe.</font> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5FDEFOE">
+  <dialogueHeader>
+
+    <filename>D5FDEFOE</filename>
+
+    <identifier>5 FICTION D5FDEFOE</identifier>
+
+    <title>MOLL FLANDERS</title>
+
+    <author>DEFOE DANIEL</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1722</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">DEFOE, DANIEL.</attribution>
+      <frontMatter>THE FORTUNES AND MISFORTUNES OF THE FAMOUS MOLL FLANDERS, &amp;C.
+(...)
+WRITTEN FROM HER OWN MEMORANDUMS.
+LONDON: PRINTED FOR, AND SOLD BY W. CHETWOOD, AT CATO'S-HEAD, IN
+RUSSEL-STREET, COVENT-GARDEN; AND T. EDLING, AT THE PRINCE'S-ARMS,
+OVER-AGAINST EXERTER-CHANGE IN THE STRAND.
+MDDCXXI. (1722)
+PP. 6.3 - 10.9      SAMPLE 1
+PP. 17.11 - 20.11   SAMPLE 2
+PP. 26.3 - 28.26    SAMPLE 3
+PP. 35.7 - 43.19    SAMPLE 4
+PP. 46.13 - 53.19   SAMPLE 5
+PP. 96.15 - 103.13  SAMPLE 6
+PP. 120.22 - 123.1  SAMPLE 7
+PP. 196.21 - 203.9  SAMPLE 8
+PP. 212.32 - 215.35 SAMPLE 9
+PP. 219.31 - 224.33 SAMPLE 10
+PP. 244.3 - 252.24  SAMPLE 11
+PP. 280.20 - 287.4  SAMPLE 12
+PP. 298.3 - 305.28  SAMPLE 13
+PP. 365.27 - 368.33 SAMPLE 14
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SOURCE TEXT HAS &quot;MDDCXXI&quot; FOR &quot;MDCCXXII&quot;.</comment>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="6" />
+<comment type="compiler">MOLL'S NURSE SPEAKS TO MOLL, WHO DOES NOT WANT TO GO INTO
+SERVICE.</comment>
+<omission type="sentence" /> Thou foolish Child, </dialogue><nonSpeech>says she,</nonSpeech><dialogue> thou art 
+always Crying; </dialogue><nonSpeech> (for I was Crying then) </nonSpeech><dialogue> prethee, 
+What doest Cry for? because they will take me 
+away, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> and put me to Service, and I
+can't Work House-Work; well Child, </dialogue><nonSpeech>says 
+she,</nonSpeech><dialogue> but tho' you can't Work House-Work,
+as you call it, you will learn it in time,
+and they won't put you to hard Things at first;
+yes they will, </dialogue><nonSpeech>says I,</nonSpeech><dialogue> and if I can't do it, they
+will Beat me, and the Maids will Beat me to
+make me do great Work, and I am but a little
+Girl, and I can't do it, </dialogue><nonSpeech>and then I cry'd again,
+till I could not speak any more to her.</nonSpeech><dialogue> 
+<comment type="compiler">THE NURSE PROMISES THAT MOLL WILL NOT GO INTO SERVICE UNTIL SHE 
+IS OLDER.</comment>
+   </dialogue><nonSpeech>WHEN she saw that I was not pacify'd yet, she
+began to be angry with me,</nonSpeech><dialogue> and what wou'd you
+have? </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> don't I tell you that you shall not
+go to Service till you are bigger? Ay, </dialogue><nonSpeech>says I,</nonSpeech><dialogue> but
+then I must go at last, why, what? </dialogue><nonSpeech>said she,</nonSpeech><dialogue> is the
+Girl mad? what, would you be a Gentlewoman?
+Yes </dialogue><nonSpeech> <font>says I</font> , and cry'd heartily, till I roar'd out
+again.
+<pagebreak id="7" />
+   THIS set the old Gentlewoman a Laughing
+at me, as you may be sure it would:</nonSpeech><dialogue> Well,
+Madam forsooth, </dialogue><nonSpeech>says she, <font>Gibing at me</font> ,</nonSpeech><dialogue> you would
+be a Gentlewoman, and pray how will you come
+to be a Gentlewoman? what, will you do it by
+your Fingers Ends?
+   YES, </dialogue><nonSpeech> <font>says I again</font> , very innocently.</nonSpeech><dialogue>
+   Why, what can you Earn, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> what can
+you get at your Work?
+   THREE-Pence, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> when I Spin, and 4 <font>d.</font>
+when I Work plain Work.
+   ALAS! poor Gentlewoman, </dialogue><nonSpeech> <font>said she again</font> ,
+Laughing,</nonSpeech><dialogue> what will that do for thee?
+   IT will keep me, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> if you will let me
+live with you; </dialogue><nonSpeech>and this <font>I said</font> , in such a poor
+petitioning Tone, that it made the poor Womans
+Heart yearn to me, as she told me afterwards.</nonSpeech><dialogue>
+   But, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> that will not keep you, and buy you
+Cloths too; and who must buy the little
+Gentlewoman Cloths, </dialogue><nonSpeech> <font>says she</font> , and smil'd all the while at
+me.</nonSpeech><dialogue>
+   I will Work Harder then, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> and you shall
+have it all.
+   POOR Child! it won't keep you, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> it will
+hardly keep you in Victuals.
+   THEN I will have no Victuals? </dialogue><nonSpeech> <font>says I</font> , again
+very Innocently,</nonSpeech><dialogue> let me but live with you.
+   WHY, can you live without Victuals? </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> 
+yes, </dialogue><nonSpeech> <font>again says I</font> , very much like a Child, you may
+be sure, and still I cry'd heartily.
+   I HAD no Policy in all this, you may easily
+see it was all Nature, but it was joyn'd with so
+much Innocence, and so much Passion, That in
+short, it set the good Motherly Creature a
+weeping too, and she cry'd at last as fast as I did, and then
+took me, and led me out of the teaching Room;</nonSpeech><dialogue>
+<pagebreak id="8" />
+come </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you shan't go to Service, you shall
+live with me, </dialogue><nonSpeech>and this pacify'd me for the present.
+   SOMETIME after this, she going to wait on
+the <font>Mayor</font> , and talking of such things as belong'd
+to her Business, at last my Story came up, and my
+good Nurse told Mr. <font>Mayor</font> the whole Tale: He
+was so pleas'd with it, that he would call his
+Lady, and his two Daughters to hear it, and it made
+Mirth enough among them, you may be sure <comment type="compiler">SOURCE TEXT: besure</comment> .
+   HOWEVER, not a Week had pass'd over, but
+on a suddain comes Mrs. <font>Mayoress</font> , and her two
+Daughters to the House to see my old Nurse, and
+to see her School and the Children: When they
+had look'd about them a little:</nonSpeech><dialogue> Well, Mrs. ------
+</dialogue><nonSpeech>says the <font>Mayoress</font> to my Nurse;</nonSpeech><dialogue> and pray
+which is the little Lass that intends to be a
+Gentlewoman? </dialogue><nonSpeech>I heard, her and I was terrible
+frighted at first, tho' I did not know why neither; but
+Mrs. <font>Mayoress</font> comes up to me,</nonSpeech><dialogue> Well Miss </dialogue><nonSpeech>says
+she,</nonSpeech><dialogue> And what are you at Work upon? </dialogue><nonSpeech>The Word
+Miss was a Language that had hardly been
+heard of in our School, and I wondred what sad
+Name it was she call'd me; However, I stood up,
+made a Curtsy, and she took my Work out of
+my Hand, look'd on it, and said it was very well;
+then she took up one of my Hands,</nonSpeech><dialogue> nay, </dialogue><nonSpeech>says
+she,</nonSpeech><dialogue> the Child may come to be a Gentlewoman
+for ought any body knows, she has a
+Gentlewoman's Hand, </dialogue><nonSpeech>says she;</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">MOLL AND THE NURSE DISCUSS BEING A GENTLEWOMAN: MOLL MENTIONS A
+WOMAN WHO MENDS LACE AND IS CALLED &quot;MADAM&quot;.</comment>
+<pagebreak id="10" />
+   POOR Child, </dialogue><nonSpeech>says my good old Nurse,</nonSpeech><dialogue> you
+may soon be such a Gentlewoman as that, for she
+is a Person of ill Fame, and has had two or three
+Bastards.
+   </dialogue><nonSpeech>I DID not understand any thing of that; but
+I answer'd,</nonSpeech><dialogue> I am sure they call her Madam, and
+she does not go to Service, nor do House-Work, </dialogue><nonSpeech>and
+therefore I insisted that she was a Gentlewoman,
+and I would be such a Gentlewoman as that.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="17" />
+<comment type="compiler">MOLL WORKS IN A FAMILY, WHERE SHE IS COURTED BY THE ELDEST SON.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>His Sisters
+would return softly to him,</nonSpeech><dialogue> Hush Brother, she
+will hear you, she is but in the next Room; </dialogue><nonSpeech>then he
+would put it off, and Talk softlier, as if he had not
+known it, and begun to acknowledge he was Wrong;
+and then as if he had forgot himself, he would speak
+aloud again, and I that was so well pleas'd to hear
+it, was sure to Lissen for it upon all
+Occasions.
+   AFTER he had thus baited his Hook, and found
+easily enough the Method how to lay it in my Way,
+he play'd an opener Game; and one Day going by
+his Sister's Chamber when I was there, doing
+something about Dressing her, he comes in with an Air
+of gayty,</nonSpeech><dialogue> O! Mrs. <font>Betty</font> , </dialogue><nonSpeech>said he to me,</nonSpeech><dialogue> How do you
+do Mrs. <font>Betty</font> ? don't your Cheeks burn, Mrs.
+<font>Betty</font> ? </dialogue><nonSpeech>I made a Curtsy, and blush'd, but said nothing;</nonSpeech><dialogue>
+What makes you talk so Brother, </dialogue><nonSpeech> <font>says the Lady</font> ;</nonSpeech><dialogue>
+Why, </dialogue><nonSpeech>says he,</nonSpeech><dialogue> we have been talking of her below
+Stairs this half Hour; <font>Well</font> </dialogue><nonSpeech> <font>says his Sister</font> ,</nonSpeech><dialogue> you can
+say no Harm of her, that I am sure, so 'tis no
+matter what you have been talking about; nay, </dialogue><nonSpeech> <font>says
+he</font> ,</nonSpeech><dialogue> 'tis so far from talking Harm of her, that we
+have been talking a great deal of good, and a
+great many fine Things have been said of Mrs.
+<font>Betty</font> , I assure you; and particularly, that she is the
+<pagebreak id="18" />
+Handsomest young Woman in <font>Colchester</font> ; and, in
+short, they begin to Toast her Health in the
+Town.
+   I wonder at you Brother, </dialogue><nonSpeech> <font>says the Sister</font> ;</nonSpeech><dialogue> <font>Betty</font>
+wants but one Thing, but she had as good want
+every Thing, for the Market is against our Sex
+just now; and if a young Woman have Beauty,
+Birth, Breeding, Wit, Sense, Manners, Modesty,
+and all these to an Extream; yet if she have not 
+Money, she's no Body, she had has good want
+them all, for nothing but Money now
+recommends a Woman; the Men play the Game all into
+their own Hands.
+   </dialogue><nonSpeech>HER younger Brother, who was by, cry'd</nonSpeech><dialogue> <font>Hold
+Sister</font> , you run too fast, I am an Exception to your
+Rule; I assure you, if I find a Woman so
+Accomplish'd as you Talk of, <font>I say</font> , I assure you, I
+would not trouble myself about the Money.
+   <font>O</font> , </dialogue><nonSpeech> <font>says the Sister</font> ,</nonSpeech><dialogue> but you will take Care not
+to Fancy one then, without the Money.
+   YOU don't know that neither, </dialogue><nonSpeech> <font>says the
+Brother</font> .</nonSpeech><dialogue>
+   BUT why Sister, </dialogue><nonSpeech> ( <font>says the elder Brother</font> ) </nonSpeech><dialogue> why
+do you exclaim so at the Men, for aiming so
+much at the Fortune? you are none of them that
+want a Fortune, what ever else you want.
+   I understand you Brother, </dialogue><nonSpeech> ( <font>replies the Lady
+very smartly</font> ,) </nonSpeech><dialogue> you suppose I have the Money,
+and want the Beauty; but as Times go now, the
+first will do without the last, so I have the better
+of my Neighbours.
+   WELL, </dialogue><nonSpeech> <font>says the younger Brother</font> ,</nonSpeech><dialogue> but your
+Neighbours, as you call them may be even with
+you for Beauty; will steal a Husband sometimes
+in spight of Money; and when the Maid chances
+to be Handsomer than the Mistress, she
+<pagebreak id="19" />
+oftentimes makes as good a Market, and rides in a
+Coach before her.
+<comment type="compiler">MOLL LEAVES THE ROOM BUT SHE CAN HEAR THE CONVERSATION: SHE
+UNDERSTANDS THAT THE SISTER DISLIKES HER.</comment>
+   </dialogue><nonSpeech>IT happen'd one Day that he came running up
+Stairs, towards the Room where his Sisters us'd to
+sit and Work, as he often us'd to do; and calling to
+them before he came in, as was his way too, I
+being there alone, step'd to the Door, and said,</nonSpeech><dialogue> Sir,
+the Ladies are not here, they are Walk'd down
+the Garden; </dialogue><nonSpeech>as I step'd forward, to say this
+towards the Door, he was just got to the Door, and
+clasping me in his Arms, as if it had been by Chance,</nonSpeech><dialogue>
+O! Mrs. <font>Betty</font> , </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> are you here? that's better
+still; I want to speak with you, more than I do with
+them, </dialogue><nonSpeech>and then having me in his Arms he Kiss'd
+me three or four times.
+   I struggl'd to get away, and yet did it but
+faintly neither, and he held me fast, and still
+<pagebreak id="20" />
+Kiss'd me, till he was almost out of Breath, and
+then sitting down, says,</nonSpeech><dialogue> <font>dear Betty</font> I am in Love
+with you.
+   </dialogue><nonSpeech>HIS Words I must confess fir'd my Blood; all
+my Spirits flew about my Heart, and put me into
+Disorder enough, which he might easily have seen
+in my Face: He repeated it afterwards several
+times, that he was in Love with me, and my Heart
+spoke as plain as a Voice, that I lik'd it; nay, when
+ever he said,</nonSpeech><dialogue> I am in Love with you, </dialogue><nonSpeech>my Blushes
+plainly reply'd,</nonSpeech><dialogue> <font>wou'd you were</font> Sir.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="26" />
+<comment type="compiler">MOLL HAS RECEIVED A NOTE FROM THE BROTHER ASKING HER TO GO INTO
+TOWN AND THAT HE WILL MEET HER ON THE WAY.</comment>
+   </dialogue><nonSpeech>ACCORDINGLY after Dinner, he very gravely
+says to me, his Sisters being all by,</nonSpeech><dialogue> Mrs. <font>Betty</font> , I
+must ask a Favour of you: What's that? </dialogue><nonSpeech> <font>says his
+second Sister</font> ;</nonSpeech><dialogue> nay, Sister </dialogue><nonSpeech> <font>says he</font> , very gravely,</nonSpeech><dialogue> if
+you can't spare Mrs. <font>Betty</font> to Day, any other
+time will do; </dialogue><nonSpeech> <font>yes they said</font> , they could spare her
+well enough, and the Sister beg'd Pardon for
+asking; which she did but of meer Course, without
+any Meaning;</nonSpeech><dialogue> Well, but Brother? </dialogue><nonSpeech>says the eldest
+Sister,</nonSpeech><dialogue> you must tell Mrs. <font>Betty</font> what it is; if it be
+any private Business, that we must not hear.
+You may call her out, there she is, why Sister,
+</dialogue><nonSpeech>says the Gentleman, very gravely,</nonSpeech><dialogue> What do you
+mean? <font>I</font> only desire her to go into the <font>High-street</font> ,
+</dialogue><nonSpeech> (and then he pulls out a Turn-Over) </nonSpeech><dialogue> to such a Shop,
+</dialogue><nonSpeech>and then he tells them a long Story of two fine
+Neckcloths he had bid Money for,</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">THE BROTHER LIES TO HIS FAMILY IN ORDER TO BE ABLE TO MEET 
+WITH MOLL.</comment>
+<pagebreak id="27" />
+   </dialogue><nonSpeech>HE had scarse done speaking to them, and
+giving me my Errand, but his Man came up to tell
+him that Sir <font>W--H--s</font> Coach stop'd at the
+Door; so he runs down, and comes up again
+immediately,</nonSpeech><dialogue> alas! </dialogue><nonSpeech> <font>says he</font> , aloud,</nonSpeech><dialogue> there's all my
+Mirth spoil'd at once; Sir <font>W--</font> has sent his
+Coach for me, and desires to speak with me upon
+some earnest Business: <omission type="sentence" />
+<comment type="compiler">MOLL AND THE BROTHER MEET.</comment>
+<pagebreak id="28" />
+   </dialogue><nonSpeech>HOWEVER as he press'd me to speak, I told
+him, I had no Reason to question the Sincerity of
+his Love to me, after so many Protestations,
+But -- and there I stopp'd, as if I left him to
+Guess the rest;</nonSpeech><dialogue> BUT WHAT my Dear? </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue>
+I guess what you mean; what if you should be
+with Child, is not that it? Why then, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue>
+I'll take Care of you, and Provide for you,
+and the Child too, and that you may see I am
+not in Jest, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> here's an Earnest for you; </dialogue><nonSpeech>and
+with that he pulls out a silk Purse, with an
+Hundred Guineas in it, and gave it me;</nonSpeech><dialogue> and I'll give
+you such another, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> every Year till I Marry
+you.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<pagebreak id="35" />
+<comment type="compiler">THE YOUNGER BROTHER BEGINS TO COURT MOLL, WHICH COMES TO THE 
+ATTENTION OF THE REST OF THE FAMILY: MOLL IS AFRAID SHE WILL BE 
+THROWN OUT AND TELLS THE ELDER BROTHER.</comment>
+   WHY look you Child, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> that they are
+Uneasie about you, that is true; but that they
+have the least Suspicion of the Case as it is, and
+as it respects you and I, is so far from bring True,
+that they suspect my Brother <font>Robin</font> ; and in short,
+they are fully persuaded he makes Love to you:
+Nay, the Fool has put it into their Heads too
+himself, for he is continually Bantring them about it,
+and making a Jest of himself; I confess, I think
+he is wrong to do so, because he can not but see it
+vexes them, and makes them Unkind to you; but
+'tis a Satisfaction to me, because of the Assurance
+it gives me, that they do not suspect me in the
+least, and I hope this will be to your Satisfaction
+too.
+   SO it is, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> one way, but this does not reach
+my Case at all, nor is this the chief Thing that
+Troubles me, tho' I have been concern'd about 
+that too: What is it then, </dialogue><nonSpeech> <font>says he</font> ?</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">MOLL TELLS THE ELDER BROTHER ABOUT THE YOUNGER BROTHER'S
+COURTING HER.</comment>
+<pagebreak id="36" />
+   </dialogue><nonSpeech>I <font>told him</font> how far I had resisted him, and <font>told
+him</font> how Sincere and Honourable his Offers were,</nonSpeech><dialogue>
+but </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> my Case will be doubly hard; for as
+they carry it Ill to me now, because he desires to
+have me, they'll carry it worse when they shall
+find I have Deny'd him; and they will presently
+say, there's something else in it, and then out it
+comes, that I am Marry'd already to somebody
+else, or else that I would never refuse a Match so
+much above me as this was.
+<comment type="compiler">MOLL AND THE ELDER BROTHER CONTINUE.</comment>
+<pagebreak id="37" />
+   WELL my Dear </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> don't be Concern'd
+at that now, if I am not your Husband, I'll be as
+good as a Husband to you, and do not let those
+things Trouble you now, but let me look a little
+farther into this Affair, and I shall be able to say
+more next time we meet.
+<comment type="compiler">MOLL REPEATS THE DISCOURSE BETWEEN THE TWO BROTHERS.</comment>
+<omission type="line" /> </dialogue><nonSpeech>He <font>told him</font> he heard strange
+News of him since he went, ( <font>viz.</font> ) that he made
+Love to Mrs. <font>Betty</font> :</nonSpeech><dialogue> Well, </dialogue><nonSpeech> <font>says his</font> Brother, a
+little Angrily,</nonSpeech><dialogue> and so <font>I do</font> , And what then? What
+has any body to do with that? Nay, </dialogue><nonSpeech> <font>says his</font>
+Brother,</nonSpeech><dialogue> don't be Angry <font>Robin</font> , I don't pretend to
+have any thing to do with it; nor do I pretend to
+be Angry with you about it: But I find they do
+concern themselves about it, and that they have
+used the poor Girl Ill about it, which I should
+take as done to my self; Who do you mean by
+THEY? </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> I mean my Mother, and the
+Girls, </dialogue><nonSpeech> <font>says the</font> elder Brother.</nonSpeech><dialogue>
+<pagebreak id="38" />
+   BUT hark ye, </dialogue><nonSpeech> <font>says his</font> Brother,</nonSpeech><dialogue> are you in
+Earnest, do you really Love the Girl, you may
+be free with me you know? Why then </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue>
+I will be free with you, I do Love her above all
+the Women in the World, and I will have Her,
+let <font>them say</font> , and do what they will, I believe the
+Girl will not Deny me.
+   </dialogue><nonSpeech>IT stuck me to the Heart when he <font>told me</font> this,
+for tho' it was most rational to think I would not
+Deny him, yet I knew in my own Conscience, I
+must Deny him, and I saw my Ruin in my being
+oblig'd to do so; but I knew it was my business
+to Talk otherwise then, so I interrupted him in
+his Story thus.</nonSpeech><dialogue>
+   AY! </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> does he think I can not Deny him?
+but he shall find I can Deny him, for all that.
+   WELL my dear </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> but let me give you
+the whole Story as it went on between us, and then
+say what you will.
+   </dialogue><nonSpeech>THEN he went on and <font>told me</font> , that he reply'd
+thus:</nonSpeech><dialogue> But Brother, you know She has nothing,
+and you may have several Ladies with good
+Fortunes: 'Tis no matter for that, </dialogue><nonSpeech> <font>said</font> Robin,</nonSpeech><dialogue> I
+Love the Girl; and I will never please my
+Pocket in Marrying, and not please my Fancy; and
+so my Dear </dialogue><nonSpeech> <font>adds he</font> ,</nonSpeech><dialogue> there is no Opposing him.
+   YES, yes, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> you shall see I can Oppose
+him, I have learnt to say NO now, tho' I had
+not learnt it before; if the best Lord in the Land
+offer'd me Marriage now, I could very chearfully
+say NO to him.
+   WELL, but my Dear </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> What can you
+say to him? You know, as you said when we talk'd
+of it before, he will ask you many Questions
+about it, and all the House will wonder what the
+meaning of it should be.
+<pagebreak id="39" />
+   WHY </dialogue><nonSpeech> <font>says I</font> smiling,</nonSpeech><dialogue> I can stop all their Mouths
+at one Clap, by telling him and them too, that
+I am Married already to his elder Brother.
+   </dialogue><nonSpeech>HE smil'd a little too at the Word, but I could
+see it Startled him, and he could not hide the
+disorder it put him into; however, he return'd,</nonSpeech><dialogue>
+Why tho' that may be true in some Sense, yet I
+suppose you are but in Jest, when you talk of
+giving such an Answer as that, it may not be
+Convenient on many Accounts.
+   NO, no </dialogue><nonSpeech> <font>says I</font> pleasantly,</nonSpeech><dialogue> I am not so fond of
+letting that Secret come out, without your Consent.
+   BUT what then can you say to him, or to them,
+</dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> when they find you positive against a Match,
+which would be apparently so much to your 
+Advantage?
+   WHY, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> should I be at a loss? First of all,
+I am not oblig'd to give them any Reason at all,
+on the other hand, I may tell them, I am
+Married already, and stop there, and that will be a
+full Stop too to him, for he can have no Reason
+to ask one Question after it.
+   AY, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> but the whole House will teize
+you about that, even to Father and Mother, and if
+you deny them positively, they will be Disoblig'd
+at you, and Suspicious besides.
+   WHY, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> What can I do? What would you
+have me do? I was in strait enough before, and as
+I <font>told you</font> , I was in Perplexity before, and
+acquainted you with the Circumstances, that I
+might have your Advice.
+   MY dear </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I have been considering very
+much upon it, you may be sure, and tho' it is a
+piece of Advice, that has a great many
+Mortifications in it to me, and may at first seem Strange
+to you, yet all Things consider'd, I see no better
+<pagebreak id="40" />
+way for you, than to let him go on; and if you
+find him hearty and in Earnest, Marry him.
+   </dialogue><nonSpeech>I gave him a look full of Horror at those Words,
+and turning Pale as Death, was at the very point
+of sinking down out of the Chair I sat in: When
+giving a start,</nonSpeech><dialogue> my Dear, </dialogue><nonSpeech> <font>says he</font> aloud,</nonSpeech><dialogue> What's
+the matter with you? Where are you  a going?
+</dialogue><nonSpeech>and a great many such things; and with joging
+and calling to me, fetch'd me a little to my self,
+tho' it was a good while before I fully recover'd
+my Senses, and was not able to speak for several
+Minutes more.
+   WHEN I was fully recover'd he began again;</nonSpeech><dialogue>
+My dear </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> What made you so Surpriz'd at
+what I said, I would have you consider Seriously
+of it? you may see plainly how the Family stand
+in this Case, and they would be stark Mad if it
+was my Case, as it is my Brothers, and for I ought
+I see, it would be my Ruin and yours too.
+   AY! </dialogue><nonSpeech> <font>says I</font> , still speaking angrily;</nonSpeech><dialogue> are all your
+Protestations and Vows to be shaken by the
+dislike of the Family? Did I not always object that
+to you, and you made a light thing of it, as
+what you were above, and would not Value; and
+is it come to this now? </dialogue><nonSpeech> <font>Said I</font> ,</nonSpeech><dialogue> is this your Faith
+and Honour, your Love, and the Solidity of your
+Promises?
+   </dialogue><nonSpeech>HE continued perfectly Calm,
+notwithstanding all my Reproaches, and I was not sparing of
+them at all; but <font>he reply'd</font> at last,</nonSpeech><dialogue> My Dear, I
+have not broken one Promise with you yet; I did
+tell you I would Marry you when I was come to
+my Estate; but you see my Father is a hail healthy
+Man, and may live these thirty Years still, and
+not be Older than several are round us in the
+Town; and you never propos'd my Marrying you
+<pagebreak id="41" />
+sooner, because you know it might be my Ruin,
+and as to all the rest, I have not fail'd you in any
+thing, you have wanted for nothing.
+   </dialogue><nonSpeech>I could not deny a Word of this, and had
+nothing to say to it in general;</nonSpeech><dialogue> but why then, </dialogue><nonSpeech> <font>says
+I</font> ,</nonSpeech><dialogue> can you perswade me to such a horrid stop, as
+leaving you, since you have not left me?
+Will you allow no Affection, no Love on my
+Side, where there has been so much on your Side?
+Have I made you no Returns? Have I given no
+Testimony of my Sincerity, and of my Passion? are
+the Sacrifices I have made of Honour and Modesty
+to you, no Proof of my being ty'd to you in
+Bonds too strong to be broken?
+   BUT here my Dear, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> you may come
+into a safe Station, and appear with Honour, and
+with splendor at once, and the Remembrance of
+what we have done, may be wrapt up in an
+eternal Silence, as if it had never happen'd; you shall
+always have my Respect, and my sincere
+Affection, only then it shall be Honest, and perfectly
+Just to my Brother, you shall be my Dear Sister,
+as now you are my Dear -- </dialogue><nonSpeech>and there he stop'd.</nonSpeech><dialogue>
+   YOUR Dear whore, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> you would have
+said, if you had gone on; and you might as well
+have said it; but I understand you: However, I
+desire you to remember the long Discourses you
+have had with me, and the many Hours pains
+you have taken to perswade me to believe myself
+an honest Woman; that I was your Wife
+intentionally, tho' not in the Eye of the World;
+and that it was as effectual a Marriage that had
+pass'd between us, as if we had been publickly
+Wedded by the Parson of the Parish; you know
+and cannot but remember, that these have been 
+your own Words to me.
+<pagebreak id="42" />
+   </dialogue><nonSpeech>I found this was a little too close upon him,
+but I made it up in what follows; he stood stock
+still for a while, and said nothing, and I went on
+thus;</nonSpeech><dialogue> you cannot, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> without the highest
+injustice believe that I yielded upon all these
+Perswasions without a Love not to be questioned,
+not to be shaken again by any thing that could
+happen afterward: If you have such
+dishonourable Thoughts of me, I must ask you what
+Foundation in any of my Behaviour have I given for such
+a Suggestion.
+   IF than I have yielded to the Importunities of
+my Affection; and if I have been perswaded to
+believe that I am really, and in the Essence of
+the Thing your Wife, shall I now give the Lye
+to all those Arguments, and call myself your
+Whore, or Mistress, which is the same thing? And
+will you Transfer me to your Brother? Can you
+Transfer my Affection? Can you bid me cease
+loving you, and bid me love him? is it in my Power
+think you to make such a Change at Demand?
+No Sir, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> depend upon it 'tis impossible, and
+whatever the Change of your Side may be, I will
+ever be True; and I had much rather, since it is
+come that unhappy Length, be your Whore than
+your Brothers Wife.
+<comment type="compiler">THE ELDER BROTHER ASKS MOLL IF SHE IS PREGNANT.</comment>
+<pagebreak id="43" />
+   </dialogue><nonSpeech>I guess'd at his Question presently, namely,
+Whether I was sure I was not with Child? As to
+that, <font>I told him</font> , he need not be concern'd about it,
+for I was not with Child;</nonSpeech><dialogue> why then my Dear, </dialogue><nonSpeech> <font>says
+he</font> ,</nonSpeech><dialogue> we have no time to Talk farther now;
+consider of it, and think closely about it, I cannot
+but be of the Opinion still, that it will be the
+best Course you can take; <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="46" />
+<comment type="compiler">MOLL HAS BEEN ILL FOR FIVE WEEKS: THE DOCTORS SUSPECT IT IS BECAUSE
+SHE IS IN LOVE, WHICH IS DISCUSSED BY THE FAMILY.</comment>
+   ALAS, </dialogue><nonSpeech> <font>says the</font> old Lady,</nonSpeech><dialogue> that poor Girl; I am
+afraid she will never be well.
+   WELL! </dialogue><nonSpeech> <font>says the</font> elder Brother,</nonSpeech><dialogue> How should
+Mrs. <font>Betty</font> be well, <font>they say</font> she is in Love?
+   I believe nothing of it </dialogue><nonSpeech> <font>says the</font> old 
+Gentlewoman.</nonSpeech><dialogue>
+   I don't know </dialogue><nonSpeech> <font>says the</font> eldest Sister,</nonSpeech><dialogue> what to say
+to it, they have made such a rout about her being
+so Handsome, and so Charming, and I know not
+what, and that in her hearing too, that has turn'd
+the Creatures Head I believe, and who knows
+what possessions may follow such Doings? for my
+Part I don't know what to make of it.
+   WHY Sister, you must acknowledge she is
+very Handsome, </dialogue><nonSpeech> <font>says the</font> elder Brother.</nonSpeech><dialogue>
+   AY, and a great deal Handsomer than you
+Sister, </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> and that's your Mortification.
+   WELL, well, that is not the Question, </dialogue><nonSpeech> <font>says his</font>
+Sister,</nonSpeech><dialogue> the Girl is well enough, and she knows it
+well enough; she need not be told of it to make
+her Vain.
+   WE are not a talking of her being Vain, </dialogue><nonSpeech> <font>says
+the</font> elder Brother,</nonSpeech><dialogue> but of her being in Love; it
+may be she is in Love with herself, it seems my
+Sisters think so.
+<pagebreak id="47" />
+   I would she was in Love with me, </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue>
+I'd quickly put her out of her Pain.
+   WHAT d'ye mean by that Son, </dialogue><nonSpeech> <font>says the</font> old
+Lady,</nonSpeech><dialogue> How can you talk so?
+   WHY Madam, </dialogue><nonSpeech> <font>says</font> Robin again, very
+honestly,</nonSpeech><dialogue> Do you think I'd let the poor Girl Die for
+Love, and of one that is near at hand to be had too.
+   FYE Brother, </dialogue><nonSpeech> <font>says the</font> second Sister,</nonSpeech><dialogue> how can
+you talk so? would you take a Creature that has
+not a Groat in the World?
+   PRETHEE Child </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> Beauties a
+Portion, and good Humour with it, is a double
+Portion; I wish thou hadst half her Stock of both
+for thy Portion: </dialogue><nonSpeech>So there was her Mouth stopp'd.</nonSpeech><dialogue>
+   I find, </dialogue><nonSpeech> <font>says the</font> eldest Sister,</nonSpeech><dialogue> if <font>Betty</font> is not in
+Love, my Brother is; I wonder he has not broke
+his Mind to <font>Betty</font> , I warrant she won't say NO.
+   THEY that yield when they're ask'd </dialogue><nonSpeech> <font>says</font>
+Robin,</nonSpeech><dialogue> are one step before them that were never
+ask'd to yield, Sister, and two Steps before them
+that yield before they are ask'd: And that's an
+Answer to you Sister.
+<comment type="compiler">THE FAMILY'S DISCUSSION CONTINUES.</comment>
+<pagebreak id="49" />
+   She's wrong there, </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> for if there
+was not a great deal between us, we should be
+closer together than we are: I told her I Lov'd
+her hugely, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> but I could never make the
+Jade believe I was in Earnest; I do not know
+how you should </dialogue><nonSpeech> <font>says his</font> Mother,</nonSpeech><dialogue> no body in their
+Senses could believe you were in Earnest, to Talk
+so to a poor Girl, whose Circumstances you know
+so well.
+   BUT prethee Son </dialogue><nonSpeech> <font>adds she</font> ,</nonSpeech><dialogue> since you tell me that
+you could not make her believe you were in
+Earnest, what must we believe about it? for you ramble
+so in your Discourse, that no body knows
+whether you are in Earnest or in Jest: But as I find
+the Girl by your own Confession has answer'd
+truely, I wish you would do so too, and tell me
+<pagebreak id="50" />
+seriously, so that I may depend upon it; Is there
+any thing in it or no? Are you in Earnest or no?
+Are you Distracted indeed, or are you not? 'Tis
+a weighty Question, and I wish you would make
+us easie about it.
+   BY my Faith Madam, </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> 'tis in vain
+to mince the Matter, or tell any more Lyes
+about it, I am in Earnest, as much as a Man is, that's
+going to be Hang'd. If Mrs. <font>Betty</font> would say she
+Lov'd me, and that she would Marry me, I'd
+have her to morrow Morning fasting; and say,
+<font>To have, and to hold</font> , instead of eating my Breakfast.
+   WELL, </dialogue><nonSpeech> <font>says the Mother</font> ,</nonSpeech><dialogue> then there's one Son
+lost; and she said it in a very mournful Tone, as
+one greatly concern'd at it.
+   I hope not Madam, </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> no Man is lost,
+when a good Wife has found him.
+   WHY but Child, </dialogue><nonSpeech> <font>says the</font> old Lady,</nonSpeech><dialogue> she is a
+Beggar.
+   WHY then Madam, she has the more need of
+Charity </dialogue><nonSpeech> <font>says</font> Robin;</nonSpeech><dialogue> I'll take her off of the hands
+of the Parish, and she and I'll Beg together.
+   ITS bad Jesting with such things, </dialogue><nonSpeech> <font>says the
+Mother</font> .</nonSpeech><dialogue>
+   I don't Jest Madam, </dialogue><nonSpeech> <font>says</font> Robin:</nonSpeech><dialogue> We'll come
+and beg your Pardon Madam; and your Blessing
+Madam, and my Fathers.
+   THIS is all out of the way Son, </dialogue><nonSpeech> <font>says the
+Mother</font> ,</nonSpeech><dialogue> if you are in Earnest you are Undone.
+   I am afraid not </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> for I am really afraid
+she won't have me, after all my Sisters huffing
+and blustring; I believe I shall never be able to
+persuade her to it.
+   THAT'S a fine Tale indeed, she is not so far
+out of her Senses neither; Mrs. <font>Betty</font> is no Fool,
+<pagebreak id="51" />
+</dialogue><nonSpeech> <font>says the youngest Sister</font> ,</nonSpeech><dialogue> Do you think she has learnt
+to say NO, any more than other People?
+   NO Mrs. <font>Mirth-Wit</font> </dialogue><nonSpeech>says Robin,</nonSpeech><dialogue> Mrs. <font>Betty's</font>
+no Fool; but Mrs. <font>Betty</font> may be Engag'd some
+other way, And what then?
+   NAY, </dialogue><nonSpeech> <font>says the eldest Sister</font> ,</nonSpeech><dialogue> we can say nothing
+to that, Who must it be to then? She is never out
+of the Doors, it must be between you.
+   I have nothing to say to that </dialogue><nonSpeech> <font>says</font> Robin,</nonSpeech><dialogue> I have
+been Examin'd enough; there's my Brother, if
+it must be <font>between us</font> , go to Work with him.
+   </dialogue><nonSpeech>THIS stung <font>the elder Brother</font> to the Quick,
+and he concluded that <font>Robin</font> had discover'd
+something: However, he kept himself from
+appearing disturb'd;</nonSpeech><dialogue> Prethee </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> don't go to sham
+your Stories off upon me, I tell you, I deal in no
+such Ware; I have nothing to say to Mrs. <font>Betty</font> ,
+nor to any of the <font>Miss Betty's</font> in the Parish; </dialogue><nonSpeech>and
+with that he rose up and brush'd off.</nonSpeech><dialogue>
+   NO, </dialogue><nonSpeech> <font>says the eldest Sister</font> ,</nonSpeech><dialogue> I dare answer for my
+Brother, he knows the World better.
+   </dialogue><nonSpeech>THUS the Discourse ended; but it left <font>the
+elder Brother</font> quite confounded: He concluded his
+Brother had made a full Discovery, and he began
+to doubt, whether I had been concern'd in it, or
+not; but with all his Management, he could not
+bring it about to get at me; at last, he was so
+perplex'd, that he was quite Desperate, and
+resolv'd he wou'd come into my Chamber and see
+me, whatever came of it: In order to this, he
+contriv'd it so; that one Day after Dinner,
+watching <font>his eldest Sister</font> , till he could see her go up
+Stairs, he runs after her,</nonSpeech><dialogue> <font>Hark ye Sister</font> , </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue>
+Where is this sick Woman? may not a body see
+her? YES, </dialogue><nonSpeech> <font>says the Sister</font> ,</nonSpeech><dialogue> I believe you may, but
+let me go first a little, and I'll tell you; </dialogue><nonSpeech>so she
+<pagebreak id="52" />
+run up to the Door, and gave me notice; and
+presently call'd to him again:</nonSpeech><dialogue> BROTHER, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue>
+you may come if you please; </dialogue><nonSpeech>so in he came, just
+in the same kind of Rant:</nonSpeech><dialogue> Well, </dialogue><nonSpeech> <font>says he</font> , at the
+Door <font>as he came in</font> ,</nonSpeech><dialogue> Where is this sick Body that's
+in Love? How do ye do Mrs. <font>Betty</font> ? </dialogue><nonSpeech>I would have
+got up out of my Chair, but I was so Weak I could
+not for a good while; and he saw it and his Sister
+too, and she said,</nonSpeech><dialogue> <font>Come do not strive to stand up</font> , my
+Brother desires no Ceremony, especially, now you
+are so Weak. NO, NO, Mrs. <font>Betty</font> , pray sit still
+</dialogue><nonSpeech> <font>says he</font> , and so sits himself down in a Chair 
+over-against me, and appear'd as if he was mighty
+Merry.
+   HE talk'd a deal of rambling Stuff to his Sister,
+and to me; sometimes of one thing, sometimes
+of another, on purpose to Amuse his Sister; and
+every now and then, would turn it upon the old
+Story, directing it to me:</nonSpeech><dialogue> Poor Mrs. <font>Betty</font> , </dialogue><nonSpeech> <font>says
+he</font> ,</nonSpeech><dialogue> it is a sad thing to be in Love, why it has
+reduced you sadly; </dialogue><nonSpeech>at last I spoke a little,</nonSpeech><dialogue> I am
+glad to see you so Merry: Sir </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> but I think
+the Doctor might have found some thing better to
+do, than to make his Game at his Patients: If I
+had been Ill of no other Distemper, I know the
+Proverb too well to have let him come to me:
+What Proverb </dialogue><nonSpeech> <font>says he</font> ?</nonSpeech><dialogue> O! I remember it now:
+What,
+   <font>Where Love is the Case,
+   The Doctor's an Ass.</font>
+   IS not that it Mrs. <font>Betty</font> ? </dialogue><nonSpeech>I smil'd, and said
+nothing:</nonSpeech><dialogue> Nay, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I think the effect has prov'd
+it to be Love; for it seems the Doctor has been
+able to do you but little Service, you mend very
+slowly they say, I doubt there's somewhat in it
+<pagebreak id="53" />
+Mrs. <font>Betty</font> , I doubt you are Sick of the
+Incureables, and that is Love; </dialogue><nonSpeech>I smil'd and said,</nonSpeech><dialogue> No,
+<font>indeed Sir</font> , that's none of my Distemper.
+   </dialogue><nonSpeech>WE had a deal of such Discourse, and
+sometimes others that signify'd as little; by and by
+He ask'd me to Sing them a Song; at which I
+smil'd, and said, my singing Days were over:
+At last he ask'd me, if he should Play upon his
+Flute to me; his Sister said, she believ'd it wou'd
+hurt me, and that my Head could not bear it; I
+bow'd and said,</nonSpeech><dialogue> No, it would not hurt me: And 
+pray Madam, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> do not hinder it, I love the
+Musick of the Flute very much; </dialogue><nonSpeech>then his Sister
+said,</nonSpeech><dialogue> well do then Brother; </dialogue><nonSpeech>with that he pull'd
+out the Key of his Closet,</nonSpeech><dialogue> Dear Sister, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I
+am very Lazy, do step to my Closet and fetch
+my Flute, it lies in <font>such a Drawer</font> , </dialogue><nonSpeech>naming a
+Place where he was sure it was not, that she might
+be a little while a looking for it.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="96" />
+<comment type="compiler">MOLL HAS MARRIED.</comment>
+<omission type="sentence" /> MY DEAR, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> we
+have been married a Fortnight, is it not time to
+let you know whether you have got a Wife with
+something, or with nothing; your own time for
+that, my Dear, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I am satisfied that I have
+got the Wife I love, I have not troubled you
+much, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> with my enquiry after it.
+   THAT'S true, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> but I have a great
+difficulty upon me about it, which I scarce know how
+to manage.
+   WHAT'S that, my Dear, </dialogue><nonSpeech> <font>says he</font> ?</nonSpeech><dialogue>
+   WHY, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> 'tis a little hard upon me, and
+'tis harder upon you; I am told that Captain
+-- </dialogue><nonSpeech> (meaning my Friend's Husband) </nonSpeech><dialogue> has told
+you I had a great deal more Money than I ever
+pretended to have, and I am sure I never employ'd
+him to do so.
+   WELL, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> Captain -- may have told
+me so, but what then, if you have not so much
+that may lye at his Door, but you never told me
+what you had, so I have no reason to blame you
+if you have nothing at all.
+<pagebreak id="97" />
+   THAT is so just, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> and so generous, that
+it makes my having but a little a double Affliction
+to me.
+   THE less you have, <font>my Dear</font> , </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> the worse
+for us both; but I hope your Affliction you speak
+of, is not caus'd for fear I should be unkind to
+you, for want of a Portion, NO NO, if you have
+nothing to tell me plainly, and at once; I may
+perhaps tell the Captain he has cheated me, but I
+can never say you have cheated me, for did you
+not give it under your Hand that you were Poor,
+and so I ought to expect you to be.
+   WELL, </dialogue><nonSpeech>said I,</nonSpeech><dialogue> <font>my Dear</font> , I am glad I have not
+been concern'd in deceiving you before Marriage,
+if I deceive you since, 'tis ne'er the worse; <font>that I
+am Poor</font> is too true, but not so Poor as to have
+nothing neither; </dialogue><nonSpeech>so I pull'd out some Bank Bills,
+and gave him about a Hundred and Sixty Pounds,</nonSpeech><dialogue>
+there's something, my Dear, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> and not quite
+all neither.
+<comment type="compiler">MOLL BRINGS MORE MONEY TO HER HUSBAND.</comment>
+<pagebreak id="98" />
+   And now, MY DEAR, </dialogue><nonSpeech> <font>says I to him</font> ,</nonSpeech><dialogue> I am very
+sorry to tell you, that there is all, and that I have
+given you my whole Fortune; </dialogue><nonSpeech>I added, that if
+the Person who had my 600 <font>l.</font> had not abus'd me,
+I had been worth a Thousand Pound to him, but
+that as it was, I had been faithful to him, and
+reserv'd nothing to my self, but if it had been
+more he should have had it.</nonSpeech><dialogue>
+<comment type="compiler">MOLL AND HER HUSBAND HAVE MOVED TO HIS ESTATE IN VIRGINIA: 
+SHE SPEAKS WITH HER MOTHER-IN-LAW.</comment>
+<pagebreak id="100" />
+   </dialogue><nonSpeech>AMONG the rest, she often told me how the
+greatest part of the Inhabitants of the Colony
+came thither in very indifferent Circumstances
+from <font>England</font> ; that, generally speaking, they
+were of two sorts, either (1.) such as were brought
+over by Masters of Ships to be sold as Servants,</nonSpeech><dialogue>
+<font>such as we call them</font> , my Dear, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> but they are
+more properly call'd <font>Slaves</font> . </dialogue><nonSpeech>Or, (2.) Such as are
+Transported from <font>Newgate</font> and other Prisons,
+<pagebreak id="101" />
+after having been found guilty of Felony and other
+Crimes punishable, with Death.</nonSpeech><dialogue>
+   WHEN they come here, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> we make no
+difference, the Planters buy them, and they work
+together in the Field till their time is out; when
+'tis expir'd, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> they have Encouragement
+given them to Plant for themselves; for they have
+a certain number of Acres of Land allotted them
+by the Country, and they go to work to Clear and
+Cure the Land, and then to Plant it with
+Tobacco and Corn for their own use; and as the
+Tradesmen and Merchants will trust them with
+Tools, and Cloaths, and other Necessaries, upon
+the Credit of their Crop before it is grown, so
+they again Plant every Year a little more than the
+Year before, and so buy whatever they want with
+the Crop that is before them.
+   HENCE Child, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> many a <font>Newgate</font> Bird
+becomes a great Man, and we have, </dialogue><nonSpeech> <font>continued she</font> ,</nonSpeech><dialogue>
+several Justices of the Peace, Officers of the
+Train Bands, and Magistrates of the Towns they
+live in, that have been burnt in the Hand.
+   </dialogue><nonSpeech>SHE was going on with that part of the Story,
+when her own part in it interrupted her, and with
+a great deal of good-humour'd Confidence she told
+me, she was one of the second sort of Inhabitants
+herself; that she came away openly, having
+ventur'd too far in a particular Case, so that she was
+become a Criminal,</nonSpeech><dialogue> and here's the Mark of it,
+CHILD, </dialogue><nonSpeech> <font>says she</font> , and pulling of her Glove,</nonSpeech><dialogue> look
+ye here, </dialogue><nonSpeech> <font>says she</font> , turning up the Palm of her
+Hand, and shewed me a very fine white Arm and
+Hand, but branded in the inside of the Hand, as
+in such cases it must be.
+   THIS Story was very moving to me, but my
+Mother (smiling said,</nonSpeech><dialogue> you need not think such a
+<pagebreak id="102" />
+thing strange, <font>Daughter</font> , for as I told you, some
+of the best Men in this Country are burnt in the
+Hand, and they are not asham'd to own it; there's
+Major -- </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> he was an Eminent
+Pick-pocket; there's Justice <font>Ba--r</font> was a Shoplifter,
+and both of them were burnt in the Hand, and I
+could name you several, such as they are.
+<comment type="compiler">MOLL AND HER MOTHER-IN-LAW CONTINUE.</comment>
+   </dialogue><nonSpeech>HERE my Mother-in-Law ran out in a long
+account of the wicked practices in that dreadful
+Place, and how it ruin'd more young People than
+all the Town besides;</nonSpeech><dialogue> and Child, </dialogue><nonSpeech> <font>says my Mother</font> ,</nonSpeech><dialogue>
+perhaps you may know little of it, or it may be
+have heard nothing about it, but depend upon it,
+</dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> we all know here, that there are more
+Thieves and Rogues made by that one Prison of
+<font>Newgate</font> , than by all the Clubs and Societies of
+Villains in the Nation; 'tis that cursed Place, </dialogue><nonSpeech> <font>says
+my Mother</font> ,</nonSpeech><dialogue> that half Peoples this Colony.
+<comment type="compiler">MOLL SUDDENLY REALISES THAT HER MOTHER-IN-LAW IS HER OWN MOTHER AND 
+THUS MOLL'S HUSBAND IS HER BROTHER. HOWEVER MOLL PRETENDS SHE IS 
+UPSET BECAUSE OF HER MOTHER'S SAD STORY.</comment>
+<pagebreak id="103" />
+<omission type="sentence" /> <font>Why</font> , my Dear, </dialogue><nonSpeech> <font>says she, very kindly</font> ,</nonSpeech><dialogue> what
+need these things trouble you? These Passages were
+long before your time, and they give me no
+trouble at all now, nay I look back on them with a
+particular Satisfaction, as they have been a means
+to bring me to this place? <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="120" />
+<comment type="compiler">MOLL AND HER HUSBAND/BROTHER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>so I answer'd him plainly, that I
+could not say I was glad not to be importuned,
+tho' I could not tell how to comply;</nonSpeech><dialogue> but come,
+<font>my Dear</font> , </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> what Conditions will you make
+with me upon the opening this Affair to you.
+   ANY Conditions in the World, </dialogue><nonSpeech> <font>said he</font> ,</nonSpeech><dialogue> that
+you can in reason desire of me; well, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> come,
+give it me under your Hand, that if you do not
+find I am in any fault, or that I am willingly
+concern'd in the Causes of the Misfortune that is
+to follow, you will not blame me, use me the
+worse, do me any Injury, or make me be the
+Sufferer for that which is not my fault.
+   THAT, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> is the most reasonable demand
+in the World; not to blame you for that which is
+<pagebreak id="121" />
+not your fault; give me a Pen and Ink, </dialogue><nonSpeech> <font>says he</font> ,
+so I ran in and fetch'd a Pen, Ink, and Paper,
+and he wrote the Condition down in the very
+words I had proposed it, and sign'd it with his
+Name;</nonSpeech><dialogue> well, </dialogue><nonSpeech>says he,</nonSpeech><dialogue> <font>what is next</font> , my Dear?
+   WHY, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> the next is, that you will not
+blame me for not discovering the Secret of it to
+you before I knew it.
+   VERY just again, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> with all my Heart;
+so he wrote down that also and sign'd it.
+   WELL, <font>my Dear</font> , </dialogue><nonSpeech>says I,</nonSpeech><dialogue> then I have but one
+Condition more to make with you, and that is,
+that as there is no body concern'd in it but you
+and I, you shall not discover it to any Person in
+the World, except your own Mother; and that in
+all the Measures you shall take upon the
+discovery, as I am equally concern'd in it with you, <font>tho'
+as innocent as your self</font> , you shall do nothing in a
+Passion, nothing to my Prejudice, or to your
+Mother's Prejudice, without my knowledge and
+consent.
+   </dialogue><nonSpeech>THIS a little amaz'd him, and he wrote down
+the words distinctly, but read them over and over
+before he Sign'd them, hesitating at them several
+times, and repeating them;</nonSpeech><dialogue> <font>my Mother's</font> Prejudice!
+<font>and your Prejudice</font> ! what mysterious thing can this
+be? </dialogue><nonSpeech>however, at last he Sign'd it.</nonSpeech><dialogue>
+   WELL, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> my Dear, I'll ask you no more
+under your Hand, but as you are to bear the most
+unexpected and surprizing thing that perhaps ever
+befel any Family in the World, I beg you to
+promise me you will receive it with Composure and
+a Presence of Mind suitable to a Man of Sense.
+   I'LL do my utmost, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> upon Condition
+you will keep me no longer in suspence, for you
+Terrify me with all these Preliminaries.
+<pagebreak id="122" />
+   WELL then, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> it is this, as I told you
+before in a Heat, that I was not your lawful
+Wife, and that our Children were not legal
+Children; so I must let you know now in
+calmness, and in kindness, but with Affliction enough
+that <font>I am</font> your own Sister, <font>and you</font> my own
+Brother, and that we are both the Children of our
+Mother now alive, and in the House, who is
+convinc'd of the Truth of it, in a manner not to
+be denied or contradicted.
+   </dialogue><nonSpeech>I SAW him turn pale, and look wild, and I
+said,</nonSpeech><dialogue> now remember your Promise, and receive it
+with Presence of mind; for who cou'd have said
+more to prepare you for it, than I have done?
+</dialogue><nonSpeech>However I call'd a Servant, and got him a little
+Glass of Rum, which is the usual Dram of the
+Country, for he was just fainting away.
+   WHEN he was a little recover'd, <font>I said to him</font> ,</nonSpeech><dialogue>
+this Story you may be sure requires a long
+Explanation, and therefore have patience and compose
+your Mind to hear it out, and I'll make it as
+short as I can, </dialogue><nonSpeech>and with this, I told him what I
+thought was needful of the Fact, and particularly
+how my Mother came to discover it to me, as
+above;</nonSpeech><dialogue> and now my Dear, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> you will see
+Reason for my Capitulations, and that I neither
+have been the Cause of this Matter, nor could be
+so, and that I could know nothing of it before
+now.
+   I AM fully satisfy'd of that, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> but 'tis a
+dreadful Surprize to me; however, I know a
+Remedy for it all, and a Remedy that shall put
+an End to all your Difficulties, without your
+going to <font>England</font> ; That would be strange, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue>
+as all the rest; No, No, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I'll make it
+easie, there's no Body in the way of it all, but
+<pagebreak id="123" />
+myself: <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+<dialogue>
+<pagebreak id="196" />
+<comment type="compiler">A MIDWIFE COMES TO SEE MOLL, WHO HAS RETURNED TO ENGLAND.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>My
+Landlady had told her I was very Melancholy, and
+that she believ'd that had done me harm; and
+once, <font>before me</font> , said to her,</nonSpeech><dialogue> Mrs. B -- </dialogue><nonSpeech> <font>meaning
+the Midwife</font> ,</nonSpeech><dialogue> I believe this Lady's Trouble is of a
+kind that is pretty much in your way, and
+therefore if you can do any thing for her, pray do,
+for she is a very civil Gentlewoman, </dialogue><nonSpeech>and so she
+went out of the Room.
+   I REALLY did not understand her, but my
+Mother Midnight began very seriously to explain
+what she meant, as soon as she was gone:</nonSpeech><dialogue>
+Madam, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you seem not to understand what
+your Landlady means, and when you do
+understand it, you need not let her know at all that
+you do so.
+<pagebreak id="197" />
+   SHE means that you are under some
+Circumstances that may render your Lying-Inn difficult
+to you, and that you are not willing to be
+expos'd; I need say no more, but to tell you, that
+if you think fit to communicate so much of your
+Case to me, <font>if it be so</font> , as is necessary; for I do
+not desire to pry into those things, I perhaps may
+be in a Condition to assist you, and to make you
+perfectly easie, and remove all your dull Thoughts
+upon that Subject.
+<comment type="compiler">MOLL TELLS PART OF HER STORY TO THE MIDWIFE.</comment>
+   </dialogue><nonSpeech>SHE took me short, <font>and told me</font> , that was none
+of her Business, all the Ladies that came under
+her Care were married Women to her;</nonSpeech><dialogue> every
+Woman, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> that is with Child has a Father for
+it, </dialogue><nonSpeech>and whether that Father was a Husband or
+no Husband, was no Business of hers; her
+Business was to assist me in my present Circumstances,
+whether I had a Husband or no;</nonSpeech><dialogue> for, <font>Madam</font> , </dialogue><nonSpeech> <font>says
+she</font> ,</nonSpeech><dialogue> to have a Husband that cannot appear, is to
+<pagebreak id="198" />
+have no Husband in the sense of the Case, and
+therefore whether you are a Wife or a Mistress is
+all one to me.
+   </dialogue><nonSpeech>I FOUND presently, that whether I was a
+Whore or a Wife, I was to pass for a Whore here,
+so I let that go; <font>I told her</font> , it was true as she said,
+but that however, if I must tell her my Case, I
+must tell it her as it was: So I related it to her as
+short as I could, and I concluded it to her thus,</nonSpeech><dialogue> <font>I
+trouble you with all this</font> , Madam, </dialogue><nonSpeech>said I,</nonSpeech><dialogue> <font>not that,
+as you said before, it is much to the purpose</font> in your
+Affair, but this is to the purpose, <font>namely, that I
+am not in any pain about being seen, or being publick
+or conceal'd, for 'tis perfectly indifferent to me; but
+my difficulty is, that I have no Acquaintance in this
+part of the Nation</font> .
+   I UNDERSTAND you, Madam, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you
+have no Security to bring to prevent the Parish
+Impertinences usual in such Cases; and perhaps,
+</dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> do not know very well how to dispose of the
+Child when it comes; the last, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> is not so
+much my concern as the first: Well, Madam,
+</dialogue><nonSpeech> <font>answers the Midwife</font> ,</nonSpeech><dialogue> dare you put your self into my
+Hands, I live in such a place, tho' I do not
+enquire after you, you may enquire after me, my
+Name is B-- I live in such a Street, </dialogue><nonSpeech>naming the
+Street,</nonSpeech><dialogue> at the Sign of the <font>Cradle</font> , my Profession
+is a Midwife, and I have many Ladies that come
+to my House to Lye-Inn; I have given Security
+to the Parish in General Terms to secure them
+from any Charge, from whatsoever shall come
+into the World under my Roof; I have but one
+Question to ask in the whole Affair, Madam, </dialogue><nonSpeech> <font>says
+she</font> ,</nonSpeech><dialogue> and if that be answer'd, you shall be entirely
+easie for all the rest.
+<pagebreak id="199" />
+   </dialogue><nonSpeech>I presently understood what she meant, and 
+told her,</nonSpeech><dialogue> Madam, <font>I believe I understand you</font> ; I thank
+God, <font>tho' I want Friends in this Part of the World,
+I do not want Money, so far as may be Necessary,
+tho' I do not abound in that neither</font> : </dialogue><nonSpeech>This I added,
+because I would not make her expect great things;</nonSpeech><dialogue>
+well Madam, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> that is the thing indeed,
+without which nothing can be done in
+these Cases; and yet, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you shall see that
+I will not impose upon you, or offer any thing
+that is unkind to you, and if you desire it, you
+shall know every thing before hand, that you
+may suit your self to the Occasion, and be either
+costly or sparing as you see fit.
+<comment type="compiler">MOLL RECEIVES A BILL OF FARE FOR THE MIDWIFE'S SERVICES.</comment>
+<pagebreak id="201" />
+   </dialogue><nonSpeech> <font>SHE told me</font> , I should be Judge of that, when
+I saw them: <font>I told her</font> , I was sorry to tell her
+that I fear'd I must be her lowest rated Customer,
+and</nonSpeech><dialogue> <font>perhaps Madam</font> , </dialogue><nonSpeech>said I,</nonSpeech><dialogue> <font>you will make me the less
+Welcome upon that Account</font> . No not at all, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue>
+for where I have One of the third Sort, I have
+Two of the Second, and Four to One of the First,
+and I get as much by them in Proportion, as by
+any; but if you doubt my Care of you, I will
+allow any Friend you have to overlook, and see if
+you are well waited on, or no.
+   </dialogue><nonSpeech>THEN she explain'd the particulars of her
+Bill;</nonSpeech><dialogue> in the first Place, Madam, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> I would
+have you Observe, that here is three Months
+Keeping, you are but 10 <font>s.</font> a Week, I undertake
+to say you will not complain of my Table: I
+suppose, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you do not live Cheaper where
+you are now; no indeed, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> nor so Cheap,
+for I give six Shillings <font>per</font> Week for my Chamber,
+and find my own Diet as well as I can, which costs
+me a great deal more.
+<pagebreak id="202" />
+   THEN Madam, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> If the Child should not
+live, or should be dead Born, as you know sometime
+happens, then there is the Minister's Article
+saved; and if you have no Friends to come to you,
+you may save the Expence of a Supper; so that
+take those Articles out Madam, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> your
+Lying-In will not cost you above 5 <font>l.</font> 3 <font>s.</font> in all,
+more than your ordinary Charge of Living.
+<comment type="compiler">MOLL AGREES TO THE TERMS, AND HOPES THE &quot;WOMAN OF THE HOUSE&quot; WILL 
+NOT THINK BADLY OF HER.</comment>
+<pagebreak id="203" />
+   O DEAR, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> her Ladyship is no stranger
+to these things; she has try'd to entertain Ladies
+in your Condition several times, but could not
+secure the Parish; and besides, she is not
+such a nice Lady as you take her to be; however,
+since you are agoing you shall not meddle with
+her, but I'll see you are a little better look'd
+after while you are here, than I think you are,
+and it shall not cost you the more neither.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+<dialogue>
+<pagebreak id="212" />
+<comment type="compiler">MOLL SPEAKS TO HER &quot;GOVERNESS&quot;, WHOM SHE CALLS MOTHER.</comment>
+<omission type="line" /> </dialogue><nonSpeech>I told her I
+own'd she had.</nonSpeech><dialogue> Well my Dear, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> and when
+you are gone, what are you to me? and what
+would it be to me if you were to be Hang'd?
+Do you think there are not Women, who as it is
+their Trade, and they get their Bread by it,
+<pagebreak id="213" />
+value themselves upon their being as careful of
+Children, as their own Mothers can be, and
+understand it rather better? Yes, yes, Child, </dialogue><nonSpeech> <font>says
+she</font> ,</nonSpeech><dialogue> fear it not, How were we Nurs'd ourselves?
+Are you sure, you was Nurs'd up by your own
+Mother? and yet you look fat, and fair Child, </dialogue><nonSpeech>says
+the old Beldam, and with that she stroak'd me
+over the Face;</nonSpeech><dialogue> never be concern'd Child, </dialogue><nonSpeech> <font>says she</font> ,
+going on in her drolling way;</nonSpeech><dialogue> I have no
+Murtherers about me, I employ the best, and the
+honestest Nurses that can be had; and have as few
+Children miscarry under their Hands, as there would,
+if they were all Nurs'd by Mothers; we want
+neither Care or Skill.
+<comment type="compiler">MOLL AND HER GOVERNESS CONTINUE.</comment>
+   IT may be true Mother, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> for ought I
+know, but my Doubts are very strongly
+<pagebreak id="214" />
+grounded, indeed; come then, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> lets hear some of
+them: Why first, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> you give a Piece of
+Money to these People to take the Child off the
+Parents Hands, and to take Care of it as long as
+it lives; now we know Mother, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> that those
+are poor People, and their Gain consists in being
+quit of the Charge as soon as they can; how can
+I doubt but that, as it is best for them to have
+the Child die, they are not over Solicitous about
+its Life.
+   THIS is all Vapours and Fancy, </dialogue><nonSpeech> <font>says the old
+Woman</font> ,</nonSpeech><dialogue> I tell you their Credit depends upon the
+Child's Life, and they are as careful as any
+Mother of you all.
+   O Mother, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> if I was but sure my little
+Baby would be carefully look'd to, and have Justice
+done it, I should be happy indeed; but it is
+impossible I can be satisfy'd in that Point, unless I
+saw it, and to see it, would be Ruin and
+Destruction to me, as now my Case stands, so what
+to do I know not.
+   A FINE Story! </dialogue><nonSpeech> <font>says the Governess</font> ,</nonSpeech><dialogue> you would
+see the Child, and you would not see the Child;
+you would be Conceal'd and Discover'd both
+together; these are things impossible my Dear, so
+you must e'n do as other conscientious Mothers have
+done before you; and be contented with things
+as they must be, tho' they are not as you wish
+them to be.
+<comment type="compiler">MOLL AND THE GOVERNESS CONTINUE.</comment>
+<pagebreak id="215" />
+   </dialogue><nonSpeech>AT last my old Governness came to me, with
+her usual Assurance.</nonSpeech><dialogue> Come my Dear, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> I
+have found out a way how you shall be at a
+certainty, that your Child shall be used well, and
+yet the People that take Care of it shall never
+know you, or who the Mother of the Child is.
+   O Mother, </dialogue><nonSpeech> <font>says I</font> <comment type="compiler">SOURCE TEXT HAS she FOR I</comment> ,</nonSpeech><dialogue>         
+If you can do so, you will
+engage me to you for ever: Well, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> are
+you willing to be at some small Annual Expence,
+more than what we usually give to the People we
+Contract with? Ay, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> with all my Heart,
+provided I may be conceal'd; as to that, </dialogue><nonSpeech>says <font>the
+Governness</font> ,</nonSpeech><dialogue> you shall be Secure? for the Nurse
+shall never so much as dare to Enquire about
+you, and you shall once or twice a Year go with
+me and see your Child, and see how 'tis used, and
+be satisfy'd that it is in good Hands, no Body
+knowing who you are.
+   WHY, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> do you think Mother, that when
+I come to see my Child, I shall be able to conceal
+my being the Mother of it, do you think that
+possible?
+   WELL, well, </dialogue><nonSpeech> <font>says my Governness</font> ,</nonSpeech><dialogue> if you
+discover it, the Nurse shall be never the wiser; for
+she shall be forbid to ask any Questions about
+you, or to take any Notice; if she offers it she
+shall lose the Money which you are to be suppos'd
+to give her, and the Child be taken from her too.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 10">
+<dialogue>
+<pagebreak id="219" />
+<comment type="compiler">MOLL AND A GENTLEMAN MEET AT A PLACE CALLED BRICKHAM: MOLL EXPECTS
+THE GENTLEMAN TO PROPOSE TO HER.</comment>
+   </dialogue><nonSpeech>BUT while these Thoughts run round in my
+Head, which was the work but of a few Moments,
+I observ'd my Landlord took him aside and
+whisper'd to him, tho' not very softly neither,
+for so much I over-heard,</nonSpeech><dialogue> <font>Sir, if you shall
+have occasion</font> -- </dialogue><nonSpeech>the rest I cou'd not hear, but it
+<pagebreak id="220" />
+seems it was to this purpose,</nonSpeech><dialogue> <font>Sir, if you shall have
+occasion for a Minister, I have a Friend a little way
+off that will serve you, and be as private as you please</font> ; 
+</dialogue><nonSpeech>my Gentleman answer'd loud enough for me to
+hear,</nonSpeech><dialogue> <font>very well, I believe I shall</font> .
+   </dialogue><nonSpeech>I WAS no sooner come back to the Inn, but he
+fell upon me with irresistable Words, that since
+he had had the good Fortune to meet me, and
+every thing concurr'd, it wou'd be hastening his
+Felicity if I would put an end to the matter just there;</nonSpeech><dialogue>
+what do you mean, </dialogue><nonSpeech> <font>says I</font> , colouring a little,</nonSpeech><dialogue> what
+in an Inn, and upon the Road! Bless us all, </dialogue><nonSpeech> <font>said
+I</font> , as if I had been surpriz'd,</nonSpeech><dialogue> how can you talk so!
+O I can talk so very well, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I came a
+purpose to talk so, and I'll show you that I did, </dialogue><nonSpeech>and
+with that he pulls out a great Bundle of Papers;</nonSpeech><dialogue>
+you fright me, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> what are all these; don't
+be frighted, my Dear, </dialogue><nonSpeech> <font>said he</font> , and kiss'd me, <font>this
+was the first time that he had been so free to call me
+my Dear</font> ; then he repeated it,</nonSpeech><dialogue> don't be frighted,
+you shall see what it is all, </dialogue><nonSpeech>then he laid them all 
+abroad;</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">THE GENTLEMAN SHOWS PAPERS WHICH PROVE THAT HE IS DIVORCED.</comment>
+<pagebreak id="221" />
+   </dialogue><nonSpeech>THERE were other Papers roll'd up, and I
+ask'd him, what they were?</nonSpeech><dialogue> Why, Ay, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue>
+that's the Question I wanted to have you ask me;
+</dialogue><nonSpeech>so he unrolls them, and takes out a little
+Chagreen Case, and gives me out of it a very fine
+Diamond Ring; I could not refuse it, if I had a
+mind to do so, for he put it upon my Finger; so
+I made him a Curtsy, and accepted it; then he
+takes out another Ring,</nonSpeech><dialogue> and this, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> is for
+another Occasion, </dialogue><nonSpeech>so he puts that in his Pocket.</nonSpeech><dialogue>
+Well, but let me see it tho', </dialogue><nonSpeech> <font>says I</font> , and smil'd,</nonSpeech><dialogue> I
+guess what it is, I think you are Mad: I should
+have been Mad if I had done less, </dialogue><nonSpeech> <font>says he</font> , and
+still he did not show it me, and I had a great
+mind to see it; so I says,</nonSpeech><dialogue> well but let me see it;
+hold, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> first look here, </dialogue><nonSpeech>then he took up the
+Roll again, and read it, and behold! it was a
+License for us to be married:</nonSpeech><dialogue> Why, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> are you
+Distracted? why you were fully satisfy'd that I
+would comply, and yield at first Word, or
+resolv'd to take no denial; the last is certainly the
+Case, </dialogue><nonSpeech> <font>said he</font> ;</nonSpeech><dialogue> but you may be mistaken, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue>  
+no,
+no, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> how can you think so? I must not be
+denied, I can't be denied, </dialogue><nonSpeech>and with that he fell to
+Kissing me so violently, I could not get rid of him.</nonSpeech><dialogue>
+<comment type="compiler">MOLL AND THE GENTLEMAN CONTINUE.</comment>
+<pagebreak id="222" />
+<omission type="sentence" /> </dialogue><nonSpeech>that at last I said,</nonSpeech><dialogue> why you
+resolve not to be deny'd indeed, I think: No, no,
+</dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I must not be denyed, I won't be deny'd,
+I can't be deny'd: Well, well, </dialogue><nonSpeech> <font>said I</font> , and giving
+him a slight Kiss,</nonSpeech><dialogue> then you shan't be deny'd, </dialogue><nonSpeech> <font>said
+I</font> ,</nonSpeech><dialogue> let me get up.
+<comment type="compiler">MOLL AND THE GENTLEMAN CONTINUE.</comment>
+<pagebreak id="224" />
+   'Tis time enough, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> in the Morning, is it
+not? Why, </dialogue><nonSpeech> <font>said he</font> ,</nonSpeech><dialogue> my Dear, he seem'd to
+scruple whether it was not some young Girl stolen
+from her Parents, and I assur'd him we were both
+of Age to command our own Consent; and that
+made him ask to see you; well, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> do as you
+please; </dialogue><nonSpeech>so up they brings the Parson, and a merry
+good sort of Gentleman he was; he had been told,
+it seems, that we had met there by accident, that
+I came in the <font>Chester</font> Coach, and my Gentleman
+in his own Coach to meet me; that we were to
+have met last Night at <font>Stony-Stratford</font> , but that
+he could not reach so far:</nonSpeech><dialogue> Well, Sir, </dialogue><nonSpeech> <font>says the
+Parson</font> ,</nonSpeech><dialogue> every ill turn has some good in it; the
+Disappointment, Sir, </dialogue><nonSpeech> <font>says he to my Gentleman</font> ,</nonSpeech><dialogue> was
+yours, and the good Turn is mine, for if you had
+met at <font>Stony-Stratford</font> I had not had the Honour
+to Marry you: LANDLORD <font>have you a
+Common-Prayer Book</font> .
+   </dialogue><nonSpeech>I started as if I had been frighted,</nonSpeech><dialogue> Lord, Sir,
+</dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> what do you mean, what to marry in an
+Inn, and at Night too: Madam, </dialogue><nonSpeech> <font>says the Minister</font> ,</nonSpeech><dialogue>
+if you will have it be in the Church you shall;
+but I assure you your Marriage will be as firm
+here as in the Church; we are not tyed by the
+Canons to Marry no where but in the Church;
+and if you will have it in the Church it will be
+as publick as a Country Fair; and as for the time
+of Day it does not at all weigh in this Case, our
+Princes are married in their Chambers, and at
+Eight or Ten a Clock at Night.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 11">
+<dialogue>
+<pagebreak id="244" />
+<comment type="compiler">MOLL IS A WIDOW IN LONDON: SHE HAS BECOME A THIEF AND ENTERS 
+AN ALE-HOUSE.</comment>
+   </dialogue><nonSpeech>I WENT into the Box frankly, and setting the
+silver Tankard on the Corner of the Bench, I sat
+down before it, and knock'd with my Foot, a
+Boy came presently, and I bad him fetch me a
+pint of warm Ale, for it was cold Weather; the
+Boy run, and I heard him go down the Sellar to
+draw the Ale; while the Boy was gone, another
+Boy came into the Room, and cried,</nonSpeech><dialogue> <font>d' ye call</font> , </dialogue><nonSpeech>I spoke
+with a melancholly Air, and said,</nonSpeech><dialogue> no Child, the
+Boy is gone for a Pint of Ale for me.
+   </dialogue><nonSpeech>WHILE I sat here, I heard the Woman in the
+Bar say are they all gone in the Five, which was
+the Box I sat in, and the Boy said</nonSpeech><dialogue> <font>yes</font> ; who fetch'd
+the Tankard away? </dialogue><nonSpeech> <font>says the Woman</font> ,</nonSpeech><dialogue> I did, </dialogue><nonSpeech> <font>says
+another Boy</font> ,</nonSpeech><dialogue> that's it, </dialogue><nonSpeech>pointing it seems to another
+Tankard, which he had fetch'd from another Box by
+Mistake; or else it must be, that the Rogue forgot
+that he had not brought it in, which certainly
+he had not.
+   I HEARD all this, much to my satisfaction, for I
+found plainly that the Tankard was not mist, and
+yet they concluded it was fetch'd away; so I drank
+my Ale, call'd to Pay, and as I went away, <font>I
+said</font> ,</nonSpeech><dialogue> take care of your Plate Child, </dialogue><nonSpeech>meaning a
+silver pint Mug, which he brought me Drink in;
+the Boy said,</nonSpeech><dialogue> <font>yes Madam, very welcome</font> , </dialogue><nonSpeech>and away
+I came.</nonSpeech><dialogue>
+<comment type="compiler">MOLL GOES TO HER GOVERNESS: SHE TELLS THE GOVERNESS ABOUT HER
+STEALING.</comment>
+<pagebreak id="245" />
+<omission type="sentence" /> </dialogue><nonSpeech>and so
+told her the whole Story of the Tankard:</nonSpeech><dialogue> And have
+you brought it away with you my Dear, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> to
+be sure I have, </dialogue><nonSpeech> <font>says I</font> , and I shew'd it her.</nonSpeech><dialogue> But what
+shall I do now, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> must not I carry it again?
+   CARRY it again! </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> Ay, if you are
+minded to be sent to <font>Newgate</font> for stealing it; why,               
+</dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue>
+they can't be so base to stop me, when I carry it to
+them again? You don't know those Sort of People
+Child, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> they'll not only carry you to
+<font>Newgate</font> , but hang you too without any regard to the
+honesty of returning it; or bring in an Account
+of all the other Tankards they have lost for you to
+pay for: What must I do then? </dialogue><nonSpeech> <font>says I</font> ;</nonSpeech><dialogue> Nay, </dialogue><nonSpeech> <font>says
+she</font> ,</nonSpeech><dialogue> as you have plaid the cunning part and stole
+it, you must e'n keep it, there's no going back
+now; besides Child, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> Don't you want it
+more than they do? I wish you cou'd light of such
+a Bargain once a Week.
+<comment type="compiler">MOLL AND THE GOVERNESS CONTINUE.</comment>
+<pagebreak id="246" />
+<omission type="sentence" />
+</dialogue><nonSpeech>she Laugh'd and told me I must go out again and
+try my Fortune; it might be that I might meet
+with another Peice of Plate.</nonSpeech><dialogue> O, Mother! </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue>
+that is a Trade I have no skill in, and if I should
+be taken I am undone at once; </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> I cou'd
+help you to a School-Mistress, that shall make you
+as dexterous as her self: <omission type="sentence" />
+<comment type="compiler">ONE NIGHT A HOUSE IS ON FIRE.</comment>
+<pagebreak id="250" />
+</dialogue><nonSpeech>Here she gives me a jog,</nonSpeech><dialogue> now, Child, </dialogue><nonSpeech>says she,</nonSpeech><dialogue>
+there is a rare opportunity, the Fire being so near
+that you may go to it before the Street is block'd
+up with the Crow'd; </dialogue><nonSpeech>she presently gave me my Cue,</nonSpeech><dialogue>
+go, Child, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> to the House, and run in and tell
+<pagebreak id="251" />
+the Lady, or any Body you see, that you come to
+help them, and that you came from such a
+Gentlewoman (that is one of her Acquaintance farther
+up the Street); </dialogue><nonSpeech>she gave me the like Cue to the
+next House, naming another Name that was also an
+Acquaintance of the Gentlewoman of the House.
+   AWAY I went, and coming to the House I found
+them all in Confusion, you may be sure; I run
+in, and finding one of the Maids,</nonSpeech><dialogue> Lord!
+Sweetheart, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> how came this dismal Accident?
+Where is your Mistress? And how does she do?
+Is she safe? And where are the Children? I come
+from Madam -- to help you; </dialogue><nonSpeech>away runs the
+Maid,</nonSpeech><dialogue> Madam, Madam, </dialogue><nonSpeech> <font>says she</font> , screaming as
+loud as she cou'd yell,</nonSpeech><dialogue> <font>here is a Gentlewoman come
+from Madam -- to help us</font> : </dialogue><nonSpeech>The poor Woman
+half out of her Wits, with a Bundle under her
+Arm, and two little Children, comes towards
+me,</nonSpeech><dialogue> <font>Lord, Madam</font> , </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> let me carry the poor
+Children to Madam --, she desires you to send
+them; she'll take care of the poor Lambs, </dialogue><nonSpeech>and
+immediately I takes one of them out of her Hand,
+and she lifts the tother up in my Arms;</nonSpeech><dialogue> <font>ay, do,
+for God sake</font> , </dialogue><nonSpeech>says she,</nonSpeech><dialogue> <font>carry them to her; O thank
+her for her kindness</font> : Have you <font>any thing else to
+secure</font> , Madam? </dialogue><nonSpeech>says I,</nonSpeech><dialogue> <font>she will take care of it: O</font>
+dear! ay, </dialogue><nonSpeech>says she,</nonSpeech><dialogue> <font>God bless her, and thank her,
+take this bundle of Plate and carry it to her too; O
+she is a good Woman; O Lord, we are utterly ruin'd,
+utterly undone</font> ; </dialogue><nonSpeech>and away she runs from me out of
+her Wits, and the Maids after her, and away
+comes I with the two Children and the Bundle.
+   I WAS no sooner got into the Street, but I saw
+another Woman come to me,</nonSpeech><dialogue> O! </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue>
+Mistress, </dialogue><nonSpeech>in a piteous Tone,</nonSpeech><dialogue> you will let fall the
+Child; come, this is a sad time, let me help you,
+<pagebreak id="252" />
+</dialogue><nonSpeech>and immediately lays hold of my Bundle to carry
+it for me;</nonSpeech><dialogue> no, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> if you will help me, take
+the Child by the Hand, and lead it for me but to
+the upper end of the Street, I'll go with you and
+satisfie you for your pains.
+   </dialogue><nonSpeech>SHE cou'd not avoid going, after what I said,
+but the Creature, in short, was one of the same
+Business with me, and wanted nothing but the
+Bundle; however, she went with me to the Door,
+for she cou'd not help it; when we were come
+there I whisper'd her,</nonSpeech><dialogue> <font>go Child</font> , </dialogue><nonSpeech>said I,</nonSpeech><dialogue> <font>I understand
+your Trade</font> , you may meet with Purchase enough.
+   </dialogue><nonSpeech>SHE understood me and walk'd off; I
+thundered at the Door with the Children, and as the
+People were rais'd before by the noise of the Fire, I
+was soon let in, and I said,</nonSpeech><dialogue> <font>is Madam awake, pray
+tell her</font> Mrs. -- <font>desires the favour of her to take the
+two Children in</font> ; poor Lady, <font>she will be undone,
+their House is all of a Flame</font> ; </dialogue><nonSpeech>they took the 
+Children in very civily, pitied the Family in Distress,
+and away came I with my Bundle; one of the
+Maid's ask'd me, if I was not to leave the Bundle
+too? I said</nonSpeech><dialogue> no, Sweetheart, 'tis to go to another
+place, it does not belong to them.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 12">
+<dialogue>
+<pagebreak id="280" />
+<comment type="compiler">MOLL TALKS TO THE GOVERNESS AFTER ROBBING A DRUNKEN GENTLEMAN.</comment>
+   </dialogue><nonSpeech>BUT as to the Purchase I got, and how
+entirely I stript him, she told me it pleas'd her
+wonderfully;</nonSpeech><dialogue> nay, Child, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> the usage may, for
+ought I know, do more to reform him, than all the
+Sermons that ever he will hear in his Life, </dialogue><nonSpeech>and if
+the remainder of the Story be true, so it did.
+   I FOUND the next Day she was wonderful
+inquisitive about this Gentleman; the description I
+had given her of him, his Dress, his Person, his
+Face, every thing concur'd to make her think of
+a Gentleman whose Character she knew, and
+Family too; she mus'd a while, and I going still on
+with the Particulars, she starts up, <font>says she</font> ,</nonSpeech><dialogue> I'll
+lay a Hundred Pound I know the Gentleman.
+   I AM sorry you do, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> for I would not have
+him expos'd on any account in the World; he has
+had Injury enough already by me, and I would
+<pagebreak id="281" />
+not be instrumental to do him any more: No, no
+</dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> I will do him no Injury, I assure you,
+but you may let me satisfie my Curiosity a little,
+for if it is he, I warrant you I find it out: </dialogue><nonSpeech>I was
+a little startled at that, and told her with an
+apparent concern in my Face, that by the same Rule
+he might find me out, and then I was undone:
+<font>she return'd warmly</font> ,</nonSpeech><dialogue> why, do you think I will
+betray you, Child? No, no, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> not for all he
+is worth in the World; I have kept your Counsel
+in worse things than these, sure you may trust me
+in this: </dialogue><nonSpeech>So I said no more at that time.</nonSpeech><dialogue>
+<comment type="compiler">THE GOVERNESS IS VISITED BY A FRIEND.</comment>
+   </dialogue><nonSpeech>THE next Day she comes to my Governess and
+tells her, that Sir -- was at Home, but that
+he had met with a Disaster and was very ill, and
+there was no speaking with him;</nonSpeech><dialogue> what Disaster,
+</dialogue><nonSpeech> <font>says my Governess hastily</font> , as if she was surpriz'd at
+it?</nonSpeech><dialogue> Why, </dialogue><nonSpeech> <font>says her Friend</font> ,</nonSpeech><dialogue> he had been at
+<font>Hampstead</font> to Visit a Gentleman of his Acquaintance,
+and as he came back again he was set upon and
+Robb'd; and having got a little Drink too, as
+they suppose, the Rogues abus'd him, and he is
+very ill: Robb'd, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> and what did
+they take from him; why, </dialogue><nonSpeech> <font>says her Friend</font> ,</nonSpeech><dialogue> they
+<pagebreak id="282" />
+took his Gold Watch, and his Gold Snuff-box,
+his fine Perriwig, and what Money he had in his
+Pocket, which was considerable to be sure, for
+Sir -- never goes without a Purse of Guineas
+about him.
+   PSHAW! </dialogue><nonSpeech>says my old Governess jeering,</nonSpeech><dialogue> I
+warrant you he has got drunk now and got a
+Whore, and she has pick'd his Pocket, and so he
+comes home to his Wife and tells her he has been
+Robb'd; that's an old sham, a thousand such tricks
+are put upon the poor Women every Day.
+   FYE, </dialogue><nonSpeech> <font>says her Friend</font> ,</nonSpeech><dialogue> I find you don't know
+Sir --, why he is as Civil a Gentleman, there
+is not a finer Man, nor a soberer grave modester
+Person in the whole City; he abhors such things,
+there's no Body that knows him will think such a
+thing of him: Well, well, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> that's
+none of my Business, if it was, I warrant I should
+find there was something of that kind in it; your
+Modest Men in common Opinion are sometimes
+no better than other People, only they keep a
+better Character, or if you please, are the better
+Hypocrites.
+   No, no, </dialogue><nonSpeech> <font>says her Friend</font> ,</nonSpeech><dialogue> I can assure you Sir
+-- is no Hypocrite, he is really an honest sober
+Gentleman, and he has certainly been Robb'd:
+Nay, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> it may be he has, it is no
+Business of mine I tell you; I only want to speak
+with him, my Business is of another Nature; but,
+</dialogue><nonSpeech> <font>says her Friend</font> ,</nonSpeech><dialogue> let your Business be of what
+nature it will, you cannot see him yet, for he is not
+fit to be seen, for he is very ill, and bruis'd very
+much: Ay, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> nay then he has
+fallen into bad Hands to be sure; </dialogue><nonSpeech>and then she
+ask'd gravely,</nonSpeech><dialogue> pray where is he bruised? Why in
+his Head, </dialogue><nonSpeech> <font>said her Friend</font> ,</nonSpeech><dialogue> and one of his Hands,
+<pagebreak id="283" />
+and his Face, for they us'd him barbarously. Poor
+Gentleman, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> I must wait then
+till he recovers, </dialogue><nonSpeech>and adds,</nonSpeech><dialogue> I hope it will not be
+long, for I want very much to speak with him.
+   </dialogue><nonSpeech>AWAY she comes to me and tells me this
+Story,</nonSpeech><dialogue> I have found out your fine Gentleman, and a
+fine Gentleman he was, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> but Mercy on
+him, he is in a sad pickle now, I wonder what the
+D--l you have done to him; why you have
+almost kill'd him: </dialogue><nonSpeech>I look'd at her with disorder
+enough;</nonSpeech><dialogue> I kill'd him! </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> you must mistake the
+Person, I am sure I did nothing to him, he was
+very well when I left him, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> only drunk and
+fast asleep; I know nothing of that, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> but
+he is in a sad pickle now, </dialogue><nonSpeech>and so she told me all
+that her Friend had said to her:</nonSpeech><dialogue> Well then, </dialogue><nonSpeech> <font>says
+I</font> ,</nonSpeech><dialogue> he fell into bad Hands after I left him, for I
+am sure I left him safe enough.
+<comment type="compiler">THE GOVERNESS GOES TO SEE THE GENTLEMAN.</comment>
+<pagebreak id="284" />
+   </dialogue><nonSpeech>HE look'd a little angrily at first,</nonSpeech><dialogue> what
+Adventure? </dialogue><nonSpeech> <font>said he</font> ;</nonSpeech><dialogue> why, Sir, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> of your
+being Robb'd coming from <font>Knightsbr--, Hampstead</font> ,
+Sir, I should say, </dialogue><nonSpeech> <font>says she</font> ;</nonSpeech><dialogue> be not surpris'd, Sir,
+</dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> that I am able to tell you every step you
+took that Day from the <font>Cloyster</font> in <font>Smithfield</font> , to
+<pagebreak id="285" />
+the <font>Spring-Garden</font> at <font>Knightsbridge</font> , and thence to
+the -- in the <font>Strand</font> , and how you were left
+asleep in the Coach afterwards; I say let not this
+surprize you, for Sir I do not come to make a
+Booty of you, I ask nothing of you, and I assure
+you the Woman that was with you knows nothing
+who you are, and never shall; and yet perhaps I
+may serve you farther still, for I did not come
+barely to let you know, that I was inform'd of
+these things, as if I wanted a Bribe to conceal
+them; assure your self, Sir, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> that whatever
+you think fit to do or say to me, it shall be all a
+secret as it is, as much as if I were in my Grave.
+   </dialogue><nonSpeech>HE was astonish'd at her Discourse, and said
+gravely to her,</nonSpeech><dialogue> Madam, you are a Stranger to me,
+but it is very unfortunate, that you should be let
+into the Secret of the worst action of my Life,
+and a thing that I am so justly asham'd of, that the
+only satisfaction of it to me was, that I thought
+it was known only to God and my own
+Conscience: Pray, Sir, </dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> do not reckon the
+Discovery of it to me, to be any part of your
+Misfortune; it was a thing, I believe, you were
+surprised into, and perhaps the Woman us'd some
+Art to prompt you to it; however, you will
+never find any just Cause, </dialogue><nonSpeech> <font>said she</font> ,</nonSpeech><dialogue> to repent that I
+came to hear of it; nor can your own Mouth be
+more silent in it than I have been, and ever
+shall be.
+   WELL, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> but let me do some Justice to
+the Woman too, whoever she is, I do assure you
+she prompted me to nothing, she rather declin'd
+me, it was my own Folly and Madness that
+brought me into it all, ay and brought her into it
+too; I must give her her due so far, as to what
+she took from me, I cou'd expect no less from her
+<pagebreak id="286" />
+in the condition I was in, and to this Hour I know
+not whether she Robb'd me or the Coachman; if
+she did it I forgive her, and I think all
+Gentlemen that do so, should be us'd in the same manner;
+but I am more concern'd for some other things
+than I am for all that she took from me.
+   </dialogue><nonSpeech>MY Governess now began to come into the
+whole matter, and he open'd himself freely to her;
+first, she said to him, in answer to what he had
+said about me,</nonSpeech><dialogue> I am glad Sir you are so just to the
+Person that you were with; I assure you she is a
+Gentlewoman, and no Woman of the Town; and
+however you prevail'd with her so far as you did,
+I am sure 'tis not her Practise; you run a great
+venture indeed, Sir, but if that be any part of
+your Care, I am perswaded you may be perfectly
+easie, for I dare assure you no Man has touch'd her,
+before you, since her Husband, and he has been
+dead now almost eight Year.
+   </dialogue><nonSpeech>IT appear'd that this was his Grievance, and
+that he was in a very great fright about it;
+however, when my Governess said this to him he
+appeared very well pleased; and said,</nonSpeech><dialogue> well, Madam, to
+be plain with you, if I was satisfy'd of that, I
+should not so much value what I lost; for as to
+that, the Temptation was great, and perhaps she
+was poor and wanted it: If she had not been poor
+Sir --, </dialogue><nonSpeech> <font>says my Governess</font> ,</nonSpeech><dialogue> I assure you she would
+never have yielded to you, and as her Poverty
+first prevailed with her to let you do as you did,
+so the same Poverty prevail'd with her to pay her
+self at last, when she saw you was in such a
+Condition, that if she had not done it, perhaps the next
+Coach-man or Chair-man might have done it.
+   WELL, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> much good may it do her; I say
+again, all the Gentlemen that do so, ought to be
+<pagebreak id="287" />
+us'd in the same manner, and then they would be
+cautious of themselves; I have no more concern
+about it, but on the score which you hinted at before,
+Madam: <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 13">
+<dialogue>
+<pagebreak id="298" />
+<comment type="compiler">MOLL IS ACCUSED OF STEALING IN A SHOP, AND DETAINED BY THE 
+SHOPKEEPER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>the Porter said he
+would serve me with all his Heart;</nonSpeech><dialogue> but, Madam,
+</dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> let me hear them refuse to let you go, then
+I may be able to speak the plainer.
+   </dialogue><nonSpeech>WITH that I spoke aloud to the Master of the
+Shop, and said,</nonSpeech><dialogue> Sir, you know in your own
+Conscience that I am not the Person you look for, and
+that I was not in your Shop before, therefore I
+demand that you detain me here no longer, or tell
+me the reason of your stopping me; </dialogue><nonSpeech>the Fellow
+grew surlier upon this than before, and said he
+would do neither till he thought fit;</nonSpeech><dialogue> very well,
+</dialogue><nonSpeech>said I to the Constable and to the Porter,</nonSpeech><dialogue> you will
+be pleas'd to remember this, Gentlemen, another
+time; </dialogue><nonSpeech>the Porter said,</nonSpeech><dialogue> <font>yes Madam</font> , </dialogue><nonSpeech>and the
+Constable began not to like it, and would have
+perswaded the Mercer to dismiss him, and let me go,
+since, as he said, he own'd I was not the Person;</nonSpeech><dialogue>
+Good Sir, </dialogue><nonSpeech> <font>says the Mercer to him Tauntingly</font> ,</nonSpeech><dialogue>
+are you a Justice of Peace, or a Constable? I
+charg'd you with her, pray do you do your Duty:
+</dialogue><nonSpeech>The Constable told him a little mov'd, but very
+handsomely,</nonSpeech><dialogue> <font>I know my Duty, and what I am, Sir,
+I doubt you hardly know what you are doing</font> ; </dialogue><nonSpeech>they
+had some other hard words, and in the mean time
+the Journey-men, impudent and unmanly to the
+last degree, used me barbarously, and one of them,
+the same that first seized upon me, pretended he
+would search me, and began to lay Hands on me:
+I spit in his Face, call'd out to the Constable, and
+bad him take notice of my usage;</nonSpeech><dialogue> and pray, Mr.
+Constable, </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> ask that Villain's Name,
+</dialogue><nonSpeech>pointing to the Man; the Constable reprov'd him
+decently, told him that he did not know what he
+<pagebreak id="299" />
+did, for he knew that his Master acknowledg'd I
+was not the Person that was in his Shop; and,
+says the Constable,</nonSpeech><dialogue> I am afraid your Master is
+bringing himself and me too into Trouble, if this
+Gentlewoman comes to prove who she is, and where
+she was, and it appears that she is not the Woman
+you pretend to; Dam her, </dialogue><nonSpeech> <font>says the Fellow again</font> ,
+with an impudent harden'd Face,</nonSpeech><dialogue> she is the Lady
+you may depend upon it, I'll swear she is the same
+Body that was in the Shop, and that I gave the
+pieces of Satin that is lost into her own hand, you
+shall hear more of it when Mr. <font>William</font> and
+<font>Anthony, those were other Journeymen</font> , come back, they
+will know her again as well as I.
+   </dialogue><nonSpeech>JUST as the insolent Rogue was talking
+thus to the Constable, comes back Mr. <font>William</font> and
+Mr. <font>Anthony</font> , as he call'd them, and a great
+Rabble with them, bringing along with them the true
+Widow that I was pretended to be; and they came
+sweating and blowing into the Shop, and with a
+great deal of Triumph dragging the poor Creature
+in a most butcherly manner up towards their
+Master, who was in the back Shop, and cryed out aloud,</nonSpeech><dialogue>
+here's the Widow, Sir, we have catch'd her at last;
+what do ye mean by that, </dialogue><nonSpeech> <font>says the Master</font> ,</nonSpeech><dialogue> why
+we have her already, there she sits, </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> and
+Mr. -- </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> can swear this is she: </dialogue><nonSpeech>The
+other Man who they call'd Mr. <font>Anthony</font> replyed,</nonSpeech><dialogue>
+Mr. -- may say what he will, and swear what
+he will, but this is the Woman, and there's the
+Remnant of Sattin she stole, I took it out of her
+Cloaths with my own Hand.
+   </dialogue><nonSpeech>I SAT still now, and began to take a better
+Heart, but smil'd and said nothing; the Master
+look'd Pale; the Constable turn'd about and
+look'd at me;</nonSpeech><dialogue> <font>let 'em alone Mr. Constable</font> , </dialogue><nonSpeech>said I,</nonSpeech><dialogue>
+<pagebreak id="300" />
+<font>let 'em go on</font> ; </dialogue><nonSpeech>the Case was plain and could not be
+denied, so the Constable was charg'd with the
+right Thief, and the Mercer told me very civily
+he was sorry for the mistake, and hoped I would
+not take it ill; that they had so many things of
+this nature put upon them every Day, that they
+cou'd not be blam'd for being very sharp in doing
+themselves Justice:</nonSpeech><dialogue> Not take it ill, Sir! </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue>
+how can I take it well? if you had dismiss'd me
+when your insolent Fellow seiz'd on me in the
+Street, and brought me to you; and when you
+your self acknowledg'd I was not the Person, I
+would have put it by, and not taken it ill, because
+of the many ill things I believe you have put
+upon you daily; but your Treatment of me since has
+been unsufferable, and especially that of your
+Servant, I must and will have Reparation for that.
+<comment type="compiler">MOLL RELATES THE STORY FROM THE SHOP TO HER GOVERNESS.</comment>
+<pagebreak id="305" />
+   </dialogue><nonSpeech>AFTER this hustle, coming home, and telling
+my Governess the Story, she falls a Laughing at
+me;</nonSpeech><dialogue> Why are you merry, </dialogue><nonSpeech> <font>says I</font> ?</nonSpeech><dialogue> the Story has
+not so much Laughing room in it, as you imagine;
+I am sure I have had a great deal of Hurry and
+Fright too, with a Pack of ugly Rogues. <font>Laugh</font> ,
+</dialogue><nonSpeech>says my Governess,</nonSpeech><dialogue> I laugh Child to see what a
+lucky Creature you are; why this Jobb will be
+the best Bargain to you, that ever you made in
+your Life, if you manage it well: I warrant you,
+</dialogue><nonSpeech> <font>says she</font> ,</nonSpeech><dialogue> you shall make the <font>Mercer</font> pay you 500 <font>l.</font>
+for Damages, besides what you shall get of the
+Journeyman.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 14">
+<dialogue>
+<pagebreak id="365" />
+<comment type="compiler">MOLL SEES HER LANCASHIRE-HUSBAND WHO IS ALSO IN PRISON FOR 
+ROBBERY.</comment>
+   </dialogue><nonSpeech>AS soon as he was gone, and I had shut the
+Door, I threw off my Hood, and bursting out into
+Tears,</nonSpeech><dialogue> <font>my Dear</font> , </dialogue><nonSpeech>says I,</nonSpeech><dialogue> <font>do you not know me</font> ? </dialogue><nonSpeech>He
+turn'd pale and stood Speechless, like one
+Thunder struck, and not able to conquer the Surprize,
+said no more but this,</nonSpeech><dialogue> <font>let me sit down</font> ; <omission type="sentence" />
+<comment type="compiler">MOLL AND HER LANCASHIRE HUSBAND CONTINUE.</comment>
+<pagebreak id="366" />
+<omission type="sentence" /> </dialogue><nonSpeech>but after I
+had given some vent to my Passion by Tears, I
+repeated the same Words:</nonSpeech><dialogue> MY DEAR, <font>do you not
+know me</font> ? </dialogue><nonSpeech>at which he answer'd</nonSpeech><dialogue> YES, </dialogue><nonSpeech>and said no
+more a good while.
+   AFTER some time continuing in the Surprize,
+<font>as above</font> , he cast up his Eyes towards me and said,</nonSpeech><dialogue>
+<font>How could you be so cruel</font> ? </dialogue><nonSpeech>I did not readily
+understand what he meant; and I answer'd,</nonSpeech><dialogue> How
+can you call me Cruel? What have I been Cruel
+to you in? <font>To come to me</font> , </dialogue><nonSpeech>says he,</nonSpeech><dialogue> <font>in such a Place
+as this, is it not to insult me? I have not robb'd</font>
+you? <font>at least not on</font> the Highway?
+   </dialogue><nonSpeech>I PERCEIV'D by this, that he knew nothing of
+the miserable Circumstances I was in, and thought
+that having got some Intelligence of his being
+there, I had come to upbraid him with his
+leaving me; but I had too much to say to him to
+be affronted, and told him in few Words, that I
+was far from coming to Insult him, but at best
+I came to Condole mutually, that he would be
+easily satisfy'd, that I had no such View, when I
+should tell him that <font>my Condition was worse than
+his, and that many ways</font> : He look'd a little
+concern'd at the general Expression of my Condition
+being worse than his; but with a kind of a smile,
+look'd a little wildly, and said,</nonSpeech><dialogue> How can that be?
+when you see me Feter'd, and in <font>Newgate</font> , and
+two of my Companions Executed already; can
+you say your Condition is worse than Mine?
+   COME my Dear, </dialogue><nonSpeech> <font>says I</font> ,</nonSpeech><dialogue> we have a long peice
+of Work to do, if I should be to relate, or you
+to hear my unfortunate History; but if you are
+dispos'd to hear it, you will soon conclude with
+me that my Condition is worse than yours: How
+is that possible, </dialogue><nonSpeech> <font>says he again</font> ,</nonSpeech><dialogue> when I expect to be
+<pagebreak id="367" />
+cast for my Life the very next Sessions? Yes </dialogue><nonSpeech> <font>says
+I</font> ,</nonSpeech><dialogue> 'tis very possible when I shall tell you that I
+have been cast for my Life three Sessions ago, and
+am under Sentence of Death, is not my Case
+worse than yours?
+   </dialogue><nonSpeech>THEN indeed he stood silent again, like one
+struck Dumb, and after a little while he starts up,</nonSpeech><dialogue>
+unhappy Couple! </dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> How can this be
+possible? </dialogue><nonSpeech>I took him by the Hand,</nonSpeech><dialogue> come MY DEAR,
+</dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> sit down, and let us compare our Sorrows:
+I am a Prisoner in this very House, and in a
+much worse Circumstance than you, and you will
+be satisfy'd I do not come to Insult you, when I
+tell you the particulars; <omission type="sentence" />
+<comment type="compiler">MOLL TELLS HER STORY TO HER LANCASHIRE HUSBAND.</comment>
+<pagebreak id="368" />
+<omission type="sentence" /> </dialogue><nonSpeech>but when I 
+came to the Story of little <font>Brickill</font> , he was
+surpriz'd,</nonSpeech><dialogue> <font>and was it you my Dear</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> <font>that gave
+the Check to the Mob that was at our Heels there</font> , at
+<font>Brickill</font> : Yes </dialogue><nonSpeech> <font>said I</font> ,</nonSpeech><dialogue> it was I indeed, </dialogue><nonSpeech>and then
+I told him the particulars which I had observ'd
+of him there.</nonSpeech><dialogue> <font>Why then</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> <font>it was you that
+sav'd my Life at that time</font> , and I am glad I owe my
+Life to you, for I will pay the Debt to you now,
+and I'll deliver you from the present Condition
+you are in, or I will die in the attempt.
+   </dialogue><nonSpeech>I TOLD him by no means; it was a Risque too
+great, not worth his running the hazard of, and for
+a Life not worth his saving;</nonSpeech><dialogue> 'twas no matter for
+that </dialogue><nonSpeech>he said, it was a Life worth all the World to
+him; a Life that had given him a new Life;</nonSpeech><dialogue> for
+</dialogue><nonSpeech> <font>says he</font> ,</nonSpeech><dialogue> I was never in real Danger of being taken,
+but that time; till the last Minute when I was
+taken: <omission type="sentence" />
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4HOKATE">
+  <dialogueHeader>
+
+    <filename>D4HOKATE</filename>
+
+    <identifier>4 HANDB OTH D4HOKATE</identifier>
+
+    <title>HONEST JOHN</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1685</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>A PLEASANT DIALOGUE BETWIXT HONEST JOHN AND LOVING KATE. 
+THE CONTRIVANCE OF THEIR MARRIAGE AND WAY HOW TO LIVE.
+(...)
+LONDON, PRINTED FOR J. CLARKE W. THACKERY AND T. PASSINGER, 
+1685.
+PP. 3.1 - 24.30
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">IN SOURCE TEXT, FOR EACH UTTERANCE, THE FONT ALTERNATES BETWEEN 
+ITALICS AND BLACK LETTER (AND OCCASIONALLY PLAIN FONT), E.G. FIRST 
+UTTERANCE IS PRINTED IN BLACK LETTER, THE SECOND UTTERANCE IS PRINTED 
+IN ITALICS AND SO ON. BELOW ONLY FONT DEVIATING FROM THIS PATTERN 
+WITHIN AN UTTERANCE IS CODED AS &quot;FONT OTHER THAN THE BASIC FONT&quot;.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS BOTH EXTRA SPACING OR NO SPACING BETWEEN WORDS AND 
+EXTRA SPACING WITHIN WORDS. THIS IS NORMALISED BELOW.</comment>
+
+<pagebreak id="3" />
+</dialogue> <head>A PLEASANT 
+<font>DIALOGUE</font> .
+BETWIXT
+HONEST <font>IOHN</font> AND LOVING <font>KATE</font> , THE
+CONTRIVANCE OF THEIR WEDDING AND WAY HOW TO
+LIVE.</head> 
+
+   <nonSpeech> <font>John.</font> </nonSpeech><dialogue> Good morrow my dear <font>Katy</font> , methinks
+thou lookest coy to day; what's the
+matter prethee.
+   </dialogue><nonSpeech> <font>Kate.</font> </nonSpeech><dialogue> If I had been so at first to you I had been
+wiser.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Why so?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Because I find you flatter me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I scorn it, I am true to thee, in troth I am
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> How shall I believe that, when every one you
+meet, you are courting and kissing them.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Who told you these stories, truly I never 
+kiss any one but in mirth, for I will never marry
+any but thee my love.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I hear of your Roguery, that I do, pray what
+was that you said to Peg Ramskin 'tother day, did
+not you kiss her, and gripe her by the hand, and tell
+her you lov'd her dearly? and now she brags about
+the Town how she hath deceived me, the Devil take
+such love, if this be the love you have for me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Be not in such a passion, 'ile tell you how
+it was.
+<pagebreak id="4" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I shall not hear you.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Dear heart, hear me, by this kiss ile tell
+thee truth.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Well then.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> In troth 'twas onely thus, I was going to the
+mill with Corn, and by the way, I met with <font>Pegg
+Ramskin</font> , good morrow <font>John</font> said she, her's a cold
+morning, a cup of Ale would do well, I think so
+too said I, faith <font>John</font> ile joyn my penny with thee,
+I was ashamed to deny her, so we went in and
+called for one pot, the jade was very kind and
+took me by the hand and shak't it, <font>John</font> , said she,
+I believe you are in love you are so dumpish, O
+yes said I, you look so lively this morning, I
+thought you would fain be kist, I puld her by the
+arm, and in troth she e'n fell upon me, this was all
+and does this bold slut report that I love her? hang
+her impudence, ile kick her next time, ile see how
+she likes that kind of Love.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> This is onely because I know it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I wish you would believe me, and not be
+thus jealous, pray be not so cruel to torment me
+thus, no whore of them all shall entice me from
+thee, O how I cou'd kick this jade.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Well let this pass, but what was that you
+said to the Widdow, these stories <font>John</font> could not be
+raised of themselves.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> What gossiping slut troubles thee with these
+fooleries, they do't to make difference.
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Pray tell me truth of this also, and then I
+shall be satisfied.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> By this kiss I will my dear; I was in a place
+tother day drinking, and in came the Widdow
+<font>Cragg</font> , how now <font>John</font> said she, what will you
+dye a Batchellour? I think I must do so said I, for
+Maids are so coy, ther's no dealing with them,
+what think you of a widdow, they are more kind,
+will you have me said I, O <font>John</font> said she, you
+love to jest, I could do no less then kiss her, and
+so parted; when will ye come to my house <font>John</font>
+said she, what good cheer have you for a man said
+I, you shall have a cup of the best said she, and a
+good Gammon of Bacon: now thou knowest <font>Kate</font>
+I love Bacon well, and because I would not be seen
+with her alone, I took <font>Will Summers</font> with me, and
+spent six pence a piece, and did eat up half her
+Bacon, and when we were merry we kissed her;
+well Widdow, quoth I, I find now that widows
+are more kind than Maids, ile come again before
+the Bacon be gone, with all my heart said she and
+welcome: This was all truly my sweet love, and
+does the fool report <font>I</font> came a suiting to her, wanton
+whore, ile ne'r come within her doors more; I
+shall shun both Maids and widdows, unless in thy
+sight to make thee sport: but who tells thee these
+stories? prethee <font>Kate</font> tell me,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> You must excuse me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I will not urge but pray believe no more such
+<pagebreak id="6" />
+stories, for by my faith and troth I love thee, and
+if my year was up once, thou would find it so.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Well <font>Iohn</font> I must believe you.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> But dost thou forgive me.
+   </dialogue><nonSpeech>Ka.</nonSpeech><dialogue> With all my heart.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Pretty heart thou hast no gall in thee, dost
+thou love me too?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Sweet soul give me thy hand, and say after
+me these few words. I love thee <font>John</font> most 
+dearly.
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> I love thee John most dearly.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Pretty soul, and dost thou truly? methinks
+those words do sound so sweetly, that I must
+needs kiss thee for them; lets go somewhere and
+drink, and then we will talk.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Whether should we go?
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Here's very good drink at the Kings Arms
+and this is Holy day, so that we need not fear
+Anger for staying, let's go in,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What you will <font>Iohn</font> .
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Have you any room here?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Pray walk in Sir.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Bring hither some of your newest Cakes,
+and a pot of your best Ale.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> You shall have the best Sir,
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Come honey, prethee eat.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I thank you <font>Iohn</font> .
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Her's to thee my dear, and a fart for all the
+<pagebreak id="7" />
+wanton Whores, thou shalt know I love thee,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What shall be the sign thereof.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I will marry thee my dear when my year is
+up. if thou wilt consent, what sayest thou, speak.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I must consider of it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> But what thinkest thou, is it not the best way
+to end all jealousies, and to make all Rascals and
+Sluts to leave their talking.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I think it must be so at last, but truly you
+cannot blame me for believing these reports, when
+in a fortnight or more I have not seen you.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Poor heart I would see thee oftner, but that
+my Master would think I negliected his business,
+and besides, there is such flickering and laughing
+amongst the maids and children at your house
+when I come, as I am quite ashamed.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Ashamed.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Not of thee my Birds-ny, and sometimes
+I meet your Mistriss and then I sneak, &amp; I could
+run into an auger hole if possible,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> You being so bashful <font>Iohn</font> , I wonder how
+you came first to woe me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Oh thy pretty charming eyes would force
+any man to speak.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Don't flatter me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou knowest <font>I</font> don't, let's talk now to the 
+purpose, and observe the old proverb.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What's that John.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Blessed is the woeing, that is not long a
+<pagebreak id="8" />
+doing, tis half a year since we begun, I think tis
+time to make an end, is it not, prithee say true
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> If we know how to live.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> How do other folks live.
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> They bethink them before they marry.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> So will we, lets spend this day in contriving
+for we shall never have the like opportunity again,
+come lets walk a little if it be not too cold.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Better being in the house, for I think it
+will rain.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> What thou wilt my sweet love, well dear heart
+how shall we live, what will thy friends give thee
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> O are you come to that, I thought you
+would have taken me for love onely, and now it is
+what have you?
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Be not angry my dear, if thou hast not a
+smock to thy back I would have thee, but in
+knowing what each other hath, we shall know the
+better how to improve it, do thou the same by me.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Truly I have but ten pounds my father left
+me, and that is in my Uncle Hodge's hands.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Tis sure I hope.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> You need not doubt that, for he cannot keep
+it from me, and five pound I have gathered since I
+came to service, besides my Mistress owes me above
+half a years wages.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> O what a happy man shall I be, what a
+good housewife thou hast been, thou hast good
+cloathes too.
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> They will serve.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Now <font>Kate</font> I will tell thee what I have, my
+Father gave me ten pounds when I came from
+him, and told me as I did improve that, he would
+give me more, and with my Masters leave, I have
+imployed it in his Mault-house, and have encreased
+it; besides my master doth owe me my wages ever
+since I came to him, he would not let me have it
+for fear I should play the ill husband, and if I
+please him, I know he will give me somthing when
+I marry, and so will thy Mistriss, will she not?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I hope so too.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Now for the best advantage, thy stock and
+mine together, will amount to something; and
+when we have concluded our marriage day, ile try
+if my Master will let me have a little house and
+ground thou knowest hard by <font>William Jacksons</font> ,
+that will make a great house for us,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> And a great Rent too, what should we do
+with such a house, one Room will serve our turn.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Ay to sleep in my dear.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> But what trade do you intend to drive?
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Give me leave and ile tell thee, and if thou
+wilt help me a little, it will be the better, for two
+heads are better than one, we must not take care
+only for sleeping places, but a place to get mony in.
+  </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> How, that pleases me well to be getting of
+Money, for I love it dearly.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I have almost broke my Brains with
+<pagebreak id="10" />
+studying &amp; contriving, but now I think I have hit ont.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Tis long coming out.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> If my master will let me have the house we
+will brue good Ale, and we will have mault of our
+own, for we'l keep a stock going in my Master's
+Mault-house, with his leave, and there is pasture
+enough to keep two beasts, and conveniences for
+hogs and poultery, so thou mayest have all things
+about thee, and keep a maid and live like a Lady.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> This will be brave indeed John, but what
+shall we do with our Ale.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Sell it my sweet one; let me see, there are
+eight rooms in the house besides the Cellar, and
+with a little painting and a few benches it will be
+very fine, &amp; a handsome sign to draw in company.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What shall that be.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> The three fair maids, I think.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Not for a hundred pound I would not have
+such a sign.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Why prithee.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Why man they'd think surely we kept a
+bawdy house.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> What then shall we have, do you tell me?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> The three Fidlers I think and then they will
+judge they may have Musick.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou hast pleased me mightily, but how
+dost like my motion and contrivance,
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Very well indeed, I thought you had not had
+so much in you.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Oh ho <font>Katy</font> , though I am but a Clown, I
+am no fool I think, but how dost thou like such an
+imployment?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Very well truly if it will not make thee an ill
+Husband.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou pretty Pig-ny thou, that word
+sounds so finly out of thy mouth, that I must needs
+kiss thee for it; be sure my dear I shall mind my
+business and when I have drink always by me <font>I</font>
+shall not desire it, only to drink a cup with thee in
+the morning.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> That will please me, for I love Ale very well
+but good lack, I shall grow as fat as a bear with
+drinking every day.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> No matter for that, thou wilt be the better
+to kiss.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I like all very well, but pray be speedy, least
+another take it before you, and get a License, for
+time runs away apace.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> <font>I</font> know he will not deny me to morrow I
+will move it to him &amp; bring thee word, but a
+pescods ont, I cant abide to be seen at your house.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Cannot you meet me in the fields when I am
+milking my Kine.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I will, that's well thought on.
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> Well now, we had as good make an end since
+we have begun, what shall we make a money dinner
+or not, that would help us well.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Marry would it: dost think thy mistriss will
+not let thee keep our Wedding at her house:
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> I doubt not but she will, for I have been a
+good servant to her though I say it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> If she will do so, it will be a grace and
+advantage to us, and then I will invite my master &amp;
+his Family, wilt thou then resolve to marry with 
+me at Easter.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> It had as good be done and past, since it must
+be done at last.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I think so too, but how shall we do to lay
+out the money for all things, for if we let the stock
+go, I shall fear the gathering of it together again
+but now I think ont, my credit is good.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What shall we do for Clothes.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> In troth <font>Kate</font> we will save that money,
+those that we have will serve very well.
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> I think so too.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Only I will have a hat &amp; a Gold ring for thee
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Who shall we bid to our Wedding.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> All who we can think of, the more the merrier
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What Musick shall we have.
+   </dialogue><nonSpeech> <font>Jo,</font> </nonSpeech><dialogue> We will have old <font>Rowly</font> and his company.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> They will make a roaring noise.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> And they will sing well too, to please the
+young people; why dost laugh, does the thoughts
+of it please thee.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I laugh to think how the young men will
+turn the Lasses about in dancing, and how they will
+buss them, methinks I see them already, but good
+lack how shall I do to behave my self at that time
+<pagebreak id="13" />
+amongst so many; I shall be so ashamed I shant
+know what to do.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Why priethee all people will adore thee that
+day, and I shall be woundy proud of thee my Dear
+to see thee sit as a Virgin-Bride, and I shall wait
+upon thee too that same day, as it is my duty.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Is that the fashion.
+   </dialogue><nonSpeech> <font>Jo,</font> </nonSpeech><dialogue> Yes my dear, hast thou never observed it
+at weddings.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I shall observe my own the more, but you
+must not look towards me, for then I shall laugh
+and that will shame me quite.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> No my dear a smile sometimes will do well
+they'l think there's the more love.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Must I dance too.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Ay pretty one, every body will strive to
+dance with the Bride.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Ide rather dance with thee John, than with
+them all.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> So thou shalt my dear.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What Favours shall we give.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Red and blew I think.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> They will look gloriously, but all this while
+who shall lead us to Church.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> <font>Tom Sims</font> , and <font>Roger Blackwel</font> shall lead
+thee, and <font>Mary Tomkins</font> and <font>Bess Ruglas</font> shall
+lead me.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I shant be able to go along the street, the
+folk will so look at me.
+<pagebreak id="14" />
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> No matter for their looking, 'ile warrant
+thee who ever sees thee will wish her self in the
+same condition, who are not married already.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Will they think you.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I faith i'l warrant you.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Who shall marry us.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> M. Timson.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Oh dear he will keep such a do to have me
+speak out that I shant know what to do with my self
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou must not be ashamed my dear, for it is
+an honour to be a bride.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Who shall be my Father to give me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou mayest ask <font>Jack Wheeler</font> , but I know
+he had rather had thee himself.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Oh fie no, I will not ask him, he will take it
+for an affront, I will rather ask old father <font>Randol</font> 
+for he us'd to call me Daughter, and he will take it
+kindly.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Do then.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Does it not make you ashamed to talk of these
+things.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> No I promise thee, I am proud of it, and so
+art thou I believe, but that thou wilt not confess it
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I would it were once over.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> So would I, i'd as live as a groat.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Who shall make the Sack Posset. 
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> The Bride-maids will take care of that.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Good lack they will keep such a do when they
+come in to eat it, and taking their leaves of us, and
+throwing the stocking, and one thing or other, that
+I shall wish them all far enough.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> So shall I but we must lye the longer next
+morning.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> But I forgot one thing, who shall dress me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> It is a thousand pities but thou shouldst
+marry, thou thinkest of every thing so, the 
+Bride-maids my dear will dress thee
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Where shall we lye the next night.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> In our own house that will be the best, and
+therefore we must furnish it before, and lay in
+some Ale, that we may be able to invite all the
+wedding people to drink with us, and then we
+sholl have good handsel indeed, and we will also
+have a good Gammon of Bacon, and that will
+make the drink go down merrily.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What maid shall we have?
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> We will have a lusty wench, who may be
+able to do our work, for fourty shillings the year
+we may have one.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Now I think we have thought of every thing
+let's consider what time of the day it is.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> VVill thy Mistriss chide thee thinkst thou
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Ay and your Master too I believe if you do
+not make haste home.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> VVhat's a Clock, not above six I trow.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Loves Dial goes but slow, I believe it is six
+at the least, and then I shall be hanged.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Alas poor thing hanged, call me and I will
+cut the Rope, what humors thy mistriss of, she
+looks frowningly.
+<pagebreak id="16" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Truly she is very good when she is pleased,
+but she is develish peevish, she will fret and fume
+sometimes for a very small matter.
+   </dialogue><nonSpeech> <font>J.</font> </nonSpeech><dialogue> Is <comment type="compiler">SOURCE TEXT: sI</comment> that the goodness, the        
+Devil's good when
+pleas'd, my Master he is angry too, but faith I fit
+him for it, for when he begins to chide, I get me
+out of doors, and come no more in that night.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Youl serve me so I fear.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Ay if you chide.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> In troth I shall chide you if you come home
+drunk, for ime sure they that love drinking love
+whoring.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou shalt see what a husband 'ile be.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I would I could once, but now <font>John</font> I sit 
+upon thorns, my Mistriss will be very angry with me.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> So shall <comment type="compiler">SOURCE TEXT HAS SPACE HERE FOR &quot;I&quot;</comment>     
+if you go yet, you must learn to
+humour me now.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Dont hold my hand for I must be gone, you
+cannot tell how humorsome she is, there chanc'd to be
+but one hair in the pudding tother day at table, but
+she did maunder, I thought she would never have
+been quiet. Ile tell you a good jest above a week ago
+she sent me to the Shoomaker for her new shooes, and
+because she had them not, she made a hundred wry
+faces at me, and sate fleering in her Looking-glass
+an hour or more, that I could not forbear laughing.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> She is horrible proud I believe, pox on her
+humour I am humoursome too.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Pray dont hold me I must be gone.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Come, come over boots over shooes, we'd
+<pagebreak id="17" />
+as good make up the day now, &amp; then one chiding
+will serve for all, I look for a storm too, but my
+Master is pretty good natur'd if he ask me where
+I have been, ile be plain to him, and tell him I have
+been with thee, ay, and bid him to our wedding
+too, he loves mirth.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> You do not think how impatient I am with
+staying Oh my Mistriss, my Mistriss.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> You shall have a Master shortly worth ten
+of her, come stay a little <comment type="compiler">SOURCE TEXT: alittle</comment> , i'le sing thee 
+a fine Song 
+of my own making.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I never knew you were a Poet before, let me
+hear it quickly.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Love makes me very eloquent, I never had
+so much wit, as since I met with thee, I think it
+comes from thee to me.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Perhaps so too, for i'm sure I never had so
+little as since I met with you, I did wonder what was
+become of it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou hast enough still methinks, and that
+thou hast lent me, I will improve it if I can.
+   </dialogue><nonSpeech> <font>Kate.</font> </nonSpeech><dialogue> What's your song then I shall judge.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Come sweet Duck, I will begin, I made it
+the other day as I was in the Mault-house, &amp; when
+I had done turning the Mault, I sat down and
+repeated it, and played the tune on my Flagellet, &amp;
+methought it went so sweetly, it ravisht me.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I would I could hear it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Hum, hum, hum.
+<pagebreak id="18" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> You'd best wet your whistle first, for I see thy
+Pipes are stopt.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I'll take thy councel, hers to thee <font>Katy</font> .
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I thank you <font>John</font> <comment type="compiler">SOURCE TEXT HAS ONLY FIRST   
+LETTER OF John IN DIFFERENT FONT</comment> now pray begin.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> <comment type="compiler">SONG OMITTED.</comment>
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> O brave <font>John</font> <comment type="compiler">SOURCE TEXT HAS ONLY FIRST       
+LETTER OF John IN DIFFERENT FONT</comment> I see you think on me when you
+do not see me, I did not think indeed you had been so
+good a Schollar pray how long did you go to School.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Not long, for I had more mind to go to plow
+and look after my Fathers Horses, then to learn
+my book, yet I was pretty apt, for by that time I
+was fourteen I could read the Psalter pretty well
+now <font>Katy</font> prethee do thou sing a song, and then
+we will part for this time.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> What song shall I sing, I know not.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Any one will be sweet from thee.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> If you will not laugh at me, I will sing as well as I
+can, I promise you I was counted good at singing
+once but now I have forgot, love hath spoiled my voice
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Love mends it, prethee begin.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> <comment type="compiler">SONG OMITTED.</comment>
+<pagebreak id="20" />
+There's all <font>John</font> how do you like it.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Very well, a kind Lass, i'le warrant her, well
+I will not serve thee so, ile stay &amp; live with my love
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> Well let's go, in troth we shall go near to spoil
+our wedding with this dayes work, for certainly we
+shall both be soundly chidden.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> For my part I will begin with my master first
+and tell him that I am coming into the honourable
+estate of Matrimony, and that I hope he will grace
+my VVedding with his company, &amp; if he storm at
+me, I will desire him to remember his own
+condition, &amp; if it be an evil thing to marry. I wil ask him
+<pagebreak id="21" />
+why his worship did set me such an example? for
+he loved his wife so well that he doth adore the
+very thoughts of her, and so talks of her, that he
+made me almost mad to know what a wife was,
+sure some hidden treasure is in a married life,
+because every one strives to be of that rank.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> <font>I</font> believe so too, or else so many would not
+desire it, Maids are only made much of by young men,
+and if they be too kind they are laught at, but
+married folks are accepted of in all company; and
+invited to Weddings, Christnings, Gossipings,
+Burials, &amp; to all merry meetings, which please me well.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I hope they shall come a Gossiping to thee
+shortly, and by that time I shall look soberly, and
+bid the women welcome, what dost blush at it?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> It would make one blush to hear you talk?
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Well, what wilt thou say to thy Mistriss?
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> My best way is to let her chide so long as she
+pleases, and then ile confess my self in a fault &amp; ask
+pardon, and then she will be pleased again.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Thou hast a great deal of patience, I
+commend thee for it, I hope thou wilt have some with
+me.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> We must bear with one another, but if we
+displease a Master or Mistriss, some are so crabed,
+they will turn one out of doors, but if we be angry
+one with another, we must be friends again, when my
+Mistriss hath spoken all her mind, and is again in a
+good humour, then I will make her my Councellour
+<pagebreak id="22" />
+and bid her to my Wedding, for she loves one should
+trust her with secrets: the mischief is, I know not
+how to go in first of all, had I but made a bargain 
+I would not care, and now it is dark, I fear I shall
+lose my way.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Well I will go with thee now, I cannot be
+seen, and if she falls out foul with thee, call me and
+ile take thy part, for thou shalt not be a slave to
+her, no marry shalt thou not.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> If goody <font>Sho</font> hath not milkt my kine, it will
+be worse, I wish she have, I would have bid her do
+so if I had known I should have staid so long.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Let's reckon what is to pay; let me see, we
+have had three Cakes and four Pots of Ale, and
+two Pipes of Tobacco, that's fifteen pence.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> We must not use to spend so much in an
+Ale-house.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> The best bargains are made there &amp; I hope
+thee and I have made a good one.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I should be sorry else.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> I would it were sealed once.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> All in good time.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Host good buy to you.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> You are welcome Sir,
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Give me thy hand prethee.
+   </dialogue><nonSpeech> <font>Ka,</font> </nonSpeech><dialogue> My heart doth ake I know not what to do.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Pluck it up woman do not fear.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I would I were out of this slavery.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> 'Tis but four months and thou shalt, how
+<pagebreak id="23" />
+pleasant it is to walk with thee, though in the dark.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> I pitty your journey home, but I shall never
+trouble you again for such another, well now <font>John</font> 
+good buy to you, remember all things, order your
+matter wisely, and not forget to send me word, for
+I shall long to hear, I shall look for you every minute
+to morrow in the evening, and if you deceive me,
+you will break my heart.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> Fear not, if it Rains Cats and Dogs I will come.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue> That's true love indeed, I shall go about my
+work so merrily if my Mistriss will but forgive me
+this one fault, that I shall not feel the ground I go
+on, oh what it is to be pleased, God be with you good
+<font>John</font> .
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> God be with you sweet one, my Duck my
+dear, my Pig's-ny, when we do meet to morrow,
+we will conclude all more firmly; here, take my
+heart and a hundred kisses besides with it, and keep
+them till I see thee.
+   </dialogue><nonSpeech> <font>Ka.</font> </nonSpeech><dialogue>  I cannot see neither.
+   </dialogue><nonSpeech> <font>Jo.</font> </nonSpeech><dialogue> They are only felt my dear, once more, far
+thee well, heavens favour me as I prove true to
+thee.
+   </dialogue><nonSpeech>Kate speaks to her self as she goes home;</nonSpeech><dialogue> My
+poor <font>John</font> , how loving has he been to me this day; I
+am heartily sorry I snapt him up so, surely he was
+innocent, must I be married suddenly and be called
+goody <font>Lawrence</font> . I shall then hardly know my self,
+my dear <font>Iohn</font> , what a many pretty charming words
+<pagebreak id="24" />
+he had for me, &amp; what a fine song he made 
+himself of me, surely I shall not sleep till I do hear
+how our business goes forward, neither do I
+beleive will he, for love is a terrible thing.
+   It wounds the heart it breaks the brain,
+   It makes one always live in pain.
+   </dialogue><nonSpeech> <font>John</font> talkes to himself as he goes,</nonSpeech><dialogue> what a joyful
+day this hath been; If I could but recount every
+days action to be so good, surely then I should,
+without doubt, get to Heaven in a short space, let
+me but reckon up what I have done to day; I have
+seen my dear love to day, &amp; made my peace with
+her, and have gotten her consent to marry, and we
+have appointed the very time, and have contrived
+all things to my hearts content, that I could even
+leap for joy, poor heart, she was almost jealous of
+me, but now I have fully satisfied her, and shortly
+all fears will vanish away from us, I will have a
+special care for the future how to order things, &amp;
+surely be with her to morrow in the evening, for
+fear I should anger her again, for she doth look
+so pretily when she smiles, that it is a thousand
+pitties that ever she should be displeased any more.
+   Well my dear <font>Katy</font> , I must think on my master
+now, and study what to say to him for my long
+absence from him, therefore my dear <font>Katy</font> I must
+forbear the sweet thoughts of thee for a season.
+   Farewell a while, to thee my Love adieu,
+   To thee, dear <font>Kate</font> , I will for ay prove true.
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

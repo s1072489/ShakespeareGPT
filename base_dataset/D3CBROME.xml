@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3CBROME">
+  <dialogueHeader>
+
+    <filename>D3CBROME</filename>
+
+    <identifier>3 COMEDY D3CBROME</identifier>
+
+    <title>A MAD COUPLE</title>
+
+    <author>BROME RICHARD</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1653</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BROME, RICHARD.</attribution>
+      <frontMatter>A MAD COUPLE WELL MATCH'D.
+IN: FIVE NEW PLAYES,
+(VIZ,)
+THE MADD COUPLE WELL MATCHT.
+THE NOVELLA.
+THE COURT BEGGER.
+THE CITY WITT.
+THE DAMOISELLE.
+BY RICHARD BROME.
+LONDON, PRINTED FOR HUMPHREY MOSELEY, RICHARD MARRIOT, AND THOMAS 
+DRING, AND ARE TO BE SOLD AT THEIR SHOPS, 
+1653.
+PP. C2R.19 - E3V.35
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">ROUND BRACKETS ON TITLE PAGE OF SOURCE TEXT REPRODUCED ABOVE.</comment>
+
+<pagebreak id="C2R" />
+</dialogue> <head>ACT II. SCENE I.</head>  
+
+<nonSpeech> <font>Alicia, Lady, Servingman, Prentice.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> All Cheape-side, and Lombard-streete Madam,
+could not have furnish'd you with a more
+compleat bargaine, you will find it in the wearing, and thanke
+me both for the goodnesse of the stuffe, and of the
+Manufacture.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But now the price Mistris <font>Saleware</font> . I grant your
+Commodity is good, The Gold and Silver Laces, and 
+the Frienges are rich, and I hope well wrought. Has your
+Man made a note of the particulars, and their prices, at
+<pagebreak id="C2V" />
+the rate of ready-money (for I buy so) and not as you
+would booke 'em to an under-ag'd heire, or a 
+Court-Cavalier to expect payment two or three yeares hence;
+and finde it perhaps never. I come with <font>Here is one for
+tother</font> .
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I know your Ladiships payment such; And they are
+priz'd so Madam to a farthing.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Let mee see, broad plate Silver and Gold-lace,
+206 Ounces halfe, and a dram, at five and ten pence the
+Ounce. 60 l. 5 s. 3 d. <font>ob.</font> 4. five and ten pence an Ounce 
+is deare.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I protest unto you Madam that parcell of Lace for
+a Bed as you intend it, was bespoken, and agreed for at
+six shillings the Ounce by a very great person: but 
+because ready money came not to fetch it off, Fortune
+reserv'd it here for you, you could not have been so fitted
+on the sodaine else within <font>London</font> walls; and I am glad
+the same fortune was so favourable to me, as by my hands
+to designe it for your Ladiships use and pleasure. I hope
+Madam we shal hear of a young heir a comming shortly,
+and that will make it a rich and fortunate Bed indeed;
+And then Sir <font>Olyver</font> would thanke me too.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> What a bold slut it is, well then the rest of the
+particulars here of Laces <comment type="compiler">SOURCE TEXT: Laees</comment> , and Frienges,     
+Loopes, and
+Buttons, makes the sum of all an hundred pound eight
+shillings foure pence, halfe-penny. I am no good
+Arithmetician, but if any be overcast, and overpaid, you must
+allow restitution.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Yes, good Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Is all put up into this Box?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> All Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Give mee my Purse. Take you home that while I
+make payment for it; your Gold-weights Mistris
+<font>Saleware</font> . </dialogue><nonSpeech> <font>Exit Servant.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Here Madam all in readinesse.
+<pagebreak id="C3R" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> You take no Gold but what is weight I presume.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> 'Tis but light paines to weigh it Madam. But let me
+save your Ladiship that labour.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Nor shall it be your trouble, command your
+Servant I pray for a glasse of your beere --
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Some beere for my Lady presently. </dialogue><nonSpeech> <font>Exit.        
+Prentice.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> That I may tell you in more privacy, what
+perhaps you would not have him heare: for Prentises though
+they are bound to keepe their Masters secrets, are not
+all privy to their Mistresses; that's more a Journeymans
+Office.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Your Ladiship is pleas'd.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Not very well with my selfe, for I have gone
+beyond my Commission in this bargaine, and exceeded my
+Husbands allowance. Here's one hundred pounds eight
+shillings 4 d. <font>ob.</font> in the Bill, and he allowes me but the bare
+hundred pound.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> The od money is but a small matter Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> A great matter in an honest poore Countrey
+Ladies purse, may serve her a whole Christmas at Post and
+Pare, or Farthing gleeke, when the gay Gamsters wives
+o' the City may command the hundreds, out of the
+purses of such poore Ladies Husbands. But here is the odd
+money, eight shillings foure pence, half penny, and so all's
+paid. 
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> What meanes your Ladiship?
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Doe you not understand mee then? I'le tell you
+that which I thought fit to conceale from your servant;
+And from your husband too had hee been here, perhaps
+he knowes not on't. My husband left with you, or lent
+you the last Terme a hundred pound, which hee assign'd
+to me; and now I have it in Commodity. Had you
+forgot it, when it was to do you a good turne, when your
+absent husband faild you, and you wanted it.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> A good turne Madam?
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Yes, was it not to have the free use of a hundred 
+pound ready money, a whole quarter of a yeare, through
+a dead Vacation, and at last to take it out in wares? A
+good turne I thinke for a Trades-woman; take heed you
+do not by your sullennesse make me suspect another kind
+of good turne, or that you did my husband any to my
+injury, nor deny the receipt of his money, lest I take up
+a violence that will not become mee, nor you be able to
+beare. Be therefore well advis'd both in what you say,
+and who heares me. Somebody comes.
+</dialogue><nonSpeech> <font>Enter Prentice with Beere.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Madam your Beere.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I'le pledge you Mistris <font>Saleware</font> .
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I shall presume then Madam -- </dialogue><nonSpeech> <font>Drinks.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> This was right cast, was it not friend?
+   </dialogue><nonSpeech> <font>Pre.</font> </nonSpeech><dialogue> Your Ladyship will finde it so -- </dialogue><nonSpeech> <font>La.         
+Drinks.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> And I hope you will finde your money so well
+bestowd Madam, that you will vouchsafe always to know
+the Shop.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Ever upon the like occasion, Mistris <font>Saleware</font> , 
+so
+most kindly farwell sweet Mistris <font>Saleware</font> .
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> The humblest of your servants Madam. Open the
+Boot for my Lady.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> 'Tis done, my Coach-man does it. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I would the Devill were in your Coachmans Coat
+to take his carriage for his paines. </dialogue><nonSpeech> <font>Lady returnes.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> One word more Mistris <font>Saleware</font> , can it be he?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Lay your comands on me good Madam. </dialogue><nonSpeech> <font>Curtsie.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> Not to your trouble, I perceive a young
+Gentleman attends for conference with you. Is not his name
+<font>Fitzgerrard</font> ?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> No Madam, his name is <font>Bellamie</font> , much
+depending on the young Lord <font>Lovely</font> .
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I thought I had known him, hee is a handsome
+youth. I cannot blame you now with him: but beware 
+<pagebreak id="C4R" />
+of old Knights that have young Ladies of their owne.
+Once more adieu sweet Mistris <font>Saleware</font> . </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Most courteous Madam -- and once more to the
+Devill. But on my life her chast Ladiship is taken with
+this beard-lesse <font>Bellamie</font> . How shee shot eyes at
+him!
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Now may your servant obtaine a hearing
+Lady.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> My eares are open Sir.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> But you are sad or angry, why seemes that brow
+to threaten a subjection over him that is your vanquish'd
+captive; or has <font>Cupid</font> plac'd his Bow there bent at me,
+whose heart already lodges all his Arrowes, never to be
+restor'd but by your pity?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Fie, fie upon't! what talke is this? I am vex'd, and
+you would mad me.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> What has displeas'd you?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> A crosse businesse that has happened in my Shop
+to day, I being none of the wisest Chapwoman, have
+undersold a parcell of the best Commodities my husband
+had. And should hee know't wee should have such a
+scwable.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Husbands should be so serv'd that do impose
+Those mercenary Offices on their wives.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Talke so, and I will heare you, your amorous notes
+sound like Play-speeches.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Servile, nay slavish Offices, ranking their wives
+with their prentises.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> They pretend onely that wee should over-looke
+our servants, when they but set us there for shew to draw
+in custome: but in making us such over-seers they are
+overseene themselves; Shopkeepers-wives will be
+medling and dealing in their kinde, and as they are able, as wel
+as their husbands (some much better, and more
+profitable) but I was overreach'd I confesse.
+<pagebreak id="C4V" />
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> For no great matter I hope.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> No, the matter was not much (that never fretted 
+me) but the manner has eene kild a Shee shop-keeper.
+I cannot be long-liv'd, here under a Pent-house, as my
+Lord (you know) told mee when he said he would shut
+mee out of this servitude, and that I should change my
+Coat, though my husband could not, before hee were an
+Alderman, and be rank'd with Ladies.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> My Lord has still the same regard of you.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> So it appeares by the Tailor and the Mercer, whom
+he sent foure dayes since to measure me out, and sute mee
+to his Honour, and no returne of them found, yet his
+Land might ha' beene measur'd all and sold, while a
+poore sute is dreampt on, had he borne the mind of some
+Lord?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> I doubt not but this paper will cleare that
+jealousie. And while you reade I'le speake that which I
+dare not utter through, Sighes and Blushes to an intire
+attention.
+I am of Noble-blood my selfe, free-borne,
+And not without good education;
+But since I am ingag'd in this imployment,
+And made an instrument of others lust,
+I finde my selfe a scandall to my Name,
+To Honour, and to Vertue, the base blot
+Of Pandare sticking on me. But not this
+Alone is my affliction. Here's my torment,
+That while I doe true service to my Lord
+(Whom I must ever honour) in my Agency
+Unto your selfe (whom I cannot but love)
+I finde my selfe a Traytor to his trust,
+In my negotiation for my selfe.
+Nor can I finde it possible to desist,
+Mine own attempts, to you, or forbeare to urge
+Your constancy to him.
+<pagebreak id="C5R" />
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> How easie a worke
+'Twere for one woman to supply 'em both,
+And hold her husband play to levell Acoile,
+A wooden two-leav'd booke, a paire of Tables
+Would do't.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> How wretched is that suppliant, who must make
+Sute to obtaine that, which he feares to take!
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> At the beare at the Bridge-foot six a clock, good.
+Sir, I finde my Lords honorable appointments here, and
+have heard you all this while.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Now I could wish, and was in hope you had
+not.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I will not blame you on your Lords behalfe;
+Because you have enough rebuk'd your selfe.
+But Sir, if you presume upon the favour
+I give your Lord, and therefore to obtaine me,
+Cause I am his, you undervalue me
+To thinke that I can stoop unto his servant,
+Though almost his Companion, you may thinke
+After that degradation by degrees,
+I may, in time, descend unto his Footman, I'me no cast
+Garment of his Lordships yet.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> You have school'd mee fairely, I am humbled,
+Lady -- </dialogue><nonSpeech> <font>Going.</font> </nonSpeech>
+   <nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Dee heare, dee heare sir, Mr. <font>Bellamine</font> , 
+One word before you goe.
+   </dialogue><nonSpeech> <font>Pren.</font> </nonSpeech><dialogue> What would hee buy Mistris? can you take his
+money?
+Sir dee heare?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Pray attend you the tother end o' th' Shop,
+If I cannot handle a Customer, why dos your Master
+trust mee? Could a frowne fright you? Let a smile then
+cheare you.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> And that's a heavenly one,
+As that of <font>Cynthia</font> at <font>Endymion</font> .
+<pagebreak id="C5V" />
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Pray leave your Player-like passionate expressions.
+And if you love mee, like a Man speake to me.
+As I am a Woman; are you silent? if you doubt the 
+length of my mans Eares at that distance, you may
+whisper what so? But that is a right shop-whisper indeed
+with Trades-women that are handsome; Is that the
+most you will give sir? Could I afford it so, doe you
+thinke I'd make two words w'ye? yet this before you
+goe -- </dialogue><nonSpeech> <font>Kisse.</font> </nonSpeech><dialogue> Now match it for the price I'le give it 
+you for nothing.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> I shall forget I have a Lord. I must forget him
+here.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Doe so, and if (I say) you love mee, speake
+plainely what you would have mee doe, or what you
+would doe with mee (I love to dant these young things
+that love before they can love to the purpose, or speake
+to't handsomely like a Boy that would faine be
+shooting at wild-fowle, before hee knowes how to discharge
+a Birding-piece) I would heare you speake, you have
+often muttered and fribled some intentions towards me,
+but I would heare you speake. Come, if you love me lay
+by the feare of the Lord that sent you, and tell me
+roundly now, what you would have me doe?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> I would intreat you --
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Well; what?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> That you would be pleas'd --
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> With what? or to doe what?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> To weare this paire of Silke stockins for me.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Is that all your sute, 'tis granted, with my thanks
+to you; Have you no more to say?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Yes, I say you are the beautifull'st of Women;
+and that my Lord in your enjoyment is the
+happiest --
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Nay thinke not of your Lord, but aske me, 
+something.
+<pagebreak id="C6R" />
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> I would but dare not hope for such a favour,
+you'l never grant it, my unworthinesse.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> How can you tell?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> You will not wrong my Lord, so as to doe it.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Not in his sight perhaps. What is it? come.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> It is --
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> It is then, let it be so. Go to Schoole child.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> It is -- That you would, let me -- give you this   
+ring,
+And grace it with your Finger.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Will that be a wrong to your Lord?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Yes, to weare any favours, but his own.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Dos he know this?
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> No, nor I would not that he should (and given by
+me) for all the Rubies in Cheapside, where I bought this
+but now, over the way.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Come sir, I'le dally w'ye no longer, I know what
+you would have with me.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> And now you will betray me: I am sham'd then
+and undone.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> No, but I have you o' the hip. 'Tis plaine you
+would lie with me: deny it if you can.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> O deare, did I say so now?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> What need you when I know it, you would lie
+with me, and you shall. Take courage man.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> But, in good earnest, shall I? shall I?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Yes, in good earnest, you'l finde it no trifling
+businesse, when you come to't once. But sir, upon
+condition.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Any condition Lady.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> All purpose on't is lost, and all comes out else.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Name your condition, I'le performe it if it be in 
+the power of my life.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> You saw here at your comming a faire Lady.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I tooke no notice of her.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> But she did of you, she is calld the Lady            
+<font>Thrivewell</font> .
+<pagebreak id="C6V" />
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Sir <font>Oliver Thrivewells</font> Lady?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> The same, you have known her it seemes.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> Seene her before shee was married.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I will be briefe with you, as you love mee shee
+loves you as eagerly, but with much more boldnesse, you
+saw her whisper mee, and how loth shee was to depart,
+when her eye was upon you.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> I did observe it.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Shee is my noble friend, and the sweetest Lady,
+I need not set her out. But though you thinke you suffer
+in your honour, in being an instrument twixt your Lord
+and mee, with the base blot of Pander sticking on you,
+(these were your words) I have ingag'd my selfe for
+her to be your Pandaresse; be so, I shall be even with you
+in businesse if you account it so.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> What dee meane Lady?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> To urge against my selfe, for that sweete Lady,
+which no Woman else I thinke would doe, that loves
+you so unfainedly as I. But 'tis my fate, and the
+injunction I must lay upon you, to make mee yours. That first
+you give your selfe to her Embraces; I'le give you means
+for your accesse to her, and your successe with her,
+which done, and on your faith affirm'd to mee, 'tis so,
+I will perpetually bee yours more freely then your
+Lords.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> You urge this but to try my constancy.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> For that I'le satisfie you soon, my husband coming
+we must to night at the Beare --
+My Lord writes so.
+</dialogue><nonSpeech> <font>Enter Saleware.</font> </nonSpeech>
+   <nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> And there I will direct you in your progresse.
+<font>Ally</font> how dost? Mr. <font>Bellamy</font> how ist? How dos my
+noble Lord? You are sad methinks. Ha' you overbought
+any thing here, and so repent your bargaine? Or cannot
+my wife, and you agree upon't? you must use Mr. <font>Bellamy</font>
+<pagebreak id="C7R" />
+kindly my sweet <font>Ally</font> : hee is our noblest Lords most
+speciall favorite, and must finde all faire dealing here, as
+well when I am abroad as at home sweet heart.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> You heare not mee complaine sir, fare you
+well. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> What an Affinego's this! He might ha' thank'd
+mee for my good words, though I meant him no good
+will, I hope thou hast overreach'd him indeed.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> <font>Thomas</font> your hopes are vaine, <font>Thomas</font> in      
+seating
+mee here to overreach, or underreach any body. I am 
+weary of this Mechanick course <font>Thomas</font> ; and of this
+courser habit, as I have told you divers and sundry times
+<font>Thomas</font> , and indeed of you <font>Thomas</font> that confine me to't,
+but the bound must obey.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Never the sooner for a hasty word, I hope sweete
+<font>Ally</font> ; Not of me nor of my shop I prethee at seasonable
+times Love. But for thy habit (though this be decent on
+a Citizens wife) use thine owne fancy, let it be as
+Courtly, or as Lady-like as thou pleasest, or my Lords
+desires.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Then I am friends agen.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Troth, and I'le call thee friend, and I prethee, let
+that be our familiar and common compellation: friend
+it will sound daintily, especially when thou shalt appeare
+too gallant to be my Wife.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Sa.</font> </comment> Then let it be so friend.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Al.</font> </comment> Intruth it shall, and I  
+am very much taken with
+it. Friend I have found a Customer to day that will
+take off my rich parcell of broad Bed-lace, that my
+Lord <font>Paylate</font> bespoke, and left on my hands, for lack of
+money.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I have sold it already friend, with other Laces at
+a good rate.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> And all for ready money friend?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Yes friend, a hundred pounds, and somewhat more.
+<pagebreak id="C7V" />
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Who would be, or who could live without such
+a friend, in such a shop? This money comes so pat for a 
+present occasion, to stop a gap. It has stopt a gap already
+friend.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I have dispos'd of the money, the odd hundred
+pound for apparrell, friend, and other accommodations
+for my selfe.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Never the sooner for a hasty word I hope
+friend.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> I have done it friend, whereby to appeare more
+Courtly, and Ladilike as you say, to gaine you more
+custome to your Shop.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Uuch friend -- Is it so?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> And friend you must not be angry, or thinke much
+of it, if you respect your profit friend.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> I were no friend but a wretch if I would. No let
+it goe friend, and -- <font> <foreign>Sapientia mea mihi</foreign> </font> is my word, I
+must not grudge at my friend in any thing.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Then friend, let your shop be your own care for
+the rest of this day, I have some busines abroad.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Whither sweet friend?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Is that a friendly question?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> I am corrected friend, but will you not take a
+Man to wait upon you?
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> To watch me, shall I? and give you account of my
+actions? was that spoke like a friend?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> I am agen corrected friend,
+Doe your own pleasure, you'l returne to supper.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Yet againe?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> And agen, I am corrected friend.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> Neither to supper, nor to bed perhaps.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Never the sooner for a hasty word I hope.
+   </dialogue><nonSpeech> <font>Al.</font> </nonSpeech><dialogue> But if I chance to stay, you cannot be a faithfull
+friend and aske mee where, or in what company, 
+friendship you know allowes all liberty. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<pagebreak id="C8R" />
+   <nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> <font> <foreign>Sapientia mea mihi.</foreign> </font> A wity wife, with an
+imperious will,
+Being crost, findes meanes to crosse her Husband still;
+And Tradesmen that so match, must not with Gall
+Temper their wives, but sweetly by wit-all. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter Carelesse, with two Letters in his hand, and Wat
+with a Candle, and Wax.</font> </nonSpeech>
+   <nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Dos not the World come finely on, <font>Wat</font> , ha?
+And have not wee convenient commings in already,
+ha! </dialogue><nonSpeech> <font>Shew Gold.</font> </nonSpeech>
+   <nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Better then wee know how to have payd, for
+that's the glory on't.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I need no more insconsing now in <font>Ram alley</font> ,
+nor the Sanctuary of <font>White-fryers</font> , the Forts of
+<font>Fullers-rents</font> , and <font>Milford-lane</font> , whose walls are dayly     
+batter'd
+with the curses of bawling creditors. My debts are payd;
+and here's a stock remayning of Gold, pure Gold harke
+how sweetly it chincks. </dialogue><nonSpeech> <font>Carless seals his Letters.</font> </nonSpeech>
+   <nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Yes, and 'twill ring the changes shortly.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> For necessaries <font>Wat</font> , for necessaries it shall 
+change,
+and Ring all out, and 'twil so long as I have an Unkle, and
+know to mannage him, let money flie,
+I can no faster spend then he supply.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> For necessaries sir, but you must not now count Sack
+and Tobacco, Whores and Fidlers in abundance,
+necessaries.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Why pray?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Because you'l have but little then for
+extraordinaries, That is to say in a Gentleman for charitable, and
+pious works and uies.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> The fellow's spoy'ld.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Not spoy'ld neither: For I would but wave your
+purpose of flying at all new Game, and neglect your
+poore whore, who now begins to be so violent for
+<pagebreak id="C8V" />
+wrongs, shee can no longer beare, that shee intends to
+pursue you with her complaints hither to your Unkles
+House.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> My Unkles House? my house. Is not the first
+Mornings draught mine?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> With great reason, for you are first dry in the
+morning.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Is not the question first ask'd mee, what will you
+have to breakfast? what will please you for Dinner,
+and what for Supper? Has not my Unkle let out
+monies, and taken Bonds and Morgages in my name? doe
+not his Tenants crowch to mee, and his servants all call
+me young Master? And dos not my Unkle take care to
+marry mee to ten thousand pound, and a thing like a 
+wife?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> You have got a brave possession here, I must
+needs say; and I applaud your fortune most in this, that
+your young Aunt the noble Lady here, who you see
+feard would prove a cruell Stepdame to you, appeares
+to be more friend to you then your Unkle. 'Tis a most
+gracious Sun-shine in her.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Shee shall lose nothing by't. I have thought a 
+way to requite her.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> But sir, for Mistris <font>Phebe</font> , will you take no
+order for the poore soule?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I do not like your zealous solicitation, but her's
+an order for her, in answer of her Malipert Letter you
+brought me last night. Give it her, and these five pieces,
+upon condition that shee never come, write, or send to
+me againe, till I send to her.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> That's somewhat hard Sir.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Nay look you <font>Wat</font> , you are a little mistaken in
+me. I must give over whoring, for speciall causes
+thereunto me moving.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> O now I finde you. And 'twere richly worth
+<pagebreak id="D1R" />
+your patience, if you could winne the Widow by't, for
+whom you stood in faire election once, untill your last
+debauchment.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I shall stand fairer for her sir, when I leave
+working but a weeke or two, shall I not?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Yes, if you leave it quite, but to forsake her
+whom you have brought low, to fall to others, were such
+a thing -- 
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Well sir, it may be I will, it may be I wo'nt,     
+what's
+that to you? carry you the Letter, and the Money, and try
+how that will worke with her.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I'le doe my best, but if shee should exclaime,
+and bring on her Cosen Mr. <font>Saleware</font> to bee
+clamorous --
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Her Cozen's a Cuckold, exclaime and clamorous!
+give me my money againe.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Nay I am gone sir. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter Saveall.</font> </nonSpeech>
+   <nonSpeech> <font>Car.</font> </nonSpeech><dialogue> The Rogue's in faction with 'em; O noble
+Mr. <font>Saveall</font> , you have most fairely kept your minute with
+me, I have written my Letter, seald it and all, here to the
+Widow.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> So early? that is well.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I have written no lesse then six large Epistles
+this morning, and sent 'em now by my Man to be
+convey'd into the Country to Lords and Knights, with all
+the news spirituall, and temporall, forraine and
+domestick that could possibly fall into a private Gentlemans
+Collection.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Is it possible?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> With such dexterity, that if I would make a
+Trade on't, I could undoe all the Newes-mongers in
+Town that live by't.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> It is a most commendable practise in a 
+Gentleman, and it will mature your judgement in the both
+<pagebreak id="D1V" />
+Common-wealth and State affaires, and in short time
+invite you unto the chaire of <font>Helme</font> .
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> When I am once married, and setled, you shall
+see what an asse 'tis, he believes me.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> How am I comforted in my Meditation for you,
+and how over-joy'd will your Unkle be at the use you
+make of your retirements!
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I confesse it is (by reason of my unwontednesse
+to it) some difficulty for me to write to women;
+wherefore since you have so nobly undertaken the conveyance
+of this, let me beseech you to apologize for the rudenes
+of my stile.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> <font>To the faire hands of the most acomplish'd in
+vertue Mistris</font> Anne Crostill, <font>present, I pray with my service</font> ;
+The out-side hath no rudenesse on it, and (I doubt it
+not) shee shall finde within all sweetenesse and
+urbanity.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> As you may interpret it to her sir.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Sir, what I have already said, and do intend to
+say unto her from your Unkle, and my selfe on your
+behalfe, together with what you have here written, shall
+(I doubt it not) prepare so faire a way of proceeding for
+you; That at your visit of her you may say, <font> <foreign>veni, vidi,         
+vici</foreign> </font> ,
+she is your own.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And then -- a ha, Mr. <font>Saveall</font> !
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> Expect your fortune modestly, and when it comes
+embrace it with discretion.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Sir, I am edified.
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> It is well if you be so; I will put my undertaking
+in action presently, Pray for my good successe.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I dare not tell him now I cannot; but I wish well
+for the Monies sake; and let the Vintners pray, and all
+the decay'd Sparks about the Towne, whom I will raise
+out of ashes into flame againe. Let them pray for my
+good wokes. O my young Lady aunts grave waiting
+<pagebreak id="D2R" />
+Woman. If shee were not hers, and out of this
+house I should take her for a Bawd now. But being
+hers, and here how much may I mistake? all flesh is
+frayle.
+
+</dialogue><nonSpeech> <font>Enter Nurse with Candle cup.</font> </nonSpeech>
+
+   <nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Not to disturbe your morning Meditations, my
+Lady has sent you --
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And you have brought me, what sweet Mistris
+<font>Closet</font> ?
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> A part of her Ladiships own breakfast, it is very
+cordiall and comfortable to the spirits, I assure you,
+and delectable to the younger sort, and profitable to
+the old.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> One of <font>Robert Greenes</font> workes, or the mad
+Doctor that preaches boyld in't I thinke.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> 'Tis a composition of mine owne Sir, of many
+excellent decoctions, of most wholesome restorative, and
+costly ingredients.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> That it was sent by her makes it more
+excellent, whose bounteous care of me, I must acknowledge
+exceeds all cost in carving to me, and countenancing me
+at her Table, in gracing me in presence of the Ladies
+that come to visit her; in giving charge for decency in
+all things for my Chamber, my fires shining, my odours
+burning, my livery serv'd in, my soft and costly bed
+prepar'd and spread with perfum'd linnen -- here's
+Ambergreece in this now --
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> O is it so, doe you finde that?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> But though shee is my own Unkles wife, I could
+e'ne say 'tis pity a young man had her not.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> What a wag's this?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Shee is a most sweet Lady.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Shee is a sweete Lady indeed, I can best speake
+<pagebreak id="D2V" />
+it that have knowne her from the wombe hitherto: A
+sweete infant shee was borne, and a sweete babe I
+swadled it, and a sweete child I nurs'd it, I traynd it up a
+sweete child. It was in manners a sweet child, at her
+Booke and Sample a sweet child. I never whipt it but 
+once, and then it was sweete too, and sprawl'd but a
+little, and whimper'd but a little it was so sweet a child;
+And so shee grew upwards, and upwards towards
+woman, and a sweet youngling shee was, and so grew 
+upwards and upwards towards man, and then a sweete
+Bride shee was, and now a most sweet Lady shee is,
+(as you say, and I commend you for it) And so she stands
+at a stay. For now shee growes no more upwards then
+upon her Wedding day, not upwards as I would have
+her upwards, here I meane young Gentlemen, could I
+but see a sweet babe of hers once by my Master, I could
+be then content to sleep with my Ancestors.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I had rather see your Gibship hang'd up with
+Polcatts in a Warren, and your sweet Lady with you,
+though I confesse that were some pitty. I hope her
+barrennesse, or his will preserve her from my curse.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> I hope still, and shee hopes still; and I make
+him of this broth for every morning, and many other
+good strengthning things (I cannot say for the same
+purpose) for I shall never see him have an heire by
+her.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Excellent! that's best of all.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Because you then are heire, say you so? Is that
+your love to your Aunt?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> No I protest <font>Nurse</font> , I meant by the broth, the 
+bottome was the best of all.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Then I cry mercy.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Cannot all thy art, and her cost finde helpe for
+my Unkle, think'st thou, to get a child?
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Helpe! what dee meane. He might have helpe
+<pagebreak id="D3R" />
+and helpes enough, were she not too vertuous.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Still thou mistak'st me <font>Nurse</font> .
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Away wag away, your Aunt loves you too well
+to thinke so of her.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> <font>Nurse</font> as I hope to inherit any thing 
+hereafter --
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> I should but serve you well to tell her your
+good thought of her.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> <font>Nurse</font> , by this good -- peece I thinke no
+harme.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Nay, nay.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Take it I say. And tell her if thou wilt, that I
+love her so well, that were shee not mine Unkles
+wife, I would get her an heire my selfe rather then be
+his. 
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Kinde young Master, now I am heartily sorry
+that I mov'd you.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And for my Unkle were I his heire apparent, I
+rather wish he might live till all this World were weary
+of him, and the next affraid to take him.
+Then I survive him (Tongue <comment type="compiler">SOURCE TEXT: Tonuge</comment> , a pox punish    
+you for lying)
+Now I live well, and merily good <font>Nurse</font> ,
+Wealth and Estates, bring cares and troubles with 'em,
+Were all young heires of my contented mind,
+Parents and Patrons would be better prayd for.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Good Gentleman.
+   </dialogue><nonSpeech> <font>Lady within</font> </nonSpeech><dialogue> <font>Nurse</font> Closet. -- <font>Closet</font> --
+<comment type="compiler">SOURCE TEXT MISLEADING AS CHARACTER NAME PLACED BETWEEN SPEECH THUS: 
+<font>Nurse</font> Closet. <font>Lady within</font> -- <font>Closet</font> --</comment> 
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> O my Lady calls.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Present my thanks and best respects unto her.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> I should ha' told you first -- I ha' forgot. My
+head is naught,
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> What member hast thou good then?
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> My Lady desires you -- This talke has put me
+out -- O this head! My Lady desires you --
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Desires shee me <font>Nurse</font> ?
+<pagebreak id="D3V" />
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Yes sir, shee desires you.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Refuse me if I desire not her as much, for all she
+is my Unkles leavings.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> My Lady desires you.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And shee shall have me <font>Nurse</font> -- And she were
+ten Unkles wives, and she ten of mine Aunts.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> O this head! nay now you will not heare
+mee, shee desires you to goe abroad in the Coach
+with her.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Any whither, to <font>Islington, Newington, 
+Padington, Kensington</font> , or any of the City out-leaps (I know 'em 
+all) for a spirt and back againe, tell her I am up and 
+ready for her, and could ha' been without her stirrup
+porredge, though I thanke her for her care. A man can
+not be too well prepar'd, or provided for so sweete a
+Lady, in so much distresse. A very <font>Andromeda</font> , chain'd
+to a Rock. </dialogue><nonSpeech> <font>Takes up his Cloak &amp; Sword.</font> </nonSpeech>
+   <nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> What's this you say? I understand no word of it,
+I would take your answer right, though I falter'd in my
+Ladies message.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> The Devills in this overruning Tongue of mine,
+I could finde in my heart to worme him out with my
+teeth.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> What must I tell my Lady Sir?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> That I am more oblig'd to her Ladiship then I
+was to my Mother, shee has brought mee a new man
+into the World, and that my Being and my Life is
+hers.
+</dialogue><nonSpeech> <font>Enter Lady</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> I hope hee's a true convertite, did I send you to
+hold discourse here, Closet?
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Nor did I Madam, but I could heare this 
+Gentleman a whole day methinks. Hee speakes so
+acknowledgingly of your Ladiships vertue, and goodnesse
+towards him.
+<pagebreak id="D4R" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I am beholding to him, will you goe with mee
+Nephew to the Exchange? I am to buy some toyes there
+for the Country, you may get a fancy by't.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Good, I must weare her favours.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Or cannot you forbeare your study so long?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> To doe you service Madam, under whose
+commands I build my happinesse.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Be not at the distance of complement with mee
+good Nephew.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I would not be thought insolent deare Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Come the Coachman grumbles at my stay, and
+'twill be Dinner-time presently, so the Cooke will be
+angry too.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> You are all tendernesse to your servants
+Madam. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> A sweete Gentleman, and bountifull, if my
+Lady had been blest with such a Husband, what a place
+had I had! </dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+
+ <head>ACT III. SCENE I.</head> 
+
+<nonSpeech> <font>Enter Crostill reading a Letter, Saveall.</font> </nonSpeech>
+   <nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> Doe you know the contents Mr. <font>Saveall</font> of the
+familiar Epistle you have brought me here?
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> No Lady, but I guesse it a faire expression of the
+Writers affection to you, although hee desired mee to
+crave your pardon for the rudenesse of his stile, it
+being the first that hee hath composed of that
+consequence.
+<pagebreak id="D4V" />
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> Ha, ha, ha, I'le trust you sir, with the full
+knowledge of it, pray read it your selfe.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> I finde shee is pleased, and my indeavour
+prosperous, for the young Gentleman, I am sorry that I
+delaid a day in the delivering of it.
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> Pray read it out sir, for I finde it so pleasant  
+that
+I could heare it a whole day together.
+</dialogue><nonSpeech> <font>Reades.</font> </nonSpeech>
+   <nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> <font>In the first place you shall give mee leave to
+wonder at your impudence (though it be but in your
+dreames) to have a thought that I ever intended, or can
+be drawne by perswasion, force, or the power of
+witchcraft to marry you</font> --
+Blesse mee! sure if hee writ this, the Devill dictated
+to him.
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> On sir, that's but his first charge.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> <font>Secondly, I am to tell you, that I am warme
+in mine Unkles favour. And 'tis not a peece a time,
+or five peeces for a peece of pleasure can undoe mee;
+and so I can have change, and scape the captivity of
+Wedlock.</font> 
+This could no otherwise be done but by the Devill that
+ought him the shame.
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> What follows I pray, there's the first and second
+point past? marke his method.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Thirdly, and lastly, let mee advise you, since
+you are so hot upon Marriage, though I assure my
+selfe you love none but mee, (and I thanke you for't)
+that you fraine or dissemble an affection to some one of 
+the City, who is but comparative to your selfe in blood
+and fortune, and so you may make by-use of me as your
+friend, and have children like me,
+<font>George Carelesse</font> .
+<pagebreak id="D5R" />
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> Have you ever heard so queint a Love Letter?
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Lady, the injury done in it, to your selfe is
+unanswerable, but my wrong in being his Messenger, I will
+make him answer.
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> Excuse me Sir, he has done me a favour; I pray
+informe him so with my great thankes. But for what
+you conceive a wrong to your selfe, use your discretion,
+you have no more to say to me for him at this present,
+have you sir?
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Not for him but against him, I will un-say all that
+I sayd before intended for his good.
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> But i'le not heare you wrong your former love,
+and judgement of him so, which made so deepe
+impression here, that I had lock'd his love up as a Jewell in
+my Breast, and you in striving now to wrest it thence
+may breake the Cabinet; I rather wish you'l be a 
+friendly meanes to draw his presence hither, that I my self may
+mildly question him.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> Are you serious Lady?
+   </dialogue><nonSpeech> <font>Cros.</font> </nonSpeech><dialogue> I feare I shall not rest before I see him, but doe
+not tell him that, lest in this sullen humour, hee force his
+absence to afflict mee more; I'le hold you sir no
+longer, deale for me as you can, I know you have a guesse at 
+my desire.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> I'le doe you service in it. </dialogue><nonSpeech> <font>Exit Crostill.</font> </nonSpeech><dialogue>
+I guesse that her desire is to doe some act of Revenge
+upon him. And (so it be not mortall) it were but
+Justice in her for so grosse a scorne by him cast upon a well
+reputed Gentleman. Yet is it observ'd in her that shee
+has a violent humour to do, and not to doe things
+oftentimes wilfully against all good councell or perswasion,
+shee has the spirit of contradiction in her, and an
+unalterable resolution upon sodaine intentions, a most
+incorrigible will shee has that will not bow nor breake. This
+crosse abusive Letter therefore may doe good upon her,
+<pagebreak id="D5V" />
+however mischievous hee might intend it. If shee meant
+well to him before, it may the faster bring her on, but it
+amazes me that hee should write so, bearing his Unkle,
+and my selfe in hand, that hee so fairely lov'd her, and
+besought us to negotiate with her for him, should shee
+forgive it, yet the wrong to us in his vile manners is
+unpardonable, and so sir, I come to you.
+</dialogue><nonSpeech> <font>Enter Carelesse.</font> </nonSpeech>
+   <nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O Mr. <font>Saveall</font> --
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> What mischiefe or despight have I e're done you,
+That could provoke your desperate spleene against mee,
+To wound mine honour?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> What doe you meane good sir?
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> You have employed mee basely, made mee your
+Carrier of scandall, and scurrility to the hands
+Of noblenesse and vertue. Could the Fiend
+Lust that is in you suffer you to write
+No other Sense or Language to a person
+Of her faire Name, and Worth, then such as Ruffians
+Would send to strumpets? or it being such.
+</dialogue><nonSpeech> <font>Enter Wat.</font> </nonSpeech><dialogue>
+Could not a Porter, or your Pandare there
+Serve for the lewd conveyance?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> <comment type="compiler">NO CHARACTER NAME GIVEN IN SOURCE TEXT.</comment> What a 
+welcom's that!
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> You might safer
+Ha' sent it so, and your own right hand with it;
+Then to have drawn my just revenge upon you. </dialogue><nonSpeech> <font>Draws.</font> </nonSpeech>
+   <nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Hold I beseech you, and sir, though I lose the
+Widow by my error (which was indeed but a meere
+accident) let mee not be so miserable made as to lose
+you, before you heare a short Examination --
+Deliver'd you the Letter which I sent
+Yesterday to the Damsell that you wot of?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Yes sir, shee read it, kist it a hundred times,
+Then made a bosome Idoll on't,
+And sayes you are the noblest Gentleman.
+<pagebreak id="D6R" />
+Under a Saint that e're tooke care for sinner.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Hell take her for a mistaking whore,
+Shee has the widows Letter, and the widow hers,
+I found it sir, when you judiciously
+Said it was Ruffian-like, and Strumpet language.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> How could you erre so strangely?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O slightly, slightly, curse o' my heedless braine!
+And then too be trapp'd with carelesnesse.
+When I was so religiously resolv'd,
+T'incline to vertue, and a Marriage life,
+Thinking with one hand to cast off my follies,
+And to take hold of vertue with the other,
+For sir, (I will confesse my selfe to you)
+The Letter you conveyed was in defiance,
+A loose liv'd wanton, intended to a whore,
+That impudently hopes an interest in me.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> It was not so directed.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I there was
+(The Hell confound it on't) my giddines:
+I seald both Letters e're I superscrib'd 'em,
+And so gave each the contrary direction.
+   </dialogue><nonSpeech> <font>Sav.</font> </nonSpeech><dialogue> 'Twas a grosse carelesnesse, and if you lose
+A fortune by't, do not blame your friends.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> That fortune should favour a whore before
+An honest woman. 'Twas the sweetest Letter,
+The daintiest winning things -- (the Devills in't)
+Shee must not carry't from the widow so.
+Fetch mee the Letter againe.
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> Do you thinke shee'l part with't sir?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Cannot you beat it out of her sir?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> I cannot tell how to do that.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Thus sir -- i'le give you demonstration, you
+malicious Rogue, you that conspirst with her to betray me, 
+so good a Master I have beene to thee, and so good a
+friend to her, i'le recompence you both.
+<pagebreak id="D6V" />
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> You have undone us both, and will discard us
+now you are warme in your Unkles bosome agen --
+but --
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> But what you Traitor you?
+   </dialogue><nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> You put me in good minde, and if I do not
+somewhat.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I owe you somewhat for your last-nights absence,
+too pernicious Villaine that kepst thy selfe out o' the
+way o' purpose that I should bee drunke, and abuse
+my self, and the house here all lay o' your absence, There's
+somewhat more for that. </dialogue><nonSpeech> <font>Beats him.</font> </nonSpeech>
+   <nonSpeech> <font>Wat.</font> </nonSpeech><dialogue> 'Tis all upon account sir.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Who knowes an honest Servingman that wants a
+good Master. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> Was it your mans fault Mr. <font>Carelesse</font> ? if I be  
+not
+reveng'd &amp;c.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> No faith, To speak truth he was as much abus'd
+in it, as you in doing a thing as contrary to his vile
+conditions, as you did to your noble Name. But I crave
+onely your pardon, I know not what I doe besides. This
+crosse blow of chance staggers my reason so --
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> Well sir, since I have found the errour, my reason
+reconciles me to you, and since it grew out of your equall
+intent to cast off the evill, as to embrace the good, I will
+re-mediate for you to the widow.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> But yet shee'l know I have had a whore. Yet
+then you may say, 'tis such a running Disease among
+young Gentlemen, that not one of a hundred has scap'd
+it, that have prov'd stay'd men afterwards, and very
+sober husbands; As looke you yonders one may prove,
+whom now I have in good sooth a great desire to
+beate.
+</dialogue><nonSpeech> <font>Enter Lady, and Bellamy talking.</font> </nonSpeech>
+   <nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> In your Aunts presence, and your Unkles house;
+Though I were not his friend; could you be so
+outragious? I muse I see him here though.
+<pagebreak id="D7R" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Cry you mercy sir, are you his friend?
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> I make my selfe so, hee being dependent to my
+noblest Lord, whom I am bound to honour.
+   </dialogue><nonSpeech> <font>Car,</font> </nonSpeech><dialogue> What Lord I pray, that I may honour him 
+too.
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> The Lord <font>Lovely</font> .
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> That loves women above wine, wine above
+wealth, wealth above friend, and friends above himselfe.
+There's no scandall in all that sir.
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> It goes so of him indeed, but he loves honor above
+all those.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Mr. <font>Saveall</font> a word.
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> Your servant Madam.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> In the name of flesh, for what dos his Lordship
+employ that Angle-worme to my Aunt? Hee has had
+her this houre in private conference, close chamberd up
+together, not so much as Matron <font>Nurse</font> in the roome
+with 'em, 'Tis a fine sleeke thing, and almost pitty to
+hunt it, but sure I must beat it, as place and time
+convenient may serve.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Pray Mr. <font>Saveall</font> move you my Husband for
+it, I would not medle in his money matters
+willingly.
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> Five hundred pound for my Lord upon the
+mentioned security, I will break it to sir <font>Oliver</font> .
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Is that the businesse after so much privacy? very
+prety, my Aunts a woman too, and my Unkle may have
+as forked a fortune, as any of the City, that lend out
+money to hedge in Lordships.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I am his Lordships servant.
+   </dialogue><nonSpeech> <font>Bel.</font> </nonSpeech><dialogue> And I your Lordships good Madam. And yours
+Mr. <font>Saveall</font> .
+   </dialogue><nonSpeech> <font>Sa.</font> </nonSpeech><dialogue> I am for your way Mr. <font>Bellamy</font> .
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And I sir, and't please you. </dialogue><nonSpeech> <font>Exit. Sav.       
+Bel.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> <font>George Carelesse</font> , I would speak with you.
+<pagebreak id="D7V" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> May I not wait upon your Gentleman to the 
+Gate Madam?
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> No good <font>George</font> , though I commend your
+curtesie, yet would I not you should neglect your owne
+dignity.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Umh -- I am under Government.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> The young man, if you have modesty will thinke
+you mock him, if not you'l make him become arrogant,
+know you not whose man he is?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> No tis apparent, this over-slighting of him
+proclaimes shee loves him, whose follower Madam, and I 
+know Lords followers, Knights fellows.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Not all Lords followers to all Knights <font>George</font> .
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> To as many as their faire Ladies will give way to,
+that are not faint-hearted.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I understand you not <font>George</font> ; something troubles
+you, you are not right to day.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I am only as I am in your favour Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Come I know what perplexes you, and 'tis
+therefore that I desire to talke with you; I am not angry
+with you, but let mee tell you <font>George</font> , although not
+openly I tooke notice of the pickle you came home in
+last night, after your Unkle was in Bed; to whom, 
+mervayling at your absence I excus'd you, as gone at my
+request to visit some Ladies with whom you staid Supper,
+I told him, when you were with your Roucers.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> But did you never go?
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Indeed I did, and he was satisfied.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O my sweet Lady Aunt! I was indeed amongst 'em,
+and deeply merry.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> And drunke as deeply!
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I will abuse your goodnesse so no more.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Say and hold <font>George</font> , for your own good.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> What's now become of mee, I am under
+correction.
+<pagebreak id="D8R" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I would you could have seene your selfe, and how
+your disguise became you, as I was told, I do but
+friendly tell you of some passages, as they were to mee related,
+by those whom I have charm'd to speake no more on't.
+Be secure therefore in your Unkle.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O my deare heavenly Aunt!
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> First, at the doore you bounc'd like a Giant at
+the Gate of an inchanted Castle, before which could be
+opened offence was taken by you at your Sedan-men;
+for asking money (as appeard afterwards) more then
+you brought from the Taverne, and leaving their office
+fouler by a distemper'd stomach-full, then you found it.
+In the strife for these sad causes your Sword being seiz'd
+on, you being unable to use it, were found by my servants
+at <font>Luggs</font> with your brace of Corps bearers, in the dirt, 
+and their poore hovill Chaire turnd on his ridge in the 
+Kennel.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I'le never be drunk agen.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I hope you will say so, when you have heard all
+<font>George</font> ; but by the way your late stock being spent, here
+are ten peeces towards a supply.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O sweet golden Aunt!
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> <comment type="compiler">NO CHARACTER NAME GIVEN IN SOURCE TEXT.</comment> Well    
+sir, the striefe appeas'd, you were tane in. Then hay
+is there no Sack i'the house? Tis for you in you Chamber
+is replid, up you are had, where is the Rogue my man?
+not seene since Yesterday; Fetch me a wench. Blesse us
+cries old <font>Sim</font> the Butler, wee have none i'th house, nor
+cannot send for any out o' dores. Dost -- tell me that? is
+not my Ladies Woman, my Ladies Chamber-maide, the
+Laundry-maide, the wench under the Cooke, my Ladies
+Nurse old <font>Winter-plum</font> , nor my Lady her selfe within?
+I know, or will know all the shee things in the house.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But why me up in your bedroll <font>George</font> ?   
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Pseigh. </dialogue><nonSpeech> <font>Beats his head</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> You remember none o' this!
+<pagebreak id="D8V" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> It is not worth it Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Nor how you scar'd Chamber-maid, whom <font>I</font> sent in
+love to see care taken for you, not dreaming of any ill
+thought in you, doe you remember how you told her, 
+and what you would give her, when your Unkle died for
+a small present curtesie? she was faine to satisfie <comment type="compiler">SOURCE TEXT:   
+saisfie</comment> you with
+a false promise to steale to bed to you before foure men 
+could force, or humor you into it.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> What an unhallowed Rascal was <font>I</font> !
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> 'Tis well you consider it now. And still consider
+<font>George</font> .
+How ill excesse of Wine, Roaring and VVhoring
+becomes a Gentleman, and how well sobrietie, curtesie, and
+noble action, and dangers wait upon the one sort, and
+what safety accompanies the other!
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Wine, Roaring and Whoring, <font>I</font> will lay that
+saying of yours Madam to my heart; but Wine is the great
+wheele that sets the rest a whirling.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> True <font>George</font> , for had you not first beene sullied
+with Wine, you would not have abus'd your selfe to ha
+tumbled in the dirt with your Litter-mules, nor offer'd
+to seduce my Chamber-maide. Suppose you had
+overcome her, how could you have come off but with
+shame to your selfe, and the utter ruine of the poore
+Wench?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Still shee corrects me for my medling with base
+matters and people, shee is not angry shee sayes, though
+<font>I</font> call'd for her last night i'my drinke, shee gives me
+mony, <font>I</font> will now understand her, and whereunto all her
+former favours and her later admonitions are directed,
+and presently appeare a gratefull Nephew.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Nay, bee not sad upon it <font>George</font> , as <font>I</font>      
+would win
+you from your faults, <font>I</font> would have you still be
+cheerfull. If any thought troubles you, you may be free with
+me <font>George</font> .
+<pagebreak id="E1R" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O Madam you have made me, and now take me 
+to you.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> How meane you?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Freely and wholly, the truest, faithfullst servant,
+and I thinke the ablest that any Lady of your lacks and
+longings ever bestowd a favour on, though I say't my self.
+You'l swear't when you have tri'd me, and't be but
+hourely for a month together.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Is the man sound troe?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I defy Surgeon, or the Potecary can come against 
+mee.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Sound i' your senses sir, I meane.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O for blabbing Madam never feare mee, now I
+am resolv'd to live soberly, and be onely yours. And
+with such pleasure, with such safety, secresie, and
+fulnesse, I will so constantly supply you, that you shall
+not have time to dreame of the defects of your old
+man.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Doe you meane your Unkle, and not know whose
+wrong you unnaturally and sinfully pursue?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> No man living Madam can doe it for him, more
+naturally and lesse sinfully; I am of the same flesh and 
+blood, and bring his youth to your pleasure, how can
+you thinke old Unkles children are got? or how came
+up the proverbe, <font>Shee is one of mine Aunts</font> , doe you
+thinke? You would have a child by him. All your
+Cawdells and Cock-broaths will never doe it, An old
+mans generative spirit runs all into braine, and that runs
+after covetousnesse too, get wealth, not children. Believe
+it, much Nephews helpe belongs to it, and then the
+children are not degenerate, I cannot thinke but many
+Unkles know it, and give way to it, because stranger
+bloods shall not inherit their Lands, and so sweet Aunt
+if I live not to inherit his, my son may, in your first born.
+There will be a sweet comfort to you.
+<pagebreak id="E1V" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But is all this in earnest?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> In earnest? yes, And I pray so take it, and let it
+be a bargaine, and now presently in the Chamber, I will
+make you my first payment for the purchace.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Fie, fie, you doe but say so?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> That shall be tri'd presently. Come sweet
+Madam, I finde you are willing, and I sweare I am resolute,
+and will be as secret as your own woman, if you will not
+goe I protest i'le carry you.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Nay preythee <font>George</font> set me down a little.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Psewgh -- I need none o' these whesings I.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But prathee tell mee, dost thou not all this onely
+to trie me, or am I a Rogue thinke you, or wouldst thou
+seriously that thine own naturall Unkle, thy bountifull
+Patron, nay thy father on the matter, should suffer such
+a wrong, and done by us?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Harke there againe, Madam have I not proved
+sufficiently and plainely, that I shall in doing the feate
+for him doe him the greatest right in the world, in getting
+him, and you an indubitable heire, and to give him both
+the comfort, and the glory of it?
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Was ever such a Reprobate?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> And you can doe him no wrong (though you had
+not a Ladies priviledge) to Cuckold him, for assure your
+selfe hee Cuckqueanes you, now come Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> You speake not on your knowledge.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I never was his Pimpe, but what I have heard, I
+have heard. Now come Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I heard Mr. <font>Saveall</font> protest within these three  
+days
+that hee thought my Husband the chastest man (of a 
+Gentleman) that he knows.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> O did hee so, Madam, believe it they two have
+whor'd together, and that <font>Saveall</font> has pimpt for him
+oftener then you ever lay with my Unkle.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> What! since he married me?
+<pagebreak id="E2R" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> What else? <font>Saveall</font> is not onely his grave
+Parasite, but his Pimpe, and has spent my Unkle more in
+these civill punctuall wayes, then I in all my whole
+debauches, what did you thinke hee kept him for? O
+they are a brace of subtle dry Tweakes, come now
+Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> What an inhumane Villain's this!
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I'le tell you all now upon our inward
+acquaintance.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> You have told too much already to have any
+acquaintance with me at all, nor shall you unlesse you
+presently recant all that you have, or would have said upon
+this subject.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Madam --
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Stand further and replie not, lesse I call in those
+that shall sadly silence you. Have you abus'd your Unkle,
+and the next best friend you have i' the World, in hope
+thereby to abuse mee most, that was no enemy of yours
+till now you justly have provok'd me?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I tooke not a right course.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Was this the best construction you could make of
+my love to you, or a fit requitall, to make me an
+incestuous Whore?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Yes, yes, a pox my course was right enough, but
+I undertooke her at an ill season. Her spruce springall
+left her but now, i'le tell her so Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Come I perceive you are sorry; and that's a
+part of satisfaction. Therefore for once i'le winke at
+your transgression, especially before others. Here's one
+you see.
+</dialogue><nonSpeech> <font>Enter Closet.</font> </nonSpeech>
+   <nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I doe, the Devill blind her.
+   </dialogue><nonSpeech> <font>Nur.</font> </nonSpeech><dialogue> Madam --
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But tempt me so againe, and i'le undoe you.
+<pagebreak id="E2V" />
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I know how you'l undoe mee witty Madam, 
+<font>Ah</font> -- </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> Nay be not sad <font>George</font> , discover not your       
+selfe, and
+you are safe, for once I tell you.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Shee'l come about I see.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> But will you Cozen goe, and doe that for me?
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> Most readily good Madam, I have your full
+directions.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> All Cosen, if you forget not.
+   </dialogue><nonSpeech> <font>Car.</font> </nonSpeech><dialogue> I cannot be so negligent in your service Madam, 
+I finde by this fain'd errand shee dares not trust her
+trollop there, I love her wit now too. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>La.</font> </nonSpeech><dialogue> He is both schoold, and coold I hope. Now <font>Closet</font> 
+what's your News?
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> Of a Citizen Madam that intreats to speake with
+your Ladiship.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Doe you not know his Name, or Trade?
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> Yes, I had both eene now, but I have such a 
+Head.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> If you have lost 'em by the way pray go back and
+seeke 'em, or bring you his businesse.
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> I ask'd his businesse Madam, and told him hee
+might trust mee with it without a hand to his booke, but
+he said it could not be delivered, but by his owne word
+o' mouth to your Ladiship.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> What strange matter is it troe? or what Citizen,
+is not his Name <font>Saleware</font> ?
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> Yes Madam, and he is a (O this head) a --
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> A Silkeman is he not?
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> Yes Madam the same.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I hope his impudent Wife has not told him all; 
+if shee has, where's his remedy in this Womans
+Lawcase?
+   </dialogue><nonSpeech> <font>Clo.</font> </nonSpeech><dialogue> There's a Gentleman with him too Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Then wee shall have it, 'Tis his Wife sure, well I
+<pagebreak id="E3R" />
+am prepar'd for the incounter. Bid 'em come up, if they
+grow violent or too bold with mee, i'le set my Nephew
+<font>George</font> upon 'em. 'Tis not his Wife, what Creature is it
+troe with me, Mr. <font>Saleware</font> ?
+</dialogue><nonSpeech> <font>Enter Saleware, Phebe.</font> </nonSpeech>
+   <nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Craving your pardon Madam, a few words in the
+behalfe of this poore Kinsewoman of mine, touching
+a Gentleman, who I heare lives in your House, Mr. <font>George
+Carelesse</font> , Madam, by whom shee has received much
+injury.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> How sir I pray?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Pray Madam read this Letter, weepe not, but
+hold up thy head Cuz, wee will not be dasht, nor basht
+in a good cause; pray read you Madam.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> <font>I am now (Lady) in favour with my Unkle,
+and in faire possibility of a good Estate, deporting my
+selfe (I intend to doe) a civill Gentleman. To which
+end (induc'd as well by reason, as by long continued
+affections) I tender my selfe to you in the holy
+condition of Marriage. If you vouchsafe your consent,
+(which is my most earnest request) I shall not onely
+declare my selfe a good Husband, but the most 
+happy, Geo. Carelesse.</font> 
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Sal.</font> </comment> Wherein appeares the     
+injury to your 
+Kinswoman?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> In flying from his Word, and Deed Madam. He
+has borne her in hand these two yeares, and use her at his
+pleasure, detaining her from her choyce of many good
+fortunes, and at last sends her this to make amends for
+all, and denies his act the next day, sending his man to
+take the Letter from her, pretending 'twas directed to
+another. But never the sooner for a hasty word Cosen,
+we will not be dasht nor basht, I warrant thee.
+<pagebreak id="E3V" />
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Here's the direction. <font>To the Lilly White Hands
+of Mistris Mariana Gymcrack</font> , is that your Name
+Lady?
+   </dialogue><nonSpeech> <font>Phe.</font> </nonSpeech><dialogue> I am the sorrowfull one that is knowne by it
+Madam.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Never the sooner for a hasty word Cosen.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> I conceive the businesse, and find the error, and my
+great doubt is over.
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Weepe not I say.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> What would you have me doe Mr. <font>Saleware</font> ?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> You have discretion Madam, and I made choice
+of your Ladiship to open this matter unto you, rather
+then to Sir <font>Oliver</font> himselfe, whom I would not
+willingly exasperate against his Nephew, you may be pleased in
+a milder way to temper him, and worke a satisfaction for
+my Kinsewoman; Sir <font>Oliver</font> and your selfe Madam, are
+noble Customers to my Shop, and for your sakes I would
+not deale rigourously with your Kinseman, if a gentle
+end may be made. But, if you cannot so compound it,
+the Law lies open, money and friends are to be found, a
+good cause shall not be sterv'd, I will not be dasht nor
+basht, <font> <foreign>Sapientia mea mihi</foreign> </font> is my word, and so good Madam
+you know my mind.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> 'Tis pity a Gentlewoman should suffer too much,
+and I like her so well at first sight, that I am easily mov'd
+to doe good for her, is shee your Kinsewoman in blood
+Mr. <font>Saleware</font> , or your wifes?
+   </dialogue><nonSpeech> <font>Sal.</font> </nonSpeech><dialogue> Mine I assure your Ladiship, though my wife can
+boast as great and noble friends I thank fortune, as the
+wife of any Tradesman that carries a head in the City,
+(but that's by the by) yet I came of a better house, and am
+a Gentleman borne, none disprais'd.
+   </dialogue><nonSpeech> <font>La.</font> </nonSpeech><dialogue> Well Mr. <font>Saleware</font> , leave your Kinsewoman with
+me a little while, you shall not be seene in my act, i'le try
+what I can doe for her.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TMACCL">
+  <dialogueHeader>
+
+    <filename>D5TMACCL</filename>
+
+    <identifier>5 TRIAL D5TMACCL</identifier>
+
+    <title>EARL OF MACCLESFIELD</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1725</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL OF THOMAS EARL OF MACCLESFIELD, IN THE HOUSE OF
+PEERS, FOR HIGH CRIMES AND MISDEMEANORS; UPON AN IMPEACHMENT BY THE
+KNIGHTS CITIZENS AND BURGESSES IN PARLIAMENT ASSEMBLED, IN THE NAME OF
+THEMSELVES AND OF ALL THE COMMONS OF GREAT-BRITAIN. BEGUN THE 6TH DAY
+OF MAY 1725, AND FROM THENCE CONTINUED BY SEVERAL ADJOURNMENTS UNTIL
+THE 27TH DAY OF THE SAME MONTH.
+PUBLISHED BY ORDER OF THE HOUSE OF PEERS. 
+LONDON: PRINTED BY SAM. BUCKLEY IN AMEN-CORNER. 
+1725.
+PP. 24.31C1 - 30.33C1 SAMPLE 1 
+PP. 34.39C1 - 38.29C1 SAMPLE 2 
+PP. 38.25C2 - 40.61C2 SAMPLE 3
+PP. 44.46C1 - 45.57C2 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SQUARE BRACKETS USED FOR PARENTHETICAL COMMENTS BY NARRATOR ARE 
+RENDERED AS ROUND BRACKETS.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="24C1" />
+   <nonSpeech> <font>Mr. Serjeant Pengelly.</font> </nonSpeech><dialogue> We beg leave that Mr.
+<font>Eyre</font> may be produced and sworn, in order to
+prove the Administration of this Oath, and to
+prove the Noble Lord's taking it several Times.
+
+</dialogue><nonSpeech>Mr. <font>Thomas Eyre</font> Sworn.</nonSpeech>
+
+   <nonSpeech> <font>Mr. Serjeant Pengelly.</font> </nonSpeech><dialogue> My Lords, We desire
+that Mr. <font>Eyre</font> may be asked, Whether he is an
+Officer of the Exchequer, and what that Book in 
+his Hand is?
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> My Lords, This Book I have had
+in my Custody ever since I have been in the
+Office. I have been there forty Years. This is the 
+Book in which the Statute of 12 <font>Rich.</font> 2. is
+enter'd; and, before the Privy Council name the
+Sheriffs, this Statute is read over to them, and
+then the Privy Counsellors are all Sworn.
+
+   </dialogue><nonSpeech> <font>Mr. Lutwyche.</font> </nonSpeech><dialogue> My Lords, We desire the Oath
+may be read.
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> There is no Oath in the Book, 'tis
+only the Statute.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> Will your Lordships be
+pleased that he may speak aloud. He says there
+is no Oath in the Book.
+
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> The Statute is read, and as soon as
+it is read the Book is presented to the Privy
+Counsellors, and they are Sworn.
+
+   </dialogue><nonSpeech> <font>Mr. Serjeant Pengelly.</font> </nonSpeech><dialogue> My Lords, We desire he
+may be asked, Whether he was present at any
+Time when the Earl of <font>Macclesfield</font> has taken the
+Oath to perform this Statute in the Court of
+Exchequer?
+<pagebreak id="24C2" />
+   </dialogue><nonSpeech> <font>Mr Eyre.</font> </nonSpeech><dialogue> Yes, several Times.
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> I beg leave to ask this 
+Question in the first Place, Is there any Oath there
+in that Book?
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> No, nothing but the Statute of
+<font>Rich.</font> 2.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> Nothing but the Statute
+of <font>Rich.</font> 2. What is it you read, or do at that
+Time when you say the Privy Counsellors are
+sworn.
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> As soon as this Statute is read, the
+Bible is presented to the Privy Counsellors, and
+they kiss the Book.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> Is there any one Word said
+to them, or by them?
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> No, the Statute is read over, and
+the Privy Counsellors kiss the Book.
+
+   </dialogue><nonSpeech> <font>Mr. Serjeant Pengelly.</font> </nonSpeech><dialogue> My Lords, We desire he
+may read it.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> My Lords, I desire that
+he may read the very Words in the Book, as he
+reads them in the Exchequer.
+
+</dialogue><nonSpeech> (Mr. <font>Eyre</font> reads the Statute.) </nonSpeech><dialogue>
+
+<comment type="compiler">STATUTE OMITTED.</comment>
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> Those you say are the
+very Words you read at that Time when the
+Sheriffs are nominated in the Court of
+Exchequer?
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> Yes.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> I suppose you read in that
+very Manner.
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> Yes.
+
+   </dialogue><nonSpeech> <font>Earl of Macclesfield.</font> </nonSpeech><dialogue> Do you say any one
+Syllable more?
+
+   </dialogue><nonSpeech> <font>Mr. Eyre.</font> </nonSpeech><dialogue> No. 
+<pagebreak id="25C1" />
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> In the next place, I desire he
+may tell your Lordships what it is that the
+Officer does at this time?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> He carries the Book to all the Privy
+Counsellors, and they kiss it.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> Does he not carry it to the
+Judges too?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> Yes, every one present kisses the
+Book. 
+   </dialogue><nonSpeech>Earl of <font>Macclesfield.</font> </nonSpeech><dialogue> Does he say any thing to 
+them?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> You say he doth not say any
+thing to them?
+   </dialogue><nonSpeech>Mr. <font>Eyre</font> </nonSpeech><dialogue> No, nothing at all.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we desire that
+Mr. <font>Eyre</font> may be asked, whether, during his time,
+this hath not been the usual Method of 
+Swearing the Lords of the Privy Council?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> Yes, my Lords, it has.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, it seems to be a
+Question whether this is Swearing at all. 
+Therefore the Question I desire may be ask'd this
+Witness, is, what Book it is they kiss?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> My Lords, it is the Bible.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I desire he may be asked, 
+whether this hath not been taken to be Swearing them
+to do what is commanded by this Statute?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> My Lords, we beg Leave to
+object to that Question. We apprehend the
+Witness is only called to give Evidence as to the Fact,
+and not to state his Reasons and Constructions of
+Fact.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, I beg Leave then to
+ask a Question that I hope they won't object to:
+Whether or no this is not the Manner of
+Swearing the Lords, upon the Nomination of Sheriffs
+in the Court of Exchequer?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> My Lords, we humbly beg
+Leave to object to that Question: We apprehend 
+That Centers in the same thing with the former.
+The Witness has already given your Lordships
+an Account of all that is said and all that is done
+when this Act of Parliament is produced. He
+tells your Lordships the Act of Parliament is read;
+they kiss the Book; nothing is asked of them,
+nor is any thing answered: And yet the 
+Gentleman is pleased to ask, whether this is called a
+Swearing? The Witness has given his Evidence,
+your Lordships will determine whether it be a 
+Swearing or no.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, I desire he may be
+asked, whether this Kissing the Bible upon the
+reading this Act, is not usually done at the time
+of appointing the Sheriffs?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> As soon as ever the Act is read
+over, the Privy-Counsellors kiss the Bible.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, I desire it may
+be asked, whether they proceed to name or
+appoint any Sheriffs before they kiss the Book in
+this manner.
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> No, they do not.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we shall rest
+this matter here.
+   </dialogue><nonSpeech>Lord <font>Lechmere.</font> </nonSpeech><dialogue> My Lords, I would be glad if
+this Question might be asked the Witness; 
+Whether there is any Entry or Memorandum made
+upon Record in the Court of Exchequer, of any
+Oath taken by the Privy-Counsellors on this
+Occasion?
+   </dialogue><nonSpeech>Mr. <font>Eyre.</font> </nonSpeech><dialogue> No, there is not.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> We submitt this Matter to your
+Lordships: This Statute prescribes, that an Oath
+shall be particularly taken; the Fact has been 
+<pagebreak id="25C2" />
+stated by the Witness: And whether it does not
+amount to the Proof of an Oath, that they will
+comply with that Act of Parliament, we leave to 
+your Lordships Judgment.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We shall leave this
+Evidence to your Lordships, and submit it to your
+Determination, whether this noble Earl can
+excuse himself from his Obligation to this Act of
+Parliament, as an Oath? It is very probable,
+by his future Conduct, he might be of Opinion,
+that there was no Obligation of any Act or Oath
+upon him: But upon the Evidence given, we
+shall submit this Fact: And shall next proceed
+to call some Witnesses to give an Account of the
+Nature of the Offices of the Masters in Chancery,
+who are admitted, by the noble Lord, within the
+Bar. We shall first produce the Oath which is 
+administred to every Master in Chancery upon his
+Admission: Then we shall shew the Commissions
+from <font>Edw.</font> the VIth's time, and so from time to
+time, to this Day; wherein the Masters in
+Chancery are joined with my Lords the Judges, to
+hear and determine Causes in the Absence of my
+Lord Chancellor; to punish Contempts, to
+execute and administer a Jurisdiction in that Court.
+The particular Oath very little varies from the
+Oath administred to the Lord Chancellor, which,
+in his Lordship's Answer, is set out at large.
+However we shall now beg Leave to produce the
+Oath; and to that Purpose, we desire Mr.
+<font>Pynsent</font> , the Deputy-Clerk of the Crown in Chancery,
+may be examined, and he will produce the Oath 
+before your Lordships.
+
+</dialogue><nonSpeech>Mr. <font>Pynsent</font> sworn.</nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Sir, will you produce,
+before the Lords, the Oath administred to the
+Masters in Chancery, upon their Admission to their
+Offices?
+   </dialogue><nonSpeech>Mr. <font>Common Serjeant.</font> </nonSpeech><dialogue> My Lords, we hope he
+shall give an Account, whether he hath seen the
+Oath taken, and hath administred it?
+   </dialogue><nonSpeech>Mr. <font>Pynsent.</font> </nonSpeech><dialogue> Yes, my Lords, I have seen the
+Oath taken, and have administred it myself. 
+
+</dialogue><nonSpeech>Reads the Oath.</nonSpeech><dialogue>
+<comment type="compiler">OATH OMITTED.</comment>
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, there will be
+Directions given to lay a Copy of this Oath, as well
+as Copies of other Records, upon your Lordships
+Table.
+    The next Evidence we shall produce, are
+Commissions beginning in the Time of <font>Edw. 6.</font> to this
+time, granted to Masters, appointing them to
+hear Causes, <font>&amp;c.</font> The first Commission we shall 
+<pagebreak id="26C1" />
+produce, is dated the 9th of <font>October</font> , the 4th of
+<font>Edw. 6.</font> My Lords, we desire that Mr. <font>Paxton</font>
+may be sworn, who has Copies of these 
+Commissions, and has examined them with the
+Records.
+</dialogue><nonSpeech>Mr. <font>Ralph Paxton</font> sworn.</nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we desire that
+he may be asked, whether the Copies in his hand
+are true Copies, and where they were examined?
+   </dialogue><nonSpeech>Ld. Ch. Just. <font>King.</font> </nonSpeech><dialogue> Are they true Copies, and
+where did you examine them?
+   </dialogue><nonSpeech>Mr. <font>R. Paxton.</font> </nonSpeech><dialogue> My Lords, they are true
+Copies. I examined them in several Places. I must
+look upon each of them, and then I shall tell your
+Lordships where I examined them. I examined
+some at the Rolls, some at the Petty-Bag Office,
+and some at the Report-Office.
+   </dialogue><nonSpeech>Ld. Ch. Just. <font>King.</font> </nonSpeech><dialogue> Did you examine them all
+there?
+   </dialogue><nonSpeech>Mr. <font>R. Paxton.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Are they true Copies?
+   </dialogue><nonSpeech>Mr. <font>R. Paxton.</font> </nonSpeech><dialogue> I believe they are, I took a
+great deal of Care and Pains in examining of 
+them.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we desire that
+these Copies may be read.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> Are they upon Stamps?
+   </dialogue><nonSpeech>Mr. <font>R. Paxton.</font> </nonSpeech><dialogue> Yes, Sir, with a double
+Six-penny Stamp.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, it seems they
+are Stampt, since they make an Objection of that
+Nature, we desire they may be read.
+
+</dialogue><nonSpeech>Clerk reads.</nonSpeech><dialogue>
+
+<comment type="compiler">READING OF TEXT IN LATIN OMITTED.</comment>
+<pagebreak id="26C2" />
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly</font> .</nonSpeech><dialogue> We have several others of
+the same Nature, which we have proved, and shall
+not trouble your Lordships to read them. We
+shall beg Leave to lay them on your Lordships
+Table. We shall now desire to read some later
+Commissions; some granted when the noble Lord
+within the Bar had the Custody of the Seal
+himself.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> If your Lordships please,
+the Date of that may be read.
+
+</dialogue><nonSpeech> <font>Clerk reads.</font> </nonSpeech><dialogue>
+<comment type="compiler">READING OF TEXT IN LATIN OMITTED. SHORT SPEECH OF PENGELLY AND 
+THE READING OF A THIRD LATIN TEXT ALSO OMITTED.</comment>
+<pagebreak id="28C2" />
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we don't
+apprehend it necessary to read all the others over;
+we shall deliver them in; unless it be desired by
+the noble Lord. My Lords, we now beg leave
+to call Mr. <font>Meller</font> , who hath executed the Office
+of a Master in Chancery for several Years. He
+will give your Lordships some Account of the
+Nature and of the Manner of Execution of that
+Office, in support of what the Commons have 
+charged.
+</dialogue><nonSpeech>Mr. <font>John Meller</font> sworn.</nonSpeech>
+
+   <nonSpeech> (Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, We desire Mr.
+<font>Meller</font> may be asked whether he hath executed
+the Office of a Master in Chancery, and how long,
+and what is the Nature of that Office?
+   </dialogue><nonSpeech>Ld. Ch. Just. <font>King.</font> </nonSpeech><dialogue> Sir, you hear the
+Question?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, according to the best
+of my Remembrance, I was admitted a Master
+the latter End of the Year 1708, and continued
+so till <font>July</font> , 1720. The general Nature of the
+Office is, to digest and sum up those Matters
+which are ordered upon Hearing to be referred
+to us, by way of Report: That is the general
+Business. There is a further Business, when Bills
+of Costs are to be taxed, they are taxed and 
+adjusted by us what is to be paid. I don't
+recollect any more particular Business.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I desire he may be asked, for
+whose Service and Use those Reports are made?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> Those Reports are made for the
+Use of the Suitors of the Court. 'Tis to state
+the Facts that the Lord Chancellor has referred
+to the Master that are too tedious for the Court
+to look into.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> To whom are they returned
+and directed?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> These Reports are made to the
+Court, to the Lord Chancellor, or the Master 
+of the Rolls. They have these Reports, and
+make a final Order upon them.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> I desire he may be asked,
+when Reports of the several Matters referred to
+the Master to consider of, which would take up
+too much Time of the Court to settle, are made,
+whether those Reports of the Master are at all
+conclusive? Or what is the Method in case the
+Parties don't acquiesce?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, the Report is only to
+state the Facts to the Court; and till the Report
+is confirmed by the Court, what the Master hath
+reported has no Effect. So that I apprehend it is
+only to lay the State of the Matter before the
+Court: If what the Master reports, seems
+agreeable to the Court, then they confirm it; if not,
+they vary it, or sometimes send it back again to
+the Master for his further Consideration.
+   </dialogue><nonSpeech>Mr. <font>Com. Serjeant.</font> </nonSpeech><dialogue> My Lords, I desire that
+Mr. <font>Meller</font> may inform your Lordships, if any
+Person apprehends the Facts mistaken, whether
+they have not an Opportunity of rectifying this
+Report of the Master.
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, so far as I apprehend,
+the Rule of the Court is this, when a Report is
+drawn up, the Parties on both Sides have Liberty
+to object to that Report before the Master; and
+whatever they put in by way of Objection before
+the Master, they may speak to those several Points
+when the Report comes before the Court.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn</font> </nonSpeech><dialogue> What are the Matters that
+are generally referred to the Masters by the
+Court?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> The Chief Matters are the stating
+of Accompts.
+<pagebreak id="29C1" />
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> My Lords, I beg leave to ask
+the Witness this Question. Whether any Matters 
+of Judgment are at any time referred by the
+Court to the Master?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> The Nature of Reports requires
+some Conclusion upon them, to be given by the
+Masters according to the best of their Opinion.
+But the Court gives a Sanction to those Reports.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> Whether in any one Instance,
+the Judgment of the Master is final to the
+Suitor?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I will recollect, and give your
+Lordships the best Account that I can remember
+as to that. I think when a Master has taxed a 
+Bill of Costs, there is a Subpoena taken out for
+the Costs upon the Master's Report, without
+going to the Court. I am not sure.
+   </dialogue><nonSpeech>Mr. <font>Com. Serjeant.</font> </nonSpeech><dialogue> When Exceptions are taken
+to a Master's Report, doth the Master or the
+Court pass a Judgment upon them?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> The Method is this, when a 
+Report is drawn up, a Copy is given to both Sides,
+and each Side puts in such Objections to it as
+they think proper; the Master goes through those
+Objections, and having gone through them, he
+forms an Opinion upon the whole. Then it goes
+to the Court, and the Parties have Liberty to go
+upon those Objections before the Court, who
+finally determine.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> I desire, my Lords, that Mr.
+<font>Meller</font> may acquaint your Lordships who
+presided in the Court when he came in?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lord <font>Cowper</font> , I take it, was
+then Chancellor; it was in the Year 1708, or
+the Beginning of 1709.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> We desire to know, whether he
+gave any Money when he came into the Office,
+and to whom?
+   </dialogue><nonSpeech>Mr. <font>Plummer</font> </nonSpeech><dialogue> We have called this Gentleman
+to give an Account of the Nature of the Office
+of a Master in Chancery, we are not come to that
+Matter of giving of Money; we submit whether
+it is necessary to enter into that Question now?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> If this Gentleman is to be
+called again, we beg Leave to reserve that
+Question till they come to that Part of the Charge.
+   </dialogue><nonSpeech>Mr. <font>Plummer.</font> </nonSpeech><dialogue> My Lords, I have another
+Question to ask: It has been asked, whether the
+Determination of a Master in Chancery is final? I
+desire it may be asked, if the Master in Chancery
+makes a Report, to which there is no Exception,
+whether the Decree in Chancery is not according
+to that Report?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I take it, after the Master has
+made a Report, and there is no Exception to it,
+that Report is first confirmed <font> <foreign>nisi</foreign> </font> , and then it is
+confirmed absolutely upon a second Motion.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, I desire he may be
+asked another Question: If there be a Reference
+concerning an Answer which is alledged 
+insufficent, and the Master reports it insufficient,
+whether it is not final and conclusive, unless the
+Party takes Exception to such Report?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> Unless the Party takes Exception,
+'tis looked upon as final: For then he submits
+and puts in a farther Answer, and then the End
+of referring it to the Master is answered: But
+the Party may except if he pleases.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> As to the taxing of Costs, 
+<pagebreak id="29C2" />
+whether when the Costs are taxed to a particular
+Sum, that is not final and conclusive, unless the
+Party makes Application to the Court?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I apprehend I did answer that
+before. The Master, after he has taxed the Bill of
+Costs, the Clerk in Court, as I take it, makes
+out Subpoenas for Costs of course: But I cannot
+speak to that so well as the Clerks in Court; but
+I take that to be the Practice.
+   </dialogue><nonSpeech>Earl of <font>Abingdon.</font> </nonSpeech><dialogue> I would be glad to be 
+informed in this Point: Supposing a Sum of
+Money to be laid out upon a Purchase or Mortgage,
+whether the Titles of those Estates are not
+commonly referred to a Master, and whether the
+Master does not judge of or determine those
+Titles?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> In that Case, I can only speak to
+what came before myself. When there was an
+Order to put Money out upon a Mortgage, the
+first Step I took was, I sent the Title-Deeds to
+some able Counsel; when I had his Opinion, I
+used the best of my Judgment to inform 
+myself: If I found no Objection, then I thought
+I was obliged to allow the Security, and
+accordingly made my Report of Allowance; and then
+as Master set my Hand to the Side of the Deed.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Another Question I would beg
+Leave to ask. Tho' it is well known, yet it is fit
+it should appear from the Witness, and that is,
+Whether the Masters don't sit upon the Bench
+with my Lord Chancellor in open Court in
+<font>Westminster-Hall</font> every Term?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, in <font>Westminster-Hall</font>
+three Masters are required to attend the
+Chancellor; at his own House two; and the like at
+the <font>Rolls</font> .
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> If the Gentlemen have done,
+we beg Leave to ask one Question: Whether even
+in the Case of Costs, if the Parties are 
+dissatisfied, Application is not made to the Court (tho'
+not by way of Exception, yet by Motion) to
+refer it back again?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> In the Case of Costs, it hath been
+a very rare thing to apply to the Court. Some
+Instances there have been, I believe, but few.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> I beg Leave the Master would
+inform your Lordships, whether in the Case of
+Titles, if there happens any Difference in the
+Opinion of the Parties, whether they apply to
+the Court, or are concluded by the Opinion of
+the Master?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I never knew, during the Time
+that I was in the Office, that any Title was ever
+contested before the Court; I mean in my own
+Case.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> Whether or no he knows any
+Case where the Parties have differ'd in Opinion
+about a Title, that the Master's Opinion has
+concluded the Parties?
+   </dialogue><nonSpeech>Mr. <font>Meller,</font> </nonSpeech><dialogue> I don't know, while I was in the
+Office, that there was ever any Objection before
+me in the Case of a Title.
+   </dialogue><nonSpeech>Mr. <font>Robins.</font> </nonSpeech><dialogue> Give me Leave to ask one 
+Question: You say three Masters sit with my Lord
+Chancellor at <font>Westminster</font> , two at his own House:
+I desire to know what they do there, whether
+they sit as Assistants?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, I don't know that ever
+their Advice was asked.
+<pagebreak id="30C1" />
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> My Lords, I would ask whether
+they ever interposed by way of Judgment, or
+took upon them to act as Judges?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> My Lords, I think not, I don't
+remember any Instance of it.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> My Lords, I desire he may be
+asked, whether what the Master ever does is
+confirmed of course, or is there not a Motion
+for that purpose?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I thought I mentioned that
+before: I shall repeat it again. There is first a
+Motion to confirm <font> <foreign>nisi Causa</foreign> </font> ; and upon the
+second Motion, unless there is Cause shewn, it is
+confirmed.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> My Lords, I desire he may be
+asked, if there is not an Affidavit of Service of
+the first Order?
+   </dialogue><nonSpeech>Mr. <font>Meller.</font> </nonSpeech><dialogue> I believe there is; but that is the
+Business of the Sollicitor.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> My Lords, I beg Leave he may
+be asked one Question more, Whether there is
+not a Certificate also from the Register that no
+Cause is shewn?
+   </dialogue><nonSpeech>Mr <font>Meller.</font> </nonSpeech><dialogue> My Lords, I can't speak
+particularly as to that; It is a Business that does not
+lie before the Master in his Office: I believe in
+many Cases the Register certifies.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> We will trouble your Lordships
+with no more Questions except this one; that is,
+Whether we shall see Mr. <font>Meller</font> again? For if 
+we are to take our Leave of him now, we
+should offer some other Questions before he
+departs.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="34C1" />
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, I desire he may
+be asked, whether he paid the One hundred
+Guineas to Mr. <font>Cottingham</font> , and in what manner?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I did pay it, I think it was in
+a Bank Bill of 105 <font>l.</font>
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Do you remember at what
+time?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> It was long before the 
+Resignation: For some considerable time after, Mr.
+<font>Cottingham</font> asked me what I meant that I did not
+pass the Patent, for the Warrant was come over.
+I said I had employ'd Mr. <font>Tench</font> to do it; but
+however I would speak to him again; which
+accordingly I did, and Mr. <font>Tench</font> passed the Patent,
+and I paid him 64 <font>l.</font> 17 <font>s.</font> 0 <font>d.</font> the Fees for passing
+the Patent.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Was that over and above
+the One hundred Guineas?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Yes, my Lords.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Was there any Deduction
+upon the Payment of the One hundred 
+Guineas?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> None at all.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, I desire he may be
+asked, how long this was after he was admitted a
+Master in Chancery?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I believe it was about six
+Weeks. I was admitted a Master in Chancery
+the Beginning of <font>June</font> , and the latter End of
+<font>July</font> following, I surrender'd my Office of Clerk of
+the Custodies.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We have done with Mr.
+<font>Bennet</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> If the Gentlemen have done
+<pagebreak id="34C2" />
+with him, we beg that he may be asked a few
+Questions on behalf of my Lord <font>Macclesfield</font> .
+What was it you desired Mr. <font>Cottingham</font> to say in
+your Favour to my Lord <font>Macclesfield</font> ?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I desired Mr. <font>Cottingham</font> to
+acquaint my Lord Chancellor, that I intended to
+apply myself to the Secretary of State for Leave
+to surrender the Place of Clerk of the Custodies,
+and to beg the Favour, that if the Secretary of
+State should enquire of him after the Abilities
+and Circumstances of Mr. <font>Hamersley</font> , he might
+assure the Secretary of State, that he was a Man
+qualified for the Place, and well affected to the
+Government.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Was that all?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I think that was all.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Was that all that Mr.
+<font>Cottingham</font> told you he had asked?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I don't remember any thing
+more, but only Mr. <font>Cottingham</font> returned for
+Answer, my Lord did not know Mr. <font>Hamersley</font> ,  and
+I must make a Present, and then what I desired
+would be complied with.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I think you say you had
+some Treaty with Mr. <font>Hamersley</font> about the
+Surrender of your Office?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Had you come to any 
+Agreement with him for the Office, if you could
+procure a Surrender and Admittance?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Then I desire to know what
+Sum of Money he was to pay you for that Office,
+if you could procure him to be recommended?
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We hope the Counsel will
+not ask such a Question.
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> It is not so proper for us to
+object: The Objection is to come from him: We
+may tell him that he is not bound to answer such
+a Question, unless he pleases.
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I desire to be excused 
+answering a Question that is not material on one
+Side or the other.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I hope it will be thought
+reasonable, that he should inform your Lordships,
+what was the Consideration that induced him to
+surrender his Office, or what Money he was to
+have?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I might have surrendered
+that Office without receiving any Money for it;
+whether I gave it, or whether I sold it away, is not
+material.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> I desire to know whether he gave
+it away.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> The Question is only to induce him
+to accuse himself of a Fact which may be
+prejudicial to him, and it hath no Influence on the
+Question before your Lordships; which is not,
+whether this Gentleman had a Right to give away
+or sell his Office, but whether the Earl of 
+<font>Macclesfield</font> corruptly took Money.
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> It is our Duty that he should
+not be surprized into a Question that may subject
+him to Punishment: It is not properly an 
+Objection from us; but we ought to let him know,
+that an Answer to the Question may subject him
+to a Prosecution. If he thinks fit to answer, we
+have nothing to say to it.
+   </dialogue><nonSpeech>Mr. <font>Plummer.</font> </nonSpeech><dialogue> I have another Objection to the
+putting of this Question. I perceive the Counsel
+intend to draw out this Tryal to an excessive
+Length; I hope your Lordships, for your own
+<pagebreak id="35C1" />
+Sakes, will not permit this Question to be
+answered?
+   </dialogue><nonSpeech>Earl of <font>Abingdon.</font> </nonSpeech><dialogue> If this Point be insisted on
+on both Sides, it cannot be avoided but they must
+withdraw: But I hope the Counsel for the noble
+Lord will consider very well of it, before they
+give your Lordships or the Managers that
+Trouble: For if your Lordships should judge the
+Question unreasonable, it would throw a Disgrace
+upon themselves, and be at least of no Service to the
+noble Lord that is impeached.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> I humbly apprehend this
+Question to be extremely material, as that
+Circumstance of his having made this Present of One
+hundred Guineas out of Two thousand, perhaps,
+which he received for surrendring the Place, must
+set this matter in a different Light than it would
+appear in, if nothing else had been done but the
+bare paying of the One hundred Guineas; but since
+I perceive it to be your Lordships Sense that he
+should not be asked the Question, I therefore
+decline insisting on it.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> My Lords, I beg Leave to ask
+Mr. <font>Bennet</font> this Question: He was pleased to say
+that he gave a Hundred Guineas. Now I desire
+it may be asked of him, Whether he gave it to
+permit him to resign, or to give a 
+Recommendation of Mr. <font>Hamersley</font> , or what else. That he
+would please to explain it, what it was given
+for. 
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet</font> </nonSpeech><dialogue> I have said it twice; but I
+will repeat it again. I said that it was that my
+Lord Chancellor might recommend the Person
+to the Secretary of State; for I apprehended it
+was not in my Lord's Power or Gift: He might
+have done it without taking any Money.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> With regard to this 64 <font>l.</font> odd
+Money, what was that paid for? Whether to the
+Great Seal only, or for the whole Fees in
+passing the Patent through all the Offices?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> It was paid to Mr. <font>Tench</font>
+the Clerk of the Patents, who passed this Patent
+through all the Offices; and the Great Seal was
+included in it as I apprehend.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> I ask who this Mr <font>Tench</font> is,
+whether he is an Officer belonging to the Great
+Seal, under the Lord Chancellor?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> He is Clerk of the Patents;
+I do not know who he belongs to.
+   </dialogue><nonSpeech>Mr. <font>Robins.</font> </nonSpeech><dialogue> My Lords, I desire he may be 
+asked, Whether Mr. <font>Cottingham</font> told him, that
+the Lord <font>Macclesfield</font> insisted upon any 
+particular Sum?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Mr. <font>Cottingham</font> told me, that
+my Lord insisted upon One hundred Guineas;
+and I argued the Unreasonableness and
+Hardship of it.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> My Lords, I desire Mr.
+<font>Bennet</font> may acquaint your Lordships, whether ever
+he made any Application to the noble Lord for
+Permission to resign?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I never spoke to my Lord
+myself.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> If the Gentlemen have done
+with him, we beg Leave to explain this Matter,
+and to ask him upon what Account it was that
+Mr. <font>Cottingham</font> from my Lord <font>Macclesfield</font> said
+a Present was expected?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I can't say what was Mr.
+<font>Cottingham's</font> Reason; but he said my Lord 
+Chancellor did not know Mr. <font>Hamersley</font> ; and then
+he went on, and said, a Present was expected.
+<pagebreak id="35C2" />
+I apprehended, Mr. <font>Cottingham</font> took it, that I
+could not do it without my Lord Chancellor's
+Consent.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I desire he may be asked,
+Whether the Hundred Guineas was paid for a
+Recommendation of Mr. <font>Hamersley</font> , or that the
+Whole of procuring the Warrant for the
+Patent was to be done for it?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Mr. <font>Cottingham</font> assured me,
+I need have no farther Trouble about it, if I
+would pay the Hundred Guineas: He would
+get the King's Warrant; and I should have no
+farther Trouble, but passing the Patent.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, I desire he may
+be asked, whether he depended upon these
+Assurances, or whether he made Application to
+any body else?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I never made any other
+Application; and I told Mr. <font>Cottingham</font> , if any
+Accident happen'd of Death, <font>&amp;c.</font> before the
+Warrant came over, I hoped my Lord Chancellor
+would return the Hundred Guineas; and he
+said, Surely so.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I beg Leave to observe,
+that the Patent proves that this corrupt Bargain
+was executed.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I desire he may be asked, 
+whether Mr. <font>Cottingham</font> delivered to him the
+Sign-Manual, or whether Mr. <font>Cottingham</font> got the 
+Patent passed?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I never saw the
+Sign-Manual. He delivered it, as I believe, to Mr. <font>Tench</font> .
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Did Mr. <font>Cottingham</font> give you
+Notice when the Sign-Manual came over?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> Yes, he did give me Notice
+it was come over, and was very angry I did not
+go about it.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> I desire Mr. <font>Bennet</font> may give
+your Lordships an Account what Time it was?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> About the latter End of
+<font>July</font> .
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> I desire he may be asked,
+whether he had not made Application to the 
+<font>Secretary's-Office</font> ?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> No, I had not made any
+Application at all.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Did you never make any
+Application to any other Person, either before
+or after?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I am positive I did not.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> Did you ever say about
+that time, that you had made Application to any
+other Person?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> No, I don't remember that
+I did.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> No; did you never make
+Application to any body else?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I never told any body, to
+the best of my Knowledge and Belief. I am
+very confident I never did.
+   </dialogue><nonSpeech>Mr. Serj <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, if they have
+done with this Witness, we beg Leave to call
+Mr. <font>Cottingham</font> , who was an Agent, and paid 
+over this Money to my Lord <font>Macclesfield</font> .
+</dialogue><nonSpeech>Mr. <font>Peter Cottingham</font> sworn.</nonSpeech>
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we only call
+Mr. <font>Cottingham</font> to acquaint your Lordships when
+he paid over these Hundred Guineas to my Lord
+<font>Macclesfield</font> .
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> In <font>July</font> I think it was.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> How long after you
+received it from Mr. <font>Tho. Bennet</font> ?
+<pagebreak id="36C1" />
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I believe I paid it over that
+Day, or the Day after.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I desire he may be asked,
+how long before the Patent was passed?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I can't tell, because I can't 
+certainly say when the Patent passed.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> We desire to ask him,
+whether it was that Year when the King was beyond
+Sea?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I think, my Lords, it was;
+it was in <font>July</font> 1723.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> If the Gentlemen of the House
+of Commons have done with him, I beg that he
+would give your Lordships an Account what
+Discourse he had with Mr. <font>Bennet</font> ?
+   </dialogue><nonSpeech>Ld. Ch. Just. <font>King.</font> </nonSpeech><dialogue> You hear the Question?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> Mr. <font>Tho. Bennet</font> told me he had
+agreed with Mr. <font>Hamersley</font> for the Place of the
+Clerk of the Custodies; and that he did not think
+it convenient to keep two such considerable 
+Places which depended upon his own Life only;
+that is, the Master's Place, which he had before
+purchased, and this. He told me he had
+disposed of this Place to Mr. <font>Hamersley</font> , in order
+to reimburse himself Part of the Money he had
+paid to Mr. <font>Hiccocks</font> for his Master's Place that
+he had purchased of him, and for that Reason
+he did not care to keep both.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> Did he tell you how much he
+had disposed of it for?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> No, he did not.
+   </dialogue><nonSpeech>Mr. <font>Com. Serj.</font> </nonSpeech><dialogue> My Lords, I desire Mr.
+<font>Cottingham</font> may be asked what it was Mr. <font>Bennet</font> desired
+him to request of my Lord <font>Macclesfield</font> ?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> To the best of my 
+Remembrance, he said, he hoped that his Lordship would
+accept of a Hundred Guineas, because he had
+received from him so lately a Present for his
+Master's Place; and he desired his Lordship to
+forward his Petition to his Majesty.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> Was this on the first Application?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> Yes; he never made but one
+Application to me.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> It is of Consequence; and
+therefore I desire it may be asked, whether at the 
+first time he apply'd, he made this Offer of One
+Hundred Guineas?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> He did, and I paid it over to
+my Lord <font>Macclesfield</font> .
+   </dialogue><nonSpeech>Dr <font>Sayer.</font> </nonSpeech><dialogue> I desire Mr <font>Cottingham</font> may be
+asked, whether he knew Mr <font>Hamersley</font> before this 
+time?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> I knew him very well, he was
+my next Door Neighbour both in Town and
+Country.
+   </dialogue><nonSpeech>Dr <font>Sayer.</font> </nonSpeech><dialogue> Did you tell Mr <font>Bennet</font> you did not
+know him?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> No, I never told him so, it
+was impossible I should; he was my next Door
+Neighbour both in <font>Bell-year</font> , and at <font>Hampstead</font> .
+   </dialogue><nonSpeech>Dr <font>Sayer.</font> </nonSpeech><dialogue> What Character had Mr <font>Hamersley</font> ?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> A very good one.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> When you first spoke to me
+of this matter, what did you tell me?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> I told your Lordship Mr
+<font>Hamersley</font> was my next Door Neighbour both in
+Town and Country; and that he was a 
+Gentleman of as unquestionable a Character as any at
+the Bar; and your Lordship was pleased to
+depend upon me for his Character.
+   </dialogue><nonSpeech>Mr <font>Strange.</font> </nonSpeech><dialogue> He is pleased to say Mr <font>Bennet</font>
+did not inform him what Agreement was made
+<pagebreak id="36C2" />
+between him and Mr <font>Hamersley</font> . But did not he say
+on what Account he resign'd?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> He told me he surrendred the
+Office, to reimburse himself the Money he had
+paid to Mr. <font>Hiccocks</font> for his Office.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> What Office was that?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> The Master's Office.
+   </dialogue><nonSpeech>Mr. <font>Strange.</font> </nonSpeech><dialogue> Did he mention that?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> Yes, he did mention it.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> If they have done, we beg
+leave to ask Mr. <font>Cottingham</font> , since he informed my
+Lord of the Circumstances of Mr. <font>Hamersley</font> , 
+whether he acquainted my Lord of Mr. <font>Hamersley</font>
+before or after the time he paid the 100 Guineas?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I acquainted his Lordship
+before.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I beg leave to ask another
+Question. If this Gentleman can inform your
+Lordships upon what Account it was, he received
+the 100 Guineas from Mr. <font>Bennet</font> ?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I received the 100 Guineas
+upon Account of his Surrender of his Office.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We beg leave to ask
+another Question. Whether before he agreed with
+Mr. <font>Bennet</font> , he had informed my Lord <font>Macclesfield</font>
+of any Proposal, or what was to be expected?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> No, I don't remember I did.
+All that passed on that Occasion was, Mr. <font>Bennet</font>
+said he was willing to give 100 Guineas, and he
+hoped his Lordship would not insist upon more.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I beg he may be asked
+another Question. Whether when he came back
+from my Lord <font>Macclesfield</font> to Mr. <font>Bennet</font> , with
+the Account of the Acceptance of the 100
+Guineas, whether he did not tell Mr. <font>Bennet</font> he ought
+to take it as a favour that his Lordship accepted so
+little?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I can't remember, but I
+think I did not.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Can you say you did, or
+you did not?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> To the best of my 
+Remembrance I did not.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We desire he may inform
+your Lordships what Answer he brought to Mr.
+<font>Bennet</font> from my Lord <font>Macclesfield</font> ?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> The Answer my Lord
+<font>Macclesfield</font> ordered me to give to Mr. <font>Bennet</font> , was, that
+he agreed to accept of the 100 Guineas according
+to his Proposal.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether was this Offer of
+the 100 Guineas the first time, or after Mr.
+<font>Cottingham</font> had spoken to my Lord <font>Macclesfield</font> about
+it?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> Mr. <font>Bennet</font> proposed to me to
+give the 100 Guineas before I spoke to my Lord
+about it.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether it was the first
+Time he offered the 100 Guineas, or some time
+after.
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> He offered the 100 Guineas
+the first time.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether Mr. <font>Cottingham</font>
+did not say the first time, that something was
+expected?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I believe I did say the Great
+Seal would expect something.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Mr. <font>Cottingham</font> says he believes
+he did say something was expected. Then I
+desire to refresh his Memory, and that he would
+acquaint your Lordships whether that was
+mentioned before the 100 Guineas were offered?
+<pagebreak id="37C1" />
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> No, not as I remember.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> What did you say on that
+Occasion?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> I said on that Occasion, as
+he offered 100 Guineas, I told him my Lord was
+willing to accept of it.
+   </dialogue><nonSpeech>mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I am speaking of the first
+Discourse he had with him, I think he does 
+recollect that he said my Lord expected something
+on the Account of this Office?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> The first Discourse when that
+was mentioned, I told him my Lord expected
+something to be paid by way of Compliment.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Was that the first Discourse?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> The first that I remember.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I beg another Question. If
+Mr. <font>Cottingham</font> told Mr. <font>Bennet</font> that my Lord
+expected something by way of Compliment, how
+came Mr. <font>Cottingham</font> to know that?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> Mr. <font>Bennet</font> asked me if I
+believed his Lordship would not expect a 
+Compliment? I told him I believed his Lordship would,
+and then he said he would give 100 Guineas.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Had you any Discourse with
+my Lord <font>Macclesfield</font> before?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> No, none at all. I told him
+it was usual to make a Present; and then he told
+me he was willing to give 100 Guineas.
+   </dialogue><nonSpeech>Mr. <font>Plummer.</font> </nonSpeech><dialogue> I know Mr. <font>Cottingham</font> is a 
+very honest Gentleman. I desire to ask him, if
+Mr. <font>Bennet</font> did not then tell him, that when his
+Brother was admitted, my Lord <font>Cowper</font> would 
+take nothing?
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> He did not upon the Oath
+I have taken, this is the first Word I heard of
+it: I did not know whether his Brother paid any
+thing or nothing.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> There is some little
+Variation, tho' not material, between Mr. <font>Bennet</font> and
+Mr. <font>Cottingham</font> ; we beg that Mr. <font>Bennet</font> may
+come to the Bar again.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> My Lords, I don't oppose
+Mr. <font>Bennet's</font> coming to the Bar again; but I think
+it is very extraordinary for Persons to produce
+Witnesses to confront their own Witnesses.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> We do it, to confirm the
+Testimony of our Witness.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> In an Affair of this Nature
+it is impossible to produce direct Evidence, 
+without producing the Agent employed. Mr. 
+<font>Cottingham</font> was the Agent made use of by the
+Chancellor, and we beg leave to ask of Mr. <font>Bennet</font>
+what Answer Mr. <font>Cottingham</font> brought or said he
+brought from my Lord Chancellor relating to
+this Affair.
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> When Mr <font>Cottingham</font> went
+from me to my Lord Chancellor, there was not
+a Word of Money mentioned the first time. I
+would not so much as put it into his Head; and
+he returned to me the next Day, and told me my
+Lord Chancellor insisted upon a Present. Then
+I said it was very hard, and I would give my Lord
+100 Guineas if it must be so.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Was it not at the second
+Meeting that he insisted on a Present to my Lord?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> At the second Meeting. At
+the first time he did not, because there was no
+mention made of Money.
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> All that Mr <font>Bennet</font> said to
+me on that Occasion was, that in regard a
+Compliment of 1500 Guineas had been so lately given
+to his Lordship, he hoped his Lordship would
+take no more of him than 100 Guineas.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> These Gentlemen are
+pleased to differ in their Evidence. I would ask
+<pagebreak id="37C2" />
+Mr <font>Bennet</font> a second time, whether Mr <font>Cottingham</font>
+told him that he did not know Mr <font>Hamersley</font> .
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I am sure Mr. <font>Cottingham</font>
+told me that my Lord Chancellor did not know 
+him, and I think he told me that he did not
+know him. That made me say, why, Sir, that is 
+strange you should not know him, when he lives
+the next Door to you!
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> Before, he said Mr.
+<font>Cottingham</font> said he did not know Mr <font>Hamersley</font> . I think
+he told your Lordships so, that he did not know
+him.
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> It is impossible to swear to a
+Conversation at so great Distance.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> You are not positive?
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> I am not positive.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> Then, if he is not positive
+whether Mr <font>Cottingham</font> told him so, I desire he
+may be asked whether he is positive that he
+answered Mr <font>Cottingham</font> , why Sir that is very strange
+that you should not know him, when he lives the
+next Door to you?
+   </dialogue><nonSpeech>Mr <font>Tho. Bennet.</font> </nonSpeech><dialogue> I am as positive of the one as
+of the other. This Conversation passed between
+us, as near as I can remember.
+   </dialogue><nonSpeech>Mr. <font>Cottingham.</font> </nonSpeech><dialogue> It is very strange I should say
+so of my very next Door Neighbour, and a 
+Gentleman at the Bar.
+   </dialogue><nonSpeech>Mr. <font>Thomas Bennet.</font> </nonSpeech><dialogue> Therefore I wondered at
+it.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> There is but one thing more
+relating to this Article. It is very well known
+that his Lordship was one of the Lords Justices.
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> It is very strange sure, Mr.
+<font>Bennet</font> , that I should not know him. He is a
+Gentleman at the Bar, I see him every Day at
+<font>Westminster-Hall</font> .
+   </dialogue><nonSpeech>Mr. <font>Tho. Bennet.</font> </nonSpeech><dialogue> That was the Wonder I made
+of it. I might mistake you; I am sure you said
+my Lord did not know him, and I believe you
+said you did not know him. Mr. <font>Cottingham</font> is
+very deaf, and he might mistake me.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, We apprehend,
+the noble Lord does not put us on the Proof of
+his Acting as one of the Lords Justices.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> If Mr. <font>Delafaye</font> is there,
+I desire he may be called to give an Account of
+my Acting.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> What I call Mr. <font>Delafaye</font>
+for, is to give an Account of my Lords Acting as
+one of the Lords Justices. If they don't admit
+it; we must call him.
+   </dialogue><nonSpeech>Dr. <font>Sayer.</font> </nonSpeech><dialogue> My Lords, we desire he may be
+called.
+</dialogue><nonSpeech>Mr. <font>Delafaye</font> called.</nonSpeech>
+
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We desire Mr. <font>Delafaye</font>
+may be sworn.
+</dialogue><nonSpeech>Mr. <font>Delafaye</font> sworn.</nonSpeech>
+
+   <nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Since that is insisted upon
+for Form-sake, which is notorious to the whole
+Kingdom, we only beg leave to ask Mr. <font>Delafaye</font> ,
+whether my Lord Chancellor acted as one of 
+the Lords Justices at the Time of this Patent.
+</dialogue><nonSpeech> (shewing him <font>Mr. Hamersley's</font> Patent.) </nonSpeech><dialogue> Look upon
+the Date of that Patent.
+   </dialogue><nonSpeech>Mr. <font>Delafay.</font> </nonSpeech><dialogue> Yes, my Lords.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we only ask
+this Witness whether my Lord Chancellor, who
+had then the Custody of the Great Seal, acted as
+one of the Lords Justices?
+   </dialogue><nonSpeech>Mr. <font>Delafaye.</font> </nonSpeech><dialogue> Yes, my Lords, he did.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I beg leave to ask him, 
+whether he knew any thing of Mr. <font>Bennet's</font> Petition
+<pagebreak id="38C1" />
+being transmitted to his Majesty abroad, and by
+whose Direction?
+   </dialogue><nonSpeech>Mr. <font>Delafaye.</font> </nonSpeech><dialogue> Mr. <font>Bennet's</font> Petition was
+transmitted to his Majesty abroad, by the Direction of
+the Lords Justices.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I desire this Witness would
+inform your Lordships, whether in Mr. <font>Bennet's</font>
+Petition it was desired that a Grant of his Office
+should be made to any, and what particular
+Person.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> I think we may 
+reasonably object to that Question. We are not for
+troubling your Lordships with unreasonable 
+Objections; but when a Gentleman experienced in
+the Law shall ask Questions, concerning written
+Evidence, we must oppose that, and submit it to
+your Lordships.
+   </dialogue><nonSpeech>Then the Managers for the Commons
+acquainting the House, that they had gone through with
+their Evidence to the Ninth Article, did intend
+next to proceed to the Fifth, Sixth, Seventh, and
+Eighth Articles; and alledging it was requisite
+their Evidence should be given entire, submitted
+it to their Lordships whether they should now
+proceed; whereupon, they and all Parties were
+directed to withdraw, and the Lords Resolved to
+proceed further in the Tryal tomorrow at Ten of
+the Clock in the Forenoon, and adjourned to
+Nine a Clock tomorrow Morning.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="38C2" />
+   <nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> What Arguments were
+made Use of by Mr. <font>Cottingham</font> , to raise the Price
+from One Thousand to Fifteen hundred Guineas?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I don't particularly remember;
+but either Mr. <font>Rogers</font> or Mr. <font>Cottingham</font> said it
+was the oldest and the best Office.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether any thing was
+said that the Office was full of Cash?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> We apprehend that a
+Leading Question.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> It is a proper Question. But
+however, if they do not like it in those Words,
+we will put it into another Form. Whether there 
+was any Discourse about the Profits of the Office?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I don't remember it.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> Was there any Discourse about
+your being recommended by any one?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I told him I had the Honour to
+be known to the late Lord <font>Bradford</font> , and desired 
+to know whether his Recommendation might be
+necessary.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> What Reason did they give you
+why it was the best Office?
+   </dialogue><nonSpeech>Mr. <font>Kynston.</font> </nonSpeech><dialogue> Because it was the Senior Office,
+and had most Causes in it.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> I desire to know what
+Answer Mr. <font>Cottingham</font> gave him, when he said he
+believed he might obtain that noble Lord's 
+Recommendation?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I don't remember any he made.
+   </dialogue><nonSpeech>Mr. <font>Plummer.</font> </nonSpeech><dialogue> Whether any Objection was
+made by him to the Price upon his coming into
+the Office, by reason of any Deficiency in 
+<font>Dormer's</font> Office?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> That Question is liable to
+the same Objection that was made to the former;
+it is too leading.
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> It is a fair Question, whether
+any Objection was made by him, on Account of
+the Deficiency of <font>Dormer's</font> Office?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I mentioned this to Mr. <font>Rogers</font> ,
+he made little of it; I mentioned it afterwards
+to Mr. <font>Cottingham</font> , he too seemed to make light 
+of it, and said it would be made up. So that I
+apprehended it would be of no great Consequence.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> What Reason did he give,
+why he thought his Admission to the Office was
+not worth Fifteen Hundred Pounds?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I don't know that I mentioned
+any thing.
+<pagebreak id="39C1" />
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> In what manner was the
+Money paid?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> I did not count it, but the Sum
+of Fifteen Hundred Guineas was carried in a
+Bag by Mr. <font>Baily</font> to Mr. <font>Cottingham</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I desire he may be asked,
+whether he had any Discourse with Mr. <font>Rogers</font>
+the former Master, about the Value of this
+Office, before he spoke with Mr. <font>Cottingham</font> ?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> How much did he say it
+was worth?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> He said, he usually made 1700 <font>l.</font>
+a Year of the Office, and sometimes 2000 <font>l.</font> a
+Year.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> I desire he may be asked,
+what Sum of Money he gave Mr. <font>Rogers</font> for his
+Place?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> 6000 <font>l.</font>
+   </dialogue><nonSpeech>Dr <font>Sayer.</font> </nonSpeech><dialogue> I desire this Gentleman may be
+asked, at what time he paid Mr <font>Cottingham</font> this
+Fifteen hundred Guineas; whether it was before or
+after his Admission?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> Before; I believe it was the 8th
+or 9th of <font>August</font> in the Morning.
+   </dialogue><nonSpeech>Mr Serj. <font>Probyn.</font> </nonSpeech><dialogue> I desire this further Question,
+whether he paid it out of the Suitors Money, or
+out of Effects of his own?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> It could not be paid out of the
+Suitors Money, for I was not then admitted.
+   </dialogue><nonSpeech>Mr <font>Com. Serj.</font> </nonSpeech><dialogue> Whether Mr <font>Baily</font> , or any body
+else, concerned in negotiating this Affair, gave
+any Account of your Substance and Ability?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> No, I believe not.
+   </dialogue><nonSpeech>Mr <font>Lutwyche.</font> </nonSpeech><dialogue> If the Gentlemen have done, I
+beg Leave to ask him one Question, and it is in
+relation to what he was examined to first: He
+said there was a Discourse, that the Office was
+worth 17000 or 2000 <font>l.</font> a Year. Now, my Lords,
+I would ask him, how it was Mr <font>Kynaston</font> 
+apprehended these great annual Profits did arise?
+whether by the ordinary Profits of the Office, or
+the making Use of the Suitors Money?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> I understood it of both together.
+   </dialogue><nonSpeech>Mr <font>Lutwyche.</font> </nonSpeech><dialogue> There hath been one Question
+asked, as if there was no Colour to say this
+Money was paid out of the Suitors Money: But I
+would beg Leave to ask another Question to
+explain that: I think Mr <font>Kynaston</font> says, that the
+Money paid for him by Mr <font>Baily</font> , was not out of
+the Suitors Money, because he was not then
+admitted; but I would ask, how it was repaid or
+replaced?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> I did not imagine, when I came
+to Town, that the Place would have come to so
+much: There was 1100 <font>l.</font> and 400 <font>l.</font> I borrow'd of
+a Gentleman, one Mr <font>Rogers</font> at <font>Temple-Bar</font> ; and
+I afterwards accompted with him for that Money,
+for I kept an Account of the Money of the Court
+with him.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> What Sum of Money was
+reported to be in your Office, and to go along
+with the Office as Cash?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> I was told there was about
+20,000 <font>l.</font>
+   </dialogue><nonSpeech>Mr <font>Com. Serj.</font> </nonSpeech><dialogue> I desire to know who told him
+so?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> Mr <font>Rogers</font> .
+   </dialogue><nonSpeech>Lord <font>Lechmere.</font> </nonSpeech><dialogue> When the 1100 <font>l.</font> and the
+400 <font>l.</font> was accompted for to the Person that first
+lent it, if I did understand him right, he says he
+accompted for it, and it was allow'd out of the
+Suitors Money.
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> Yes, my Lords, the Money lent
+me to pay Mr <font>Cottingham</font> , I did accompt for that
+Money out of the Money belonging to the Suitors
+<pagebreak id="39C2" />
+of the Court: I understood it was usual to do so,
+and that others had done it.
+   </dialogue><nonSpeech>Lord <font>Lechmere.</font> </nonSpeech><dialogue> My Lords, I would ask him
+another Question; I think Mr. <font>Kynaston</font> talks of
+6000 <font>l.</font> being paid by him to his Predecessor: I
+would be glad to know in what manner that was
+paid, and out of what Money or Effects?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> My Lords, when I treated with
+Mr <font>Rogers</font> , he mention'd to me what Money he
+had in his Hands belonging to the Office; and we
+entred into Articles in relation to my paying him
+6000 <font>l.</font> for his Place: And when I came up to
+Town, in order to take the Office, before I went
+to my Lord Chancellor's, I gave him a Bond for
+6000 <font>l.</font> This was the 9th, and on the 12th he
+deliver'd me up the Bond, and paid me 9 <font>l.</font> in
+Money; and I gave him a Receipt for Six thousand
+and nine Pounds.
+   </dialogue><nonSpeech>E. of <font>Strafford.</font> </nonSpeech><dialogue> I desire he would explain
+himself on that Part; where he says, he gave him up
+his Bond; whether he reckoned the 6000 <font>l.</font> so
+much short of the Suitors Money?
+   </dialogue><nonSpeech>Mr. <font>Kynaston.</font> </nonSpeech><dialogue> Yes, my Lords, I did.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> My Lords, I desire he may
+be asked this Question. He speaks of a 
+Gentleman that paid him 1100 <font>l.</font> Part of the 1500
+Guineas; I desire he may be asked whether, that
+Gentleman had any, and what Money of his in
+his Hands?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> My Lords, I had Money in that
+Gentleman's Hands: When I lived in the
+Country, he used to receive Money for me in Town,
+on Government Securities, and other Occasions,
+and pay as I directed: There was an Accompt
+Current between us, and I did not then precisely
+know what Balance was then in his Hands; but
+I have cast it up since, and find that there was
+about 300 or 400 <font>l.</font> due to me at that time.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> If I apprehend him right,
+he says he had an Accompt current with that
+Gentleman at that time, and kept Cash with him.
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> He used to receive and pay
+Money for me when I was in the Country.
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> I beg Leave to ask one
+Question more, if Mr <font>Kynaston</font> did not afterwards
+keep, with that Gentleman, the Cash of the 
+Suitors, as well as his own Cash, promiscuously?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> When was the Fifteen
+hundred Guineas paid?
+   </dialogue><nonSpeech>Mr <font>Kynaston.</font> </nonSpeech><dialogue> On the 8th the Fifteen hundred
+Guineas was paid, and the 9th I was admitted.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> We don't now proceed to
+examine relating to the manner of Payment for
+the Offices out of the Suitors Money, because
+there will be a distinct Examination as to that, 
+upon another Article; the present Question being
+only about the Sum paid for the Admission, and
+not out of what Money, which we don't enter
+into at present.
+   </dialogue><nonSpeech>Mr <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, we think it
+necessary to mention this, because otherwise it will take
+up a great deal of your Lordships time 
+unnecessarily, and it will be proper to keep the Evidence
+entire; and therefore we hope the Counsel on the
+other Side shall be confined to ask such Questions
+only, as are proper to the Article they are upon.
+My Lords, we desire Mr <font>Charles Baily</font> may be
+called.
+</dialogue><nonSpeech> <font>Mr.</font> Charles Baily <font>sworn</font> .</nonSpeech>
+   <nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, I desire he may
+be asked, whether he paid any Money, and what
+Sum to Mr <font>Cottingham</font> , and when?
+   </dialogue><nonSpeech>Mr. <font>Baily.</font> </nonSpeech><dialogue> My Lords, a day or two before
+Mr <font>Kynaston</font> was admitted, I paid Fifteen hundred
+<pagebreak id="40C1" />
+Guineas, which was given for his Admission. I
+delivered it in a Bag to Mr <font>Cottingham</font> .
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> For what Use was it paid?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> I apprehend it was for the Use of
+my Lord Chancellor.
+   </dialogue><nonSpeech>Mr <font>Lutwyche.</font> </nonSpeech><dialogue> Upon what Account?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> For his Admission to the Office,
+on Mr <font>Rogers's</font> Surrender.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I think he says it was paid a
+day or two before he was admitted.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> Before the Payment of this
+Money, what Discourse was there between you
+and Mr <font>Cottingham</font> ?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> I was requested, by Mr <font>Kynaston</font> , to
+attend Mr <font>Cottingham</font> , to know what was expected;
+and Mr <font>Cottingham</font> told me Fifteen hundred 
+Guineas was expected to be paid, as a Sum for Mr
+<font>Kynaston's</font> Admission.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> If the Counsel for the noble
+Lord don't ask this Witness any thing, we beg
+Leave to call another Witness.
+   </dialogue><nonSpeech>Mr <font>Com. Serj.</font> </nonSpeech><dialogue> There are several matters we
+apprehend proper to be asked now, and yet may
+fall under the other Article. Whether it is your
+Lordships Pleasure that we shall now ask Mr <font>Baily</font>
+as to the Circumstances and Character of Mr 
+<font>Kynaston</font> ?
+   </dialogue><nonSpeech>Mr <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, there is an express
+Article to that Point; wherefore when we come
+to that, then is the time.
+   </dialogue><nonSpeech>Mr Serj. <font>Probyn.</font> </nonSpeech><dialogue> One Question may be proper
+to be asked before this Gentleman goes, and that
+is, whether when Mr <font>Cottingham</font> told him what
+was expected on his Admission, he told Mr
+<font>Kynaston</font> of it?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> Yes, Sir, I told Mr <font>Kynaston</font> that
+Fifteen hundred Guineas was expected.
+   </dialogue><nonSpeech>Mr Serj. <font>Probyn.</font> </nonSpeech><dialogue> Then I desire he may be
+asked, whether Mr <font>Kynaston</font> did not immediately
+consent to give it, or what did Mr <font>Kynaston</font> say?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> Mr <font>Kynaston</font> said he must submit to
+it, and do as Mr <font>Cottingham</font> had mention'd, or to
+that purpose.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether Mr <font>Kinaston</font>
+informed him of offering him any less Sum, and
+what?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> Mr <font>Kynaston</font> mention'd to me that
+he thought it had been but 1500 <font>l.</font>
+   </dialogue><nonSpeech>E. of <font>Macclesfield.</font> </nonSpeech><dialogue> How came Mr <font>Baily</font> to know
+it was Guineas?
+   </dialogue><nonSpeech>Mr <font>Baily.</font> </nonSpeech><dialogue> Because Mr <font>Cottingham</font> told me so.
+</dialogue><nonSpeech>Mr <font>Cottingham</font> called, but did not immediately 
+appear.</nonSpeech>
+   <nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we are
+unwilling to give your Lordships Trouble, only beg
+Leave to take Notice, that Mr <font>Cottingham</font> was
+Secretary to the Lord impeach'd, during the whole
+Course of his Administration; he is not
+immediately under the Power of the Managers, but he
+is under the Obligation of a Summons, and had
+Noticed to attend.
+</dialogue><nonSpeech>Mr <font>Cottingham</font> appears.</nonSpeech>
+   <nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we desire he may
+be sworn.
+</dialogue><nonSpeech>Mr <font>Cottingham</font> sworn.</nonSpeech> 
+   <nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we beg Leave
+to ask Mr <font>Cottingham</font> this Question; the Money
+that he received from Mr <font>Charles Baily</font> , whether he
+paid it over to my late Lord Chancellor, and when?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> The Money which I received
+from Mr <font>Charles Baily</font> , the Fifteen hundred 
+Guineas, I paid it to my Lord in a day or two I
+believe, I believe the next day; it was very soon
+after I received it from Mr <font>Baily</font> .
+<pagebreak id="40C2" />
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether he acquainted the
+Earl of <font>Macclesfield</font> that he had received it upon
+Mr. <font>Kynaston's</font> Admission?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> Yes, my Lords, I told the Earl
+of <font>Macclesfield</font> that Mr <font>Baily</font> had paid me the
+Money, by the Direction of Mr <font>Kynaston</font> .
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> How long was that before
+Mr <font>Kynaston</font> was admitted?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> I can't say justly the time, it
+might be two or three days. There was a day 
+appointed for the Admission of Mr <font>Kynaston</font> , but
+something happened that he could not be
+admitted that day.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> My Lords, I desire to ask
+this Witness one Question: At that time, 
+whether Mr <font>Cottingham</font> can recollect himself, if Mr
+<font>Kynaston</font> did not make an Objection of the great
+Deficiency that had happened in <font>Dormer's</font> Office?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> Upon the Oath that I have
+taken, I did not.
+   </dialogue><nonSpeech>Sir <font>Wm Strickland.</font> </nonSpeech><dialogue> I desire another Question,
+whether he did not tell Mr <font>Kynaston</font> that this was
+one of the best Offices?
+   </dialogue><nonSpeech>Dr <font>Sayer.</font> </nonSpeech><dialogue> My Lords, I ask your Pardons; I
+hope they shall be confined to the general 
+Question what was said, and not to Particulars.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> What was said in relation
+to the Goodness of the Office?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> I did say before the 
+Honourable Committee, that when he agreed to give the
+Fifteen hundred Guineas, I told him that he had
+purchased a very good Office; and I did say, that
+there was a great deal of Business in it; but I
+never knew what Money was in the Office, nor do I
+know it to this day. I own I did say before the
+Honourable Committee, that I told him he had 
+purchased a good Office.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Whether was this before or
+after the Agreement made with Mr <font>Kynaston</font> ?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> I think at the same time, just
+after we had settled the Compliment to be paid to
+my Lord <font>Macclesfield</font> , I told him he had purchased
+an Office with very good Business in it.
+   </dialogue><nonSpeech>Mr Serj. <font>Probyn.</font> </nonSpeech><dialogue> I desire one Question more,
+whether he remembers that there was any 
+Mention made of 1000 (l.) or One thousand Guineas by
+Mr. <font>Kynaston</font> ?
+   </dialogue><nonSpeech>Mr <font>Cottingham.</font> </nonSpeech><dialogue> No, I remember nothing of it.
+He asked me what my Lord expected; I told him
+what my Lord had from the preceding Masters,
+he expected the same from him: I never heard a
+Word of 1000 <font>l.</font> or One thousand Guineas, nor
+knew nothing at all of it. I have given you the
+best Account I can as to the Fact that happened
+relating to the Agreement: Mr <font>Baily</font> may
+remember more of it; the Fact is about for Years
+ago.
+   </dialogue><nonSpeech>Mr Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we now beg
+Leave to proceed to the 6th Article, relating to
+Mr <font>Thomas Bennet</font> , who was admitted the 1st of
+<font>June</font> , 1723.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="44C1" />
+<nonSpeech>Mr. <font>Elde</font> called.</nonSpeech>
+
+   <nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, we desire that
+Mr. <font>Elde</font> may <comment type="compiler">SOURCE TEXT: my</comment> be sworn.
+
+</dialogue><nonSpeech> (Sworn accordingly.) </nonSpeech>
+
+   <nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, we desire Mr.
+<font>Elde</font> may be asked when it was he was 
+admitted a Master in Chancery?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lords, I was admitted the
+first Day of <font>February</font> last was twelve Month.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> We desire he may be asked,
+whether he applied in Person to my Lord 
+<font>Macclesfield</font> to be admitted into this Office, and
+whether it was upon Death or Resignation?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> Upon the Death of Mr. <font>William 
+Fellowes</font> some of my Friends came to me, and
+put it into my Head that this Office might
+be a proper Office for me, and I took some
+Time to consider of it. I had some 
+Encouragement at the Bar, and was very unwilling to
+quit it, but after two Days Consideration I
+went to my Lord himself; I told his 
+Lordship an Office was fallen by the Death of Mr.
+<font>Fellowes</font> ; if his Lordship thought me a proper
+Person. And I should be glad to have it. I was
+come to wait upon him about it. His 
+Lordship said, he had no manner of Objection to
+<pagebreak id="44C2" />
+me, he had known me a considerable Time,
+and he believed I should make a good Officer.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> What further Discourse was
+there?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lord at that Time desired
+me further to consider of it, and come to him
+again: And so I did. I went back from his
+Lordship, and I came again in a Day or two, I
+believe it was the second after I came back
+from his Lordship, and told him I had 
+considered of it, and desired to know if his Lordship
+thought fit to admit me; and I would make
+him a Present of 4 or 5000 <font>l.</font> I cannot say
+which of the two I said, but I believe it was
+5000 <font>l.</font>
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> What Answer did my Lord
+return, when you made him that Proposal?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lord said, Thee and I, or
+You and I, my Lord was pleased to treat me
+as a Friend, must not make Bargains.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, we desire he may
+be asked, whether my Lord <font>Macclesfield</font> said in
+what Manner he would treat with him, 
+whether in a more beneficial manner than any
+Body else?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lord <font>Macclesfield</font> did say, that
+if I was desirous of having the Office, he would
+treat with me in a different Manner than he
+would with any Man living; those were the
+Words my Lord used, to the best of my 
+Remembrance.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> After this Answer of my
+Lord <font>Macclesfield</font> , that they must not make
+Bargains, what further Application did he make?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I made no further Application at
+all, but spoke to Mr. <font>Cottingham</font> , meeting him
+in <font>Westminster-hall</font> , and told him I had been at
+my Lord's, and my Lord was pleased to speak
+very kindly to me, and I had proposed to give
+him 5000 <font>l.</font> Mr. <font>Cottingham</font> answered, Guineas
+are handsomer.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> We desire to know what he
+paid, and in what Manner, and in what Specie?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lords, I paid my Lord, --
+I cannot say I paid it him, but I paid 5000
+Guineas.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> In what Manner? Who did
+you pay it to?
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> After this Agreement
+with Mr. <font>Cottingham</font> to make it Guineas, as
+being handsomer; we desire he may inform your
+Lordships what he did pursuant to this, and
+what he carried with him?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> Upon this I immediately went to
+my Lord's: I was willing to get into the
+Office as soon as I could. I did carry with me
+5000 Guineas in Gold and Bank Notes: I am
+not certain whether there was 3000 Guineas in
+Gold or two, but I think there was three, and
+the Residue of the Money was in Bank Notes.
+This I brought to my Lord's House.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> My Lords, we desire he
+may be asked what they were put into, or in
+what they were carried?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I had the Money in my
+Chambers. I could not tell how to convey it; It
+was a great Burthen and Weight, but
+recollecting I had a Basket in my Chamber, I put the
+Guineas into the Basket, and the Notes with
+them; I went in a Chair and took with me the
+Basket in my Chair. When I came to my Lord's
+House I saw Mr. <font>Cottingham</font> there, and I gave
+him the Basket, and desired him to carry it
+up to my Lord.
+<pagebreak id="45C1" />
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> What Answer did he
+return?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I saw him go up Stairs with the
+Basket, and when he came down he intimated
+to me that he had delivered it.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, we desire he may
+be asked whether he acquainted Mr. <font>Cottingham</font>
+with what was in the Basket?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I did not.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> After Mr. <font>Cottingham</font> came
+and acquainted you he had delivered the
+Basket, how long after that was it before you saw 
+my Lord?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I did not see my Lord after that,
+till I was sworn in.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> How long was that after?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I cannot be positive, but it was
+within a Day, either the same Day, or if not,
+it was the next Day after.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I desire he may be asked,
+when Mr. <font>Cottingham</font> returned down Stairs 
+after the Delivery of the Basket, what he said
+to him about the Time of his being admitted?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I do not remember he said any
+Thing to me about my being admitted. I
+took that for granted.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> And when he was
+admitted, whether he was admitted in the Closet
+or in what Room?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> When I was to be admitted, my
+Lord invited me to Dinner, and some of my
+Friends with me; and he was please to treat
+me and some Members of the House of
+Commons in a very handsome Manner: I was after
+Dinner sworn in before them.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> I desire to ask whether
+he had the Basket again?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> Some Months after I spoke to my
+Lord's Gentleman, and desired him if he saw
+such a Basket, that he would give it me back;
+and sometime after he did so.
+   </dialogue><nonSpeech>Mr. Serj. <font>Pengelly.</font> </nonSpeech><dialogue> Was any Money returned
+in it?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> No, my Lords, there was not.
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> There is one Thing in the
+Earl's Answer, that he retained only Part of
+the Present so made him by Mr. <font>Elde</font> . I 
+perceive the Gentlemen of the other Side do not
+ask any Questions about it; if they do not we
+shall go on.
+   </dialogue><nonSpeech>Sir <font>Wm. Strickland.</font> </nonSpeech><dialogue> I desire to know what
+Mr. <font>Cottingham</font> did say, after he had carried up
+the Basket and came down again?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> To the best of my Remembrance,
+he said nothing to me, but as I repeated it
+before, he intimated to me that he had
+delivered it to my Lord <font>Macclesfield</font> . I cannot say
+as to any particular Discourse; but I 
+understood that he had delivered it.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> My Lords, if they have
+done with Mr. <font>Elde</font> , I would beg Leave to
+ask him one Question, and that is in Relation
+to what the impeached Earl said in his
+Answer, that he retained of the Present sent him
+by the said Mr. <font>Elde</font> no more than the Sum of
+1850 <font>l.</font> We desire therefore that he may be
+asked, how much was returned to him of the
+5000 Guineas which he at first paid?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> 3400.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> When was that returned again
+to him?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> In <font>November</font> last, to the best of
+my Remembrance.
+<pagebreak id="45C2" />
+   </dialogue><nonSpeech>Mr. <font>Onslow.</font> </nonSpeech><dialogue> In what Manner was that
+Money returned to him?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> We have not yet done
+with him. I desire to know when you went
+out of Town, and when you returned, and
+how long after your Return was it repaid?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> It was repaid to me, to the best
+of my Knowledge, within three, four, or five
+Days after my Return. As soon as I came
+from the Country the Earl took Notice of it,
+and said that he would repay me: For some
+Time in <font>May</font> before, or thereabouts, the
+noble Lord had taken Notice that he had
+received this Present from me, and he would
+make me exceedingly easy.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> This was before you went
+out of Town?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> Before I went out of Town.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> When did you return to
+Town?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I returned the <font>19th</font> , <font>20th</font> , or <font>21st</font>
+of <font>November</font> . <comment type="compiler">NO ITALICS FOR NUMBERS IN SOURCE TEXT.</comment> 
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> How soon after you came
+to Town did you see my Lord?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> Very soon after I came to Town?
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> What Discourse had you 
+with him about it?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> My Lord told me he would
+return me my Money again, he did not say all,
+but he would return me my Money; and that
+he had done it before, had it been convenient.
+   </dialogue><nonSpeech>Mr. Serj. <font>Probyn.</font> </nonSpeech><dialogue> How soon after this 
+Discourse was it, that the Money was returned?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> I believe two or three Days.
+   </dialogue><nonSpeech>Mr. <font>Onslow.</font> </nonSpeech><dialogue> If the Gentlemen have done,
+I desire he may be asked in what Manner this
+Money was returned, and by whom?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> After this Discourse my Lord
+<font>Parker</font> sent for me, my Lord Chancellor was
+then at <font>Westminster-hall</font> , and told me my Lord
+Chancellor had desired him to pay to me <font>3400l.</font>
+and he did pay it. <comment type="compiler">NO ITALICS FOR 3400 IN SOURCE TEXT.</comment>
+   </dialogue><nonSpeech>Mr. <font>Lutwyche.</font> </nonSpeech><dialogue> My Lords, if I understand 
+Mr. <font>Elde</font> right, he said there was some Thing
+mentioned by my Lord of this Kindness
+before he went into the Country. I desire he may 
+be asked upon what Occasion he was going
+into the Country at that Time?
+   </dialogue><nonSpeech>Mr. <font>Onslow.</font> </nonSpeech><dialogue> I desire that he may first answer
+in what Manner, by whom, and where, this
+Money was repaid to him, whether in
+Money, or Notes, or how?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> To the best of my Remembrance
+it was paid in this Manner, there was 1400 <font>l.</font>
+in Bank Notes, and 2000 <font>l.</font> in <font>India</font> Bonds.
+   </dialogue><nonSpeech>Mr. <font>Onslow.</font> </nonSpeech><dialogue> Who was this paid by?
+   </dialogue><nonSpeech>Mr. <font>Elde.</font> </nonSpeech><dialogue> By my Lord <font>Parker</font> .
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

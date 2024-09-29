@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1HOTILN">
+  <dialogueHeader>
+
+    <filename>D1HOTILN</filename>
+
+    <identifier>1 HANDB OTH D1HOTILN</identifier>
+
+    <title>FRIENDSHIPPE</title>
+
+    <author>TILNEY EDMUND</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1568</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">TILNEY, EDMUND.</attribution>
+      <frontMatter>A BRIEF AND PLEASANT DISCOURSE OF DUTIES IN MARIAGE, CALLED THE
+FLOWER OF FRIENDSHIPPE. 
+IMPRINTED AT LONDON BY HENRIE DENHAM, DWELLING IN PATERNOSTER ROWE, AT
+THE SIGNE OF THE STARRE.
+ANNO. 1568. CUM PRIUILEGIO.
+PP. A6R.25 - D1V.21 SAMPLE 1
+PP. D2V.22 - E7V.22 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="A6R" />
+<comment type="compiler">PEDRO SPEAKS.</comment>
+And my opinion is, </dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> forasmuch
+as euerye thing sheweth nowe a certaine
+<pagebreak id="A6V" />
+naturall amitie amongst themselues, yea,
+the trees, sayeth <font>Plinie</font> , hath a naturall
+instinct of friendship, the sweete flowers,
+the pleasaunt herbes, declares the same
+also, that we intreate somewhat of
+friendship, and bicause no friendship, or amitie
+is, or ought to be more deere, and surer,
+than the loue of man and wyfe, let thys
+treatise be thereof, wherein I woulde the
+duetie of the married man to be discribed.
+For the knowledge of duetie is the 
+maintenance of friendship. </dialogue><nonSpeech>All the companie
+commended Maister <font>Pedro</font> for this
+pleasant deuise, &amp; the Lady <font>Iulia</font> standing vp,
+sayd, that forsomuch, as the soueraignetie,
+though not with hir will, was
+committed vnto hir wyth consent of them all,</nonSpeech><dialogue> and
+due obedience promised, I like well, </dialogue><nonSpeech>quoth 
+shee,</nonSpeech><dialogue> of thys which Mayster <font>Pedro</font> hath
+alreadie deuised, touching friendship, and
+duetie of the maried man. Wherefore, by
+the same authoritie, which I haue
+receyued, I commaunde you Sir, </dialogue><nonSpeech>and turned
+hir towardes Maister <font>Pedro</font> ,</nonSpeech><dialogue> to performe
+this charge, which you haue deuised of the
+maried man, not for that I thinke you to
+<pagebreak id="A7R" />
+be a better husbande, than any of the reast
+here. But because we being yet wholy
+ignorant in this kinde of pastimes, you
+may, as the principall authour thereof,
+instruct vs in the whole circumstance: and
+againe, being so well languaged, as you
+are, we shall haue good sporte, to heare
+you interlarde our Countrie speeche with
+some Spanishe trickes. <omission type="line" />
+<comment type="compiler">PEDRO BEGINS HIS SPEECH ABOUT MARRIAGE WHICH HE CALLS THE FLOWER
+OF FRIENDSHIP: HE GIVES A HISTORICAL ACCOUNT OF MARRIAGE IN ANCIENT
+CULTURES: HE FINISHES WITH THE VENETIAN CUSTOM OF BUYING WIVES.</comment>
+<pagebreak id="B1R" />
+<omission type="sentence" /> an vnhappie custome
+was it, </dialogue><nonSpeech>quoth the Lady <font>Iulia</font> ,</nonSpeech><dialogue> &amp; likely that
+the <font>Flower of Friendship</font> was but
+weaklye rooted betweene them of so slender
+acquaintance, but I praye you tell vs, how
+the indifferent sorte were maried, that
+were neyther foule, nor fayre, but louely
+browne. Mary, </dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> for such amongst
+the <font>Venetians</font> , there was no money either
+giuen, or taken, but were maried for
+naught. And so perchaunce, </dialogue><nonSpeech>quoth a merie
+gentleman, that stoode by, called Mayster
+<font>Gualter</font> of Cawne,</nonSpeech><dialogue> were some of the 
+fairest, as they be sometimes nowe a dayes.
+I haue also read, </dialogue><nonSpeech>quoth Maister <font>Pedro</font> ,</nonSpeech><dialogue>
+that in Fraunce, the maydens did choose
+their husbands in this sorte. The parents
+called a number of yong men to a banket,
+who~ they thought fittest, &amp; him, to whom
+the mayde gaue first water, by that signe
+she chose for hir husband. In <font>Mauritania</font> ,
+as sayeth <font>Diodorus Siculus</font> , there was
+such store of women, y=t= euery man might
+haue fiue wyfes, and no lesse than three,
+which also after y=e= death of their husbands,
+<pagebreak id="B1V" />
+within one moneth eyther wyllingly
+buried themselues with him, or were
+perforce executed by the lawe. In the Isles of
+<font>Canaria</font> , there were contrariwise so
+many men, and so fewe women, that euerie
+wife might haue seuen husbandes, &amp; could
+not take lesse than fiue. But I trust, </dialogue><nonSpeech>quoth
+the Lady <font>Aloisa</font> ,</nonSpeech><dialogue> that those men were not
+so kinde harted, as to be buried with their
+wyfes, as the women in that other
+countrie were with their husbandes. I thinke
+not, </dialogue><nonSpeech>quoth Maister <font>Pedro</font> ,</nonSpeech><dialogue> and I doubt
+whether those women of <font>Mauritania</font>
+coulde not haue beene contented to haue
+taried behinde their husbandes, had there
+beene no lawe to haue compelled them.
+Tush </dialogue><nonSpeech>quoth the Lady <font>Iulia</font> ,</nonSpeech><dialogue> thys is farre
+fro~ your matter. <omission type="line" />
+<comment type="compiler">PEDRO CONTINUES WITH CHALDEANS AND GREEKS: HE CONCLUDES THAT LOVE 
+IN MARRIAGE MUST BE GIVEN TIME TO GROW LITTLE BY LITTLE.</comment>
+<pagebreak id="B4V" />
+<omission type="line" /> Why? </dialogue><nonSpeech>quoth Maister <font>Gualter</font> ,</nonSpeech><dialogue> shal 
+a man choose his wyfe with his eares. To
+choose with our eares </dialogue><nonSpeech>quoth Maister 
+<font>Pedro</font> ,</nonSpeech><dialogue> is to enquire of hir vertues, &amp; vices,
+by report whereof you shall vnderstande
+hir conditions, and qualities, good, &amp; bad.
+As for that </dialogue><nonSpeech>quoth <font>Gualter</font> ,</nonSpeech><dialogue> it booteth                       
+<comment type="compiler">SOURCE TEXT: booteh</comment> not.
+For the best of them all haue their faults,
+and if she be vertuous, she will looke to
+be so honored, that hir husband shall haue
+the more a do to please hir. And I
+remember, that a wise man, I knowe not hys
+name, being enquired of a friende of hys,
+with whome he should marry, aunswered,
+that he had beene married foure sundrie
+times, first with a fayre woman, who was
+so prowde of hir bewtie, that he was faine
+to please, and content hir, least she should
+dishonour him, the seconde verie riche,
+whose substance made hir so stately, that
+he was forced lyke a slaue to obey hir, the
+thirde was so vertuous, that he was glad
+<pagebreak id="B5R" />
+to honor, and reuerence hir, to keepe hir
+still in hir vertuous goodnesse, the last was
+of good lineage, which so exalted hir
+stomacke, that shee made him hir bondman.
+Nowe choose, </dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> which of these
+foure thou canst best content thy self. You
+haue made a fayre reason, </dialogue><nonSpeech>quoth the Lady
+<font>Aloisa</font> ,</nonSpeech><dialogue> I neuer knewe that you were so
+deepely learned before, <omission type="sentence" />
+<comment type="compiler">PEDRO CONTINUES TO SPEAK ABOUT MARRIAGE GIVING EXAMPLES FROM THE
+BIBLE AND THE CLASSICS: HE CONCLUDES BY SAYING THAT THERE ARE
+MANY MORE INTERESTING EXAMPLES.</comment>
+<pagebreak id="C1R" />
+<omission type="line" /> You haue yet
+day ynough, </dialogue><nonSpeech>quoth the Lady <font>Iulia</font> .</nonSpeech><dialogue>
+Wherfore we pray you to shewe vs some of those
+examples for oure instruction. <omission type="line" />
+<comment type="compiler">PEDRO CONTINUES WITH THE SAME: THERE ARE CERTAIN ACTIONS AND
+METHODS THAT SHOULD BE USED TO ACHIEVE A HAPPY MARRIAGE. PEDRO
+CALLS THESE ACTIONS &quot;HERBS&quot;.</comment>
+<pagebreak id="C2V" />
+<omission type="line" /> These be excellent herbes, </dialogue><nonSpeech>quoth the
+Lady <font>Aloisa</font> ,</nonSpeech><dialogue> and rarely founde all in one
+garden. Wherefore we pray you teach vs,
+how we maye plant, and conserue them.
+<comment type="compiler">PEDRO CONTINUES: HE CONCLUDES WITH THE ISSUE OF WOMEN AND
+SECRECY.</comment>
+<pagebreak id="C4V" />
+<omission type="line" /> It is happie </dialogue><nonSpeech>quoth
+the Ladie <font>Aloisa</font> ,</nonSpeech><dialogue> that some women haue
+beene secret in times past. For you men say
+nowe a dayes, that women can keepe no
+counsaile. See I pray you, </dialogue><nonSpeech>quoth Maister
+<font>Gualter</font> ,</nonSpeech><dialogue> how soone this Ladie, had gotten
+holde of that sentence, which so little
+serueth hir purpose. For I trust it was an
+easie matter for that woman to keepe silence,
+when shee wanted hir tongue. <omission type="line" />
+<comment type="compiler">PEDRO CONTINUES ON THE SAME ISSUES.</comment>
+<pagebreak id="C6V" />
+<omission type="line" /> I thanke you for this,
+</dialogue><nonSpeech>quoth Maister <font>Gualter</font> ,</nonSpeech><dialogue> thys is the truest
+tale, you tolde to daye, and hitherto, you
+haue but flattered these Ladies. Not so,
+</dialogue><nonSpeech>quoth maister <font>Pedro</font> .</nonSpeech><dialogue> For I spake nothing
+heretofore but the truth, neyther speake I
+this nowe generallye against all women.
+For that were slaunderous vnto them. I
+do but touch some shrewde wyues. Tushe,
+</dialogue><nonSpeech>quoth maister <font>Gualter</font> ,</nonSpeech><dialogue> they bee shrewes
+all, and if you giue the simplest of them
+leaue to daye to treade vpon your foote, to
+morrowe she will tread vpon thy head.
+<comment type="compiler">PEDRO CONTINUES: SOLON SENTENCED A FATHER TO BE DEPRIVED OF HIS
+SEPULCHRE AFTER HIS DEATH BECAUSE OF HIS POOR UPBRINGING OF HIS SON:
+THE SON WAS DISINHERITED FOR DISOBEDIENCE.</comment>
+<pagebreak id="C8R" />
+<omission type="line" /> I assure you,
+<pagebreak id="C8V" />
+</dialogue><nonSpeech>quoth maister <font>Lodouic</font> ,</nonSpeech><dialogue> that same was
+an excellent iudgement of the wise <font>Solon</font> ,
+and if it were put in vse at these dayes,
+there woulde be many fathers to lye
+wythout graues, and as many sonnes put from
+their inheritance. The more pittie, </dialogue><nonSpeech>quoth
+mayster <font>Pedro</font> ,</nonSpeech><dialogue> and I thought to haue
+sayde more therein. But the sunne is so
+much declined, that it is more then tyme
+to vnburden these Ladies of this tedious
+talke, and I feare me, I haue alreadye
+troubled them to long. Not so, </dialogue><nonSpeech>quoth the
+Ladie <font>Iulia</font> .</nonSpeech><dialogue> For sooner shoulde we want
+the day light, than good will to brace you,
+though the day were so long againe. You
+say your pleasure, </dialogue><nonSpeech>quoth mayster <font>Pedro</font> .</nonSpeech><dialogue>
+But nowe to knit vp this <font>Flower</font> of
+matrimoniall amitie, and friendshippe,
+touching the office of the man, I say, that hee
+must aboue all thinges haue the feare of
+God before his eyes, which with the rest
+well considered, and put in execution, no
+doubt hee shall enioye the flagrant fauour
+thereof. <omission type="line" />
+<comment type="compiler">THE COMPANY THANKS PEDRO FOR HIS TALK: JULIA WANTS TO HEAR MORE:
+SHE GIVES HIM HER GARLAND.</comment>
+<pagebreak id="D1R" />
+<comment type="compiler">JULIA SPEAKS.</comment> <omission type="line" /> For I shall not bee in
+quiet, </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> till I haue hearde the
+married woman prescribed in lyke sorte,
+as you haue done the married man,
+neyther can this <font>Flower</font> well prosper, or bee
+perfite, except the woman also put to hir
+helping hande. </dialogue><nonSpeech>Whereto mayster <font>Pedro</font>
+aunswered, that in the woman was to be
+required great helpe for the preseruation
+of this friendlye <font>Flower</font> .</nonSpeech><dialogue> Yet will I not,
+</dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> take the authoritie from you.
+But if you list to departe with it to some
+other, you shall your selfe to morrowe
+resigne it to whome it pleaseth you, <omission type="sentence" />
+<comment type="compiler">PEDRO TELLS JULIA TO LEAVE THE GARLAND: THE COMPANY DECIDES TO
+MEET THE NEXT DAY.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="D2V" />
+<comment type="compiler">ALOISA HAS ACCEPTED THE GARLAND AND NOW SPEAKS.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> I will that the Ladie <font>Iulia</font>
+doe briefely (for that the day is farre past)
+discribe vnto vs, the office, and duetie of
+the married woman, in lyke sort as
+mayster <font>Pedro</font> hath done for y=e= mans behalfe,
+<pagebreak id="D3R" />
+and therein to shew in what sort she must
+applie hir selfe, to maintaine this <font>Flower
+of Friendship</font> betweene hir husbande and
+hir. <omission type="line" />
+<comment type="compiler">AFTER SOME HESITATION THE LADY JULIA BEGINS HER SPEECH ABOUT
+WOMEN'S DUTIES IN MARRIAGE: SHE DOES THIS IN THE SAME WAY AS
+PEDRO DID, GIVING EXAMPLES FROM THE CLASSICS: SHE TURNS TO
+GUALTER SAYING THAT THERE HAVE ALWAYS BEEN WOMEN AS LOVING AS MEN:
+GUALTER RESPONDS.</comment>
+<pagebreak id="D7R" />
+<omission type="line" /> No doubt
+Madam, </dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> ye loue passingly, when yee
+do loue, and you hate as extreemelye, when
+yee doe hate. Wherefore it were a goodly
+matter, if you coulde bring your married
+women vnto a meane. Not so, </dialogue><nonSpeech>quoth the
+Lady <font>Iulia</font> ,</nonSpeech><dialogue> I will haue no meane in loue.
+<comment type="compiler">JULIA CONTINUES: SHE COMES TO THE ISSUE OF OBEDIENCE.</comment>
+<pagebreak id="D8R" />
+<omission type="line" /> I know not, </dialogue><nonSpeech>quoth
+the Lady <font>Isabella</font> ,</nonSpeech><dialogue> what we are bounde to
+do, but as meete is it, that the husbande
+obey the wife, as the wife the husband, or at
+the least that there bee no superioritye
+betwene them, as the auncient philosophers
+haue defended. For women haue soules as
+wel as men, they haue wit as wel as men,
+and more apte for procreation of children,
+than men. What reason is it then, that
+they should be bound, whome nature hath
+made free? Naye, among the <font>Achaians</font> ,
+wome~ had such soueraigntie, that
+whatsoeuer they commaunded, their Husbandes
+obeyed. Yea, <font>Plutarch</font> saith, that the man
+swept the house, drest the meate, and did all
+other necessaries, where the woman
+gouerning the house, and keping the money,
+aunswered all matters, and which woorse
+was, they corrected them at their discretio~.
+<pagebreak id="D8V" />
+What did shee, </dialogue><nonSpeech>quoth Maister <font>Gualter</font> ,</nonSpeech><dialogue>
+&amp; might she beate him too? Mary lo. Here
+is the matter, that some of our Dames in
+this Countrie take so much vppon them.
+They think belike that they be in <font>Achaia</font> .
+But sure if I had bene amongst those
+women: you would haue done, </dialogue><nonSpeech>quoth the Ladie 
+<font>Isabella</font> <comment type="compiler">SOURCE TEXT: <font>Isablla</font> </comment> ,</nonSpeech><dialogue> as they did. For Dogs 
+barke
+boldely at their owne maisters doore.
+Beleue not daughter, </dialogue><nonSpeech>quoth the Lady <font>Iulia</font> ,</nonSpeech><dialogue>
+neither those ignorant Philosophers, nor
+these fonde customes. For contrary also to
+this, the <font>Parthians</font> , &amp; <font>Thracians</font>
+accounted not of their wiues, more than of slaues,
+so that after they had borne them a dosen
+children, or more, they sold the mothers at
+the common markets, or exchaunged them
+for yonger. Fye vpon that law, </dialogue><nonSpeech>quoth the
+Lady <font>Isabella</font> .</nonSpeech><dialogue> But what saye you to the
+custome which <font>Dionysius Alicarnasseus</font> ,
+wryteth of the <font>Numidians</font> and <font>Lydians</font> ,
+where the woman commaunded within
+doores, and the men without. Yea marie
+</dialogue><nonSpeech>quoth the Ladye <font>Aloisa</font> ,</nonSpeech><dialogue> that was a iust
+law, where the commau~ding was equall.
+Not so, </dialogue><nonSpeech>quoth the Lady <font>Iulia</font> .</nonSpeech><dialogue> For though
+<pagebreak id="E1R" />
+it were better than the other two: yet not
+tollerable amongst vs, neyther was the
+soueraignetie so equallye deuided, as you
+thinke. For if the woma~ keepe alwaies hir
+house, as duetie is, the man standeth euer
+at hir comaundement. For as long as she
+is within, though he commaund hir
+without, this lawe byndeth hir not to obey.
+Wherefore in my opinion al those
+<font>Barbarian</font> customes are to be disanulled, and
+co~temned of Christians. Ye say well,
+Madam, </dialogue><nonSpeech>quoth M. <font>Erasmus</font> .</nonSpeech><dialogue> For in deede both
+diuine, &amp; humaine lawes, in our religion
+giueth the man absolute authoritie, ouer
+the woman in all places. And, </dialogue><nonSpeech>quoth the
+Lady <font>Iulia</font> ,</nonSpeech><dialogue> as I sayde before, reason doth
+confirme the same, the man being as he is,
+most apt for the soueraignetie being in
+gouernement, not onely skill, and experience
+to be required, but also capacity to
+comprehende, wisdome to vnderstand, strength to
+execute, solicitude to prosecute, pacience to
+suffer, meanes to sustaine, and aboue all
+a great courage to accomplishe, all which
+are commonly in a man, but in a woman
+verye rare: Then what blame deserue
+<pagebreak id="E1V" />
+those men that doe permit their wyues to
+rule all, and suffer themselues to be
+commaunded for company. A hard aduenture,
+</dialogue><nonSpeech>quoth Mayster <font>Gualter</font> ,</nonSpeech><dialogue> hapneth to that
+man, which is matched with a maisterly
+shrew. For she being once past shame, not
+onely blabbeth out all, that she knoweth,
+but thundereth oute that also, which hir
+mad head conceyueth, or hir fantasticall
+braine dreameth of, and yet will she
+maintaine, that she is neuer angrie, or speaketh
+without great cause. <omission type="line" />
+<comment type="compiler">JULIA CONTINUES: THE WOMAN MUST BE ABLE TO SEE THE MOOD OF HER 
+HUSBAND BY THE LOOK ON HIS FACE.</comment>
+<pagebreak id="E4V" />
+<omission type="line" /> Why, </dialogue><nonSpeech>quoth
+the Ladie <font>Isabell</font> ,</nonSpeech><dialogue> what if he bee mad, or
+dronke, must we then shew the like
+countenance. If you perceiue him in such case,
+</dialogue><nonSpeech>quoth the Ladie <font>Iulia</font> ,</nonSpeech><dialogue> speake him fayre,
+and flatter him, till you get hym to bed.
+and there reprehende him louingly, with
+<pagebreak id="E5R" />
+kissing and imbrasing, that he maye
+perceyue it to come of pure loue, more than
+of malice, for better were it to conuert
+him louingly in gentlenesse, than to
+controle him frowardly in shrewdnesse. It is
+most true, </dialogue><nonSpeech>quoth M. <font>Pedro</font> .</nonSpeech><dialogue> For in this
+point, we are not muche vnlyke to wylde
+and sauage beasts, as the lyon, or the
+vnicorne, which by the force can not bee tamed,
+but by humilitie, and gentle meanes, so
+that who will reclayme vs, must auoyde
+all contrarying, and veration of minde,
+whereof I could tell you a pretie story, that
+of late yeares happened to a gentlewoma~,
+that by suche gentle wyles reclaymed hir
+husband, being farre gone, but I shoulde
+iniurie the Lady <font>Iulia</font> , to entermeddle so
+farre in hir charge. Not so, </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> but
+you shall greatly pleasure mee therein,
+wherfore I pray you let vs heare it. <omission type="line" />
+<comment type="compiler">PEDRO TELLS THE STORY OF THE WOMAN WHO RECLAIMED HER HUSBAND.</comment>
+<pagebreak id="E6R" />
+<omission type="line" /> He should,
+</dialogue><nonSpeech>quoth the Ladie <font>Aloisa</font> ,</nonSpeech><dialogue> haue had a bed of
+nettles, or thornes, had it bene to mee. For
+sure I would not haue beene the cherisher
+of my husband in his vnthriftinesse. And
+so should you haue made him worse, </dialogue><nonSpeech>quoth
+mayster <font>Pedro</font> .</nonSpeech><dialogue>
+<comment type="compiler">THE DISCUSSION IS CONCLUDED: THE LADY ISABELLA ASKS THE AUTHOR
+TO WRITE IT DOWN WITH THESE WORDS.</comment>
+<pagebreak id="E7V" />
+For </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> your quiet silence both these
+dayes, assureth mee, that you haue well
+considered thereof, </dialogue><nonSpeech>and therewith the reast 
+of the ladies joyned with her, at whose 
+importunate request, with the 
+helpe of my friend Maister 
+<font>Pedro</font> , and others, I
+haue aduentured to
+publishe this
+Discourse.</nonSpeech>
+
+ <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

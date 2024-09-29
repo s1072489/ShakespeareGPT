@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1WCHEST">
+  <dialogueHeader>
+
+    <filename>D1WCHEST</filename>
+
+    <identifier>1 WITNESS D D1WCHEST</identifier>
+
+    <title>BISHOP'S COURT</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1561-6/1897</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">FURNIVALL, FREDERICK J.</attribution>
+      <frontMatter>CHILD-MARRIAGES, DIVORCES, AND RATIFICATIONS, &amp;c. IN THE DIOCESE
+OF CHESTER, A.D. 1561-6. 
+DEPOSITIONS IN TRIALS IN THE BISHOP'S COURT, CHESTER,
+(...)
+EDITED FROM THE MS. WRITTEN IN COURT WHILE THE WITNESSES
+MADE THEIR DEPOSITIONS, (...),
+BY FREDERICK J. FURNIVALL, (...).
+EARLY ENGLISH TEXT SOCIETY. ORIGINAL SERIES, 108. 
+LONDON: PUBLISHT FOR THE EARLY ENGLISH TEXT SOCIETY BY KEGAN PAUL, 
+TRENCH, TRUBNER &amp; CO., PATERNOSTER HOUSE, CHARING-CROSS ROAD.
+1897.
+PP. 59.4 - 61.36    SAMPLE 1
+PP. 67.16 - 68.15   SAMPLE 2
+PP. 69.34 - 71.33   SAMPLE 3
+PP. 117.1 - 117.26  SAMPLE 4
+PP. 117.27 - 120.14 SAMPLE 5
+PP. 121.26 - 122.30 SAMPLE 6
+PP. 122.31 - 123.26 SAMPLE 7
+PP. 123.27 - 126.34 SAMPLE 8
+PP. 187.4 - 193.34  SAMPLE 9
+PP. 196.4 - 196.29  SAMPLE 10
+PP. 198.3 - 200.23  SAMPLE 11
+PP. 204.7 - 207.38  SAMPLE 12
+PP. 208.1 - 209.7   SAMPLE 13
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">DIRECT SPEECH NOT ALWAYS DISTINGUISHABLE FROM INDIRECT SPEECH AND
+OTHER LEVELS OF DISCOURSE.</comment>
+
+<comment type="compiler">IN SOME CASES, WHEN OFFERING EXTRACTS FROM DEPOSITIONS, THE SOURCE 
+TEXT EDITOR INTERFERES IN THE TRANSCRIPTION BY SUPPLYING CONTEXT 
+WITHOUT INDICATING IT BY THE USE OF EDITORIAL BRACKETS. THIS IS 
+THE CASE WITH OUR SAMPLES 6, 7, AND 13 IN PARTICULAR.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="59" />
+ <head> <comment type="editor">4. ELLEN RICROFT V. THOMAS SNELSON. BANNS ASKT.
+A CHILD BORN.</comment> </head> 
+
+   <nonSpeech> <foreign>Examinacio testium in causa contracti inter Elenam Ricroft,  
+partem
+actricem ex vna, et Thomam Snelson, partem ream, capta Die et 
+anno predictis.</foreign> <comment type="editor">28 May, 1563.</comment> </nonSpeech>
+
+   <nonSpeech> <foreign>Ranulphus Mainwaringe, parochie de Rostorne, etatis lxvj     
+annorum
+novit partes ab infanciis</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum</foreign> , This deponent saies, that he neuer   
+was present
+at any wordes of Contract made or spoken betwene Eleine and Thomas,
+articulate.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , this deponent saies, he did neuer     
+carry any Tokens
+betwixe them hymself, but he hard say ther hath bene Tokens sent
+betwixe them; and this deponentes wief caried one from Thomas 
+Snelson to the said Elleine, which was a xij=d=, on Midsommer Even   
+last was.</nonSpeech>
+   <nonSpeech> <foreign>Ad iij</foreign> , This deponent saies, that the banes were askid    
+betwene the 
+said Thomas and Eleine twise or thrise, and the day of mariage set   
+and
+apointed; and further saies, that Thomas Snelson, havinge gotten     
+Eleine
+with Child, desired this deponent to take her into his house for a 
+fortunight <comment type="compiler">EDITOR NOTES THE MS READING COULD BE fortnnight</comment> , and 
+promysd, bie his faith and treuth, that within that fortnight
+he wold marry her, for, in his Conscience, he cold marry none other; 
+or
+els this deponent wold not have taken her to his house, but that he
+thought they were man and wief before God. and at the fortnight end,
+he maried her not, but toke her away thens; and after her            
+deliueraunce,
+desired this deponent to go with hym to speake with her; and in the 
+presence of this deponent, desired her to release hym, and he wold   
+geve
+her xx=i= nobles. and she answerid 'she wold not'; &amp; said 'she passid
+not for his gooddes, but for hym.'</nonSpeech><dialogue> &quot;Well,&quot; </dialogue><nonSpeech>quod the said         
+Thomas,</nonSpeech><dialogue> &quot;yf
+thou will not release me, I have gone so far with my frendes in talk 
+with
+an other woman, that it is best for you to get out a Citacion, and   
+call me 
+before the Ordinary.&quot; </dialogue><nonSpeech>and she said,</nonSpeech><dialogue> &quot;I am a seruaunt, and cannot
+followe the Lawe.&quot; &quot;Well,&quot; </dialogue><nonSpeech>quod the said Thomas,</nonSpeech><dialogue> &quot;then I will&quot;;
+</dialogue><nonSpeech>and so procurid out a Citacion against hym-self, paid for it, and  
+convaide
+it to her frendes &amp;c. &amp; further he saies 'the child was got ij=o=    
+yeres after
+the banes were askid' / <comment type="editor">......</comment> </nonSpeech>
+<pagebreak id="60" />
+   <nonSpeech> <foreign>Alicia Manwaringe, parochie de Rostorne, etatis annorum,     
+novit partes
+xvj annis.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum</foreign> , This deponent saies, she was not     
+present at
+any solempne Contract made betwene the parties articulate; but she
+saieth, that the said Thomas brought the said Eleine to the house of  
+this
+Deponentes husband, and then, before this deponent and her husband,
+and the said Eleine standing in presence, promysed to marry the said
+Eleine bie his faith and trouth; and said he cold not marry any other;
+for he said his Conscience shuld prick hym yf he did so. and further
+this deponent saies, that after the said Eleine was deliuered, Thomas
+Snelson causid a metinge of frendes to be had, and did offer her a   
+piece
+of mony to release hym; and she answerid 'she wold not release hym for
+no gold,'</nonSpeech><dialogue> &quot;for I am your lawfull wief; and so take me.&quot; &quot;Well,&quot;    
+</dialogue><nonSpeech>quod
+he,</nonSpeech><dialogue> &quot;sticke to that, and I will neuer Leave the.&quot;
+   </dialogue><nonSpeech> <foreign>Ad ij=d=</foreign> , this deponent saies, that apon Midsomer even    
+last, the said
+Thomas send a Token, <foreign>videlicet</foreign> a xij=d=. to the said Eleine, bie 
+this 
+deponent. As for any other Tokens, this deponent knowes not, for she 
+caried non betwixe them, but the said xij=d=; which xij=d= she       
+<comment type="editor">Eleine Ricroft</comment>
+toke thankfully.</nonSpeech>
+   <nonSpeech> <foreign>Ad iij</foreign> , this deponent saies, that &quot;the said Thomas hath   
+had a child
+bie the said Eleine, after the banes were askid betwixe them; which
+banes were askid afore he gate her with child, or els, as the voice  
+of the
+Cuntry is, she was so honest, he cold not bringe his purpose about;  
+for, 
+after that the banes were askid, he toke her as his wief afore God,  
+and
+so <emendation>she</emendation> consentid to his follye&quot; <comment type="editor">......</comment> </nonSpeech>
+   
+   <nonSpeech> <foreign>Examinacio testis intra Elenam Ricrofte et Thomam Snelson,
+capta coram magistro Roberto Leche, in Legibus baccalaureo,
+&amp;c, v=to= Junii 1563=o=</foreign> / </nonSpeech>
+
+   <nonSpeech> <foreign>Hugo Holme, parochie de Codington, etatis lij annorum, novit 
+partem
+actricem x annis, et partem ream iiij=or= annis</foreign> / <comment type="editor">......</comment> </nonSpeech>
+   <nonSpeech> <foreign>Ad iij</foreign> , This deponent saies, that Elein Ricroft was in    
+this deponentes 
+service above iiij=or= yeres ago; and Thomas Snelson came to this    
+deponent,
+and desired to be a suter to the said Eleine in the way of mariage;  
+and
+this deponent gave hym Licence, because it was honest. and longe after
+this, this deponent was desired to be at the mariage of one that was 
+suster
+to Eleine Ricrofte. and this deponent, walkinge furth on a grene by  
+the
+place where the said mariage was, Thomas Snelson came to this        
+deponent, 
+and bade hym welcomme into those partes, and desired hym to be good
+<pagebreak id="61" />
+to hym concerninge the said Eleine; for the said Snelson said</nonSpeech><dialogue> &quot;she 
+is my
+wief, afore god and man; for I have trouthplightid her, and was askid
+in the Churche with her, or euer I ouercame her and gate her with    
+child.&quot;
+</dialogue><nonSpeech>and that this was true, he sware to this deponent, bie his         
+Christendome.
+and further he said to this deponent,</nonSpeech><dialogue> &quot;helpe, I pray you, that     
+Eleine may
+get a Citacion to call me to the Lawe. I have geven her xij=d=. to   
+pay for it /
+and I will beare her other Chargis, and will Confes before the       
+Ordinary
+that she is my wief, and I have Contracted her; and I can marry non
+other woman to be my Lawfull wief. I am waide by masters and frendes
+to marry a wido, which I can neuer do, yf Eleine forbid the mariage&quot; 
+/ <comment type="editor">...</comment> 
+
+</dialogue><nonSpeech> <foreign>Responsiones personales Thomae Snelson, capte xxiij=o= Septembris
+1563=o=</foreign> / </nonSpeech>
+
+   <nonSpeech> <foreign>Ad primam posicionem</foreign> / This Respondent saies, that ther    
+hath bene a 
+talk of mariage, and communicacion movid by frendes, betwixe hym and
+Eleine Ricrofte; but he saies that ther was neuer any Contract of
+mariage as it is libellate, at any tyme / further beynge demaundid,
+whether he toke her bie the hand afore witnes, and spake the wordes as
+the articulate, or the like in effect; answereth, bie vertue of his  
+othe,
+'no' / and beynge put in mynd of Roberte Wethers house, he saies he
+was neuer there for such purpose.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , This Respondent saies, that he hath send        
+diuerse tokens to the
+said Eleine; not as to his wief, but as to other he hath done / and  
+hath
+Received others from her againe, biecause he was a suter to her / </nonSpeech>
+   <nonSpeech> <foreign>Ad iij</foreign> , this Respondent answereth, that he did neuer make 
+any 
+contract as above expressid, or on this sort / </nonSpeech><dialogue> &quot;I will take the   
+for my wief,&quot;
+</dialogue><nonSpeech>with entent to marry her; neuertheles, he denieth not but he hath  
+had 
+carnall Copulacion with her. and saies further, the banes were       
+askid, as
+he hard say, -- but not through hym, or any frend of his, -- bie her 
+procurement. beynge demaundid whether he had carnall Cognicion after 
+the
+banes askid, he saies he cannot certenly tell, biecause the banes were
+askid without his consent or knoledge, but bie heresay, <foreign>vt         
+supra</foreign> . further
+he saies, the banes were not askid in the church wherto he doth      
+resort,
+but in the parish church of Presbury, beynge iiij=or= miles of from  
+hym.
+altho he be in that parishe, he resorteth to Chelford <comment type="editor">by Crewe</comment> 
+whereat mariage is solempnized / </nonSpeech> 
+   <nonSpeech> <foreign>Ad iiij</foreign> , he saies he <emendation>workes</emendation> in Presbury, and          
+dwell<emendation>es</emendation> in Capisthorne
+<comment type="editor">near Crewe</comment>  <comment type="editor">...</comment> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="67" />
+ <head> <comment type="editor">8. ELEANOR MANWARING V. ROGER BYBBYE. (GOING TO SEA.) </comment> </head> 
+
+<nonSpeech> <foreign>Examinacio testis super libello oblato ex parte Elenore         
+Manwaringe,
+Capta coram magistro Roberto Leche, primo Junij, 1565.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Thomas Port, parochie de Walton, etatis xl annorum, novit    
+partem
+actricem fere per annum, et partem ream xvj=cim= annos</foreign> .</nonSpeech>
+   <nonSpeech> <foreign>Ad primum et ij=d= articulos</foreign> / This deponent saies, that   
+apon a monday
+in the morninge, about Saint Andrewes day Last past, as he remembres,
+this deponent beinge especially required bie Roger Bibbye articulate,
+repaired to the house of Alexander Garnet, nowe Maior of Liuerpole,   
+and
+there hard and se as followeth, <foreign>videlicet</foreign> : this deponent and    
+the said Roger,
+commynge together thither, mett Ellin Manwaringe commyng furth of the
+dore of the said house; who declared vnto them, that she had lefte   
+her
+mynd with the said Maior. then the said Roger requestid her to tarrye,
+and said he must have more talk with her; and she did so. whereapon
+the said Roger, beinge desirous to have her to wief, and to kepe his
+house, beinge toward a voiage (for he is a Travailer bie the Seas) / 
+requestid the said Maior to take hym, the said Roger, and her, the   
+said 
+Ellin, contractid together. to whom the said Maior answerid thus;
+<foreign>videlicet</foreign> / </nonSpeech><dialogue> &quot;Roger, it is best to take deliberacion in the    
+matter, and knowe
+what frendes the said Ellin hath, and what they will do for her&quot;;    
+</dialogue><nonSpeech>and
+such like counsell &amp;c. whom the said Roger answerid,</nonSpeech><dialogue> &quot;I have a     
+voiage
+beyond the sea, toward Ireland, and wold have one in the meane season
+<pagebreak id="68" />
+to loke to thinges in myne house; and therfore, I pray you, let her  
+be made
+my wief, and then I trust you will suffer her to be my housekeper    
+without
+suspicion.&quot; </dialogue><nonSpeech>at whose earnest request, the said Maior consentid so  
+to do;
+and the said Alexander toke the said parties and this deponent with
+hym on his backside; and there the said Roger and Ellin, in the      
+presence 
+of this deponent and the said Alexander, toke handes together; and the 
+said Roger said, after the said Alexander, to the said Ellin, beinge
+present:</nonSpeech><dialogue> &quot;I, Roger, take the, Ellin, to my weddid wief, for        
+better, for 
+worse, for richer, for porer, in sicknes and health, till death vs   
+depart;&quot;
+</dialogue><nonSpeech>and all such wordes as the prest vseth in Contractinge Matrimonye. 
+and
+then the<emendation>y</emendation> drewe handes; and the said Ellin toke the said Roger   
+bie the
+hand, and said:</nonSpeech><dialogue> &quot;I, Ellin, take the, Roger, to my weddid husband,  
+for
+better for worse, till death vs departe,&quot; </dialogue><nonSpeech>&amp;c; and afterward kissed 
+together,
+and callid together man and wief, and dronke a Cuppe of ale together 
+in 
+the Maiores house; and so departid / <comment type="editor">......</comment> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="69" />
+ <head> <comment type="editor">10. SYBIL BLAKHURST V. RANDLE RAMSHAE.</comment> </head> <dialogue>
+<comment type="compiler">EDITOR'S COMMENT OMITTED.</comment>
+
+</dialogue><nonSpeech> <foreign>Examinacio testium super libello ex parte Sibille Blakhurst     
+contra 
+Randulphum Ramshae oblato, capta coram Magistro Roberto Leche, &amp;c.
+vltimo Februarii 1565<comment type="editor">-6</comment> .</foreign> </nonSpeech>
+<pagebreak id="70" />
+   <nonSpeech> <foreign>Johannes Newton, generosus, parochie de Acton, etatis xlviij 
+annorum, novit partem actricem xij annis, et partem ream iij annis.   
+Ad primum
+et ij=d= articulos</foreign> , This deponent saieth, that bie reason that    
+this deponent was
+lefte one of the ouerseers in the testament of Richard Blakhurst,    
+father
+to the said Sibill articulate, the said Randull Ramshae havinge, as  
+this
+deponent supposeth, a good affeccion in the waie of Mariage toward the
+said Sibill, thought good to Request the good will of this deponent in
+that behalf. And so, about the latter end of Somer was iij yeres, as
+this deponent was goinge homeward from the Nauntwich, after the market
+tyme apon a Saterdaie -- which daie this deponent doth not otherways
+remembre at this present, -- Randull Ramshae, articulate, did ouertake
+this deponent; and after Salutacion had, this deponent said to the   
+said
+Randull / </nonSpeech><dialogue> &quot;I vnderstand ther is good will betwene you and this    
+maide,&quot;
+</dialogue><nonSpeech>meaninge Sibill Blakhurst, who was then present, and had then come 
+in
+Company from the said Nauntwiche, after this deponent, with the said 
+Randull. And the said Randull answerid, that 'ther was good will
+betwene hym and the said Sibill'; &amp; thereapon Requestid this 
+deponentes good will therin. apon which request, this deponent       
+demaundid of
+hym to knowe his habilitie, forasmuch as this deponent knewe that the
+said Sibill shuld have an honest porcion of gooddes to marry her     
+withall.
+who answerid, saienge,</nonSpeech><dialogue> &quot;I trust my father will let me have half of 
+his
+house duringe his tyme; and the whole after hym&quot;; </dialogue><nonSpeech>or such wordes in
+effect. And then this deponent askid of hym 'whether they two,
+<foreign>videlicet</foreign> , the said Randull and Sibill, were concludid or       
+agreed apon
+Mariage to be had betwene them.' whervnto the said Randull made
+answere, that 'they were so agreed.' And thereapon this deponent
+wished well vnto them. <foreign>et aliter, ad primum et secundum articulos, 
+nescit
+deponere</foreign> / savinge, that this deponent hard say that frendes did   
+mete and
+commen <comment type="editor">commune</comment> together touchinge marriage to be had betwene
+the said Sibill and Randull; and savinge also, that this deponent    
+saieth
+that a child was begott of the bodie of the said Sibill, and borne   
+about
+Michealmas was two yeres, as far as this deponent nowe remembres;
+which Child, the said Randull hath acceptid, and kepeth as his owne
+child; which tyme of the birth of the child induceth this deponent to
+think, by conference of the tyme of the talk had betwene this deponent
+and the said Ramshae, that the said child was begott after that the  
+said
+Ramshae had declarid to this deponent, that they two,                
+<foreign>videlicet</foreign> , the said 
+Randull and Sibill, were concludid apon Mariage betwene them / </nonSpeech>
+   <nonSpeech> <foreign>Ad iij, nescit deponere</foreign> / </nonSpeech>
+<pagebreak id="71" />
+   <nonSpeech> <foreign>Ad iiij, credit hunc articulum fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad v=t=</foreign> , this deponent saieth, that</nonSpeech><dialogue> if this cause be    
+iust, this Cowrt is to
+Complaine in /
+   </dialogue><nonSpeech> <foreign>Ad vltimum, dicit predeposita per eum fore vera, &amp;c.</foreign>
+<comment type="editor">signd</comment> Joh' Newton.</nonSpeech>
+
+   <nonSpeech> <foreign>Margareta Gravenour, parochie de Auldlem, etatis xxx annorum,
+est soror partis actricis; novit partem Ream vj annis</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad primum, credit hunc articulum fore verum</foreign> ; and saieth,  
+that the
+said Randull was a Suter to the said Sibill for the space of two yeres
+afore the child was borne, which she bare to the said Randull, as this 
+deponent iudgeth.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , This deponent saieth, that the said   
+Randull and
+Sibill standinge free (as this deponent thinkes) from any contract of
+Mariage with others, did promes mariage, eche to others, diuerse     
+tymes in
+the presence of this deponent, and in sundrie places; as ons, this   
+deponent
+is remembrid, in the house of Jone Blakhurst, about Michaelmas was iij
+yeres, with theis wordes, or the like in effect: Randull Ramshae     
+saienge
+to the said Sibill,</nonSpeech><dialogue> &quot;I will marry the, if euer I marry any.&quot; </dialogue><nonSpeech>And 
+the said
+Sibill likewise answerid,</nonSpeech><dialogue> &quot;I will marry you, if euer I marry any.&quot; 
+</dialogue><nonSpeech>And 
+an other tyme, <foreign>videlicet</foreign> , about the feast of all Saintes then   
+next 
+followinge, this deponent, the said Randull and Sibill goinge from   
+Buerton to
+Aldlem church togethers in company, the said Randull spake vnto the
+said Sibill, in the presence and heringe of this deponent, the same  
+wordes
+that wer spoken afore, or the like in effect; <foreign>videlicet</foreign> :</nonSpeech><dialogue> &quot;if  
+euer I marry 
+any, I will Marry the&quot;; </dialogue><nonSpeech>and the like was done and spoken bie the   
+said
+parties an other tyme, in the waie as the<emendation>y</emendation> all three were        
+comminge from
+the fathers house of the said Randull, to the house of the Mother of 
+the
+said Sibill. And further, this deponent saieth, that about Christmas
+next after theis promesses so made and spoken, the said Randull begat
+the said Sibill with Child. <foreign>Reddenda Racionem sui dicti</foreign> , she    
+saieth the
+child was borne about Michaelmas was two yeres; and the said Randull
+taketh and kepeth hit as his owne / </nonSpeech>
+   <nonSpeech> <foreign>Ad iij, nescit desponere</foreign> / <comment type="editor">&amp;c &amp;c</comment> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="117" />
+ <head> <comment type="editor">3A. MARGARET WIRRALL V. HENRY FAZAKERLEY.</comment>
+<foreign>XXV DIE MAIJ, 1561.</foreign> </head> 
+
+   <nonSpeech> <foreign>Willelmus Plumpton</foreign> <comment type="editor">...</comment> saies, that Henry Fazakerley,   
+before the
+dore of one Richard Wolfall of Darbye <comment type="editor">West Derby, near             
+Liverpool</comment> , in
+the presence of this deponent &amp; dyverse other, did call Margaret     
+Wirrall
+'stronge hore' and 'provid hoore,' and said that 'all the parysh knewe
+her to be Master Mores provid hoore': and thes wordes were spoken    
+about
+Martinmas last, in an Eveninge, or aundert <comment type="editor"> <font>so in MS.</font> </comment>       
+after none 
+<comment type="editor">...</comment> he sais <comment type="editor">...</comment> that he stode at a corner of a house out of  
+the
+sight of Margaret Wirrall &amp; Henry Fazakerley; &amp; so hit chauncid that,
+beyinge at such wordis as 'thou hoore,' and 'thou thief,' Fazakerley,
+workinge at a pale with an Axe, followid Margaret Wirrall, to have   
+smit
+her with the axe; and she Runne into Wolfall house; and Toppinges
+wief, who stode by when they were at thes wordis, shutt the dore     
+against
+Fazakerley; &amp; so hit fortuned that he hitt her not. and he           
+confessid, in 
+that tene, he carid not yf he had knockid her downe. and then this
+deponent commynge then in sight, the said Margaret desired hym to
+beyre witnes howe she was ordered. <comment type="editor">All the abuse and row           
+arose</comment> apon
+this occasion: the said Margaret desired vij' grotes of the said Henry
+Fazakerley, which she had lent hym about iij yeres afore; &amp; he made
+answere and said 'he owid non'; and she said he did; and apon that
+occasion they fell immediatelie to thes sclaunderous wordes. and     
+forther
+he sais, that the said Henry callid the said Margaret 'Master Mores
+hore'; and she, answering, callid hym 'grinninge thief'; and apon    
+that,
+he callid her 'Master Mores provid hore'; so that he callid her      
+'hore,'
+before she callid hym 'thief' <comment type="editor">... &amp;c &amp;c.</comment> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="117" />
+ <head> <comment type="editor">4. MRS. KATHERINE CLAITON V. MARGARET TAULIOUR (FOR
+ABUSING HER).</comment> </head> <dialogue>
+<comment type="editor">In it, a man goes to a high loft to write a letter; women drink    
+with men at an inn.</comment> 
+
+</dialogue><nonSpeech> <foreign>Examinacio testium super libello ex parte Katerine Claiton,     
+partis
+actricis, contra et aduersus Margaretam Tailiour, partem ream, capta
+coram magistro Roberto Leche, &amp;c, xj=o= die Aprilis, 1562.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Laurencius Manwaringe, parochie Vici-Malbani, etatis xxxv=t= 
+<pagebreak id="118" />
+annorum, novit partem actricem a matrimonio inter Willelmum Claitton 
+et
+ipsam, et partem ream a natiuitate</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum, nescit deponere nisi ex auditu. Reddendo 
+racionem
+sui dicti</foreign> , this deponent sais, that apon a Saterday in Septembre   
+last,
+at an after-none, this deponent beinge required bie one Browne, newly
+comme from Barwicke, to write hym a lettre, went to the house of
+Richard Wright of the Bell; and there, in a hye lofte, this deponent
+beynge writinge the said Lettre, Mistres Claiton came in to the said
+chambre, and brought with her thither, on, John Maisterson, and the  
+said
+Brownes wief; and the said mistres Claiton seid,</nonSpeech><dialogue> &quot;cosin            
+Maisterson, I
+have brought you hither, to here what this gentleman sais about suche
+sclaunderous wordes as he hard spoken by me.&quot; </dialogue><nonSpeech>and then she,        
+desiringe
+the said Mr Browne to report the same talke, that he had hard the    
+night
+before: and the said Browne said, that the night before, he enquired 
+of the
+said Margaret Tailiour, 'what maner a man Mr Cleyton was'; and she
+answerid &amp; said, 'he was an evill man.' &amp; the said Browne said,</nonSpeech><dialogue> 'He
+hath report to be an honest gentleman,' </dialogue><nonSpeech>&amp; she answerid &amp; said,     
+that 'he
+was a very evill &amp; noughtie man.' &amp; the said Browne said,</nonSpeech><dialogue> 'what is 
+his
+wief then?' </dialogue><nonSpeech>&amp; she answerid and said, that 'like as the one, like the
+other'; <foreign>presentibus tunc ibidem, tempore prolacionis hujusmodi     
+verborum,
+vnacum isto deponente</foreign> , Johanne Maisterson, the said Browne &amp; his  
+wief,
+&amp; a brother of Browne, Mistres Claiton, <foreign>et alijs, quorum nomina non
+recolit. cetera ad contenta in dicto libello nescit deponere</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad iij=t= articulum, nescit deponere certitudinaliter.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad iiij articulum, dicit et credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad v=t=, dicit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vj=t=, refert se ad Jura in ea parte.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimum, dicit predeposita per eum fore vera, &amp;c.</foreign> </nonSpeech>
+<nonSpeech> (signd) <foreign>per</foreign> me lavrence maynwaryng.</nonSpeech>
+
+   <nonSpeech> <foreign>Johannes Maisterson, de Vico Malbano <comment type="editor">Nantwich</comment> ,          
+generosus, etatis
+xxxij annorum, novit partem actricem xvj=cim= annos, et Margaretam   
+Tailiour
+a puericia.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , This Deponent sais, that about        
+Septembre last, he
+was sent for by Mistres Claiton articulate, to comme to drinke with  
+her
+in the Bell, with dyverse of her husbandes frendes, in his absence;  
+and
+<pagebreak id="119" />
+commynge thither, into an hye lofte, she said</nonSpeech><dialogue> &quot;Cosin Maisterson, I 
+have
+sent for you hither to beyre witnes what this gentleman, Maister     
+Browne,
+hath hard reportid sclaunderouslie spoken of me.&quot; </dialogue><nonSpeech>&amp; the said Maister
+Browne beynge in the said chambre afore his commynge, and Lawrence
+Manwaringe, and dyverse others, with hym; and the said Browne declarid
+that he, beynge in the Bell the night before, &amp; Margaret Tailiour    
+beynge
+drinkinge with hym, the said Browne enquired of her 'what maner of
+man Mr Claiton was'; and she answerid and said he was 'an vnthrifte,
+and spent all that euer he had.' and he answerid &amp; said, he thought he
+was 'a good gentleman'; and askid her then, 'what his wief Katherine 
+Claiton was.' and she answerid and said, &quot;suche one, such is the     
+other.&quot;
+as for any other sclaunderous wordes that he hard spoken bie the said
+Browne, to be reportid of the said Margaret Tailour, this deponent   
+knowes
+not / beynge present at that tyme, Laurence Manwaringe, Roger Crocket,
+&amp; others. <foreign>cetera ad contenta in dicto articulo nescit              
+deponere</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad iij, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad iiij=t=, nescit deponere.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad v=t= articulum, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vj=tum= articulum, refert se ad Jura in ea parte.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimum, dicit predeposita per eum fore vera, &amp;c.</foreign> &amp;     
+forther he
+sais, as concerninge the secound article, that the said Browne said, 
+he hard
+Margaret Tailiour say, that 'Mr Cleyton &amp; Richard Wright had fought
+together in London.' but what was the cause, this Deponent knowes    
+not.</nonSpeech>
+
+   <nonSpeech> <foreign>Rogerus Crocket, de Vico Malbano <comment type="editor">Nantwich</comment> , etatis       
+xx' annorum,
+novit partem actricem vij annis, et vltra, et partem ream             
+similiter</foreign> / </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , This deponent sais, that he hath hard 
+the said
+Margaret Tailiour speke evill and sclaunderous wordes bie Katherine
+Cleyton, in the house of the father of the said Margaret, apon a     
+Saterday
+afore none, apon the occasion of rehersall of wordes. The wordes which
+he did here Margaret Tailiour speake, were theis / &quot;Richard Wright
+had geven William Cleytons wief a paire of damaske sleves, which
+William Clayton burnid afore his wiefes face.&quot; and as for any other
+sclaunderous wordes, he hard not the said Margaret speake:           
+<foreign>presentibus 
+tunc ibidem, tempore prolacionis hujusmodi verborum</foreign> , the father   
+of the
+said Margaret, Rondull Santley, one Mistres Griffin, &amp; the mother of 
+the 
+said Margaret. beynge askid 'who made the rehersall of wordes spoken
+of afore'; he answeris, that 'on, Browne, a Barwicke, came into this
+contrye, and with his wief, as hit is supposid; which Brownes wief   
+came
+<pagebreak id="120" />
+into Margaret Tailiours fathers house, at the request of Katherine   
+Claiton,
+to knowe whether the said Margaret wold stand to the wordes she had
+spoken bie the said Katherine, in the house of Richard Wright.' &amp; the
+said Margaret answerid, that she wold not deny any wordes that she had
+spoken; and she grauntid that she had spoken those wordes about the
+damaske sleves, &amp; non other / </nonSpeech>
+<nonSpeech> <comment type="compiler">LATIN OMITTED.</comment>
+<comment type="editor">signd</comment> Roger Crokett.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="121" />
+ <head> <comment type="editor">6. MATILDA HOLME V. ELIZABETH TILSTON, WIDOW, FOR
+CALLING HER 'ROBERTE SOUNDES HOORE.' 21 NOV. 1562.</comment> </head> 
+
+   <nonSpeech>Widow Tilston said 'she had so callid her, &amp; wold so call her'; &amp;
+when put 'in mynd of the daunger of the Lawe, neuertheles she wold
+not call back these wordes; but <emendation>said</emendation> that she                    
+<comment type="editor">Maude Holme</comment> was an
+arrant hoore, and Roberte Soundeses hore, and like vnto Mawde 
+Scottabout, who was a most notorious hoore.' So deposes Rafe         
+Golburne of
+Christleton, near Chester, aged 42. Thomas Edge of Christleton, aged 
+30, who went with Rafe Golburne to Widow Tilston, deposes that she
+said that Maude Holme 'was as arrant a hoor as euer went abrode'; and,
+'as this deponent thinkes, she likned her to Mawde Scotabout, and said
+she was Roberte Soundes hoor, &amp; had bene his hore vij or viij        
+yeres.'</nonSpeech>
+<pagebreak id="122" />
+   <nonSpeech>On 17 Dec. 1562, Rafe Bostok deposes that Widow Tilston answers 
+him about Mawde Holme:</nonSpeech><dialogue> &quot;What, wold you have me to say she is an
+honest woman? No; she is my sonne Roberte Sonndes hoore; </dialogue><nonSpeech>and had
+causid hym to spend many a pound.&quot;</nonSpeech>
+   <nonSpeech>And Randle Roland says, that Widow Tilston cald Mawde Holme 'a 
+stronge hoore.' &quot;and as they were talkinge, it chauncid Mawde Holme
+to come vp the strete; and the said Elizabeth bade a boy             
+<comment type="editor">a son</comment> of
+Roberte Soundes, beynge with her,</nonSpeech><dialogue> &quot;call her thy fathers            
+Scattabout,&quot; </dialogue><nonSpeech>&amp;
+so the boy did. and then the said Elizabeth, beynge as it were but   
+in dout
+afore lest it were she, said</nonSpeech><dialogue> 'Yes, in faith, it is that stronge     
+hoore, that
+made my sonne-in-Lawe to sell his land to Master Cholmeley, </dialogue><nonSpeech>and had
+kept her this viij yeres':&quot; <comment type="editor">.......</comment> </nonSpeech>
+   <nonSpeech>On the other hand, Mathew Lithgo deposes that he &quot;said to Mawde 
+Holme,&quot;</nonSpeech><dialogue> &quot;Mawde, thou hast begonne a mad matter against Elizabeth
+Tilston, widowe, for thou hast reported as ill by her. 'Whie?'       
+</dialogue><nonSpeech>quod she.</nonSpeech><dialogue>
+'one foule word askis an other.' </dialogue><nonSpeech>quod this deponent:</nonSpeech><dialogue> 'thou hast  
+reportid
+that the said Elizabeth thelder said to <emendation>her</emendation> husband 'comme, Roger,
+and pull Roberte Wright out of Elizabeth thie doughter.' </dialogue><nonSpeech>and the   
+said 
+Mawde answerid and said 'she wold stand to that, afore my Lord and
+Master Chauncelour, whensoeuer she was callid.' &quot;</nonSpeech>
+   <nonSpeech>Richard Penk also deposes, that he &quot;came into the house of Mathue
+Lithgo, and found Mawde Holme there. And this deponent wold have
+kissed her; and she said</nonSpeech><dialogue> 'Beware! for I will make an end of my     
+matter,
+and prove my self an honest woman, or any man touche me; or I will
+spend my mothers field of barly, and all that euer I haue, but I wilbe
+revengid on Tilstons wief.' 'well,' </dialogue><nonSpeech>quod the forsaid Mathue,</nonSpeech><dialogue>     
+'thou hast a
+mad matter; for thou hast spoken as ill by Elizabeth Tilston the     
+younger.'
+'well,' </dialogue><nonSpeech>quod the said Mawde,</nonSpeech><dialogue> 'that I spoke, I will stand to;     
+that the said
+Elizabeth Tilston, widowe, said to her husband, 'Rise, Roger; and thou
+may take Roberte Wright in Elizabeth thie doughter, in the lofte.' &quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="122" />
+ <head> <comment type="editor">7B. CONSTANCE FROST V. WM. BALL AND OTHERS</comment> </head> <dialogue>
+<comment type="compiler">EDITOR'S COMMENT OMITTED.</comment> 
+
+</dialogue><nonSpeech> <foreign>Examinacio testium in causa diffamacionis inter Custanciam Frost 
+articulatam, contra Willelmum Ball et alios, capta xxj=o= Junij,     
+1564.</foreign> </nonSpeech>
+
+   <nonSpeech>Cicilea Strete, of the parish of St Mary's, Chester, aged 50,    
+&quot;saies,
+that the same Daie after that the Citation was servid apon Elizabeth
+<pagebreak id="123" />
+Brerewod, this deponent and Elizabeth Williamson came from the Church
+with the said Elizabeth Brerewod: the said Elizabeth                 
+Bre<emendation>re</emendation>wod said to
+them,</nonSpeech><dialogue> &quot;What say you bie that queane that hath put me in younder
+thinge?&quot; &quot;In what thing?&quot; </dialogue><nonSpeech>this deponent and Eliz'.                 
+<comment type="editor">Williamson</comment> askid
+her.</nonSpeech><dialogue> &quot;I cannot tell,&quot;</dialogue><nonSpeech>said the said Elizabeth                      
+<comment type="editor">Brerewod</comment> ;</nonSpeech><dialogue> &quot;but what-soeuer
+thinge it is, that knave your sonne </dialogue><nonSpeech>-- innuendo this deponentes    
+sonne --</nonSpeech><dialogue> 
+made it, &amp; and brought it to the Church.&quot; </dialogue><nonSpeech>Then said this           
+deponent,</nonSpeech><dialogue> &quot;Yea, a 
+very knave in dede, if he either make or meddle with it.&quot; 'No,' </dialogue><nonSpeech>said
+Elizabeth Williamson,</nonSpeech><dialogue> 'it is a Citacion commes out of the          
+spirituall Court; 
+it commes not out of the castell nor the Exchequer.' </dialogue><nonSpeech>then said the 
+said
+Elizabeth Brerewod,</nonSpeech><dialogue> &quot;had the Jawde no-bodie to put in but me? if the
+hoore Jawde wilbe a hoore Jawde, let the hoore Jawde be a hoore Jawde.
+if the hoore Jawde will plaie the hoore Jawde, let the hoore Jawde   
+play
+the hoore Jawde; and let me alone bie her.
+   </dialogue><nonSpeech>On 1 July 1564, Elizabeth Williamson gives the above speeches   
+as,</nonSpeech><dialogue>
+&quot;howe say you, that I am servid with a Citacion?&quot; 'bie whom?' </dialogue><nonSpeech>quod
+this deponent.</nonSpeech><dialogue> &quot;Mary,&quot; </dialogue><nonSpeech>quod the said Elizabeth,</nonSpeech><dialogue> &quot;bie yonnder   
+Jawde,&quot;
+</dialogue><nonSpeech>-- <foreign>innuendo</foreign> Custance Frost, as she thinkes, -- and further she 
+said,</nonSpeech><dialogue> &quot;if she
+be a Jawde, let her be a Jawde for me! what I have <comment type="editor">?have I</comment>       
+to do with
+her, or she with me?&quot; </dialogue><nonSpeech>Joan Gittin reports it as</nonSpeech><dialogue> &quot;had the Jawde   
+no bodie 
+to set in but me? if the Jawde wilbe a hoore Jawde, let the Jawde let 
+me alone! I will neither make nor medle with her.&quot; </dialogue><nonSpeech>Joan &quot;thinkes
+her <comment type="editor">Constance Frost's</comment> good name is not hurt, biecause the        
+wordes were
+spoken in a furye.&quot;</nonSpeech>
+   <nonSpeech>On 3 Oct. 1564, Richard Barker of St. Oswald's parish, Chester, 
+aged 70, says &quot;he thinkes she, the said Custance, is an honest       
+woman.&quot;</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="123" />
+ <head> <comment type="editor">8. JOAN ASHLEY V. MARGARET STELE AND OTHERS, FOR SAYING
+SHE WAS WITH CHILD BY JOHN JACKSON. 3 OCT. 1564. </comment> </head> 
+
+<nonSpeech> <foreign>Deposiciones testium inter Johannam Ashley, partem actricem, et 
+alios</foreign> / </nonSpeech>
+
+   <nonSpeech> <foreign>Richardus Haiton <comment type="editor">?Halton</comment> , parochie de Rostorne,         
+ibidem morans,
+traxit a nativitate <comment type="editor">?</comment> etatis lxxviij annos, novit Joannam        
+Ashley a
+puericia, et Margaretam Stele circiter xx annis, Ciciliam Ingham     
+tribus
+annis, et Petrum Johnson duobus annis</foreign> / <comment type="editor">.......</comment> </nonSpeech>
+    <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , This deponent saies, that apon       
+midlent sondaie last
+past, about iiij=or= of the clock after none, this deponent went to  
+one
+William Stelis house; and immediatly ther came in Margaret Stele,
+<pagebreak id="124" />
+suster to the said William Stele, into the said house; and the said
+Margaret in bourd said to this deponent, that she wold declare vnto  
+the
+said William, her brother, howe this deponent did sitt with his wief.
+and the said Margaret further said, that such old men as this deponent
+was, were not to trust; for, the said Margaret said, 'there is a man 
+in
+this Towne, as old as this deponent was, had gotten a woman with      
+Child.'
+and this deponent askid the said Margaret, who that shuld be; and the
+said Margaret bade this deponent reade <comment type="editor">guess</comment> if he cold. and     
+this
+deponent saied it was likest to be John Jackson. and the said        
+Margaret
+said it was the same. and this deponent askid the said Margaret who  
+the
+woman was. and the said Margaret said it was Jone Ashley <comment type="editor">......</comment> </nonSpeech>
+
+   <nonSpeech> <foreign>Alexander Lineye, parochie de Rostorne, ibidem morans,       
+traxit vj
+annis, oriundus infra parochie Mancestre, etatis circiter xxiiij     
+annos novit
+partem actricem iiij=or= annis, Margaretam Stele, Ciciliam Ingham per
+spacium anni, et Petrum Johnson per dimidium anni, &amp;c</foreign> <comment type="editor">......</comment> </nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= articulum</foreign> , This deponent saies, that about viij  
+wekes ago, as
+this deponent was in Companie with Peter Johnson, he hard the said
+Peter saie and report to this deponent, that he, the said Peter,     
+was by
+in Companie about a quarter of a yere ago, when the said Peter, and
+John Jackson, and Jone Ashley, came from Arley, Sir John Warburtons
+place, together; when the said Jone Ashley shuld say vnto the said   
+John
+Jackson, that the said John Jackson shuld provide a place for her, for
+she was with child with hym; and if her father &amp; her mother did knowe,
+she most be driven out of the Cuntrie: <foreign>et hec audivit ex Relacione 
+Petre</foreign>
+<comment type="editor"> <font>so</font> </comment> Johnson <comment type="editor">......</comment> </nonSpeech>
+
+   <nonSpeech> <foreign>Johannes Aspshawe, parochie de Rostorne <comment type="editor">...</comment> etatis lx    
+annorum</foreign> <comment type="editor">...</comment>
+saies, that about a quarter of a yere ago, he hard Peter Johnson      
+report to
+this deponent and Alexander Liney, that the said Peter Johnson came
+from Arley in Company with John Jackson and Jone Ashley, when the
+said Jone Ashley said to the said John~ Jackson, that she was with   
+child
+with hym, &amp; willed hym to provide a place for her; and if her father 
+did
+knowe it, she shuld be driven out of the Cuntrie <comment type="editor">......</comment> </nonSpeech>
+
+   <nonSpeech> <foreign>Examinacio testium super Excepcionibus ex parte Petri        
+Johnson et
+aliorum oblatis, capta xxiij=o= Novembris, coram magistro Roberto 
+Leche, &amp;c 1564.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Robertus Leighe, parochie de Rostorne, etatis xxx=a=         
+annorum, novit
+Joannam Ashley iij annis, et Petrum Johnson xij annis.</foreign> </nonSpeech>
+<pagebreak id="125" />
+   <nonSpeech> <foreign>Ad primam excepcionem</foreign> , this deponent saies, that          
+Alexander Liney is
+a very poore man, and hath bene lately arrestid of felonye, and hath
+confessid the same / </nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , this deponent saieth, the said John Aspshawe is 
+a very poore
+man, and Liveth apon his neibours, and is a thatcher; and his wief and
+children go on begginge; and he hym-self hath no certen dwellinge    
+place,
+to this deponentes knoledge. and further saieth, he hard it reportid 
+that
+John Jackson brought the said Joan Ashley to one Williamsons house,
+an Alehouse, there to be tablid; but the wief wold not suffer her.   
+<comment type="editor">...</comment> </nonSpeech>
+
+   <nonSpeech> <foreign>Galfridus Bretton, parochie de Pever inferiori</foreign> <comment type="editor">Lower     
+Pever, near
+Rostherne and Knutsford, Cheshire</comment> , <foreign>etatis xxxiiij</foreign> <comment type="editor">...</comment>      
+saieth, Alexander
+Liney is a very poore <emendation>man</emendation> , and hath no certen abidinge place;   
+and this
+deponent thinkes he is of small credite; and he hard a priest        
+declare that
+he was a suspectid fellowe.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , this deponent saieth, that John Aspshawe is a   
+very poore
+man, yet he knowes no dishonestie bie hym. and further this deponent
+saies, that John Jackson came to the house of Rafe Williamson, and
+commoned with the wief of the house, and went his way imediatlie.
+after whose departure, Williamsons wief askid this deponent, beinge  
+her
+neibour, whether she might kepe a woman of John Jackson;</nonSpeech><dialogue> 'for,'    
+</dialogue><nonSpeech>said
+she,</nonSpeech><dialogue> 'he hath bene here about that purpose.' </dialogue><nonSpeech>this deponent       
+answerid,</nonSpeech><dialogue>
+'yonder old man hath no woman; and if he have, it is not best for you
+to kepe her.' </dialogue><nonSpeech>within a weke after, the said Jackson and Joan Ashley
+came to the said house; and this deponent found them there; and after
+they were gone, the wief said:</nonSpeech><dialogue> &quot;younder is the woman that John~    
+Jackson
+wold have had me to have kept; but through thie Counsell, I have     
+turned 
+them awaie.&quot; <comment type="editor">......</comment>
+
+   </dialogue><nonSpeech>7 Dec. 1564. John Barlowe of Stretton, clerk, aged 56, &quot;saies
+that Alexander Liney is a light person; and nowe latelie it was provid
+before Sir Rafe Leycetour, knight, a Justice of peace, that he did   
+consent
+to the Convaieng away of certen butter &amp; cheese from this deponent,
+deliuered to the said Alexander &amp; his wief, bie one Ellin Brodley; and
+for the same, both he &amp; his wief were ponished in the stockes /&quot;</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , he saieth, that John Aspshawe is a light        
+person, and a fugitive, 
+and hath flitted twise within this half yere. And further, this      
+deponent
+saieth, that he did demaunde of John Jackson whie he wold have tabled
+<pagebreak id="126" />
+Jone Ashley at Williamsons house; &amp; he, this deponent, said further
+that men wold Judge evill of it. and Jackson answerid,</nonSpeech><dialogue> &quot;what if I  
+did
+so? yet she provid not with child.&quot; <comment type="editor">......</comment>
+
+   </dialogue><nonSpeech>Richard Hatton of Rostorne, aged 77, &quot;saieth that Alexander Liney
+is a poore man, an<emendation>d</emendation> getteth his Livinge bie his sore workinge;   
+and he
+thinkes he wold depose nothinge but truth.&quot;</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , this deponent saieth that John Apshawe is a     
+very poore man,
+and doth rest little in one dwellinge place <comment type="editor">......</comment> </nonSpeech>
+   <nonSpeech> <foreign>Ad iij</foreign> , This deponent saies, that John Jackson came apon  
+a tyme to
+the wief of this deponent, and desired her to let hym have a Chamber,
+to talk with Jone Ashley in an Eveninge; and she answerid, she cold
+do nothinge without her husband, this deponentes, consent. and within
+ij=o= Daies after, he came to this deponent, and demaundid the same  
+of hym,  
+that he might have a chamber where he might talk with Jone Ashley in
+an eveninge;</nonSpeech><dialogue> &quot;for,&quot; </dialogue><nonSpeech>said Jackson,</nonSpeech><dialogue> &quot;she is content to speake in 
+secrete
+with me; &amp; so I am with her.&quot; </dialogue><nonSpeech>to whom, this deponent answerid,
+beinge Jacksons kinsman, that he shuld have non there: and it was
+vnsemelie for his age: and so the said Jackson departid; &amp; this
+deponent hard no more of hym.</nonSpeech>
+
+   <nonSpeech>William Urmiston, of the parish of Knottisford, aged 38,        
+&quot;saies, that
+apon a tyme John Jackson came to this deponent, and willed to have a
+Service for a maide; and an other tyme he willed this deponent that  
+his
+wief shuld take her into service, if she nedid a seruaunt; which this
+deponent denaide, but said she shuld be with her till he had         
+provided for
+her, if she were an honest woman. after that, the said Jackson brought
+the said Jone Ashley vnto this deponentes, beinge then not in his owne
+house, and lefte her with this deponentes wief. and this deponent came
+in, a while after; and finding her there, demaundid what she was, and
+what acquaintance was betwixe Jackson and her. and she answerid at 
+first, she had a poore woman to her mother; and after, in talke, she 
+said
+she was Henry Ashley his doughter. and biecause this deponent misliked
+her, he commaundid his wief to geve her meate and drinke of the best
+she had, and so lete her departe; for this deponent said he mynded   
+not to
+kepe her.&quot; <comment type="editor">.....</comment> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="187" />
+ <head> <comment type="editor">12A. MORGAN EDMUND V. ELIZABETH BIRD.</comment> </head> 
+
+<nonSpeech> <foreign>Examinacio testium in causa contractus, super libello ex parte  
+Morgani
+Edmound, generosi, contra Elizabeth Brid, alias Dilon, capta coram
+Magistro Roberto Leche, &amp;c, xxvij=o= die Octobris, Anno Domini,
+1562=o=.</foreign> </nonSpeech>
+
+   <nonSpeech>Edward Griffiths, Paintor, <foreign>infra ecclesiam cathedralem        
+cestriensem,
+etatis lxxii' annorum et vltra, novit partem actricem x annis, et    
+partem
+ream xxxiij annos</foreign> .</nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum</foreign> , This deponent sais, that he          
+supposeth Morgan
+Edmound, &amp; she, the said Elizabeth, were both free when they were 
+contractid together: and this deponent sais he neuer hard otherwise.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij articulum</foreign> , This deponent sais, that in Ellin        
+Mercers house, in
+a parlour there on the backside, about a fortnight afore midsommer    
+last
+past, as he remembres, ther was a communicacion about a Jointure that
+Morgan Edmound had promysed Elizabeth Brid, beynge x=l~= yerely, to
+be set apon the said Elizabeth. and when they were agreid that she
+shuld have so muche duringe her lief, he askid her, 'whether she
+wold be content to geve hym her faith and trouthe before such as
+were there'; and she said she wold. and there-apon, the said Elizabeth
+did geve the said Morgan her right hand, and said to hym:</nonSpeech><dialogue> &quot;I take 
+you for my husband; and I will marry you when you comme back
+againes. I will neuer marry non but you.&quot; </dialogue><nonSpeech>&amp; then they vnlosid      
+handes;
+and she said,</nonSpeech><dialogue> &quot;you shalbe bound to me as I am to you&quot;: </dialogue><nonSpeech>and then he 
+gave her his hand likewise, &amp; said,</nonSpeech><dialogue> &quot;I take you for my wief, with  
+all
+my hart, &amp; I will marry you, by my faith &amp; trouthe&quot;: </dialogue><nonSpeech>&amp; so the<emendation>y</emendation>
+losid handes, &amp; kissed together. beynge askid, 'whether ther was any
+man that pronounced the hole wordes of matrimony betwixe them'; he
+sais, 'no, but ther owne selvis.' and forther, this deponent sais,   
+that
+'Morgan toke this deponent with hym for that only purpose, to witnes
+with hym; and that causid hym to marke so much as he hath said.'
+beynge askid, 'whether the one gave the other any token at that tyme';
+this deponent sais, 'no, to his knoledge.' but he sais, 'the next    
+morninge
+after, Mistres Brid send the said Morgan a Ringe of gold by this      
+deponent,
+with a blewe stonne in; and the said Morgan gave her gret thankes, but
+<pagebreak id="188" />
+he send nothinge by this deponent at that tyme.' but he sais, that   
+'after
+that, she, the said Elizabeth, send to this deponent a pece of gold  
+worth
+iiij=l=, to this deponentes Iudgment, bie her suster Marget,         
+willinge hym to
+bringe that pece of gold to Morgan, in sted of the ringe, biecause   
+hit was
+a trifle.' &amp; this deponent answerid, 'he wold not go againe with any
+more tokens; wherfore, whether the gold came to hym or no, this
+deponent knowes not certenly.'</nonSpeech>
+   <nonSpeech> <foreign>Ad iij articulum, respondet vt prius deposuit</foreign> ; and        
+forther, he sais,
+'he hard say that, after Morgan was gone into wales, the said Morgan
+send the said Elizabeth a Ringe of gold; &amp; she sent hym a hart of gold
+by one Richard Morgan of Beaumaris.' <foreign>alias nescit deponere</foreign> .</nonSpeech>
+   <nonSpeech> <foreign>Ad iiij articulum</foreign> , This deponent sais, that he belevis    
+the contentes of
+this article to be true; for 'he thinkes that handes trouthe, with   
+such
+wordes as he hard spoken, shuld make them man &amp; wief before god.'</nonSpeech>
+   <nonSpeech> <foreign>Ad v=l~=, dicit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vi=l~=, credit iuste fuisse querelate.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimum, dicit predeposita per eum fore vera, et famam    
+super
+huiusmodi Laborare</foreign> ; and that he hath hard xx say, that 'Henry Dilon 
+mariage was nought, biecause of this precontract.'</nonSpeech>
+
+   <nonSpeech> <foreign>Johannes David, sacrista infra ecclesiam cathedralem         
+cestriensem,
+etatis liiij annorum, novit partem actricem vij annos, et partem     
+ream xx
+annis.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum, credit eundem fore verum, quoad noticiam
+suam</foreign> , that bothe parties articulate were fre from all             
+precontractes.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d= Articulum</foreign> , This deponent sais, that he came into 
+one Ellin
+Mercers house, not knowinge of this matter afore; and then hering them
+commen of a mariage, stode still, and went not away, bycause his     
+frendes
+were there, <foreign>videlicet</foreign> : Edward Griffiths, Res Adder, and the     
+said Master
+Morgan, whom he had knowne afore. and when this deponent came
+thither, they <comment type="editor">Eliz. Bird and Morg. Edmund</comment> were holdinge the      
+one hand
+in the other; &amp; the said Elizabeth said:</nonSpeech><dialogue> &quot;I wilbe your wief, and   
+take
+you for my husband from hense forth, by my faith and trouth, with all
+my hart.&quot; </dialogue><nonSpeech>and he, the said Morgan, likewise toke the said          
+Elizabeth by
+the hand, and said:</nonSpeech><dialogue> &quot;I wilbe your husband from hensforward, with all
+my hart&quot;; </dialogue><nonSpeech>and then they kist; and he said she shold have x=l= land
+Joynture. and they said, one shuld go se the land; and pointed a day
+to marry: at which day the said Morgan apointid to be here again with
+her, and fell sick in the meane season. and this deponent sais, he   
+hard
+say that the said Morgan was dead, or els he wold have forbid the     
+mariage
+<pagebreak id="189" />
+betwixe the said Elizabeth and Henry Dilon. but altho he wold have 
+done so, he cold not, biecause they did steale a mariage without banes
+askinge. and forther, this deponent sais, 'when they made the said 
+contract, holdinge handes, the said Elizabeth said,</nonSpeech><dialogue> &quot;I will neuer  
+marry other;
+but take you for my husband duringe lief.&quot; </dialogue><nonSpeech>&amp; he answerid her       
+likewise.'
+and forther, this deponent sais, that 'the morrowe after the said     
+contract,
+the said Elizabeth send Morgan a gold ringe with a blewe stonne in   
+hit;
+&amp; he sent her another ringe.' beynge askid, 'in what place of the     
+house
+this contract was'; he sais, 'hit was in a parlour, on the backside,
+betwixe xi and xii a clock afore none.' beynge askid, 'apon what 
+occasion he came thither'; he sais, 'he came thither to get somme    
+threde; &amp;
+so hard tell of his forsaid frendes; and taried there still.' and    
+forther,
+<emendation>beynge askid</emendation> 'where Morgan was, when the Ring with the blewe ston
+was delivered hym'; he sais, 'at Mistris Ormisdich, in Chester, where
+the said Morgan tablid, at his bedside.' beynge askid, 'whether ther
+was any more spoken by any other man concerninge the wordes of 
+contract': 'none, for any thinge that he hard.'</nonSpeech>
+   <nonSpeech> <foreign>Ad iij articulum, respondet provt prius deposuit</foreign> ; and he  
+sais, 'he
+hard say there was a token of a pece of gold of iiij=li= send        
+betwene them;
+but he knowes not certenly.'</nonSpeech>
+   <nonSpeech> <foreign>Ad iiij articulum</foreign> , this deponent sais, that 'they were    
+present by,
+thought them to be man &amp; wief afore god. &amp; they had bene mar<emendation>i</emendation>ed
+together before, at the day appointed, yf the said Morgan had bene in
+health, &amp;=c=, to this deponentes thinkinge.'</nonSpeech>
+   <nonSpeech> <foreign>Ad vj, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimum, dicit predeposita per eum fore vera, et famam    
+super
+huiusmodi laborare. non est doctus, non conductus, &amp;c.</foreign> </nonSpeech>
+
+   <nonSpeech>Margareta Fradsam, <foreign>vidua, parochie Sancti Oswaldi, novit partem
+actricem a festo Pasche supra, et est soror partis ree. &amp;=c=.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primum articulum</foreign> , beyng demaundid 'whether Morgan was a
+suter to Elizabeth Brid, her suster, or no, in the way of mariage';  
+this
+deponent answerid &quot;yea.&quot; beynge askid, 'what frendes he made, &amp;
+howe oft he came to her'; she answerid, that 'he wold have had one
+Master Williams, and Master Moston, Esquiers, to have comme with
+hym, and 'spoken with her.' and the said Elizabeth was somwhat 
+bashfull, &amp; said 'she wold have no such men to come to her.' &amp; the   
+said 
+Morgan did comme almost dalie to this deponentes suster; for he tablid
+at Mistres Grimsdiches, not far from her.' beynge askid, 'whether the
+said Elizabeth was free from all precontractes afore that day'; she  
+saies,
+<pagebreak id="190" />
+'yea; &amp; so she durst depose; for she knowes her counsell &amp; secrettes
+more then any other.'</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , this deponent sais, that 'the said parties,     
+Morgan Edmond &amp;
+Mistris Brid, made a full contract, &amp; a perfitt, of mariage, hand in 
+hand,
+plightinge to ech other faithe and trouthe: <foreign>presentibus tunc        
+ibidem</foreign> ,
+Edward Griffiths, John David and a beadman callid Res. &amp; this contract
+was made about a fortnight afore Midsomer day last, in a parlour,    
+behind
+the house of Ellin Mercer.' beynge askid, 'by what wordes they did
+make the contract'; she sais,</nonSpeech><dialogue> 'by the wordes of Wedlock -- as nere 
+as
+they cold hit those wordes, -- that ar spoken at the church dore: &quot;I 
+take
+the for my weddid husband,&quot; &amp; &quot;I take the for my weddid wief, for
+better &amp; for worse, &amp;c.&quot; and when the words were spoken, they kissed.'
+</dialogue><nonSpeech>&amp; forther, she sais, 'the said Elizabeth shuld have x=li= landes   
+set apon
+her, in Anglysey, as she thinkes, which came by his                  
+<comment type="editor">Morgan Edmund's</comment>
+mother; for he cold not set any that came by his father, biecause he
+made such promesse at the mariage of his heire.' beynge askid, 'when
+this communicacion was'; this deponent sais, 'hit was afore the      
+contract.
+&amp; after and when they had agreid apon the contract, then they wold   
+have
+had one to go se the Landes; and he <comment type="editor">Morgan</comment> bade her send any     
+frend
+that she wold. &amp; so she desired Mr Roberte Brock to take the paines,
+who can testify the same.' beynge askid, 'whie the said Elizabeth wold
+marry Dilon, and havinge made a contract afore': she sais, 'she hard 
+say
+that the said Morgan Edmond was dead; and dyverse did bear her in
+hand so; and she was temptid by daily sute of the said Dilon, &amp; did
+forget her forther promesse.' and beynge askid, 'whether any Ringe,
+or any other token, was gevin, the one to the other, at tyme of the  
+said
+contract'; she sais, &quot;no: but after, the said Elizabeth send the said
+Morgan a ringe by David Griffiths, the morning after; who said it was
+not good ynough; but yet he deliuered hit. and afterward the said
+Elizabeth send a better token to the said Edward, to geve the said
+Morgan; and he said that ringe shuld suffice.&quot; beynge askid, 'whether
+morgan send her any thinge'; this deponent answeris and sais, 'he send
+her an other ringe of a blewe turques. and when it was sent, she dothe
+not remembre; but she sais hit was fairer then her susters, beynge   
+of the
+same kind.' beinge askid 'whether she send hym any more tokens';
+this deponent sais, 'she send hym a hart of gold by one, Master      
+Morgan,
+a seruant of Sir Richard Duckleis,' &amp;c.</nonSpeech>
+   <nonSpeech> <foreign>Ad iij, dicit vt prius deposuit.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad iiij articulum</foreign> , this deponent sais, that 'they were    
+taken and
+<pagebreak id="191" />
+reputid as man &amp; wief afore god, by this deponent, and of all other  
+that
+were present by, &amp; of the neighboures thereabout that knowe of it.'</nonSpeech>
+   <nonSpeech> <foreign>Ad v, credit continere in se veritatem.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vj, credit eundem fore verum.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad Vltimum, dicit predeposita per eam fore vera</foreign> ;          
+forbiecause this
+deponent hath hard her suster often tymes lament, for that she maried
+the said Dilon, after she knewe the said Morgan to be on lyve; &amp; said
+'it was a scourge for her nowe in her old daies.' &amp; this deponent     
+thinkes
+in conscience, that she hath iust cause to repent for this purpose   
+only.</nonSpeech>
+
+<nonSpeech> <foreign>Responsiones personales Elizabeth Brid alias Dilon capte super
+Libello ex parte Morgani Edmound, generosi, contra ipsam
+oblato, in causa contractus, capte coram Magistro Roberto 
+Leche, &amp;=c=, iiij=o= die Novembris, 1562=o=.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Ad primam positionem</foreign> , this Respondent, beynge put in mynd 
+of her
+othe to say the truthe without respect of any thinge, sais, that she 
+hath a
+soule to kepe, &amp; that she is not like longe to lyve; &amp; now in her    
+old age
+she wold not hurt her soule, &amp; refuge Christ, that hath brought her, 
+in
+speakinge any thinge apon her othe but the truthe: wherfore she sais,
+that in her conscience she was free from all men when she made the 
+contract with Morgan Edmound; and for any thinge that this Respondent
+knowes, the said Morgan was also free.</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , This Respondent sais, that somwhat afore        
+midsomer last past,
+in a parlour of Ellen Mercers, within the parishe of S=t= Oswaldes in
+Chester, she, this Respondent, &amp; Morgan Edmound, did make a contract
+of mariage, speakinge the wordes of mariage (as nere as this         
+Respondent 
+cold remember the same), saynge:</nonSpeech><dialogue> &quot;I take the, Morgan, to my husband,
+from this day forward; and therto I plight the my trouthe&quot;: </dialogue><nonSpeech>and held
+hym by the hand, sayeng these wordes aforesaid, with other, in full  
+mynd
+to have hym for her husband duringe her lief: and likewise Morgan toke
+this Respondent by the hand, and said:</nonSpeech><dialogue> &quot;I take the, Elizabeth, for 
+my 
+wief from hensforth; and therto I plight the my trouthe&quot;: </dialogue><nonSpeech>&amp; so they
+drewe handes, &amp; kissed either other. Item she sais, 'she send hym a 
+Ringe by Edward Griffiths, who thought the Ringe was not good ynough;
+neuertheles he delivered hit; and after, this deponent               
+<comment type="editor">Respondent</comment> wold
+have sent, by the said Edward, a gret pece of gold to the said Morgan
+Edmound: which pece came to this Respondentes hand againe, &amp; was not
+delivered, as she thinkes, biecause the said Morgan was gone out of  
+the
+towne.' and forther she sais, that 'the said Morgan send her a ringe
+<pagebreak id="192" />
+with a stonne in hit, better then this Respondentes ringe was.' beynge
+askid whether ther was any more tokens sent betwixe them; she sais,
+that 'she sent hym a little hart of clene gold, by a gentleman of 
+Bewmarris, who said he was cosin to the said Morgan; but she         
+Receyvid non
+againe of hym again.' beynge askid 'how it chauncid that she, havinge
+made suche a contract with Morgan Edmound, wold wed Henry Dilon':
+she answeres, that 'hit was told her by certen Walshmen, that Morgan 
+was dead; which thinge, this Respondent belevid, bicause she hard
+nothing from the said Morgan after she had sent hym the said hart.'
+and further, this Respondent sais, that 'she was in trouble in the   
+Lawe
+about a certen Lyving; and therefore she was counselid to take a      
+hesband
+to followe her sutes &amp; matters. for which cause, &amp; for others, she was
+seducid by one Henry Dilon to forget her other promesse made vnto 
+Morgan; for which she is hartely sorey; for she did neuer any thinge
+that hath grevid her conscience so muche.' &amp; forther, she sais, apon 
+her
+othe, that 'ther is no collusion wrought; but that in conscience she 
+is
+Lawfull wief, afore god, to Morgan, &amp; he her husband; &amp; wisheth that
+either Morgan had bene dead indede, or els has gevin her knoledge
+rather.' and forther she sais, that 'she shuld have had x=l~= yerely
+during her lief, made vnto her by the said Morgan for her Ioynture, in
+Anglisey; and M=r= Brock was desired to go se it; but he had other
+busnies,' &amp;c.</nonSpeech>
+   <nonSpeech> <foreign>Ad iij, dicit vt presens deposuit.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad iiij'</foreign> , this Respondent sais, that in her conscience     
+she thought she
+was Morgans wief; but what the neighboures did thinke therein, she
+knowes not; but she sais, the neighboures thought they shuld be maried
+together.</nonSpeech>
+   <nonSpeech> <foreign>Ad v, dicit eandem fore veram.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vi, dicit eandem fore veram.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimam, credit credita et negat negata; et super non     
+credditis
+et negatis, credit famam non laborare.</foreign> </nonSpeech>
+   <nonSpeech>28 Nov., 1562. Deposition of Thomas Bildon, Junior, aged 24.</nonSpeech>
+<nonSpeech>&quot;This deponent <comment type="editor">...</comment> beynge demaundid apon what he was brought,
+sais, that 'for as much as this deponent standes suerty for Morgan 
+concerninge an action dependinge before the Sherieves of Chester,    
+the said
+Morgan vttrid his mynd vnto hym concerning this case, sayenge vnto
+hym, that he wold neuer marry the said Elizabeth, biecause she was a
+priestes hoore: and at the said tyme, and the same day, the said     
+Morgan
+told this deponent, that yf the Lawe wold geve Elizabeth vnto hym, he
+<pagebreak id="193" />
+wold agre with Dilon, and abide this deponentes award, and not marry
+her.' and forther, he told this deponent, 'he was afeard lest, yf he 
+shuld
+obteine her by the Lawe, lest he cold not be divorsid from her.' &amp;
+forther, this deponent sais, for Morgans abode in Chester, he sais it
+appens <comment type="editor">?apperes</comment> by two actions in the shryreves boke.
+<comment type="editor">signed</comment> <foreign>per</foreign> me, Tomas Byldon.&quot;</nonSpeech>
+
+   <nonSpeech>Randulph Manwaringe, of the City of Chester, Alderman, aged 57,
+deposes, &quot;that at the tyme the suit was commensid by Morgan against
+the said Elizabeth, this deponent, havinge a house for which he shuld
+pay rent vnto the said Elizabeth, did meryly aske the said Morgan
+'whether he or Dilon shuld be his Landlord': he answerid non answere
+to the purpose. then this deponent earnestly askid hym, 'what Title he
+had to the said Elizabeth.'</nonSpeech><dialogue> &quot;marry,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;I have a        
+promyse of her;
+and she had a token of me; and I receyvid an other from her.&quot; &quot;Then,&quot;
+</dialogue><nonSpeech>quod this deponent,</nonSpeech><dialogue> &quot;will you marry her that hath maried an      
+other in 
+the face of the churche, and hath lyen with hym?&quot; </dialogue><nonSpeech>then Morgan
+answerid, that 'he wold neuer marry priestes hoore, as longe as he   
+lyved.'</nonSpeech><dialogue>
+&quot;whie,&quot; </dialogue><nonSpeech>quod this deponent,</nonSpeech><dialogue> &quot;whie do you make suche Title vnto   
+her?&quot;
+</dialogue><nonSpeech>and he answerid,</nonSpeech><dialogue> &quot;mary, to make Dilon to pay me suche mony and   
+plate
+as he had of hers in his handes.&quot; </dialogue><nonSpeech>quod this deponent,</nonSpeech><dialogue> &quot;you       
+cannot so
+do, yexcept you prove the contract, and marry her.&quot; </dialogue><nonSpeech>and Morgan     
+answerid
+and said,</nonSpeech><dialogue> &quot;I will neuer marry her, biecause she hathe plaid the    
+hoore, &amp;
+committed adultery; and therfore I may iustly refuse her by the      
+order of
+the Lawe.&quot;
+</dialogue><nonSpeech> <comment type="editor">signed</comment> <foreign>per</foreign> me, Rondull Maynwaring.&quot;</nonSpeech>
+
+   <nonSpeech>Charles Blackstonne, of the Parish of Saint Oswald's, Chester,
+aged 23, deposes, that 'beynge askid of Morgans beynge in towne, and
+whether ther was any contact betwixe Morgan Edmound &amp; the said
+Elizabeth'; he sais, 'Morgan was at this deponentes house, with Mr.
+Williams, and Griffith of London, about barthelewne tide last, or 
+somwhat before. and as for contract made betwixe them, he can say
+nothinge, but that talke was, one Pole and Morgan were suters to the
+said Elizabeth.' <comment type="editor">...</comment>
+<comment type="editor">signed</comment> Charles Blackeston.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 10">
+
+<pagebreak id="196" />
+ <head> <comment type="editor">4B. ELLEN RICROFT V. THOMAS SNELSON.</comment> </head> <dialogue>
+<comment type="compiler">EDITOR'S COMMENT OMITTED.</comment>
+
+   </dialogue><nonSpeech>18th March, 1562-3. <foreign>Responsiones personales Johannis          
+Willy.</foreign> </nonSpeech>
+
+   <nonSpeech>This respondent saies, that Thomas Snelson required hym to go   
+with
+hym to his mariage, which was solempnized by one Sir Robert -- the
+other name he knowes not, -- betwene hym and Joan Willy in Rishton
+Chappell, in Staffordshire, as this respondent thinkes. and the      
+mariage 
+was solempnized about the dawninge of the day, sins Candlemas last
+<comment type="editor">2 Feb. 1562-3</comment> : the tyme, day, nor weke, he remembres not: 
+<foreign>presentibus tempore Solempnizaconis eiusdem matrimonij, Radulpho   
+Barker,
+vnacum isto deponente, et alijs, quorum nomina ignorat</foreign> .</nonSpeech>
+
+<nonSpeech> <foreign>Responsiones personales Joanne Wily, alias Snelson, capte coram
+Magistro Roberto Lech, &amp;c, primo Aprilis, 1563=o=.</foreign> </nonSpeech>
+
+   <nonSpeech>This respondent sais, that she was married to Thomas Snelson    
+betwene
+Candlemas <comment type="editor">2 Feb.</comment> and Shrovetide last, -- the day nor weke she 
+remembres not; but it was -- in Rishton, in an other Dioces, (what   
+priest it was, 
+she knowes not; whether he was curate or not); in the presence of Rafe
+Barker, and John Willy, and another, whose name this respondent knowes
+not, and Edward Lowe of Staffordshire. beynge askid, 'whie she was
+maried in an other Dioces'; she answeris, 'it was throughe the 
+procurement of Thomas Snelson; and she thought it was not so gret    
+daunger as
+she thinkes it nowe be.' and forther she saies, 'the banes were askid
+twise; and the iij=d= tyme Ellin Ricrofte forbade the same.'</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 11">
+
+<pagebreak id="198" />
+ <head> <comment type="editor">14. ALEXANDER WINSTANLEY V. ELLEN SONKIE.</comment> </head> <dialogue>
+<comment type="editor">3 or 4 weeks after her Trothplight, she married another man; and   
+this suit
+is not brought till 20 years later.</comment>
+
+</dialogue><nonSpeech> <foreign>Examinacio testium super pretenso Contractu Matrimonii, facti   
+inter
+Alexandrum Winstanley et Ellenam Sonkie, capta coram Domino
+Cancellario, xxviij=o= Aprilis, 1564.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Georgius Holland, parochie de Wigan, vbi natus est, etatis   
+x=l~j=
+annorum, novit Alexandrum Winstanley xxxvj annos, et Elenam Sonkie
+xxvj annos. Interrogatus de hujusmodi pretenso contracta</foreign> , This 
+deponent saies, that 'apon Thursdaie at night, before Alhalontide,   
+about xix
+or xx' yeres ago (and, as this deponent well remembres, about iij    
+wekes or
+a moneth afore the marriage of the said Eleine and Roberte Gidlowe), 
+Alexander Winstanley did require this deponent to go with hym to the
+fathers house of the said Eleine. and when this deponent and the said
+Alexander came thither, the father of the said Eleine was in bed. Then
+the said Alexander said:</nonSpeech><dialogue> &quot;Eleine, I here say you must be maried; but
+so you cannot do, biecause you &amp; I have bene sworne apon a boke 
+together afore now.&quot; </dialogue><nonSpeech>she answerid, that 'what she had sworne, she  
+wold
+not go against'; &amp; said,</nonSpeech><dialogue> &quot;I will neuer marrie non but you.&quot;        
+&quot;then,&quot; </dialogue><nonSpeech>said
+Alexander,</nonSpeech><dialogue> &quot;yf you be so determynid, let vs make the matter sure,  
+before
+this man and theis ij=o= women&quot;: </dialogue><nonSpeech>and thereapon he callid, as       
+witnes, this
+deponent, Elizabeth Winstanley, and Margaret Waite. then the said
+Alexander toke the said Eleine bie the hand, afore the said witnes,  
+and
+said:</nonSpeech><dialogue> &quot;I, Alexander, take the, Eleine, to my weddid wief, to have  
+and
+to hold, for better &amp; worse, for richer and poorer, in sicknes &amp; in  
+health,
+till death vs departe; and therto I plight you my trouth.&quot; </dialogue><nonSpeech>and so,
+vnlosing hand, the said Eleine toke the said Alexander bie the hand
+likewise, and spake the like wordes in effect to hym. and afterward, 
+the
+said Alexander and this deponent tarried there ij=o= howres, and     
+dronk, and
+so departid back againe to the said Alexander his fathers house' /   
+beynge
+askid 'what cause the said Alexander had to take this deponent with
+hym'; he sais, that 'he this deponent, beinge a Tailiour, was workinge
+at the fathers house of the said Alexander, and was requestid to go  
+with
+hym, but he knewe not to what intent till he came thither. <foreign>non est
+Doctus, non conductus, non iuratus, &amp;=c=.'</foreign> </nonSpeech>
+<pagebreak id="199" />
+   <nonSpeech> <foreign>Margareta Waite, parochie de Wigan, vbi nata est, novit 
+Alexandrum Winstanley et Elenam Sonkie a puericiis eorundem. Examinata
+de huiusmodi contractu, &amp;=c=</foreign> , This deponent saies, that 'she well 
+remembres
+the mariage of Roberte Gridlowe and Eleine Sonkie, which is about xx'
+yeres ago. and about a moneth or iij wekes afore that tyme, Alexander
+Winstanley and George Holland came to the house of William Sonkie,
+father to the said Eleine, in the night season, when Sonkie and his  
+wief
+were a bed. and then fallinge in talk and communicacion, Alexander
+said vnto Eleine,</nonSpeech><dialogue> &quot;I heresay you must be maried.&quot; </dialogue><nonSpeech>she            
+answerid,</nonSpeech><dialogue> &quot;I
+am readie to be maried to no man livinge, except it be to you.&quot; </dialogue><nonSpeech>Then
+said he,</nonSpeech><dialogue> &quot;I think you can marry non but me; seinge we are sworne   
+to be
+true, one to an other.&quot; </dialogue><nonSpeech>she answerid,</nonSpeech><dialogue> &quot;I will neuer go against   
+my othe,
+if you be the same man&quot; / </dialogue><nonSpeech>Then said Alexander:</nonSpeech><dialogue> &quot;ar you content   
+to be
+contractid, and make all thinges sure?&quot; </dialogue><nonSpeech>and she answerid,</nonSpeech><dialogue> &quot;yea.&quot; 
+</dialogue><nonSpeech>then
+the said Alexander callid George Holland, Elizabeth Winstanley, and
+this deponent, to here &amp; see what they saied and did; and takinge    
+the
+said Eleine bie the hand, said:</nonSpeech><dialogue> &quot;I, Alexander, take the, Eleine,   
+to my
+weddid wief, to have and to hold, for better for worse, till death vs
+departe; and therto I plight you my trouth.&quot; </dialogue><nonSpeech>and the said Eleine 
+said:</nonSpeech><dialogue> &quot;I, Eleine, take the, Alexander, to my weddid husband, to have
+and to hold, for better for worse, till death vs departe; and therto I
+plight the my trouth.&quot; </dialogue><nonSpeech>after which wordes spoken, the said Alexander
+toke her in his armes, and kissid her, and said,</nonSpeech><dialogue> &quot;I will take thee 
+for my
+wief from this daie forward&quot;; </dialogue><nonSpeech>and so tarried a while after,        
+drinkinge, and
+departid. beinge askid, 'whether theis were the wordes of contract, or
+whether ther were more spoken'; she saies, 'theis and all the wordes
+vsid to be spoken bie the priest, were spoken, altho nowe she hath
+forgotten them: then she had them in memory.' <foreign>Reddendo racionem
+scientie sue huiusmodi</foreign> , she saies she was hired there to spinne;  
+and
+sais, she is not remembrid of the nomber of the yeres perfittlie;    
+but she
+well remembers it was done afore she went to London, which is almost
+xx' yeres ago.' further beinge demaundid, 'whether euer she hard they
+were sworne together'; she sais, 'no, afore that night that the said
+Alexander said so, and the said Eleine denied it not.' <foreign>non est     
+docta, non
+conducta, &amp;=c=.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Elizabeth Winstanley, parochie de Wigan, etatis xliiij       
+annorum, novit
+partes ab infanciis. Interrogata de mente <comment type="editor">?</comment> cause</foreign> ; This       
+deponent sais,
+that the said Alexander, -- perceyvinge that the father of Eleine    
+Sonkie
+was offendid that he came to his house, -- did therfore comme in the
+<pagebreak id="200" />
+night season customablie; and apon a certen Thursday at night, afore 
+the
+mariage of Gidlowe and the said Elene, about iij wekes or a moneth,
+which is about xix' or xx yeres ago, Alexander came, and brought     
+George
+Holland with hym, to the said house. and when he was comme thither,
+he said to Eleine,</nonSpeech><dialogue> &quot;It is told me you ar bound to be maried&quot;; </dialogue><nonSpeech>and 
+she said</nonSpeech><dialogue> &quot;nay.&quot; </dialogue><nonSpeech>said Alexander againe,</nonSpeech><dialogue> &quot;remember what you have
+done; and be well advised of the oth that you have made vnto me.&quot;
+&quot;well,&quot; </dialogue><nonSpeech>said Elein,</nonSpeech><dialogue> &quot;that I have said and sworne, I will         
+performe and
+stand to.&quot; </dialogue><nonSpeech>Alexander answerid,</nonSpeech><dialogue> &quot;if you be so determyned, let vs  
+make
+the matter sure before witnes&quot;; </dialogue><nonSpeech>and thereapon callid the said George
+Holland, Margaret Waite, and this deponent, to beare witnes what was
+said and done. and so, taking the said Eleine bie the hand, said vnto
+her,</nonSpeech><dialogue> &quot;I, Alexander, take thee, Eleine, to my weddid wief,&quot; </dialogue><nonSpeech>and   
+so furth,
+all the rest of the wordes as the priest vseth to say; and the said  
+Eleine
+answerid the same wordes againe. and so, vnlosinge handes, they      
+kissed,
+as she remembers; and so they tarried together somwhat more then an
+houre after that; and the said Alexander and George Holland departid
+away. being askid <foreign>de consanguinitate inter illam et partem illam 
+producentem</foreign> , she sais she is cosin germaine to the said Alexander 
+in <foreign>ij=do= et
+ij=do= consanguinitatis gradibus</foreign> . beinge askid 'howe she knoweth  
+it was
+done apon a Thursdaie'; she saies, 'bie her supper; and biecause they
+made an end of flesh meat that night for that weke.' <foreign>non est       
+docta, non 
+conducta, &amp;c.</foreign> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 12">
+
+<pagebreak id="204" />
+ <head> <comment type="editor">3B. HENRY FAZAKERLEY V. MARGERY WIRRALL.</comment> </head> <dialogue>
+<comment type="editor"> <font>Should have followed the case on p. 117 above.</font> </comment>
+
+</dialogue><nonSpeech> <foreign>Examinacio Testium in causa diffamacionis, super excepcionibus ex
+parte Henrici Fazakerley contra Margeriam Wirrall, oblatis, capta
+die et anno predictis</foreign> <comment type="editor">8th May 1562</comment> .</nonSpeech>
+
+   <nonSpeech> <foreign>Richardus Wolfall, parochie de Walton, etatis l annorum, novit
+Margeriam Wirrall xxx' annorum, et Henricum Fazakerley ab infancia   
+sua.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primam excepcionem quoad William Plumpton, primum         
+testem</foreign> ,
+he sais he cannot say anythinge of his honesty, or nor fro; but he   
+sais,
+he hathe hard say that 'he varyed in his talke in this matter,       
+tellinge one
+gentleman this, and an other gentleman a tale cleane contrary, as he 
+hard
+say; but he is not able to prove hit.' and forther he sais, that     
+'Margaret
+Wirrall, apon occasion came to this deponentes house, where she found
+Henry Fazakerley; but she had knoledge that he was there afore; &amp; that
+made her more willinge to comme to this deponentes house, biecause she
+had enquired of this deponentes syruent (who told her that the said
+Henry was there afore). &amp; when she came thither, she said bie 
+Fazakerley,</nonSpeech><dialogue> &quot;yonder fellowe hathe entrid me into the Cowrt for a   
+pece of
+mony; &amp; he owes me somme,&quot; </dialogue><nonSpeech>&amp; namid the sume, as he thinkes, to be
+iij=s= ij=d=.' and he said, that 'yf he owid her any thinge, she     
+might also
+demaund the mony there where he had done his, and she might have
+right.' and the said Margaret answerid &amp; said,</nonSpeech><dialogue> &quot;dost thou denay hit?
+then thou art a false thief!&quot; </dialogue><nonSpeech>and apon that, Fazakerley answerid &amp; 
+said,</nonSpeech><dialogue>
+&quot;thou art as like a hoore, as I a thief.&quot; </dialogue><nonSpeech>and therapon she said,</nonSpeech><dialogue> 
+&quot;thou
+art a thief; and I am able to prove the for a thief; &amp; thou art a    
+thief!&quot;
+</dialogue><nonSpeech>and to his knoledge she spake of all his kin; and so ther was angry
+wordes betwene them; but she callid him 'thief' afore he called her
+'hoore'; &amp; that, this deponent is sure of, for he was present by. &amp;
+forther he sais, that 'Toppinges wief was by; but as for Roberte     
+Wolfall, 
+he was set to threshe in an old house; but at that tyme he was gone  
+out
+to seke beastes, &amp; might fortune to come againe or euer theis angry
+<pagebreak id="205" />
+wordes were endid; but yf he were, there was no body knewe of hym, to
+this deponentes knoledge, not ther was no mencion made of hym.' and
+further he sais, that 'the said Roberte Wolfall was requestid bie    
+Margaret
+Wirrall to go with her to her Master, Sir Richard Molinex; who       
+answerid, 
+that 'he wold go with her any whether els, to spend xx=s= in her     
+cause;
+but as for thither, he wold not go with half a tale, biecause he was 
+not
+present at the begin<emendation>i</emendation>nge.' 'and as touchinge William Plumpton,   
+ther
+was no body see hym at that present, to this deponentes knoledge,    
+nor had
+anythinge to do at this deponentes house, where Fazakerley was       
+workinge,
+nor cannot prove hym self to be there, nor what place he stode by,   
+when
+he hard the said wordes; but yf he were present, hit was for no good 
+to
+this deponent.' &amp; as for 'Master Moores hoore,' this deponent sais he
+neuer hard Fazakerley call Margaret Wirrall so, to his remembraunce.</nonSpeech>
+    <nonSpeech> <foreign>Ad ij=d= excepcionem</foreign> , This deponent sais, that           
+'Katherine Walley was
+present all the tyme of the talke, from the begin<emendation>i</emendation>nge to         
+thendinge.' &amp;
+further he sais, that 'Roberte Wolfall did say one a certen tyme, that
+he wold do as much for the said Margaret as for his mother, in this
+cause.' &amp; further he sais, 'the said Roberte is of the iij or        
+iiij=th= degree
+<comment type="editor">of kin</comment> to the said Margaret; and he, this deponent, standes      
+in the
+same degree, to his remembraunce; &amp; this deponent, he wold do for her
+what shuld lye in hym, but for his othes sake, &amp; conscience.' &amp; he   
+sais
+moreouer, that 'Roberte Wolfall was this deponentes seruaunte at that 
+tyme; but sais he is entysed away bie the said Margaret &amp; her 
+houseband; whereas he was thes deponentes hired seruant for all the  
+yere; &amp;
+therfore hit is to be muche suspectid, biecause, contrary to his     
+bargaine,
+he is gone away from hym.'</nonSpeech>
+   <nonSpeech> <foreign>Ad vltimam, dicit predeposita per eum fore vera.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Jana Wolfall, parochie de Walton, etatis xxxvj' annorum, novit
+Margaretam Wirrall xij' annos et vltra, et partem ream similiter.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primam excepcionem, dicit Willielmum Plumpton esse honestum
+virum, quoad noticiam suam</foreign> ,  but this deponent see hym not at the
+wordes spoken betwene Margaret Wirrall &amp; Henry Fazakerley; nor non
+about her house se hym, as far as she cold enquire of, nor had any   
+thinge
+to do about this deponentes house. &amp; further, this deponent sais, that 
+'the said Margaret callid the said Henry &quot;thief,&quot; dyverse tymes before
+he callid her &quot;hoore&quot;; &amp; he namid her not any mans hore, neither Mr
+Mores, nor noman els, to this deponentes heringe; &amp; she thinkes that 
+the
+said Henry wold not have callid her &quot;hoore,&quot; but that she first callid
+hym &quot;thief,&quot; &amp; said &quot;he was nought, &amp; all his kinne.&quot;' &amp; further, this
+<pagebreak id="206" />
+deponent sais, 'the occasion began about a mony matter.' &amp; beynge
+askid, 'apon what occasion the said Margaret came to this deponentes 
+house'; she said, 'apon this occasion: this deponent send to her for
+mony, &amp; by her syruant; &amp; the said Margaret enquired of the said
+syruant whether the said Henry was at her Mistreses house; &amp; she
+answerid</nonSpeech><dialogue> &quot;yea.&quot; </dialogue><nonSpeech>then Margaret Wirrall said,</nonSpeech><dialogue> &quot;then I will go    
+with the
+myself.&quot; </dialogue><nonSpeech>wherfore this deponent thinkes she came thither to scould.'
+and further, she sais, for Roberte Wolfall, that 'he shuld have gone 
+for
+beastes; but whether he went for them or no, she cannot tell; but    
+yf he
+were threshinge, she shuld have hard hym; &amp; therfore he might stand
+prively to heare them; but he was not knowne to be their of any man;
+but that he came in after.'</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , This deponent sais, that 'Katherine Walley was  
+present by, at
+all the talke; but that she went downe to fetche a baskett full of   
+Turves,
+where she might here all the talke, commynge &amp; goynge.' &amp; this       
+deponent
+hath hard Roberte Wolfall say dyverse tymes, that 'he wold do as muche
+for Margaret Wirrall as for his owne mother in this cause.' and      
+further,
+this deponent sais, she hath hard hit recknid that 'Margaret Wirrall 
+&amp; the
+said Roberte were nere akinne in the iij=d= or iiij=th= degre': &amp;    
+that 'Roberte
+Wolfall was Richard Wolfall hired syruant, &amp; went away before his
+covenant, &amp; was well vsed of his brother; but whether he be gone away
+through the entysement of the said Margaret Wirrall &amp; her husband, or
+for what occasion, she cannot tell; but it is to be suspectid that   
+hit was
+so biecause he was honestly entreatid of his brother, &amp; did not mynd 
+to
+go away before.'</nonSpeech>
+   <nonSpeech> <foreign>Ad vltimam, dicit predeposita per eam fore vera.</foreign> </nonSpeech>
+   
+   <nonSpeech> <foreign>Katerina Toppinge, parochie de Walton, etatis xxx' annorum et
+vltra, novit Margaretam Wirrall xiiij annis, et partem ream          
+similiter.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primam excepcionem, dicit quod novit Willimum Plumpton fore
+virum bone fame</foreign> . &amp; further, this deponent sais, that 'in wordinge 
+betwixe
+Margaret Wirrall &amp; Henry Fazakerley, the said Margaret callid Henry
+&quot;thief,&quot; before he callid her &quot;hoore&quot;; and said &quot;he was a thief; and 
+all 
+his kine was nought.&quot; &amp; the reasonynge was about a pece of mony,
+<foreign>quemadmodum deposuit</foreign> Richardus Wolfall. &amp; when she callid hym
+often tymes &quot;thief,&quot; he said &quot;she was as like a hoore, as he a       
+thief.&quot;' and
+this deponent sais, that 'she thinkes the said Henry wold not have   
+said
+hit, but in his chafe, because she callid hym &quot;thief&quot; dyverse        
+tymes.' &amp; 
+as for William Plumpton, she sais, 'she neither se nor knewe hym to be
+there; but as she was goynge homeward with Wirralles wief, they mett
+<pagebreak id="207" />
+William Plumpton a stones cast from the old house, commynge from
+Kirkbe or Darby, &amp; goynge to his owne house, as this deponent 
+supposeth; but well she knowes he had nothinge to do about the house 
+at
+that tyme. and as for Roberte Wolfall, she se hym not; but as this
+deponent &amp; Margaret Wirrall were goynge homeward, they se Roberte
+Wolfall in the old house; but what he was about to do, or had bene
+doynge, this deponent knowes not.'</nonSpeech>
+   <nonSpeech><foreign>Ad ij=d=</foreign> , This deponent sais, that 'Katherine Walley was   
+present at all the
+talke betwixe the said Margaret &amp; Henry, &amp; hard all the talk; but that
+she went for a baskett full of Turves, where she might here all the  
+talke,
+commynge &amp; goynge.' and further, she sais, 'Robert Wolfall is akinne
+to Margaret Wirrall; &amp; was hired syruant to Richard Wolfall, his
+brother, till this chidinge &amp; contencion begon; &amp; after that, this
+deponent thinkes that Margaret Wirrall &amp; her husband have sins entised
+hym away; for he was well vsed with his brother, &amp;c.'</nonSpeech>
+   <nonSpeech> <foreign>Ad vltimam, dicit predeposita per eam fore vera.</foreign> </nonSpeech>
+
+   <nonSpeech> <foreign>Katerina Walley, parochie de Sefton, etatis xxx=ta= annorum, 
+novit
+partes ab infancia istius deponentis.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad primam excepcionem, dicit, quod novit Willielmum Plumpton
+fore virum bone fame</foreign> . and further, this deponent sais, that 'apon
+occasion risinge about a mony matter, Margaret Wirrall callid Henry
+Fazakerley &quot;hard strong thief,&quot; and &quot;gryninge thief&quot;; and said he was
+&quot;a provid thief, &amp; all his kinne&quot;; and apon that, he callid her      
+&quot;provid
+hoore,&quot; &amp; said &quot;she was as like a provid hoore as he a thief&quot;; &amp; so  
+thus
+they fell to &quot;thief and hoore.&quot; and as for William Plumpton, this    
+deponent
+sais that she se hym not at theis wordes, nor knewe not of hym; but
+after the wordes endid, the said Margaret Wirrall &amp; Toppinges wief
+goynge homeward, they found William Plumpton in a hye way, a flight
+shote from the place where the wordes were spoken, half an howre     
+after.'</nonSpeech>
+<nonSpeech> <foreign>quoad Robertum Wolfall, concordat cum Richardo Wolfall,         
+preconteste suo</foreign> .</nonSpeech>
+   <nonSpeech> <foreign>Ad ij=d=</foreign> , This deponent sais, that 'she was present by at 
+the wordes
+spoken, as before she hath deposid. as for Robert Wolfall, wher he   
+was,
+this deponent knowes not; but she sais he was not present by in      
+sight at
+that tyme. &amp; further, as for goynge to Mr. Molinex, <foreign>concordat cum</foreign>
+Richardo Wolfall. and forther, she sais, that Roberte Wolfall is akin
+in the iij=d= or iiij=th= degre to Margaret Wirrall, et a hired      
+syruant to his
+brother. <foreign>Et quoad cetera, concordat cum Richardo Wolfall,          
+preconteste suo.'</foreign> </nonSpeech>
+   <nonSpeech> <foreign>Ad vltimam, dicit predeposita per eam fore vera.</foreign> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 13">
+
+<pagebreak id="208" />
+ <head> <comment type="editor">7A. CONSTANCE FROST V. WILLIAM BALL AND OTHERS.</comment> </head> <dialogue>
+<comment type="editor">For saying that she was 'a very hoore,' and had 2 husbands</comment>
+<comment type="editor">These Depositions should have come before those printed on p.      
+122-3 above.</comment>
+
+   </dialogue><nonSpeech>28th April, 1564. Robert Johnson, of the Parish of Saint Bridget,
+Chester, 'sais, that apon a tyme, he and one Richard Barker, commynge
+through a rowe in the bridge Strete, Richard Derwall, standinge at his
+owne dore, came vnto them, and said to this deponent:</nonSpeech><dialogue> &quot;I had thought
+Custance Frost had bene an honest woman; but she is a very hoore, and
+hath ij=o= husbandes; and it <comment type="editor">this</comment> is reportid of them that       
+have borne
+worship in Chester, who will stand to it.&quot; </dialogue><nonSpeech>and so all iij went to  
+Richard
+Barkers house, and dronke, eithe<emendation>r</emendation> of them a peny; and had there  
+the
+talk there about the same matter.' and further saies, 'he neuer hard 
+it
+reportid other wise but that she was an honest woman, afore this     
+tale reasid;
+but sins, he thinkes her good name is much empaired therby.'</nonSpeech>
+
+    <nonSpeech>16th May, 1564. Thomas Burges, of the Parish of St. Bridget,
+Chester, aged 53, deposes, 'that in communicacion betwixe William Ball
+articulate, and this deponent, the said William declared, amonges       
+other
+thinges, that Custance Frost had made hym chalenge, for that he shuld
+have reportid her to have ij=o= husbandes.' and further he said:</nonSpeech><dialogue>   
+&quot;I said
+so, but I care not. I do not care; for I knowe where I hard it: when I 
+was at the Counsell.&quot; <comment type="editor">...</comment>
+
+    </dialogue><nonSpeech>John Whitheadd, Junior, of the Parish of Saint Michael's,      
+Chester,
+aged 38, Baker, 'saies, that in certen talk apon a tyme had betwixe
+William Ball Articulate, and this deponent, Custance Frost came vnto
+them; and after salutacions done, she said vnto the said William:</nonSpeech><dialogue>  
+&quot;ar
+you one of them that bringe word from the Counsell that I have two
+husbandes?&quot; </dialogue><nonSpeech>he said</nonSpeech><dialogue> &quot;yea, mary, that I am.&quot; &quot;then,&quot; </dialogue><nonSpeech>quod       
+she,</nonSpeech><dialogue> &quot;will
+you stand to it?&quot; &quot;yea, mary,&quot; </dialogue><nonSpeech>said <emendation>William Ball</emendation> ,</nonSpeech><dialogue> &quot;that, I  
+will stand
+it, that I hard it.&quot; &quot;then,&quot; </dialogue><nonSpeech>quod she,</nonSpeech><dialogue> &quot;you may better bringe them
+furth that spake.&quot; &quot;nay,&quot;  </dialogue><nonSpeech>quod William Ball,</nonSpeech><dialogue> &quot;I will not bring  
+them
+furth: bring you them furth, &amp; you will have them.&quot; </dialogue><nonSpeech>quod she,</nonSpeech><dialogue> 
+&quot;perchaunce I shall make you bring them furth, or els the lawe shall 
+faile
+me.&quot; </dialogue><nonSpeech>and so she departid, and willed this deponent to beare her 
+witness <comment type="editor">...</comment> he sais, he thinkes she is an honest <emendation>woman</emendation> ,     
+both sins and 
+before <comment type="editor">...</comment> '</nonSpeech>
+
+   <nonSpeech>Richard Orton, of Chester, deposes, &quot;that somwhat afore Christmas
+last, he was at brekfast, with Elizabeth Brerewodd in company, and 
+<pagebreak id="209" />
+others, and he made haste away. the question was askid, 'whie he
+hastid so away.' and this deponent answerid, 'he went to the Castell
+to paie his fees.' then Elizabeth Berewod said:</nonSpeech><dialogue> &quot;if you go         
+thither, you
+may call Frostes wief 'sister'; and she may call you 'brother'; 
+biecause, if it be as I here say, she hath ij=o= husbandes, and you  
+have two
+wieves.&quot; </dialogue><nonSpeech> <comment type="editor">...</comment> he thinkes her good name is not impaired         
+therbie, bicause
+no man beleues it.&quot;</nonSpeech><dialogue> <comment type="compiler">EDITOR'S COMMENT OMITTED.</comment>
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

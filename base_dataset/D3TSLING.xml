@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TSLING">
+  <dialogueHeader>
+
+    <filename>D3TSLING</filename>
+
+    <identifier>3 TRIAL D3TSLING</identifier>
+
+    <title>SIR HENRY SLINGSBY</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1658</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE SEVERALL TRYALS OF SIR HENRY SLINGSBY K=T=. 
+JOHN HEWET D. D. AND JOHN MORDANT ESQ; FOR HIGH TREASON IN 
+WESTMINSTER-HALL. TOGETHER WITH THE LORD PRESIDENT'S SPEECH BEFORE THE
+SENTENCE OF DEATH WAS PRONOUNCED AGAINST THE AFORE NAMED SIR H. 
+SLINGSBY AND DR. HEWET, BEING THE 2. OF IUNE, 1658. AT WHICH TIME THE
+SAID MR MORDANT WAS BY THE COURT ACQUITTED.
+(...) 
+LONDON. 
+PRINTED IN THE YEAR, 1658.
+PP. A1V.1 - C3V.22
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">QUARTO NUMBERING FROM THE SOURCE TEXT USED BELOW AS THE PAGE 
+NUMBERING IN THE SOURCE TEXT IS INCONSISTENT.</comment>
+
+<pagebreak id="A1V" />
+</dialogue> <head>THE SUBSTANCE OF WHAT PASSED ON TUESDAY THE 25.
+OF MAY 1658. AT THE TRYALL OF
+SIR HENRY SLINGSBY K=T=,
+IN <font>WESTMINSTER-HALL, &amp;C.</font> </head> <dialogue>
+
+<comment type="compiler">INTRODUCTION AND READING OF THE CHARGE OMITTED.</comment>
+<pagebreak id="A2R" />
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Thou here standest charged for          
+High-Treason; This Court
+requires that thou give a positive answer, whether guilty or not     
+guilty.
+   </dialogue><nonSpeech> <font>Sir</font> H. Slingsby.</nonSpeech><dialogue> <font>I desire to have Counsel assigned me.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> There is matter of Fact laid to your charge,    
+which amounts to
+Treason, and there is no Law allowed in matters of Fact.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>There is also matter of Law; and I desire   
+to be tryed by a Jury, which
+is according to the Law of the Land.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> We are all here your Jury as well as your       
+Judges; we are the
+number of two or three Juries, and your Jury is well known, for they 
+are
+chosen by the Parliament; you are to plead to your Indictment.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>I desire to know whether there can be any   
+conviction, unless it be by
+confession?</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> If you had looked upon the Act of Parliament,   
+that would have
+told you; it speaks of examination of witnesses, it speaks of your   
+confession,
+and answer, and of your Default; and if you do not plead to it, will 
+be very
+penal to you.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>If it be by the Laws of the Land, that the  
+Trial should be by a Jury;
+I desire I may have that priviledge.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Acts of Parliament make Justice and Law, they   
+are both; they
+think fit to change the custom of Trials that have been in former    
+times, and
+all persons must submit to it: And the Parliament hath thought fit   
+to make this
+Court both Jury and Judges; and therefore I require that you answer,
+whether Guilty or not Guilty.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>I desire that the Act of Parliament may be  
+read.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You are before your Jury and Judges;            
+Parliaments have great care
+of the Rights of the people, and have appointed this Court, and His  
+Highness
+hath appointed you to be tried by us, you ought therefore to plead   
+to your
+Indictment.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>The Law gives liberty in case of Juries to  
+the Party accused, to make
+his Exceptions against the Jury, which he cannot do here, where you  
+are both Judge
+and Jury.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> If you have any particular Exception to any     
+man, you may make
+it; you were Sir of the Parliament, when this Act was made
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>I was a Prisoner at the same time.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Although a Prisoner, yet you are bound by Act   
+of Parliament.
+   </dialogue><nonSpeech>Mr <font>Phelps, Clerk</font> </nonSpeech><dialogue> You have heard your Charge read, and    
+Plea demanded;
+the Court again requires of you, that you give a positive Answer,    
+whether
+Guilty or not?
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>I am (my Lord) of an opinion, (though you   
+may account it a Paradox)
+that I cannot trespass against your Laws, because I did not submit   
+to them</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> All the People of <font>England</font> must submit to    
+the Laws of <font>England</font> , to
+the Authorities of <font>England</font> , all must submit to my Lord          
+Protector and Acts of
+<pagebreak id="A2V" />
+Parliament: We sit here by Authority of his Highness, by a           
+Commission under
+the great Seal of <font>England</font> , and by Authority of Parliament, and  
+you must
+submit to our Authority.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>The Laws have been so uncertain with me,    
+that I could not well know
+them, and when I was a Prisoner I could not take notice of them, I   
+could have no
+benefit by your Laws, because that is no Law to me which doth not    
+give me interest
+and property to what I have; It is the benefit of Laws, that they do 
+distinguish
+between</font> <foreign>meum</foreign> <font>and</font> <foreign>tuum</foreign> ; <font>but when you take all from   
+me, in my case it is not so</font> .
+   </dialogue><nonSpeech>Mr Attor. Gen. <font>Prideaux.</font> </nonSpeech><dialogue> He may enjoy as much benefit by 
+the Laws as any,
+if he have not forfeited it, and I desire he may be put to answer.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> The Court again require you to plead to you     
+Indictment.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>Not Guilty.</font>
+   </dialogue><nonSpeech>Mr <font>Phelps.</font> </nonSpeech><dialogue> Your Plea then is, that you are not Guilty.   
+</dialogue><nonSpeech>To which, Sir <font>H. S.</font>
+answered,</nonSpeech><dialogue> Yes.
+<comment type="compiler">TWO LONG SPEECHES OMITTED. THE CHARGE REPEATED: THAT SLINGSBY      
+ATTEMPTED TO STIR UP MUTINY IN THE KINGSTON UPON HULL GARRISON ON 
+BEHALF OF CHARLES STUART. THE ATTORNEY GENERAL SAYS SLINGSBY 
+ATTEMPTED TO BRIBE THE OFFICERS, AND CALLS FOR THE WITNESSES.</comment>
+</dialogue><nonSpeech> <font>Ralph Waterhouse</font> sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Attor. Gen.</font> </nonSpeech><dialogue> What discourse had you with Sir          
+<font>H Slingsby</font> touching the
+delivering up of <font>Hull</font> ?
+<comment type="compiler">LONG SPEECH OF WATERHOUSE OMITTED. HE SAYS HE WAS OFFERED MONEY BY
+SLINGSBY AND A COMMISSION BY CHARLES STUART TO SECURE THE SOUTH-HOUSE 
+FOR THE SERVICE OF THE KING, WHO WAS INTENDING TO BESIEGE HULL.</comment>
+<pagebreak id="A3R" />
+   </dialogue><nonSpeech>Mr <font>At. Gen.</font> </nonSpeech><dialogue> What Officer were you Mr. <font>Waterhouse</font> ?
+   </dialogue><nonSpeech>Mr <font>Waterh.</font> </nonSpeech><dialogue> I have the command of a Company, and of the   
+<font>South-Block-house</font> .
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> Mr. <font>Waterhouse</font> , what Letter was that   
+Sir <font>H. Slingsby</font> sent to
+his Son?
+   </dialogue><nonSpeech>Mr. <font>Wat.</font> </nonSpeech><dialogue> The Contents were thus, That <font>Harry</font> would    
+speak to the two men
+to be very importunate with the Twelve. 
+   Sir <font>H. Slingsby</font> promised so many men. That he offered Capt.   
+<font>Overton</font> 20 <font>l.</font>
+to raise Forty men.
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> How many men did he tell you should be at   
+<font>Paul</font> near <font>Hull</font> ?
+   </dialogue><nonSpeech>Mr. <font>Wat.</font> </nonSpeech><dialogue> 600 to march into <font>Hull</font> .
+<pagebreak id="A3V" />
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> What men did he tell you <font>Andrew</font> would   
+raise?
+   </dialogue><nonSpeech>Mr. <font>Wat.</font> </nonSpeech><dialogue> He said <font>Andrew</font> would raise 50 or 60 men     
+when he pleased; and
+that Capt <font>Overton</font> should have a deputation to command the Castle 
+under me,
+he said he had good hopes of Col. <font>Smith</font> , and that he had a      
+Commission for him
+if he would accept of it.
+   </dialogue><nonSpeech> <font>Sir</font> H. Sl.</nonSpeech><dialogue> <font>This which is here spoken in seriousness,   
+was then spoke in mirth, a
+meer Discourse as those that are in good fellowship may have, and    
+what I said or
+did was but in jest.</font>
+   </dialogue><nonSpeech> <font>L. Pres</font> </nonSpeech><dialogue> There ought to be no good fellowship in Treason.
+   </dialogue><nonSpeech>Mr. <font>Wat.</font> </nonSpeech><dialogue> I never visited him but by Col <font>Smiths</font>       
+Commission. Sir <font>H Slingsby</font>
+according to his Engagement upon receit of a Piece gave me another   
+Commission
+running thus; <font>Oliver Lord Protector, &amp;c.</font> took it again and       
+burned it.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Sir <font>Henry</font> , was it you that filled up  
+that blank Commission?
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>It is more then any man knows: But it is not the 
+Commission I gave</font>
+Waterhouse <font>which is dated</font> 12 March, 1657.
+</dialogue><nonSpeech> <font>Capt John Overton</font> sworn.</nonSpeech>
+<nonSpeech>Mr <font>Phelps,</font> shewed him the Commission dated 12. <font>March</font> ,     
+1657.</nonSpeech> 
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you see that Commission delivered to   
+<font>Waterhouse</font> by Sir
+<font>H. Slingsby</font> ?
+   </dialogue><nonSpeech>Capt. <font>Overton.</font> </nonSpeech><dialogue> Yes, I did, he delivered it to him in the 
+Castle, about the
+second of <font>April</font> last.
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>Mr.</font> Overton, <font>what date did that Commission   
+which I then delivered, bear</font> .
+   </dialogue><nonSpeech>Capt. <font>Overt.</font> </nonSpeech><dialogue> This is the same Commission, and </dialogue><nonSpeech> (having 
+it in his hand) </nonSpeech><dialogue> I here
+see it is dated 12. <font>March</font> , 1657.
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>I deny that the Commission I then delivered did  
+bear that date.</font>
+   </dialogue><nonSpeech> <font>Waterh.</font> 
+   <font>Overton.</font> </nonSpeech><dialogue> My Lord, We are upon our Oaths.
+      </dialogue><nonSpeech>C. <font>Overt.</font> </nonSpeech><dialogue> I saw Sir <font>H.</font> give it to Major           
+<font>Waterhouse</font> in his own Chamber in the
+Castle of <font>Hull</font> , and Maj. <font>W.</font> bid me read it, which I did.
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>Was that Commission which you read dated 12.     
+March?</font>
+</dialogue><nonSpeech>Cap. <font>Overton</font> reads the copy of it which he then wrote from the 
+original,
+which agreed with this.</nonSpeech> 
+   <nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>I deny that the Commission then delivered was of 
+that date.</font>
+</dialogue><nonSpeech> <font>Waterh.</font>
+<font>C Over</font> Both deny the altering of the date.</nonSpeech> 
+   <nonSpeech> <font>Sir H</font> Sl.</nonSpeech><dialogue> Maj <font>Waterhouse desired me to alter the date  
+of the Commission, and I
+scraped out</font> April <font>and the day, and put in</font> March.
+</dialogue><nonSpeech> <font>Capt. Overton Examined.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>At Gen</font> </nonSpeech><dialogue> What Treaty was between Sir <font>H.</font> and you at 
+<font>Hull</font> ? are you an
+Officer there?
+   </dialogue><nonSpeech> <font>C. Ov</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr <font>At. Gen.</font> </nonSpeech><dialogue> How long have you been an Officer there?
+   </dialogue><nonSpeech> <font>C Ov</font> </nonSpeech><dialogue> About ten years.
+   </dialogue><nonSpeech>Mr <font>At. Gen.</font> </nonSpeech><dialogue> What proceedings was there between           
+<font>Sir H.</font> and you? What
+meetings had you? </dialogue><nonSpeech> <font>&amp;c.</font> </nonSpeech><dialogue> was he your prisoner?
+<comment type="compiler">LONG SPEECH OF OVERTON OMITTED. SAYS THAT WHILE HIS PRISONER, 
+SLINGSBY ATTEMPTED TO BRIBE HIM TO SUPPORT CHARLES' PLANNED LANDING 
+AT HULL.</comment>
+<pagebreak id="A4R" />
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> If <font>Sir H.</font> hath any thing to object, he  
+may.
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>I see that I am trepan'd by these two fellows;   
+They have said that
+serously against me which was spoken in mirth between us; I never    
+sought to them,
+but they to me, the Commission was procured by no intercourse with   
+any persons
+beyond the Seas, but a blank which I had for four years together.    
+Nor had I any
+correspondence beyond Sea to carry on any design here.</font>
+   </dialogue><nonSpeech> <font>Lieutenant George Thomson</font> sworn.</nonSpeech>
+<nonSpeech>Being asked what Officer he was, he answered,</nonSpeech><dialogue> I am a Lieutenant  
+to Major
+<font>Waterhouse</font> , I was desired to go and see <font>Sir H Slingsby</font> 16   
+<font>April</font> , who told me
+That he had great confidence in me, I said to him, why? He told me he
+thought I had good thoughts of the King; his Son told me he heard    
+the King
+was to come in, and to bring in a considerable Army, but knew not    
+when. Next
+day I went again to Sir <font>H.</font> and asked him if he would walk on the 
+Leads,
+which he did, and there I told him I had been pondering on the words 
+he last
+spoke to me, who then hugging me said, I have a great deal of        
+confidence in
+you, there is a design in agitation to bring in the King with a      
+considerable
+Army, but he did not know how soon it would be, but told me I should 
+have
+notice of it, and said that the King had promised pardon to all      
+Officers but the
+Lord Protector and Lord <font>Bradshaw</font> .
+<pagebreak id="A4V" />
+   </dialogue><nonSpeech>Sir H Sl.</nonSpeech><dialogue> <font>I confess such like discourses; but</font> -- 
+Waterhouse <font>spoke to me that I would speak to</font> Thomson <font>to try    
+whether he would
+be assistant, but I told him I would not, least he should not accept 
+it, and then turn
+him out of his place</font> . Waterhouse <font>pressed me to go to</font> Thomson, 
+<font>and M</font> 
+Waterhouse <font>invited us to his house to Dinner, after Dinner he      
+spoke to</font> Thomson <font>to go
+with me on the Leads to shew me the Guns, we walked about, and came  
+down again,
+then said</font> Waterhouse <font>to me, did not you speak to</font> Thomson? <font>I  
+said not: you had a
+good oportunity, said he. At last</font> Thomson <font>came to me, and I had  
+some discourse
+with him about it</font> .
+   </dialogue><nonSpeech> <font>L. Pres</font> </nonSpeech><dialogue> Sir <font>H. S.</font> have you any thing else to say?
+   </dialogue><nonSpeech>Sir H. Sl.</nonSpeech><dialogue> <font>No, my Lord.</font>
+</dialogue><nonSpeech>Then Mr. Mr Serjeant <font>Maynard</font> summed up the Charge, Plea and    
+Evidence,
+and eloquently set forth the fulness and clearness of the Evidence   
+with the 
+heynousness of the offence, and demanded the Judgment of the Court.</nonSpeech><dialogue>
+<comment type="compiler">SUMMING UP OF EVIDENCE BY ATTORNEY GENERAL OMITTED. PRISONER TAKEN 
+AWAY. COURT ADJOURNED.</comment>
+<pagebreak id="B1R" />
+</dialogue> <head>THE SUBSTANCE OF DOCTOR HEVVET'S TRIAL
+ON TUESDAY THE FIRST DAY OF <font>JUNE</font> , 1658.</head> <dialogue>
+<comment type="compiler">INTRODUCTION AND READING OF CHARGE OMITTED. ACCUSED OF ATTEMPTING 
+TO STIR UP SUPPORT, AND LEVY WAR ON BEHALF OF CHARLES STUART, OF 
+CORRESPONDING WITH CHARLES AND DELIVERING COMMISSIONS FROM HIM.</comment> 
+<pagebreak id="B1V" />
+</dialogue><nonSpeech>Dr. <font>Hewet</font> the Prisoner sitting covered whilest his Impeachment 
+was reading, the
+Lord President commanded his Hat to be taken off; which the Doctor   
+observing
+took it off himself. Then Mr. <font>Phelps</font> Clerk to the High Court     
+address'd to the
+Prisoner to this effect:</nonSpeech>
+   <nonSpeech>Mr. <font>Phelps.</font> </nonSpeech><dialogue> <font>John Hewet</font> D. D. Thou standest here      
+charged of High Treason:
+this Court requires you to give your positive Answer, whether guilty 
+or not
+guilty.
+   </dialogue><nonSpeech>Dr Hewet.</nonSpeech><dialogue> <font>My Lord, If I have already misbehaved my self     
+here, my error is
+the more pardonable, because I have not had any Counsel; and I dare  
+not presume
+to have any knowledge in any faculty, especially in the Law: I never 
+did change my
+Cassock into a Jump; I am better acquainted with a Pulpit than a     
+Bar; better read in
+St.</font> Austin <font>than my Lord</font> Coke, <font>and in the</font> Fathers, <font>than</font> 
+Rastal's Reports, <font>or</font> Plowden's
+Commentaries. <font>In all my life I never studied any Law-case till     
+now; that Necessity
+that hath no Law hath made me thus far to become a Lawyer, as to     
+think to plead (not
+for my Livelyhood, but) for my Life. God forgive them that have      
+occasioned this
+unusual and unaccustomed study, that hath put me into such a Pulpit  
+as I never saw
+before. And therefore (my Lord) in as much as I have often heard     
+that there are
+such niceties in the Law that a man may be lost in the severity of   
+it for a word spoken
+in meer simplicity, I shall crave that there may be nothing taken,   
+in prejudice to my
+innocency, from words spoken in simplicity: And I hope you will      
+please to grant me
+that.</font>
+   </dialogue><nonSpeech> <font>Lord Presid.</font> </nonSpeech><dialogue> Dr. <font>Hewet</font> , I am sorry, truly, very    
+sorry, to see such an one as you in
+that place; but you are impeached of High Treason: All favour will   
+be shewn
+you according to the rules of Justice. I think you desire Counsel.
+   </dialogue><nonSpeech> <font>Dr.</font> Hewet.</nonSpeech><dialogue> <font>No (my Lord) it is first, that I, knowing   
+nothing of the Law, may
+have nothing (simply spoken) prejudice me: and that you will allow   
+me counsel.</font>
+   </dialogue><nonSpeech> <font>L. Presid.</font> </nonSpeech><dialogue> The Court is Counsel for you, your business  
+is to plead to the
+Indictment; you are required by the Court to answer whether guilty   
+or not
+guilty.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, you sit there as Judge, I beseech you to    
+let me know by what
+Commission you sit there.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Dr. <font>Hewet</font> , we sit here by a Commission    
+under the Great Seal of
+<font>England</font> , in pursuance of an Act of Parliament; that's our       
+Commission.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>Pray give me the favour to have the Commission read, 
+my Lord.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> D. <font>H.</font> We know our owne Authority, it is    
+not usual to read Commissions
+to Prisoners; the Laws of <font>England</font> and Acts of Parliament are to  
+be submitted to.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I am not to own every person that will sit to judge  
+me, therefore I desire to
+know by what Commission you sit, and who are the Judges, and then I  
+shall say
+more.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Those that are to judge you are very well      
+known, you consented your
+self to the Judges, we are all chosen by Act of Parliament, the      
+Parliament hath
+consented to it; we are chosen Judges, and are your Judges by Act of
+Parliament.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My L. I must know the persons, whether they be all   
+here; I see but very few.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Here be very many, and we have been all called 
+this morning, as the
+course is, and we sit now as your Judges.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>Under favour, my Lord, as I remember, the Commission 
+by the Act is
+directed to 150. and there are the Lords Commissioners of the Great  
+Seal, with the
+Lords of his Highness Treasury, and all the Judges, and divers other 
+persons are
+named in the Act of Parl. I do not see so many faces as are          
+mentioned in that Act.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Dr. <font>Hewet</font> , I must tell you the            
+<font> <foreign>Quorum</foreign> </font> is any seventeen, or more of
+them; if we are here seventeen, or more, we are a <font> <foreign>Quorum</foreign> </font>   
+by that Commission:
+We are here I believe forty or fifty.
+<pagebreak id="B2R" />
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, with submission, the case is true, in case  
+the Commissioners were
+but seventeen, and they all present, then they might hear and        
+determine; but if one
+were absent, they cannot my Lord as I conceive.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> You are a person of parts, and therefore we    
+may delight to hear you,
+but we must keep our selves to the business of the Court: You are    
+required by the
+Court to answer the Impeachment.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, if you sit by the Act, sit according to the 
+Act, and then I shall
+submit. It was resolved by all the Judges of the Kings Bench in the  
+13. of</font> Eliz. <font>in
+the Earl of</font> Leicester's <font>Case, see</font> Plowden <font>fol. &amp;c.</font>
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> The Doctor did profess his ignorance in   
+the Laws, yet pretends
+more knowledge than the Court: The Court are here, and know themselves
+lawfully authorized to try you. Dr. <font>Hewet</font> , if you please to     
+proceed to give your
+Answer whether guilty or not, you will find the Justice of the Court 
+to be
+according to the Laws of <font>England</font> .
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>This learned Gent. I know his face, though not his   
+name; he speaks
+according to worth, but I cannot answer him according to Law, and    
+therefore shall plead
+ignorance of the Law, but desire to be tryed according to Law; and I 
+have given you a 
+Law-president, if you will go against it, I shall say no more.</font>
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> This Gent. hath it by Tradition, not by his 
+owne knowledge; but
+the Case he mentions cannot parallel this: The Act of Parliament     
+saith, an
+hundred and fifty, or any seventeen; here are three seventeens.
+   </dialogue><nonSpeech> <font>Mr. Sol. Ellis.</font> </nonSpeech><dialogue> I think the Commission is directed to   
+your Lordships, or any
+seventeen: <font>Which Commissioners, or any seventeen</font> , &amp;c.            
+<comment type="compiler">PRECEDING 6 WORDS ENCLOSED IN SQUARE BRACKETS IN SOURCE TEXT.</comment> The     
+meaning whereof is,
+that those seventeen, or more respectively, should hear, <font>&amp;c.</font>     
+There were
+several <font> <foreign>Quorums</foreign> </font> for <font>England, Scotland</font> and              
+<font>Ireland</font> : 17 for <font>England</font> , 13 for <font>Scotland</font> , &amp;c.
+That Case out of <font>Plowden</font> , differs clearly from this: For, if a  
+Commission
+be directed, and there be no <font> <foreign>Quorum</foreign> </font> , then the             
+Commissioners must all certifie.
+We humbly conceive that if your Lordships be here seventeen, or      
+more, you are
+fully authorized to proceed.
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> In many Cases you have a <font> <foreign>Quorum</foreign> </font>   
+of persons, such and such men:
+It's true, here is no <font> <foreign>Quorum</foreign> </font> of persons, but a             
+<font> <foreign>Quorum</foreign> </font> of the number; and if
+there be a <font> <foreign>Quorum</foreign> </font> of seventeen it is warrantable.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>This learned Gent. he is better able to speak what   
+is Law than I; but
+under favour, and with submission, I do not think he may judge of    
+the Laws, or the
+other (that spoke his private conception) to interpret the meaning   
+of the Parliament. 
+And (my Lord) if your Lordship please, I shall make this my humble   
+appeal to the
+learned Judges of the Law; That if they will say in this respect     
+that this is a lawful
+Judicature, I shall proceed.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> You have heard the words of the Act of         
+Parliament read, Authority
+is given to the Commissioners, or any seventeen or more of them:     
+<font>Which said 
+Commissioners respectively</font> ; that is, for <font>England</font> seventeen,   
+or more of them; and you
+have heard the judgement of the Court upon that. That which you      
+speak of in
+relation to my Lord of <font>Leicester's</font> Case is true; if a Commission 
+be directed to
+Commissioners, and no <font> <foreign>Quorum</foreign> </font> appointed, then all must      
+certifie: But by the Act
+of Parliament, and the Commission made in pursuance of it, the       
+<font> <foreign>Quorum</foreign> </font> is
+seventeen: But here are three <font> <foreign>Quorums</foreign> </font> .
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, in asmuch as all the Commissioners are      
+named in that Act, and that
+Commission is according to the Act, they are all commissionated to   
+sit, &amp; unless all sit
+the rest cannot try and examine, &amp;c. And I shall refer it to the     
+Judges of the Laws.</font> 
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> We did not call our selves to be your Judges,  
+by being named your
+Judges by Act of Parliament, we have power to declare to you what    
+the Law is
+by that Act of Parliament, I have declared it.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, if the</font> <foreign>Quorum</foreign> <font>had been named, then  
+it were somewhat: but it being
+<pagebreak id="B2V" />
+directed to, 17 or more, when more or 17 are Commissionated all must 
+sit; I refer it
+againe to the Judges of the Laws</font> .
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> <font>Dr. Hewet</font> , what you say now, or what you  
+say hereafter besides this,
+you have time to speak to, as to matter of Law, after matter of fact 
+hath been
+tryed; if you plead to matter of fact, what you say to the Court as  
+to matter of Law,
+we shal be ready to heare it, apply your selfe to the Court in       
+matter of fact. The
+Court asks you whether guilty or not.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I must first know whether the Court be a    
+lawful Judicature before
+I give imy defence.</font> <comment type="compiler"> <font>imy</font> IN SOURCE TEXT.</comment> 
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> <font>Dr. Hewet</font> , you have offered very much     
+touching the jurisdiction of the
+Court, in conclusion you must acquiesce; I must put you up to plead, 
+you know the
+danger if you doe not plead being required; you stand mute and doe   
+not plead, it
+is as equally dangerous to you as if you had confessed the crimes.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I am so highly sensible of the priviledges of an     
+Englishman, that both for the
+satisfaction of my own conscience, and all persons, that I would not 
+willingly give up the
+liberties and priviledges of any English freeman to any body that    
+demands it; I am very
+loth that there should be any just imputation laid upon me, that I   
+should seek a disturbance
+in point of selfe-interest to divide my selfe from the Communion of  
+those that are my
+fellow-freemen; and I should, as I have always abhor'd to be both a  
+Schismatick from the
+Church, and singular from the State. My Lord, I am so concerned for  
+the priviledges
+of an English freeman, and publick interest, that I should be loth   
+to doe any thing towards
+the giving them up, that might make my heart ake. I shall desire it  
+may be determined by
+the Judges.</font>
+   </dialogue><nonSpeech> <font>L. Presid.</font> </nonSpeech><dialogue> You speak of common friendship; what is      
+common friendship, but to be
+a friend to the publick Government? if you have been a friend to the
+Government and peace of this Nation, you need not fear to plead to   
+the Indictment: And
+therefore I require you to plead to it.
+   </dialogue><nonSpeech>Dr. Hewet.</nonSpeech><dialogue> <font>When ever you shall come to a particular         
+Examination of the business,
+it will not appear that I have been an Enemy; I desire that whereas  
+there are many
+niceties in the Laws, I humbly crave the engagement of your Honours, 
+that there may
+not be any advantage taken.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> God forbid.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I think I have not spoken any thing         
+unreasonably, or against Law,
+and therefore humbly crave my former request.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> If you please, the Dr. knows that there must 
+be a Judgment in
+which we must acquiesce: This is that Judicature that calls you      
+before them; you
+sit by the highest Authority of <font>England</font> , an Act of Parliament   
+in the first place, a
+Commission under the great Seal in the second place, and a           
+Commission of his
+Highness, against whom, of which the Doctor is one; I desire he may  
+give an
+Answer to the Impeachment, that being done, we shall have liberty on 
+both sides to
+speak to what is Justice, and Law, and Fact; if you are not guilty,  
+be you assured that
+this Court will not take your blood upon them, you have a very fair  
+Court.
+   </dialogue><nonSpeech>Dr H.</nonSpeech><dialogue> <font>This learned person speaks very fairly, It shall be   
+far from me to question
+any Act of a lawful Parliament; but under favour, as yet it doth not 
+appear to me
+that you have by that Act by which you sit, power to hear and        
+determine concerning the
+matters of which I am charged; I referre it, and appeal again and    
+again to the learned 
+Judges of the Laws, even his Highness Judges.</font>
+   </dialogue><nonSpeech> <font>L. Presid.</font> </nonSpeech><dialogue> <font>Dr. H.</font> The Court hath had much patience  
+in hearing of you thus long,
+you having not so much as owned their Authority; if you will not own 
+us, we
+will own you; therefore I require the Clerk to enter it, that we     
+have required
+you to plead.
+   </dialogue><nonSpeech> <font>Mr. Phelps Cl.</font> </nonSpeech><dialogue> <font>John Hewet</font> , you here stand charged  
+of High Treason against his
+Highness the Lord Protector, and the Common-wealth; the charge hath  
+been read
+<pagebreak id="B3R" />
+to you, the Court have demanded whether guilty or not guilty, they   
+again 
+demand of you whether guilty or not guilty.
+   </dialogue><nonSpeech>D. H.</nonSpeech><dialogue> <font>My Lord, I shall be very loth to do any thing to save 
+my life, and forfeit a good
+conscience: And I shall not for my private interest give up the      
+Privileges of those that
+are equal Freemen with my self: I am look'd upon in a double         
+Capacity, as a Clergy man,
+and as a Common-wealths-man; I should be very loth to be scandalous  
+in either: And
+pray be pleased to do that justice to your selves as to vindicate    
+the legality of your
+Judicature, and then I'le proceed.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My Lord, you was pleased to tell the Doctor, 
+that you will own him
+when he doth not own you, but, my Lord, his flying in your faces,    
+and taxing you
+this is not to be endured; I wish he would have that consideration   
+of himself, that
+if he doth not own your Authority, you expect to be owned, and by it 
+he will be
+supposed to be guilty of all those Crimes that are laid to his       
+charge, and by not
+pleading he doth confess them; that will be an high scandal to Mr.   
+Doctor; Therefore
+to vindicate your self, I desire you to answer.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>This learned Gent. hath urged it with a great deal   
+of civility and respect to
+me, which I must own and thankfully acknowledge; but (my Lord)       
+withal, I dare not
+for the saving of my self give up others, so many thousands of       
+others, by my Precedent,
+that might likewise be involved in the same condition that I am in;  
+therefore (my Lord) let
+it appear that it is a lawful Judicature, and I have done.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I beseech Mr. Doctor to consider his case,   
+he is not brought as a
+Champion for the people of <font>England</font> , as he stands charged he     
+appears to you to be
+contrary affected; I humbly beg that he would be pleased to plead,   
+that so his
+innocency may be clear'd.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I said before that I am no Lawyer, I        
+understand nothing of it,
+neither desire to be Judge in my own cause; but I do not desire      
+likewise to be judged by
+every person that would sit to judge me, neither would I give up     
+that right that belongs to
+an English man to every one that demands it, therefore I desire you  
+to grant this
+Petition, that you will make appear that you are a lawful            
+Judicature. I would rather
+die ten thousand times then I will be guilty of giving up my         
+fellow-freemens liberties
+and priviledges.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My Lord, some of his own Coat have           
+acknowledged the like
+Authority before him; but if Mr. Doctor be peremptory in this that   
+he will not own your
+Authority, and plead to his charge, I must do my duty, that is,      
+humbly to pray the
+Court, that if he refuse to answer, I must pray their Judgment, and  
+acquaint him
+with the words of the Act; </dialogue><nonSpeech>which accordingly was read.</nonSpeech><dialogue> So that,  
+my Lord, in
+default of Answer, if Mr. Doctor will not plead to this, my Lord I   
+must thereupon
+pray that you will proceed according to the Act, as in cases of High 
+Treason
+which is very penal. I have no more to say.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I suppose these learned Gent. who are so    
+learned in the Laws will be
+cautious in what they do against Law, and I hope they will remember  
+what
+condemnation and execution befell</font> Trecilla <font>in the 11 of</font> Rich.  
+2. <font>that there did misadvise the
+King to do such and such things, that is much like to this Case of   
+mine: And withal I
+hope they will remember what befell the Judges in the Case of</font>      
+Shipmoney <font>in the time of
+the late King, and therefore I hope they will be cautious themselves 
+in doing any thing
+that is contrary to Law</font> .
+   </dialogue><nonSpeech>L. <font>Presid.</font> </nonSpeech><dialogue> <font>Dr. H.</font> , you have heard the Clause of the 
+Act of Parliament read to you,
+whereby you may understand, either we must proceed upon your Answer, 
+or else to
+Judgment upon your refusal; if upon your answer you clear your       
+innocency, then
+those freemen that you speak of may faithfully embrace you; but if   
+you will not
+answer, we must proceed to Judgment; I am sorry for your Robe sake,  
+but if you
+will not answer, you cannot acquit your self, you thereby confess    
+it: therefore
+let me advise you for your Robe sake to follow the best Counsel,     
+that is, to put your
+<pagebreak id="B3V" />
+self upon that which Prisoners must do: Answer to it, guilty or not  
+guilty.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I hope it is not the sense of the whole     
+Court that they should proceed
+against me, either to sentence or any other way, till first they     
+clear themselves to me.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> Pray who is the Judge? you must clear your   
+self to him.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> If there be any here that are of another       
+opinion, let him declare
+himself: <font>Dr. H.</font> you lose your self mightily in saying this one   
+thing so often, and we
+lose our time; I require you again to plead.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I cannot speak of that too often that is so 
+dear and precious to me and
+every person.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I can say no more but pray your justice.
+   </dialogue><nonSpeech> <font>L. Presid.</font> </nonSpeech><dialogue> Doctor <font>Hewet</font> , I am called upon by the   
+Court, because of your refusal to
+answer, but I pity you very much, and therefore desire once more the 
+patience
+and favour of the Court, that they would give you leave to answer;   
+therefore Mr.
+Doctor, that we may not record your standing mute and refusing to    
+answer, I shall
+once more in favour to you require you to answer. Clerk, stay your   
+hand a while.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, both the Court and all these persons will   
+thus clear me to the whole
+world, that I have referred my self and appealed to his Highness     
+Judges of the Law to
+resolve whether this be a lawful Judicature; this Appeal is denied,  
+therefore I must proceed
+to some other thing seeing you all deny me that.</font>
+   </dialogue><nonSpeech> <font>Mr. Phelpes Cl.</font> </nonSpeech><dialogue> <font>J. Hewet D. D.</font> you stand here       
+charged on behalf of his
+Highness the Lord Protector, of Treason against him and this         
+Common-wealth, you have
+heard the Charge, the Court hath several times demanded your answer, 
+and you
+refuse; they the third time require your answer whether guilty or    
+not guilty.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>Pray my Lord is there any Indictment found against   
+me by a Grand Jury, by
+which I am to be tryed? for by the fifth and sixth of</font> Edward <font>the 
+sixt, all Treasons are to
+be inquired into and presented by twelve men; the Commission by      
+which you sit doth not
+declare any other way: I beseech you is there any other Indictment</font> ?
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> You have a very great Grand Jury, forty        
+persons, and we have power upon
+a special Act of Parliament to give order for a Charge to be brought 
+in against you,
+and we have according to that power and Authority given order for    
+this Charge to
+be brought in against you, and you are to answer to it.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, with submission you are not a competent     
+Jury.</font> 
+   </dialogue><nonSpeech> <font>Mr. Attorney Gen.</font> </nonSpeech><dialogue> My Lord, now it is the second part to 
+the same tune; I know
+there are many others upon the same string when this is resolved;    
+Sir, This is the
+Grand Jury, the Petty Jury, and your Judge; they require you to give 
+your Answer,
+whether guilty or not guilty.
+   </dialogue><nonSpeech>D. H.</nonSpeech><dialogue> <font>My Lord, this is likewise denyed me, I now humbly     
+crave a copy of my Charge,
+time to answer to it, and Counsel assigned me.</font>
+   </dialogue><nonSpeech> <font>L. Presid.</font> </nonSpeech><dialogue> For the copy of your Charge it was never     
+granted to any Prisoner
+indicted for High Treason; For Counsel, you are now upon matter of   
+Fact,
+whether guilty or not guilty.
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> I have a word to inform him, I would not    
+press any thing
+against him which in my Judgment I thought not legal, you have given 
+him your
+resolution as to the Jurisdiction, there is nothing now to say but   
+guilty or not
+guilty; he must bring himself to be a party or else nothing can be   
+asked.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I think the Prisoner cannot be charged and tryed on  
+one and the same day, no
+more than a man can be endicted and tryed the same day, as in</font>      
+Calway's <font>Reports: and
+this was declared to be Law in the Case of the</font> Portugal            
+<font>Embassador's Brother</font> .
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> You are not upon your Triall, you must plead 
+and joyn issue, and then
+we will consider whether we will try you now or no; Yet there is     
+many a man hath
+been brought to prison the same day, found the same day, and tryed   
+the same day.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I desire a copy of my charge, if not that, I desire  
+time to speake, and
+Councell assigned me, which hath been the course of former times;    
+for Counsell it hath been
+<pagebreak id="B4R" />
+usually allowed, as in the case of</font> Humphry Stafford <font>in the time  
+of</font> Henry <font>the 7. and
+in the case of</font> Lilburn. <font>Baron</font> Nicholas, <font>and Serje.</font> Maynard 
+<font>were of Counsell for
+Major</font> Rolph, <font>who indeavoured to poyson the late King: and for    
+matter of Law, it ought
+to be allowed, as in my Lord</font> Cook -- <font>and</font> Dyer <font>sixth book of  
+his Reports, 14</font> fol. <font>is
+of the same opinion</font> : Arundell <font>had Counsel assigned him for      
+murder, in matter of
+Law</font> .
+   </dialogue><nonSpeech>Sol. <font>Ellis.</font> </nonSpeech><dialogue> For matter of fact it was never allowed; but 
+if he plead, and if any
+matter of Law doe arise, that's doubtfull to the Court, then the     
+Court if they
+doubt of it, assigne Counsell; but the prisoner must plead first to  
+the
+matter of fact. For a man to be accused the same day, and tryed the  
+same day, is no
+new thing: For Counsell, if any thing arise in matter of Law then it 
+may be
+considered: The <font>Portugal</font> Embass. Brother came, and was accused   
+and tryed the same day.
+We shall humbly pray that he may plead guilty or not guilty; if any  
+matter of
+Law arise your Lordships may doe him justice.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, with submission, this learned Gent. hath    
+understood me but in part;
+my request was for Counsell for matter of Law in generall, as well   
+as particular for
+matter of fact. I humbly conceive that there are severall Acts of    
+Parliament that doe
+free me from this charge, and particularly the great Charter of</font>    
+England; <font>for which I
+humbly crave I may have Counsell assigned me</font> .
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> You are now in generals, you speak of several  
+Acts of Parliament, and you
+would have Counsel to plead, Counsel was never allowed in this case  
+upon such a
+general desire; Many that stand about you may have a prejudice to    
+you, and think
+you are loth to plead; I have called upon you often: if we should    
+once record the
+refusall, it would be very penall. I would advise you to plead to    
+the Indictment.
+   </dialogue><nonSpeech>D. H.</nonSpeech><dialogue> <font>My Lord, since you have denyed me Counsell, I shall   
+desire to speake something
+in my own behalfe.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G</font> </nonSpeech><dialogue> This is a very ill President to the justice   
+of <font>England</font> ; I suppose that you
+will allow him all favour, but the justice of <font>England</font> must be    
+prefer'd against all 
+persons whatsoever: The jurisdiction is setled to the satisfaction   
+of the Dr. 
+himselfe; if he will bring himselfe a party and aske any thing of    
+you, that must be by
+pleading, till then he can aske nothing.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, the Judicature is not yet clear'd to me,    
+for the legality of it,
+and if you please to give a little patience I shall give you the     
+reasons why.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I shall desire it may be no more thus.
+   </dialogue><nonSpeech> <font>Pre.</font> </nonSpeech><dialogue> I shall say no more to you, we must make our       
+Authority appear to you
+either by trying of you, or judging of you; will you be try'd?
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, the Charge depends upon an Act of           
+Parliament which was made
+about two years since, the Members of which Parliament were chosen   
+by the people, yet
+notwithstanding one hundred and fifty of them were not permitted to  
+sit --</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My Lord we must not suffer this, pray if he  
+will not be otherwise satisfied
+I must require your strict justice. Your words they are seditious:   
+this shews the
+spirit of the man.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I hope you will have patience to heare me for        
+vindication of my selfe,
+and satisfaction of my own conscience and all persons whatever; and  
+withall, for the
+clearing of your selves that you doe not bring blood upon your       
+selves by taking that
+power that is not justifiable --</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> Truly my Lord this is insufferable; Mr.      
+Doctor hath had as much respect
+as ever any had. I have attended many, I never saw the like in my    
+time; you have
+had the patience to heare him oppose your selves, your Authority,    
+your persons,
+and to strike at the root of all. Mr. Doctor I would have you to     
+carry your selfe
+with more respect. This shews that much of what is charged against   
+him is true: If
+you will scorn the Court say it positively.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I humbly submit my selfe to the Laws of the 
+Land; I shall not dispute
+<pagebreak id="B4V" />
+Acts of Parliament, but I conceive (if you will please to give me a  
+little patience) an
+house of Commons is not of Authority enough </font> -- 
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Mr. Doctor pray remember that Text, <font>He that  
+seemeth to be Religious and
+bridleth not his tongue, his Religion is vain</font> . Will you plead or  
+not?
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, whilst I speak for the Laws of the Land     
+this is not an evill speech.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My Lord, if you please, I did receive your   
+comands to prepare this charge
+against this Doctor; in obedience to you I have done it, not         
+willingly against your
+person Mr. Doctor; I have some others to proceed against, if you     
+will please that
+Mr. Doctor may dispatch one way or other. I must pray your final     
+sentence if you
+doe not plead immediately.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, what I petitioned for before I doe again,   
+that seeing you will not please
+to give me leave to speak either as to the priviledges of English    
+men, nor as to the Act,
+I desire time to speak to the Charge, and Counsell.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> You have heard that I must require your        
+answer; you must plead guilty 
+or not guilty.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>Hath your Lordship assigned me Counsel in matter of  
+fact when matters of
+Law arise?</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> We shall then take consideration of it, now is 
+not a time.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, I am in a great straight, I pray God assist 
+me; and I here appeale to
+Almighty God and to all the world, that I doe against my soul and    
+conscience nothing
+that shall be to the prejudice of the priviledges of the Laws of</font>   
+England; <font>if there shall
+be any thing in these proceedings that shall be to the disadvantage  
+of others, my soul be
+clear of it, the guilt be upon others; seeing I am necessitated upon 
+this, and cannot have
+Counsell assigned me for the judicature, for the legality of it, I   
+referring my selfe to
+the Judges of the Land; I durst refer my selfe to his Highnesse own  
+Councell, that if
+they will say that this particular that I have urged, that this is a 
+lawful judicature,
+I will go on</font> .
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> I am required by the Court, before I enter     
+your refusall I require your
+answer.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>I am in a great dispute, and I pray God direct me    
+what to doe in this case,
+though I doe not at all dispute my own innocency, which I hope I     
+shall clear, yet I could
+petition again (though I am tedious to you, yet I can never          
+importune enough) to take
+into your thoughts your selves and posterity and all the people of</font> 
+England.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> I shall desire, because you may see what I say 
+comes from the Act of
+Parliament, I shall desire the words may be read to him, what is to  
+be done if he
+refuse to answer. </dialogue><nonSpeech>Clerk read that clause.</nonSpeech><dialogue>
+<comment type="compiler">CLAUSE OMITTED.</comment>
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord, this is a printed paper which is called an  
+Act of Parliament --</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> I must take you off, you have been required to 
+answer, often required, and
+having refused, in the name of the Court I require the Clerk to      
+record it, and
+pray take away your prisoner.
+   </dialogue><nonSpeech>Dr. H.</nonSpeech><dialogue> <font>My Lord --</font>
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Take him away, take him away.
+<pagebreak id="C1R" />
+</dialogue> <head>THE SUBSTANCE OF MR. MORDANT'S TRIAL
+ON TUESDAY THE FIRST DAY OF <font>JUNE</font> , 1658.</head> <dialogue>
+<comment type="compiler">INTRODUCTION AND READING OF THE CHARGE OMITTED. CHARGED WITH 
+ATTEMPTING TO STIR UP AND RAISE WAR ON BEHALF OF CHARLES STUART,
+AND OF CORRESPONDING WITH AND DELIVERING COMMISSIONS FOR HIM.</comment>
+<pagebreak id="C1V" />
+   </dialogue><nonSpeech>Mr. <font>Phelps</font> Cl.</nonSpeech><dialogue> <font>John Mordant</font> Esq; Thou standest here   
+charged with High
+Treason against his Highness the L. Protector and the Common-wealth: 
+You have
+heard the Charge read; the Court demands your positive answer        
+thereto, whether
+guilty or not guilty.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, I desire I may hear the Commission  
+read by which you sit.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You are impeached of High Treason: We require   
+your Answer.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>I desire the Commission may be read, and the 
+Commissioners names.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You are to be tryed by the Laws of              
+<font>England</font> , Act of Parliament, and
+Commission under the Great Seal of <font>England</font> , in pursuance of     
+that Act.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>I claim it as my right, I am ignorant in     
+Law, I desire it may be read.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> It is not granted to any.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, Will you take away that liberty     
+that we shall not know by what
+Commission we are tryed, and who are our Judges? I desire I may not  
+be made the first
+president.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> It is visible who are your Judges, they are     
+named by Act of 
+Parliament: We are your Judges.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, if the Act specifie any such thing  
+that it may not be read, I have
+done: I desire it may be read, that I may have a legal and just      
+proceeding.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> The Act of Parliament doth not require it.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>The Act doth not deny it.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You shall have all the privileges that may be;  
+but you must first plead.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, I demand this, to hear the          
+Commission read.</font> 
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> My Lord, Pray let him know what is done, to 
+warn him, lest he
+fall into the same condemnation. There was one but a little before   
+you that
+demanded the same thing, and the Court hath ruled it otherwise, and  
+he hath
+received his Sentence. I tell you of it that you may beware, and     
+know how to carry
+your self. If Mr. <font>Mordant</font> will be pleased to answer whether or   
+no guilty of those
+Crimes, then he shall have a fair Trial, and full Examination: If    
+otherwise, the
+same Sentence must be required as before; that is, upon refusall,    
+the Judgement
+pronounced for High Treason.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, I humbly crave the Act may be read.</font>
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> The Act is publick; the Court are not to    
+give you an account of
+their authority, or the way of their proceedings; they require your  
+Answer.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, shall I not know by what Law I am   
+tryed, nor by what Act,
+nor by what Commission?</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You seem to be a young Gentleman; I wish rather 
+you would plead
+Not guilty, or make an ingenuous Confession.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, This is the first time that I have  
+been before any Court in my
+life, I desire that my reason may be convinced; either assigne me    
+Counsel to argue it
+with this learned Councel, and if they convince my Counsel I shall   
+submit: or, if this
+Councel will say, the Law doth debar me the hearing of the           
+Commission and the Act
+read to me, I shall refer it to the Judges of the Law, and by their  
+opinions I will
+stand or fall.</font>
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> My Lord President, You have offered that    
+Gent. very seasonable
+advice, I wish he may be capable of it: And, in these debates, I     
+wish he doth not
+lose those advantages that are really intended for him. For the      
+Court, it is by Act
+of Parl. and no Judicature in <font>Engl.</font> can require any account of   
+their proceedings.
+   </dialogue><nonSpeech> <font>Mr.</font> Mord.</nonSpeech><dialogue> <font>My Lord, Pray give me leave to ask this      
+question, Whether there be any
+president for this?</font> 
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> By way of advise I do acquaint you that      
+there is no Judicature in 
+<font>England</font> superiour <comment type="compiler">SOURCE TEXT: superionr</comment> to this, but the    
+Parliament immediately; You are here Impeached
+of a very high Crime, High Treason, it may be a strain of youth, the 
+first step to
+mercy is confession.
+<pagebreak id="C2R" />
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, I have heard that the Judges of the   
+Land are the best and
+proper Expositors of the Law, and if they declare that this is the   
+sense of the Act, I'le 
+submit to the Court; if the Court will allow me Counsel I shall      
+submit if my Counsel be
+convinced; I desire to hear the Commission read.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My Lord, this Gent. was a fellow-prisoner    
+with one that went before
+him, he walks after the same steps, I wish he may not run into the   
+same Error;
+these things were urged by Dr. <font>Hewet</font> , and the Court hath ruled  
+that their
+Authority is sufficient, and therefore my Lord be pleased that this  
+Gent. may plead.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I am overborn both for Jury and Counsel, I     
+desire that my reason may
+be convinced, if this Counsel will give it under their hands that    
+this is Law by the Act
+of 1656. if you will say under your hands that this is Law that I    
+must be excluded of
+Jury and Counsel, and that I must not know the Commission by which I 
+am tryed, I will
+proceed.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> I am afraid you have received ill advise from   
+others, possibly you know
+what is become of that Prisoner that spake of Counsel; we cannot     
+assign you
+Counsel as to matter of Fact; the Law and Act of Parliament have     
+made us your
+Judges, and therefore you are to plead.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, I desire that that Act may be read to 
+know whether I am to
+be excluded of Jury and Counsel; I referre it to this Counsel.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I doubt the Gent. is in jest, we are here to 
+attend by command of his
+Highness the L. Protector; these Gent. are all sworn by Act of       
+Parliament: it is a
+little slighting of the Court, to appeal from the Court to the       
+Counsel; but (my
+Lord) I beseech you he may forbear to say he is overborn. You shall  
+have Justice
+done if you will plead, if not there was a President but now; if you 
+please to put
+your self upon the Trial, you shall have a fair Trial.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, convince me by this Act that I am to  
+lose the right of Jury;
+I have not heard any reason why I must lose it.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I do tell you the Court hath given Judgment  
+just now in the like
+case.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I ask a President for this.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I tell you a President, Sir <font>H. Slingsby</font>  
+and Dr. <font>Hewet</font> .
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>Is it a good President? if any give an ill     
+president, it is reason I should
+debate it my self.</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> I humbly conceive that this Court is your    
+Court, and you ought
+to plead it.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, I desire I may be heard; the words    
+are, that the respective
+Commissioners, or the major part of them, are to meet, &amp;c. I humbly  
+conceive without the
+whole I cannot be tryed.</font>
+   </dialogue><nonSpeech>L. <font>President.</font> </nonSpeech><dialogue> All this that you ask of us now we have    
+declared this morning
+already to one who was before you at the Bar; the <font> <foreign>Quorum</foreign> </font>   
+of this Commission is
+seventeen or any more of them: we must require you again to plead.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, I desire a little patience, the       
+number of the Commissioners is
+seventeen, I conceive that must be very much strained in reason that 
+they must try,
+because it relates to the respective Commissioners; several persons  
+were allowed Counsel,
+I humbly desire Counsel.</font>
+   </dialogue><nonSpeech>L. <font>President.</font> </nonSpeech><dialogue> That is when there is matter of Law, you   
+have alledged nothing,
+you are now upon matter of Fact.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, my Indictment is matter of Law, and   
+upon that I may safely
+demand Counsel, I desire to have Counsel as to my Indictment.</font>
+   </dialogue><nonSpeech>L. <font>President.</font> </nonSpeech><dialogue> Your reason and my reason and all reason   
+must submit to the Law:
+you are now upon matter of Fact, the single question is, guilty or   
+not guilty.
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> My advise to you is, that you would put your 
+self upon your
+Tryal.
+<pagebreak id="C2V" />
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I am not convinced at all, but forced upon it, 
+and it is a hard thing; it is
+reason that my reason should be convinced, if this Act doth say in   
+any place that I must
+lose those priviledges, or if the Judges will declare it to be so, I 
+will submit to it; if
+the Judges will declare that I must be tryed thus, God's will be     
+done, I desire to stand
+and fall by the Laws.</font>
+<comment type="compiler">SOL. ELLIS'S SPEECH OMITTED.</comment>
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I do not shun to be tryed by the Act of        
+Parliament, but referre my selfe to
+the Judges, that those priviledges of the Act may not be taken from  
+me,</font>
+   </dialogue><nonSpeech> <font>Mr. At. G.</font> </nonSpeech><dialogue> The Parliament hath thought fit to go this   
+way, and it is not to be
+disputed, they that live in this nation are not to dispute it: if    
+that Gent. will please
+to recollect himself, and not (my Lord) thus expostulate and dispute 
+with the
+Court of Justice, if he please to put himself upon a Tryal, if he    
+thinks himself
+innocent, I think it is best; and if he refuse it, his sentence is   
+from himself.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I do not (my Lord) dispute the power of the    
+Court, but I desire my
+reason may be convinced, and that I may have Counsel.</font>
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> We are clearly of opinion, we have not power   
+in this case to appoint
+any other Jury, not to summon a Jury, we our selves have taken an    
+oath; you would
+do well to plead.
+   </dialogue><nonSpeech>Mr.Mordant.</nonSpeech><dialogue> <font>My Lord, I have but little to say, and that is, 
+that as that Gent. said,
+it was referred to the Court what Jury I shall have, I desire (my    
+Lord) to know
+whether the Court doth intend to try me by a Jury.</font>
+   </dialogue><nonSpeech>Mr. <font>Sol. Ellis.</font> </nonSpeech><dialogue> They do not.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>Is the Court Judge and Jury?</font>
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> If you will deal ingenuously with the Court,  
+I think that is best.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>Seeing I am here overuled, though not          
+convinced in my reason, I shall
+demur to the Court, and plead not Guilty. I desire a Copy of my      
+indictment, and time
+to plead.</font>
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> It was never done; for any Indictment of High   
+Treason was never
+delivered to any Prisoner.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I urge my Lord</font> Cooke <font>for Authority, for a  
+copy of my Indictment</font> .
+   </dialogue><nonSpeech>Mr. <font>Phelphs</font> </nonSpeech><dialogue> <font>John Mordant Esquire</font> , you stand here    
+charged of High Treason;
+to this charge you plead not guilty, is this your Plea?
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>Yes.</font>
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I beg (my Lord) that my ignorance of the Laws  
+may not prejudice
+<pagebreak id="C3R" />
+me, not understanding or knowing any thing of the Law; and this      
+granted me, I shall
+address to my justification.</font>
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> Do you stand to your Plea not guilty?
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>Yes.</font>
+<comment type="compiler">MR. LITCHMORE'S SPEECH OMITTED. THE CHARGE REPEATED AND WITNESSES 
+CALLED.</comment>
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> I wish Mr. <font>Mordant</font> had done this before,  
+and made himself capable
+of more favour.
+</dialogue><nonSpeech>Mr. <font>Mordant then desired to have Pen, Ink and Paper, which was   
+granted him.</font>
+<font>John Stapley</font> and <font>Anthony Stapley</font> were then called.</nonSpeech>
+<nonSpeech> <font>John Stapley</font> sworne.</nonSpeech> 
+   <nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> We produce this Gent. (I suppose he is well   
+known to the Prisoner)
+to prove the Charge; I desire he may declare what he knows.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> What do you know concerning the discourses of 
+Mr. <font>Mordant</font> with
+you, touching the bringing in of <font>Charles Stuart</font> ?
+   </dialogue><nonSpeech> <font>John Stapley.</font> </nonSpeech><dialogue> I have been in Mr. <font>Mordants</font> company   
+several times, and
+what I can say will not be much; Mr. <font>Mordant</font> did once tell me    
+there was such a
+design as the bringing in of the King, and he did ask me if I did    
+not know of such
+a thing; I told him no; he was pleased to tell me somewhat of it: I  
+asked him
+if he was engaged in it; he told me he was not.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> What did he tell you concerning his being     
+entrusted by the King
+therein?
+   </dialogue><nonSpeech> <font>John Stapley.</font> </nonSpeech><dialogue> He told me the King wrote to him, to      
+speak to his friends that
+they would be ready to assist him when he should come into           
+<font>England</font> with force,
+which he told me was with 7000 men; this was the chief of all.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> Did he not say that he had Commissions from   
+the King?
+   </dialogue><nonSpeech> <font>John Stapley.</font> </nonSpeech><dialogue> He did not tell me so, but I have heard   
+him say others had
+had Commissions, two other Gent. in <font>Surrey</font> .
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> Did he not encourage you thereto? what        
+Arguments did he use?
+   </dialogue><nonSpeech> <font>John Stapley,</font> </nonSpeech><dialogue> He spoke to me of it several times.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> After what manner?
+   </dialogue><nonSpeech> <font>J. Stapley.</font> </nonSpeech><dialogue> Onely in commendation of the thing; I heard 
+him say that if there
+were a necessity, <font>Surry</font> folks would come into <font>Sussex</font> to      
+assist them.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> Who was present at any of these discourses?
+   </dialogue><nonSpeech> <font>J. Stapley.</font> </nonSpeech><dialogue> There was none but him and my self.
+   </dialogue><nonSpeech>Mr. <font>At. G.</font> </nonSpeech><dialogue> At what place, and at what time?
+   </dialogue><nonSpeech> <font>J. Stapley.</font> </nonSpeech><dialogue> Near his own house at several times; I have 
+told you the main of
+the discourses.
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> Mr. <font>Stapley, about what time was this</font> ?
+   </dialogue><nonSpeech> <font>J. Stapley.</font> </nonSpeech><dialogue> Above a year since.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> Mr. <font>Stapley, at what place was the             
+encouragement made</font> ?
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> I do not know what he means by Encouragement,  
+he onely told me
+of it.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>I desire to know when I told you that I had    
+received a Letter to
+encourage my friends from beyond Sea, and who was by.</font>
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> There was no body by.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> About what time did he tell you of this Letter?
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> About half a year since.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Who was by?
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> No body my Lord.
+   </dialogue><nonSpeech>Mr. <font>Sol. Ellis.</font> </nonSpeech><dialogue> Did he tell you it was the King that     
+wrote to him, and therefore
+it was just to assist him.
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> I think I heard him say so, I cannot take my   
+Oath of it.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Did he tell you what considerable persons were  
+concerned?
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> I have heard him speak of some persons that    
+were ingaged in this
+design, Sir <font>Fran. Vincent</font> , and one <font>Brown</font> ; he said that Sir 
+<font>Will. Waller</font> spake to him
+to speak to me.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> When?
+   </dialogue><nonSpeech>Mr. <font>Stap.</font> </nonSpeech><dialogue> Above a year since, it was since the Parliament.
+   </dialogue><nonSpeech>Mr. Mordant.</nonSpeech><dialogue> <font>My Lord, I do not know Sir</font> W. Waller.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4CFARQU">
+  <dialogueHeader>
+
+    <filename>D4CFARQU</filename>
+
+    <identifier>4 COMEDY D4CFARQU</identifier>
+
+    <title>THE BEAUX STRATAGEM</title>
+
+    <author>FARQUHAR GEORGE</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1707</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">FARQUHAR, GEORGE.</attribution>
+      <frontMatter>THE BEAUX STRATAGEM. A COMEDY. 
+AS IT IS ACTED AT THE QUEEN'S THEATRE IN THE HAY-MARKET.
+BY HER MAJESTY'S SWORN COMEDIANS.
+WRITTEN BY MR. FARQUHAR, AUTHOR OF THE RECRUITING-OFFICER.
+LONDON: PRINTED FOR BERNARD LINTOTT, AT THE CROSS-KEYS NEXT NANDO'S
+COFFEE-HOUSE IN FLEETSTREET.
+(1707). 
+PP. 11.1 - 38.17
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SQUARE BRACKETS USED IN SOURCE TEXT TO INDICATE ASIDES AND  
+STAGE DIRECTIONS ARE OMITTED.</comment>
+
+<pagebreak id="11" />
+</dialogue> <head>ACT II.</head> 
+
+<nonSpeech>SCENE, <font>A Gallery in Lady</font> Bountyful's <font>House</font> .</nonSpeech>
+
+<nonSpeech> <font>Mrs.</font> Sullen <font>and</font> Dorinda <font>meeting</font> .</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Morrow, my dear Sister; are you for Church this
+Morning?
+   </dialogue><nonSpeech> <font>Mrs. Sull.</font> </nonSpeech><dialogue> Any where to Pray; for Heaven alone can help
+me: But, I think, <font>Dorinda</font> , there's no Form of Prayer in the
+Liturgy against bad Husbands. 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But there's a Form of Law in <font>Doctors-Commons</font> ; 
+and I
+swear, Sister <font>Sullen</font> , rather than see you thus continually
+discontented, I would advise you to apply to that: For besides the
+part that I bear in your vexatious Broils, as being Sister to the
+Husband, and Friend to the Wife; your Example gives me such 
+an Impression of Matrimony, that I shall be apt to condemn
+my Person to a long Vacation all its Life. -- But supposing,
+Madam, that you brought it to a Case of Separation, what
+you urge against your Husband? My Brother is, first, the most
+constant Man alive.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The most constant Husband, I grant'ye.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> He never sleeps from you.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> No, he always sleeps with me.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> He allows you a Maintenance suitable to your       
+Quality. 
+   </dialogue><nonSpeech>Mrs <font>Sull.</font> </nonSpeech><dialogue> A Maintenance! do you take me, Madam, for an 
+hospital Child, that I must sit down, and bless my Benefactors for
+Meat, Drink and Clothes? As I take it, Madam, I brought your
+Brother Ten thousand Pounds, out of which, I might expect
+some pretty things, call'd Pleasures.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You share in all the Pleasures that the Country    
+affords.
+   </dialogue><nonSpeech>Mrs. <font>Sul.</font> </nonSpeech><dialogue> Country Pleasures! Racks and Torments! dost
+think, Child, that my Limbs were made for leaping of Ditches,
+and clambring over Stiles; or that my Parents wisely foreseeing
+my future Happiness in Country-pleasures, had early instructed
+me in the rural Accomplishments of drinking fat Ale, playing at
+Whisk, and smoaking Tobacco with my Husband; or of 
+spreading of Plaisters, brewing of Diet-drinks, and stilling
+Rosemary-Water with the good old Gentlewoman, my 
+Mother-in-Law. 
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I'm sorry, Madam, that it is not more in our power 
+to 
+divert you; I cou'd wish indeed that our Entertainments were
+a little more polite, or your Taste a little less refin'd: But,
+pray, Madam, how came the Poets and Philosophers that
+labour'd so much in hunting after Pleasure, to place it at last in
+a Country Life?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Because they wanted Money, Child, to find out
+the Pleasures of the Town: Did you ever see a Poet or
+Philosopher worth Ten thousand Pound; if you can shew me such a
+Man, I'll lay you Fifty Pound you'll find him somewhere within 
+the weekly Bills. -- Not that I disapprove rural Pleasures, as
+the Poets have painted them; in their Landschape every <font>Phillis</font>
+has her <font>Coridon</font> , every murmuring Stream, and every flowry
+Mead gives fresh Alarms to Love. -- Besides, you'll find,
+that their Couples were never marry'd: -- But yonder I see
+my <font>Coridon</font> , and a sweet Swain it is, Heaven knows. -- Come,
+<font>Dorinda</font> , don't be angry, he's my Husband, and your Brother;
+and between both is he not a sad Brute?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I have nothing to say to your part of him, you're  
+the
+best Judge.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> O Sister, Sister! if ever you marry, beware   
+of a 
+sullen, silent Sot, one that's always musing, but never thinks:
+-- There's some Diversion in a talking Blockhead; and since
+a Woman must wear Chains, I wou'd have the Pleasure of
+hearing 'em rattle a little. -- Now you shall see, but take this by
+the way; -- He came home this Morning at his usual Hour
+of Four, waken'd me out of a sweet Dream of something else,
+by tumbling over the Tea-table, which he broke all to pieces,
+after his Man and he had rowl'd about the Room like sick
+Passengers in a Storm, he comes flounce into Bed, dead as a Salmon
+into a Fishmonger's Basket; his Feet cold as Ice, his Breath hot
+as a Furnace, and his Hands and his Face as greasy as his Flanel
+Night-cap. -- Oh Matrimony! -- He tosses up the
+Clothes with a barbarous swing over his Shoulders, disorders the
+whole Oeconomy of my Bed, leaves me half naked, and my
+whole Night's Comfort is the tuneable Serenade of that wakeful
+Nightingale, his Nose. -- O the Pleasure of counting the
+melancholly Clock by a snoring Husband! -- But now, Sister,
+you shall see how handsomely, being a well-bred Man, he will
+beg my Pardon.
+<pagebreak id="13" />
+</dialogue><nonSpeech> <font>Enter</font> Sullen.</nonSpeech>
+   <nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> My Head akes consumedly.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Will you be pleased, my Dear, to drink Tea    
+with us 
+this Morning? it may do your Head good.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Coffee? Brother.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Pshaw.
+   </dialogue><nonSpeech>Mrs <font>Sull.</font> </nonSpeech><dialogue> Will you please to dress and go to Church with 
+me,
+the Air may help you.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> <font>Scrub.</font>
+</dialogue><nonSpeech> <font>Enter</font> Scrub.</nonSpeech>
+   <nonSpeech> <font>Scrub,</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> What Day o'th Week is this?
+   </dialogue><nonSpeech> <font>Scrub,</font> </nonSpeech><dialogue> <font>Sunday</font> , an't please your Worship.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> <font>Sunday</font> ! bring me a Dram, and d'ye hear, set  
+out the
+Venison-Pasty <comment type="compiler">A SPACE IN SOURCE TEXT WHERE &quot;V&quot; IN &quot;Venison-Pasty&quot;  
+SHOULD BE</comment> , and a Tankard of strong Beer upon the Hall-Table,
+I'll go to breakfast. </dialogue><nonSpeech> <font>Going.</font> </nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Stay, stay, Brother, you shan't get off so; you    
+were very
+naught last Night, and must make your Wife Reparation; come,
+come, Brother, won't you ask Pardon?
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> For what?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> For being drunk last Night.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> I can afford it, can't I?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> But I can't, Sir.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Then you may let it alone.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> But I must tell you, Sir, that this is not to 
+be born.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> I'm glad on't.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> What is the Reason, Sir, that you use me thus
+inhumanely?
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> <font>Scrub?</font>
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Get things ready to shave my Head. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Have a care of coming near his Temples,       
+<font>Scrub</font> , for
+fear you meet something there that may turn the Edge of your
+Razor. -- Inveterate Stupidity! did you ever know so hard,
+so obstinate a Spleen as his? O Sister, Sister! I shall never ha'
+Good of the Beast till I get him to Town; <font>London</font> , dear
+<font>London</font> is the Place for managing and breaking a Husband.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> And has not a Husband the same Opportunities there
+for humbling a Wife?
+<pagebreak id="14" />
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> No, no, Child, 'tis a standing Maxim in       
+conjugal 
+Discipline, that when a Man wou'd enslave his Wife, he
+hurries her into the Country; and when a Lady would be arbitrary
+with her Husband, she wheedles her Booby up to Town. -- A
+Man dare not play the Tyrant in <font>London</font> , because there are so
+many Examples to encourage the Subject to rebel. O <font>Dorinda,
+Dorinda</font> ! a fine Woman may do any thing in <font>London</font> : O'my
+Conscience, she may raise an Army of Forty thousand Men.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I fancy, Sister, you have a mind to be trying your 
+Power
+that way here in <font>Litchfield</font> ; you have drawn the <font>French</font> Count
+to your Colours already.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The <font>French</font> are a People that can't live   
+without
+their Gallantries.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> And some <font>English</font> that I know, Sister, are not  
+averse to
+such Amusements.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Well, Sister, since the Truth must out, it    
+may do
+as well now as hereafter; I think one way to rouse my
+Lethargick sotish Husband, is, to give him a Rival; Security begets
+Negligence in all People, and Men must be alarm'd to make 'em
+alert in their Duty: Women are like Pictures of no Value in the
+Hands of a Fool, till he hears Men of Sense bid high for the
+Purchase.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> This might do, Sister, if my Brother's Understanding
+were to be convinc'd into a Passion for you; but I fancy there's
+a natural Aversion of his side; and I fancy, Sister, that you
+don't come much behind him, if you dealt fairly.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I own it, we are united Contradictions, Fire  
+and
+Water: But I cou'd be contented, with a great many other Wives,
+to humour the censorious Mob, and give the World an
+Appearance of living well with my Husband, cou'd I bring him
+but to dissemble a little Kindness to keep me in Countenance.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But how do you know, Sister, but that instead of
+rousing your Husband by this Artifice to a counterfeit Kindness, he
+should awake in a real Fury.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Let him: -- If I can't entice him to the one, I
+wou'd provoke him to the other.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But how must I behave my self between ye.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> You must assist me.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> What, against my own Brother!
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> He's but half a Brother, and I'm your entire  
+Friend:
+<pagebreak id="15" />
+If I go a step beyond the Bounds of Honour, leave me; till
+then I expect you should go along with me in every thing, while
+I trust my Honour in your Hands, you may trust your Brother's
+in mine. -- The Count is to dine here to Day.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis a strange thing, Sister, that I can't like    
+that Man.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> You like nothing, your time is not come; Love
+and Death have their Fatalities, and strike home one time or
+other: -- You'll pay for all one Day, I warrant'ye. -- But,
+come, my Lady's Tea is ready, and 'tis almost Church-time.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>SCENE, THE INN.</head> 
+
+<nonSpeech> <font>Enter</font> Aimwell <font>dress'd, and</font> Archer.</nonSpeech>
+   <nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> And was she the Daughter of the House?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> The Landlord is so blind as to think so; but I dare
+swear she has better Blood in her Veins.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Why dost think so?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Because the Baggage has a pert <font> <foreign>Je ne scai    
+quoi</foreign> </font> , she reads
+Plays, keeps a Monkey, and is troubled with Vapours.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> By which Discoveries I guess that you know more of 
+her.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Not yet, Faith, the Lady gives her self Airs,     
+forsooth,
+nothing under a Gentleman.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Let me take her in hand.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Say one Word more o'that, and I'll declare my self,
+spoil your Sport there, and every where else; look'ye, <font>Aimwell</font> ,
+every Man in his own Sphere.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Right; and therefore you must pimp for your Master.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> In the usual Forms, good Sir, after I have serv'd 
+my
+self. -- But to our Business: -- You are so well dress'd,
+<font>Tom</font> , and make so handsome a Figure, that I fancy you may do
+Execution in a Country Church; the exteriour part strikes first,
+and you're in the right to make that Impression favourable.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> There's something in that which may turn to 
+Advantage: The Appearance of a Stranger in a Country Church draws
+as many Gazers as a blazing Star; no sooner he comes into the
+Cathedral, but a Train of Whispers runs buzzing round the
+Congregation in a moment; -- Who is he? whence comes he?
+do you know him? -- Then I, Sir, tips me the Verger with
+half a Crown; he pockets the Simony, and Inducts me into the
+<pagebreak id="16" />
+best Pue in the Church, I pull out my Snuff-box, turn my self
+round, bow to the Bishop, or the Dean, if he be the
+commanding Officer; single out a Beauty, rivet both my Eyes to hers, 
+set
+my Nose a bleeding by the Strength of Imagination, and shew
+the whole Church my concern by my endeavouring to hide it;
+after the Sermon, the whole Town gives me to her for a Lover,
+and by perswading the Lady that I am a dying for her, the
+Tables are turn'd, and she in good earnest falls in Love with me?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> There's nothing in this, <font>Tom</font> , without a      
+Precedent;
+but instead of riveting your Eyes to a Beauty, try to fix 'em
+upon a Fortune, that's our Business at present.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Pshaw, no Woman can be a Beauty without a Fortune.
+-- Let me alone, for I am a Mark'sman.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> <font>Tom.</font>
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Ay.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> When were you at Church before, pray?
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Um -- I was there at the Coronation.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And how can you expect a Blessing by going to     
+Church
+now?
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Blessing! nay, <font>Frank</font> , I ask but for a Wife.   
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Truly the Man is not very unreasonable in his     
+Demands.
+</dialogue><nonSpeech> <font>Exit at the opposite Door.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Bonniface <font>and</font> Cherry.</nonSpeech>
+   <nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Well Daughter, as the saying is, have you brought
+<font>Martin</font> to confess?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Pray, Father, don't put me upon getting any thing 
+out 
+of a Man; I'm but young you know, Father, and I don't
+understand Wheedling.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Young! why you Jade, as the saying is, can any
+Woman wheedle that is not young, you'r Mother was useless at
+five and twenty; not wheedle! would you make your Mother
+a Whore and me a Cuckold, as the saying is? I tell you his
+Silence confesses it, and his Master spends his Money so freely, and
+is so much a Gentleman every manner of way that he must be a
+Highwayman.
+</dialogue><nonSpeech> <font>Enter</font> Gibbet <font>in a Cloak</font> .</nonSpeech>
+   <nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Landlord, Landlord, is the Coast clear?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> O, Mr. <font>Gibbet</font> , what's the News?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> No matter, ask no Questions, all fair and          
+honourable,
+here, my dear <font>Cherry</font> </dialogue><nonSpeech> <font>Gives her a Bag.</font> </nonSpeech><dialogue> Two hundred      
+Sterling
+<pagebreak id="17" />
+Pounds as good as any that ever hang'd or sav'd a Rogue; lay
+'em by with the rest, and here -- Three wedding or mourning
+Rings, 'tis much the same you know -- Here, two
+Silver-hilted Swords; I took those from Fellows that never shew any
+part of their Swords but the Hilts: Here is a Diamond Necklace
+which the Lady hid in the privatest place in the Coach, but I
+found it out: This Gold Watch I took from a Pawn-broker's
+Wife; it was left in her Hands by a Person of Quality, there's
+the Arms upon the Case.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> But who had you the Money from?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Ah! poor Woman! I pitied her; -- From a poor Lady
+just elop'd from her Husband, she had made up her Cargo, and
+was bound for <font>Ireland</font> , as hard as she cou'd drive; she told me
+of her Husband's barbarous Usage, and so I left her half a
+Crown: But I had almost forgot, my dear <font>Cherry</font> , I have a
+Present for you.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> What is't?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> A Pot of Cereuse, my Child, that I took out of a   
+Lady's
+under Pocket.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> What, Mr. <font>Gibbet</font> , do you think that I paint?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Why, you Jade, your Betters do; I'm sure the Lady  
+that
+I took it from had a Coronet upon her Handkerchief. -- Here,
+take my Cloak, and go, secure the Premisses.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> I will secure 'em. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> But, heark'ye, where's <font>Hounslow</font> and            
+<font>Bagshot</font> ? 
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> They'll be here to Night.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> D'ye know of any other Gentlemen o'the Pad on this
+Road?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> I fancy that I have two that lodge in the House    
+just now.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> The Devil! how d'ye smoak 'em?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Why, the one is gone to Church.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> That's suspitious, I must confess.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> And the other is now in his Master's Chamber; he
+pretends to be Servant to the other, we'll call him out, and pump
+him a little.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> With all my Heart.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Mr. <font>Martin</font> , Mr. <font>Martin</font> ?
+</dialogue><nonSpeech> <font>Enter</font> Martin <font>combing a Perrywig, and singing</font> .</nonSpeech>
+   <nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> The Roads are consumed deep; I'm as dirty as old
+<pagebreak id="18" />
+<font>Brentford</font> at <font>Christmas</font> . -- A good pretty Fellow that; who's
+Servant are you, Friend?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> My Master's.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Really?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Really.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> That's much. -- The Fellow has been at the Bar by
+his Evasions: -- But, pray, Sir, what is your Master's Name?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> <font>Tall, all dall</font> ; </dialogue><nonSpeech> <font>sings and combs the     
+Perrywig</font> .</nonSpeech><dialogue> This is
+the most obstinate Curl --
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> I ask you his Name?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Name, Sir, -- <font>Tall, all dal</font> -- I never ask'd  
+him his
+Name in my Life. <font>Tall, all dall.</font>
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> What think you now?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Plain, plain, he talks now as if he were before a  
+Judge:
+But, pray, Friend, which way does your Master travel?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> A Horseback.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Very well again, an old Offender, right; -- But, I
+mean does he go upwards or downwards?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Downwards, I fear, Sir: <font>Tall, all</font> .
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> I'm afraid my Fate will be a contrary way.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Ha, ha, ha! Mr. <font>Martin</font> you're very arch. -- This
+Gentleman is only travelling towards <font>Chester</font> , and wou'd be
+glad of your Company, that's all. -- Come, Captain, you'll
+stay to Night, I suppose; I'll shew you a Chamber -- Come,
+Captain.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Farewel, Friend -- </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Captain, your Servant. -- Captain! a pretty
+Fellow; s'death, I wonder that the Officers of the Army don't
+conspire to beat all Scoundrels in Red, but their own.
+</dialogue><nonSpeech> <font>Enter</font> Cherry.</nonSpeech>
+   <nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Gone! and <font>Martin</font> here! I hope he did not      
+listen; I
+wou'd have the Merit of the discovery all my own, because I
+wou'd oblige him to love me. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Mr. <font>Martin</font> , who was
+that Man with my Father?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Some Recruiting Serjeant, or whip'd out Trooper, I
+suppose.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> All's safe, I find.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Come, my Dear, have you con'd over the Catechise
+I taught you last Night?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Come, question me.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> What is Love? 
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Love is I know not what, it comes I know not how,
+and goes I know not when.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Very well, an apt Scholar. </dialogue><nonSpeech> <font>Chucks her under  
+the Chin.</font> </nonSpeech><dialogue>
+Where does Love enter?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Into the Eyes.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And where go out?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> I won't tell'ye.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> What are Objects of that Passion?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Youth, Beauty, and clean Linen.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> The Reason?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> The two first are fashionable in Nature, and the  
+third
+at Court.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> That's my Dear: What are the Signs and Tokens of
+that Passion?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> A stealing Look, a stammering Tongue, Words
+improbable, Designs impossible, and Actions impracticable.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> That's my good Child, kiss me. -- What must a 
+Lover do to obtain his Mistress.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> He must adore the Person that disdains him, he must
+bribe the <comment type="compiler">A SPACE IN SOURCE TEXT WHERE &quot;e&quot; IN &quot;the&quot; SHOULD BE</comment>    
+Chambermaid that betrays him, and court the
+Footman that laughs at him; -- He must, he must --
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Nay, Child, I must whip you if you don't mind your
+Lesson; he must treat his --
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> O, ay, he must treat his Enemies with Respect, his
+Friends with Indifference, and all the World with Contempt;
+he must suffer much, and fear more; he must desire much, and
+hope little; in short, he must embrace his Ruine, and throw
+himself away.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Had ever Man so hopeful a Pupil as mine? come, my
+Dear, why is Love call'd a Riddle?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Because being blind, he leads those that see, and 
+tho'
+a Child, he governs a Man.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Mighty well. -- And why is Love pictur'd blind?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Because the Painters out of the weakness or       
+privilege
+of their Art chose to hide those Eyes that they cou'd not draw.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> That's, my dear little Scholar, kiss me again. -- 
+And
+why shou'd Love, that's a Child, govern a Man?
+<pagebreak id="20" />
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Because that a Child is the end of Love.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And so ends Love's Catechism. -- And now, my Dear,
+we'll go in, and make my Master's Bed.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Hold, hold, Mr. <font>Martin</font> , -- You have taken a  
+great
+deal of Pains to instruct me, and what d'ye think I have learn't
+by it?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> What?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> That your Discourse and your Habit are            
+Contradictions,
+and it wou'd be nonsense in me to believe you a Footman any
+longer.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> 'Oons, what a Witch it is!
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Depend upon this, Sir, nothing in this Garb shall 
+ever
+tempt me; for tho' I was born to Servitude, I hate it: -- Own
+your Condition, swear you love me, and then -- 
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And then we shall go make the Bed.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> You must know then, that I am born a Gentleman, my
+Education was liberal; but I went to <font>London</font> a younger
+Brother, fell into the Hands of Sharpers, who stript me of my
+Money, my Friends disown'd, and now my Necessity brings me
+to what you see.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Then take my Hand -- promise to marry me
+before you sleep, and I'll make you Master of two thousand
+Pound.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> How!
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Two thousand Pound that I have this Minute in my
+own Custody; so throw off your Livery this Instant, and I'll go
+find a Parson.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> What said you? A Parson!
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> What! do you scruple?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Scruple! no, no, but -- two thousand Pound you
+say?
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> And better.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> S'death, what shall I do -- but heark'e, Child,   
+what 
+need you make me Master of your self and Money, when you
+may have the same pleasure out of me, and still keep your
+Fortune in your Hands.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Then you won't marry me?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> I wou'd marry you, but -- 
+<pagebreak id="21" />
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> O sweet, Sir, I'm your humble Servant, you're     
+fairly
+caught, wou'd you perswade me that any Gentleman who cou'd
+bear the Scandal of wearing a Livery, wou'd refuse two 
+thousand Pound let the Condition be what it wou'd -- no, no, Sir,
+-- but I hope you'll Pardon the Freedom I have taken, since it
+was only to inform my self of the Respect I ought to pay
+you. </dialogue><nonSpeech> <font>Going.</font> </nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Fairly bit, by <font>Jupiter</font> -- hold, hold, and     
+have you
+actually two thousand Pound.
+   </dialogue><nonSpeech> <font>Cher.</font> </nonSpeech><dialogue> Sir, I have my Secrets as well as you -- when     
+you please
+to be more open, I shall be more free, and be assur'd that I
+have Discoveries that will match yours, be what they will --
+in the mean while be satisfy'd that no Discovery I make shall
+ever hurt you, but beware of my Father. -- 
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> So -- we're like to have as many Adventures in    
+our Inn,
+as <font>Don Quixote</font> had in his -- let me see, -- two thousand
+Pound! if the Wench wou'd promise to dye when the Money
+were spent, I gad, one wou'd marry her, but the Fortune may
+go off in a Year or two, and the Wife may live -- Lord
+knows how long? then an Inkeeper's Daughter; ay that's the
+Devil -- there my Pride brings me off.
+
+<comment type="compiler">FOUR LINES OF VERSE OMITTED.</comment>
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+<nonSpeech> <font>End of the Second Act.</font> </nonSpeech>
+<pagebreak id="22" />
+ <head>ACT III.</head> 
+
+<nonSpeech>SCENE <font>continues</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter Mrs.</font> Sullen, Dorinda.</nonSpeech>
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Ha, ha, ha, my dear Sister, let me embrace    
+thee,
+now we are Friends indeed! for I shall have a Secret of yours,
+as a Pledge for mine -- now you'll be good for something, I
+shall have you conversable in the Subjects of the Sex.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But do you think that I am so weak as to fall in   
+Love
+with a Fellow at first sight?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Pshaw! now you spoil all, why shou'd not we be
+as free in our Friendships as the Men? I warrant you the
+Gentleman has got to his Confident already, has avow'd his Passion,
+toasted your Health, call'd you ten thousand Angels, has run over
+your Lips, Eyes, Neck, Shape, Air and every thing, in a 
+Description that warms their Mirth to a second Enjoyment.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Your Hand, Sister, I an't well.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> So, -- she's breeding already -- come Child   
+up with
+it -- hem a little -- so -- now tell me, don't you like the
+Gentleman that we saw at Church just now?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The Man's well enough.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Well enough! is he not a Demigod, a           
+<font>Narcissus</font> ,
+a Star, the Man i'the Moon?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> O Sister, I'm extreamly ill.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Shall I send to your Mother, Child, for a     
+little of
+her Cephalick Plaister to put to the Soals of your Feet, or shall
+I send to the Gentleman, for something for you? -- Come,
+unlace your Steas, unbosome your self -- the Man is
+perfectly a pretty Fellow, I saw him when he first came into
+Church.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I saw him too, Sister, and with an Air that shone,
+methought like Rays about his Person.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Well said, up with it.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> No forward Coquett Behaviour, no Airs to set him   
+off,
+no study'd Looks nor artful Posture, -- but Nature did it all -- 
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> better and better -- one Touch more -- come. -- 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But then his Looks -- did you observe his Eyes?
+<pagebreak id="23" />
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Yes, yes, I did -- his Eyes, well, what of his
+Eyes?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Sprightly, but not wandring; they seem'd to view,  
+but
+never gaz'd on any thing but me -- and then his Looks so
+humble were, and yet so noble, that they aim'd to tell me that
+he cou'd with Pride dye at my Feet, tho' he scorn'd Slavery any
+where else.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The Physick works purely -- How d'ye find your
+self now, my Dear?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Hem! much better, my Dear -- O here comes our
+Mercury! </dialogue><nonSpeech> <font>Enter</font> Scrub.</nonSpeech><dialogue> Well <font>Scrub</font> , what News of the
+Gentleman?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Madam, I have brought you a Packet of News.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Open it quickly, come.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> In the first place I enquir'd who the Gentleman  
+was?
+they told me he was a Stranger, Secondly, I ask'd what the
+Gentleman was, they answer'd and said, that they never saw
+him before. Thirdly, I enquir'd what Countryman he was,
+they reply'd 'twas more than they knew. Fourthly, I
+demanded whence he came, their Answer was, they cou'd not tell.
+And Fifthly, I ask'd whither he went, and they reply'd they
+knew nothing of the matter, -- and this is all I cou'd learn.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> But what do the People say, can't they guess?
+   </dialogue><nonSpeech> <font>Scrub,</font> </nonSpeech><dialogue> why some think he's a Spy, some guess he's a
+Mountebank, some say one thing, some another; but for my own part,
+I believe he's a Jesuit.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> A Jesuit! why a Jesuit?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> because he keeps his Horses always ready sadled, 
+and
+his Footman talks French.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> His Footman!
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Ay, he and the Count's Footman were Gabbering    
+French
+like two intreaguing Ducks in a Mill-Pond, and I believe they
+talk'd of me, for they laugh'd consumedly.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> What sort of Livery has the Footman?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Livery! Lord, Madam, I took him for a Captain,
+he's so bedizen'd with Lace, and then he has Tops to his Shoes,
+up to his mid Leg, a silver headed Cane dangling at his Nuckles,
+-- he carries his Hands in his Pockets just so -- </dialogue><nonSpeech> <font>Walks in the
+French Air</font> </nonSpeech><dialogue> and has a fine long Perriwig ty'd up in a Bag --
+Lord, Madam, he's clear another sort of Man than I.
+<pagebreak id="24" />
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> That may easily be -- but what shall we do
+now, Sister?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I have it -- This Fellow has a world of            
+Simplicity, and
+some Cunning, the first hides the latter by abundance -- <font>Scrub</font> .
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Madam.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> We have a great mind to know who this Gentleman is,
+only for our Satisfaction.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Yes, Madam, it would be a Satisfaction, no doubt.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You must go and get acquainted with his Footman, and
+invite him hither to drink a Bottle of your Ale, because you're
+Butler to Day.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Yes, Madam, I am Butler every Sunday.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> O brave, Sister, O my Conscience, you         
+understand
+the Mathematicks already -- 'tis the best Plot in the World, your
+Mother, you know, will be gone to Church, my Spouse will be
+got to the Ale-house with his Scoundrels, and the House will be our
+own -- so we drop in by Accident and ask the Fellow some
+Questions our selves. In the Countrey you know any Stranger is
+Company, and we're glad to take up with the Butler in a
+Country Dance, and happy if he'll do us the Favour.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Oh! Madam, you wrong me, I never refus'd your
+Ladyship the Favour in my Life.
+</dialogue><nonSpeech> <font>Enter</font> Gipsey.</nonSpeech>
+   <nonSpeech> <font>Gip.</font> </nonSpeech><dialogue> Ladies, Dinner's upon the Table.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> <font>Scrub</font> , We'll excuse your waiting -- Go where we
+order'd you.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> I shall. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+<nonSpeech>SCENE <font>changes to the Inn</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter</font> Aimwell <font>and</font> Archer.</nonSpeech>
+
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Well, <font>Tom</font> , I find you're a Marksman.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> A Marksman! who so blind cou'd be, as not discern
+a Swan among the Ravens.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Well, but heark'ee, <font>Aimwell</font> .
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> <font>Aimwel</font> ! call me <font>Oroondates, Cesario,        
+Amadis</font> , all that
+Romance can in a Lover paint, and then I'll answer. O <font>Archer</font> ,
+I read her thousands in her Looks, she look'd like <font>Ceres</font> in her
+<pagebreak id="25" />
+Harvest, Corn, Wine and Oil, Milk and Honey, Gardens,
+Groves and Purling Streams play'd on her plenteous Face.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Her Face! her Pocket, you mean; the Corn, Wine
+and Oil lies there. In short, she has ten thousand Pound, that's
+the English on't.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Her Eyes -- 
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Are Demi-Cannons to be sure, so I won't stand their
+Battery. </dialogue><nonSpeech> <font>Going.</font> </nonSpeech>
+   <nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Pray excuse me, my Passion must have vent.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Passion! what a plague, d'ee think these          
+Romantick Airs
+will do our Business? Were my Temper as extravagant as yours,
+my Adventures have something more Romantick by half.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Your Adventures!
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Yes, The Nymph that with her twice ten hundred    
+Pounds
+   With brazen Engine hot, and Quoif clear starch'd
+   Can fire the Guest in warming of the Bed --
+There's a Touch of Sublime <font>Milton</font> for you, and the Subject but
+an Inn-keeper's Daughter; I can play with a Girl as an Angler
+do's with his Fish; he keeps it at the end of his Line, runs it
+up the Stream, and down the Stream, till at last, he brings it to
+hand, tickles the Trout, and so whips it into his Basket.
+</dialogue><nonSpeech> <font>Enter</font> Bonniface.</nonSpeech>
+   <nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Mr. <font>Martin</font> , as the saying is -- yonder's an   
+honest
+Fellow below, my Lady <font>Bountiful's</font> Butler, who begs the Honour
+that you wou'd go Home with him and see his Cellar.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Do my <font> <foreign>Baisemains</foreign> </font> to the Gentleman, and  
+tell him I
+will do my self the Honour to wait on him immediately.                
+</dialogue><nonSpeech> <font>Exit.</font> Bon.</nonSpeech>
+   <nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> What do I hear? soft <font>Orpheus</font> Play, and fair    
+<font>Toftida</font>
+sing?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Pshaw! damn your Raptures, I tell you here's a Pump
+going to be put into the Vessel, and the Ship will get into
+Harbour, my Life on't. You say there's another Lady very
+handsome there.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Yes, faith.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> I'am in love with her already.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Can't you give me a Bill upon <font>Cherry</font> in the    
+mean time.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> No, no, Friend, all her Corn, Wine and Oil is
+ingross'd to my Market. -- And once more I warn you to keep
+your Anchorage clear of mine, for if you fall foul of me, by
+this Light you shall go to the Bottom. -- What! make
+<pagebreak id="26" />
+Prize of my litte Frigat, while I am upon the Cruise for you
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Bonniface.</nonSpeech>
+   <nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Well, well, I won't -- Landlord, have you any
+tolerable Company in the House, I don't care for dining alone.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Yes, Sir, there's a Captain below; as the saying   
+is, that
+arrived about an Hour ago.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Gentlemen of his Coat are welcome every where; will
+you make him a Complement from me, and tell him I should
+be glad of his Company.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Who shall I tell him, Sir, wou'd. -- 
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Ha! that Stroak was well thrown in -- I'm only
+a Traveller like himself, and wou'd be glad of his Company,
+that's all.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> I obey all your Commands, as the saying is.        
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Archer.</nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> S'Death! I had forgot, what Title will you give   
+your
+self?
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> My Brother's to be sure, he wou'd never give me any
+thing else, so I'll make bold with his Honour this bout -- you
+know the rest of your Cue. </dialogue><nonSpeech> <font>Exit.</font> Bon.</nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Ay, ay. </dialogue><nonSpeech> <font>Enter</font> Gibbet.</nonSpeech>
+   <nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Sir, I'm yours.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> 'Tis more than I deserve, Sir, for I don't know you.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> I don't wonder at that, Sir, for you never saw me
+before, I hope. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> And pray, Sir, how came I by the Honour of seeing
+you now?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Sir, I scorn to intrude upon any Gentleman -- but my
+Landlord --
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> O, Sir, I ask your Pardon, you're the Captain he   
+told
+me of.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> At your Service, Sir.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> What Regiment, may I be so bold?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> A marching Regiment, Sir, an old Corps.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Very old, if your Coat be Regimental,              
+</dialogue><nonSpeech> <font>Aside</font> </nonSpeech><dialogue> You
+have serv'd abroad, Sir?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Yes, Sir, in the Plantations, 'twas my Lot to be   
+sent
+into the worst Service, I wou'd have quitted it indeed, but a Man
+of Honour, you know -- Besides 'twas for the good of my
+<pagebreak id="27" />
+Country that I shou'd be abroad -- Any thing for the good
+of one's Country -- I'm a <font>Roman</font> for that.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> One of the first, I'll lay my Life                 
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> You found
+the <font>West Indies</font> very hot, Sir?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Ay, Sir, too hot for me.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Pray, Sir, han't I seen your Face at <font>Will's</font>
+Coffee-house?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Yes, Sir, and at <font>White's</font> too.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> And where is your Company now, Captain?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> They an't come yet.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Why, d'ye expect 'em here?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> They'll be here to Night, Sir.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Which way do they march?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Across the Country -- the Devil's in't, if I han't 
+said
+enough to encourage him to declare -- but I'm afraid he's not
+right, I must tack about.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Is your Company to quarter in <font>Litchfield</font> ?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> In this House, Sir.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> What! all?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> My Company's but thin, ha, ha, ha, we are but three,
+ha, ha, ha.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> You're merry, Sir.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Ay, Sir, you must excuse me, Sir, I understand the 
+World,
+especially, the Art of Travelling; I don't care, Sir, for
+answering Questions directly upon the Road -- for I generally ride
+with a Charge about me.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Three or four, I believe. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> I am credibly inform'd that there are Highway-men
+upon this Quarter, not, Sir, that I cou'd suspect a Gentleman of
+your Figure -- But truly, Sir, I have got such a way of
+Evasion upon the Road, that I don't care for speaking Truth to
+any Man.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Your Caution may be necessary -- Then I presume
+you're no Captain?
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Not I, Sir, Captain is a good travelling Name, and 
+so I
+take it; it stops a great many foolish Inquiries that are generally
+made about Gentlemen that travel, it gives a Man an Air of
+something, and makes the Drawers obedient -- And thus far I
+am a Captain, and no farther.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> And pray, Sir, what is your true Profession?
+<pagebreak id="28" />
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> O, Sir, you must excuse me -- upon my Word, Sir,
+I don't think it safe to tell you.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Ha, ha, ha, upon my word I commend you. </dialogue><nonSpeech> <font>Enter</font>
+Bonniface.</nonSpeech><dialogue> Well, Mr. <font>Bonniface</font> , what's the News?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> There's another Gentleman below, as the saying is, 
+that
+hearing you were but two, wou'd be glad to make the third Man
+if you wou'd give him leave.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> What is he?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> A Clergyman, as the saying is.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> A Clergyman! is he really a Clergyman? or is it only
+his travelling Name, as my Friend the Captain has it.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> O, Sir, he's a Priest and Chaplain to the French
+Officers in Town.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Is he a French-man?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Yes, Sir, born at <font>Brussels</font> .
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> A French-man, and a Priest! I won't be seen in his
+Company, Sir; I have a Value for my Reputation, Sir.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Nay, but Captain, since we are by our selves -- Can
+he speak English, Landlord.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Very well, Sir, you may know him, as the saying    
+is, to
+be a Foreigner by his Accent, and that's all.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Then he has been in <font>England</font> before?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Never, Sir, but he's a Master of Languages, as the
+saying is, he talks Latin, it do's me good to hear him talk Latin.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Then you understand Latin, Mr. <font>Bonniface</font> ?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Not I, Sir, as the saying is, but he talks it so   
+very fast
+that I'm sure it must be good.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Pray desire him to walk up.
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Here he is, as the saying is.
+</dialogue><nonSpeech> <font>Enter</font> Foigard.</nonSpeech>
+   <nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> Save you, Gentlemen's, both.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> A French-man! Sir, your most humble Servant.
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> Och, dear Joy, I am your most faithful Shervant,  
+and
+yours alsho.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Doctor, you talk very good English, but you have a
+mighty Twang of the Foreigner.
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> My English is very vel for the vords, but we      
+Foregners
+you know cannot bring our Tongues about the Pronunciation
+so soon.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> A Foreigner! a down-right Teague by this Light.
+</dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Were you born in <font>France</font> , Doctor.
+<pagebreak id="29" />
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> I was educated in <font>France</font> , but I was borned   
+at <font>Brussels</font> ,
+I am a Subject of the King of <font>Spain</font> , Joy.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> What King of <font>Spain</font> , Sir, speak.
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> Upon my Shoul Joy, I cannot tell you as yet.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Nay, Captain, that was too hard upon the Doctor,   
+he's
+a Stranger.
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> O let him alone, dear Joy, I am of a Nation that  
+is not
+easily put out of Countenance.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Come, Gentlemen, I'll end the Dispute. -- Here,
+Landlord, is Dinner ready?
+   </dialogue><nonSpeech> <font>Bon.</font> </nonSpeech><dialogue> Upon the Table, as the saying is.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> Gentlemen -- pray -- that Door -- 
+   </dialogue><nonSpeech> <font>Foig.</font> </nonSpeech><dialogue> No, no fait, the Captain must lead.
+   </dialogue><nonSpeech> <font>Aim.</font> </nonSpeech><dialogue> No, Doctor, the Church is our Guide.
+   </dialogue><nonSpeech> <font>Gib.</font> </nonSpeech><dialogue> Ay, ay, so it is. </dialogue><nonSpeech> <font>Exit foremost, they         
+follow.</font> </nonSpeech>
+
+<nonSpeech>SCENE, <font>Changes to a Gallery in Lady</font>
+Bountyful's <font>House</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter</font> Archer <font>and</font> Scrub <font>singing, and hugging one         
+another</font> ,
+Scrub <font>with a Tankard in his Hand</font> , Gipsey <font>listning at a        
+distance</font> .</nonSpeech>
+   <nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> <font>Tall, all dall</font> -- Come, my dear Boy -- Let's
+have that Song once more.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> No, no, we shall disturb the Family; -- But will  
+you
+be sure to keep the Secret?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Pho! upon my Honour, as I'm a Gentleman.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> 'Tis enough. -- You must know then that my Master 
+is
+the Lord Viscount <font>Aimwell</font> ; he fought a Duel t'other day in
+<font>London</font> , wounded his Man so dangerously, that he thinks fit
+to withdraw till he hears whether the Gentleman's Wounds be
+mortal or not: He never was in this part of <font>England</font> before,
+so he chose to retire to this Place, that's all.
+   </dialogue><nonSpeech> <font>Gip.</font> </nonSpeech><dialogue> And that's enough for me. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> And where were you when your Master fought?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> We never know of our Masters Quarrels.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> No! if our Masters in the Country here receive a
+Challenge, the first thing they do is to tell their Wives; the
+Wife tells the Servants, the Servants alarm the Tenants, and in
+half an Hour you shall have the whole County in Arms.
+<pagebreak id="30" />
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> To hinder two Men from doing what they have no
+mind for: -- But if you should chance to talk now of my
+Business?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Talk! ay, Sir, had I not learn't the knack of    
+holding
+my Tongue, I had never liv'd so long in a great Family.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Ay, ay, to be sure there are Secrets in all       
+Families.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Secrets, ay; -- But I'll say no more. -- Come,
+sit down, we'll make an end of our Tankard: Here -- 
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> With all my Heart; who knows but you and I may
+come to be better acquainted, eh -- Here's your Ladies
+Healths; you have three, I think, and to be sure there must be
+Secrets among 'em.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Secrets! Ay, Friend; I wish I had a Friend -- 
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Am not I your Friend? come, you and I will be sworn
+Brothers.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Shall we?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> From this Minute. -- Give me a kiss -- And now
+Brother <font>Scrub</font> --
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> And now, Brother <font>Martin</font> , I will tell you a  
+Secret that
+will make your Hair stand on end: -- You must know, that I
+am consumedly in Love.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> That's a terrible Secret, that's the Truth on't.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> That Jade, <font>Gipsey</font> , that was with us just    
+now in the
+Cellar, is the arrantest Whore that ever wore a Petticoat; and
+I'm dying for love of her.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Ha, ha, ha -- Are you in love with her Person, or
+her Vertue, Brother <font>Scrub</font> ? 
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> I should like Vertue best, because it is more    
+durable
+than Beauty; for Vertue holds good with some Women long,
+and many a Day after they have lost it.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> In a Country, I grant ye, where no Woman's
+Vertue is lost, till a Bastard be found.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Ay, cou'd I bring her to a Bastard, I shou'd     
+have her
+all to my self; but I dare not put it upon that Lay, for fear of
+being sent for a Soldier. -- Pray, Brother, how do you
+Gentlemen in <font>London</font> like that same Pressing Act?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Very ill, Brother <font>Scrub</font> ; -- 'Tis the worst   
+that ever
+was made for us: Formerly I remember the good Days,
+when we cou'd dun our Masters for our Wages, and if they
+refused to pay us, we cou'd have a Warrant to carry 'em before a
+<pagebreak id="31" />
+Justice; but now if we talk of eating, they have a Warrant
+for us, and carry us before three Justices.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> And to be sure we go, if we talk of eating; for  
+the
+Justices won't give their own Servants a bad Example. Now this
+is my Misfortune -- I dare not speak in the House, while
+that Jade <font>Gipsey</font> dings about like a Fury -- Once I had the
+better end of the Staff.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And how comes the Change now?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Why, the Mother of all this Mischief is a Priest.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> A Priest!
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Ay, a damn'd Son of a Whore of <font>Babylon</font> ,     
+that came
+over hither to say Grace to the <font>French</font> Officers, and eat up our
+Provisions -- There's not a Day goes over his Head
+without Dinner or Supper in this House.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> How came he so familiar in the Family?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Because he speaks <font>English</font> as if he had liv'd 
+here all his
+Life; and tells Lies as if he had been a Traveller from his Cradle.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> And this Priest, I'm afraid has converted the     
+Affections
+of your <font>Gipsey</font> .
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Converted! ay, and perverted, my dear Friend: -- 
+For
+I'm afraid he has made her a Whore and a Papist. -- But this
+is not all; there's the <font>French</font> Count and Mrs. <font>Sullen</font> ,       
+they're in
+the Confederacy, and for some private Ends of their own to be
+sure.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> A very hopeful Family yours, Brother <font>Scrub</font> ; I
+suppose the Maiden Lady has her Lover too.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Not that I know; -- She's the best on 'em,       
+that's the
+Truth on't: But they take care to prevent my Curiosity, by
+giving me so much Business, that I'm a perfect Slave. -- What
+d'ye think is my Place in this Family?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Butler, I suppose.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Ah, Lord help you -- I'll tell you -- Of a
+<font>Monday</font> , I drive the Coach; of a <font>Tuesday</font> , I drive the       
+Plough; on
+<font>Wednesday</font> , I follow the Hounds; a <font>Thursday</font> , I dun the
+Tenants; on <font>Fryday</font> , I go to Market; on <font>Saturday</font> , I draw
+Warrants; and a <font>Sunday</font> , I draw Beer.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Ha, ha, ha! if variety be a Pleasure in Life, you 
+have
+enough on't, my dear Brother -- But what Ladies are those?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Ours, ours; that upon the right Hand is Mrs.      
+<font>Sullen</font> ,
+and the other is Mrs. <font>Dorinda</font> . -- Don't mind 'em, sit still,
+Man --
+<pagebreak id="32" />
+</dialogue><nonSpeech> <font>Enter Mrs.</font> Sullen, <font>and</font> Dorinda.</nonSpeech>
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I have heard my Brother talk of my Lord
+<font>Aimwell</font> , but they say that his Brother is the finer Gentleman.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> That's impossible, Sister.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> He's vastly rich, but very close, they say.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> No matter for that; if I can creep into his Heart, 
+I'll
+open his Breast, I warrant him: I have heard say, that People
+may be guess'd at by the Behaviour of their Servants; I cou'd
+wish we might talk to that Fellow.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> So do I; for, I think he's a very pretty      
+Fellow:
+Come this way, I'll throw out a Lure for him presently.
+</dialogue><nonSpeech> <font>They walk a turn towards the opposite side of the Stage, Mrs.</font> 
+Sullen
+<font>drops her Glove</font> , Archer <font>runs, takes it up, and gives it to    
+her</font> .</nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Corn, Wine, and Oil, indeed -- But, I think, the
+Wife has the greatest plenty of Flesh and Blood; she should be
+my Choice -- Ah, a, say you so -- Madam -- Your
+Ladyship's Glove.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> O, Sir, I thank you -- what a handsom Bow
+the Fellow has?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Bow! why I have known several Footmen come down
+from <font>London</font> set up here for Dancing-Masters, and carry off the
+best Fortunes in the Country.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech> <nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> That Project, for ought I know,  
+had been
+better than ours, Brother <font>Scrub</font> -- Why don't you
+introduce me.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Ladies, this is the strange Gentleman's Servant  
+that
+you see at Church to Day; I understood he came from <font>London</font> ,
+and so I invited him to the Cellar, that he might show me the
+newest Flourish in whetting my Knives.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> And I hope you have made much of him?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> O yes, Madam, but the Strength of your Ladyship's
+Liquour is a little too potent for the Constitution of your humble
+Servant.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> What, then you don't usually drink Ale?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> No, Madam, my constant Drink is Tea, or a little  
+Wine
+and Water; 'tis prescrib'd me by the Physician for a Remedy
+against the Spleen.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> O la, O la! -- a Footman have the Spleen. -- 
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I thought that Distemper had been only proper 
+to
+People of Quality.
+<pagebreak id="33" />
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Madam, like all other Fashions it wears out, and so
+descends to their Servants; tho' in a great many of us, I believe
+it proceeds from some melancholly Particles in the Blood,
+occasion'd by the Stagnation of Wages.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> How affectedly the Fellow talks -- How long, pray,
+have you serv'd your present Master?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Not long; my Life has been mostly spent in the 
+Service of the Ladies.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> And pray, which Service do you like best?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Madam, the Ladies pay best; the Honour of serving
+them is sufficient Wages; there is a Charm in their looks that
+delivers a Pleasure with their Commands, and gives our Duty
+the Wings of Inclination.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> That Flight was above the pitch of a Livery;  
+and,
+Sir, wou'd not you be satisfied to serve a Lady again?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> As a Groom of the Chamber, Madam, but not as a
+Footman.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I suppose you serv'd as Footman before.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> For that Reason I wou'd not serve in that Post    
+again;
+for my Memory is too weak for the load of Messages that the
+Ladies lay upon their Servants in <font>London</font> ; my Lady <font>Howd'ye</font> , 
+the
+last Mistress I serv'd call'd me up one Morning, and told me,
+<font>Martin</font> , go to my Lady <font>Allnight</font> with my humble Service; tell
+her I was to wait on her Ladyship yesterday, and left word with
+Mrs. <font>Rebecca</font> , that the Preliminaries of the Affair she knows of,
+are stopt till we know the concurrence of the Person that I know
+of, for which there are Circumstances wanting which we shall
+accommodate at the old Place; but that in the mean time there
+is a Person about her Ladyship, that from several Hints and
+Surmises, was accessary at a certain time to the disappointments that
+naturally attend things, that to her knowledge are of more
+Importance.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> <comment type="compiler">AND</comment> </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Ha, ha, ha! where are  
+you going, Sir?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Why, I han't half done. -- The whole Howd'ye was
+about half an Hour long; so I hapned to misplace two Syllables,
+and was turn'd off, and render'd incapable -- 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The pleasantest Fellow, Sister, I ever saw. -- But,
+Friend, if your Master be marry'd, -- I presume you still serve
+a Lady.
+<pagebreak id="34" />
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> No, Madam, I take care never to come into a marry'd
+Family; the Commands of the Master and Mistress are always
+so <comment type="compiler">A SPACE IN SOURCE TEXT WHERE &quot;s&quot; IN &quot;so&quot; SHOULD BE</comment> contrary,  
+that 'tis impossible to please both.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> There's a main point gain'd. -- My Lord is not     
+marry'd,
+I find. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> But, I wonder, Friend, that in so many good
+Services, you had not a better Provision made for you.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> I don't know how, Madam. -- I had a
+Lieutenancy offer'd me three or four Times; but that is not Bread,
+Madam -- I live much better as I do.
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> Madam, he sings rarely. -- I was thought to do
+pretty well here in the Country till he came; but alack a day,
+I'm nothing to my Brother <font>Martin</font> .
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Does he? Pray, Sir, will you oblige us with a Song?
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> Are you for Passion, or Humour?
+   </dialogue><nonSpeech> <font>Scrub.</font> </nonSpeech><dialogue> O le! he has the purest Ballad about a Trifle --
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> A Trifle! pray, Sir, let's have it.
+   </dialogue><nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> I'm asham'd to offer you a Trifle, Madam: But since
+you command me -- </dialogue><nonSpeech> <font>Sings to the Tune of Sir</font> Simon <font>the        
+King</font> .</nonSpeech><dialogue>
+<comment type="compiler">TWO LINES OF SONG OMITTED.</comment>
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Very well, Sir, we're obliged to you. --
+Something for a pair of Gloves. </dialogue><nonSpeech> <font>Offering him Money.</font> </nonSpeech>
+   <nonSpeech> <font>Arch.</font> </nonSpeech><dialogue> I humbly beg leave to be excused: My Master, Madam,
+pays me; nor dare I take Money from any other Hand without
+injuring his Honour, and disobeying his Commands. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> This is surprising: Did you ever see so pretty a   
+well
+bred Fellow?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The Devil take him for wearing that Livery.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I fancy, Sister, he may be some Gentlemen, a       
+Friend of
+my Lords, that his Lordship has pitch'd upon for his Courage,
+Fidelity, and Discretion to bear him Company in this Dress,
+and who, ten to one was his Second too.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> It is so, it must be so, and it shall be so:  
+-- For I
+like him.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> What! Better than the Count?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The Count happen'd to be the most agreeable Man
+upon the Place; and so I chose him to serve me in my Design
+upon my Husband. -- But I shou'd like this Fellow better in a
+Design upon my self.
+<pagebreak id="35" />
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> But now, Sister, for an Interview with this Lord,  
+and
+this Gentleman; how shall we bring that about?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Patience! you Country Ladies give no Quarter, 
+if
+once you be enter'd. -- Wou'd you prevent their Desires, and
+give the Fellows no wishing-time. -- Look'ye, <font>Dorinda</font> , if
+my Lord <font>Aimwell</font> loves you or deserves you, he'll find a way to
+see you, and there we must leave it. -- My Business comes now
+upon the Tapis -- Have you prepar'd your Brother?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Yes, yes.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> And how did he relish it?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> He said little, mumbled something to himself,      
+promis'd
+to be guided by me: But here he comes -- 
+</dialogue><nonSpeech> <font>Enter</font> Sullen.</nonSpeech>
+   <nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> What singing was that I heard just now?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> The singing in you're Head, my Dear, you
+complain'd of it all Day.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> You're impertinent.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I was ever so, since I became one Flesh with  
+you.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> One Flesh! rather two Carcasses join'd unnaturally
+together.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Or rather a living Soul coupled to a dead Body.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> So, this is fine Encouragement for me.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Yes, my Wife shews you what you must do.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> And my Husband shews you what you must suffer.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> S'death, why can't you be silent?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> S'death, why can't you talk?
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Do you talk to any purpose?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Do you think to any purpose?
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Sister, heark'ye; </dialogue><nonSpeech> <font>Whispers.</font> </nonSpeech><dialogue> I shan't be 
+home till it be
+late. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> What did he whisper to ye?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> That he wou'd go round the back way, come into the
+Closet, and listen as I directed him. -- But let me beg you
+once more, dear Sister, to drop this Project; for, as I told you
+before, instead of awaking him to Kindness, you may provoke
+him to a Rage; and then who knows how far his Brutality may
+carry him?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I'm provided to receive him, I warrant you: But
+here comes the Count, vanish. </dialogue><nonSpeech> <font>Exit Dorinda.</font> </nonSpeech>
+<pagebreak id="36" />
+<nonSpeech> <font>Enter Count</font> Bellair</nonSpeech><dialogue>
+Don't you wonder, <font>Monsieur le Count</font> , that I was not at Church
+this Afternoon?
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> I more wonder, Madam, that you go dere at all, or
+how you dare to lift those Eyes to Heaven that are guilty of so
+much killing.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> If Heaven, Sir, has given to my Eyes with the 
+Power
+of killing, the Virtue of making a Cure, I hope the one may
+atone for the other.
+   </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> O largely, Madam; wou'd your Ladyship be as ready to
+apply the Remedy as to give the Wound? -- Consider, Madam,
+I am doubly a Prisoner; first to the Arms of your General, then
+to your more conquering Eyes; my first Chains are easy, there
+a Ransom may redeem me, but from your Fetters I never shall
+get free.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Alass, Sir, why shou'd you complain to me of
+your Captivity, who am in Chains my self? you know, Sir,
+that I am bound, nay, must <comment type="compiler">SOURCE TEXT: most</comment> be tied up in that  
+particular that
+might give you ease: I am like you, a Prisoner of War -- Of
+War indeed: -- I have given my Parole of Honour; wou'd
+you break yours to gain your Liberty?
+   </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> Most certainly I wou'd, were I a Prisoner among the
+<font>Turks</font> ; dis is your Case; you're a Slave, Madam, Slave to the
+worst of <font>Turks</font> , a Husband.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> There lies my Foible, I confess; no           
+Fortifications,
+no Courage, Conduct, nor Vigilancy can pretend to defend a
+Place, where the Cruelty of the Governour forces the Garrison
+to Mutiny.
+   </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> And where de Besieger is resolv'd to die before de  
+Place -- 
+Here will I fix; </dialogue><nonSpeech> <font>Kneels.</font> </nonSpeech><dialogue> With Tears, Vows, and Prayers
+assault your Heart, and never rise till you surrender; or if I must
+storm -- Love and St. <font>Michael</font> -- And so I begin the Attack -- 
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Stand off -- Sure he hears me not -- And I    
+cou'd
+almost wish he -- did not. -- The Fellow makes love very
+prettily. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> But, Sir, why shou'd you put such a Value 
+upon
+my Person, when you see it despis'd by one that knows it so
+much better.
+   </dialogue><nonSpeech> <font>Co.</font> </nonSpeech><dialogue> He knows it not, tho' he possesses it; if he but    
+knew the
+Value of the Jewel he is Master of, he wou'd always wear it next
+his Heart. <comment type="compiler">PUNCTUATION AS IN SOURCE TEXT</comment> and sleep with it in    
+his Arms.
+<pagebreak id="37" />
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> But since he throws me unregarded from him.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> And one that knows your Value well, comes by, and
+takes you up, is it not Justice. </dialogue><nonSpeech> <font>Goes to lay hold on her.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Sullen <font>with his Sword drawn</font> .</nonSpeech>
+   <nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> hold, Villain, hold.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech> <nonSpeech> <font>Presenting a Pistol.</font> </nonSpeech><dialogue> Do you hold.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> What! Murther your Husband, to defend your Bully.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Bully! for shame, Mr. <font>Sullen</font> ; Bullies    
+wear long
+Swords, the Gentleman has none, he's a Prisoner you know -- 
+I was aware of your Outrage, and prepar'd this to receive your
+Violence, and, if Occasion were, to preserve my self against the
+Force of this other Gentleman.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> O Madam, your Eyes be bettre Fire Arms than your
+Pistol, they nevre miss.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> What! court my Wife to my Face!
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Pray, Mr. <font>Sullen</font> , put up, suspend your   
+Fury for a
+Minute.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> To give you time to invent an Excuse.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I need none.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> No, for I heard every Sillable of your Discourse.
+   </dialogue><nonSpeech> <font>Coun,</font> </nonSpeech><dialogue> Ay! and begar, I tink de Dialogue was vera pretty.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Then I suppose, Sir, you heard something of   
+your
+own Barbarity.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Barbarity! oons what does the Woman               
+<comment type="compiler">SOURCE TEXT: Women</comment> call Barbarity?
+do I ever meddle with you?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> As for you, Sir, I shall take another time.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Ah, begar, and so must I.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Look'e, Madam, don't think that my Anger proceeds
+from any Concern I have for your Honour, but for my own,
+and if you can contrive any way of being a Whore without
+making me a Cuckold, do it and welcome.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Sir, I thank you kindly, you wou'd allow me the
+Sin but rob me of the Pleasure -- No, no, I'm resolv'd
+never to venture upon the Crime without the Satisfaction of seeing 
+you punish'd for't.
+   </dialogue><nonSpeech> <font>Sull.</font> </nonSpeech><dialogue> Then will you grant me this, my Dear? let any Body
+else do you the Favour but that French-man, for I mortally hate
+his whole Generation. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Ah, Sir, that be ungrateful, for begar, I love   
+some
+of your's, Madam. -- </dialogue><nonSpeech> <font>Approaching her.</font> </nonSpeech>
+<pagebreak id="38" /> 
+   <nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> No, Sir. -- 
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> No, Sir, -- Garzoon, Madam, I am not your Husband.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> 'Tis time to undeceive you, Sir, -- I         
+believ'd your
+Addresses to me were no more than an Amusement, and I hope
+you will think the same of my Complaisance, and to convince
+you that you ought, you must know, that I brought you hither
+only to make you instrumental in setting me right with my
+Husband, for he was planted to listen by my Appointment.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> By your Appointment?
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> Certainly.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> And so, Madam, while I was telling twenty        
+Stories to 
+part you from your Husband, begar, I was bringing you 
+together all the while.
+   </dialogue><nonSpeech>Mrs. <font>Sull.</font> </nonSpeech><dialogue> I ask your Pardon, Sir, but I hope this will  
+give
+you a Taste of the Vertue of the English Ladies.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Begar, Madam, your Vertue be vera Great, but     
+Garzoon
+your Honeste de vera little.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5FHAYWO">
+  <dialogueHeader>
+
+    <filename>D5FHAYWO</filename>
+
+    <identifier>5 FICTION D5FHAYWO</identifier>
+
+    <title>BETSY THOUGHTLESS</title>
+
+    <author>HAYWOOD ELIZA</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1751</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">HAYWOOD, ELIZA.</attribution>
+      <frontMatter>THE HISTORY OF MISS BETSY THOUGHTLESS, IN FOUR VOLUMES.
+VOL. I. 
+LONDON. PRINTED BY T. GARDNER, AND SOLD AT HIS PRINTING-OFFICE AT
+COWLEY'S-HEAD, FACING ST. CLEMENT'S CHURCH, IN THE STRAND; AND BY ALL
+BOOKSELLERS IN TOWN AND COUNTRY.
+M,D,CC,LI.
+PP. 33.8 - 34.13    SAMPLE 1
+PP. 48.6 - 55.2     SAMPLE 2
+PP. 59.25 - 72.9    SAMPLE 3
+PP. 85.28 - 95.29   SAMPLE 4
+PP. 125.16 - 126.32 SAMPLE 5
+PP. 139.1 - 149.26  SAMPLE 6
+PP. 187.27 - 203.26 SAMPLE 7
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">REPETITION OF QUOTATION MARKS DOWN LEFT-HAND MARGIN IN SOURCE TEXT 
+IS OMITTED BELOW. QUOTATION MARKS AT BEGINNING AND END OF AN 
+UTTERANCE ARE NOT SUPPLIED BELOW IF MISSING IN SOURCE TEXT. SINGLE 
+QUOTATION MARKS USED IN SOURCE TEXT IN THE DIALOGUE ON PAGES 202-203, 
+ARE RENDERED BELOW AS DOUBLE QUOTATION MARKS FOR CLARITY.</comment>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="33" />
+<comment type="compiler">BETSY AND GAYLAND.</comment>
+<omission type="sentence" /> &quot;What,
+my dear,&quot; </dialogue><nonSpeech>said he, taking her in a free
+manner by the hand,</nonSpeech><dialogue> &quot;have you been so
+closely watched by your guardian and
+guardianesses here, that no kind
+moment offered for you to answer the
+devoirs of your humble servant?&quot; &quot;The
+surest guardians of my fame and peace,&quot;
+</dialogue><nonSpeech>replied she, snatching her hand away,</nonSpeech><dialogue> &quot;is
+the little share of understanding I am
+mistress of, which, I hope, will always
+be sufficient to defend my honour in
+more dangerous attacks, than the rude
+impertinencies of an idle coxcomb.&quot;
+
+   </dialogue><nonSpeech>These words, and the air with which
+they were spoke, one would think, should
+have struck with confusion the person to
+whom they were directed; but Gayland
+was not so easily put out of countenance,
+and looking her full in the face,</nonSpeech><dialogue> -- &quot;Ah,
+Child!&quot; </dialogue><nonSpeech>cried he,</nonSpeech><dialogue> &quot;sure you are not
+in your right senses to-day: -- 
+understanding, -- impertinencies, -- idle
+coxcomb, -- very pleasant i'faith! but upon
+<pagebreak id="34" />
+my soul, if you think these airs become
+you, you are the most mistaken woman
+in the world.&quot; &quot;It may be so,&quot; </dialogue><nonSpeech>cried
+she, ready to burst with inward spite at
+his insolence,</nonSpeech><dialogue> &quot;but I should be yet more
+mistaken, if I were capable of thinking
+a wretch, like you, worthy of any thing
+but contempt.&quot; </dialogue><nonSpeech>With these words she
+flung out of the room, and he pursued
+her with a horse-laugh, till she was out of
+hearing, and then went into the
+dining-room, where he found lady Mellasin, and
+several who had come to visit her.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="48" />
+<comment type="compiler">MR. GOODMAN AND THE ALDERMAN.</comment>
+   </dialogue><nonSpeech>After having ended what they had to
+say to each other upon business,</nonSpeech><dialogue> &quot;Mr.
+Goodman,&quot; </dialogue><nonSpeech>said the alderman,</nonSpeech><dialogue> &quot;we
+have long been friends, I always thought
+you an honest, fair-dealing man, and
+am, therefore, very much surprized you
+should go about to put upon me in the
+manner you have lately done.&quot; &quot;Put
+upon you, sir,&quot; </dialogue><nonSpeech>cried the merchant,</nonSpeech><dialogue> &quot;I
+know not what you mean, and am very
+certain I never did any thing that
+might call in question my integrity,
+either to you or any one else.&quot; &quot;It
+was great integrity indeed,&quot; </dialogue><nonSpeech>resumed
+the alderman, with a sneer,</nonSpeech><dialogue> &quot;to
+endeavour to draw my only son into a
+clandestine marriage, with the girl you
+have at your house.&quot; </dialogue><nonSpeech>Mr. Goodman
+was astonished, as well he might, at this
+accusation, and perceiving by some other
+words that the alderman let fall, that he
+was well acquainted with the love young
+Saving had professed for miss Betsy, frankly
+related to him all that he knew of the
+courtship, and the method he had taken
+to put a stop to it.</nonSpeech><dialogue> &quot;That was not
+<pagebreak id="49" />
+enough, sir,&quot; </dialogue><nonSpeech>cried the alderman hastily,</nonSpeech><dialogue>
+&quot;you should have told me of it. -- Do
+you think young folks, like them,
+would have regarded your forbidding?
+-- No, no; I'll warrant you they would
+have found some way or other to come
+together before now, and the boy might
+have been ruined, if I had not been
+informed by other hands how things were
+carried on, and put it out of the power
+of any of you to impose upon me.
+The girl may spread her nets to catch
+some other woodcock, if she can, -- 
+thanks to heaven, and my own
+prudence, my son is far enough out of her
+reach.&quot;
+<pagebreak id="50" />
+<comment type="compiler">GOODMAN AND THE ALDERMAN CONTINUE.</comment>
+   &quot;You take a great deal of pains to set
+her off,&quot; </dialogue><nonSpeech>said the alderman,</nonSpeech><dialogue> &quot;and since
+you married a court-lady not worth a
+groat, have got all the romantic idle
+notions of the other end of town,
+as finely as if you had been bred there.
+A good family! -- very pleasant i'faith.
+Will a good family go to market? -- 
+Will it buy a joint of mutton at the
+butcher's? -- Or a pretty gown at the
+mercer's? Then, a pretty fortune you
+say; -- enough it may be to squander
+away at cards and masquerades, for a
+month or two. She has suitable
+accomplishments too; -- yes, indeed, they
+are suitable ones, I believe: -- I
+suppose she can sing, dance, and jabber a
+little French; but I'll be hanged if she
+knows how to make a pye, or a
+pudding, or to teach her maid to do it.&quot;
+<pagebreak id="51" />
+<comment type="compiler">GOODMAN AND THE ALDERMAN CONTINUE.</comment>
+<omission type="line" /> I
+sent,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;the night before he
+was to go, his portmanteau, and what
+other luggage I thought he would have
+occasion for, to the inn where the
+Harwich stage puts up, and making him
+be called up very early in the morning,
+told him, he must go a little way out
+of town with me, upon extraordinary
+business: -- he seemed very unwilling,
+said he had appointed that morning to
+meet a gentleman, and begged I would
+delay the journey to the next day, or
+<pagebreak id="52" />
+even till the afternoon. What caused
+this backwardness, I cannot imagine,
+for I think it was impossible he could
+know my designs on this score; but,
+whatever was in his head, I took care
+to disappoint it: -- I listened to none of
+his excuses, nor trusted him out of my
+sight, but forced him to go with me to
+the coach, in which I had secured a
+couple of places. He was horridly
+shocked when he found where he was
+going, and would fain have perswaded
+me to repeal his banishment, as he
+called it: -- I laughed in my sleeve, but
+took no notice of the real motive I had
+for sending him away, and told him,
+there was an absolute necessity for his
+departure; -- that I had a business of
+the greatest importance at Rotterdam,
+in which I could trust nobody but
+himself to negotiate, and that he would
+find, in his trunk, letters and other
+papers, which would instruct him how
+to act.
+
+   &quot;In fine,&quot; </dialogue><nonSpeech>continued the alderman,</nonSpeech><dialogue> &quot;I
+went with him aboard, staid with
+him till they were ready to weigh
+anchor, then returned, and stood on
+the beach till the ship sailed quite
+out of sight, so that if my gentleman
+had a thought of writing to his mistress,
+<pagebreak id="53" />
+he had not the least opportunity for it.&quot;
+<comment type="compiler">GOODMAN AND THE ALDERMAN AGREE TO STOP COMMUNICATION BETWEEN
+BETSY AND SAVING.</comment>
+<omission type="sentence" /> &quot;by which means,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;all
+communication between the young
+people will soon be put an end to; he
+will grow weary of writing when he
+receives no answers, and she of thinking
+of him as a lover, when she finds he
+ceases to tell her he is so.&quot;
+<pagebreak id="54" />
+<comment type="compiler">GOODMAN AND BETSY.</comment>
+<omission type="sentence" /> &quot;and,&quot; </dialogue><nonSpeech>added he,</nonSpeech><dialogue> &quot;the old 
+man is so incensed against him, for
+having a thought of that kind in your
+favour, that he has sent him beyond
+sea, -- I know not to what part; --
+but it seems he is never to come back,
+till he has given full assurances the
+liking he has for you is utterly worn off.&quot;
+
+   &quot;He might have spared himself the
+pains,&quot; </dialogue><nonSpeech>said miss Betsy, blushing with
+disdain,</nonSpeech><dialogue> &quot;his son could have informed
+him, how little I was inclinable to listen
+to any thing he said on the score of
+love; and I myself, if he had asked me
+the question, would have given him the
+strongest assurances that words could
+form, that if ever I changed my
+condition, which heaven knows I am far
+from thinking on as yet, I should
+<pagebreak id="55" />
+never be prevailed upon to do it, by
+any merits his son was possessed of.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="59" />
+<comment type="compiler">LADY TRUSTY TO MISS BETSY ON THE PLEASURES OF LONDON.</comment> 
+<omission type="sentence" />
+&quot;but then&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;the too frequent
+repetition of them, may so much
+engross the mind, as to take it off from
+other objects, which ought to have their
+share in it: besides,&quot; </dialogue><nonSpeech>continued she,</nonSpeech><dialogue>
+&quot;there are but too frequent proofs, that
+<pagebreak id="60" />
+an innate principle of virtue is not
+always a sufficient guard against the many
+snares laid for it, under the shew of
+innocent pleasures, by wicked and 
+designing persons of both sexes; nor can it
+be esteemed prudence to run ones self
+into dangers meerly to shew our strength
+in overcoming them; nor, perhaps,
+would even the victory turn always to
+our glory: the world is censorious,
+and seldom ready to put the best
+construction on things; so that reputation
+may suffer, though virtue triumphs.&quot;
+<pagebreak id="61" />
+<comment type="compiler">LADY TRUSTY TALKS TO MISS BETSY OF MISS FLORA.</comment>
+<omission type="sentence" /> and, therefore, </dialogue><nonSpeech>pursued she,</nonSpeech><dialogue> I 
+should be glad, methinks, to see you
+separated from that young lady, though it were
+but for a small time; </dialogue><nonSpeech>and then gave her to
+understand, how great a pleasure it would 
+be to her, to get her down with her to
+L--e, if it could be any way
+contrived, that she could go without miss
+Flora.</nonSpeech><dialogue>
+
+   &quot;As I have been so long from home,&quot;
+</dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;I know I shall have all the
+gentry round the country to welcome
+me at my return, and if you should find
+the company less polite, than those you
+leave behind, it will, at least, diversify
+the scene, and render the entertainments
+of London new to you a second time,
+when you come back.&quot;
+
+   </dialogue><nonSpeech>Miss Betsy found in herself a strong
+inclination to comply with this proposal, and
+told lady Trusty, she should think herself
+happy in passing the whole summer with
+her; and as to miss Flora, the same offer
+might be made to her, without any danger
+of her accepting it.</nonSpeech><dialogue> &quot;I am not of your
+opinion,&quot; </dialogue><nonSpeech>said the other;</nonSpeech><dialogue> &quot;the girl has
+no fortune, but what mr. Goodman shall
+be pleased to give her; which cannot
+be very considerable, as he has a nephew
+in the East-Indies, whom he is extremely
+<pagebreak id="62" />
+fond of, and will make his heir. Lady
+Mellasin would, therefore, catch at the
+opportunity of sending her daughter to
+a place where there are so many
+gentlemen of estates, among whom she might
+have a better chance for getting a
+husband, than she can have in London,
+where her character would scarce entitle
+her to such a hope. I will however,&quot;
+</dialogue><nonSpeech>pursued she,</nonSpeech><dialogue> &quot;run the risque, and choose
+rather to have a guest, whose company
+I do not so well approve of, than be
+deprived of one I so much value.&quot;
+<pagebreak id="64" />
+<comment type="compiler">FLORA, BETSY AND LADY MELLASIN HAVE BOUGHT SILKS.</comment>
+   </dialogue><nonSpeech>The young ladies fell to reviewing their
+silks; but miss Betsy was no way satisfied
+with her's: the more she looked upon it,
+the worse it appeared to her.</nonSpeech><dialogue> &quot;I shall
+never wear this with any pleasure,&quot;
+</dialogue><nonSpeech>said she;</nonSpeech><dialogue> &quot;I wish the man had it in his
+<pagebreak id="65" />
+shop again, for I think it quite ugly.&quot;
+</dialogue><nonSpeech>Miss Flora told her, that she wondered at
+her, that the thing was perfectly handsome,
+and that my lady's judgment was never
+before called in question.</nonSpeech><dialogue> &quot;That may be,&quot;
+</dialogue><nonSpeech>replied miss Betsy,</nonSpeech><dialogue> &quot;but certainly every
+one ought to please their own fancy in
+the choice of their cloaths; for my part
+I shall never endure to see myself in it.&quot;
+&quot;Not when their fancy happens to differ
+from that of those who know better than
+themselves what is fit for them,&quot; </dialogue><nonSpeech>cried
+miss Flora;</nonSpeech><dialogue> &quot;and, besides, have the power
+over them.&quot; </dialogue><nonSpeech>She spoke this with so much
+pertness, that miss Betsy, who had a violent
+spirit, was highly provoked.</nonSpeech><dialogue> &quot;Power over
+them!&quot; </dialogue><nonSpeech>cried she,</nonSpeech><dialogue> &quot;I do not know what
+you mean, miss Flora; mr. Goodman is
+one of my guardians indeed, but I don't
+know why that should entitle his lady to
+direct me in what I shall wear.&quot;
+
+   </dialogue><nonSpeech>Mr. Goodman, who happened to be
+looking over some papers in a little closet
+he had within his parlour, hearing part of
+this dispute, and finding it was like to
+grow pretty warm, came out, in hopes of
+moderating it. On hearing miss Betsy's
+complaint, he desired to see the silk; which
+being shewn him,</nonSpeech><dialogue> &quot;I do not pretend,&quot;
+</dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;to much understanding in these
+things; but, methinks, it is very
+<pagebreak id="66" />
+handsome.&quot; It would do well enough for
+winter, sir,&quot; </dialogue><nonSpeech>replied miss Betsy;</nonSpeech><dialogue> &quot;but
+it is too hot and heavy for summer;
+besides, it is so thick and clumsy, it
+would make me look as big again as I
+am: I'll not wear it, I am resolved, in
+the country, whatever I do when I come
+to town, in the dark weather.
+
+   &quot;Well,&quot; </dialogue><nonSpeech>said mr. Goodman,</nonSpeech><dialogue> &quot;I will
+speak to my lady to get it changed
+for something else.&quot; &quot;Indeed, sir,&quot;
+</dialogue><nonSpeech>cried miss Flora,</nonSpeech><dialogue> &quot;I am sure my mamma
+will do no such thing, and take it very
+ill to hear it proposed.&quot; &quot;You need
+not put yourself in any heat,&quot; </dialogue><nonSpeech>replied
+miss Betsy,</nonSpeech><dialogue> &quot;I don't desire she should be
+troubled any farther about it; but, sir,&quot;
+</dialogue><nonSpeech>continued she, turning to mr. Goodman,</nonSpeech><dialogue>
+&quot;I think I am now at an age capable of
+choosing for myself, in the article of
+dress; and as it has been settled between
+you and sir Ralph Trusty, that out of
+the income of my fortune, thirty pounds
+a year should be allowed for my board,
+twenty pounds for my pocket expences,
+and fifty for my cloaths, I think I ought
+to have the two latter entirely at my own
+disposal, and to lay it out as I think
+fit, and not be obliged, like a
+charity-child, to wear whatever livery my
+benefactor shall be pleased to order.&quot; </dialogue><nonSpeech>She
+<pagebreak id="67" />
+spoke this with so much spleen, that mr.
+Goodman was a little nettled at it, and
+told her, that what his wife had done was
+out of kindness and good-will, which since
+she did not take as was meant, she should
+have her money to do with as she would.</nonSpeech><dialogue>
+
+   &quot;That is all I desire,&quot; </dialogue><nonSpeech>answered she,</nonSpeech><dialogue>
+&quot;therefore be pleased to let me have twenty
+guineas now, or, if there does not
+remain so much in your hands, I will
+ask sir Ralph to advance it, and you
+may return it to him when you
+settle accounts.&quot; &quot;No, no,&quot; </dialogue><nonSpeech>cried
+the merchant hastily,</nonSpeech><dialogue> &quot;I see no reason to
+trouble my good friend, sir Ralph, on
+such a frivolous matter. You shall
+have the sum you mention, miss Betsy,
+whether so much remains out of the
+hundred pounds a year set apart for
+your subsistance, or not, as I can but
+deduct it out of the next payment; but
+I would have you manage with
+discretion, for you may depend, that the
+surplus of what was at first agreed upon,
+shall not be broke into, but laid up to
+increase your fortune, which, by the
+time you come of age, I hope, will be
+pretty handsomely improved.
+
+   </dialogue><nonSpeech>Miss Betsy then assured him, that she
+doubted not of his zeal for her interest,
+<pagebreak id="68" />
+and hoped she had not offended him in
+any thing she had said.</nonSpeech><dialogue> &quot;No, no,&quot;
+</dialogue><nonSpeech>replied he,</nonSpeech><dialogue> &quot;I always make allowances for
+the little impatiencies of persons of
+your sex and age, especially when dress
+is concerned.&quot; <omission type="line" />
+<pagebreak id="71" />
+<comment type="compiler">BETSY HAS DISCOVERED THAT GAYLAND HAS VISITED FLORA.</comment>
+   </dialogue><nonSpeech>She was, however, beginning to
+meditate on this point, when she heard miss
+Flora come up stairs, calling at every step,</nonSpeech><dialogue>
+&quot;miss Betsy! -- miss Betsy! -- where are
+you?&quot; </dialogue><nonSpeech>Gayland was gone, and his
+young mistress being told miss Betsy was
+come home, guessed it was she who had
+given an interruption to their pleasures,
+by coming to the door; she, therefore, as
+she could not imagine her so perfectly
+convinced, contrived to disguise the whole,
+and worst of the truth, by revealing a part
+of it; and as soon as she had found her,</nonSpeech><dialogue>
+&quot;Lord, miss Betsy!&quot; </dialogue><nonSpeech>cried she, with an
+unparalell'd assurance,</nonSpeech><dialogue> &quot;where have you
+been? -- how do you think I have been
+served by that cursed toad Gayland?
+he came up into our chamber, where
+the mantua-maker and I were, and as
+soon as she was gone, locked the door,
+and began to kiss and touze me so, that
+I protest I was frighted almost out of
+my wits. The devil meant no harm
+though, I believe, for I got rid of him
+easy enough; but I wish you had rapped
+heartily at the door, and obliged him
+to open it, that we both might have
+rated him for his impudence.&quot; &quot;Some
+people have a great deal of impudence,
+<pagebreak id="72" />
+indeed,&quot; </dialogue><nonSpeech>replied miss Betsy, astonished
+at her manner of bearing it off.</nonSpeech><dialogue> &quot;Aye,
+so they have, my dear,&quot; </dialogue><nonSpeech>rejoined the
+other, with a careless air;</nonSpeech><dialogue> &quot;but, prithee,
+where have you been rambling by your
+self?&quot; &quot;No farther than
+Bedford-street,&quot; </dialogue><nonSpeech>answered miss Betsy:</nonSpeech><dialogue> &quot;you may
+see on what errand,&quot; </dialogue><nonSpeech>continued she,
+pointing to the silks,</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<pagebreak id="85" />
+<comment type="compiler">BETSY AND FLORA HAVE MET TWO YOUNG GENTLEMEN IN OXFORD.</comment>
+<omission type="line" /> &quot;Heaven!&quot; </dialogue><nonSpeech>cried he,</nonSpeech><dialogue>
+&quot;how divinely lovely do you now appear?
+the goddess of the spring, nor Venus's
+self, was ever painted half so beautiful.
+<pagebreak id="86" />
+What eyes! -- what a mouth! -- and
+what a shape!&quot; </dialogue><nonSpeech>continued he, 
+surveying her, as it were, from head to foot,</nonSpeech><dialogue>
+&quot;how exquisitely turned! -- how taper! --
+how slender! -- I don't believe you
+measure half a yard round the waist.&quot;
+</dialogue><nonSpeech>In speaking these words, he put his
+handkerchief about her waist, after which he
+tied it round his head, repeating these lines
+of mr. Waller's:</nonSpeech><dialogue>
+<comment type="compiler">VERSE OMITTED.</comment>
+   &quot;O fie upon it,&quot; </dialogue><nonSpeech>said miss Betsy,
+laughing, and snatching it from his head,</nonSpeech><dialogue>
+&quot;this poetry is stale, I should rather have
+expected from an Oxonian, some fine
+thing of his own extempore, on this
+occasion; which, perhaps, I might have
+been vain enough to have got printed
+in the monthly magazines.&quot;
+
+   &quot;Ah! madam,&quot; </dialogue><nonSpeech>replied he, looking
+on her with dying languishments,</nonSpeech><dialogue> &quot;where
+the heart is deeply affected, the brain
+seldom produces any thing but
+incongruous ideas. Had Sacarissa been
+<pagebreak id="87" />
+mistress of the charms you are, or had
+Waller loved like me, he had been less
+capable of writing in the manner he
+did.
+<pagebreak id="88" />
+<comment type="compiler">FLORA AND THE OTHER GENTLEMAN ARE GONE: BETSY THINKS 
+HER GENTLEMAN IS TAKING GREAT LIBERTIES.</comment>
+<omission type="sentence" /> &quot;Bless me,&quot; </dialogue><nonSpeech>cried 
+she,</nonSpeech><dialogue> &quot;what is the meaning of all this? --
+where are our friends?&quot; &quot;They are
+gone,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;to pay the debt,
+which love, and youth, and beauty
+challenge; let us not be remiss, nor waste
+the precious moments in idle scruples.
+Come, my angel!&quot; </dialogue><nonSpeech>pursed he,
+endeavouring to get her once more into his
+arms,</nonSpeech><dialogue> &quot;make me the happiest of mankind,
+and be as divinely good as you are fair.&quot;
+
+   &quot;I do not understand you, sir,&quot;
+</dialogue><nonSpeech>replied she,</nonSpeech><dialogue> &quot;but neither desire, nor will stay
+to hear an explanation.&quot; </dialogue><nonSpeech>She spoke this
+with somewhat of an haughty air, and was
+making towards the door; but he was far
+from being intimidated, and, instead of
+suffering her to pass, he seized her a little
+roughly with one hand, and with the other
+made fast the door;</nonSpeech><dialogue> &quot;Come, come, my
+dear creature,&quot; </dialogue><nonSpeech>cried he,</nonSpeech><dialogue> &quot;no more
+resistance, you see you are in my power,
+and the very name of being so, is
+sufficent to absolve you to yourself, for any
+act of kindness you may bestow upon
+me; be generous then, and be assured it
+shall be an inviolable secret.&quot;
+<pagebreak id="89" />
+<comment type="compiler">FRANCIS, BETSY'S BROTHER INTERRUPTS.</comment>
+<omission type="line" /> &quot;What is the meaning of
+this,&quot; </dialogue><nonSpeech>said he:</nonSpeech><dialogue> &quot;Sister, how came you
+here?&quot; &quot;Ask me no questions at
+present,&quot; </dialogue><nonSpeech>replied she, scarce able to speak,
+so strangely had her late fright seized on
+her spirits,</nonSpeech><dialogue> &quot;but see me safe from this
+cursed house, and that worst of men.&quot;
+</dialogue><nonSpeech>Her speaking in this manner, made mr.
+<pagebreak id="90" />
+Francis apprehend the whole, and perhaps
+more than the truth.</nonSpeech><dialogue> &quot;How, sir!&quot; </dialogue><nonSpeech>said
+he, darting a furious look on the
+gentleman-commoner,</nonSpeech><dialogue> &quot;what is it I hear? --
+have you dared to -- ?&quot; &quot;Whatever
+I have dared to,&quot; </dialogue><nonSpeech>interrupted the other,</nonSpeech><dialogue>
+&quot;I am capable of defending.&quot; &quot;'Tis
+well,&quot; </dialogue><nonSpeech>rejoined the brother of miss Betsy,</nonSpeech><dialogue>
+&quot;perhaps, I may put you to the trial;
+but this is not a time or place.&quot; <omission type="line" />
+<comment type="compiler">FLORA AND HER GENTLEMAN APPEAR.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>they saw her coming out of
+the garden, led by the young student,
+who, as soon as he beheld mr. Francis,
+cried,</nonSpeech><dialogue> &quot;ha! Frank, how came you here?
+you look out of humour.&quot; &quot;How I
+came here, it matters not,&quot; </dialogue><nonSpeech>replied he,
+sullenly;</nonSpeech><dialogue> &quot;and as to my being out of
+humour, perhaps you may know better
+than I yet do, what cause I have for
+being so.&quot;
+<pagebreak id="92" />
+<comment type="compiler">BETSY HAS TOLD HER BROTHER ABOUT THE GENTLEMEN AND 
+IS ADDRESSED BY FLORA.</comment>
+<omission type="sentence" /> &quot;By your own account,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue>
+&quot;no harm was done to you; but some
+people love to make a bustle about
+nothing.&quot; &quot;And some people,&quot; </dialogue><nonSpeech>replied
+miss Betsy, tartly,</nonSpeech><dialogue> &quot;love nothing but the
+gratifications of their own passions, and
+having no sense of virtue or modesty
+themselves, can have no regard to that
+<pagebreak id="93" />
+of another.&quot; &quot;What do you mean,
+miss?&quot; </dialogue><nonSpeech>cried the other, with a pert air.</nonSpeech><dialogue>
+&quot;My meaning is pretty plain,&quot; </dialogue><nonSpeech>rejoined
+miss Betsy;</nonSpeech><dialogue> &quot;but since you affect so much
+ignorance, I must tell you, that the
+expectations of a second edition of the
+same work mr. Gayland had helped
+you to compose, though from another
+quarter, tempted you to sneak out of
+the room, and leave your friend in
+danger of falling a sacrifice to what her
+soul most detests and scorns.&quot; </dialogue><nonSpeech>These
+words stung miss Flora to the quick; her
+face was in an instant covered with a
+scarlet blush, and every feature betrayed the
+confusion of her mind; but recovering
+herself from it, much sooner than most
+others of her age could have done:</nonSpeech><dialogue> &quot;Good
+lack,&quot; </dialogue><nonSpeech>cried she,</nonSpeech><dialogue> &quot;I fancy you are
+setting up for a prude; but pray, how
+came mr. Gayland into your head? --
+What, because I told you he innocently
+romped with me one day in the 
+chamber, are you so censorious as to infer
+any thing criminal passed between us?&quot;
+&quot;Whatever I infer,&quot; </dialogue><nonSpeech>replied miss Betsy,
+disdainfully,</nonSpeech><dialogue> &quot;I have better vouchers for
+the truth of, than your report, and
+would advise you, when you go home,
+to get the chink in the pannel of the
+wainscot of my lady's dressing-room
+stopped up, or your next rendezvous
+<pagebreak id="94" />
+with that gentleman, may possibly have
+witnesses of more ill-nature than
+myself.&quot; &quot;That can scarcely be,&quot; </dialogue><nonSpeech>said
+miss Flora, ready to burst with vexation;</nonSpeech><dialogue>
+&quot;but don't think I value your little
+malice; you are only angry because he
+slighted the advances you made him,
+and took all opportunities to shew how
+much his heart and judgment gave
+the preference to me.&quot; </dialogue><nonSpeech>These words
+so piqued the vanity of miss Betsy, that
+not able to bear she should continue in the
+imagination of being better liked than
+herself, though even by the man she hated,
+told her the sollicitations he had made to
+her, the letter she had received from him,
+and the rebuff she had given him upon
+it;</nonSpeech><dialogue> &quot;so that,&quot; </dialogue><nonSpeech>pursued she,</nonSpeech><dialogue> &quot;it was not
+till after he found there was no hopes
+of gaining me, that he carried his
+devoirs to you.&quot;
+
+   </dialogue><nonSpeech>Miss Flora was more nettled at this
+eclaircisement, than she was at the
+discovery she now perceived the other had
+made of her intrigue: she pretended,
+however, not to believe a word of what
+she had said; but willing to evade all
+farther discourse on that head, returned to
+the adventure they had just gone through
+with the Oxonians.</nonSpeech><dialogue> &quot;Never expect,&quot;
+</dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;to pass it upon any one of
+<pagebreak id="95" />
+common sense, that if you had not a
+mind to have been alone with that
+terrible man, as you now describe him,
+you would have staid in the room after
+I was gone, and called to you to
+follow.&quot;
+<comment type="compiler">BETSY AND FLORA CONTINUE.</comment>
+<omission type="sentence" /> &quot;Come, come, miss Betsy, 'tis
+a folly to think to impose upon the
+world by such shallow artifices: -- what
+your inclinations are is evident enough;
+any one may see, that if it had not been
+for your brother's unseasonable
+interruption, no-body would ever have
+heard a word of those insults you now
+so heavily complain of.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="125" />
+<comment type="compiler">LADY MELLASIN APPEARS DRESSED IN A HOODED CLOAK: 
+FLORA AND BETSY SEE HER.</comment>
+<omission type="line" /> &quot;Is your ladyship
+going out in that dress,&quot; </dialogue><nonSpeech>cried miss Flora;
+but miss Betsy said nothing.</nonSpeech><dialogue> &quot;Aye,
+child,&quot; </dialogue><nonSpeech>replied the lady, somewhat
+faultering in her speech,</nonSpeech><dialogue> &quot;a poor relation, who
+they say is dying, has sent to beg to see
+me.&quot; <omission type="line" />
+<pagebreak id="126" />
+<comment type="compiler">FLORA TO BETSY.</comment>
+<omission type="sentence" /> &quot;I am
+resolved not to be infected with it, so
+you must not take it ill if I leave you
+alone for a few hours; for I should
+think it a sin against common-sense,
+to sit moping at home without shewing
+myself to any one soul in the world,
+after having taken all this pains in
+dressing.&quot; </dialogue><nonSpeech>Miss Betsy assured her, as
+she might do with a great deal of
+sincerity, that she should not be at all
+displeased to be entirely free from any
+company whatsoever for the whole evening;
+and to prove the truth of what she said,
+gave orders that instant to be denied to
+whoever should come to visit her.</nonSpeech><dialogue> &quot;Well,&quot;
+</dialogue><nonSpeech>cried miss Flora, laughing,</nonSpeech><dialogue> &quot;I shall give
+your compliments, however, where I
+am going,&quot; </dialogue><nonSpeech>and then mentioned the
+names of some persons she had just then
+taken into her head to visit.</nonSpeech><dialogue> &quot;As you
+please for that,&quot; </dialogue><nonSpeech>replied miss Betsy,
+with the same gay air;</nonSpeech><dialogue> &quot;but don't tell
+them it is because I am eaten up with
+the vapours, that I choose to stay at
+home rather than carry my compliments
+in person; for if ever I find out,&quot;
+</dialogue><nonSpeech>continued she,</nonSpeech><dialogue> &quot;that you are so mischievous,
+I shall contrive some way or other to
+be revenged on you.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="139" />
+<comment type="compiler">BETSY IS WRITING A LETTER TO A YOUNG LADY CALLED MISS FORWARD, 
+WHEN FLORA ENTERS.</comment>
+   </dialogue><nonSpeech>Miss Flora had not been present when
+the maid delivered the letter to miss Betsy;
+but coming into the chamber just as she
+had finished, and was sealing up the 
+answer to it:</nonSpeech><dialogue> &quot;So,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;have I
+catched you? Pray what new lover
+have you been writing to this
+morning?&quot; </dialogue><nonSpeech>It was in vain that miss Betsy
+told her, she never yet had seen the man
+she thought worthy of a letter from her,
+on the score of love: the other persisted in
+her asseverations; and miss Betsy to silence
+her railery was obliged to shew her some
+part of the letter she had received from
+miss Forward.
+
+   It being near breakfast-time they went
+down together into the parlour, and as
+they were drinking their Coffee,</nonSpeech><dialogue> &quot;Well,
+pretty lady,&quot; </dialogue><nonSpeech>said mr. Goodman to miss
+Betsy, with a smile,</nonSpeech><dialogue> &quot;how did you like
+the gentleman that dined here 
+yesterday.&quot; </dialogue><nonSpeech>This question so much surprised
+her, that she could not help blushing.</nonSpeech><dialogue>
+&quot;Like him, Sir,&quot; </dialogue><nonSpeech>replied she,</nonSpeech><dialogue> &quot;I did
+not take any notice of him. -- I
+remember a stranger was here, and staid
+a good while, and that is all; for I
+neither observed any thing he said, or
+did, or thought on him since.&quot; &quot;The
+agreeable confusion,&quot; </dialogue><nonSpeech>cried mr.
+<pagebreak id="140" />
+Goodman, gaily,</nonSpeech><dialogue> &quot;you are in at my
+mentioning him, makes me believe you remarked
+him more than you are willing to
+acknowlege, and I am very glad of it. --
+You do him but justice I assure you,
+for he is very much in love with you.
+
+   &quot;Lord, sir,&quot; </dialogue><nonSpeech>said miss Betsy, blushing
+still more,</nonSpeech><dialogue> &quot;I cannot imagine what makes
+you talk so; I don't suppose the man
+thinks of me any more than I do of him.&quot;
+&quot;That may be,&quot; </dialogue><nonSpeech>rejoined he, laughing
+outright. Lady Mellasin then took up
+the word, and told her husband, he was
+very merry that morning.</nonSpeech><dialogue> &quot;Aye,&quot; </dialogue><nonSpeech>said
+he,</nonSpeech><dialogue> &quot;the hurry of spirits I have put poor
+miss Betsy in, has made me so; but I
+can assure you the thing is very serious;
+but,&quot; </dialogue><nonSpeech>continued he,</nonSpeech><dialogue> &quot;you shall know 
+the whole of it.&quot;
+<pagebreak id="141" />
+<comment type="compiler">GOODMAN TELLS BETSY THAT THE VISITOR, MR. STAPLE, HAS HIS 
+PERMISSION TO PROPOSE TO BETSY.</comment>
+<omission type="line" /> &quot;Having this
+sanction,&quot; </dialogue><nonSpeech>continued mr. Goodman,</nonSpeech><dialogue>
+&quot;and believing it may be a very proper
+match for both of you, I brought
+him home with me to dinner
+yesterday, and should be glad to know how
+far you think you can approve of the
+offer before I give him my consent to
+make it.&quot;
+
+   &quot;I have already told you, sir,&quot; </dialogue><nonSpeech>replied
+miss Betsy,</nonSpeech><dialogue> &quot;that I took but little notice
+of the gentleman; -- or, if I had,
+should never have asked myself the
+<pagebreak id="142" />
+question, whether I could like him or
+not; for as to marriage, I do assure
+you, sir, it is a thing that has never
+yet entered into my head.&quot; &quot;Nay, as
+to that,&quot; </dialogue><nonSpeech>returned he,</nonSpeech><dialogue> &quot;it is time
+enough, indeed. -- A good husband,
+however, can never come unseasonably.
+-- I shall tell him, he may visit you,
+and leave you to answer the addresses
+according to the dictates of your heart.&quot;
+<pagebreak id="144" />
+<comment type="compiler">BETSY GOES TO SEE MISS FORWARD.</comment>
+<omission type="line" /> &quot;Here is a lady wants
+you,&quot; </dialogue><nonSpeech>said the hag, who ushered in
+miss Betsy.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">BETSY AND MISS FORWARD.</comment>
+&quot;My dear miss Betsy,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;I do
+not wonder you are alarmed at
+<pagebreak id="145" />
+finding me in a condition so different from
+what you might have expected: my
+letter indeed gave you a hint of some
+misfortunes that had befallen me; but I
+forbore letting you know of what
+nature they were, because the facts,
+without the circumstances, which would have
+been too long to communicate by
+writing, might have made me appear more
+criminal, than I flatter myself you will
+think I really am, when you shall be
+told the whole of my unhappy story.&quot;
+
+   </dialogue><nonSpeech>Miss Betsy then assured her, she should
+take a friendly part in every thing that had
+happened to her, and that nothing could
+oblige her more than the confidence she
+mentioned: on which the other taking her
+by the hand, and letting fall some tears,
+said,</nonSpeech><dialogue> &quot;O miss Betsy! miss Betsy, -- I have
+suffered much, and if you find a great
+deal to blame me for, you will find yet
+much more to pity.&quot; </dialogue><nonSpeech>Then after
+having paused a little, as if to recollect the
+passages she was about to relate, began in
+this manner:</nonSpeech><dialogue>
+<comment type="compiler">MISS FORWARD'S NARRATIVE ABOUT HER ADVENTURE WITH A MAN 
+IN A LORD'S GARDEN OMITTED.</comment>
+<pagebreak id="149" />
+   &quot;Heavens!&quot; </dialogue><nonSpeech>cried miss Betsy,
+interrupting her,</nonSpeech><dialogue> &quot;how I envied your
+happiness a moment since, and how I tremble
+for you now.&quot;
+
+   &quot;O miss Betsy,&quot; </dialogue><nonSpeech>replied miss Forward,</nonSpeech><dialogue>
+&quot;every thing would have been done in
+that forgetful hour; but as I have
+already said, there was not an opportunity.&quot;
+<comment type="compiler">THE REST OF MISS FORWARD'S NARRATIVE OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="187" />
+<comment type="compiler">GOODMAN AND BETSY.</comment>
+<omission type="sentence" /> &quot;miss 
+Betsy,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;you have used me
+very ill: I did not think you would
+<pagebreak id="188" />
+have made a fool of me in the manner
+you have done.&quot; &quot;Bless me, sir,&quot;
+</dialogue><nonSpeech>cried she,</nonSpeech><dialogue> &quot;in what have I offended?&quot;
+&quot;You have not only offended against me,&quot;
+</dialogue><nonSpeech>answered he, very hastily,</nonSpeech><dialogue> &quot;but also
+against your own reason, and common
+understanding: you are young, 'tis
+true, yet not so young as not to know
+it is both ungenerous and silly to
+impose upon your friends.&quot; &quot;I scorn the
+thought, sir, of imposing upon any
+body,&quot; </dialogue><nonSpeech>said she;</nonSpeech><dialogue> &quot;I therefore desire,
+sir, you will tell me what you mean
+by so unjust an accusation.&quot; &quot;Unjust!&quot;
+</dialogue><nonSpeech>resumed he,</nonSpeech><dialogue> &quot;I appeal to the whole world,
+if it were well done of you to suffer
+me to encourage my friend's courtship
+to you, when at the same time your
+brother had engaged you to receive the
+addresses of another.&quot;
+
+   </dialogue><nonSpeech>Miss Betsy, though far from thinking
+it a fault in her to hear the proposals of
+a hundred lovers, had as many offered
+themselves, was yet a little shocked at the
+reprimand given her by mr. Goodman;
+and not being able presently to make any
+reply to what he had said, he took a
+letter he had just received from her brother
+out of his pocket, and threw it on the
+table, with these words:</nonSpeech><dialogue> &quot;That will shew,&quot;
+</dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;whether I have not cause to
+<pagebreak id="189" />
+resent your behaviour in this point.&quot;
+</dialogue><nonSpeech>Perceiving she was about to take it up,</nonSpeech><dialogue>
+&quot;Hold,&quot; </dialogue><nonSpeech>cried he,</nonSpeech><dialogue> &quot;my wife shall read
+it, and be the judge between us.&quot;
+<comment type="compiler">THE LETTER FROM BETSY'S BROTHER IS READ: IT MENTIONS THAT 
+A MR. TRUEWORTH IS COMING TO COURT HER.</comment>
+<pagebreak id="191" />
+   &quot;O, fye miss Betsy,&quot; </dialogue><nonSpeech>said lady
+Mellasin,</nonSpeech><dialogue> &quot;how could you serve mr. Goodman
+so? What will mr. Staple say, when he
+comes to know he was encouraged to
+court a woman that was already
+pre-engaged.&quot; &quot;Pre-engaged, madam,&quot;
+</dialogue><nonSpeech>cried miss Betsy, in a scornful tone,</nonSpeech><dialogue>
+&quot;what to a man I never saw but three
+times in my whole life, and whose
+mouth never uttered a syllable of love
+to me.&quot; </dialogue><nonSpeech>She was going on, but mr.
+Goodman, who was still in a great heat,
+interrupted her, saying,</nonSpeech><dialogue> &quot;No matter
+whether he has uttered any thing of the
+business or not, it seems you are enough
+acquainted with his sentiments, and I
+doubt not but he knows you are, or he
+would not have taken a journey to
+London on your account. You ought
+therefore to have told me of his coming,
+and what your brother had wrote
+concerning him, and I should then have
+<pagebreak id="192" />
+let mr. Staple know it would be to no
+purpose to make any courtship to you,
+as I did to another just before I came
+home, who I find has taken a great
+fancy to you; but I have given him
+his answer; for my part I do not
+understand this way of making
+gentlemen lose their time.&quot;
+<comment type="compiler">LADY MELLASIN CONVINCES GOODMAN THAT BETSY SHOULD HEAR 
+WHAT EACH LOVER HAS TO OFFER: GOODMAN TALKS TO BETSY.</comment>
+<pagebreak id="194" />
+   </dialogue><nonSpeech>Mr. Goodman in this, as in every thing
+else, suffered himself to be directed by her
+judgment, and the next morning, when
+miss Betsy came down, talked to her with
+his usual pleasantry.</nonSpeech><dialogue> &quot;Well,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue>
+&quot;have you forgiven my ill humour last
+night? I was a little vexed to think
+my friend Staple had so poor a chance
+for gaining you, and the more so
+because Frank Thoughtless will take it ill
+of me, that I have done any thing in
+opposition to the person he
+recommends; but you must act as you
+please; for my part I shall not meddle
+any farther in these affairs.
+
+   &quot;Sir,&quot; </dialogue><nonSpeech>replied miss Betsy, very gravely,</nonSpeech><dialogue>
+&quot;I shall always be thankful to my friends
+for their advice, and whenever I think
+seriously of a husband shall not fail to
+intreat yours in my choice; but,&quot;
+</dialogue><nonSpeech>continued she,</nonSpeech><dialogue> &quot;one would imagine my
+brother, by writing so pressingly to you,
+wanted to hurry me into a marriage
+whether I would or no; and though I
+have as much regard for him, as a
+sister can or ought to have, yet I shall
+never be prevailed upon by him to
+enter into a state to which at present I
+have rather an aversion than inclination.&quot;
+<pagebreak id="195" />
+   &quot;That is,&quot; </dialogue><nonSpeech>said mr. Goodman,</nonSpeech><dialogue> &quot;you
+have rather an aversion, than an
+inclination, to the persons who address
+you on that score.&quot; &quot;No, sir,&quot;
+</dialogue><nonSpeech>answered she,</nonSpeech><dialogue> &quot;not at all: the persons and
+behaviour, both of mr. Trueworth and
+mr. Staple, appear to me to be
+unexceptionable; but sure one may allow a
+man to have merit, and be pleased with
+his conversation, without desiring to be
+tacked to him for ever. I verily
+believe I shall never be in love; but if I
+am, it must be a long length of time,
+and a series of persevering assiduities
+must make me so.&quot;
+<comment type="compiler">BETSY RECEIVES A LETTER FROM HER THIRD LOVER, A MR. HYSOM.</comment>
+<pagebreak id="197" />
+<omission type="line" /> </dialogue><nonSpeech>Having finished the 
+whole, she turned to mr. Goodman, and 
+putting it into his hands,</nonSpeech><dialogue> &quot;Be pleased,
+sir, to read that,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;you shall
+own, at least, that I do not make a
+secret of all my lovers to you.&quot; </dialogue><nonSpeech>Mr.
+Goodman soon looked it over, and after
+returning it to her,</nonSpeech><dialogue> &quot;How troublesome a
+thing it is,&quot; </dialogue><nonSpeech>said he,</nonSpeech><dialogue> &quot;to be the
+guardian of a beautiful young lady! whether
+<pagebreak id="198" />
+I grant, or whether I refuse the consent
+required of me, I equally gain ill-will
+from one side or the other.&quot;
+
+   </dialogue><nonSpeech>Lady Mellasin, who had all this 
+morning complained of a violent head-ach, and
+said nothing during this conversation, now
+cried out,</nonSpeech><dialogue> &quot;What new conquest is this
+miss Betsy has made?&quot; &quot;O, madam,&quot;
+</dialogue><nonSpeech>replied miss Betsy,</nonSpeech><dialogue> &quot;your ladyship shall
+judge of the value of it, by the
+doughty epistle I have just received.&quot;
+<comment type="compiler">BETSY GIVES THE LETTER TO FLORA, WHO READS ALOUD.</comment>
+<omission type="line" /> &quot;You are all very merry,&quot;
+</dialogue><nonSpeech>said mr. Goodman,</nonSpeech><dialogue> &quot;but I can tell you,
+captain Hysom is a match that many
+a fine lady in this town would jump at;
+he has been twenty-five years in the
+service of the East-India company, has
+made very successful voyages, and is
+immensely rich; he has lived at sea,
+indeed, the greatest part of his life, and
+much politeness cannot be expected from
+him; but he is a very honest
+<pagebreak id="199" />
+good-natured man, and I believe means well.
+I wish he had offered himself to Flora.&quot;
+&quot;Perhaps, sir, I should not have refused
+him,&quot; </dialogue><nonSpeech>replied she, briskly;</nonSpeech><dialogue> &quot;I should
+like a husband prodigiously that would
+be abroad for three whole years
+together, and leave me to bowl about in
+my coach and six, while he ploughed
+the ocean in search of new treasures to
+throw into my lap at his return.&quot;
+
+   &quot;Well, well,&quot; </dialogue><nonSpeech>said miss Betsy,
+laughing still more,</nonSpeech><dialogue> &quot;who knows but when I
+have teized him a little, he may fly for
+shelter to your more clement goodness.&quot;
+&quot;Aye! aye,&quot; </dialogue><nonSpeech>cried mr. Goodman,</nonSpeech><dialogue> &quot;you
+are a couple of mad-caps, indeed, and
+I suppose between you both the captain
+will be finely managed; but no matter,
+I shall not pity him, as I partly told
+him what he might expect.&quot;
+
+   </dialogue><nonSpeech>After this mr. Goodman went out, and
+the young ladies went up to dress against
+dinner, diverting themselves all the time
+with the poor captain's letter. Miss Betsy
+told miss Flora, that as he was for coming
+so directly to the point, she must use all
+her artifice, in order to keep him in
+suspence;</nonSpeech><dialogue> &quot;for,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;if I should let
+him know any part of my real
+sentiments concerning him, he would be
+<pagebreak id="200" />
+gone at once, and we should lose all
+our sport: I will, therefore,&quot; </dialogue><nonSpeech>continued
+she,</nonSpeech><dialogue> &quot;make him believe, that I dare not
+openly encourage his pretensions,
+because my brother had recommended one
+gentleman to me, and mr. Goodman
+another; but shall assure him, at the
+same time, that I am inclined to neither
+of them, and shall contrive to get rid
+of them both, as soon as possible: this,&quot;
+</dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;will keep him in hopes,
+without my downright promising any thing
+in his particular favour.&quot;
+<pagebreak id="201" />
+<comment type="compiler">THE HOUSE-MAID TO MISS BETSY.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>and seeing that she was alone,</nonSpeech><dialogue> &quot;O
+miss!&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;there is the devil to
+do below.&quot; &quot;I heard a sad noise,
+indeed,&quot; </dialogue><nonSpeech>said she carelesly.</nonSpeech><dialogue> &quot;Why you
+must know, miss,&quot; </dialogue><nonSpeech>cried the maid,</nonSpeech><dialogue>
+&quot;that my lady had given John the
+butler warning, and so his time being up,
+mrs. Prinks had orders to pay him off
+this morning, but would have stopped
+thirty shillings for a silver orange strainer
+that is missing. John would not allow
+it, and being in a passion, told mrs.
+Prinks, that he would not leave the
+house without his full wages; that for
+any thing he knew the strainer might
+be gone after the diamond necklace.
+This I suppose she repeated to my lady,
+and that put her in so ill a humour
+this morning, that if my master had
+not come down as he did, we should
+all have had something at our heads.
+However,&quot; </dialogue><nonSpeech>continued the wench,</nonSpeech><dialogue> &quot;she
+ordered mrs. Prinks to give him his
+whole money; but, would you believe
+it, miss? My master was no sooner
+<pagebreak id="202" />
+gone out, than she came down into the
+kitchen raving, and finding John there
+still, (the poor fellow, God knows, only
+stayed to take his leave of us,) she tore
+about, and swore we should all go;
+accused one of one thing, and another of
+another.&quot; &quot;Well, but what did the
+fellow mean about the diamond necklace?&quot;
+</dialogue><nonSpeech>cried miss Betsy, interrupting her.</nonSpeech><dialogue> &quot;I
+will tell you the whole story,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue>
+&quot;but you must promise never to speak a
+word of it to any body; for though I
+do not value the place, nor will stay
+much longer; yet they would not give
+one a character, you know, miss.&quot;
+
+   </dialogue><nonSpeech>Miss Betsy then having assured her, she
+would never mention it, the other shut the
+door, and went on in a very low voice,
+in this manner.</nonSpeech><dialogue>
+
+<comment type="compiler">SOURCE TEXT USES SINGLE QUOTATION MARKS FROM THIS POINT; 
+ON PAGES 202 AND 203.</comment>
+   &quot;Don't you remember, miss,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue>
+&quot;what a flurry my lady and mrs. Prinks
+were in one day? how her ladyship
+pulled off all her fine cloaths, and they
+both went out in a hackney coach;
+then mrs. Prinks came home, and went
+out again?&quot; &quot;Yes,&quot; </dialogue><nonSpeech>replied miss Betsy,</nonSpeech><dialogue>
+&quot;I took notice they were both in a good
+deal of confusion.&quot; &quot;Aye, miss, well
+they might,&quot; </dialogue><nonSpeech>said Nanny;</nonSpeech><dialogue> &quot;that very
+afternoon John was gone to see a Cousin
+<pagebreak id="203" />
+that keeps a pawn-broker's shop in
+Thieving-lane, and as he was sitting in
+a little room behind the counter, that
+it seems shuts in with glass doors, who
+should he see through the window, but
+mrs. Prinks come in; she brought my
+lady's diamond necklace, and pledged
+it for a hundred and twenty, or a
+hundred and thirty guineas, I am not sure
+which he told me, for I have the
+saddest memory; but it is no matter for
+that. John was strangely confounded,
+as you may think, but resolved to see
+into the bottom, and when mrs. Prinks
+was got into the coach, popped up
+behind it, and got down when it stopped,
+which was at the sign of the hand and
+tipstaff in Knaves-acre; so that this
+money was raised to get somebody that
+was arrested out of the bailiff's hands,
+for John said, it was what they call a
+spunging-house that mrs. Prinks went
+into. Lord! how deceitful some people
+are, my poor master little thinks how
+his money goes; but I'll warrant our
+house-keeping must suffer for this.&quot;
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

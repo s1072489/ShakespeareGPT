@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2TCARR">
+  <dialogueHeader>
+
+    <filename>D2TCARR</filename>
+
+    <identifier>2 TRIAL D2TCARR</identifier>
+
+    <title>TRIAL OF ROBERT CARR</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1616/1730</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">EMLYN, SOLLOM.</attribution>
+      <frontMatter>XXIX. THE TRIAL OF ROBERT CARR EARL OF SOMERSET, FOR THE MURDER
+OF SIR THOMAS OVERBURY. MAY 25, 1616. 14 JAC. I.
+IN: A COMPLETE COLLECTION OF STATE-TRIALS, AND PROCEEDINGS FOR 
+HIGH-TREASON, AND OTHER CRIMES AND MISDEMEANOURS; FROM THE REIGN OF 
+KING RICHARD II. TO THE END OF THE REIGN OF KING GEORGE I.
+IN SIX VOLUMES.
+WITH TWO ALPHABETICAL TABLES TO THE WHOLE.
+THE SECOND EDITION, WITH GREAT ADDITIONS.
+LONDON: PRINTED FOR J. WALTHOE SEN. (...), 
+M.DCC.XXX.
+(VOL. I)
+PP. 334.4C1 - 335.56C1 SAMPLE 1 
+PP. 345.1C2 - 348.61C1 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SQUARE BRACKETS USED TO INDICATE SOME NARRATORIAL COMMENTS 
+OR QUOTATIONS IN SOURCE TEXT ARE RENDERED AS ROUND BRACKETS.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="334C1" />
+   <nonSpeech> <font>Ser. Cryer.</font> </nonSpeech><dialogue> O Yes, my Lord High-Steward
+of <font>England</font> purposes this Day
+to proceed to the Trial of
+<font>Robert</font> Earl of <font>Somerset</font> . O
+yes, Whosoever have any
+Indictments touching this Cause, publickly give
+them in.
+   </dialogue><nonSpeech>My Lord <font>Coke</font> delivers in the Indictment of my
+Lord of <font>Somerset</font> to Mr. <font>Fenshaw</font> indors'd.</nonSpeech>
+   <nonSpeech> <font>Ser. Cryer.</font> </nonSpeech><dialogue> O yes, <font>Walter Lee</font> , Serjeant at Arms,
+return the Precept for the Lords, which thou hast
+warn'd to be here this Day. O yes. </dialogue><nonSpeech> <font> (He calls
+every Lord by his Name, and they stand up as they be
+called.) </font> </nonSpeech>
+   <nonSpeech>My Lord High Steward excuses the Lords
+<font>Mounteagle</font> and <font>Russel</font> of their Absence, in respect
+of their Sickness.</nonSpeech>
+   <nonSpeech> <font>Serj. Cryer.</font> </nonSpeech><dialogue> O yes, Lieutenant of the Tower,
+return thy Precept, and bring the Prisoner to the
+Bar. </dialogue><nonSpeech>Which he did, and my Lord makes three
+Reverences to the Lord High Steward and the
+Lords.</nonSpeech>
+   <nonSpeech> <font>Mr. Fenshaw.</font> </nonSpeech><dialogue> <font>Robert</font> Earl of <font>Somerset</font> , hold up
+thy Hand.
+   </dialogue><nonSpeech>He holds it up so long, until Mr. Lieutenant bad
+him hold it down. The Indictment is read,
+containing <font>Weston's</font> Actions in the poisoning of Sir
+<font>Thomas Overbury</font> , and his abetting of him, the 8th
+of <font>May</font> 1613.</nonSpeech><dialogue>
+<comment type="compiler">DESCRIPTION OF CARR'S APPAREL AND PHYSICAL APPEARANCE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Mr. Fenshaw.</font> </nonSpeech><dialogue> <font>Robert</font> Earl of <font>Somerset</font> , What
+sayst thou, art thou Guilty of this Felony and
+Murder whereof thou standest indicted, or Not
+Guilty?
+   </dialogue><nonSpeech>My Lord of <font>Somerset</font> making an Obeisance to
+the Lord High Steward, answered,</nonSpeech><dialogue> Not Guilty.
+<pagebreak id="334C2" />
+   </dialogue><nonSpeech> <font>Mr. Fenshaw.</font> </nonSpeech><dialogue> How wilt thou be try'd?
+   </dialogue><nonSpeech> <font>Ld. Som.</font> </nonSpeech><dialogue> By God and the Country; </dialogue><nonSpeech>but
+presently recalling himself, said</nonSpeech><dialogue> by God and my
+Peers.
+   </dialogue><nonSpeech> <font>Ser. Cryer.</font> </nonSpeech><dialogue> O yes, all you that be to give in
+Evidence against <font>Robert</font> Earl of <font>Somerset</font> , who
+stands now at the Bar upon his Deliverance, make
+your Appearance, and you shall be heard what
+you have to say against him.
+   </dialogue><nonSpeech>My Lord of <font>Somerset</font> , upon his Arraignment,
+having pleaded Not Guilty, the Proceeding after
+was thus.</nonSpeech>
+   <nonSpeech> <font>Lord High Steward.</font> </nonSpeech><dialogue> <comment type="compiler">NOTE IN MARGIN GIVES NAME AND      
+TITLE AS ELLESMERE, LORD CHANCELLOR.</comment> <font>Robert</font> Earl
+of <font>Somerset</font> , you have been arraigned,
+and pleaded Not Guilty; now I must tell
+you, whatsoever you have to say in your own
+Defence, say it boldly, without Fear; and tho it be
+not the ordinary Custom, you shall have a Pen and
+Ink to help your Memory: but remember that
+God is the God of Truth; a Fault defended is a
+double Crime; hide not the Verity, nor affirm
+an Untruth; for, to deny that which is true,
+increases the Offence; take heed lest your Wilfulness
+cause the Gates of Mercy to be shut upon you.
+Now for you, my Lords the Peers, you are to
+give diligent Attention to that which shall be
+said; and you must not rest alone upon one piece
+of Evidence, but ground your Judgment upon the
+whole. This moreover I would have you
+remember, that tho you be not sworn as common Juries,
+upon a Book, yet that you are ty'd in as great a
+Bond, your own Honour and Fidelity, and
+Allegiance to the King: and thus I leave the whole
+Proceeding to your Censures. And for you that
+be of the King's Counsel, free your Discourse from
+all Partiality, but let Truth prevail, and endeavour
+to make it appear.
+   </dialogue><nonSpeech> <font>Serj. Montague.</font> </nonSpeech><dialogue> My Lord High Steward of
+<font>England</font> , and you my Lords, this cannot but be a heavy
+Spectacle unto you, to see that Man that not long
+since in great Place, with a white Staff, went
+before the King, now at this Bar hold up his
+Hand for Blood; but this is the Change of 
+<pagebreak id="335C1" />
+Fortune, nay, I might better say, the Hand of God,
+and Work of Justice, which is the King's Honour.
+   But now to the Fact; Robert Earl of <font>Somerset</font>
+stands indicted as Accessary before the Fact, of the
+wilful Murder and Poisoning of Sir <font>Thomas
+Overbury</font> , done by <font>Weston</font> , but procur'd by him;
+this, my Lord, is your Charge. The Indictment
+hath been found by Men of good Quality,
+seventeen Knights and Esquires of the best Rank and
+Reputation, some of whose Names I will be bold
+to read unto you; Sir <font>Thomas Fowler</font> , Sir <font>William 
+Slingsby</font> , and fifteen more; these have return'd <font> <foreign>billa
+vera</foreign> </font> . Now an Indictment is but an Accusation of
+Record in Form thus: <font>Weston</font> , at four several
+times, gave <font>Overbury</font> four several Poisons, the first,
+<font>May</font> the 9th, 1613. that was <font>Rosalgar</font> , carrying
+this Poison in one Hand, and his Broth in the
+other; the second was <font>June</font> following, and that
+was <font>Arsenick</font> ; the third was <font>July</font> the 10th
+following, and that was <font>Mercury Sublimate</font> in Tarts; the
+fourth was <font>September</font> the 14th following, and that was
+<font>Mercury Sublimate</font> in a Clyster, given by
+<font>Weston</font> and an Apothecary yet unknown, and that
+kill'd him. Of these four several Poisons ministred
+by <font>Weston</font> , and procured by you, the 15th of
+<font>September</font> 1615. <font>Overbury</font> dy'd, and the Author is ever
+worse than the Actor. The first Poison laid in the
+Indictment, that <font>Weston</font> gave Sir <font>Thomas Overbury</font> ,
+was the 9th of <font>May</font> ; and therefore we say, That
+the Lord <font>Somerset</font> , the 8th of <font>May</font> , hir'd, counsell'd
+and abetted <font>Weston</font> to this Fact: and as this Day,
+my Lord, I do you charge you for a King, so
+heretofore King <font>David</font> was charg'd in the like Case, for
+the Murder of <font>Uriah</font> ; and tho <font>David</font> was under
+his Pavilion, and <font>Uriah</font> in the Army, yet <font>David</font>
+was the Cause of his Murder: So tho you were
+in the King's Chamber, and <font>Overbury</font> in the
+Tower, yet it was you that kill'd him. It was a stronger
+Hand than <font>Weston's</font> that wrought this. The Proof,
+Mr. Attorney will follow; and I will now
+conclude with two Desires to the Peers: First, That
+they will not expect visible Proofs in the Work of
+Darkness: The Second is, That whereas in an
+Indictment there be many things laid only for Form,
+you are not to look that the Proof should follow
+that, but only that which is substantial; and the
+Substance must be this, Whether my Lord of
+<font>Somerset</font> procur'd or caus'd the Poisoning of Sir
+<font>Thomas Overbury</font> , or no?
+   </dialogue><nonSpeech> <font>Ld. High Steward.</font> </nonSpeech><dialogue> That indeed, my Lords, is that
+which you are to look after, Whether my Lord of
+<font>Somerset</font> was the Cause of his Poisoning, or not.
+   </dialogue><nonSpeech> <font>Ld. Coke.</font> </nonSpeech><dialogue> This was very well mov'd by Mr.
+Recorder, and the Law is clear in this Point, that the
+Proof must follow the Substance, not the Form.
+   </dialogue><nonSpeech>The Judges all rising, affirm'd this to be true.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="345C2" />
+   <nonSpeech> <font>Mr. Serj. Crew.</font> </nonSpeech><dialogue> Next follows the Proof for
+surprizing Letters.
+   </dialogue><nonSpeech> <font>L. Davis exam.</font> Saith; That in Summer last my
+Lord sent <font>Rawlins</font> to him, to desire that if he had
+any Letters, either from my Lord to Sir <font>Thomas</font> ,
+or from him to my Lord, that he would send them
+by him; which he did: And for this my Lord
+did afterwards send him by <font>Rawlins</font> 30 <font>l.</font> </nonSpeech>
+
+ <head>GEORGE ERRAT <font>THE CONSTABLE'S EXAMINATION</font> .</head> 
+
+   <nonSpeech>Saith, That <font>Poulter</font> , a Messenger, brought him
+a Warrant from my Lord of <font>Somerset</font> , to break open 
+and search a House for certain Writings, which
+were pretended to be one Mrs. <font>Hide's</font> ,  a Sister of
+Mrs. <font>Turner's</font> ; and that he shew'd him a part of
+the Warrant only, but not all; so that for that
+cause he would not execute it. Whereupon, 
+<font>Poulter</font> , got Smiths himself to break open the House and
+Doors, and found in the Cellar a Box and Bag of
+Writings, where he saw the Name of Mrs. <font>Turner</font> ;
+and those were carried to my Lord.</nonSpeech>
+
+   <nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> For these Letters, Sir <font>Robert Cotton</font>
+deliver'd them me back after my Lord of <font>Northampton's</font>
+Death; and concerning the Dates, you need not
+trouble yourself, for it now grows late, and I shall have
+very little time to answer for my self. I confess Sir
+<font>Robert Cotton</font> deliver'd me back those Letters I had
+sent my Lord of <font>Northampton</font> , and that I burnt them;
+and that some Parts were cut off as impertinent.
+   </dialogue><nonSpeech> <font>Sir R. Cotton exam.</font> Saith, my Lord deliver'd
+into his hands many of Sir <font>Thomas Overbury's</font>
+Letters; and that he cut and dated them by my Lord's
+Direction; and that he put in Dates the next Day
+to some of the Letters, after <font>Weston's</font>
+Arraignment.</nonSpeech>
+   <nonSpeech> <font>Mr. Serj. Crew.</font> </nonSpeech><dialogue> I desire my Lord will be pleas'd
+to look upon this Book of <font>Overbury's</font> Letters. And
+now for the Copy of the largest Pardon;
+   </dialogue><nonSpeech>Sir <font>Robert Cotton</font> saith, That at my Lord of
+<font>Somerset's</font> Intreaty, a little before <font>Michalemas</font> last, he
+got him a Draught of the largest Pardon, and the
+Precedent was of one that King <font>Henry</font> the Eighth
+granted to Cardinal <font>Wolsey</font> :</nonSpeech><dialogue> and if he desired such
+a one, I told him the best way was to follow
+Precedents.
+   </dialogue><nonSpeech>The Pardon was read; wherein, amongst other
+Offences, before and after, of small account,
+Treason and Murder be foisted in.</nonSpeech>
+   <nonSpeech> <font>Mr. Serj. Crew.</font> </nonSpeech><dialogue> And this was it that made <font>Weston</font>
+fear that the Net was for the little Fishes, and that
+the great ones could break through.
+   </dialogue><nonSpeech> <font>Alderman Bowles exam.</font> Saith, That after he had
+persuaded <font>Weston</font> from standing mute, he told him
+That he fear'd the Net was laid for the little Fishes,
+and that the great ones would break through.</nonSpeech>
+   <nonSpeech> <font>Mr. Serj. Crew.</font> </nonSpeech><dialogue> The last thing I urge, is my
+Lord's Declaration to the King, which I desire
+should be read.
+   </dialogue><nonSpeech>The same that were noted before, after he
+understood by my Lord <font>Coke</font> that he was to be
+arraign'd <font>&amp;c.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> You see, my Lords, in this
+Declaration of my Lord of <font>Somerset</font> there is a Brink of
+Confession; I would to God it had a Bottom. He
+urges that in respect he hath formerly been so great
+in the King's Favour, and had never committed
+any Treason, neither against his Person nor State,
+that he should never have been call'd to an Account
+for this Fault, though he had been guilty: That
+Grace timely given is a Benefit; and that it is not
+<pagebreak id="346C1" />
+only enough to give Life, but to save Reputation.
+But if he must be urg'd, then he desires his Wife might
+be pardon'd, having confess'd the Fact: And that if
+he must be put upon the Hazard of a Trial, the
+King will before give him leave to dispose of his
+Lands and Goods to the Use of his Wife and
+Child; and that in the mean time he will give my
+Lord <font>Hay</font> and Sir <font>Robert Carr</font> leave to come to
+him.
+   </dialogue><nonSpeech> <font>Mr. Serj. Crew.</font> </nonSpeech><dialogue> This Declaration is an
+implicative Confession.
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> I think there is none here but
+wonders, seeing that all Poisons be Works of
+Darkness, how this should so clearly appear: But it
+seems, his Greatness in Fortune caus'd this
+Grossness in offending.
+<comment type="compiler">SOMERSET'S LONG SPEECH OMITTED. HE CLAIMS THE ONLY POISON HE SENT 
+WAS THAT WHICH OVERBURY REQUESTED, AND THAT HE DID NOT SEND HIM 
+POISONED TARTS.</comment>
+<pagebreak id="346C2" />
+   </dialogue><nonSpeech> <font>L. Lisle.</font> </nonSpeech><dialogue> If you had sent him good Tarts, you
+should have seen them convey'd by a trusty
+Messenger.
+   </dialogue><nonSpeech> <font>L. Compton.</font> </nonSpeech><dialogue> My Lady, in her Letter to the
+Lieutenant, writes, I was bid to bid you do this.
+Who should bid her?
+   </dialogue><nonSpeech> <font>Mr. Serjeant Montague.</font> </nonSpeech><dialogue> The continual Letters
+between my Lord and her argues that.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> If <font>Franklin</font> knew me so well, and that
+I was privy to the Plot, why should then my Wife
+and I (as he pretends) when he was there, speak so
+closely, and always out of his Hearing and Sight?
+But for <font>Overbury</font> , my furthest Intent in his
+Imprisonment was, that he should be no Impediment to my
+Marriage; and this I communicated to my Lord
+of <font>Northampton</font> and <font>Elvis</font> .
+   </dialogue><nonSpeech> <font>Serj. Montague.</font> </nonSpeech><dialogue> You could not couple your self
+worse than with them two.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> Whereas <font>Simcocks</font> says, from the
+Relation of <font>Weston</font> , That he so often came to me; I
+protest I never saw him till after <font>Overbury's</font> Death,
+and then <font>Rawlins</font> brought him to me.
+   </dialogue><nonSpeech> <font>Serj. Crew.</font> </nonSpeech><dialogue> Sir <font>Jervis Elvis</font> in his Examination
+saith, That <font>Weston</font> many times told him, that my
+Lord of <font>Somerset</font> many times sent for him: And
+for this purpose you shall have <font>Weston's</font>
+Examination.
+   </dialogue><nonSpeech> <font>Weston's Examin.</font> Saith, That my Lord of
+<font>Somerset</font> many times sent him Directions, before
+<font>Overbury's</font> going to the Tower, to appoint Meetings
+betwixt him and my Lady.</nonSpeech>
+   <nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> This may hold, and yet that I never
+spake to him: So for those Messages he spoke of,
+he might receive Directions from me by a third
+Person. And for that which <font>Payton</font> alledges about
+the Powder which I sent, and made Sir <font>Thomas
+Overbury</font> so sick; that Powder I sent was one of
+them which I receiv'd from Sir <font>Robert Killegrew</font> .
+<pagebreak id="347C1" />
+   </dialogue><nonSpeech> <font>Serj. Crew.</font> </nonSpeech><dialogue> But this, my Lord, was none of the
+Powders you receiv'd from Sir <font>Robert Killegrew</font> ,
+for you had three from him: The first was lost;
+the second you sent him by <font>Rawlins</font> ; and the third
+your self took at <font>Buly</font> : Now a fourth, which was
+sent by <font>Davis</font> , was that that made him so sick, and
+gave him so many Stools; and that was Poison, and
+sent three Weeks after that that <font>Rawlins</font> carried.
+   </dialogue><nonSpeech>Sir <font>Robert Killegrew</font> saith, That my Lord
+desir'd him to give him Powders, which he himself
+sometimes us'd to take for a Vomit; but he
+thought it had been only for himself, not that he
+had had a Purpose to send it to Sir <font>Thomas
+Overbury</font> ; and that my Lord never had of this Powder
+of him but thrice.</nonSpeech>
+   <nonSpeech> <font>Mr. Rawlins exam.</font> Saith, That the first Vomit
+Sir <font>Robert Killegrew</font> gave my Lord, was laid upon
+a Tester of a Bed, and lost; and that then upon
+that he got another, which my Lord sent to Sir
+<font>Thomas Overbury</font> by him; and afterwards a third,
+which my Lord took at <font>Buly</font> : But he never heard
+that Sir <font>Thomas Overbury</font> desir'd my Lord to send
+him any.</nonSpeech>
+   <nonSpeech> <font>Franklin exam.</font> Saith, That he provided a white
+Powder, which was Poison, for my Lady called it
+<font>Arsenick</font> ; which, as my Lady did afterwards tell
+him, was sent to Sir <font>Thomas Overbury</font> in a Letter.</nonSpeech>
+   <nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> I do not think you can take <font>Franklin</font>
+for a good Witness. Now for the Antedates which
+are us'd as a Circumstance against me; Sir <font>Robert
+Cotton</font> mov'd me to it, saying, That the Dates
+might prove useful to me at this time. Whereas
+my Lord of <font>Northampton</font> writes in one of his
+Letters, That he had promoted the Lieutenant; I
+conceive his Meaning to be, That he should
+endeavour to make <font>Overbury</font> to be a good Instrument
+betwixt my Lord of <font>Suffolk</font> and me; and to that end,
+those whom he thought to be his principal Enemies
+should be the only Causers of his Freedom. And
+what I understand by <font>Elvis's</font> Conclusion, which my
+Lord of <font>Northampton</font> relates in the end of one of
+his Letters to me, That Death is the best Way;
+I wish that my Answers to those Letters were now
+to be seen: and if I had ever thought that those
+Letters of my Lord of <font>Northampton's</font> would be
+dangerous to me, it is likely I would never have
+kept them. For the Warrant I made, my Wife
+desir'd me to do it for Mrs. <font>Turner's</font> sake: <font>Packer</font>
+formed it; and told me, I might do it as a
+Counsellor alone, without other Hands; for I would
+have had at that time my Lord <font>Knowles</font> to have
+joined with me, but that he was at Council. And
+when this Warrant was sent, I was not commanded
+from Court, as is pretended.
+   </dialogue><nonSpeech> <font>L. High-Steward.</font> </nonSpeech><dialogue> All the Council together could
+not justify the making of such a Warrant.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> For my endeavouring to get a
+Pardon; having had many things of Trust under the
+King, and the Custody of both the Seals, without
+particular Warrant, I desir'd by this means to be
+exonerated. And for all general Words, the
+Lawyers put them in without my Privity. And for the
+Precedent of the largest Pardon, which I had from
+Sir <font>Robert Cotton</font> , it was upon this occasion: Sir
+<font>Robert Cotton</font> said, In respect you have receiv'd
+some Disgrace in the Opinion of the World, in
+having past that Pardon which the last Summer
+you desir'd, especially seeing there be many
+Precedents of larger; I would have you now get one
+after the largest Precedent, that so by that
+Addition you might recover your Honour. And upon
+this I bad him search for the largest.
+<pagebreak id="347C2" />
+   </dialogue><nonSpeech> <font>Serj. Mount.</font> </nonSpeech><dialogue> Sir <font>Robert Cotton</font> says otherwise.
+   </dialogue><nonSpeech> <font>Sir R. Cotton exam.</font> Saith, My Lord desir'd to
+seek Precedents of the largest Pardons.</nonSpeech>
+   <nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> For the Declaration which I lately
+sent to the King, and particularly the Word
+<font> (Mercy) </font> , which is now so much urg'd against me, it was
+the Lieutenant's; for I would have us'd another,
+but he said it could be nothing prejudicial unto
+me: But when I writ it, I did not think thus to
+be sifted in this Declaration; for I in that, in all
+Humility, did so far endeavour to humble and yield
+my self, that the King might the better express his
+Grace. And for the Words, (That I did consent
+to and endeavour the Imprisonment of Sir <font>Thomas
+Overbury</font> ) it is true, for the Reason there
+alledg'd.
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> May it please your Grace, my
+Lord here hath had a most gracious Hearing, and
+hath behav'd himself modestly and wittily.
+   </dialogue><nonSpeech> <font>L. High-Steward.</font> </nonSpeech><dialogue> If you have any more to say,
+my Lord, you shall be heard at length; we will
+not straiten you in Time.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> For <font>Loubell</font> , I never saw him but
+twice: He affirms the contrary, I deny it; and
+there is none else that proves it but himself. For
+Sir <font>Robert Cotton</font> , I could wish that he were here to
+clear many things that now be obscure.
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> If he were here, he could not be
+sworn, for Reason of State, being held for a
+Delinquent.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> For Sir <font>David Wood</font> , there was a
+Suit wherein he might have benefited himself
+1200 <font>l.</font> which I was willing to further him in,
+conditionally, that <font>Overbury</font> should have been a
+Sharer: But for the not effecting of it, it seems, he
+took some dislike of Sir <font>Thomas Overbury</font> . The
+Money that is said Sir <font>Jervis Elvis</font> gave for his
+Place, I had no part of it. Whereas the shifting
+of Offices is urg'd against me, to make the more
+easy Way for <font>Elvis's</font> Entrance; it is well known,
+the reason of <font>Wade's</font> displacing was in respect of
+his Carelesness, in suffering the Lady <font>Arabella</font> to
+have a Key, by which she might have convey'd her
+self out of Prison. More I cannot call to mind;
+but desire Favour.
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> It hath, my Lord, formerly at
+Arraignments been a Custom, after the King's
+Counsel and the Prisoner's Defence hath been heard,
+briefly to sum up what hath been said; But in this
+we have been so formal in the Distribution, that
+I do not think it necessary: And therefore now
+there is no more to be done, but that the Peers
+will be pleas'd to confer, and the Prisoner to
+withdraw till the Censures be past.
+   </dialogue><nonSpeech> <font>E. of Som.</font> </nonSpeech><dialogue> My Lords, before you go together,
+I beseech you give me leave to recommend my self
+and Cause unto you: As the King hath raised me
+to your Degree, so he hath now dispos'd me to
+your Censures. This may be any of your own
+Cases, and therefore I assure my self you will not
+take Circumstances for Evidence; for if you should,
+the Condition of a Man's Life were nothing. In
+the mean time, you may see the Excellence of the
+King's Justice; which makes no Distinction,
+putting me into your hands for a just and equal
+Censure. For my part, I protest before God I was
+neither guilty of, nor privy to, any Wrong that
+<font>Overbury</font> suffer'd in this kind. A Man sensible of
+his own Preservation, had need to express himself.
+   </dialogue><nonSpeech>So he being withdrawn from the Bar, my Lord
+High-Steward briefly reported to the Lords the
+Proofs against my Lord of <font>Somerset</font> . Then the
+<pagebreak id="348C1" />
+Lords by themselves (and my Lord Steward for his
+Ease, but returning before the rest) staid some time
+together, in which Interim they sent for the two
+Chief Justices. Being return'd, the Serjeant-Cryer
+Mr. <font>Fenshaw</font> , called every Lord by his Name,
+<font>Robert</font> Lord <font>Dormer</font> , and so to the rest, before my
+Lord High-Steward spake.</nonSpeech>
+   <nonSpeech> <font>L. High-Steward.</font> </nonSpeech><dialogue> <font>Robert</font> Lord <font>Dormer</font> , How
+say you? Whether is <font>Robert</font> Earl of <font>Somerset</font>
+guilty of the Felony, as Accessary before the Fact, of
+the wilful Poisoning and Murder of Sir <font>Thomas
+Overbury</font> , whereof he hath been indicted and
+arraigned, or not guilty? </dialogue><nonSpeech>And so particularly to
+every Lord, one by one.</nonSpeech>
+   <nonSpeech> <font>L. Dormer.</font> </nonSpeech><dialogue> Guilty, my Lord: </dialogue><nonSpeech>Standing up, and
+bare-headed; then sitting again. My Lord 
+<font>Norris</font> , when it came to him, said,</nonSpeech><dialogue> Guilty of
+Murder: </dialogue><nonSpeech>But being told by my Lord High-Steward
+that he must say either Guilty, or Not guilty, to
+the Indictment, he said,</nonSpeech><dialogue> Guilty. </dialogue><nonSpeech>Then Mr.
+Lieutenant brought the Prisoner again to the Bar: But
+he had before taken off his George himself.</nonSpeech>
+   <nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> My Lord High-Steward, <font>Robert</font>
+Earl of <font>Somerset</font> hath been indicted and arraigned,
+and put himself upon his Peers, who all, without
+the Difference of one Voice, have found him
+guilty; I pray Judgment.
+   </dialogue><nonSpeech> <font>Mr. Fenshaw.</font> </nonSpeech><dialogue> <font>Robert</font> Earl of <font>Somerset</font> , hold up
+thy Hand. Whereas thou hast been indicted,
+arraign'd, and pleaded Not guilty, as Accessary 
+before the Fact, to the wilful Poisoning and Murder
+of Sir <font>Thomas Overbury</font> , and hast put thy self upon
+thy Peers, who have found thee guilty; what hast
+thou to say for thy self, why Sentence of Death
+should not be pronounc'd against thee?
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> The Sentence that is past upon me
+must be just: I only desire a Death according to
+my Degree. For that <font>Simcocks</font> said --
+   </dialogue><nonSpeech> <font>L. High-Steward.</font> </nonSpeech><dialogue> My Lord, you are not now to
+speak any more in your Defence; but why
+Judgment of Death should not be pronounced.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> Then I have no more to say; but
+humbly beseech you my Lord High-Steward, and
+the rest of the Lords, to be Intercessors to the King
+for his Mercy towards me, if it be necessary.
+   </dialogue><nonSpeech>My Lord High-Steward, taking the
+White-Staff from Sir <font>Richard Coningsby</font> , pronounc'd
+Sentence.</nonSpeech>
+   <nonSpeech> <font>L. High-Steward.</font> </nonSpeech><dialogue> <font>Robert</font> Earl of <font>Somerset</font> ,
+Whereas thou hast been indicted, arraign'd, and
+found guilty, as Accessary before the Fact, of the
+wilful Poisoning and Murder of Sir <font>Thomas
+Overbury</font> ; you are therefore to be carried from hence
+to the Tower, and from thence to the Place of
+Execution, where you are to be hang'd till you be
+dead: And the Lord have Mercy upon you.
+   </dialogue><nonSpeech> <font>L. of Som.</font> </nonSpeech><dialogue> My Lords the Peers, I beseech you,
+as you have been the Judges of this Day, so you
+will be my Intercessors.
+   </dialogue><nonSpeech>Then my Lord Steward broke his Staff, the 
+Court dissolv'd, and the Prisoner was carried away.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

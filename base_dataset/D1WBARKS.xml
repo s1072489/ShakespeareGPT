@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1WBARKS">
+  <dialogueHeader>
+
+    <filename>D1WBARKS</filename>
+
+    <identifier>1 WITNESS D D1WBARKS</identifier>
+
+    <title>COUNTIE OF BARKS</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1579</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A REHEARSALL BOTH STRAUNG AND TRUE, OF HAINOUS AND HORRIBLE 
+ACTES COMMITTED BY ELIZABETH STILE, ALIAS ROCKINGHAM, MOTHER DUTTEN, 
+MOTHER DEUELL, MOTHER MARGARET, FOWER NOTORIOUS WITCHES, APPREHENDED 
+AT WINFORE IN THE COUNTIE OF BARKS. AND AT ABBINGTON ARRAIGNED, 
+CONDEMNED, AND EXECUTED, ON THE 26. DAYE OF FEBRUARIE LASTE ANNO. 
+1579.
+IMPRINTED AT LONDON FOR EDWARD WHITE AT THE LITTLE NORTH-DOORE OF
+PAULES, AT THE SIGNE OF THE GUN, AND ARE THERE TO BE SOLD.
+(1579)
+PP. A4R.1 - B2R.27
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A4R" />
+ <head>1579.
+IANUARY THE 28 .DAIE.
+THE TRUE EXAMINATION AND 
+CONFESSION OF ELIZABETH STILE, ALIAS
+ROCKYNGHAM VTTERED AT THE GAILE
+OF READYNG, IN THE COUNTIE OF BARKE.
+IMMEDIATELY AFTER HIR APPREHENSION
+IN THE PRESENCE OF THE
+PERSONS HERAFTER 
+MENTIONED.</head> <dialogue>
+<comment type="compiler">INTRODUCTION AND ITEMS 1 TO 18 OMITTED.</comment>
+<pagebreak id="A8R" />
+</dialogue><nonSpeech>19 Further she saieth, that one George
+Whittyng, seruannte to Matthewe Glouer of
+Eaton, had one Picture of her self for one
+Foster, for that the saied George and Foster fell
+out at variaunce, and the Picture was made in
+mother Dottens house, and that mother
+Dutten, Mother Deuell, and her self were at the
+makyng, and that Mother Deuell did saie too
+her Bunne, or euill Spirite,</nonSpeech><dialogue> Plague hym, and
+spare hym not, </dialogue><nonSpeech>and she did thruste a Hauthorne
+pricke against the harte of hym, and so he laye
+at the poinct of death a long tyme, but Mother
+Dutten recouered hym againe.</nonSpeech><dialogue>
+<comment type="compiler">ITEMS 21 TO 27 OMITTED.</comment>
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>Memorandum</font> , that besides the
+examination, and confession aforesaid, there was giuen
+in euidence, <font> <foreign>viua voce</foreign> </font> , at the Arraignement of
+the said Witches, one speciall matter by an
+Ostler of Windsore, who affirmed vpon his othe
+that the said Mother Stile vsing to come to his
+Maisters house, had often tymes reliefe giuen
+her by hym. And on a time not long sithens, she
+commyng to his Maisters house, when there
+was little left to be giuen her, for that she came
+somewhat late, yet he giuyng her also
+somewhat at that tyme, she therewith not contented
+went her waies in some anger, and as it semed
+offended with the saied Ostler, for that she had
+no better Almes, and by the sequell, so it
+appered. For not long after, he had a greate ache
+in his limmes, that he was not able to take any
+reste, nor to doe any labour, and hauyng sought
+many meanes for remedie thereof, could finde
+none, at the laste he wente to a Wiseman,
+named Father Rosimonde, <foreign> <font>alias</font> </foreign> Osborne, who
+told hym that he was bewitched, and that there
+was many ill women in Windsore, and asked
+hym whom he did mistrust, and the saied
+Osteler aunswered one Mother Stile, one of the
+<pagebreak id="B2R" />
+Witches aforesaied:</nonSpeech><dialogue> well </dialogue><nonSpeech>saied the Wiseman,</nonSpeech><dialogue>
+if you can meete her, and all to scratche her, so
+that you drawe blood of her, you shall presently
+mende. </dialogue><nonSpeech>And the saied Osteler vpon his othe
+declared, that he watchyng her on a tyme, did all
+too scratche her by the face, that he made the
+blood come after, &amp; presently his paine went
+awaie, so that he hath bin no more greued sithe~s.</nonSpeech>
+   <nonSpeech>Moreouer, on a tyme a mannes Soonne of
+Windsor, commyng to fetche water at a welle
+whiche was by the doore of the saied Mother
+Stile, and by chaunce hurlyng a stone vppon
+her house, she was there withall muche
+greeued and saied, she would bee euen with hym,
+and tooke his Pitcher whiche he had brought
+from hym: the boye goyng homewardes,
+happened to meete with his father, and tolde hym
+how that Mother Stile had taken awaye his
+Pitcher from hym,</nonSpeech><dialogue> well </dialogue><nonSpeech>saied his Father,</nonSpeech><dialogue> you
+haue doen her some vnhappines, come on with
+me, and I will goe speake with her. </dialogue><nonSpeech>And so the
+boye goyng with his Father towardes her
+house, did sodainly crie out:</nonSpeech><dialogue> <font>O my hande my
+hande</font> , </dialogue><nonSpeech>his father therewithall lookyng backe,
+and seeyng his Soonnes hande to tourne, and
+wende backwardes, laied holde therevpon, but
+he was not able to staye the tournyng thereof,</nonSpeech>
+<omission type="sentence" />
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

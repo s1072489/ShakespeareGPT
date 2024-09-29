@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2FDELON">
+  <dialogueHeader>
+
+    <filename>D2FDELON</filename>
+
+    <identifier>2 FICTION D2FDELON</identifier>
+
+    <title>IACK OF NEWBERIE</title>
+
+    <author>DELONEY THOMAS</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1596-7?/1619</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">DELONEY, THOMAS.</attribution>
+      <frontMatter>THE PLEASANT HISTORY OF IOHN WINCHCOMB, IN HIS YOUNGER YEARES
+CALLED IACK OF NEWBERIE, THE FAMOUS AND WORTHY CLOTHIER OF ENGLAND: 
+DECLARING HIS LIFE AND LOUE, TOGETHER WITH HIS CHARITABLE DEEDS AND
+GREAT HOSPITALITY;
+AND HOW HEE SET CONTINUALLY FIUE HUNDRED POORE PEOPLE AT WORKE,
+TO THE GREAT BENEFIT OF THE COMMON-WEALTH: WORTHY TO BE READ AND 
+REGARDED.
+NOW THE EIGHT TIME IMPRINTED, CORRECTED, AND INLARGED,
+BY T. D.
+(...)
+AT LONDON, PRINTED BY HUMFREY LOWNES, AND ARE TO BEE SOULD AT THE
+SIGNE OF THE STAR ON BREDSTREET HILL.
+1619.
+PP. A3V.14 - D1V.30 SAMPLE 1 
+PP. D3R.15 - E1V.12 SAMPLE 2 
+PP. I3V.1 - K3R.6   SAMPLE 3
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText> 
+
+<comment type="compiler">THIS 1619 EDITION IS THE EARLIEST EXTANT PRINTING OF THE WORK.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS NO FOLIO NUMBERS G4 OR I4.</comment>
+
+<comment type="compiler">&quot;THE NOVELS BY THOMAS DELONEY&quot;, EDITED BY MERRITT E. LAWLIS 
+(BLOOMINGTON: INDIANA UNIVERSITY PRESS, 1961) CONSULTED FOR 
+CERTAIN READINGS IN LATER EDITIONS.</comment>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="A3V" />
+   Doubtlesse </dialogue><nonSpeech>quoth one,</nonSpeech><dialogue> I doubt some female spirit hath 
+inchaunted <font>Iack</font> to his treadles, and coniured him within the
+compasse of his Loome, that hee can stir no further. You say 
+truth </dialogue><nonSpeech>quoth <font>Iack</font> ,</nonSpeech><dialogue> and if you haue the leisure to stay till  
+the
+Charme bee done, the space of sixe dayes and fiue nights, you 
+shall find mee ready to put on my holy daie apparell, and on 
+Sunday morning for your paines I will giue you a pot of 
+Ale ouer against the Maypole. Nay </dialogue><nonSpeech>quoth another,</nonSpeech><dialogue> Ile lay 
+my life, that as the <font>Salamander</font> cannot liue without the fire, 
+so <font>Iack</font> cannot liue without the smel of his Dames smocke. 
+And I maruell </dialogue><nonSpeech>quoth <font>Iacke</font> ,</nonSpeech><dialogue> that you beeing of the nature 
+of the Herring (which so soone as hee is taken out of the Sea 
+streight dyes) can liue so long with your nose out of the pot. 
+Nay <font>Iacke</font> leaue thy testing </dialogue><nonSpeech>quoth another,</nonSpeech><dialogue> and goe along 
+with vs, thou shalt not stay a iot. And because I will not 
+stay, nor make you a lyer </dialogue><nonSpeech> (quoth <font>Iacke</font> ) </nonSpeech><dialogue> Ile keepe me here 
+still: and so farewell.
+<comment type="compiler">JACK PROSPERS AND HIS MISTRESS IS PLEASED WITH HIM.</comment>
+<pagebreak id="A4R" />
+   </dialogue><nonSpeech>When <font>Iacke</font> found the fauour to bee his dames 
+Secretarie, he thought it an extraordinary kindnesse: and ghessing 
+by the yarne it would prooue a good Web, began to question 
+with his dame in this sort.</nonSpeech><dialogue> Although it becommeth not mee 
+your seruant to prie into your secrets, nor to bee busie about 
+matters of your loue: yet for so much as it hath pleased you 
+<pagebreak id="A4V" />
+to vse conference with mee in those causes, I pray you let 
+me intreat you to know their names that bee your sutors, 
+and of what profession they bee. 
+   Marie <font>Iohn</font> </dialogue><nonSpeech>saith she</nonSpeech><dialogue> that you shall, and I pray thee take 
+a cushion and sit downe by mee. Dame </dialogue><nonSpeech>quoth hee</nonSpeech><dialogue> I thanke 
+you, but there is no reason I should sit on a cushion till I 
+haue deserued it. If thou hast not thou mightest haue done 
+</dialogue><nonSpeech>said shee:</nonSpeech><dialogue> but faint souldiers neuer find fauour. </dialogue><nonSpeech> <font>Iohn</font> 
+replied,</nonSpeech><dialogue> that makes mee indeed to want fauour: for I durst not 
+trie Maydens because they seeme coy, nor Wiues for feare 
+of their Husbands, nor Widowes, doubting their 
+disdainfullnesse. Tush <font>Iohn</font> </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> hee that feares   
+and doubts 
+Womenkind, cannot bee counted Mankind: and take this 
+for a principle, all things are not as they seeme: but let vs 
+leaue this and proceed to our former matter. My first sutor 
+dwels at <font>Wallingford</font> , by Trade a Tanner, a man of good 
+wealth and his name is <font>Craftes</font> , of comly personage, and 
+very good behauiour, a Widower, well thought of amongst 
+his neighbours: hee hath proper land, a faire house and well
+furnished, and neuer a childe in the world, and hee loues me
+passing well. Why then Dame </dialogue><nonSpeech>quoth <font>Iohn</font> ,</nonSpeech><dialogue> you were best 
+to haue him. Is that your opinion </dialogue><nonSpeech>quoth shee?</nonSpeech><dialogue> now trust 
+me, so it is not mine. For I finde two speciall reasons to the
+contrary: the one is, that hee being ouerworne in yeares 
+makes mee ouerloth to loue him: &amp; the other, that I know 
+one neerer hand.
+   Beleeue me dame </dialogue><nonSpeech> (quoth <font>Iack</font> ) </nonSpeech><dialogue> I perceiue store is no    
+sore, &amp;
+profered ware is worse by ten in the hundred than that which 
+is sought: but I pray ye who is your second sutor? <font>Iohn</font> </dialogue><nonSpeech>quoth
+shee,</nonSpeech><dialogue> it may seeme immodesty in me to bewray my loues
+secrets: yet seeing thy discretion, and being perswaded of thy
+secrecy, I will shew thee: the other is a man of middle yeares, 
+but yet a Batcheler, by occupation a Taylor, dwelling at
+<font>Hungerford</font> : by report a very good husband, such a one as 
+hath crownes good store, and to mee he professes much good 
+will, for his person he may please any woman I dame </dialogue><nonSpeech>quoth 
+<font>Iohn</font> ,</nonSpeech><dialogue> because he pleaseth you. Not so </dialogue><nonSpeech>said she,</nonSpeech><dialogue> for my    
+eies are
+<pagebreak id="B1R" />
+vnpartiall Iudges in that case: and albeit my opinion may be 
+contrary to others, if his Art deceiue not my eye-sight, hee is
+worthie of a good wife, both for his person and conditions. 
+Then trust mee Dame </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> for so much as you are 
+without doubt of your selfe that you will proue a good wife, 
+and so well perswaded of him, I should thinke you could 
+make no better a choice. Truly <font>Iohn</font> </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> there be 
+also two reasons that mooue me not to like of him: the one, 
+that being so long a ranger, he would at home be a stranger: 
+and the other, that I like better of one nearer hand. Who is 
+that, </dialogue><nonSpeech>quoth <font>Iacke</font> ?</nonSpeech> <nonSpeech>Saith shee,</nonSpeech><dialogue> the third Suter is the   
+Parson of
+<font>Spinhome-land</font> , who hath a proper liuing, hee is of holy
+conuersation &amp; good estimation, whose affection to me is great. 
+No doubt Dame </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> you may doe wondrous well 
+with him, where you shall haue no care but to serue GOD              
+<comment type="compiler">SOURCE TEXT: G O D</comment> 
+and to make ready his meats. O <font>Iohn</font> </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> the flesh 
+and the spirit agrees not; for hee will bee so bent to his books, 
+that hee will haue little minde of his bed: for one moneths 
+studying for a Sermon, will make him forget his wife a whole 
+yeer. Truely Dame </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> I must needes speake in his
+behalfe, and the rather for that he is a man of the Church, and 
+your neere neighbour, to who~ (as I guesse) you beare the best
+affection: I doe not thinke that hee will bee so much bound to 
+his booke, or subiect to the spirit, but that he will remember a 
+woman at home or abroad. Well <font>Iohn</font> </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> I wis my 
+minde is not that way, for I like better of one nearer hand. 
+No maruell </dialogue><nonSpeech> (quoth <font>Iacke</font> ) </nonSpeech><dialogue> you are so peremptorie seeing you 
+haue so much choice: but I pray ye Dame </dialogue><nonSpeech> (quoth he) </nonSpeech><dialogue> let me 
+knowe this fortunate man that is so highly placed in your 
+fauour? <font>Iohn</font> </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> they are worthy to knowe nothing, 
+that cannot keepe something: that man (I tell thee) must goe
+namelesse: for he is Lord of my loue, and King of my desires: 
+there is neither Tanner, Taylor nor Parson, may compare 
+with him, his presence is a preseruatiue to my health, his 
+sweete smiles my hearts solace, and his words heauenly 
+musike to my eares. Why then Dame </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> for your 
+bodies health, your hearts ioy, and your eares delight, delay 
+<pagebreak id="B1V" />
+not the time, but entertaine him with a kisse, make his bed 
+next yours, and chop vp the match in the morning. Well, 
+</dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> I perceiue thy consent is quickly got to anie, 
+hauing no care how I am matcht so I bee matcht: I wis, I wis 
+I could not let thee goe so lightly, beeing loath that any one 
+should haue thee, except I could loue her as well as my selfe. 
+I thanke you for your kindnesse and good will good Dame 
+</dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> but it is not wisedome for a young man that can 
+scantly keepe himselfe, to take a wife: therefore I hould it the 
+best way to leade a single life: for I haue heard say, that 
+manie sorrowes followe mariage, especially where want 
+remaines: and beside, it is a hard matter to finde a constant 
+woman: for as young <comment type="compiler">SOURCE TEXT: yonng</comment> maides are fickle, so are 
+old women 
+iealous: the one a griefe too common, the other a torment 
+intolerable. What <font>Iohn</font> </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> consider that maidens
+ficklenesse proceedes of vaine fancies, but old womens iealousie of
+superabounding loue, and therefore the more to bee borne 
+withall. But Dame, </dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> many are iealous without 
+cause: for is it sufficient for their mistrusting natures to take
+exceptions at a shadow, at a word, at a looke, at a smile, nay 
+at the twinkle of an eye, which neither man nor woman is 
+able to expell? I knewe a woman that was readie to hang 
+her selfe, for seeing but her husbands shirt hang on a hedge 
+with her maides smocke. I grant that this furie may haunt 
+some, </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> yet there be many other that complaine not 
+without great cause. Why, is there any cause that should 
+moue iealousie, </dialogue><nonSpeech>quoth <font>Iohn</font> ?</nonSpeech><dialogue> I by S. <font>Mary</font> is there       
+</dialogue><nonSpeech>quoth she:</nonSpeech><dialogue>
+for would it not grieue a woman (being one euery way able 
+to delight her husband) to see him forsake her, despise and 
+contemne her, being neuer so merrie as when he is in other 
+company, sporting abroad from morning till noone, from noone 
+till night, and when he comes to bed, if hee turne to his wife, 
+it is in such solemnesse, and wearisome drowsie lamenesse, that 
+it brings rather lothsomnesse than any delight: can you then 
+blame a woman in this case to bee angrie and displeased? Ile 
+tell you what, among brute beasts it is a griefe intolerable: 
+for I heard my Grandame tell that the Bel-weather of her 
+<pagebreak id="B2R" />
+flocke fancying one of the Eawes aboue the rest, and seeing 
+<font>Gratis</font> the Shepheard abusing her, in abhominable sort 
+(subuerting the lawe of Nature) could by no meanes beare that 
+abuse; but watching opportunity for reuenge, on a time found 
+the said Shepheard sleeping in the field, and suddenly ranne 
+against him in such violent sort, that by the force of his 
+wreathen hornes, hee beat the braines out of the Shepheards head 
+and slewe him. If then a Sheepe could not endure that iniurie, 
+thinke not that women are so sheepish to suffer it. Beleeue 
+mee </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> if euery horne-maker should be so plagued 
+by a horned beast, there should bee lesse hornes made in 
+<font>Newberie</font> by many in a yeare. But Dame </dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> to make an 
+end of this prattle, because it is an argument too deepe to be
+discussed betweene you and I, you shal heare me sing an ould 
+song, and so wee will depart to supper. 
+<comment type="compiler">SONG OMITTED.</comment>
+<pagebreak id="B2V" />
+   Well said <font>Iohn</font> </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> thy song is not so sure, but 
+thy
+voice is as sweet: but seeing the time agrees with our 
+stomackes, though loth yet will wee giue ouer for this time, and
+betake our selues to our suppers. <omission type="line" />
+<comment type="compiler">JACK WONDERS WHETHER TO MARRY HIS MISTRESS.</comment>
+<omission type="line" /> </dialogue><nonSpeech>His Dame comming 
+home and hearing that her man was gone to bed, tooke that 
+night but small rest, and early in the morning hearing him 
+vp at his worke merrily singing, shee by and by arose, and in 
+seemely sort attyring her selfe, she came into the worke-shop, 
+and sat her downe to make quills. Quoth <font>Iohn</font> ,</nonSpeech><dialogue> Good morow 
+Dame, how do you to day? God a mercie <font>Iohn</font> </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue>
+euen as well as I may: for I was sore troubled in my 
+Dreames. Mee thought two Doues walked together in a 
+corne field, the one (as it were) in communication with the 
+other, without regard of picking vp any thing to sustaine 
+themselues: and after they had with many nods spent some 
+time to their content, they both fell hard, with their pretie 
+bils, to pecke vp the scattered corne, left by the wearie 
+<pagebreak id="B3R" />
+Reapers hand. At length (finding themselues satisfied) it chanced
+another Pigion to light in that place, with whome one of the 
+first Pigions at length kept companie: and after, returning 
+to the place where she left her first companion, perceiued he 
+was not there, shee kindly searching vp and downe the high 
+stubble to finde him, lighted at length on a hogge fast asleep,
+wherewith me thought the poore Doue was so dismaid, that 
+presently shee fell downe in a trance. I seeing her legges 
+faile, and her wings quiuer, yeelding her selfe to death, 
+moued with pittie ranne vnto her, and thinking to take vp the 
+Pigion, mee thought I had in my hands my owne heart, 
+wherein me thought an arrow stucke so deepe, that the bloud 
+trickled downe the shaft, and lay vpon the feathers like the 
+siluer pearled deawe on the greene grasse, which made me to 
+weepe most bitterly. But presently mee thought there came 
+one to me crowned like a Queene, who tould mee my heart 
+would die, except in time I got some of that sleeping hogges 
+grease to heale the wounds thereof. Whereupon I ranne in 
+all haste to the Hog with my heart bleeding in my hand, who 
+(mee thought) grunted at mee in most churlish sort, and 
+vanisht out of my sight. Whereupon comming straite home, 
+me thought I found this Hog rustling among my Loomes, 
+wherewith I presently awaked, sodainely after midnight, 
+beeing all in a sweate and very ill <comment type="compiler">SOURCE TEXT: til</comment> : and I am  
+sure you could 
+not choose but heare mee groane. Trust mee Dame I heard 
+you not </dialogue><nonSpeech> (quoth <font>Iohn</font> ) </nonSpeech><dialogue> I was so sound asleepe. And thus     
+</dialogue><nonSpeech> (quoth
+shee) </nonSpeech><dialogue> a woman may die in the night before you will haue the 
+care to see what shee ailes, or aske what she lackes. But 
+truly <font>Iohn</font> </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> all is one, for if thou shouldest   
+haue come, 
+thou couldest not haue got in, because my chamber door was 
+lockt: but while I liue this shall teach mee wit, for 
+henceforth I will haue no other lock but a latch, till I am 
+married. Then Dame </dialogue><nonSpeech> (quoth he) </nonSpeech><dialogue> I perceiue though you bee 
+curious in your choise, yet at length you will marrie. I truly 
+</dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> so thou wilt not hinder me. Who I                 
+</dialogue><nonSpeech>quoth <font>Iohn</font> ?</nonSpeech><dialogue>
+on my faith Dame not for a hundred pounds, but rather 
+will further you to the vttermost of my power. Indeede 
+<pagebreak id="B3V" />
+</dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> thou hast no reason to shew any discurtesie to me 
+in that matter, although some of our neighbours do not stick 
+to say, that I am sure to thee alreadie. If it were so </dialogue><nonSpeech> (quoth 
+<font>Iohn</font> ) </nonSpeech><dialogue> there is no cause to denie it, or to bee ashamed       
+thereof,
+knowing my selfe farre vnworthie of so high a fauour. Well 
+let this talke rest </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> and take there thy quils, for it 
+is
+time for me to goe to market. 
+<comment type="compiler">A TAILOR PROPOSES TO THE WIDOW.</comment> 
+<omission type="sentence" /> </dialogue><nonSpeech>the Widow with patience heard him, 
+and gently answered, that in respect of his great good will 
+long time borne vnto her, as also in regard of his gentlenesse 
+cost and curtesie, at that present bestowed, shee would not 
+flatly denie him.</nonSpeech><dialogue> Therefore </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> seeing this is not 
+a place to conclude of such matters: if I may intreate you to 
+come to my poore house on Thursday next, you shall be 
+heartily welcome, and be further satisfied of my minde: </dialogue><nonSpeech>and thus 
+<pagebreak id="B4R" />
+preferred to a touch of her lips, hee payed the shot and 
+departed. The Taylor was scant out of sight, when shee met with 
+the Tanner: who albeit hee was aged, yet lustily he saluted 
+her, and to the wine she must, there was no nay. The 
+Widow seeing his importunacie, calles her gossip, and along 
+they walked together. The olde man called for wine plentie, 
+and the best cheere in the house: and in hartie manner hee 
+biddes the Widow welcome. They had not sitten long, but in 
+comes a noyse of Musitions in tawnie coates, who (putting 
+off their caps) asked if they would haue any Musicke. The 
+Widow answered no, they were merrie enough.</nonSpeech><dialogue> Tut </dialogue><nonSpeech>quoth 
+the oldeman,</nonSpeech><dialogue> let vs heare good fellowes what you can doe, 
+and play mee <font>The beginning of the World</font> . Alas, </dialogue><nonSpeech>quoth the 
+widow,</nonSpeech><dialogue> you had more need to harken to y=e= ending of the world. 
+Why Widowe, </dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> I tell thee the beginning of the 
+world was the begetting of Children: and if you find mee 
+faultie in that occupation, turne mee out of thy bed for a 
+bungler, and then send for the Sexton. </dialogue><nonSpeech>Hee had no sooner 
+spoke the word, but the Parson of <font>Speen</font> with his corner cap, 
+popt in at the doore, who seeing the widow sitting at the table 
+craued pardon and came in. Quoth shee,</nonSpeech><dialogue> for want of the 
+Sexton, heere is the Priest if you need him. Mary </dialogue><nonSpeech> (quoth 
+the Tanner) </nonSpeech><dialogue> in good time, for by this meanes wee need not 
+goe farre to bee married. Sir </dialogue><nonSpeech>quoth the Parson,</nonSpeech><dialogue> I shall doe 
+my best in conuenient place. Wherein, </dialogue><nonSpeech>quoth the Tanner?</nonSpeech><dialogue> 
+To wed her my selfe </dialogue><nonSpeech>quoth the Parson.</nonSpeech><dialogue> Nay soft, </dialogue><nonSpeech>sayde the 
+Widow,</nonSpeech><dialogue> one Swallow makes not a Sommer, nor one 
+meeting a marriage: as I lighted on you vnlookt for, so came I 
+hither vnprouided for the purpose. I trust </dialogue><nonSpeech>quoth the 
+Tanner,</nonSpeech><dialogue> you came not without your eyes to see, your tongue to 
+speake, your eares to heare, your hands to feele, nor your legs 
+to goe. I brought my eyes, </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> to discerne colours, my 
+tongue to say No to questions I like not, my hands to thrust 
+from me the things y=t= I loue not, my eares to iudge twixt 
+flatterie &amp; friendship &amp; my feet to run from such as would wrong
+me. Why then </dialogue><nonSpeech>quoth the Parson</nonSpeech><dialogue> by your gentle abiding in 
+this place, it is euident that here are none but those you like and 
+<pagebreak id="B4V" />
+loue. God forbid I should hate my friends </dialogue><nonSpeech> (quoth the widow) </nonSpeech><dialogue>
+whom I take all these in this place to bee. But, there be 
+diuers sorts of loues, </dialogue><nonSpeech>quoth the Parson.</nonSpeech><dialogue> You say truth, </dialogue><nonSpeech>quoth 
+the Widow:</nonSpeech><dialogue> I loue your selfe for your profession, and my 
+friend the Tanner, for his curtesie and kindnesse, and the rest 
+for their good company. Yet </dialogue><nonSpeech> (quoth the Parson) </nonSpeech><dialogue> for the 
+explaining of your loue, I pray you drinke to them you loue 
+best in the company. Why </dialogue><nonSpeech> (quoth the Tanner) </nonSpeech><dialogue> haue you 
+any hope in her loue? Beleeue me </dialogue><nonSpeech> (saith the Parson) </nonSpeech><dialogue> as much 
+as another. Why then Parson sit downe, </dialogue><nonSpeech>said the Tanner:</nonSpeech><dialogue> 
+for, you that are equall with mee in desire, shall surely be halfe 
+with mee in the shotte: and so Widow, on Gods name fulfill 
+the Parsons request. Seeing </dialogue><nonSpeech> (quoth the widow) </nonSpeech><dialogue> you are so 
+pleasantly bent, if my courtesie <comment type="compiler">SOURCE TEXT: corrtesie</comment> might    
+not breede contention 
+betweene you, and that I may haue your fauour to shewe my 
+fancie, I will fulfill your request. </dialogue><nonSpeech>Quoth the Parson,</nonSpeech><dialogue> I am 
+pleased howsoeuer it bee. And I, </dialogue><nonSpeech>quoth the Tanner.</nonSpeech><dialogue> Why 
+then </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> with this cup of Claret wine and Sugar, I 
+heartily drinke to the Ministrels boy. Why, is it hee you loue 
+best, </dialogue><nonSpeech>quoth the Parson?</nonSpeech><dialogue> I haue reason, </dialogue><nonSpeech>sayd shee,</nonSpeech><dialogue> to like and 
+loue them best, that will bee least offended with my doings. 
+Nay Widow </dialogue><nonSpeech> (quoth they) </nonSpeech><dialogue> wee meant you should drinke to 
+him whom you loued best in y=e= way of marriage. </dialogue><nonSpeech>Quoth the 
+Widow,</nonSpeech><dialogue> you should haue sayd so at first: but, to tell you 
+my opinion, it is small discretion for a woman to disclose her 
+secret affection in an open assembly: therefore, if to that 
+purpose you spake, let mee intreat you both to come home to my 
+house on Thursday next, where you shall be heartily 
+welcome, and there be fully resolued of my mind: and so, with 
+thankes at this time, Ile take my leaue. <omission type="line" />
+<comment type="compiler">THE WIDOW PREPARES A FEAST.</comment>
+<pagebreak id="C1R" />
+   </dialogue><nonSpeech>At length the guests being come, the Widow bad them al 
+heartily welcome. The Priest and the Tanner seeing the 
+Taylor, mused what hee made there: the Taylor on the 
+other side, maruelled as much at their presence. Thus 
+looking strangely one at another, at length the widow came out 
+of the kitchin, in a faire traine gowne stucke full of siluer 
+pinnes, a fine white cap on her head, with cuts of curious 
+needle worke vnder the same, and an apron before her as 
+white as the driuen snowe: then verie modestly making 
+curtsie to them all, shee requested them to sit downe. But they
+straining curtesie the one with the other, the Widow with a 
+smiling countenance, tooke the Parson by the hand saying:</nonSpeech><dialogue>
+Sir, as you stand highest in the Church, so is it meet you 
+should sit highest at the Table: and therefore I pray you sit 
+downe there on the bench side. And sir </dialogue><nonSpeech>said shee to the 
+Tanner,</nonSpeech><dialogue> as age is to bee honoured before youth for their 
+experience, so are they to sit aboue Batchelers for their grauitie,
+</dialogue><nonSpeech>and so she set him downe on this side the Table, ouer against 
+the Parson. Then comming to the Taylor shee sayd;</nonSpeech><dialogue>
+Batchler, though your lot bee the last, your welcome is equall with
+the first, and seeing your place points out it selfe, I pray you 
+take a cushion and sit downe. And now </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> to make 
+the boord equall, and because it hath beene an ould saying, that 
+three things are to small purpose, if the fourth be awaie: if so 
+it may stand with your fauours, I will call in a Gossip of 
+mine to supplie this voide place. With a good will </dialogue><nonSpeech>quoth 
+they.</nonSpeech><dialogue> <omission type="line" />
+<pagebreak id="C1V" />
+<comment type="compiler">THEY ALL EAT AND DRINK HEARTILY.</comment> 
+</dialogue><nonSpeech>The Parson pledged her, and so did all the rest in due order; 
+but still in their company the cup past ouer the poor olde 
+Womans nose: insomuch that at length the olde Woman (in a 
+merrie vaine) spake thus vnto the companie:</nonSpeech><dialogue> I haue had 
+much good meate among you; but as for the drinke I can no
+thing commend it. Alas good Gossip </dialogue><nonSpeech> (quoth the Widow) </nonSpeech><dialogue> I 
+perceiue no man hath drunke to thee yet. No truly </dialogue><nonSpeech>quoth the 
+old Woman,</nonSpeech><dialogue> for Churchmen haue so much minde of young 
+Rabbets, old men such ioie in young Chickens. and 
+Bachelors in Pigs flesh take such delight, that an old Sow, a tough
+Henne, or a gray Coney are not accepted: and so it is seene by 
+mee, else I should haue beene better remembred. Well old 
+woman </dialogue><nonSpeech>quoth the Parson,</nonSpeech><dialogue> take heere the leg of a Capon to 
+stop thy mouth. Now by S. <font>Anne</font> I dare not, </dialogue><nonSpeech>quoth she.</nonSpeech><dialogue> No?
+wherefore </dialogue><nonSpeech>said the Parson?</nonSpeech><dialogue> Marie for feare least you should 
+goe home with a Crutch, </dialogue><nonSpeech>quoth shee. The Taylor said,</nonSpeech><dialogue> then 
+taste here a peece of Goose. Now God forbid, </dialogue><nonSpeech>sayde the old 
+Woman,</nonSpeech><dialogue> let Goose goe to his kinde: you haue a young 
+stomacke, eate it your selfe, and much good may it doo your hart 
+sweet young man The old woman lacks most of her teeth, 
+</dialogue><nonSpeech>quoth the Tanner,</nonSpeech><dialogue> and therefore a peece of tender Chicke 
+is fittest for her. If I did lacke as many of my teeth, </dialogue><nonSpeech>quoth 
+the olde woman,</nonSpeech><dialogue> as you lacke points of good husbandrie, I 
+doubt I should starue before it were long. </dialogue><nonSpeech>At this the 
+Widowe laught heartily, and the men were stricken into such a 
+dumpe, that they had not a word to say. Dinner being 
+ended, the widow with the rest rose from the Table, and after 
+they had sitten a pretie while merrily talking, the Widow  
+<pagebreak id="C2R" />
+called her man <font>Iohn</font> to bring her a bowle of fresh ale, which 
+he did. Then sayd the Widow:</nonSpeech><dialogue> My masters, now for your 
+curtesie and cost I heartily thanke you all, and in requitall 
+of all your fauour, loue and good-will, I drinke to you, 
+giuing you free libertie when you please to depart. </dialogue><nonSpeech>At these 
+wordes her sutor <comment type="compiler">LATER PRINTINGS: sutors</comment> looked so sowrely one   
+vpon another, as if 
+they had beene newly champing of Crabs Which when the 
+Taylor heard, shaking vp himselfe in his new russet Ierkin, 
+and setting his hat on one side, hee began to speake thus.</nonSpeech><dialogue> I 
+trust sweete widow </dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> you remember to what ende 
+my comming was hither to day, I haue long time beene a 
+sutor vnto you, and this day you promised to giue me a direct 
+answer. Tis true, </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> and so I haue: for your loue 
+I giue you thankes, and when you please you may depart. 
+Shall I not haue you </dialogue><nonSpeech>said the Taylor?</nonSpeech><dialogue> Alas </dialogue><nonSpeech> (quoth the 
+Widow) </nonSpeech><dialogue> you come too late. Good friend </dialogue><nonSpeech> (quoth the Tanner) </nonSpeech><dialogue> it 
+is manners for young men to let their elders bee serued 
+before them: to what end should I bee here if the widow should 
+haue thee? a flat deniall is meete for a saucie sutor: but what 
+saist thou to mee faire widow </dialogue><nonSpeech> (quoth the Tanner) ?</nonSpeech><dialogue> Sir 
+</dialogue><nonSpeech>said shee,</nonSpeech><dialogue> because you are so sharp set, I would wish you as 
+soon as you can to wed. Appoint the time your self </dialogue><nonSpeech>quoth the 
+Tanner.</nonSpeech><dialogue> Euen assoone </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> as you can get a Wife, 
+and hope not after mee, for I am alreadie promised. Now 
+Tanner you may take your place with the Taylor, </dialogue><nonSpeech>quoth 
+the Parson,</nonSpeech><dialogue> for indeede the Widow is for no man but my 
+selfe. Master Parson </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> many haue runne neere the 
+goale, and yet lost the game, and I cannot helpe it though 
+your hope bee in vaine: besides, Parsons are but newly 
+suffered to haue wiues, and for my part I will haue none of the 
+first head. What </dialogue><nonSpeech> (quoth the Taylor) </nonSpeech><dialogue> is our merriment 
+growne to this reckoning? I neuer spent a Pig and a Goose 
+to so bad purpose before? I promise you when I came in, I 
+verilie thought that you were inuited by the Widowe to 
+make her and me sure together, and that the iolly 
+Tanner was brought to bee a witnesse to the contract, and the 
+old Woman fetcht in for the same purpose; else I woulde
+<pagebreak id="C2V" />
+neuer haue put vp so many drie bobs at her hands. And 
+surely </dialogue><nonSpeech>quoth the Tanner,</nonSpeech><dialogue> I knowing thee to bee a Taylor, did 
+assuredly think that thou wast appointed to come and take 
+measure for our wedding apparell. But now we are all 
+deceiued </dialogue><nonSpeech>quoth the Parson,</nonSpeech><dialogue> and therefore as wee came fooles, 
+so wee may depart hence like asses. That is as you interpret 
+the matter, </dialogue><nonSpeech>said the Widow:</nonSpeech><dialogue> for I euer doubting that a 
+concluding answer would breede a iarre in the end among you 
+euery one, I thought it better to bee done at one instant, and 
+in mine owne house, than at sundry times and in common 
+Tauernes: and as for the meate you sent, as it was 
+vnrequested of mee, so had you your part thereof, and if you think
+good to take home the remainder, prepare your wallets 
+and you shall haue it. Nay Widow </dialogue><nonSpeech>quoth they,</nonSpeech><dialogue> although 
+wee haue lost our labours, wee haue not altogether lost our 
+manners: that, which you haue keepe, and God send to vs 
+better lucke, and to you your hearts desire, </dialogue><nonSpeech>and with that 
+they departed.</nonSpeech>
+   <nonSpeech>The Widow being glad shee was thus rid of her guestes, 
+when her man <font>Iohn</font> with all the rest sate at supper, she sitting 
+in a chaire by, spake thus vnto them.</nonSpeech><dialogue> Well my masters, you 
+sawe that this day your poore Dame had her choise of 
+husbads <comment type="compiler">LATER PRINTINGS: husbands</comment> , if shee had listed to        
+marrie, and such as would haue 
+loued and maintained her like a woman. Tis true </dialogue><nonSpeech>quoth <font>Iohn</font> ,</nonSpeech><dialogue> 
+and I pray God you <comment type="compiler">SOURCE TEXT: yun</comment> haue not withstoode your     
+best fortune. 
+Trust me </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> I know not, but if I haue I may thank 
+mine owne foolish fancie.
+<comment type="compiler">DURING THE COLD WINTER, JOHN SLEEPS IN THE BEST BED.</comment>
+<pagebreak id="C3R" />
+   </dialogue><nonSpeech>About midnight, the Widow being cold on her feet, crept 
+into her mans bed to warme them. <font>Iohn</font> feeling one lift vp 
+the cloathes, asked who was there?</nonSpeech><dialogue> O good <font>Iohn</font> it is I, </dialogue><nonSpeech>quoth 
+the widow,</nonSpeech><dialogue> the night is so extreame colde, and my Chamber 
+walles so thin, that I am like to be starued in my bed: 
+wherefore rather then I would any way hazard my health, I 
+thought it much better to come hither and trie your curtesie, 
+to haue a little roome beside you. 
+   </dialogue><nonSpeech> <font>Iohn</font> being a kind young man would not say her nay, and 
+so they spent the rest of the night both together in one bed. 
+In the morning betime shee rose vp and made her selfe ready, 
+and willed her man <font>Iohn</font> to runne and fetch her a Link with 
+all speede:</nonSpeech><dialogue> for </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> I haue earnest businesse to do this
+morning. </dialogue><nonSpeech>Her man did so. Which done shee made him to 
+carrie the Linke before her, vntill she came to Saint 
+<font>Bartholomewes</font> Chappell, where Sir <font>Iohn</font> the Priest with his   
+Clark 
+and Sexton, stoode wayting for her.</nonSpeech><dialogue> <font>Iohn</font> </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> turne 
+into the Chappell, for before I goe further, I will make my 
+prayers to S. <font>Bartholmew</font> , so shall I speed the better in my
+businesse. </dialogue><nonSpeech>When they were come in, the Priest according to 
+his order came to her, and asked where the Bridegroome 
+was? Quoth she,</nonSpeech><dialogue> I thought he had beene here before me. Sir 
+</dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> I will sit downe and say ouer my beades, and by 
+that time hee will come. </dialogue><nonSpeech> <font>Iohn</font> mused at this matter, to see 
+that his Dame should so sodainly bee married, and hee hearing 
+nothing thereof before. The Widowe rising from her 
+prayers, the Priest toulde her that the Bridegroome was not 
+yet come.</nonSpeech><dialogue> Is it true, </dialogue><nonSpeech>quoth the widow,</nonSpeech><dialogue> I promise you I will 
+stay no longer for him if he were as good as <font>George a Green</font> : 
+and therefore dispatch </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> and marrie me to my man 
+<pagebreak id="C3V" />
+<font>Iohn</font> . Why Dame </dialogue><nonSpeech> (quoth he) </nonSpeech><dialogue> you doe but iest I trowe.       
+<font>Iohn</font>
+</dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> I iest not: for so I meane it shall bee, and stand 
+not strangely, but remember that you did promise mee on 
+your faith not to hinder mee, when I came to the Church to 
+bee married, but rather to set it forward: therfore set your link
+aside and giue mee your hand, for none but you shall be my 
+husband. <omission type="line" />
+<comment type="compiler">THEY ARE MARRIED AND GO HOME; THE OTHER SERVANTS ARE SURPRISED TO
+SEE THEIR FAMILIARITY.</comment> 
+<omission type="line" /> </dialogue><nonSpeech>They 
+wondring to see their fellow <font>Iohn</font> sit at the Tables end in 
+their old masters chaire, began heartily to smile, and openly 
+to laugh at y=e= matter, especially because their Dame so 
+kindly sate by his side: which shee perceiuing, asked if that were 
+all the manners they could shew before their master:</nonSpeech><dialogue> I tell 
+you </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> he is my husband, for this morning we were 
+maried, and therefore hence forward looke you acknowledge 
+your duty towardes him. </dialogue><nonSpeech>The folkes looked one vpon 
+another, maruelling at this strange newes. Which when <font>Iohn</font> 
+perceiued, hee said:</nonSpeech><dialogue> My masters muse not at all: for although 
+by Gods prouidence and your Dames fauour, I am 
+preferred from being your fellow to bee your Master, I am not 
+thereby so much puft vp in pride, that any way I will forget 
+my former estate: Notwithstanding, seeing I am now to 
+holde the place of a Master, it shall bee wisedome in you to 
+forget what I was, and to take mee as I am; and in dooing 
+your diligence you shall haue no cause to repent that God 
+made mee your master. </dialogue><nonSpeech>The seruants hearing this, as also 
+knowing his good gouernment before time, past their yeares 
+with him in dutifull manner.</nonSpeech>
+<pagebreak id="C4R" />
+   <nonSpeech>The next daie the report was ouer all the Towne, that 
+<font>Iacke</font> of <font>Newbery</font> had married his Dame: so that when the 
+Woman walked abroad, euery one bad God giue her ioy: 
+some said that shee was matcht to her sorrow, saying, that so 
+lustie a young man as he, would neuer loue her being so 
+auncient. Whereupon the Woman made answer, that shee 
+would take him downe in his wedding shooes, and woulde 
+trie his patience in the prime of his lustinesse: whereunto 
+many of her Gossips did likewise encourage her. Euery daie 
+therefore for the space of a moneth after shee was married, it 
+was her ordinarie custome, to goe forth in the morning 
+among her gossips and acquaintance to make merrie, and 
+not to returne home till night, without any regarde of her 
+houshold. Of which, at her comming home, her husband did 
+very oftentimes admonish her in very gentle sort, shewing 
+what great inconuenience would grow thereby: the which 
+sometime shee would take in gentle part, and somtime in 
+disdaine, saying;</nonSpeech><dialogue>
+   I am now in very good case, that hee which was my 
+seruant but the other day, will now bee my master: this it is for 
+a Woman to make her foot her head. The day hath beene 
+when I might haue gone forth when I would, and come 
+in againe when it had pleased me without controulement: &amp; 
+now I must bee subiect to euery Iackes checke. I am sure 
+</dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue> that by my gadding abroad, and carelesse spending 
+I waste no goods of thine. I pittying thy pouertie, made thee 
+a man, and maister of the house, but not to the end I woulde 
+become thy slaue. I scorne, I tel thee true, that such a 
+youngling as thy selfe should correct my conceit, and giue mee
+instructions, as if I were not able to guide my selfe: but yfaith
+yfaith, you shall not vse me like a babe, nor bridle me like an
+Asse: and seeing my going abroad greeues thee, where I 
+haue gone forth one day I will goe abroad three, and for 
+one houre I will stay fiue. Well </dialogue><nonSpeech> (quoth her husband) </nonSpeech><dialogue> I 
+trust you will be better aduised: </dialogue><nonSpeech>and with that hee went from 
+her about his businesse, leauing her swearing in her fustian 
+furies.</nonSpeech>
+<pagebreak id="C4V" />
+   <nonSpeech>Thus the time past on, till on a certaine day shee had beene
+abroad in her wonted manner, and staying forth very late he 
+shut the dores and went to bed. About midnight shee comes 
+to the doore and knockes to come in: to whom he looking out 
+of the window, answered in this sort.</nonSpeech><dialogue>
+   What, is it you that keepes such a knocking? I pray you 
+get hence and request the Constable to prouide you a bed, 
+for this night, you shall haue no lodging heere. I hope </dialogue><nonSpeech>quoth 
+shee,</nonSpeech><dialogue> you will not shut me out of doores like a dogge, or let me 
+lie in the streetes like a strumpet. Whether like a dogge or 
+drab, </dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> all is one to mee, knowing no reason but that 
+as you haue stayed out all day for your delight, so you may 
+lie foorth all night for my pleasure. Both birds and beastes 
+at the nights approach prepare to their rest, and obserue a 
+conuenient time to returne to their habitation. Looke but 
+vpon the poore spider, the frogge, the flie, and euery other silly
+worme, and you shall see all these obserue time to returne to 
+their home: and if you beeing a woman will not doe the like, 
+content your selfe to beare the brunt of your owne folly, and 
+so farewell.
+   </dialogue><nonSpeech>The Woman hearing this, made pitious moane, and in 
+verie humble sort intreated him to let her in, and to pardon 
+this offence, and while shee liued vowed neuer to doe the like
+Her husband at length beeing mooued with pittie towardes 
+her, slipt on his shooes and came downe in his shirt: the doore 
+being opened, in shee went quaking, &amp; as hee as was                  
+<comment type="compiler">LATER PRINTINGS: as hee was</comment> about to 
+locke it againe, in very sorrowfull manner she said;</nonSpeech><dialogue> Alacke 
+husband, what hap haue I? My wedding Ring was euen 
+now in my hand, and I haue let it fall about the doore, good 
+sweet <font>Iohn</font> come forth with the Candle and help mee to seeke 
+it. </dialogue><nonSpeech>The man incontinent did so, and while hee sought for that 
+which was not there to bee found, shee whipt into the house, 
+and quickly clapping to the doore, she lockt her husband out. 
+He stood calling with the candle in his hand to come in, but 
+shee made as if shee heard not. Anon shee went vp into her 
+chamber, and carried the key with her: but when hee sawe 
+she would not answere, he presently began to knock as lowd  
+<pagebreak id="D1R" />
+as hee could at the doore. At last shee thrust her head out at 
+the window, saying:</nonSpeech><dialogue> who is there? Tis I </dialogue><nonSpeech>quoth <font>Iohn</font> ,</nonSpeech><dialogue> what 
+meane you by this? I pray you come downe and open the 
+doore that I may come in. 
+   What sir, </dialogue><nonSpeech>quoth shee,</nonSpeech><dialogue> is it you? haue you nothing to doe 
+but daunce about the streetes at this time of night, and like 
+a Spirit of the Butterie hunt after Crickets, are you so hot 
+that the house cannot hold you? Nay I pray thee, sweet heart 
+</dialogue><nonSpeech>quoth he</nonSpeech><dialogue> doo not gibe any longer, but let me in. O sir, 
+remember </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> how you stood euen now at the window, like a 
+Iudge on the bench, and in taunting sort kept me out of my 
+owne howse. How now <font>Iacke</font> , am I euen with you? What 
+<font>Iohn</font> my man, were you so lustie to lock your Dame out of 
+doores? Sirra, remember you bad me goe to the Constable 
+to get lodging: now you haue leisure to trie if his wife will 
+preferre you to a bed. You sir Sawce, that made me stand in 
+the colde till my feete did freeze, and my teeth chatter, while 
+you stood preaching of birds and beasts telling mee a tale of 
+spiders, flyes, and frogges: goe trie now if any of them will 
+be so fre~dly to let thee haue lodging. Why go you not man? 
+feare not to speake with them, for I am sure you shall finde 
+them at home: thinke not they are such ill husbands as you, 
+to bee abroad at this time of night.
+   </dialogue><nonSpeech>With this, <font>Iohns</font> patience was greatly moued, insomuch 
+that hee deepely swore that if shee woulde not let him in hee 
+would break downe the doore.</nonSpeech><dialogue> Why <font>Iohn</font> </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> you 
+neede not bee so hot, your clothing is not so warme: and 
+because I thinke this will bee a warning vnto yee against 
+another time how you shut mee out of my house, catch, there is 
+the key, come in at thy pleasure, and look you                       
+<comment type="compiler">LATER PRINTINGS: thou</comment> go to bed to 
+your <comment type="compiler">LATER PRINTINGS: thy</comment> fellowes, for with mee thou shalt not  
+lie to night. </dialogue><nonSpeech>With 
+that shee clapt to the casement, and got her to bedde, 
+locking the chamber doore fast. Her husband that knew it was 
+in vaine to seeke to come into her Chamber, and beeing no 
+longer able to endure the colde, got him a place among his 
+Prentices, and there slept soundly. In the morning his wife 
+<pagebreak id="D1V" />
+rose betime, and merily made him a Cawdell, and bringing 
+it vp to his bed, asked him how he did.</nonSpeech><dialogue> 
+   Quoth <font>Iohn</font> , troubled with a shrewe, who the longer she 
+liues the worse shee is: and as the people of <font>Ilyris</font> kill men 
+with their lookes, so shee kils her husbands hart with 
+vntoward conditions. But trust mee, wife </dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> seeing I 
+finde you of such crooked qualities, that (like the Spider) ye 
+turne the sweete flowers of good counsell into venemous 
+poyson, from henceforth I will leaue you to your own 
+wilfulnes, and neither vexe my minde nor trouble my selfe to 
+restraine you: the which if I had wisely done last night, I had 
+kept the house in quiet, and my selfe from cold. Husband 
+</dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> thinke that women are like Starlings, that will 
+burst their gall before they will yeelde to the Fowler: or like 
+the fish <font>Scolopendra</font> , that cannot be touched without danger.
+Notwithstanding, as the hard steele doth yeelde to the 
+hammers stroke, being vsed to his kinde, so will women to their
+husbands, where they are not too much crost. And seeing yee 
+haue sworne to giue mee my will, I vowe likewise that my 
+wilfulnesse shall not offend you. I tell you husband, the noble 
+nature of a women is such, that for their louing friends they 
+will not sticke (like the Pellican) to pearce their owne hearts 
+to doo them good. And therefore forgiuing each other all 
+iniuries past, hauing also tried one anothers patience, let vs 
+quench these burning coales of contention, with the sweete 
+iuice of a faithfull kisse; and shaking hands, bequeath all our 
+anger to the eating vp of this Cawdle. </dialogue><nonSpeech>Her husband 
+curteously consented: and after this time, they liued long 
+together, in most godly, louing and kind sort, till, in the end she
+died, leauing her husband wondrous wealthie.</nonSpeech> 
+ 
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="D3R" />
+   <nonSpeech>When the olde man had seene this great houshold and 
+familie, then hee was brought into the Ware-houses, some 
+being fild with wooll, some with flockes, some with woad and 
+madder, and some with broad cloathes and kersies readie 
+dyed and drest, beside a great number of others, some stretcht 
+on the Tenters, some hanging on poles, and a great many 
+more lying wet in other places.</nonSpeech><dialogue> Sir </dialogue><nonSpeech> (quoth the olde man) </nonSpeech><dialogue>
+Iwis che zee you bee bominable rich, and cham content you 
+shall haue my daughter, and Gods blessing and mine light 
+on you both.
+   But Father </dialogue><nonSpeech> (quoth <font>Iack</font> of <font>Newbery</font> ) </nonSpeech><dialogue> what will you 
+bestow with her? Mary hear you </dialogue><nonSpeech> (quoth the old man) </nonSpeech><dialogue> I vaith 
+cham but a poore man, but I thong God, cham of good 
+exclamation among my neighbours, and they will as zoone 
+take my vice for any thing as a richer mans: thicke I will 
+bestowe, you shall haue with a good will: because che heare 
+very good condemnation of you in euery place, therefore chill 
+giue you twenty Nobles and a weaning Calfe, and when 
+I dye and my Wife, you shall haue the reuelation of all my 
+goods.
+<comment type="compiler">THEY MARRY AND HAVE A SPLENDID BANQUET.</comment> 
+<pagebreak id="D3V" />
+   </dialogue><nonSpeech>This wedding endured ten dayes, to the great reliefe of 
+the poore, that dwelt all about: and in the ende the Brides 
+Father and the Mother came to pay their Daughters portion: 
+which when the Bridegroome had receiued, hee gaue them 
+great thankes: Nothwithstanding hee would not suffer them 
+yet to depart: and against they should goe home, their sonne 
+in law came vnto them, saying:</nonSpeech><dialogue> Father, and Mother, all the 
+thankes that my poore heart can yeeld, I giue you for your 
+good will, cost, and curtesie, and while I liue make bolde to 
+<pagebreak id="D4R" />
+vse me in any thing that I am able; and in requitall of the gift 
+you gaue mee with your daughter, I giue you heere twenty 
+pound to bestowe as you finde occasion; and for your losse 
+of time, and charges riding vp and downe, I giue you here 
+as much broade cloath as shall make you a cloake &amp; my 
+mother a holiday gowne, and when this is worne out, come to 
+mee and fetch more.
+   O my good zonne </dialogue><nonSpeech> (quoth the old woman) </nonSpeech><dialogue> Christs benizon 
+bee with thee euermore: for to tell thee true, we had zold al our 
+Kine to make money for my Daughters marriage, and this 
+zeauen yeare we should not haue been able to buy more: 
+Notwithstanding wee should haue zold all that euer wee had, 
+before my poore wench should haue lost her marriage. I </dialogue><nonSpeech> (quoth 
+the olde man) </nonSpeech><dialogue> chud haue zold my coate from my back, and my 
+bed from vnder me, before my Girle should haue gone 
+without you. I thank you good father and mother, </dialogue><nonSpeech>said the Bride,</nonSpeech><dialogue> 
+and I pray God long to keep you in health: </dialogue><nonSpeech>then the Bride 
+kneeled down &amp; did her dutie to her Parents; who weeping 
+for very ioy, departed.</nonSpeech><dialogue>
+<comment type="compiler">JACK GOES TO WAR AGAINST THE SCOTS.</comment>
+<pagebreak id="D4V" />
+   </dialogue><nonSpeech>At length when he had discouered what he was, the Iustices 
+and most of the Gentlemen gaue him great commendations 
+for this his good and forward mind shewed in this action: but 
+some other enuying heereat gaue out words that hee shewed 
+himselfe more prodigall then prudent, and more vaine 
+glorious then well aduised, seeing that the best Nobleman in the
+Countrie would scarce haue done so much: and no maruell 
+(quoth they) for such a one would call to his remembrance, 
+that the King had often occasions to vrge his subiects to such
+charges, and therefore woulde do at one time as they might 
+bee able to doe at another: but <font>Iacke</font> of <font>Newbery</font> , like the
+Stork in the Spring time, thinks the highest Cedar too lowe 
+for him to build his neast in, and eare the yeare bee halfe done, 
+may bee glad to haue his bed in a bush.</nonSpeech>
+   <nonSpeech>These disdainefull speeches being at last brought to <font>Iacke</font> 
+of <font>Newberies</font> eare, though it grieued him much, yet 
+patiently put them vp till time conuenient. Within a while after, 
+all the Souldiers in <font>Barkshire, Hampshire</font> , &amp; <font>Wilshire</font> , were
+commanded to shew themselues before the Queene at 
+<font>Stonny Stratford</font> , where her Grace with many Lords, Knights, 
+and Gentlemen were assembled, with tenne thousand men. 
+Against <font>Iacke</font> should goe to the Queen, hee caused his face 
+to bee smeared with bloud, and his white coate in like 
+manner.
+   When they were come before her Highnesse, she 
+demanded (aboue all the rest) what those white coates were? 
+Whervpon, Sir <font>Henery Englefield</font> (who had the leading of the
+<font>Barkshire</font> men) made answere,</nonSpeech><dialogue>
+<pagebreak id="E1R" />
+   Maie it please your Maiestie to vnderstand, that hee which 
+rideth formost there, is called <font>Iacke</font> of <font>Newbery</font> , and all   
+those 
+gallant men in white, are his owne seruants, who are 
+maintained all the yeare by him, whom hee at his owne cost hath 
+set out in this time of extremitie, to serue the King against 
+his vaunting Foe: and I assure your Maiesty there is not, for 
+the number, better Souldiers in the field.
+   Good sir <font>Henry</font> </dialogue><nonSpeech> (quoth the Queene) </nonSpeech><dialogue> bring the man to mee 
+that I may see him: </dialogue><nonSpeech>which was done accordingly. Then 
+<font>Iacke</font> with all his men alighted, and humbly on their knees 
+fell before the Queene: Her Grace said,</nonSpeech><dialogue> Gentleman arise, 
+</dialogue><nonSpeech>and putting forth her lillie white hand, gaue it him to kisse.</nonSpeech><dialogue>
+Most gratious Queene </dialogue><nonSpeech>quoth hee,</nonSpeech><dialogue> Gentleman I am none, 
+nor the sonne of a Gentleman, but a poore Clothier, whose 
+lands are his Loomes, hauing no other Rents but what I get 
+from the backes of little sheepe, nor can I claime any 
+cognisance but a wodden shuttle. Neuerthelesse, most gratious 
+Queene, these my poore servants and my selfe, with life and 
+goods are readie at your Maiesties commaund, not onely to 
+spend our blouds, but also to lose our liues in defence of our 
+King and Countrey.
+   Welcome to mee <font>Iacke</font> of <font>Newberie</font> , </dialogue><nonSpeech>saide the Queene,</nonSpeech><dialogue> 
+though a Clothier by trade, yet a Gentleman by condition, 
+and a faithfull subiect in heart: and if thou chance to haue 
+any sute in Court, make account the queene will bee thy 
+friend, and would to God the King had many such Clothiers. 
+But tell mee, how came thy white coate besmeared with 
+bloud, and thy face so bescratcht? May it please your Grace 
+</dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> to vnderstand, that it was my chaunce to meete 
+with a Monster, who like the people <font>Cynomolgy</font> , had the 
+proportion of a man, but headed like a dogge, the biting of 
+whose teeth was like the poysoned tooth of a Crocodile, his 
+breath like the Basilisks, killing afarre off. I vnderstand, 
+his name was Enuie, who assailed mee inuisibly, like the 
+wicked spirit of <font>Mogunce</font> , who flung stones at men and could 
+not bee seene: and so I come by my scratcht face, not 
+knowing when it was done. What was the cause this monster 
+<pagebreak id="E1V" />
+should afflict thee aboue the rest of thy companie, or other 
+men in the field. Although most Souereigne Queen, </dialogue><nonSpeech>quoth 
+hee,</nonSpeech><dialogue> this poysoned curre snarleth at many, and that few can 
+escape the hurt of his wounding breath, yet at this time hee 
+bent his force against mee, not for any hurt I did him, but 
+because I surpast him in heartie affection to my Souereigne 
+Lord, and with the poore Widowe offered all I had to serue 
+my Prince and Countery. It were happy for <font>England</font> , </dialogue><nonSpeech>sayd 
+the Queene,</nonSpeech><dialogue> if in euery market Towne there were a Iybbet 
+to hang vp curres of that kind: who like <font>Aesops</font> dogge lying 
+in the maunger, will doe no good himselfe, nor suffer such 
+as would to doe any.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="I3V" />
+ <head>CHAP. VIII.</head> 
+
+ <head>How <font>Iack</font> of <font>Newbery</font> keeping a very good house, both for 
+his seruants and reliefe of the poore, won great credit 
+therby, and how one of his wiues gossips found fault therwith.</head> <dialogue>
+
+   Good morrow Gossip, now by my truely I am glad 
+to see you in health. I pray you how dooth Maister 
+<font>Winchcombe</font> ? What neuer a great belly yet? now fie, by 
+my fa your husband is waxt idle. Trust mee Gossip, </dialogue><nonSpeech>saith 
+mistresse <font>Winchcombe</font> ,</nonSpeech><dialogue> a great belly comes sooner then 
+a new coate, but you must consider wee haue not beene long 
+married: but truly gossip you are welcome, I pray you 
+sit down and we will haue a morsell of something by and by:
+nay truely Gossip I cannot stay </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue> indeede I must 
+be gone: for I did but euen step in to see how you did. You 
+shall not chuse but stay a while </dialogue><nonSpeech>quoth mistris <font>Winchcombe</font> ,
+and with that a fayre Napken was layd vpon the little 
+Table in the Parlour, hard by the fire side, whereon was set a 
+fine cold Capon, with a a <comment type="compiler">SO IN SOURCE TEXT</comment> great deale of other 
+good cheare, 
+with Ale and Wine plentie:</nonSpeech><dialogue> I pray you Gossip eate, and 
+I beshrew you if you spare </dialogue><nonSpeech>quoth the one,</nonSpeech><dialogue> I thanke you 
+heartily Gossip </dialogue><nonSpeech>saith the other.</nonSpeech><dialogue> But heare you Gossip, I pray 
+you tell mee: doth your husband loue you well, and make 
+much of you? yes truly I thanke God </dialogue><nonSpeech>quoth shee:</nonSpeech><dialogue> now by 
+my truth </dialogue><nonSpeech>sayd the other,</nonSpeech><dialogue> it were a shame for him if hee should 
+not: for though I say it before your face, though he had little 
+with you, yet you were worthy to bee as good a mans wife 
+as his. Trust me I would not change my <font>Iohn</font> for my Lord 
+Marquesse, </dialogue><nonSpeech>quoth she:</nonSpeech><dialogue> a woman can be but well, for I liue at 
+hearts ease, and haue all things at will, and truly hee will not 
+see mee lacke any thing. Gods blessing on his heart </dialogue><nonSpeech>quoth 
+her Gossip,</nonSpeech><dialogue> it is a good hearing: but I pray you tell mee, I 
+heard say your husband is chosen for our Burgesse in the 
+Parliament house, is it true? Yes verily </dialogue><nonSpeech>quoth his wife.</nonSpeech><dialogue> I 
+wis it is against his will; for it will be no small charges 
+vnto him: Tush woman, what talke of you <comment type="compiler">LATER PRINTINGS: you of</comment>  
+that? thankes be to 
+<pagebreak id="K1R" /> 
+<comment type="compiler">FOLIO NUMBER I4 NOT USED IN SOURCE TEXT</comment>
+God, there is neuer a Gentleman in all <font>Barkshire</font> that is 
+better able to beare it. But heare you Gossip, shall I bee so 
+bold to aske you one question more? Yes, withall my heart 
+</dialogue><nonSpeech>quoth shee.</nonSpeech><dialogue> I heard say that your husband would now put 
+you in your hood, and silke gowne, I pray you is it true? Yes
+in truth, </dialogue><nonSpeech>quoth mistresse <font>Winchcomb</font> ,</nonSpeech><dialogue> but farre against my 
+mind, Gossip: my french hood is bought already, and 
+my silke gowne is a making, likewise the Goldsmith hath 
+brought home my chayne and bracelets: but I assure you 
+Gossip, if you will beleeue mee, I had rather go an hundred 
+miles then weare them, for I shall bee so ashamed that I shall 
+not looke vpon any of my neighbors for blushing. And why 
+I pray you? </dialogue><nonSpeech>quoth her Gossip.</nonSpeech><dialogue> I tell you deare woman, 
+you need not be any thing abashed or blush at the matter, 
+especially seeing your husbands estate is able to maintaine 
+it: now trust me truly, I am of opinion you will become 
+it singular well. Also </dialogue><nonSpeech>quoth mistresse <font>Winchcombe</font> ,</nonSpeech><dialogue> hauing 
+neuer beene vsed to such attyre, I shall not know where I 
+am, nor how to behaue my selfe in it: and beside, my 
+complexion is so blacke, that I shall carry but an ill fauoured
+countenance vnder a hood. Now without doubt </dialogue><nonSpeech> (quoth 
+her Gossip) </nonSpeech><dialogue> you are to blame to say so: beshrew my heart 
+if I speake it to flatter; you are a very faire and well fauored 
+young woman as any is in <font>Newbery</font> . And neuer feare 
+your behauiour in your hood: for I tel you true, as old and 
+withered as I am my selfe, I could become a hood well enough, 
+and behaue my selfe as well in such attyre as any other 
+whatsoeuer, and I would not learne of neuer a one of them 
+all: what woman, I haue beene a prety wench in my dayes, 
+and seene some fashions. Therefore you need not to feare, 
+seeing both your beauty and comely personage deserues no 
+lesse then a french hood, and bee of good comfort. At the first
+(possible) folkes will gaze something at you: but bee not you 
+abashed for that, it is better they should wonder at your 
+good fortune, then lament at your miserie: but when they 
+haue seene you two or three times in that attyre they will 
+afterward little respect it: for euery new thing at the first
+<pagebreak id="K1V" />
+seemes rare, but being once a little vsed, it growes common. 
+Surely gossip you say true, </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> and I am but a 
+foole to bee so bashfull: it is no shame to vse Gods gifts for 
+your credites: and well might my husband thinke me 
+vnworthy to haue them, if I would not weare them: and though 
+I say it, my hoode is a fayre one, as any woman weares in 
+this countrey, and my gold chaine and bracelets are none of 
+the worst sort, and I will shew them you, because you shall 
+giue your opinion vpon them: </dialogue><nonSpeech>and therewithall shee stept 
+into her chamber and fetcht them foorth. When her Gossip 
+say them, shee sayd:</nonSpeech><dialogue> Now beshrew my fingers but these are 
+fayre ones indeede. And when doe you meane to weare them 
+Gossip? At Whitsontide </dialogue><nonSpeech> (quoth shee) </nonSpeech><dialogue> if God spare mee life. 
+I wish that well you may weare them, </dialogue><nonSpeech>sayd her Gossip,</nonSpeech><dialogue> and 
+I would I were worthie to bee with you when you dresse 
+your selfe, it should bee neuer the worse for you: I would 
+order the matter so, that you should set euery thing about 
+you in such sort as neuer a Gentlewoman of them all should 
+staine you. </dialogue><nonSpeech>Mistresse <font>Winchombe</font> gaue her great thankes 
+for her fauour, saying, that if she needed her helpe, she would 
+be bold to send for her.</nonSpeech>
+   <nonSpeech>Then beganne her gossip to turne her tongue to another 
+tune, and now to blame her for her great house keeping. And 
+thus she beganne:</nonSpeech><dialogue> Gossip, you are but a young woman, and 
+one that hath had no great experience of the World, in my 
+opinion you are something too lauish in expences: pardon 
+me good gossip, I speake but for good will; and because I loue 
+you, I am the more bolde to admonish you: I tell you plain, 
+were I the Mistresse of such a house, hauing such large 
+allowance as you haue, I would saue 20. pound a yeare that 
+you spend to no purpose. Which way might that be </dialogue><nonSpeech> (quoth 
+mistres <font>Winchcombe</font> ?) </nonSpeech><dialogue> indeed I confesse I am but a greene
+housewife, and one that hath but small tryall in the world, 
+therefore I should bee verie glad to learne any thing that 
+were for my husbands profite, and my commoditie. Then 
+listen to mee </dialogue><nonSpeech>quoth shee:</nonSpeech><dialogue> You feede poor folkes with the best 
+of the beefe, and the finest of the wheate, which in my 
+<pagebreak id="K2R" />
+opinion is a great ouersight: neither do I heare of any Knight 
+in this countrey that doth it. And to say the truth, how were 
+they able to beare that port which they doe, if they saued it 
+not by some meanes? Come thither, and I warrant you that 
+you shall see but browne bread on the boord: if it be wheate 
+and rie mingled together, it is a great matter, and the bread 
+highly commended: but most commonly they eate either 
+barlybread, or rie mingled with pease, and such like course 
+graine: which is doubtlesse, but of small price, and there is no 
+other bread allowed, except at their owne boord. And in like 
+manner for their meate: it is well knowne that neckes and 
+poynts of beefe is their ordinarie fare: which because it is 
+commonly leane, they seeth therewith now and then a peece 
+of bacon or porke, whereby they make their pottage fat, and 
+therewith driues out the rest with more content. And thus 
+must you learne to doe. And beside that, the midriffes of the 
+Oxen, and the cheekes, the sheepes heads, and the gathers, 
+which you giue away at your gate, might serue them well 
+enough: which would be a great sparing to your other meat, 
+and by this meanes you would saue in the yeare much 
+mony, whereby you might the better maintaine your hood and 
+silke gowne. Againe, you serue your folkes with such 
+superfluities, that they spoyle in manner as much as they 
+eate: beleeue me were I their Dame, they should haue 
+things more sparingly, and then they would thinke it more 
+daintie. Trust mee gossip </dialogue><nonSpeech> (quoth Mistresse <font>Winchcombe</font> ) </nonSpeech><dialogue>
+I know your wordes in many things to bee true: for my 
+folkes are so corne fed, that wee haue much adoe to please 
+them in their dyet: one doth say this is too salt: and another 
+saith this is too grosse, this is too fresh, and that too fat, and
+twentie faults they will finde at their meales: I warrant 
+you they make such parings of their cheese, and keepe 
+such chipping of their bread, that their very ortes would 
+serue two or three honest folkes to their dinner. And 
+from whence I pray you proceedes that </dialogue><nonSpeech> (quoth her 
+Gossip) </nonSpeech><dialogue> but of too much plentie? but yfaith were they my 
+seruants, I would make them glad of the worst crumme 
+<pagebreak id="K2V" />
+they cast away, and thereupon I drinke to you, and I thanke 
+you for my good cheere with all my heart. Much good may 
+it doe you good gossip, </dialogue><nonSpeech>sayd mistresse <font>Winchcombe</font> :</nonSpeech><dialogue> and I 
+pray you when you come this way let vs see you. That 
+you shall verily </dialogue><nonSpeech>quoth she, and so away she went.</nonSpeech>
+   <nonSpeech>After this, mistresse <font>Winchcomb</font> tooke occasion to giue 
+her folks shorter commons, and courser meate then they were 
+wont to haue: which at length being come to the good mans 
+eare, hee was very much offended therewith, saying:</nonSpeech><dialogue> I will 
+not haue my people thus pincht of their victuals. Emptie 
+platters make greedy stomackes, and where scarcitie is 
+kept, hunger is nourished: and therefore wife as you loue 
+mee let me haue no more of this doings Husband </dialogue><nonSpeech> (quoth she) </nonSpeech><dialogue>
+I would they should haue enough: but it is a sinne to suffer, 
+and a shame to see the spoyle they make: I could bee verie 
+well content to giue them their bellyes full, and that which 
+is sufficient, but it grieues me, to tell you true, to see how coy
+they are, and the small care they haue in wasting of things: 
+and I assure you, the whole towne cryes shame of it, and 
+it hath bred me no small discredit for looking no better to it. 
+Trust me no more, if I was not checkt in my owne house, 
+about this matter, when my eares did burne to heare what 
+was spoken. Who was it that checkt thee, I pray thee tell 
+mee? was it not your old gossip, dame dayntie, mistresse trip 
+and go? I beleeue it was. Why man if it were she, you know 
+shee hath beene an old housekeeper, and one that hath known 
+the world; and that shee told mee was for good will. Wife 
+</dialogue><nonSpeech> (quoth hee) </nonSpeech><dialogue> I would not haue thee to meddle with such light 
+braind huswiues, and so I haue told thee a good many times, 
+and yet I cannot get you to leaue her company. Leaue her 
+company? why husband so long as she is an honest woman, 
+why should I leaue her company? Shee neuer gaue mee 
+hurtfull counsell in all her life, but hath alwayes been 
+ready to tell me things for my profit, though you take it not so.
+Leaue her company? I am no gyrle I would you should 
+well know, to bee taught what company I should keepe: I 
+keepe none but honest company I warrant you. Leaue her 
+<pagebreak id="K3R" />
+company ketha? Alas poore soule, this reward she hath for 
+her good will. I wis I wis, she is more your friend, then you 
+are your owne. Well let her be what she will </dialogue><nonSpeech>sayd her 
+husband:</nonSpeech><dialogue> but if shee come any more in my house, shee were as 
+good no. And therefore take this for a warning I would 
+aduise you: </dialogue><nonSpeech>and so away he went.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HONORD">
+  <dialogueHeader>
+
+    <filename>D2HONORD</filename>
+
+    <identifier>2 HANDB OTH D2HONORD</identifier>
+
+    <title>SURUEYORS DIALOGUE</title>
+
+    <author>NORDEN JOHN</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1607</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">NORDEN, JOHN.</attribution>
+      <frontMatter>THE SURUEYORS DIALOGUE. 
+DIUIDED INTO FIUE BOOKES: VERY PROFITABLE FOR ALL MEN TO PERUSE, THAT
+HAUE TO DO WITH THE REUENUES OF LAND, OR THE MANURANCE, VSE, OR
+OCCUPATION THEREOF, BOTH LORDS AND TENANTS: AS ALSO AND ESPECIALLY FOR
+SUCH AS INDEUOR TO BE SEENE IN THE FACULTY OF SURUEYING OF MANNORS,
+LANDS, TENEMENTS, &amp;C. 
+BY I. N. 
+(...)
+LONDON, PRINTED FOR HUGH ASTLEY, DWELLING AT S. MAGNUS CORNER. 
+1607.
+PP. 1.1 - 15.3      SAMPLE 1
+PP. 38.1 - 47.27    SAMPLE 2
+PP. 81.34 - 86.20   SAMPLE 3
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">IN SOURCE TEXT, BLACK LETTER IS CONSISTENTLY USED FOR SPEAKERS 
+OTHER THAN THE SURVEYOR, AND IS THUS TREATED BELOW AS BASE FONT FOR 
+THE SPEECH OF THESE SPEAKERS. HENCE ANY OTHER FONT USED IN THESE 
+SPEECHES IS CODED AS &quot;FONT OTHER THAN THE BASIC FONT&quot;.</comment>
+
+<comment type="compiler">MARGINAL NOTES IN SOURCE TEXT OMITTED.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="1" />
+ <head>THE SURUEYORS DIALOGUE, 
+BETWEENE A <font>FARMOR</font> , AND A <font>SURUEYOR</font> : 
+WHEREIN IS PROOUED, THAT SURUEYES ARE 
+NECESSARY AND PROFITABLE BOTH FOR LORD 
+AND TENANT: AND WHEREIN IS SHEWED 
+HOW TENANTS OUGHT TO BEHAUE 
+THEMSELUES TOWARDS 
+THEIR LORDS.</head> 
+
+ <head> <font>THE FIRST BOOKE.</font> </head> 
+
+   <nonSpeech> <font>Farmer.</font> </nonSpeech><dialogue> Sir, I am glad I haue so happily met
+with you, for if I be not mistaken, 
+you are a Surueyor of Land.
+   </dialogue><nonSpeech> <font>Surueyor.</font> </nonSpeech><dialogue> Admit it so, Sir, what then?
+   </dialogue><nonSpeech> <font>Farmer.</font> </nonSpeech><dialogue> I haue heard much euill of the profession, 
+and to tell you my conceit plainely, I thinke the 
+same both euill and vnprofitable.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> You seeme to be but a yong man in yeeres, 
+and are you so deeply seene in the abuse of this 
+<font>Faculty</font> , that you can so peremptorily condemne it?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Call it you a <font>Faculty</font> ? What meane you 
+by that word?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Abilitie to performe a thing vndertaken.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Then this faculty of yours, I say, is a vaine 
+facultie, and a needlesse worke vndertaken.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Speake you this by coniecture, by report 
+of others, or by due experience of your owne?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> I speake indeede, as induced to the opinion 
+I hold, by all the three reasons.
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Then needs must you be eyther parciall or
+malicious in the first two, and deceiued in the third. 
+For he that speaketh by coniecture, hath not 
+experience, &amp; he that speaketh by report, is as a truncke 
+to conuey an vncertaine sound to the eares of 
+others: and if you speake by experience, then haue 
+you a pretence to haue skill in the arte; and by your 
+owne experience it seemeth, you condemne your 
+selfe to haue abused the same, and so condemne a 
+generall necessary profession, in respect of your 
+owne particular error in the same.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> No Sir, I am willingly vnskilfull in that 
+contemptible vanity. But my experience groweth, 
+by tasting of the euill that hath followed the 
+execution of the thing, by some like vnto your selfe.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> This is a generall condemnation, rashly
+pronounced against all, for the abuse of some, and 
+they only spew out greatest scandals, that are by 
+examination, in this businesse found most deceitfull 
+against their Lords, and therefore no maruell though 
+the profession be contemned and condemned, of 
+such as are to be condemned: for the offendor 
+cannot speake well of the apprehender, nor scarcely of 
+the most iust Iudge.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> You speake as if you knew some abuse in 
+me: I tell you, you do me wrong to attach me so.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Belike you thinke it free for you to censure 
+other men at your pleasure, and to iudge them after 
+your own vaine conceit, and yet no reply must take 
+hold of your vayne quarrell, that riseth of meere 
+malice against the innocent.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Innocent? How can that be, when you 
+pry into mens tytles and estates, vnder the name 
+(forsooth) of Surueyors, whereby you bring men 
+and matter in question often times, that would (as 
+long time they haue) lye without any question. And 
+<pagebreak id="3" />
+oftentimes you are the cause that men lose their
+land: and sometimes they are abridged of such 
+liberties as they haue long vsed in Mannors; and 
+customes are altred, broken, and sometimes 
+peruerted or taken away by your meanes: And aboue 
+all, you looke into the values of mens lands, 
+whereby the Lords of Mannors do rack their tenants 
+to a higher rent and rate then euer before: and 
+therefore not only I, but many poore tenants else 
+haue good cause to speake against the profession.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Be you not offended at the comparison 
+which I will make to your allegations. Why should 
+not such persons as are inhibited by the lawes of the 
+Realme, to commit certaine acts within the 
+common wealth, cry out against them, that by the same 
+lawes are appoynted Magistrates and Officers to see 
+these lawes executed vpon them, as Roagues, 
+Beggers, and other like vagabonds? for if such officers 
+and ouerseers were not, these offensiue persons 
+might haue their wills: so would it follow, that men 
+of peace, and good members of the 
+Commonwealth, should be endangered to be sacked of that 
+they haue, by such lewd persons. Necessary 
+therefore it is, that there should be such as should see 
+vnto, informe, punish, and reforme these. And by 
+your assertions you may as well intend, vnder like 
+reason, against keeping of Courts in a Mannor, 
+wherein many abuses are found out, reformed, and 
+punished, which without such Courts would lye 
+smothered, festering so long, that there would be 
+few sound members left within the same.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> It seemes, you compare tenants of 
+Mannors, that are (many of them) honest, ciuill, and 
+substanciall men, to Roagues, and vagabonds. 
+You forget your selfe.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> My plaine words are, that as well these euill
+<pagebreak id="4" />
+members of the common wealth may speake 
+against the Surueyors of the common wealth, which 
+(to speake only of the vnder officers) are the Iustices 
+of the peace, Constables, and such like, as may 
+tenants of a Mannor speake against the surueying of 
+their lands within the same.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> That were strange; for by the one, the 
+whole state of the kingdome is kept in peace, and 
+by the other, many millions disturbed, that might 
+liue quietly in their Farmes, tenements, houses, 
+and lands, that are now dayly troubled with your 
+so narrow looking thereinto, measuring the 
+quantity, obseruing the quality, recounting the value, 
+and acquainting the Lords with the estates of all 
+mens liuings, whose auncesters did liue better with 
+little, then we can do now with much more, because 
+by your meanes rents are raysed, &amp; lands knowne 
+to the vttermost Acre, fines inhaunced farre higher
+then euer before measuring of land and 
+surueying came in, and therefore I thinke you cannot 
+but confesse, that other men, as well as I, haue good 
+cause to speake of you and your profession, as I 
+doe.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I perceiue that the force of your strongest
+arguments is as before I sayd, your feare and 
+vnwillingnes that the Lord of the Mannor, vnder 
+whom, and in whose land you dwell, should know 
+his owne: and that you thinke it better for you, 
+that he should continue still ignorant of what he 
+hath, and that your estates should be alwayes 
+hidden, and what iniury you doe should be 
+concealed, then that he should be acquainted with what 
+you hold, and your abuses, incrochments, 
+vsurpations, intentions, and wrongs discouered.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Sir, we acknowledge that the Lord ought 
+to haue his rent, and that is all, and our seruices at 
+<pagebreak id="5" />
+his Courts, but the land we haue, is our owne.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Howsoeuer you may accompt them yours, 
+yet the Lord hath such an interest and propertie 
+in them, as he may also call them his, nay, I may 
+say, you are not in such sort your owne, but next 
+vnder the King, you may be sayd to be the Lords.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Fye vpon you, will you bring vs to be 
+slaues? neither lawe, nor reason, least of all 
+religion can allow what you affirme, and therefore 
+as I before conceiued, so I may now protest, that 
+you, and such as you are, are euen the cords 
+whereby poore men are drawne into seruitude and 
+slauery, and therefore I say againe, it is pitty any of 
+you haue any imployment in a Common wealth.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> What Sir, because I say you are in some 
+sort the Lords? I tell you, that I mistake it nothing 
+at all: for as the King is Supreme head and Prince, 
+and defendour of all his Subiects, so vnder the 
+King is euery Lord of a Mannor chiefe and head 
+ouer his Tenants, namely, vnder <comment type="compiler">CORRECTED INTO ouer BY HAND</comment> such 
+as hold of 
+him: And he hath a kinde of commaund, and 
+superior power ouer them, as they are his Tenants, 
+and for that cause he is called, and they doe
+acknowledge him to be their Lord. And what doth 
+the word <font>Lord</font> import, but a Ruler or Gouernor? 
+If he be your Lord, then are you his, to be 
+gouerned in causes determineable within the Mannor, 
+and as I will heereafter prooue, the Lord of the 
+Mannor may commaund his Tenants to 
+accompanie him into the Field against the enemyes of 
+the King, by reason of some tenures, and they are 
+to follow and be commanded and directed by him, 
+and if they refuse the seruice, the Lord may distraine
+for it, or may enter vpon their Lands, and resume 
+it as his owne in some case; so that I may well say, 
+that in a sort, euen your lands and your selues are the 
+<pagebreak id="6" />
+Lords. The vse and occupation is yours, but if the 
+Land were so yours as were none aboue you, you 
+might then call it yours: but so is none, but the 
+Kingdome which the King holdeth of none but of 
+God. And no man is so absolute within the 
+Kingdome, but he holdeth his land of some Mannor, or 
+person, or of the King. And of whom such land is 
+holden, the same is called the Lord of that land after 
+a sort, because it is held of him by some kind of rent
+or seruice, and by possibility this land may come 
+vnto, and by law be cast vpon the Lord of whom it is 
+holden, as if you be so willing as you seeme to talke 
+of these mysteries, you shall anon perceiue. And 
+therfore you can not but say, that the land and your 
+selues are in some sort the Lords. And therfore is it 
+not lawfull for the Lord of the Mannor, to enquire 
+and examine of the things in those kinds belonging 
+vnto him? And if there be cleane and plaine dealing 
+among tenants, they need not feare who looke into 
+their lands and estates. But if there be deceits and 
+wrongs against the Lord, policie willeth you to 
+banish any man, and to barre all the meanes that may 
+discouer them, though equitie and honestie be 
+contented to discouer all things to the manifestation of 
+truth. Are not these the matters of chiefe 
+importance that disquiet you? The measuring of your
+lands, the obseruation of the quality, and 
+estimating the value of your lands.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> It is true: for these are the causes that our 
+rents are increased, and our fines raysed, and this 
+would the Lord neuer do, if such as you did not 
+inkindle the Lords desire, by your too seuere 
+scrutations, examinations, impositions, &amp; imputations: 
+for were the Lords of Mannors ignorant of these
+things, as in former times, poore tenants might 
+haue things at the rate they had in former times.
+<pagebreak id="7" />
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> My friend, if I compare you to a dead 
+Image, be not offended, for I perceiue you haue 
+eyes to see, and yet you see not, you haue a heart to 
+vnderstand, and yet your vnderstanding is amisse.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> I am beholden to you Sir, to make me 
+worse then a beast, for a beast hath the things you 
+say I want: how prooue you what you haue sayd?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Because you impute your great impositions
+vnto the acte of an honest Surueyor, when I will 
+assure you and prooue, that the cause is in and of 
+your selues.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Then in deede you might account vs 
+brutish, if we would worke our owne woe.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I perceiue, though you may be a good worldly
+Farmer, you are but a meane obseruer of the course 
+and carriage of things passing dayly vnder your 
+nose. He that hath seeing eyes and an 
+vnderstanding mind, may easily see and perceiue, that there 
+is no Mannor, nay, no Farme, be it great, or little, 
+farre off, or neere hand, but hath bin, and dayly is 
+discouered, by priuate intelligencers, lurking in or 
+neere the same, prying into estates, ayming at the
+quantity, wide, short, or ouer, seldome hitting 
+right, obseruing also the quallity, and glauncing 
+at the value of euery mans land, and therefore 
+secretly and vnder-hand do informe the Lords of the 
+Farme, and they being credulous ouermuch, and 
+not a little couetous, build their demaunds both 
+of rents and fines, vpon these most deceiueable 
+informations, whereby the Lord is abused, and
+the Tenant wronged; whereas were the things 
+seene, viewed, and surueyed by a iudicious and 
+faithfull Surueyor, who vpon due consideration, 
+and discreet obseruation of all particulars, giues 
+in a true and indifferent certificate vnto the Lord, 
+vsing rather his vttermost indeuour to moderate 
+<pagebreak id="8" />
+and mitigate the Lords excessiue demands, then 
+aggrauating the validity beyond reason or a good
+conscience, you would be of another minde, and 
+I protest, I hold that Surueyor a very bad man, that 
+will either for affection or bribe carry a parciall hand 
+betweene the Lord and his Tenants: yet sith he 
+holdeth as it were the beame of the ballance, he should 
+rather giue the better waight to the weakest, 
+respecting nothing but a charitable course to be held by 
+the Lord, for whom he trauaileth with the Tenant, 
+against whom if he speake not, he shall be often 
+suspected of the Lord to be parciall. But if there be 
+equall consideration on all sides, the Lord will 
+beleeue the Surueyor deales iustly, and the Tenant rest
+satisfyed, willingly to leaue, or rudely to accept, as 
+his owne iudgement agreeth or disagreeth with the 
+things propounded. For this haue I obserued, that 
+oftentimes Tenants consider not when they are 
+kindly vsed, neither see they at all times when they 
+are abused.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Truly I beleeue you in part: for indeede 
+there are euen amongst vs, in y=e= Mannor wherein I 
+dwell, officious fellowes, that to procure the Lords 
+good opinion, will pry into mens estates, &amp; indeede 
+as you say, into y=e= quantity, quality, &amp; value of mens 
+lands, and giue false information oftentimes, and I 
+know it is a foule abuse, and of the two, I rather 
+allow a true suruey, then a false report: for such fond 
+fellowes as are thus busy in other mens causes, are
+of all me~ least to be beleeued; for they speake always
+for affection or gaine: for they wil estimate <comment type="compiler">CORRECTED INTO       
+extenuate BY HAND</comment> the value 
+of them they loue, or haue gaine by, and aggrauate 
+the same, as their hope is of the Lords reward: all 
+this I know without your report. But what is that 
+to the thing you charge poore tenants withall, that 
+they are the cause of their owne hard measure? 
+<pagebreak id="9" />
+cleere your selfe of this slander.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> That can I easily do by experience, and I 
+thinke I shall haue the whole world to witnes it for 
+your further satisfaction, who can not your selfe be 
+ignorant of the same thing; for you haue in part 
+confessed the thing: for the former Informers, of whom 
+you last spake, are euen tenants themselues, yet I 
+accuse then not all, nay, I excuse none in particular: for 
+I haue seene and obserued among them a kind of 
+madnes, as I may call it, but in the best sence it is a 
+kind of ambitious, or rather auaricious emulation, 
+wherein they striue one to outstrip another in giuing 
+most: as where my selfe haue had businesse of this 
+nature, namely, of letting, setting, or selling of land 
+for yeeres or liues, being, or neere being
+determined, in farmes or other like, whereby the Lord hath
+bin at liberty to dispose therof at his will, for best
+aduantage, by choice of a new tenant, Proclamation to
+that effect hath bin made in ope~ court, where I haue
+seene, and it is dayly in vse, that one wil outbid 
+another, as at an outcry in <font>London</font> , in so much as I haue 
+wondred at their emulation, and could not haue 
+asked what they haue raysed it vnto themselues. And 
+should any that is in authority in this case (who in 
+duty is not to hinder the Lord, or the Lord himselfe) 
+inhibit such hot spirits to clyme as high for the Lords 
+aduantage, as the ladder of their owne will, and
+supposed ability will reach? This is not as one Swallow 
+in a Summer, but they are many, and euery where 
+Winter and Summer, and yet are other me~ accused 
+and condemned for the~ and their faults, if there will 
+be a fault in itselfe: but I should thinke it greater 
+madnes for a Lord, wilfully to refuse what is so
+voluntarily offered, and so willingly giuen. Now, who
+is the cause of raysing rents and fines?
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> I know, such rash &amp; ouerforward me~ there 
+<pagebreak id="10" />
+are in the world not a few, almost in euery Mannor, 
+who are especially pricked forward to this 
+emulation through enuy and auarice, hauing meanes to 
+atchieue their desires. But this bidding and 
+out-bidding is in things, wherein the Lord is at his
+libertie to take a tenant whom he list. But in customary
+tenements of inheritance the case is otherwise, 
+where the rent is and the fine (for the most part) 
+certaine, what needes the Lord haue this surueyd, 
+or any free-hold lands?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> It is fit the Lord should know what his tenant
+holdeth, be it free or customary, though at this day 
+there be a needlesse nicenesse in some free-holders 
+of Mannors, who seeme to conceale their estates, 
+and to kick against the view of their lands: but if they 
+knew what they did, they would reforme that error.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Call it you an error, for a free-holder to 
+refuse to shew his estate to the Lord, or not to suffer 
+his land to be surueyd?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I may well so call it, nay, I may call it a great
+fault, or an iniury done against the Lord, and 
+hurtfull to himselfe. There is none (it may be you know 
+it) that holdeth of any Lord land, but he holdeth the 
+same by some kind of rent or seruice, and when he 
+comes to take vp his land after the death of his 
+auncester, or vpon purchace, but he doth or ought to 
+do homage and fealty, or one of them, vnto the Lord 
+of whom he holds it; the doing whereof, how 
+ceremonious it is, if you be a Tenant to any such land, 
+you know, and wherein he maketh a solemne vow 
+and oth, to be true Tenant vnto the Lord for the 
+land he holdeth. And sometimes the Tenant of 
+such a Tenure, is forced to be ayded by his Lord for
+the same land, if he be impleaded for it: now, if such a
+Tenant refuse to shew his estate, or to permit his 
+land to be seene, how performeth he his oath, to be 
+<pagebreak id="11" />
+true Tenant, and to do such seruices as are due vnto 
+the Lord? among which, this, of permitting the Lord 
+to know his owne, is not the least, nay, he ought by 
+his oth of fidelity, to further it by all meanes, both by 
+his proper knowledge and euidence, not only his 
+owne, but other mens lands, and thereby he shall 
+not only not preiudice himselfe, but he shall 
+fortifie his title so much the more, by hauing his 
+euidence inrolled, and his land recorded in the Lords 
+booke of Suruey, that when his heire shall take vp 
+the land, or he alien the same, it appeareth that he is 
+true Tenant vnto such lands for such rent, and for 
+such seruices: but there be so many scruples thrust
+into mens heads, by such as haue a pretended skill 
+in matters of policie in this kinde, and Lords of 
+Mannors haue bene so remisse in taking knowledge 
+of the things in this maner appertaining vnto them, 
+that questions of Titles and tenures are dayly had 
+and moued, to the great trouble oftentimes both of 
+Lord and Tenant, as is seene by experience dayly as 
+well of land holde~ of the King, as of inferior Lords, 
+which may be reconciled, if Tenants were not too 
+curious, and Lords too negligent. Besides this, there 
+are other reasons to mooue the Lord to know what 
+land is holden of him, and by what title, rent, and 
+seruice: for free-holders may forfeit their land, and 
+their land may escheat vnto the Lord: if then he
+should be ignorant what land it is, where it lyes, and
+how much it is, he may be easily abused for want of
+records: and so are many Lords of Mannors, who for 
+want of due knowledge of their tenants and of their 
+land &amp; tenures, other men are intitled to their right.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> You haue said more then I heard or dreamed 
+of, and it holdeth in some sort by reason, how it is by 
+law I cannot dispute: but in all y=t= you haue said, you 
+haue not satisfied me in the thing before I spake of, 
+<pagebreak id="12" />
+touching the fines of customary tenants of 
+inheritance, which (as I said before) haue bin of late raised 
+far higher then in former times, by your surueyors.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> You strike alwayes one string, and I find the 
+sound of your meaning; you would always be as 
+easily charged in your fines as might be: and in that I 
+blame you not, it is euery mans case to beare as light 
+a burden as he can. But if you remember what I 
+spake before, touching the cause of this raysing of 
+fines, where I prooued it came most by your owne 
+meanes, you may be the sooner satisfied in this, for 
+it is in nature like the former. Although this kind of 
+Tenant hath seldom any competitor to emulate his 
+offer, because the Tenant leaueth co~monly one 
+either in right of inheritance, or by surrendor to 
+succeed him, and he by custome of the Mannor is to be 
+accepted Tenant, alwayes prouided, he must agree 
+with the Lord, if the custome of the Mannor hold
+not the fine certaine, as in few it doth: now this
+composition is commonly made by demaund of 
+the Lord, and offer of the Tenant. The Lord asketh 
+according to his conceit of the value of the thing, 
+and eyther his knowledge must arise by his owne 
+experience, or by information: the information 
+is eyther by secret intelligence of some officious 
+neighbour, or by due iudgement of an indifferent 
+Surueyour, namely, such a one as carieth equall
+respects to Lord and Tenant. And although, as you
+alledge, former times did affoord Tenants more 
+fauour in rating and arbitrating fines, as you 
+suppose, if you consider it well, it is now as then it was.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> There you much mistake you: for I will 
+shew by auncient Court rolls, that the fine of that 
+which is now twenty pound, was then but thirteene 
+shillings foure pence, and yet will you say they are  
+now as they were then?
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Yea, and I thinke I erre little in it. For if you
+consider the state of things then and now, you shall 
+find the proportion little differing: for so much are 
+the prices of things vendible by Farmers now 
+increased, as may well be said to exceed the prices then, as 
+much as twenty pound exceedeth xiii. s. iiii. d.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> You speake farre from truth, and I 
+maruell you will erre so much, pretending to be a man 
+of that reach, that men imploy you to ouer-reach 
+others.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> To shew you then an instance, looke into the
+Chronicle in the time of <font>Henry</font> the sixt, and you shall 
+finde, that a quarter of Wheate was sold at <font>Royston</font> 
+in <font>Hartfordshire</font> for twelue pence: and I trust, if you 
+be a Farmer, you are a Corne-seller, and I thinke, if a 
+man offer you thirty times as much for a quarter, 
+you will say it is better worth.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Was it possible that Corne was then and 
+there so cheape, and to rise since to this rate? it is 
+very strange.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Not at all: for since there grew such
+emulation among Farmers, that one would outbid another,
+(which in the beginning was little seene) it grew at 
+length, that he that bought deare, must sell deare, 
+and so grew the prices of things by degrees to this 
+rate as now they be, and a Farmer gets as much by 
+his Farme now, as then he did.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> You erre therein, I assure you: for else could
+Farmers keepe as good houses &amp; hospitality now, as 
+they did then, and alas, you see how vnable they be.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> It is true, and the reason is manifest: for 
+where in those dayes Farmers and their wiues were 
+content with meane dyet, and base attire, and held 
+their children to some austere gouernment, without 
+haunting Alehouses, Tauerns, Dice, Cards, &amp; vaine 
+delites of charge, the case is altred: the <font>Husbandman</font>
+<pagebreak id="14" />
+will be equall to the <font>Yoman</font> , the <font>Yoman</font> to the 
+<font>Gentleman</font> , the <font>Gentleman</font> to the <font>Squire</font> , the <font>Squire</font> 
+his 
+Superiour, and so the rest, euery one so farre exceeding 
+the corruptions held in former times, that I will 
+speake without reprehension, there is at this day 
+thirty times as much vainely spent in a family of like 
+multitude and quality, as was in former ages,
+whereof I speake. And therefore impute not the rate of
+grounds to a wrong cause, for to tell you truly, both 
+Lord and Tenant are guilty in it: and yet they 
+may be both content, for they are as the Sea and the 
+Brookes: for as the Riuers come from the Sea, so 
+they runne into the Sea againe.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> To tell you truly, you haue sayd more 
+then I haue heard, and indeed it stands with some 
+reason; and you haue in part satisfyed me, that the 
+cause of our complaint is not so grieuous, as I and 
+infinite other haue supposed it. Yet to tell you as I 
+and others haue found, there be some of your 
+profession haue either none at all or little, or very hard 
+consciences, and for the most part such as haue least 
+skill: and such indeede I thinke vnnecessary for 
+Lord, or Tenant; for they cannot but abuse the 
+one or other by their reports: and the records which
+they make, may breede quarrell many yeares after. 
+And therefore as the Surueyor is a member (as 
+you hold) not only tolerable, but necessary, I wish 
+there were fewer, and they honest, iust, and skilfull: 
+for to tell you truly, we haue thought among vs 
+Country-men, that there are more then can be 
+imployed, as it seemeth by their publike declarations
+of their wa~t of worke: for as I haue passed through 
+<font>London</font> , I haue seene many of their Bils fixed vpon 
+posts in the streetes, to solicite men to affoord them 
+some seruice: which argueth, that either the trade 
+decayeth, or they are not skilfull, that beg  
+<pagebreak id="15" />
+imployment so publikely: for, <font> <foreign>Vino vendibili suspensa hedera 
+non est opus</foreign> </font> . A good workeman needs not stand in
+the streetes.
+<comment type="compiler">THE REMAINDER OF THE FIRST BOOKE OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="38" />
+ <head>THE SURUEYORS DIALOGUE, BETWEENE THE 
+LORD OF A MANNOR, AND A SURUEYOR:
+WHEREIN IS INTREATED OF THE STATE OF A MANNOR, OF THE 
+PARTS AND PROFITS THEREUNTO BELONGING: AND 
+HOW THE LORD OF A MANNOR OUGHT TO 
+DEALE WITH HIS TENANTS.</head> 
+
+ <head> <font>THE SECOND BOOKE.</font> </head> 
+
+   <nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Friend, of late I met with a Tenant
+of mine, who told me you are a 
+Surueyor of Land.
+   </dialogue><nonSpeech> <font>Surueyor.</font> </nonSpeech><dialogue> I haue beene, and am sometimes 
+imployd in that kind of seruice.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> I haue at this time some occasion to vse 
+the ayd of one of your faculty: and I haue heard 
+by my Tenant, that your skill and diligence may 
+satisfie my desire therein.
+   </dialogue><nonSpeech> <font>Surueyor.</font> </nonSpeech><dialogue> I shall do mine endeuour wherein you 
+please to commaund me.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> There bee many, I know, that beare the 
+name of <font>Surueyors</font> , but when they are put to it, they 
+come far short of some principall poynts required 
+in the absolute performance of the worke, and 
+eyther leaue it halfe done, or so shuffle it vp, as the
+Lord is abused, and the Tenants wronged, by the
+blind and vncertaine returnes of the Surueyors 
+trauailes: for a Lord of a Mannor knoweth not, 
+but by such as he vseth therein, the estate of things, 
+and how the particulars stand betweene the Lord 
+and his Tenants. If the Lord of the Mannor haue 
+neuer so good a mind to deale well with his
+<pagebreak id="39" />
+Tenants, and the Tenants be neuer so inclinable to do 
+true duty to their Lord, they may be both misled by 
+an vnskilfull Surueyor, to the vniust 
+condemnation or suspition of both. And therefore I thinke it 
+behoueth men of worth, that haue vse of such as you 
+are, to be well assured of the skill and ability which 
+you pretend to haue in your profession; and because
+I haue no further experience of you then the bare 
+report of my Tenant, I must intreate you to 
+discourse vnto me a little of your knowledge of such 
+particulars, as are to be considered in the absolute 
+suruey of a Mannor.
+   </dialogue><nonSpeech> <font>Surueyor.</font> </nonSpeech><dialogue> Sir, you seeme to oppose me farre, and 
+the thing you demaund, will require a longer time, 
+and a larger discourse, then either my leysure, or 
+peraduenture my present memory of euery 
+particular will readily permit. And it may be, that you 
+that pretend little knowledge in the arte, may 
+apprehend both the truth of the thing, and an error 
+committed in the performance, as well as he that 
+assumeth the title of a Surueyor, although neither 
+your leysure nor your quality may in reason permit 
+you the trauaile in it: for I know many Gentlemen 
+of good woorth, that haue the speculatiue parts of
+the whole, and the practick of the deepest, and yet
+they will not be seene to tread that path that a
+Surueyor is forced to do, in the whole businesse. You
+haue the matter and subiect whereon a Surueyor
+worketh, and without which a Surueyor loseth both
+arte and name, and therefore you cannot be
+altogether ignorant of the things required in the 
+businesse, as the Master of a feast can not dresse the 
+dainties, but the Cooke, yet can the Master reproue 
+the Cooke if he do not his duty therein.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Thou sayst true in thy comparison: but 
+for my part, although indeed I haue Land, and I 
+<pagebreak id="40" />
+know how many Mannors I haue, their names, 
+and where they lye, and the most of my Tenants, 
+and theyr rents, and if you should erre in these, it
+may be I might be able to reprooue you, yet for 
+matters of farther search, I assume not to be 
+skilfull, for then I needed not your seruice, as of 
+quantities, qualities, values, validities of estates, 
+tenures, customes, and other things incident to a
+Mannor, which are not in all Mannors alike, the 
+true discouery whereof belongeth to the 
+Surueyors office, yet none but such as are truly skilfull, 
+can sufficiently discharge the duty heerein required: 
+and therefore by your leaue, you shall briefly (I will 
+not be tedious) relate vnto me what you can say 
+of the definition of a Mannor, whereof it consisteth, 
+how, when, and by whom it was erected, with 
+other such things as shall be expedient for the Lord 
+of a Mannor to know the particulars whereof I 
+will leaue to your relation, and first tell me <font>What
+a Mannor is</font> .
+   </dialogue><nonSpeech> <font>Suruey.</font> </nonSpeech><dialogue> Sith you will needs diue into my poore 
+skill, by your opposall, and sith indeed I do in some 
+measure professe the arte, wherein I thinke no man 
+is or hath bene so exquisit, but hee might erre in 
+some poynt or part much or little, as in other artes, 
+yet to answere your demaunds, I will as briefly as 
+I can, satisfye your desire. And first, where you 
+demaund what a Mannor is, <font>A Mannor in substance 
+is of Lands, Wood, Meddow, Pasture, and Arable: It 
+is compounded of demesnes and seruices of long 
+continuance</font> . As touching the beginning of a <font>Mannor</font> , and 
+the institution thereof, the beginning of Mannors 
+was, when the King gaue Lands vnto his followers, 
+in such quantity, as did exceed the proportion of  
+a mans manurance and occupation, as a thousand, 
+two thousand Acres more or lesse: which quantity 
+<pagebreak id="41" />
+of Land being at that time as it were in a lump or 
+<font>Chaos</font> , without any distinction of parts, or qualities 
+of Land, he to whom such Land was giuen to hold 
+to him and his heires for euer, enfeoffed some others 
+in parts thereof, as one in ten, another in twenty, 
+and some in more, some in lesse Acres, and in 
+consideration of such feoffements, euery of these were 
+to do the feoffer some kind of seruice, as he and they 
+agreed vpon, reseruing such a part vnto himselfe, 
+as he might conueniently occupy in his owne hands,
+and by this meanes the Land thus giuen by the 
+King, and thus proportioned out to others by the 
+<font>Donee</font> , became to be called a <font>Mannor</font> . And he that 
+was thus inuested in this Land by the King, was in 
+respect of such as he infeoffed, called the <font>Lord</font> , and 
+such as were infeoffed, were called <font>Tenants</font> : <font>Lord</font> ,
+in respect of gouernement and commaund; and 
+<font>Tenants</font> , in respect of their tenures, and manner of 
+holding vnder the Lord whom they were to obey.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> But when or about what time was this 
+erection of Mannors?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> As I take it, and as it seemeth, in the time of 
+the <font>Normans</font> : for among the <font>Saxons</font> was no such 
+name as the name <font>Mannor</font> , yet the thing euen in 
+substance was then, for they had <font>Demeisnes</font> , and 
+seruices in substance, but the demeisnes they 
+called <font>Inlandt</font> , and the seruices <font>Vtlandt</font> , so that it 
+differeth only in name, but in Iurisdiction little or 
+nothing at all.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Whereof is it called a <font>Mannor</font> ?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> There is some differe~ce of opinio~s whe~ce the
+word <font>Mannor</font> should be deriued: it is in Latin called
+<font>Manerium</font> , yet a word not vsed among the <font>Romans</font> or
+ancient <font>Latins</font> , &amp; therfore to find the <font>etimon</font> by it, can 
+not be: for the word is vsed among our Lawyers, as
+many other made words are, which haue bin termes
+<pagebreak id="42" />
+raised by our Lawes, &amp; are not elsewhere in vse; and
+therefore the neerest way to find the signification of 
+the word, is by the quality of the thing; so that 
+some hold, it should proceed of the Latine verbe, 
+<font>Manere</font> , which signifieth to abide, or remayne in a 
+place, as the Lord and his Tenants did in this, 
+wherof the head house, or the Lords seate was called 
+<font>Berrye</font> , which signifieth in the Saxon toong, a 
+dwelling place, which continueth yet still in 
+<font>Hartfordshire</font> , and in diuers other places, and is also taken 
+sometimes <font>pro castro</font> , which was also the seate of the 
+Lord of some Mannors. <font>Mannor</font> houses were also,
+and yet are called in some places, <font>Halls</font> , as in <font>Essex</font> , 
+and Northward: <font>Courts</font> and <font>Court-houses</font> 
+Westward, as in <font>Somerset</font> , <font>Deuon</font> , <font>&amp;c.</font> as also <font>Mannor 
+places</font> : all which are places of the Lords owne abode, 
+and therefore it may not vnfitly be said, to take name 
+of abiding or dwelling. Some thinke, and not 
+improperly, that it taketh name of the French word 
+<font> <foreign>Manemirer</foreign> </font> , which signifieth to till and manure the 
+ground. And of the two, I take this latter to be the 
+most proper deriuation of the word <font>Mannor</font> : for 
+thereof are many chiefe houses of tillage, called 
+<font> <foreign>Predia</foreign> </font> , Graunges. It may also take the name of <font>Mainer</font> ,
+to gouerne and guide, because the Lord of the 
+Mannor had the managing and direction of all his 
+Tenants within the limits of his iurisdiction. Of these 
+deriuations <font> <foreign>qualem mauis accipe</foreign> </font> : necessity tyes to 
+neyther.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> These significations of the word may 
+stand all with sence, and much materiall it is not 
+whence the word ariseth, but the likelyest is indeed
+that which most agreeth with the propertie of the 
+thing. But I haue within my Mannors sundry 
+<font>mesuages</font> : whence is the name deriued?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Of <font>meisus</font> , or <font>mesuager</font> , which is as much
+<pagebreak id="43" />
+to say, as <font>familiam administrare</font> , to gouerne a 
+houshold: for euery of the Tenants had his family, and of 
+diuers of them and of the Lords family did a 
+Mannor consist.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Then no doubt, if a man haue a thousand 
+Acres of Land more or lesse, to him and his heires, 
+which lyeth in one intire peece, not yet diuided, may 
+be diuided into parts, as a portion for the Lord 
+himselfe, and some parcels to erect such mesuages 
+for Tenants to do him seruice, as he may make a 
+Mannor where none was before.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> No Sir, for although a man haue a 
+competent quantity of Land in his manurance, and would 
+conuert it to the end you speake of, were it neuer so 
+great, and could establish many <font>mesuages</font> , and could 
+erect whatsoeuer seruices, this would not become a 
+<font>Mannor</font> , because all these must haue long 
+continuance, which can not at this day be confirmed by any 
+priuate man, but by the King only: but he may haue 
+thereby a kind of <font>seignory</font> , a Lordship or 
+gouernement in grosse ouer his Tenants by contract or 
+couenant, but no <font>Mannor</font> . No man at this day can 
+create a seruice or a tenure, or by any meanes rayse 
+or erect a <font>Mannor</font> : for there must be very Lord and 
+very Tenant in fee-simple, and that of auncient
+co~mencement and continuance, or else it can inure 
+no <font>Mannor</font> . For a man may haue demeisns to occupy,
+and Tenants to do him seruices, and that of
+continuance, and yet no Mannor. As if a man that had 
+Land, did giue part of this Land in former time to 
+some others in tayle to do him seruices, heere are 
+demeisnes in the donor, and seruices in the donees, 
+and a tenure: yet because there be not very Tenants 
+in fee simple, it maketh no Mannor.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Whether are all Lands holden of a 
+Mannor, parcell of the same Mannor?
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> No, Lands may be holden of a Mannor by
+certaine seruices, the seruice may be parcell of the 
+Mannor, and yet the Lands not.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> But may not this Land be made parcell 
+of the Mannor at this day?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> By no other meanes but by <font>escheat</font> , for if the
+Land fall vnto the Lord by escheat, then it comes 
+parcell of the Mannor: for then is the <font>seruice</font> 
+extinguished, and the Land commeth in place of it.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> May not a man purchase Land that lyeth 
+neere his Mannor, and annexe the same, and make 
+it parcell of the Mannor, though it held not of the 
+Mannor before?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Forraine Land newly purchased, though it 
+lye within the precinct and bounds of the Mannor, 
+can not be annexed, though the Tenant thereof be 
+willing to do his seruices there: for this is in nature 
+of a new creation of a tenure, which at this day the 
+lawe will not admit, only the <font>King</font> by his prerogatiue 
+may.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> What if it were tyed vnto the Lord of a 
+Mannor for the payment of an annuity, is not the 
+annuity then parcell of the Mannor? And if that 
+Land be purchased by the Lord, and thereby 
+extinguish the annuity, doth not that Land come in place 
+of the annuity, and so become parcell of the 
+Mannor, as the Land you spake of before, which by the
+escheat ran in place of the seruice?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> The case is not alike: for the annuity was not
+parcell of the Mannor, neither can it be by such 
+meanes as you propound by the way of Mortgage. 
+But in another sort it may: as if a Mannor be to be 
+diuided into sundry parts, and because the parts fall 
+out vnequall in value, there must a rent or annuity 
+be apportioned to make vp the value, which rent 
+becomes parcell of the Mannor.
+<pagebreak id="45" />
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> If the Mannor be diuided, as you say, and 
+a rent allotted to one part, how can the rent be 
+parcell of the Mannor, for as much as in my 
+vnderstanding, the Mannor becommeth by this partition, to be 
+no Mannor: for if there can be no addition to a 
+Mannor, there can be no diuision of a Mannor, and 
+yet the Mannor to continue still a Mannor.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Yes Sir, of one Mannor may be made diuers 
+at this day.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> How I pray you?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> If a Mannor descend to diuers partners, and
+they make partition, and euery one hath demeisnes
+and seruices, euery one hath a Mannor, and euery 
+one may keepe a Court Baron.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> What if a man make a feoffement vpon
+conditions of parcell of his Mannor, or do graunt 
+a Lease to another for life of part, or do intayle part, 
+are not these parts still parcels of the Mannor?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> If parcels of a Mannor be once thus seuered,
+they immediatly become no parcels thereof: yet 
+may they all reuert and become parcels of the 
+Mannor againe, as if the condition of the feoffement be 
+broken, if the Tenant for life dye, or the limitation 
+of the entayle discontinue for want of heires.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Then a man may say, that though such 
+Land be not, yet the reuersions are parcels of the 
+Mannors.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> So it is intended.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Well, you haue reasonably well satisfied 
+me in these poynts, yet would I gladly haue some 
+further satisfaction of some other matters, touching 
+the state and profits of a Mannor. 
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I would be willing to do my best to content
+you, but you partly hinder me of other businesse. 
+What else would you know? I wish breuity.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> It shall be so, neither shall you lose your 
+<pagebreak id="46" />
+labour: for I meane to vse you, if my future 
+satisfaction be answerable to this former. May euery 
+Mannor keepe a <font>Court Baron</font> ?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Euery Mannor in the beginning, no doubt, 
+might keepe a Court Baron, and so it may at this day,
+vnlesse the Mannor be so dismembred, as it wanteth 
+that which may warrant the keeping thereof: for if 
+all the freeholders of a Mannor do escheat, or all but 
+one, the Mannor is then disabled to keepe a <font>Court 
+Baron</font> , for the Court can not be kept without suters, 
+which are the freeholders.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Then me thinks, the Mannor loseth the 
+name of a Mannor: for if it lose the quality, it is not 
+the thing, no more then a <font>logge</font> that had fire, can be 
+sayd a <font>fire-logge</font> , when the fire is extinct.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> It is true, it becomes no Mannor, but a 
+<font>Seignory</font> , hauing no power to keepe a Court Baron.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> An ignorant Surueyor, I see, may be easily
+deceyued, in terming that which is no Mannor, a 
+Mannor, and that no Mannor, which indeede is a 
+Mannor. But satisfie me in this one thing. A man 
+hauing two Mannors lying together, and the one 
+of them is decayd, and hath lost his power to keepe 
+a <font>Court Baron</font> , and the Lord is willing to haue the 
+Tenants of both these Mannors to do their suites 
+and seruices to one Court, namely, to that which 
+standeth yet in force, and that me thinks were good 
+for the Tenants to ease them, and it would preserue 
+the Lords right without preiudice to any: for then 
+one homage would serue both, and both serue as 
+one, one Bayly, and other officers, as if it were an 
+intire Mannor.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Yet this can not bee, for this vnion of the
+Mannors can not extinguish theyr seuerall 
+distinctions, for they will be still two in nature, 
+howsoeuer the Lord couet to make them one in name, and  
+<pagebreak id="47" />
+the more powerfull <font>Mannor</font> hath no warrant to call 
+the Tenants of the decayd <font>Seignory</font> , but euery act 
+done in one to punish an offendor, in the other is 
+trauersable, and therefore it is but lost labour to 
+practise any such vnion; if it be considered by such as 
+are forced to seruice in this kind, they may refuse it: 
+yet if they will voluntarily submit themselues to such 
+a nouation, and the same be continued without 
+contradiction, time may make this vnion perfect, and 
+of two distinct Mannors in nature, make one in 
+name &amp; vse, and I do not thinke but such there are.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Then is there, as it seemeth, no meane to 
+annexe two Mannors in one, howsoeuer necessary 
+it were both for the Lord and Tenants.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Yes Sir, two Mannors may become as one, 
+if one Mannor do hold of another, and it escheat to 
+the Lord, the escheated Mannor may be annexed, 
+and vnited, and of two distinct Mannors become 
+one, if the Lord will, in vse.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> I am answered in this poynt, and it 
+standeth with more reason indeed then the former: now 
+I pray you tell me what things do properly belong 
+to a Mannor.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> There do belong to a Mannor, <font>Lands,
+Tenements, rents</font> , and <font>seruices</font> , as I shewed you before in
+part, which are a parcell in <font>demeisne</font> , and parcell in 
+<font>seruice</font> .
+<comment type="compiler">ENSUING TECHNICAL DISCOURSE OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="81" />
+   <nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> Wel, I haue heard all thy discourse with 
+patience: and indeede my desire was to heare thee in 
+these things, and I mislike not any thing in thy 
+<pagebreak id="82" />
+whole relations, and thy conclusion is not amisse, 
+though perchance some young nouices of the world 
+might censure thee: reason will not but alow what 
+thou hast sayd. And I wish that all the Tenants 
+that I haue, may liue vnder me with comfort: for 
+to tel the truth, I had rather buy a smile, and a good 
+report of my faithfull tenants, somthing to my losse, 
+then to get their frownes to my gaine. For there is 
+no comfort in a discontented people, though some 
+haue said: <font> <foreign>Rustica gens, optima flens, pessima 
+gaudens</foreign> </font> : which may hold among <font>Infidels</font> , and vnder 
+<font>Tyrants</font> , but not among <font>Christians</font> , that should not 
+grieue one another.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I am right glad, Sir, you are of so qualified a
+disposition, your example may do good to others, if 
+not, it will giue euidence against the contrarie 
+minded in time to come. And so for this time I must 
+intreate you, I may take my leaue of you. I will attend 
+your other occasions foorthwith.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> That is my will. But who comes yonder?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I take it is your Tenant, that lately departed
+from vs.
+   </dialogue><nonSpeech> <font>Lord.</font> </nonSpeech><dialogue> So it is, I will leaue you two together: fare 
+you well: You know the places where mine 
+occasions will draw you, and in the meane time I will 
+make you a warrant to go in hand with it.
+
+</dialogue> <head>THE END OF THE SECOND BOOKE.</head> 
+
+<pagebreak id="83" />
+ <head>THE SURUEYORS DIALOGUE BETWEENE THE 
+FARMER AND SURUEYOR: WHEREIN IS SHEWED THE 
+MANNER AND METHOD OF KEEPING A COURT OF SURUEY, 
+WITH THE ARTICLES TO BE INQUIRED OF, AND THE CHARGE
+HOW TO INROLL COPIES, LEASES AND DEEDS, AND 
+HOW TO TAKE THE PLOT OF A MANNOR.</head> 
+
+ <head> <font>THE THIRD BOOKE.</font> </head> 
+
+   <nonSpeech> <font>Farmer.</font> </nonSpeech><dialogue> You are happily met here againe, Sir, 
+haue you euer since had conference with 
+my Landlord?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> He is a man of good vnderstanding, and 
+very inquisitiue of things of profite. And yet to tell 
+you truly, he is a good man to his tenants.
+   </dialogue><nonSpeech> <font>Suruey.</font> </nonSpeech><dialogue> Loue him then, for such deserue loue.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> He is beloued of his tenants indeede: for 
+they will go, and ride, and fight for him.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> It is the part of good tenants, and an
+argument of a good Landlord. But fare you well, I 
+cannot now stay, I haue bene long letted by your 
+Landlord and you.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Are you presently to vndertake the suruey 
+of my Landlords Lordships?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I am now going about it.
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> I thinke it be in your choice where to 
+begin, let me therefore intreate you to begin with 
+<font>Beauland</font> , a Mannor of his here at hand, whereof I 
+am both tenant and Bayly: and therfore I will and 
+must attend you, and yeeld you my best ayd, both by 
+my trauell, information, and records of the Ma~nor.
+<pagebreak id="84" />
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Keepe you the Lords records?
+   </dialogue><nonSpeech> <font>Bay.</font> </nonSpeech><dialogue> The key is in my keeping that leads to the 
+Chest, but the key of the Chest is in my Lords 
+keeping: but I will send for it, that you may haue y=e= full 
+view of the euidence.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> So it behooueth: Is it a large Mannor?
+   </dialogue><nonSpeech> <font>Baylie.</font> </nonSpeech><dialogue> It is spacious in circuit, and of great 
+apparance of Tenants, full of diuers commodities, 
+both vnder and aboue the earth, as also of fishing, 
+and fowling, and beareth not the name for nought: 
+for the Mannor is faire, and very 
+commodious.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Be you then my guide: Is yonder it, with 
+the faire house by the Woods side?
+   </dialogue><nonSpeech> <font>Baylie.</font> </nonSpeech><dialogue> That is it, and a stately house it is 
+indeede.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> It seemes to be a large and loftie cage, if the 
+Bird be answerable.
+   </dialogue><nonSpeech> <font>Baylie.</font> </nonSpeech><dialogue> What meane you by that?
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> I meane, that a <font>Titmus</font> may harbour in a
+<font>Peacockes</font> cage: and yet the cage maketh her not a 
+<font>Peacocke</font> , but will be a <font>Titmus</font> , notwithstanding the 
+greatnes of the cage: So if this loftie Pyle bee not 
+equalized by the estate and reuenewes of the 
+builder, it is as if <font>Paules steeple</font> should serue <font>Pancras</font> 
+Church for a Belfrey.
+   </dialogue><nonSpeech> <font>Baylie.</font> </nonSpeech><dialogue> I thinke my Landlord sent you not 
+insteade of surueying his Land, to deride his house.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> The house is beautifull and faire: I deride it 
+not, you doe your selfe wrong in attaching mee, 
+neither discommend I the builder. For he that hath 
+gold enough, let him build a house of gold, with 
+<font>Nero</font> , who made vnto it a pond <font> <foreign>Maris Iustar</foreign> </font> , and 
+woods full of all kind of wild Beasts. <font>Publius Clodius</font> 
+whom <font>Milo</font> slew, bought a house which cost him 
+147000. <font>Sesterties</font> . Let Princes haue their Palaces, 
+<pagebreak id="85" />
+and great men, their pleasant seates: for the poorest 
+will please his fancie, if he be wilfull. But to tell thee 
+by the way, (for this is but idle communication) that 
+I haue obserued in nothing more sudden and serious 
+repentance, then for building: I could point out 
+places and persons too with my finger, but what needs 
+that? I wish their repentance could redeem the thing 
+repented of, but it cannot, no more then <font>Quintus 
+Curtius</font> could redeeme himself out of the deuouring
+gulfe. We haue in our dayes many and great 
+buildings, a comly ornament it is to the face of the earth. 
+And were it not that the smoake of so many  
+chimneyes, did raise so many duskie cloudes in the aire, to 
+hinder the heate and light of the Sunne from earthly
+creatures, it were the more tolerable.
+   </dialogue><nonSpeech> <font>Bayly</font> </nonSpeech><dialogue> Nay truly, I will excuse that fault, the
+fire is made most in the kitchin.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Then it besmoketh not the hall, as old 
+worthie houses did, whose kitchins smoake sent foorth 
+cloudes of good meate, and showres of drinke for the 
+poore.
+   </dialogue><nonSpeech> <font>Bayly.</font> </nonSpeech><dialogue> Yea, Sir, that was a comfortable smoke: 
+but <foreign>Tempora mutantur, &amp; omnia mutantur in illis</foreign> : 
+no earthly thing continueth constant, but hath his 
+change. Lo, Sir, now you are come to the house it 
+selfe.
+   </dialogue><nonSpeech> <font>Sur.</font> </nonSpeech><dialogue> Truly, here is a pleasant ascent, neither too    
+steepe, nor too flat, and of a good length. And now 
+we are come to the top of the hill: here is a goodly 
+prospect and pleasant. And these springs I like well. 
+For a house without liuely water, is maymed: and 
+the water is well conueyed, that it cannot annoy the 
+foundation of the house, and yet serueth the most 
+necessarie offices very commodiously: and I see the 
+Conducts are made of earthen pipes, which I like 
+farre better then them of Leade, both for sweetnes, 
+<pagebreak id="86" />
+and continuance vnder the ground. The trees are 
+well placed about the walkes, but that they are 
+somwhat too neere together, their branches confound 
+one the other, they are but twenty foot, and I like 
+better, thirty. It standeth warme and comfortable 
+towards the South-east, to which the best lights are
+made fitly to serue: but if the ground would haue 
+serued, I like plaine South, the better point for the 
+comfort of the Sunne, at all times of the yeere. And 
+nature hath planted this wood most commodiously 
+in the North side of the house. And it is delicately 
+aduanced vpon the edge of the hill: it is not possible 
+to seate a house more delightfully, for Winter and
+Summer, in mine opinion. Now, if vpon view of the 
+demeisnes, and the rest of the parts, it be not found 
+like vnto a child borne in Chesshire, with a head 
+bigger then the bodie, I shall like it well. Now to our 
+businesse: you are Bayly, take this Precept, and 
+summon the tenants to make their appearance, 
+according to the purport of the same.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TGBH">
+  <dialogueHeader>
+
+    <filename>D3TGBH</filename>
+
+    <identifier>3 TRIAL D3TGBH</identifier>
+
+    <title>ROBERT GREEN</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1678/9/1679</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYALS OF ROBERT GREEN, HENRY BERRY, &amp; LAWRENCE HILL,
+FOR THE MURDER OF S=R.= EDMOND-BURY GODFREY K=NT=. ONE OF HIS 
+MAJESTIES JUSTICES OF THE PEACE FOR THE COUNTY OF MIDDLESEX; 
+AT THE KINGS-BENCH BAR AT WESTMINSTER, BEFORE THE RIGHT HONOURABLE SIR
+WILLIAM SCROGGS K=NT.= LORD CHIEF JUSTICE OF THAT COURT, AND THE REST 
+OF HIS MAJESTIES JUDGES THERE; ON MONDAY THE 10=TH.= OF FEBRUARY 
+1678/9. 
+WHERE, UPON FULL EVIDENCE THEY WERE CONVICTED, AND RECEIVED SENTENCE 
+ACCORDINGLY, ON TUESDAY THE NEXT DAY FOLLOWING. 
+LONDON: PRINTED FOR ROBERT PAWLET AT THE SIGN OF THE BIBLE IN 
+CHANCERY-LANE NEAR FLEET-STREET, 
+1679.
+PP. 28.4 - 58.37
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SOMETIMES ONLY THE FIRST WORD OF A COMPOUND NOUN IS GIVEN IN ITALICS
+IN THE SOURCE TEXT. BELOW THE WHOLE OF THE COMPOUND NOUN IS CODED AS 
+ITALICS.</comment>
+
+<comment type="compiler">SQUARE BRACKETS WHICH ARE SOMETIMES USED IN THE SOURCE TEXT TO 
+ENCLOSE NARRATORIAL COMMENTS ARE OMITTED.</comment>
+
+<pagebreak id="28" />
+</dialogue><nonSpeech> <font>Then Mr.</font> Bedlow <font>was Sworn</font> .</nonSpeech>
+
+   <nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Mr. <font>Bedlow</font> , Pray do you direct your 
+Discourse to the Jury.
+   </dialogue><nonSpeech> <font>Lord Chief Just.</font> </nonSpeech><dialogue> Mr. <font>Attorney</font> , Pray do you Ask him
+your Questions, that you may put him in that Method 
+you would have him take, to give his Evidence.
+   </dialogue><nonSpeech>Mr. <font>Attorney Gen.</font> </nonSpeech><dialogue> My Lord, I would first Ask him this 
+Question: What Conference he had with any persons, 
+Priests or Others, about Murdering any body?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> My Lord and the Jury, I have at other 
+times, and in other places, proved what Familiarity I have 
+had with the Priests and Jesuits; and if I have not satisfied 
+the Court, and Others, about it, yet I have done my 
+Duty in endeavouring so to do. My Lord, I have been
+several times Treated with, not only about the Plot, but by 
+several Persons about Murdering of a Gentleman. They 
+never told me who it was that was to be Murdered; but if I 
+would Undertake it, they, that is, <font>Le Faire</font> , and <font>Prichard</font> , 
+and 
+Mr. <font>Kaines</font> , and several other <font>Priests</font> , who discoursed with 
+me about it, would find out some to Assist me, and my 
+Reward should be very Considerable.
+   </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> It was in <font>October</font> last, about the        
+beginning, 
+or latter end of <font>September</font> .
+   </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> Well Sir, Go on.
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> I did Adhere to them all along, for I had 
+a mind to Discover two Years ago, but was prevented; 
+and I only drill'd them on, to know the Party, that I 
+might prevent them. But they would never Discover the 
+Party.
+   </dialogue><nonSpeech>Mr. <font>Attorney General.</font> </nonSpeech><dialogue> Prithee come to this particular part 
+of the Story.
+<pagebreak id="29" />
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Afterwards they set me to insinuate my self 
+into the Acquaintance of Sir <font>Edmondbury Godfrey</font> , not telling 
+me they had any design upon him.
+   </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> Who did?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> <font>Le Fair</font> , and <font>Pritchard</font> , and        
+<font>VVelsh</font> .
+   </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> <font>Girald</font> was not one, was he?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> No my Lord. But they told me that 
+afterwards they would have me introduce them into his 
+Acquaintance. And I had been, I think, Six or Seven dayes 
+together with Sir <font>Edmondbury Godfrey</font> , at his House, and had 
+got much into his Acquaintance.
+   </dialogue><nonSpeech>Mr. <font>Justice Wild.</font> </nonSpeech><dialogue> By what means did you get into his 
+Acquaintance?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Why, I pretended to get Warrants for the 
+Good Behaviour against persons, that there were none 
+such.
+   </dialogue><nonSpeech> <font>Lord Chief Just.</font> </nonSpeech><dialogue> Well, and what then?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> This was the Week before the Saturday 
+that he was Kill'd; and I was there every day but 
+Saturday. On the <font>Friday</font> I went to the 
+<font>Grey-Hound-Tavern</font> , and I sent my Boy to see if Sir <font>Edmondbury 
+Godfrey</font> were at Home. Sir <font>Edmondbury Godfrey</font> was not at 
+Home then.
+   </dialogue><nonSpeech> <font>Lord Chief Just.</font> </nonSpeech><dialogue> When was that?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> The very Day before he was Kill'd. If 
+he had been at Home, I would have gone over to 
+him, and would have desired him to come over to 
+them.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Were the Priests there?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Yes, my Lord, there was <font>Pritchard</font> , and 
+<font>Le Faire</font> , and <font>VVelch</font> , and <font>Kaines</font> , and another; five   
+<font>Jesuites</font> :
+and, as I said, I sent my Boy to see if he were at home, 
+and he brought me word he was not; and if he had, 
+I was to have gone to him, to have fetch'd him 
+thither, that they might Insinuate themselves into his
+Acquaintance. And indeed, they had Tongue enough to <font>wheedle</font> 
+themselves into any ones Acquaintance. So he not being at 
+home, we came into the City, two of the <font>Jesuites</font> and I.
+   </dialogue><nonSpeech>Mr. <font>Attorn. Gen.</font> </nonSpeech><dialogue> Which two.
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> <font>Le Faire</font> and <font>VVelsh</font> . The next Morning 
+<pagebreak id="30" />
+<font>Le Faire</font> came to my Chamber, and I was not then 
+within; but by Accident I met him, about four of the Clock, 
+in <font>Lincolnes-Inn-Fields</font> . We went to the <font>Palsgraves-Head</font> 
+Tavern; where falling into Discourse, he told me there vvas 
+a Gentleman that vvas to be put out of the vvay; that 
+vvas the Phrase he used, he did not really say <font>Murther</font> him; 
+for they don't count it Murther.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> No, No, they put it into softer
+Termes.
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> They told me it vvas to be done to Night. I 
+asked vvho it vvas, they said it vvas a very material Man: For 
+he had all the Informations that Mr. <font>Oates</font> and Dr. <font>Tongue</font> 
+had given in; that several had been imployed in the 
+doing of it, that several Attempts had been made, and that 
+they had miss'd several Opportunities, and had not done 
+it till then; but if he should not be taken out of the way, 
+and the Papers taken from him, the business would be 
+so Obstructed, and go near to be Discovered, to that 
+Degree, that they would not be able to bring this 
+Design to pass, but must stay till another Age before they 
+should Effect it. I asked him again, who it was, he 
+sayd he would not tell me, but it was a very material 
+Man. I told him, that according to my Promise I would 
+Assist; but in such a Case, I should need a great many 
+Men to be with me, he being so considerable a Person. I
+asked him then, where the Money was, that was 
+formerly promised? he told me no worse a Man was 
+Engaged for it, than my Lord <font>Bellasis</font> , and Mr. <font>Coleman</font> had 
+order to pay it.
+   </dialogue><nonSpeech>Mr. <font>Justice Jones.</font> </nonSpeech><dialogue> What was that Reward?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Four Thousand pound.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Who was it that first named this 
+Gentleman to you to be Sir <font>Edmondbury Godfrey</font> ?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> They never named him to me at all.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Let us know when you first knew it 
+to be Sir <font>Edmondbury Godfrey</font> .
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> I parted with him then, but came not 
+according to my Promise. I was to meet him at the 
+Cloysters at <font>Somerset-House</font> that night; but I knew their 
+Design was to Murder some body, and I would not come. 
+<pagebreak id="31" />
+I saw him no more till Monday Night, then I met him 
+in Red-Lyon-Court, where he put up his Cane to his 
+Nose; as who should say, I was to blame in not keeping
+my Promise. And we went together to the 
+<font>Grey-Hound-Tavern</font> in <font>Fleet-street</font> , where he charged me with 
+my breach of 
+Promise. I told him I was taken up by other Company, and
+unless they would tell me who it was I was to Kill, I would 
+have no hand in it: For I did not know but that it might 
+be my own particular Friend. And I would not murther 
+any private person, unless I knew who it was, and for 
+what Reason. Well, says he, we will tell you more 
+anon if you meet me to night at <font>Somerset-House</font> , at nine a
+Clock. I did meet him exactly at that time in the 
+Cloysters, where we walk't and talk't a great while. And then 
+he took me into the middle of the Court, and told me, 
+you have don ill, that you did not help in this business;
+but if you will help to carry him off, you shall have half 
+the Reward. Why said I, <font>Is he Murdered</font> ? <font>Yes</font> , said he; 
+<font>May not I see him</font> , sayd I? <font>Yes, you may</font> , sayd he: and so   
+took 
+me by the hand, and led me into the Room through a 
+dark Entry. In the Room were a great many, I can't tell 
+who they all were.
+   </dialogue><nonSpeech>Mr. <font>Attorney Gen.</font> </nonSpeech><dialogue> How many were there?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> There might stand a great many behind 
+one another. I saw Four or Five.
+   </dialogue><nonSpeech>Mr. <font>Justice Jones.</font> </nonSpeech><dialogue> What kind of Light had they, Mr. 
+<font>Praunce</font> ?
+   </dialogue><nonSpeech>Mr. <font>Praunce.</font> </nonSpeech><dialogue> It was a middle-sized Lanthorn.
+   </dialogue><nonSpeech>Mr. <font>Just. Jones.</font> </nonSpeech><dialogue> Was it a small Light, or a great Light?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> It was a small Light.
+   </dialogue><nonSpeech>Mr. <font>Justice Jones.</font> </nonSpeech><dialogue> Had they no Light, but that Lanthorn?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> No: And they did not open it till I had 
+had a turn about in the Room.
+   </dialogue><nonSpeech> <font>Lord Chief Justice.</font> </nonSpeech><dialogue> Did they discourse of carrying him
+away then?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Yes, they did.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Did you know him, when he lay Dead there?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Yes, your Lordship shall hear how I came 
+to know him. One stept to the Body, and threw off the 
+thing that laid upon him, and I went and Lookt upon him; 
+<pagebreak id="32" />
+and he had got about his Neck, such a kind of a fashion'd
+Cravat as this about my Neck; and I went to try, and 
+could not get my Finger in betwixt. So I saw him, his 
+Bosome was all open, and I knew him presently: For 
+those Jesuits that were there, were not those who had 
+employed me to insinuate my self into his Acquaintance; and 
+so they thought I had not known him. I Asked who it 
+was, they said it was a man that belong'd to a person of 
+Quality. I was mightily struck and daunted, when I 
+knew him: I would fain have perswaded them to have 
+Tyed Weights at his Head and Feet, and Thrown him 
+into the River; and afterwards I would have dragg'd for
+him, and took him up there. But they did not think 
+that so safe: <font>No</font> (said they) <font>we will put it upon himself, there 
+are none but Friends concerned</font> . I Asked <font>Le Faire</font> , how they 
+would get him out? They said, <font>In a Chair</font> . Then I 
+Asked them, which way they would get him into the Chair,
+and out of the Gate. They said <font>The Porter was to sit up 
+to let them Out</font> .
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> What Porter?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> The Porter of the House.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Who, <font>Berry</font> ?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> Yes. As for that <font>Hill</font> , or the Old Man, 
+I do not know that I ever had any particular knowledge 
+of them; but only I looked upon them as ill-designing 
+men, seeing them in the Chappel.
+   </dialogue><nonSpeech> <font>Lord Chief Just.</font> </nonSpeech><dialogue> Did you see ere a one of the Three
+Prisoners there at that time?
+   </dialogue><nonSpeech>Mr. <font>Bedlow.</font> </nonSpeech><dialogue> No my Lord: But I have such a
+Remembrance of Faces, that I could tell, if I saw them again, any 
+that I did see there, though the Light was but small. They 
+told me <font>They had Strangl'd him</font> ; but how, I did not know. 
+When they press'd me to help to carry him out, I then
+Excused my self, and said, It was too Early to carry him out 
+yet; but about <font>Eleven</font> or <font>Twelve</font> a Clock would be a better 
+time. And I assured them I would come again. Said <font>Le Faire</font> 
+to me, <font>Upon the Sacrament you took on Thursday, you will be at 
+the Carrying Off of this Man at Night</font> . I promised him I would. 
+And he went away, and left me there. I made what speed 
+away I could, for I was very Unsatisfied in my self,
+<pagebreak id="33" />
+having so great a charge upon me, as the Sacrament of the 
+Altar, which after the discovery of the Plot, was 
+Administred to me twice a Week to conceal it, I could not tell 
+how to discover: I went then to <font>Bristol</font> , but very restless 
+and disturbed in my mind; and being perswaded by what 
+God was pleased to put into my mind, calling to 
+remembrance that some Murders had been already committed, and 
+greater ones were dayly intended, I was at last convinc't, and
+could no longer forbear discovery. I wrote to the Secretary of 
+it, and went to the Parliament and gave in my information. 
+And one day I met with Mr. <font>Praunce</font> in the Lobby, and knew
+him, and apprehended him.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> I will ask you one question, Had you any 
+discourse with Mr. <font>Praunce</font> between the time you saw him 
+with the Body, and the day he was apprehended.
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> No, I never saw him to this day, to have 
+any converse with him.
+   </dialogue><nonSpeech>Mr. <font>Justice Wild,</font> </nonSpeech><dialogue> Did not you see <font>Hill</font> that night when 
+you were to have carried him away?
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> No my Lord.
+   </dialogue><nonSpeech>Mr. <font>Justice Wild,</font> </nonSpeech><dialogue> Nor <font>Green</font> , nor <font>Berry</font> ?
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> <font>Green</font> I did see about the Court, and     
+<font>Berry</font> I
+was told was to open the Gate that <font>Monday</font> night. But my 
+Lord, when they found I did not come again, they desisted 
+that night, and kept it off longer, for fear I should come 
+again to stop them.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> He did not refuse to help them, but promised 
+to do it and failed: and they finding that he had failed them, 
+would not let the body lye where it was for fear of discovery,
+but removed back again.
+   </dialogue><nonSpeech>Mr. <font>Justice Dolben,</font> </nonSpeech><dialogue> What did <font>Praunce</font> say, when you   
+first 
+took notice of him?
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> I understood afterwards                      
+<comment type="compiler">SOURCE TEXT: aftewards</comment> that he was taken 
+upon suspicion, because at that time, his Maid had made a 
+discovery, that he was about that time out of his Lodgings. 
+And while he was there in the Constables Hands Mr. <font>Oates</font>
+came by, and he desired to see him; and presently after I came 
+thither, and the Constable asked him, Mr. <font>Praunce</font> , will you 
+see Mr. <font>Bedlow</font> ? No, he said, he would not: Then he put 
+his Hat over his eyes that I might not see his face, and kept 
+<pagebreak id="34" />
+it so. The press being great, and being desirous to be 
+private my self, I spoke to the Guard to put all out that had 
+no business there, and they cried out, that all should avoid
+the Room but Mr. <font>Bedlow</font> and his Friends. And when he 
+was going out with the rest, he lift up his Hat to see his way; 
+and though before I did not mind him, yet I happened at 
+his passing by me to cast my eyes upon his face, and
+presently knew him, and cried, Oh! pray Sir stay, you are one of 
+my friends that must stay here. And I presently charged my 
+Guards to take charge of him. Saith the Constable, he is 
+my Prisoner: Is he so, said I? Then you have a very good 
+Prisoner, and pray look safe to him. And then when I went 
+into the House of Lords, I made out my charge against 
+him.
+   </dialogue><nonSpeech> <font>Mr. Recorder,</font> </nonSpeech><dialogue> Now if the Prisoners have any questions to 
+ask Mr. <font>Bedlow</font> , they may have free liberty to do it.
+   </dialogue><nonSpeech> <font>Hill,</font> </nonSpeech><dialogue> I never saw him before in my life.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you know any of them?
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> I know <font>Mr. Berry</font> , and <font>Green</font> very    
+well.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray Mr. <font>Praunce</font> , was the Dark-Lanthorn   
+at <font>Hill's</font>  
+Lodging, or at the other place?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> At the other place.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Look you here Mr. <font>Praunce</font> , They carried   
+him to 
+<font>Hill's</font> on <font>Saturday</font> night, and he lay there till <font>Monday</font>   
+night: 
+What time on <font>Monday-night</font> was it that they removed him 
+into <font>Somerset-house</font> ?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> I was not there when they did remove him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What time did you see him there?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> About Nine or Ten a Clock.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What time was it that you saw him there Mr. 
+<font>Bedlow</font> ?
+   </dialogue><nonSpeech>Mr. <font>Bedlow,</font> </nonSpeech><dialogue> It was after Nine my Lord.
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> They had then removed him to 
+<font>Somerset-house</font> , and Mr. <font>Hill</font> asked what they intended to do 
+with the 
+Body? They said, they would carry it out that night, but 
+they did not. But there the Dark-Lanthorn was, and on
+<font>Tuesday-night</font> they removed him back again.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Now my Lord, if you please, we shall go on 
+to call some Witnesses that were not present at the Murder; 
+for direct Evidence, as to that, can come only out of the 
+<pagebreak id="35" />
+mouth of some that were concerned in it; but to
+corroborate by concurrent circumstances, the Testimony which hath 
+been already given. And first we shall call the Constable, 
+to prove that he found Sir <font>Edmondbury Godfrey</font> in the Fields, 
+in the same manner in which Mr. <font>Praunce</font> says they told him 
+they left him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. Attorney, you promised you would prove, 
+that when these persons were examined, they did deny 
+before the House of Lords, that they knew <font>Praunce</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> My Lord, in that we were mistaken, I 
+understand now, it was only <font>Berry</font> denied that he did know 
+<font>Girald</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Why, did you never know Mr. <font>Gerald</font> ?
+   </dialogue><nonSpeech> <font>Berry,</font> </nonSpeech><dialogue> Never in my life.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Praunce</font> , have not you seen <font>Girald</font> 
+with 
+<font>Berry</font> ?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> Yes, I have, but they usually went by 
+several Names.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you ever see <font>Girald</font> in <font>Hill's</font>      
+company?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> Yes, that I have.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was there no Sentinel set that                 
+<font>Monday-night</font> , that
+<font>Saturday-night</font> , and that <font>Wednesday-night</font> ?
+   </dialogue><nonSpeech>Mr. <font>Praunce,</font> </nonSpeech><dialogue> My Lord, I am not certain, I took notice 
+of none; if there were any, they were at <font>Berry's</font> House, and 
+he opened the Gate, when we came out with the Sedan.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Mr. <font>Berry</font> , I suppose, could take order  
+with 
+the Sentinel, and give them some entertainment in his own 
+Lodg.
+
+</dialogue><nonSpeech> <font>Then Mr.</font> Brown <font>the Constable was Sworn</font> .</nonSpeech>
+
+   <nonSpeech>Mr. <font>Recorder,</font> </nonSpeech><dialogue> Pray, in what posture did you find Sir 
+<font>Edmundbury Godfrey</font> ?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> I found him, my Lord, in a Ditch, with his 
+Sword through him, and the end of it was two handfulls 
+out of his back.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was he Bloody?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> There was no Blood at all, there was no Blood 
+in the Ditch.
+<pagebreak id="36" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was the Sword sticking in his Body?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> Yes, My Lord, but there was no Blood at all 
+when it was taken out; they had run it into another place, 
+but that happened to be against a Rib, and so it could not 
+go through; but there was no blood there.
+   </dialogue><nonSpeech>Mr. <font>Justice Jones,</font> </nonSpeech><dialogue> Was there any bruises on his Breast?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> He did look black about the Breast.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> My Lord, I would ask, whether his Neck were 
+broken?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> Yes, I suppose it was.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How do you know it?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> It was very weak, and one might turn his Head 
+from one Shoulder to the other.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was his Stick and Gloves?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> They were on the Bank-side.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Whose Sword was it?
+   </dialogue><nonSpeech>Mr. <font>Brown.</font> </nonSpeech><dialogue> His Servants said it was his own.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Pray, had he any Money in his Pocket?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> Yes, a great deal of Gold and Silver.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Ay, Ay, for they count Theft Sin, but not 
+Murder.
+   </dialogue><nonSpeech>Mr. <font>Justice Wild,</font> </nonSpeech><dialogue> They left that, to let men think he 
+murdered himself.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well, will you ask this Witness any questions 
+before he goes?
+   </dialogue><nonSpeech>Capt. <font>Richardson,</font> </nonSpeech><dialogue> They say they will ask him none.
+   </dialogue><nonSpeech>Mr. <font> Att. G.</font> </nonSpeech><dialogue> Then we desire to call the Chyrurgeons that 
+view'd and opened the Body, Mr. <font>Skillard</font> , and Mr. <font>Cambridge</font> ;
+both whom were Sworn.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> We begin with Mr. <font>Skillard</font> , Pray, Sir,  
+inform 
+my Lord and the Jury, Did you see the Body of Sir 
+<font>Edmondbury Godfrey</font> ?
+   </dialogue><nonSpeech>Mr. <font>Skillard,</font> </nonSpeech><dialogue> Yes, I did view the Body.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> When? what time did you see it?
+   </dialogue><nonSpeech>Mr. <font>Skillard,</font> </nonSpeech><dialogue> About Twelve of the Clock.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> What day of the Week was it?
+   </dialogue><nonSpeech>Mr. <font>Skillard,</font> </nonSpeech><dialogue> On <font>Friday</font> , the next day after he was 
+found.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Did you observe his Breast? how was 
+it?
+<pagebreak id="37" />
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> His breast was all beaten with some obtuse 
+weapon, either with the feet or hands, or something.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Did you observe his neck?
+   </dialogue><nonSpeech>Mr. <font>Skillard</font> </nonSpeech><dialogue> Yes, it was distorted.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> How far?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> You might have taken the Chin and have set 
+it upon either Shoulder.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Did you observe the wound?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> Yes, I did. It went in at one place and    
+stopt 
+at a Rib, the other place it was quite through the Body.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you think he was killed by that wound?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> No, for then there would have been some 
+evacuation of Blood, which there was not. And besides his 
+bosome was open, and he had a Flannel Wastcoat and a 
+Shirt on; and neither those, nor any of his Clothes were 
+penetrated.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> But are you sure his neck had been broken?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> Yes, I am sure.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Because some have been of opinion, that he 
+hanged himself, and his Relations to save his estate run him 
+through; I would desire to ask the Chyrurgeon what he thinks 
+of it.
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> There was more done to his neck than an 
+ordinary suffocation; the wound went through his very heart, 
+and there would have appeared some blood, if it had been 
+done quickly after his death.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Did it appear by the view of the body that 
+he was strangled or hanged?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> He was a lean man, and his muscles if he had 
+died of the wound, would have been turgid: and then again 
+all strangled people never swell, because there is a sudden
+deprivation of all the spirits, and a hindring of the Circulation 
+of the blood.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> How long do you believe he might be dead 
+before you saw him?
+   </dialogue><nonSpeech>Mr. <font>Skillard.</font> </nonSpeech><dialogue> I believe four or five days. And they might 
+have kept him a week and he never swell'd at all, being a 
+lean man. And when we ript him up, he began for to 
+putrify, we made two incisions to give it vent, and the liquor that 
+was in his body did a little smell. The very lean flesh was so
+<pagebreak id="38" />
+near turned into putrefaction, that it stuck to the Instrument 
+when we cut it.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> My Lord here is another Chyrurgeon, Mr. 
+<font>Cambridge</font> ; Pray, Sir are you sworn.
+   </dialogue><nonSpeech>Mr. <font>Cambridge.</font> </nonSpeech><dialogue> Yes, I am.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> When did you see the body of Sir 
+<font>Edmondbury Godfrey</font> ?
+   </dialogue><nonSpeech>Mr. <font>Cambridge.</font> </nonSpeech><dialogue> Upon friday, the very same day the 
+Gentleman did. I found his neck dislocated, and his breast very 
+much beaten and bruised. And I found two punctures under 
+his left Pap, the one went against the Rib, the other quite 
+through the body under the left Pap.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Do you believe that wound was the occasion 
+of his death?
+   </dialogue><nonSpeech>Mr. <font>Cambridge.</font> </nonSpeech><dialogue> No, I believe it was given him after his 
+death.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And his neck was broke?
+   </dialogue><nonSpeech>Mr. <font>Cambridge.</font> </nonSpeech><dialogue> His neck was dislocated, Sir.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Why, that is broken. Now my Lord we shall
+call Sir <font>Edmundbury Godfreys</font> Maid, <font>Elizabeth Curtis</font> . Swear
+her. </dialogue><nonSpeech>Which was done.</nonSpeech>
+   <nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Your Lordship knows that Mr. <font>Praunce</font>   
+did say 
+in the beginning, that they had been several times at his House 
+inquiring for him: now we call this person to tell you what 
+she knows about that.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> <font>Elizabeth Curtis</font> , look upon the         
+Prisoners, and 
+tell my Lord and the Jury whether you know any of them 
+or no.
+   </dialogue><nonSpeech> <font>Elizabeth Curtis.</font> </nonSpeech><dialogue> This man that I now hear called       
+<font>Green</font> , my 
+Lord, was at my Masters about a fortnight before he died.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What to do?
+   </dialogue><nonSpeech> <font>Eliz. Curtis.</font> </nonSpeech><dialogue> I don't know, but he asked for Sir        
+<font>Edmondbury 
+Godfrey</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What time of the day was it?
+   </dialogue><nonSpeech> <font>Eliz. Curtis,</font> </nonSpeech><dialogue> It was in the morning.
+   </dialogue><nonSpeech>Mr. <font>Att G.</font> </nonSpeech><dialogue> What did he say?
+   </dialogue><nonSpeech> <font>Eliz. Curtis,</font> </nonSpeech><dialogue> He asked for Sir <font>Edmondbury Godfrey</font> , 
+and 
+when he came to him, he said, Good morrow, Sir, in <font>English</font> , 
+and afterwards spoke to him in <font>French</font> , I could not 
+understand him.
+<pagebreak id="39" />
+   </dialogue><nonSpeech>Mr. <font>Recorder,</font> </nonSpeech><dialogue> I desire she may consider well, and look 
+upon him.
+   </dialogue><nonSpeech> <font>Eliz. Curtis,</font> </nonSpeech><dialogue> That is the man.
+   </dialogue><nonSpeech> <font>Green.</font> </nonSpeech><dialogue> Upon my Soul I never saw him in all my life.
+   </dialogue><nonSpeech> <font>Eliz. Curtis,</font> </nonSpeech><dialogue> He had a darker coloured Perriwig when he 
+was there, and was about a quarter of an hour talking with 
+my Master.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Are you sure this was the man?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> Yes, I am, and that other man <font>Hill</font> was   
+there that 
+Saturday morning, and did speak with him before he went 
+out.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> That you will deny too?
+   </dialogue><nonSpeech> <font>Hill,</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How do you know he was there?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> I was in the Parlor at that time, making up  
+the 
+fire.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Had you ever seen him before that time?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> No, never before that time. I went into the 
+Parlor to carry my Master his Break-fast, and brought a bunch of 
+Keys with me in, and there <font>Hill</font> was with him. And I went 
+up stairs about some business, and came down again wanting 
+the Keys, which I had left upon the Table; and <font>Hill</font> was all 
+that time with my Master.
+   </dialogue><nonSpeech>Mr. <font>Sol. G.</font> </nonSpeech><dialogue> How do you know he was there?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> I was in the Parlor and stirred up the fire, 
+and 
+he was there a good while.
+   </dialogue><nonSpeech>Mr. <font>Just. Jones,</font> </nonSpeech><dialogue> How long after did you see him again?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> Not till I saw him in <font>Newgate</font> .
+   </dialogue><nonSpeech>Mr. <font>Just. Jones,</font> </nonSpeech><dialogue> How long was that afterwards?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> A month ago. But it is not the man that      
+brought 
+the note to my Master.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> What note?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> A note that a man brought to my Master that  
+night 
+before.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> What is become of that Note?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> My Lord, I cannot tell, my Master had it.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Prithee, tell us the story of it.
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> There was a man came to my Masters House, and 
+asked if Sir <font>Edmondbury Godfrey</font> were within. He said he had 
+a Letter for him; and shewed it me, it was tied up in a knot. 
+<pagebreak id="40" />
+I told him my Master was within, but busy; but said I, if you 
+please I will carry it into him: he did so, and I gave it to my
+Master; when I went out again, the man staid and asked for an 
+Answer: I went in again and told my Master that the man 
+required an Answer. Prithee, said he, tell him I don't know what 
+to make of it.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild,</font> </nonSpeech><dialogue> When was that?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> On Friday night.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild.</font> </nonSpeech><dialogue> When? The Friday night before he was 
+murdered?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> But you Swear that <font>Hill</font> was there the    
+Saturday 
+morning.
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> Yes, he was.
+   </dialogue><nonSpeech>Mr. <font>Sol. G.</font> </nonSpeech><dialogue> In what Clothes was he then?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> The same Clothes that he hath now.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild,</font> </nonSpeech><dialogue> Are you sure they are the same Clothes?
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Sol. G.</font> </nonSpeech><dialogue> Here is a great Circumstance my Lord. I asked    
+her what Clothes he was in when he came to Sir <font>Edmondbury's</font> ; 
+and she saith, the same that he hath now.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Have you ever shifted your Clothes?
+   </dialogue><nonSpeech> <font>Hill,</font> </nonSpeech><dialogue> No indeed, I have not.
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> But for the man that brought the Note, I     
+cannot 
+Swear it is he.
+   </dialogue><nonSpeech> <font>Hill,</font> </nonSpeech><dialogue> But she did say when she came to see me in        
+<font>Newgate</font> , 
+that she never saw me in my life; and my Lord I hope I 
+have sufficient VVitnesses to prove where I was that 
+morning.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> She says, she cannot Swear you were the man that 
+brought the Note.
+   </dialogue><nonSpeech> <font>Hill,</font> </nonSpeech><dialogue> My Lord, I desire she will tell me about what     
+time it 
+was I was there.
+   </dialogue><nonSpeech> <font>E. Curtis,</font> </nonSpeech><dialogue> It was about nine or ten a Clock.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> That agrees with Mr. <font>Praunces</font> exactly in 
+point 
+of time. Now if your Lordship please, we will proceed and 
+call Mr. <font>Lancellot Stringer</font> , and Mr. <font>Vincent</font> .
+   </dialogue><nonSpeech>Mr. <font>Recorder,</font> </nonSpeech><dialogue> My Lord, we do call these Witnesses to 
+prove, that these men had meetings with Mr. <font>Praunce</font> at the 
+Plow.
+<pagebreak id="41" />
+</dialogue><nonSpeech> <font>Then was</font> Lancelot Stringer <font>sworn</font> .</nonSpeech>
+
+   <nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Pray tell my Lord and the Jury whether 
+you know Mr. <font>Prance</font> .
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, Sir, I do.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Have you seen him at the <font>Plow</font> at any  
+time?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, Sir, I have.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> In what company there? Was Mr. <font>Green</font>  
+there?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, he was.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Which was he? </dialogue><nonSpeech> <font>He points to him.</font> </nonSpeech>
+   <nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> And who else?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> There was that <font>Hill</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> How often?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Several times.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How long before Sir <font>Edmundbury Godfrey</font> was 
+murdered?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> I cannot tell, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you remember any other company was with him?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, there were several other company.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Name them.
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> There was Mr. <font>Fitz-Girald</font> and Mr.      
+<font>Hill</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> And yet <font>Hill</font> saith he never saw       
+<font>Girald</font> .
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> And there was <font>Kelly</font> , he was another   
+of them, 
+and <font>Prance</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you know <font>Vernatt</font> ?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How now? What say you to it Mr. <font>Hill</font> , and 
+Mr. 
+<font>Green</font> ? Were you never at the <font>Plow</font> , drinking with Mr.       
+<font>Prance</font> ?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes, my Lord, several times.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What say you, Mr. <font>Green</font> ?
+   </dialogue><nonSpeech> <font>Green.</font> </nonSpeech><dialogue> I have drank with him there.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you know <font>Girald</font> ?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> I know one <font>Girald</font> ?
+   </dialogue><nonSpeech> <font>Mr. Sol. Gen.</font> </nonSpeech><dialogue> Now will your Lordship please to let me 
+prove, that at the Council he owned he knew <font>Girald</font> and <font>Kelly</font> ,
+and now 'tis proved he hath been in <font>Kelly's</font> company, he says 
+he does not know <font>Girald</font> .
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> My Lord, that was a mistake, for I do know        
+<font>Kelly</font> by 
+sight, that is, I knew two Men that used the Chappel very 
+much, and he was one of them.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But you, Witness, say you have seen <font>Girald</font> 
+and them 
+together?
+<pagebreak id="42" />
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, I have.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How many times?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> I cannot tell how many, my Lord, several 
+times.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Have you seen them twice together?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Yes, I have.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Now to settle it I would ask him, with your 
+Lordship's favour, when he came to live with his Master. 
+You, young Man, when did you come to live with your Master 
+at the <font>Plow</font> ?
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> Why, I have been with him two years.
+   </dialogue><nonSpeech>Mr. <font>Rec.</font> </nonSpeech><dialogue> But when was it you came last to live at the    
+<font>Plow</font> ? 
+   </dialogue><nonSpeech> <font>L. Stringer.</font> </nonSpeech><dialogue> In <font>Bartholomew-tide</font> last.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> It was but five Weeks before Sir           
+<font>Edmondbury 
+Godfrey</font> was Murdered.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you, <font>Green</font> , know Mr. <font>Girald</font> ?
+   </dialogue><nonSpeech> <font>Green.</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Then pray Swear Mr. <font>Vincent</font> .          
+</dialogue><nonSpeech>Which was done.</nonSpeech> 
+   <nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Come, pray Sir, do you live at the         
+<font>Plow</font> ?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, Sir, I do.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Then pray, do you tell my Lord, and the 
+Jury, if you know any of the Prisoners at the Bar, and which 
+of them.
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> I know Mr. <font>Green</font> .
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Do you know anybody else?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, I know <font>Hill</font> , and I know Mr.          
+<font>Berry</font> .
+   </dialogue><nonSpeech>Mr. <font>Rec.</font> </nonSpeech><dialogue> Have you seen these persons at your House?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, I have.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> With whom?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> I can't tell every body with whom they were.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Were they there with <font>Praunce</font> ?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you know one <font>Girald</font> ?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Hath he been at your house?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, Sir, he hath.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Who was with him?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> I can't tell justly.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you know <font>Kelly</font> ?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Hath he been there?
+<pagebreak id="43" />
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, he hath.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> In what Company?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> With <font>Praunce</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And with any of the Prisoners?
+   </dialogue><nonSpeech> <font>Vincent.</font> </nonSpeech><dialogue> Yes, but I can't tell particularly with whom.
+   </dialogue><nonSpeech>Mr. <font>Attor. Gen.</font> </nonSpeech><dialogue> Now, my Lord, as these were meetings 
+before the fact was committed to consult how to do it; so 
+we at the beginning told you of a meeting after it was done, 
+and that was at <font>Bow</font> . We shall therefore call some Witnesses 
+as to that; and they are <font>Richard Cary</font> , and <font>William Evans</font> . 
+First swear <font>Richard Cary</font> . </dialogue><nonSpeech> <font>Which was done.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Do you remember you were sent of a message 
+from the <font>Queens-Head</font> at <font>Bow</font> , and whether? Pray tell my Lord, 
+and the Jury.
+   </dialogue><nonSpeech> <font>Cary.</font> </nonSpeech><dialogue> I remember it very well; there were three 
+Gentlemen that sent for me to the <font>Queens-Head</font> , and I being sent 
+for 
+did come, and when I came up stairs, they asked me if I 
+knew <font>Poplar</font> , I said I knew it very well. Then they asked 
+me if I knew Mr. <font>Dethick</font> , I told them I thought I did. Then 
+said they, you must carry this Letter to <font>George Dethick</font> , Esq; at 
+<font>Poplar</font> , and deliver it to his own hands, and to no body else. 
+Accordingly away I went, and carried the Letter: I went to 
+the door, and asked if he were within; his Man said he was 
+above stairs, but they would call him to me; and calling him
+to me, Sir, said I, there are some Gentlemen at the <font>Queens-Head</font> 
+at <font>Bow</font> that have sent me with a Letter to you. So he looked 
+upon the Letter, and, saith he, go and tell them I will be with 
+them presently. So, may it please you, my Lord, I came 
+again, and when I came, the Gentlemen were there still. Well, 
+said they, go and drink a Glass of Claret, which stood upon 
+the Table, and they gave me Six-pence, and I went away.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Pray look upon Mr. <font>Praunce</font> , can you 
+remember whether that man was there?
+   </dialogue><nonSpeech> <font>Cary.</font> </nonSpeech><dialogue> There were three of them, and he looks like 
+one.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Mr. <font>Praunce</font> , do you remember this was 
+the 
+man you sent?
+   </dialogue><nonSpeech>Mr. <font>Praunce.</font> </nonSpeech><dialogue> Yes, my Lord, this was the same Man that 
+was sent.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well, call the other.
+<pagebreak id="44" />
+</dialogue><nonSpeech> <font>Then</font> William Evans, <font>the Boy of the House at the</font>
+Queens-Head, <font>was sworn</font> .</nonSpeech>
+
+   <nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Hark you, do you remember any 
+Company that was at your Masters house two or three Months 
+agon?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Do you remember that you heard them talk 
+any thing there?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> They pull'd out a Paper and read it.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You Boy, do you know Mr. <font>Dethick</font> ?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was he there?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> He did come to them, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> What had they to Dinner there?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> They had Flounders.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Who bought them?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> One of them, I can't tell who.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> What had they else?
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> A Barrel of Oysters.
+   </dialogue><nonSpeech>Mr. <font>Recorder.</font> </nonSpeech><dialogue> Pray give my Lord an accompt what you 
+observed and heard.
+   </dialogue><nonSpeech> <font>W. Evans.</font> </nonSpeech><dialogue> Sir, I know nothing but that they pull'd out a 
+Paper, and read it, and named Sir <font>Edmondbury Godfrey's</font> Name. 
+And while I was at the door, some body came and threatned 
+to kick me down stairs.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> He saith just as Mr. <font>Praunce</font> said in every 
+particular.
+   </dialogue><nonSpeech>Mr. <font>Attor. Gen.</font> </nonSpeech><dialogue> Now if it please your Lordship, we desire 
+to call Sir <font>Robert Southwell</font> , to prove what Mr. <font>Praunce</font> said 
+before the Council, and how particular he was; and did to some 
+of the Lords, who were sent with him to <font>Somerset-House</font> , point 
+out the places.
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> We call him to shew, that when <font>Praunce</font> 
+was examined before the King, he was sent with some of the 
+Lords, and Sir <font>Robert Southwell</font> , to <font>Somerset-House</font> , where he 
+pointed with his Finger, and shewed the places where all 
+was done; and so we shall shew your Lordship and the 
+Jury, how exact he was in every thing.
+<pagebreak id="45" />
+</dialogue><nonSpeech>Then <font>Sir Robert Southwell</font> was sworn.</nonSpeech>
+
+   <nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Pray Sir <font>Robert</font> , will you tell your 
+knowledge?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> My Lord, I was upon the twenty    
+fourth 
+of <font>December</font> waiting upon his Majesty in Council, and Mr. 
+<font>Praunce</font> was sent for, to speak his knowledge concerning this 
+Murder, and he then gave a general Account of things, which, 
+because it did relate to that Bench, and this Corner, and 
+that Room, and that Passage, and that Gallery, it was 
+not understood by the Board, and thereupon his Majesty 
+thought fit to appoint my Lord Duke of <font>Monmouth</font> , and the
+Earl of <font>Ossory</font> , and Mr. <font>Vice-Chamberlain</font> to the Queen, to go 
+thither, and take the Examination upon the Place, and 
+Report it to the Board: And I, being Clerk of of the                 
+<comment type="compiler">THE WORD of OCCURS TWICE IN SOURCE TEXT</comment> Council, 
+though not in waiting at that time, and having taken notice 
+of what Mr. <font>Praunce</font> had there deposed, I did wait upon 
+those Lords, and took the Examination upon the Place. And 
+what I did take upon the place, This was done here, and 
+that there, I drew up into a Report, and the Report is 
+Signed by those two Noble Lords, and was read that Afternoon 
+at the Board; and to that I referr my self.
+
+   </dialogue><nonSpeech> <font>Mr. Attorn. Gen.</font> </nonSpeech><dialogue> Pray Sir <font>Robert</font> , Did he shew the 
+particular places to those Lords?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Yes, he did. First, the Bench     
+whereon 
+they were sitting when Sir <font>Edmondbury Godfrey</font> was coming 
+down; then the Corner into which they drew him when they
+had strangled him; then the Place where one <font>Berry</font> went to 
+stay, which was at the Stairs that lead to the Upper Court, 
+then a little door at the end of the Stables, which lead up 
+a pair of Stairs, and at the head of the Stairs a long dark
+Entry, and at the top of those Staires, a door on the left 
+hand, which being opened, shew'd us eight steps, which 
+lead up to the Lodgings that were Dr. <font>Godwins</font> : In which 
+<font>Hill</font> was said to be inhabitant for seven years before. And
+<pagebreak id="46" />
+assoon as we were gone two steps, there was a little Closet 
+or Cabinet on the right hand, in which there was a Bed, 
+and there he shewed my Lords, This is the Place where we 
+handed him up first, and here we left him, said he, in the care 
+of <font>Hill</font> for two nights.
+
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> You were there, Sir <font>Robert          
+Southwell</font> upon 
+the place, when he shew'd them these things?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Yes Sir, I was there.
+
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> Was it answerable to what he had      
+declared 
+to the King and Council?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Yes, it was answerable to all     
+things he had 
+said in the morning.
+
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> And suitable to what he says now?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Yes, suitable to what he sayes now, 
+but only now he sayes more than he said then. And as to 
+what he sayes about the Chambers of Sir <font>John Arundell</font> ,
+they could not be Sir <font>John's</font> Lodgings, for they were not
+capable of receiving a Person of that Quality.
+
+   </dialogue><nonSpeech> <font>Mr. Praunce.</font> </nonSpeech><dialogue> I said, I did believe they did belong to Sir 
+<font>John Arundell</font> .
+
+   </dialogue><nonSpeech> <font>L. Chief Just.</font> </nonSpeech><dialogue> They were Lodgings perhaps that belong'd 
+to 
+his Servants, though not to him.
+
+   </dialogue><nonSpeech> <font>Mr. Attorn. Gen.</font> </nonSpeech><dialogue> Sir <font>Robert</font> , I desire to know,     
+whether Mr. 
+<font>Praunce</font> , when he shew'd these places, and made these 
+Descriptions, did he do it with any hesitancy, or did he do it 
+readily?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Hitherto, my Lord, he went directly 
+and positively, as if any body should walk to 
+<font>Westminster-Hall</font> door. But afterwards, when the Lords did desire 
+to know 
+whither the Body was carried, he said, it was into some Room
+of the house by the Garden; for this is an Outer part of the 
+House, which any body may do any thing in, without their 
+knowledge that are within. And he undertook to lead them 
+<pagebreak id="47" />
+to the place as well as he could; and so away we went 
+through the long dark Entry that leads into the Outer Court 
+of the Great House; and crossing the Quadrangle, he leads 
+us to the <font>Piazza</font> , and down a pair of Stairs, and so far, 
+said he, I am sure I went; then, assoon as we were down the
+Stairs, there is a great Square Court, then he began to
+stagger, as if he did not know his way, but there was no way 
+but to go on hovvever, and on vve vvent, and coming cross 
+the Court, vve came into several Rooms, and going through 
+them, vve came up Stairs again, and so into several other
+Rooms again. Sure, said he, vve vvere here, but I can't 
+tell, and he vvas in a great Distraction vvhat Room he savv 
+the Body in; but, said he, thus far, I am certain I am 
+right; vvhich vvas according to the Paper, and I refer my 
+self to that.
+
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> But, you say, that what he had said to 
+the Lords in the Council, was the same that he said when you 
+were by upon the place?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> Yes.
+
+   </dialogue><nonSpeech> <font>L. Chief. Just.</font> </nonSpeech><dialogue> His doubtfulness of the Room does assert, 
+and give Credit to his Testimony, and Confirms it to any 
+honest man in <font>England</font> . Here, saith he, I will not be 
+positive, but having sworn the other things which he well 
+remembred, positively, he is made the more Credible for his
+doubtfulness of a thing which he does not remember, which a 
+man that could swear any thing would not stick at.
+
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> Besides, he was not there but by     
+night, 
+and all the Light he had was a dark Lanthorn.
+
+   </dialogue><nonSpeech> <font>Mr. Sol. Gen.</font> </nonSpeech><dialogue> Now, Sir <font>Robert</font> , I would ask you one 
+Question, if you please, Do you remember that <font>Hill</font> was Examined 
+at the Council about this matter?
+
+   </dialogue><nonSpeech> <font>Sir Robert Southwell.</font> </nonSpeech><dialogue> My Lord, these are the Notes      
+that I 
+took upon these Mens Examinations, if your Lordship pleases 
+they may be read.
+<pagebreak id="48" />
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> <font>Sir Robert</font> , We ask you but as to one 
+particular thing, therefore if you please to look upon it, and 
+refresh your Memory, you may read it to your self, and tell us 
+only the substance; </dialogue><nonSpeech>which he did.</nonSpeech>
+
+   <nonSpeech> <font>Mr. Sol. Gen.</font> </nonSpeech><dialogue> Now Sir, if you please, Do you remember   
+that 
+<font>Hill</font> was there?
+
+   </dialogue><nonSpeech> <font>Sir. Rob. Southwell.</font> </nonSpeech><dialogue> Yes, I find he was Examined.
+
+   </dialogue><nonSpeech> <font>Mr. Soll. Gen.</font> </nonSpeech><dialogue> Did not he deny there that he knew       
+<font>Kelly</font> , but 
+that he knew <font>Girald</font> ?
+   </dialogue><nonSpeech> <font>Sir Rob. Southwell.</font> </nonSpeech><dialogue> Yes, I do find it here set down     
+that he did 
+deny he knew <font>Kelly</font> , but that he knew <font>Girald</font> .
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> I said I knew one <font>Girald</font> , but not that.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> But before the Council he said he knew    
+<font>Girald</font> , 
+not one <font>Girald</font> .
+
+   </dialogue><nonSpeech> <font>L. Chief Just.</font> </nonSpeech><dialogue> This way of Answering is like the 
+Examination that was taken lately amongst some of them. A 
+Person was asked when he saw such a Priest? He denied that he 
+had seen him in fourteen dayes. But then comes one and 
+proves to his face, that he was with him in Company all Night, 
+within a Week and less. I, sayes he, that's true, but I said I 
+had not seen him in Fourteen Dayes. And so they may take 
+Oaths to serve the King faithfully all the Dayes of their 
+Lives, but in the Nights they may murther him, and keep
+their Oaths for all that.
+
+   </dialogue><nonSpeech> <font>Mr. Just. Dolben.</font> </nonSpeech><dialogue> I would know, whether the <font>Girald</font>  
+you know 
+be a Priest or no?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> He is not.
+   </dialogue><nonSpeech> <font>Mr. Just. Dolben.</font> </nonSpeech><dialogue> Then you do not know <font>Girald</font> the 
+Priest?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> No, I do not.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Call Mr. <font>Thomas Stringer</font> . </dialogue><nonSpeech>And he was 
+sworn.</nonSpeech>
+   <nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Pray Mr. <font>Stringer</font> , will you tell my  
+Lord and 
+the Jury what it was that Mr. <font>Berry</font> said about any 
+directions he had to keep all Persons out of <font>Somerset-House</font> ,    
+about the 
+twelfth or fourteenth of <font>October</font> last?
+<pagebreak id="49" />
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> My Lord, upon his Examination before the 
+Lords of the Committee, <font>Berry</font> did say he had Orders from the 
+Queen, or in the Name of the Queen, That he should suffer no 
+Strangers, nor any Persons of Quality to come into 
+<font>Somerset-House</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> When was it he was to keep them out?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> The 12th 13th and 14th of <font>October</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What, three days?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> Two or three days. And he said that the 
+Prince did come, and he did refuse him, and sent him back 
+again.
+   </dialogue><nonSpeech>Mr. <font>Record.</font> </nonSpeech><dialogue> Did he say he ever had any such Directions 
+before?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> No: he said he never before had any.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> It was a very unlucky thing that he had it 
+then.
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> The Prince might have gone in if he would.
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> You said you did refuse him, you had    
+order 
+to let none come in.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Had you any such Order?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> Yes, my Lord, I had such an Order from the Queen's 
+Gentleman-Usher.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Had you never had such before?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> Yes, I have had before, since the Queen came to 
+<font>Somerset-House</font> .
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Mr. <font>Stringer</font> swears you said you had   
+not 
+any before.
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> Yes, I had.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Why did you deny it then?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> I did not deny it; besides, there were several   
+went in.
+   </dialogue><nonSpeech>Mr. <font>Record.</font> </nonSpeech><dialogue> We have proved indeed five or six did go in.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> For how many days had you that Order?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> Two days.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Which two days?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> The eleventh and twelfth, I think thereabouts.
+   </dialogue><nonSpeech>Mr. <font>Record.</font> </nonSpeech><dialogue> Did you say before the Lords, that you never 
+had 
+such Orders before?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> No, I did not.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Mr. <font>Berry</font> , When you were examined     
+before the 
+Lords, Did you not say you never had such Orders before?
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> No, I did not say so, my Lord, as I know of; for 
+they 
+did not examine me about that.
+<pagebreak id="50" />
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> You said you would prove it under his own  
+Hand. 
+Prove that.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mr. <font>Stringer</font> , Did he write his Name   
+to his 
+Examination?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> Yes, he did to one Examination.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray look upon that, Is that his Hand?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> This was read to him before he Signed   
+it, and 
+then he did Sign it.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> I would fain shew it to him, to see        
+whether he 
+Would own it or no.
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> Yes, that is my Hand.
+
+</dialogue><nonSpeech> <font>Then the Clerke of the Crown read it.</font> </nonSpeech>
+
+   <nonSpeech> <font>Cler. of th' Cr.</font> </nonSpeech><dialogue> This is subscribed by <font>Henry          
+Berry</font> . <comment type="compiler">CLERK READS ALOUD.</comment> The 
+Information of <font>Henry Berry</font> , Porter at the Gate of               
+<font>Somerset-House</font> ;
+taken before the Right Honourable the Marquess of <font>Winchester</font> .
+This Deponent saith, That about the 12th, 13th, and 14th of 
+<font>October</font> last, he had Order to tell all Persons of Quality, that  
+the 
+Queen was private, and that they were not to come in; and 
+this Deponent saith, The Queen continued so private for two
+days.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Where is that part of the Examination      
+wherein he 
+said, he never had any such Order before?
+   </dialogue><nonSpeech>Mr. <font>T. Stringer.</font> </nonSpeech><dialogue> He did say so, but it is not in that    
+that hath his 
+Hand to it.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild.</font> </nonSpeech><dialogue> Pray, my Lord, observe this is a kind of 
+reflecting Evidence, and I Would have no more made of it than the 
+thing will bear.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> They only bring it, and make use of it     
+against 
+<font>Berry</font> , as a pretence of his.
+   </dialogue><nonSpeech> <font>M. Just. Wild.</font> </nonSpeech><dialogue> But it is a very reflecting Evidence.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Surely there is no body here that offers   
+it as 
+such: We use it only to this purpose, to shew that <font>Berry</font> , who was 
+a Party to this Murder, did use all the means that he could to keep it 
+private; and endeavoured to prevent Strangers coming in that 
+Night to discover it, and therefore pretended these Orders.
+   If he had any such Orders, I suppose he will prove them, we do 
+not say he had them; but 'tis a great Evidence, when he pretended 
+to such privacie, that he and his Fellows had something to do that 
+was not fit to be known by every body.
+<pagebreak id="51" />
+   </dialogue><nonSpeech> <font>Mr. Record.</font> </nonSpeech><dialogue> He may make use of any body's Name, and 
+pretend what he will; but I suppose he will prove it from 
+the Gentleman-Usher, if it be true.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> We have one Witness more to call, my Lord, 
+and that is one <font>Farr</font> . Call <font>Stephen Farr</font> .  
+   </dialogue><nonSpeech>Which was done, and he sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> He is a Neighbour to <font>Berry</font> , and will  
+give 
+your Lordship an Account what Applications have been 
+made to him, to tamper with him for Money, to keep away, 
+and not give Evidence in this Cause. Pray Sir, are you
+Mr. <font>Berry's</font> Neighbour?
+   </dialogue><nonSpeech> <font>Farr.</font> </nonSpeech><dialogue> Yes, Sir, I am.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray then tell what you know.
+   </dialogue><nonSpeech> <font>Farr.</font> </nonSpeech><dialogue> I know him very well, his Wife hath been with 
+me last Week, and asked me if I knew what time he was with 
+me on <font>Wednesday</font> , the 16th of <font>October</font> . I desired time to 
+recollect my self: And she called four or five times after, 
+and I did recollect my Memory and told her, That I was
+not with him at all that <font>Wednesday</font> .
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Why, this was reasonable, and fair enough to 
+do.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> It was so, my Lord, but pray had you 
+no Money offered you?
+   </dialogue><nonSpeech> <font>Farr.</font> </nonSpeech><dialogue> No Sir, none at all; and I told her <font>I</font> could not 
+remember that <font>I</font> was with him that day.
+   </dialogue><nonSpeech> <font>Berry.</font> </nonSpeech><dialogue> But you may remember it very well, when <font>I</font> came 
+from the Queen, <font>I</font> came to you.
+   </dialogue><nonSpeech> <font>Farr.</font> </nonSpeech><dialogue> My Lord, <font>I</font> was out of Town that 
+<font>Wednesday</font> , from two a Clock in the Afternoon, till nine at 
+Night.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Well, well, this is nothing: The Woman was 
+willing if she could, to have counterproved the Evidence, 
+and what she did was fair; she offered no Money, nor did 
+it in an indirect way.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, We have now done with our 
+Evidence for the King, and leave it till we hear what they 
+say.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> What do you say for your selves, you shall 
+have all the free liberty you will desire?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> In the first place, <font>I</font> take God to be my       
+Witness, that 
+<pagebreak id="52" />
+<font>I</font> am wholly innocent, as to the Matter that is charged upon 
+me: And as to what is said, that I dogg'd Sir 
+<font>Edmund-Bury Godfrey</font> <comment type="compiler">THE WORD Edmund-Bury SPLIT BY THE          
+LINE-BREAK</comment> ; I can prove that I went into my Lodging at 
+eight a Clock, and did not stir out.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Come, call your Witnesses.
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> <font>Mary Tilden</font> , <font>Katherine Lee</font> , Mrs.        
+<font>Broadstreet</font> , and 
+<font>Daniel Gray</font> .
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Let them come in there.
+
+</dialogue><nonSpeech> <font>Then</font> Mary Tilden <font>was first examined</font> .</nonSpeech>
+
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> This is Doctor <font>Godwin's</font> Niece, and his 
+House-keeper.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Well, what do you ask her?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> I desire to know what you can say about my being in 
+my Lodging, and not going out.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> He hath lived in our Family seven or eight 
+Years.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Your Family, What is your Family?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> With my Uncle.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Who is your Uncle?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Doctor <font>Godwin</font> ; we left him in the House 
+always when we were absent from it, he was always a trusty 
+Servant, never kept ill hours, always came home by eight a 
+Clock at Night.
+   </dialogue><nonSpeech>Mr. Just. <font>Dolben.</font> </nonSpeech><dialogue> Always, For how long?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Ever since we came over last into          
+<font>England</font> .
+   </dialogue><nonSpeech>Mr. Just. <font>Dolben.</font> </nonSpeech><dialogue> When was that?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> In <font>April</font> last.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Were you there that Night Sir 
+<font>Edmund-Bury Godfrey</font> <comment type="compiler">THE WORD Edmund-Bury SPLIT BY THE          
+LINE-BREAK</comment> was kill'd?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I was.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> VVhat Night was that?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I don't know, my Lord, I heard of it in 
+the Town.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> VVhen did you first hear of it?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> The <font>Thursday</font> that he was found.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Did you not hear of it on the              
+<font>Wednesday</font> ?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> VVho could tell you the <font>Wednesday</font>      
+before?
+<pagebreak id="53" />
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Why, my Lord, in the Town it was said he 
+was missing from Saturday, and a Thursday he was found.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What can you say concerning <font>Hill</font> , that he 
+was 
+not out after eight a clock that night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> He was a very good Servant to my Unkle, 
+and never kept ill hours, but always came in by eight a clock 
+or before.
+   </dialogue><nonSpeech> <font>Mr. Justice Dolben.</font> </nonSpeech><dialogue> Were not you out your self that     
+night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No not I, never out after that hour.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray how can you give such an accompt of Mr. 
+<font>Hill</font> , as if he was always in your company?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> He came in to wait at Table, and did not 
+stir out afterwards.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray what Religion are you of? are you a Papist?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I know not whether I come here to make a 
+profession of my Faith.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Are you a Roman Catholick?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Have you a dispensation to eat Suppers on 
+Saturday-nights?
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> I hope you did not keep him company after 
+Supper all night.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No I did not, but he came in to wait at 
+Table at Supper.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> I thought you had kept fasting on 
+Saturday-nights.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No, my Lord, not on Saturday-nights.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> How many Dishes of Meat had you to 
+Supper?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> We had no Meat, though we did not fast.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Can you speak positively as to this night, the 
+Saturday that he was kill'd?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> He was at home that night.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And where was he the Sunday?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> He was at home.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And you are sure he was at home every night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Yes, while we were in Town.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was you all that Wednesday-night you 
+speak of?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I was at home in my Lodging.
+<pagebreak id="54" />
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> How is it possible for you to say, that  
+<font>Hill</font> , who was not your constant Companion, did not go out 
+afterwards?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No, he was not my constant Companion.
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> How then can you charge your 
+Memory that he was at home?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Come, you are to speak truth, though you are not 
+upon your Oath. Can you charge your memory to say, that 
+he came in constantly at eight a clock at night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Yes, I can, because I saw him come in 
+constantly; and when he came in, I always sent my Maid to bar the 
+door.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Maid, can you say that he was always at home at 
+night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I can say he never was abroad after eight at 
+night.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Why you did not watch him till he went 
+to bed, did you?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> We were always up till eleven a clock at   
+night.
+   </dialogue><nonSpeech> <font>Mr. Att. G.</font> </nonSpeech><dialogue> Was he in your company all that while?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> I beg your pardon; if your Lordship saw 
+the Lodgings, you would say it were impossible for any to go 
+in or out, but that they must know it within. We were 
+constant in our hours of going to Supper; our doors were 
+never opened after he came in to wait at Supper.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You may say any thing to a Heretick for a      
+Papist.
+   </dialogue><nonSpeech> <font>Mr. Justice Dolben.</font> </nonSpeech><dialogue> This is a mighty improbable business.
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> Where was he a Wednesday-night?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> At home.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> They have a general Answer for all Questions.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> Who kept the Key of your Lodgings?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> The Maid.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> Hath <font>Hill</font> never kept the
+Key?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No, my Lord, the Maid.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> How do you know but that the Maid 
+might let him out?
+   </dialogue><nonSpeech> <font>Mr. Praunce.</font> </nonSpeech><dialogue> My Lord, Mrs. <font>Broadstreet</font> said at      
+first there 
+was but one Key; but before the Duke of <font>Monmouth</font> she said 
+there was six or seven Keys.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Look you what tricks you put upon us to blind 
+<pagebreak id="55" />
+us. You come and tell us that he was every night at home by 
+eight a clock, and did not stir out, for there was but one 
+Lock, and the Maid kept the Key; and yet there were three
+or four Keys to it.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> There was but one Key to that which kept 
+the door fast.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <font>Praunce</font> , how many Keys were there?
+   </dialogue><nonSpeech> <font>Mr. Praunce.</font> </nonSpeech><dialogue> She confessed there were four or five.
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> What time was it that you carried him 
+out of <font>Somerset-House</font> on Wednesday-night?
+   </dialogue><nonSpeech> <font>Mr. Prance.</font> </nonSpeech><dialogue> It was about ten or eleven of the clock.    
+<font>Hill</font> 
+went to fetch the horse.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> We had never been out of our Lodgings 
+after eight a Clock, since we came to Town.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> When were you out of Town?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> In <font>October</font> .
+   </dialogue><nonSpeech> <font>Mr. Justice Dolben.</font> </nonSpeech><dialogue> Nay, now, Mistris, you have spoil'd 
+all; for in <font>October</font> this business was done.
+   </dialogue><nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> You have undone the man, instead of 
+saving him.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Why, my Lord, I only mistook the Month.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You Woman </dialogue><nonSpeech> (speaking to Mrs                  
+<font>Broadstreet</font> ) </nonSpeech><dialogue> what 
+Month was it you were out of Town?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> In <font>September</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> 'Tis apparent you consider not what you say, or 
+you come hither to say any thing will serve the turn.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> No, I do not, for I was out of Town in 
+<font>September</font> , came to Town the latter end of <font>September</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You must remember what you said, that you came 
+to <font>England</font> in <font>April</font> last, and from that time he was always 
+within at eight a clock at night.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Except that time that we were out of Town, 
+which was in <font>September</font> the Summer-time. And it is 
+impossible but if the Body was in the House, as <font>Praunce</font> said it  
+was, but 
+I must see him, or some of us must. I used to go every day 
+into that little Room for something or other, and I must needs 
+see him if he were there.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You told me just now you were not upon 
+Confession; and I tell you now so, you are not. </dialogue><nonSpeech>Then Mrs. 
+<font>Broadstreet</font> was examined.</nonSpeech>
+<pagebreak id="56" />
+   <nonSpeech> <font>Mr. Justice Jones.</font> </nonSpeech><dialogue> Well, Woman, what say you?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> We came to Town upon a Monday, 
+<font>Michaelmas-day</font> was the Sunday following; and from that time 
+neither he nor the Maid used to be abroad after eight a clock: we 
+kept very good hours, and he always waited at Supper, and
+never went abroad after he came in to wait at Supper: and the 
+Lodging was so little, that nothing could be brought in, but 
+they must know that were within.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> This is a lower Room than the Chamber, is it   
+not?
+   </dialogue><nonSpeech> <font>Mr. Praunce.</font> </nonSpeech><dialogue> 'Tis even with the Dining-Room, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What say you, Sir <font>Robert Southwell</font> ?
+   </dialogue><nonSpeech> <font>Sir Ro. Southwell.</font> </nonSpeech><dialogue> My Lord, it is an extraordinary little 
+place; as soon as you get up eight steps, there is a little square 
+Entry, and there is this Room on the one Hand, and the 
+Dining-Room on the other. I think there is a pair of staires to 
+go down at one Corner of the Entry, as I think, but the 
+Body was laid in a little square Room at the head of the steps.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And must you go into the Room to go to the 
+Dining-Room?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> No, 'tis a distinct Room; but the Key was
+always in the door, and every day some body went into it for
+something or another.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Will you undertake to say it was always in the
+door?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> Yes, it constantly was.
+   </dialogue><nonSpeech> <font>Mr. Justice Wild.</font> </nonSpeech><dialogue> For my own part I will not judge you: 
+but that his Body should be carried there about nine a clock at 
+night a Saturday-night, and remain there till Monday-night,
+'tis very suspitious, that if you were in the House, as you say
+you were, and used to go into that Room every day, you
+must either hear it brought in, or see it.
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> But we did neither, my Lord.
+   </dialogue><nonSpeech> <font>Mr. Justice Dolben.</font> </nonSpeech><dialogue> It is well you are not Indicted.
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> Mr. <font>Praunce</font> , you know all these       
+things to be
+false, <font>Mr Praunce</font> .
+   </dialogue><nonSpeech> <font>Mr. Praunce.</font> </nonSpeech><dialogue> I lay nothing to your charge; but you
+said before the Duke of <font>Monmouth</font> , that <font>Hill</font> was gone from
+his Lodgings before that time.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What say you, Sir <font>Rob. Southwell</font> ?
+<pagebreak id="57" />
+   </dialogue><nonSpeech>Sr. <font>Rob. South.</font> </nonSpeech><dialogue> There arose a little quarrel
+between them about the time that Mr. <font>Hill</font> did leave
+those Lodgings. <font>Praunce</font> said it was a Fortnight after;
+<font>Hill</font> said when he was upon his Examination, that the
+same Saturday that Sr. <font>Edmondbury</font> was missing, he was
+treating with his Landlord, and from that time, to the
+time he went to his new House, it was about a Week
+or a Fortnight.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> But he did pretend he was gone before?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> No my Lord, I did not.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Two Witnesses upon Oath Sware it,
+and you said it your self, and gave it under your Hand.
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> My Lord? --
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Nay you will not hear, but you will talk,
+you say one thing now, and you set another under your
+Hand.
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Have you not a Brother that is in the
+Proclamation, one <font>Broadstreet</font> a Priest?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> I have a Brother whose name is             
+<font>Broadstreet</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. G.</font> </nonSpeech><dialogue> Is he not a Priest, and in the
+Proclamation?
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> I hope, I must not Impeach my Brother
+here I said upon my Oath he came to Town a Monday,
+and <font>Michaelmas</font> day was the Sunday following, and
+<font>Lawrence Hill</font> went away a Fortnight after.
+   </dialogue><nonSpeech>Sr. <font>Rob. South.</font> </nonSpeech><dialogue> She Swore then two or three Days
+after <font>Michaelmas</font> Day.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> You must know we can understand you
+through all your Arts. It was not convenient for you at
+that time to say, that Mr. <font>Hill</font> went away about a
+Fortnight after <font>Michaelmas</font> , for then the thing that was
+charged to be done part of it in your House, would have been
+within the Fortnight, for it was the <font>12th</font> of <font>October</font> , but
+then you said only two or three Days.
+   </dialogue><nonSpeech>Sr. <font>Rob. South.</font> </nonSpeech><dialogue> She did say my Lord, that about
+<font>Miclemas</font> two or three or four Days after he went away.
+   </dialogue><nonSpeech> <font>Broadstreet.</font> </nonSpeech><dialogue> I begg your pardon, I only said I could
+not tell the time exactly.
+<pagebreak id="58" />
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Well have you any more to say.
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> There was never a Day but I went into
+that Room for something or other, and if any body came
+to see me, there was so little space that the Footmen were
+always forced to be in that Room.
+   </dialogue><nonSpeech>Mr. <font>Just. Dolben.</font> </nonSpeech><dialogue> Were you there upon Sunday?
+   </dialogue><nonSpeech> <font>Mary Tilden.</font> </nonSpeech><dialogue> Yes, my Lord, I was.
+   </dialogue><nonSpeech>Mr. <font>Just. Dolb.</font> </nonSpeech><dialogue> Well I will say no more, call another
+Witness.
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> <font>Katharine Lee.</font>
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> What can you say, Maid?
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> My Lord, I did never miss him out of the House
+at those Hours.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> May be you did not look for him.
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> I did go down every Night to the Door to see if
+it were lockt, and I went into the Parlor to see that
+things were safe there.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> You are a Roman Catholick, are you not?
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> Yes, I am.
+   </dialogue><nonSpeech>Mr. <font>Just. Dolben.</font> </nonSpeech><dialogue> Might not he go out of the House,
+and you never the wiser?
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> Yes, for I did not watch him continually.
+   </dialogue><nonSpeech> <font>Capt. Richardson.</font> </nonSpeech><dialogue> All that she says may be true by the
+Place. The Servants keep down a paire of Stayres in the
+Kitchin, and any one may come in or go out having so
+many Keys, and they not know it that are below.
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> I went into the Chamber every morning as I went
+to Market.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild.</font> </nonSpeech><dialogue> Have a care what you say, and mind
+the Question I ask you, Were you there on the Sunday
+in that Room where they say Sr. <font>Edmondbury Godfrey's</font>
+Body was laid?
+   </dialogue><nonSpeech> <font>Lee.</font> </nonSpeech><dialogue> I cannot say that I was in that Room, but I
+called in at the Door every Day, and I was the last up
+every Night.
+   </dialogue><nonSpeech>Mr. <font>Just. Wild.</font> </nonSpeech><dialogue> Ile say that for thee, thou hast spoke
+with more care then any of them all.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

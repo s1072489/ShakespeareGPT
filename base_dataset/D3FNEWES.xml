@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3FNEWES">
+  <dialogueHeader>
+
+    <filename>D3FNEWES</filename>
+
+    <identifier>3 FICTION D3FNEWES</identifier>
+
+    <title>SACK-FULL OF NEWES</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1673</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE SACK-FULL OF NEWES. 
+LONDON, PRINTED BY ANDREW CLARK, AND ARE TO BE SOLD BY THOMAS
+PASSENGER AT THE THREE-BIBLES UPON LONDON BRIDGE, 
+1673.
+PP. A2R.1 - A5R.12  SAMPLE 1
+PP. A7R.14 - A8R.15 SAMPLE 2
+PP. A8V.8 - B2R.14  SAMPLE 3
+P.  B4R.1 - B4R.17  SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A2R" />
+
+ <head> <font>THE FIRST TALE.</font> </head> 
+
+   <nonSpeech>In the Country of <font>Almaine</font> , in a certain
+Village, there was on a time a Parson of a
+Church which preached unto his Parishioners,
+and thereby shewed them the joys of Heaven
+and the pains of Hell, and many other things.
+And as he thus preached in the Pulpit, among
+the people, there was a Miller which knew
+well that the Priest had a concubine, and spake
+so loud that every body did hear him.</nonSpeech><dialogue> What
+foolish Priest, </dialogue><nonSpeech>said he,</nonSpeech><dialogue> thou makest much
+babling in the Pulpit, and all thy wit is not worth
+a straw: for I have an Asse that is far wiser
+than thou art, and thou makest here much ado of
+Heaven and Hell, and I may if I will have both
+Heaven and Hell at mine own house, winde
+and weather at mine own will, and as it pleaseth
+me. </dialogue><nonSpeech>Wherewith the Priest was greatly
+displeased, because he disturbed him in his
+Sermon, and said he would complain thereof to the
+Bishop.</nonSpeech><dialogue> Well, </dialogue><nonSpeech>said the Miller,</nonSpeech><dialogue> if thou dost
+complain, I will abide by that which I have said.
+</dialogue><nonSpeech>But as soon as the Priest had done his Sermon,
+he went to the Bishop, &amp; complained unto him
+of all that which the Miller had formerly
+spoken, whereupon the Bishop incontinently sent
+<pagebreak id="A2V" />
+for the Miller, and when the miller came, the
+Bishop demanded if he could reasonably
+answer the complaint made against him by the
+Priest;</nonSpeech><dialogue> Yea my Lord </dialogue><nonSpeech>qd. the Miller,</nonSpeech><dialogue> that I can.
+Well, </dialogue><nonSpeech>said the Bishop,</nonSpeech><dialogue> thou saidst that thou
+mightest have thy choice both of heaven and
+hell at home in thine own house, when it
+pleaseth thee; and more over thou saidst, thou hadst
+both wind and weather at thine own pleasure:
+and also thou saidst, thou hast an Ass that is
+far wiser than the Parish Priest. If thou
+canst prove thy saying true, thou shalt go quit
+without danger.
+   Indeed, </dialogue><nonSpeech>qd. the Miller,</nonSpeech><dialogue> I said, that I had the
+choice of heaven and hell at mine own house if I
+would, and so I have, for I have a Mother of
+mine at home, that is so old that she can neither
+go nor stand, and I trust as long as I keep
+her well and do her good, I shall by the grace
+of God, have heaven at will, and if I do not that
+I deserve perpetual damnation: and likewise
+I said, that I had both wind and weather at
+will, and that is true; for if it be the Lords will
+that I have good wind and weather, it is my will
+also and I am very well contented therewith: &amp;
+if it be his will to send me otherwise, it is my
+will also, and I am pleased therewith: &amp; whereas
+I said, that I had an Ass that was wiser than
+<pagebreak id="A3R" />
+our Priest, that is most true; for mine Ass
+sometime when he stumbleth in a hole as she
+goeth she will beware that she come no more
+that way, but looketh well before her, and will
+take heed that she do fall no more therein; but
+this Priest hath had a Maid this seven years and
+more, which he lyeth withall, and falleth oft in
+her hole, and yet he cannot beware of it. And
+thus I hope I have sufficiently answered to
+this complaint.
+Well </dialogue><nonSpeech> (said the Bishop) </nonSpeech><dialogue> thou hast answered,
+&amp; wisely and therefore go thy ways. <omission type="line" />
+
+</dialogue> <head> <font>ANOTHER.</font> </head> 
+   <nonSpeech>There was a Fryer in <font>London</font> , which did
+use to go often to the house of an old woman,
+and ever when he came to her house, she hid all
+the meat she had. On a time this Fryer came
+to her house. (bringing certain company with
+him) and demanded of the Wife if she had any
+meat. And she said,</nonSpeech><dialogue> Nay. Well </dialogue><nonSpeech>quoth the
+Fryer,</nonSpeech><dialogue> have you not a whetstone? Yea </dialogue><nonSpeech> (qd. the
+Woman) </nonSpeech><dialogue> what will you do with it? Marry
+</dialogue><nonSpeech>qd he.</nonSpeech><dialogue> I would make meat thereof. </dialogue><nonSpeech>Then she
+brought a whetstone. He asked her likewise if
+<pagebreak id="A3V" />
+she had not a Frying-pan.</nonSpeech><dialogue> Yea, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> but
+what the divil will ye do therewith? Marry
+</dialogue><nonSpeech> (said the Fryer) </nonSpeech><dialogue> you shall see by and by what I
+will do with it: </dialogue><nonSpeech>and when he had the pan, he
+set it on the fire, and put the whetstone therein.</nonSpeech><dialogue> 
+Cocks body, </dialogue><nonSpeech>said the woman,</nonSpeech><dialogue> you will burn the
+pan. No, no, </dialogue><nonSpeech>qd. the Fryer,</nonSpeech><dialogue> if you will give me
+some eggs, it will not burn at all. </dialogue><nonSpeech>But she
+would have had the pan from him, when that
+she saw it was in danger; yet he would not let
+her, but still urged her to fetch him some eggs,
+which she did.</nonSpeech><dialogue> Tush </dialogue><nonSpeech>said the Fryer,</nonSpeech><dialogue> here are not
+enow, go fetch ten or twelve. </dialogue><nonSpeech>So the good Wife
+was constrayned to fetch more, for feare lest the
+Pan should burn; And when he had them, he put
+them in the pan.</nonSpeech><dialogue> Now </dialogue><nonSpeech>qd he,</nonSpeech><dialogue> if you have no
+butter, the pan will burn and the eggs too. </dialogue><nonSpeech>So the
+good wife being very loth to have her Pan
+burnt, and her eggs lost, she fetcht him a dish of
+butter, the which he put into the pan and made
+good meat thereof, &amp; brougt it to the table,
+saying</nonSpeech><dialogue> Much good may it do you my Masters, now
+may you say, you have eaten of a buttered
+Whetstone. <omission type="line" />
+<pagebreak id="A4R" />
+
+</dialogue> <head> <font>ANOTHER.</font> </head> <dialogue>
+<comment type="compiler">AN OLD MAN WITH POOR EYESIGHT HAS A YOUNG WIFE.
+THE YOUNG WIFE HAS A SERVANT WHO IS ALSO HER LOVER. ONE NIGHT 
+THE WIFE TELLS HER SERVANT TO COME INTO HER AND HER HUSBAND'S
+BEDROOM AT MIDNIGHT.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>but a little before the time prefixed, she
+awakned her husband and said thus unto him,</nonSpeech><dialogue> 
+Sir, I will tell you a thing in secret, which
+your servant was purposed to do; when I am
+alone, I can never be at quiet for him, but he
+is always enticeing me to have me at his will,
+and so at the last to be quiet with him, I
+consented to meet him in the garden, but for mine
+honesties sake I will not. Wherefore I pray
+you put on my cloathes and go meet him: so
+when he comes to you, beat him well, and chide
+him, for I know well he will not strike you,
+<pagebreak id="A4V" />
+because you are his Master, and then he may
+amend himself &amp; prove a good servant: <omission type="sentence" />
+<comment type="compiler">THE HUSBAND GOES OUT TO THE GARDEN. THE SERVANT COMES TO THE WIFE
+AND SHE TELLS HIM WHAT SHE HAS SAID TO HER HUSBAND. AFTER A WHILE
+THE SERVANT GOES TO THE GARDEN WHERE HE MEETS HIS MASTER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>as though he knew not it was his
+Master, &amp; said unto him,</nonSpeech><dialogue> Nay you whore, I did
+this but only to prove thee, whether thou
+wouldest be false to my good Master, and not that I
+would do such a vile thing with thee. 
+</dialogue><nonSpeech>Whereupon he fell upon his Master, giving him many
+sore stripes, and beating him most cruelly, still
+calling him nothing but,</nonSpeech><dialogue> Out you Whore, will
+you offer this abuse to my good Master? Alas,
+</dialogue><nonSpeech> (qd. his Master) </nonSpeech><dialogue> good <font>John</font> I am thy Master,
+strike me no more, I pray thee. Nay Whore </dialogue><nonSpeech> (qd.
+he) </nonSpeech><dialogue> I know who thou art well enough </dialogue><nonSpeech>and so he
+struck him again, beating him most grievously.</nonSpeech><dialogue> 
+Good <font>John</font> </dialogue><nonSpeech> (said his Master) </nonSpeech><dialogue> feel I have a
+beard. </dialogue><nonSpeech>Then the servant felt (knowing well
+who it was) who presently kneeled down, and
+<pagebreak id="A5R" />
+cryed his Master mercy.</nonSpeech><dialogue> Now thanks be to
+God, </dialogue><nonSpeech> (qd. his Master) </nonSpeech><dialogue> I have as good a servant
+of thee as a man can have, and I have as good
+a wife as the world affords. </dialogue><nonSpeech>Afterwards the
+Master went to bed, and his servant also. When
+the old man came to bed to his Wife; she
+demanded of him how he sped. He answered and
+said,</nonSpeech><dialogue> By my troth Wife, I have the trustiest
+servant in the World, and as faithful a Wife; for
+my servant came thither with a great staff,
+and did beat me right sore, thinking it had been
+you; wherefore I was well pleased therewith.
+<omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="A7R" />
+
+ <head> <font>ANOTHER.</font> </head> <dialogue>
+<comment type="compiler">TWO YOUNG PLOUGHMEN HAVE BEEN IN THE CHURCH.</comment>
+<omission type="sentence" /> Lob I pray
+thee what was that the Priest went so whinging
+whanging withal? Why Dob </dialogue><nonSpeech> (qd. the other) </nonSpeech><dialogue>
+dost thou not know? It is Frankincense. Is it
+Frankincense? I am sure it stunk as if the 
+devil had been in the Church.
+<pagebreak id="A7V" />
+
+</dialogue> <head> <font>ANOTHER.</font> </head> 
+
+   <nonSpeech>There were once too men that were both
+masterless and moneyless, &amp; one said to the
+other,</nonSpeech><dialogue> What remedy canst thou now find out
+that we may either get some meat or money?
+By my troth </dialogue><nonSpeech>qd, the other) </nonSpeech><dialogue> I do know a very
+fine shift, </dialogue><nonSpeech> (&amp; being very early in the morning,
+they espyed a man coming with Hogs) </nonSpeech><dialogue> Lo
+yonder cometh a man with Hogs, and I will
+tell him that they be sheep, &amp; I will cause him to
+lay a wager with me, whether they be Sheep
+or hogs: &amp; I will cause the matter to be judged
+by the next man that cometh, but then thou
+must go another way &amp; meet with us; when we
+demand of thee whether they be sheep or hogs,
+thou must say that they be sheep. </dialogue><nonSpeech>Then they
+separated themselves the one from the other, 
+and the one went to meet the man that had the
+Swine, bidding him good morrow; the man
+doing the like to him again. Then he said to
+the old man</nonSpeech><dialogue> Father, where had you your fair
+sheep; What sheep </dialogue><nonSpeech>qd. the man;</nonSpeech><dialogue> These sheep
+that you drive before you: Why </dialogue><nonSpeech> (qd.) the old man</nonSpeech><dialogue>
+they are Swine. What </dialogue><nonSpeech> (qd. the other) </nonSpeech><dialogue> will you
+make me a fool? think you I know not sheep
+from Swine? Marry </dialogue><nonSpeech> (qd. the old man) </nonSpeech><dialogue> I will lay
+one of my Swine against what thou wilt, that
+<pagebreak id="A8R" />
+they be no Sheep. I hold thee my coat against
+one of thy sheep, </dialogue><nonSpeech>qd. the other.</nonSpeech><dialogue> I am content, </dialogue><nonSpeech>qd.
+the old man,</nonSpeech><dialogue> by whom shall we be tryed? By the
+next man that meets us. Content, </dialogue><nonSpeech>said the old
+man. And then they perceived the man coming
+being the fellow of the young man. And when
+he came to them, the old man requested him to
+tel them what beasts those were?</nonSpeech><dialogue> Why </dialogue><nonSpeech> (qd. he) </nonSpeech><dialogue>
+they be sheep, do you not know sheep? I told him
+so, </dialogue><nonSpeech> (qd. the other young man) </nonSpeech><dialogue> but he would not
+believe me, &amp; so I laid my coat upon a Wager
+that they were sheep, &amp; he laid one of his sheep
+against my Coat that they were Swine: and I
+won it, have I not? Yea </dialogue><nonSpeech> (qd. the old man) </nonSpeech><dialogue> but
+God help me, I bought them for Swine, <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="A8V" />
+
+ <head> <font>ANOTHER.</font> </head> <dialogue>
+<comment type="compiler">A BOY FROM THE NORTH IS ASKED TO FETCH THE SALAD (SALLET)
+WHICH HE HAS NEVER HEARD OF. HE FINDS A SALLET (A HELMET).</comment>
+<omission type="sentence" />
+</dialogue><nonSpeech>and said to himself,</nonSpeech><dialogue> What will my Master do
+with this in a platter? </dialogue><nonSpeech>So down he took it, and
+put it into a Platter and put Dil and Vinegar
+unto it, and brought it to the table.</nonSpeech><dialogue> Why thou
+knave </dialogue><nonSpeech> (qd, his Master) </nonSpeech><dialogue> I had thee bring the
+herbs, which we call a Sallet. Now by my
+Sires sale Master </dialogue><nonSpeech> (said the boy,) </nonSpeech><dialogue> I did never see
+such in my Country. <omission type="line" />
+<pagebreak id="B1V" />
+
+</dialogue> <head> <font>ANOTHER.</font> </head> <dialogue>
+<comment type="compiler">A MAN ASKS A BOY TO FETCH HIM SOME COLEWORTS AND SET THEM
+OVER THE FIRE IN HIS CHAMBER: THE BOY DOES NOT KNOW WHAT A COLEWORT IS
+AND THINKS THE MAN MEANS COAL. THE BOY FETCHES THE COAL AND PUTS IT
+ON THE FIRE.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>he
+asked him for his Coleworts which he bad him
+<pagebreak id="B2R" />
+make ready.</nonSpeech><dialogue> Marry sir, </dialogue><nonSpeech>said he</nonSpeech><dialogue> they be almost
+enough for they have lien rosting in the fire
+almost this hour. Where are they, </dialogue><nonSpeech>said the
+Master?</nonSpeech><dialogue> In your chamber sir, </dialogue><nonSpeech>qd. the boy. So he
+went into his chamber and there he saw a great
+fire, and then he asked the boy again where the
+coleworts were.</nonSpeech><dialogue> Why Master </dialogue><nonSpeech>qd the boy</nonSpeech><dialogue> I
+understood you that you bad me fetch coales and
+hang them over the fire in the basket, and if I
+should have done so the basket would have
+burned: wherefore I took the basket and powred
+the coals on the fire. O whorson </dialogue><nonSpeech>qd. his Master,</nonSpeech><dialogue> I
+bad thee to fetch some coleworts and hang them
+in a kettle over the fire: <omission type="sentence" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="B4R" />
+
+ <head> <font>ANOTHER.</font> </head> 
+
+   <nonSpeech>In the countrey dwelt a Gentlewoman who
+had a French man dwelling with her, and
+he did ever use to go to Church with her, and
+upon a time he and his Mistresse were going to
+Church and she bad him pull the doore after him
+and follow her to the Church, and so he took the
+doore betweene his armes, and lifted it from the
+hooks, and followed his Mistresse with it: But
+when she looked behinde her and saw him bring
+the doore upon his back,</nonSpeech><dialogue> Why thou foolish
+knave, </dialogue><nonSpeech>qd. she,</nonSpeech><dialogue> what wilt thou do with the door?
+Mary Mistresse, </dialogue><nonSpeech>qd. he,</nonSpeech><dialogue> you bad me pull the doore
+after me. Why whorson </dialogue><nonSpeech>qd. she,</nonSpeech><dialogue> I did command
+thee that thou shouldest make fast the doore
+after thee, &amp; not to bring it upon thy back after
+me. <omission type="line" />
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5CFIELD">
+  <dialogueHeader>
+
+    <filename>D5CFIELD</filename>
+
+    <identifier>5 COMEDY D5CFIELD</identifier>
+
+    <title>HISTORICAL REGISTER</title>
+
+    <author>FIELDING HENRY</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1737/1744</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">FIELDING, HENRY.</attribution>
+      <frontMatter>THE HISTORICAL REGISTER,
+AS IT WAS ACTED AT THE NEW THEATRE IN THE HAY-MARKET. 
+TO WHICH IS ADDED A VERY MERRY TRAGEDY, CALLED EURYDICE HISS'D (...).
+BOTH WRITTEN BY HENRY FIELDING, ESQ;
+(...)
+THE THIRD EDITION. 
+LONDON: PRINTED FOR W. BICKERTON AT THE TEMPLE EXCHANGE COFFEE-HOUSE,
+OPPOSITE ST. DUNSTAN'S CHURCH IN FLEET-STREET. 
+1744.
+PP. 1.1 - 33.13
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">FIRST EDITION PUBLISHED 1737.</comment>
+
+<comment type="compiler">SQUARE BRACKETS USED IN SOURCE TEXT TO INDICATE ASIDES AND  
+STAGE DIRECTIONS ARE OMITTED.</comment>
+
+<pagebreak id="1" />
+</dialogue> <head>THE 
+HISTORICAL REGISTER, 
+FOR THE YEAR 1736.</head> 
+
+ <head>ACT I. SCENE I.</head> 
+
+<nonSpeech>Scene <font>the Play-House</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter several Players.</font> </nonSpeech>
+
+   <nonSpeech>1 <font>Player.</font> </nonSpeech><dialogue>
+Mr. <font>Emphasis</font> , good-morrow, you are early 
+at the Rehearsal this Morning.
+   </dialogue><nonSpeech> <font>Emph.</font> </nonSpeech><dialogue> Why, faith, <font>Jack</font> , our Beer and
+Beer sat but ill on my Stomach, so I got
+up to try if I could not walk it off.
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> I wish I had any thing in my Stomach to
+walk off; if Matters do not go better with us shortly,
+my Teeth will forget their Office.
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> These are poor Times, indeed, not like the
+Days of <font>Pasquin</font> .
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Oh! name 'em not! those were glorious
+Days indeed, the Days of Beef and Punch; my Friends,
+when come there such again?
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> -- Who knows what this new Author,
+may produce? Faith I like my Part very well.
+<pagebreak id="2" />
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Nay, if Variety will please the Town, I
+am sure there is enough of it, but I could wish, 
+methinks, the Satire had been a little stronger, a little
+plainer.
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> Now I think it is plain enough.
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Hum! Ay, it is intelligible; but I wou'd
+have it downright; 'gad, I fancy I cou'd write a
+thing to succeed, my self.
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> Ay, prithee, what Subject wou'dst thou
+write on?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Why, no Subject at all, Sir, but I would
+have a humming deal of Satyr, and I would repeat
+in every Page, that Courtiers are Cheats and don't
+pay their Debts, that Lawyers are Rogues, Physicians
+Blockheads, Soldiers Cowards, and Ministers --
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> What, what, Sir?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Nay, I'll only name 'em, that's enough to
+set the Audience a hooting.
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> Zounds, Sir, here is Wit enough for a
+whole Play in one Speech.
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> For one Play, why, Sir, it's all I have 
+extracted out of above a Dozen.
+   </dialogue><nonSpeech>2 <font>Play.</font> </nonSpeech><dialogue> Who have we here?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Some Gentlemen, I suppose, come to hear
+the Rehearsal.
+
+</dialogue><nonSpeech> <font>Enter</font> Sowrwit <font>and Lord</font> Dapper.</nonSpeech>
+
+   <nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Pray, Gentlemen, don't you rehearse the
+<font>Historical Register</font> this Morning?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Sir, we expect the Author every Minute.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> What is this <font>Historical Register</font> , is it a
+Tragedy, or a Comedy?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Upon my Word, Sir, I can't tell.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Then I suppose you have no Part in it.
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Yes, Sir, I have several, but -- Oh, here
+is the Author himself, I suppose he can tell, Sir.
+   </dialogue><nonSpeech><font>Sowr.</font> </nonSpeech><dialogue> Faith, Sir, that's more than I suppose.
+<pagebreak id="3" />
+</dialogue><nonSpeech> <font>Enter</font> Medley.</nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> My Lord, your most obedient Servant; this
+is a very great, and unexpected Favour indeed, my
+Lord. Mr. <font>Sowrwit</font> , I kiss your Hands; I am very
+glad to see you here.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> That's more than you may be by-and-by,
+perhaps.
+   </dialogue><nonSpeech> <font>Dap.</font> </nonSpeech><dialogue> We are come to attend your Rehearsal, Sir;
+Pray when will it begin?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> This very Instant, my Lord: Gentlemen, I
+beg you would be all ready, and let the Prompter
+bring me some Copies for these Gentlemen.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Mr. <font>Medley</font> , you know I am a plain Speaker,
+so you will excuse any Liberties I take.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Dear Sir, you can't oblige me more.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Then I must tell you, Sir, I am a little 
+stagger'd at the Name of your Piece; doubtless, Sir,
+you know the Rules of Writing, and I can't guess
+how you can bring the Actions of a whole Year into
+the Circumference of four and twenty Hours.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, I have several Answers to make to your
+Objection; in the first Place, my Piece is not of a 
+Nature confin'd to any Rules, as being avowedly
+irregular, but if it was otherwise I think I could quote
+you Precedents of Plays that neglect them; besides,
+Sir, if I comprise the whole Actions of the Year in
+half an Hour, will you blame me, or those who
+have done so little in that time? My Register is not
+to be fill'd like those of vulgar News-Writers with
+Trash for want of News, and therefore if I say little
+or nothing, you may thank those who have done
+little or nothing.
+
+</dialogue><nonSpeech> <font>Enter</font> Prompter <font>with Books</font> .</nonSpeech><dialogue>
+
+Oh! here are my Books.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> In Print already, Mr. <font>Medley</font> ?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yes, Sir, it is the safest way, for if a Man
+<pagebreak id="4" />
+stays till he is damn'd, it is possible he never may
+get into print at all; the Town is capricious, for
+which Reason always print as fast as you write, that
+if they damn your Play, they may not damn your
+Copy too.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Well, Sir, and pray what is your Design, 
+your Plot?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Why, Sir, I have several Plots, some pretty
+deep, and some but shallow.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I hope, Sir, they all conduce to the main
+Design.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yes, Sir, they do.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Pray, Sir, what is that?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> To divert the Town, and bring full Houses.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Pshaw! you misunderstand me, I mean
+what is your Moral, your, your, your -- 
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Oh! Sir, I comprehend you -- Why, Sir,
+my Design is to ridicule the vicious and foolish
+Customs of the Age, and that in a fair manner,
+without Fear, Favour, or Ill-nature, and without
+Scurrility, ill Manners, or common Place; I hope to
+expose the reigning Follies in such a manner, that Men
+shall laugh themselves out of them before they feel
+that they are touch'd.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> But what Thread or Connexion can you
+have in this History? For instance, how is your
+Political connected with you Theatrical?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> O very easily -- When my Politicks come to
+a Farce, they very naturally lead me to the
+Play-House, where, let me tell you, there are some
+Politicians too, where there is Lying, Flattering,
+Dissembling, Promising, Deceiving, and Undermining,
+as well as in any Court in Christendom.
+
+</dialogue><nonSpeech> <font>Enter a Player.</font> </nonSpeech>
+
+   <nonSpeech> <font>Play.</font> </nonSpeech><dialogue> Won't you begin your Rehearsal, Sir?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay, ay, with all my Heart, is the Musick
+ready for the Prologue?
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Musick for the Prologue!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay, Sir,  I intend to have every thing new, I
+had rather be the Author of my own Dulness than
+the Publisher of other Mens Wit, and really, Mr.
+<font>Sowrwit</font> , the Subjects for Prologues are utterly
+exhausted: I think the general Method has been either
+to frighten the Audience with the Author's
+Reputation, or to flatter them to give their Applause,
+or to beseech them to it, and that in a manner that
+will serve for every Play alike: Now, Sir, my
+Prologue will serve for no Play but my own, and to that
+I think nothing can be better adapted, for as mine is
+the History of the Year, what can be a properer
+Prologue than an Ode to the New Year?
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> An Ode to the New Year?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yes, Sir, an Ode to the New Year -- Come,
+begin, begin.
+
+</dialogue><nonSpeech> <font>Enter</font> Prompter.</nonSpeech>
+
+   <nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir, the Prologue is ready.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Dear <font>Medley</font> , let me hear you read it,
+possibly it may be sung so fine I may not understand a
+Word of it.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, you can't oblige me more.
+
+<comment type="compiler">TWELVE LINES OF &quot;ODE TO THE NEW YEAR&quot; OMITTED.</comment>
+<pagebreak id="6" />
+<comment type="compiler">EIGHT REMAINING LINES OF ODE OMITTED.</comment>
+Ay, ay, come on, and sing it away.
+
+</dialogue><nonSpeech> <font>Enter Singers, who sing the Ode.</font> </nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> There, Sir, there's the very Quintessence and
+Cream of all the Odes I have seen for several Years
+last past.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Ay, Sir, I thought you wou'd not be the
+Publisher of another Man's Wit?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No more I an't, Sir, for the Devil of any
+Wit did I ever see in any of them.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Oh! your most humble Servant, Sir.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yours, Sir, yours; now for my Play,
+<font>Prompter</font> , are the Politicians all ready at the Table?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> I'll go and see, Sir. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> My first Scene, Mr. <font>Sowrwit</font> , lies in the Island
+of <font>Corsica</font> , being at present the chief Scene of
+Politicks of all <font>Europe</font> .
+
+</dialogue><nonSpeech> <font>Enter</font> Prompter.</nonSpeech>
+
+   <nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir, they are ready.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Then draw the Scene, and discover them.
+
+</dialogue><nonSpeech>SCENE <font>draws, and discovers Five Politicians
+sitting at a Table</font> .</nonSpeech>
+
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Here's a Mistake in the Print, Mr. <font>Medley</font> ,
+I observe the second Politician is the first Person who 
+speaks.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, my first and greatest Politician never
+speaks at all, he's a very deep Man, by which, you
+<pagebreak id="7" />
+will observe I convey this Moral, that the chief Art
+of a Politician is to keep a Secret.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> To keep his Politicks a Secret, I suppose
+you mean.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Come, Sir, begin.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> Is King <font>Theodore</font> return'd yet?
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> When will he return?
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> This Politician seems to me to know very 
+little of the matter.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Zounds, Sir, would you have him a Prophet as
+well as a Politician? You see, Sir, he knows what's
+past, and that's all he ought to know; 'Sblood, Sir,
+would it be in the Character of a Politician to make
+him a Conjurer? Go on, Gentlemen: Pray, Sir, don't
+interrupt their Debates, for they are of great
+Consequence.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> These mighty Preparations of the <font>Turks</font>
+are certainly design'd against some Place or other;
+now, the Question is, What Place they are design'd
+against? And that is a Question which I cannot
+answer.
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> But it behoves us to be upon our Guard.
+   </dialogue><nonSpeech>4 <font>Polit.</font> </nonSpeech><dialogue> It does, and the Reason is, because we
+know nothing of the matter.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> You say right, it is easy for a Man to
+guard against Dangers which he knows of, but to
+guard against Dangers which no Body knows of,
+requires a very great <font>Politician</font> .
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Now, Sir, I suppose you think that no Body
+knows any thing.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Faith, Sir, it appears so.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay, Sir, but there is one who knows, that
+little Gentleman, yonder in the Chair, who says
+nothing, knows it all.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> But how do you intend to convey this 
+Knowledge to the Audience?
+<pagebreak id="8" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, they can read it in his Looks; 'Sblood,
+Sir, must not a Politician be thought a wise Man
+without his giving Instances of his Wisdom?
+   </dialogue><nonSpeech>5 <font>Polit.</font> </nonSpeech><dialogue> Hang foreign Affairs, let us apply
+ourselves to Money.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Ay, ay, ay.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Gentlemen, that over again -- and be sure to
+snatch hastily at the Money; you're pretty Politicians
+truly.
+   </dialogue><nonSpeech>5 <font>Polit.</font> </nonSpeech><dialogue> Hang foreign Affairs, let us apply
+ourselves to Money.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Ay, ay, ay.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> All we have to consider relating to Money
+is how we shall get it.
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> I think we ought first to consider whether
+there is any to be got, which if there be, I do
+readily agree that the next Question is how to come at it.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Hum.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Pray, Sir, what are these Gentlemen in 
+<font>Corsica</font> ?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Why, Sir, they are the ablest Heads in the
+Kingdom, and consequently the greatest Men, for
+you may be sure all well-regulated Governments, as
+I represent this of <font>Corsica</font> to be, will employ in their
+greatest Posts Men of the greatest Capacity.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> I have consider'd the Matter, and I find it
+must be by a Tax.
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> I thought of that, and was considering
+what was not tax'd already.
+   </dialogue><nonSpeech>2 <font>Polit.</font> </nonSpeech><dialogue> Learning; suppose we put a Tax upon
+Learning.
+   </dialogue><nonSpeech>3 <font>Polit.</font> </nonSpeech><dialogue> Learning, it is true, is a useless Commodity,
+but I think we had better lay it on Ignorance, for
+Learning being the Property but of a very few, and
+those poor ones too, I am afraid we can get little 
+among them; whereas Ignorance will take in most
+of the great Fortunes in the Kingdom.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Ay, ay, ay. </dialogue><nonSpeech> <font>Exeunt</font> Politicians.</nonSpeech>
+<pagebreak id="9" />
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Faith, it's very generous in these 
+Gentlemen to tax themselves so readily.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay and very wise too to prevent the People's
+grumbling, and they will have it all among
+themselves.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> But what is become of the Politicians?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> They are gone, Sir, they're gone; they
+have finish'd the Business they met about, which was
+to agree on a Tax, that being done -- they are
+gone to raise it; and this, Sir, is the full Account of
+the whole History of <font>Europe</font> , as far as we know of
+it, compriz'd in one Scene.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> The Devil it is! Why, you have not
+mention'd one Word of <font>France</font> , or <font>Spain</font> , or the
+Emperor.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No, Sir, I turn those over to the next Year,
+by which time we may possibly know something
+what they are about; at present our Advices are so
+very uncertain, I know not what to depend on; but
+come, Sir, now you shall have a Council of Ladies.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Does this Scene lie in <font>Corsica</font> too?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No, no, this lies in <font>London</font> -- You know,
+Sir, it would not have been quite so proper to have
+brought <font>English</font> Politicians (of the male Kind I mean)
+on the Stage, because our Politicks are not quite so
+famous; but in Female Politicians, to the Honour of
+my Countrywomen I say it, I believe no Country
+can excel us; come, draw the Scene, and discover
+the Ladies.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir, they are not here; one of them is
+practising above Stairs with a Dancing-master, and I can't
+get her down.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I'll fetch 'em, I warrant you. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Well, my Lord, what does your
+Lordship think of what you have seen?
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Faith, Sir, I did not observe it; but it's
+damn'd Stuff, I am sure.
+<pagebreak id="10" />
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I think so, and I hope your Lordship will not
+encourage it. They are such Men as your Lordship,
+who must reform the Age; if Persons of your exquisite
+and refin'd Taste will give a Sanction to politer
+Entertainments, the Town will soon be asham'd of
+laughing at what they do now.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Really, this is a very bad House.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> It is not indeed so large as the others, but
+I think one hears better in it.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Pox of of hearing, one can't see -- one's
+self I mean; here are no Looking-glasses, I love
+<font>Lincoln's-Inn-Fields</font> for that Reason better than any
+House in Town.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Very true, my Lord, but I wish your
+Lordship would think it worth your Consideration, as the
+Morals of a People depend, as has been so often
+and well prov'd, entirely on their publick Diversions,
+it would be of great Consequence that those of the
+sublimest Kind should meet with your Lordship's and
+the rest of the Nobility's Countenance.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Mr. <font>Sowrwit</font> , I am always ready to give
+my Countenance to any thing of that kind, which
+might bring the best Company together, for as one
+does not go to see the Play but the Company, I think
+that's chiefly to be consider'd, and therefore I am
+always ready to countenance good Plays.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> No one is a better Judge what is so than
+your Lordship.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Not I, indeed, Mr. <font>Sowrwit</font> -- but as I
+am one half of the Play in the <font>Green-Room</font> talking
+to the Actresses, and the other half in the Boxes
+talking to the Women of Quality, I have an
+Opportunity of seeing something of the Play, and perhaps may
+be as good a Judge as another.
+
+</dialogue><nonSpeech> <font>Enter</font> Medley.</nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> My Lord, the Ladies cannot begin yet, if
+your Lordship will honour me in the <font>Green-Room</font> ,
+<pagebreak id="11" />
+where you will find it pleasanter than upon this cold
+Stage.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> With all my Heart -- Come, Mr. 
+<font>Sowrwit</font> .
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I attend your Lordship. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Thou art a sweet Judge of Plays, indeed, 
+and yet it is in the Power of such Sparks as these to
+damn an honest Fellow, both in his Profit and
+Reputation. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head>ACT II. SCENE I.</head> 
+
+<nonSpeech> <font>Enter</font> Medley, <font>Lord</font> Dapper, Sowrwit <font>and</font> Prompter.</nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Come, draw the Scene, and discover the 
+Ladies in Council; pray, my Lord, sit.
+</dialogue><nonSpeech> <font>The Scene draws and discovers four Ladies.</font> </nonSpeech>
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> What are these Ladies assembled about?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Affairs of great Importance, as you will
+see -- Please to begin all of you.
+</dialogue><nonSpeech> <font>The Ladies all speak together.</font> </nonSpeech>
+   <nonSpeech> <font>All Ladies.</font> </nonSpeech><dialogue> Was you at the Opera, Madam, last
+Night?
+   </dialogue><nonSpeech>2 <font>Lady.</font> </nonSpeech><dialogue> Who can miss an Opera when <font>Farinello</font>
+stays?
+   </dialogue><nonSpeech>3 <font>Lady.</font> </nonSpeech><dialogue> Sure he is the charmingest Creature.
+   </dialogue><nonSpeech>4 <font>Lady.</font> </nonSpeech><dialogue> He's every thing in the World one could
+wish.
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Almost every thing one could wish.
+   </dialogue><nonSpeech>2 <font>Lady.</font> </nonSpeech><dialogue> They say there's a Lady in the City has a
+Child by him.
+   </dialogue><nonSpeech> <font>All Ladies</font> </nonSpeech><dialogue> Ha, ha, ha!
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Well it must be charming to have a Child
+by him.
+<pagebreak id="12" />
+   </dialogue><nonSpeech>3 <font>Lady.</font> </nonSpeech><dialogue> Madam, I met a Lady in a Visit the other
+Day with three.
+   </dialogue><nonSpeech> <font>All Ladies.</font> </nonSpeech><dialogue> All <font>Farinello's</font> .
+   </dialogue><nonSpeech>3 <font>Lady.</font> </nonSpeech><dialogue> All <font>Farinello's</font> , all in Wax.
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Oh Gemini! Who makes them, I'll send
+and bespeak half a dozen to-morrow Morning.
+   </dialogue><nonSpeech>2 <font>Lady.</font> </nonSpeech><dialogue> I'll have as many as I can cram into a 
+Coach with me.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Mr. <font>Medley</font> , Sir, is this History? this must
+be Invention.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Upon my Word, Sir, it's Fact, and I take
+it to be the most extraordinary Accident that has
+happen'd in the whole Year, and as well worth
+recording. Faith, Sir, let me tell you, I take it to be
+ominous, for if we go on to improve in Luxury,
+Effeminacy and Debauchery, as we have done lately, the
+next Age, for ought I know, may be more like the
+Children of squeaking <font>Italians</font> than hardy <font>Britons</font> .
+   </dialogue><nonSpeech> <font>All Ladies.</font> </nonSpeech><dialogue> Don't interrupt us, dear Sir.
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> What mighty pretty Company they must
+be.
+   </dialogue><nonSpeech>2 <font>Lady.</font> </nonSpeech><dialogue> Oh, the prettiest Company in the World.
+   </dialogue><nonSpeech>3 <font>Lady.</font> </nonSpeech><dialogue> If one could but teach them to sing like
+their Father.
+   </dialogue><nonSpeech>4 <font>Lady.</font> </nonSpeech><dialogue> I am afraid my Husband won't let me keep
+them, for he hates I shou'd be fond of any thing but
+himself.
+   </dialogue><nonSpeech> <font>All Ladies.</font> </nonSpeech><dialogue> O the unreasonable Creature!
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> If my Husband was to make any
+Objection to my having 'em, I'd run away from him, and
+take the dear Babies with me.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Come, enter Beau <font>Dangle</font> .
+
+</dialogue><nonSpeech> <font>Enter</font> Dangle.</nonSpeech>
+
+   <nonSpeech> <font>Dang.</font> </nonSpeech><dialogue> Fy upon it, Ladies, what are you doing
+here? Why are not you at the Auction, Mr. <font>Hen</font>
+has been in the Pulpit this half Hour?
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Oh, dear Mr. <font>Hen</font> , I ask his Pardon, I
+never miss him.
+<pagebreak id="13" />
+   </dialogue><nonSpeech>2 <font>Lady.</font> </nonSpeech><dialogue> What's to be sold to-day?
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Oh, I never mind that; there will be all
+the World there.
+   </dialogue><nonSpeech> <font>Dang.</font> </nonSpeech><dialogue> You'll find it almost impossible to get in.
+   </dialogue><nonSpeech> <font>All Ladies.</font> </nonSpeech><dialogue> Oh! I shall be quite miserable if I don't
+get in.
+   </dialogue><nonSpeech> <font>Dang.</font> </nonSpeech><dialogue> Then you must not lose a Moment.
+</dialogue><nonSpeech> <font>Exeunt Ladies.</font> </nonSpeech>
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> There they are gone. 
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I am glad on't with all my Heart.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Upon my Word, Mr. <font>Medley</font> , that last is
+an exceeding good Scene, and full of a great deal of
+Politeness, good Sense, and Philosophy.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> It's Nature, my Lord, it's Nature.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Faith, Sir, the Ladies are much oblig'd
+to you.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Faith, Sir, it's more than I desire such
+Ladies, as I represent here, shou'd be; as for the nobler
+Part of the Sex for whom I have the greatest
+Honour, their Characters can be no better set off, than
+by ridiculing that light, trifling, giddy-headed Crew,
+who are a Scandal to their own Sex, and a Curse
+on ours.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Gentlemen, you must make room, for the
+Curtain must be let down, to prepare the 
+Auction-Room.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> My Lord, I believe you will be best before
+the Curtain, for we have but little Room behind,
+and a great deal to do.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Upon my Word, Mr. <font>Medley</font> , I must ask
+you the same Question which one of your Ladies did
+just now; what do you intend to sell at this Auction,
+the whole Stock in Trade of some Milliner or
+Mercer who has left off Business?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, I intend to sell such things as was never
+sold in any Auction before, nor ever will again; I
+can assure you, Mr. <font>Sowrwit</font> , this Scene, which I
+<pagebreak id="14" />
+look on as the best in the whole Performance, will
+require a very deep Attention; Sir, if you should take
+one Pinch of Snuff during the whole Scene, you
+will lose a Joke by it, and yet they lie pretty deep
+too, and may escape Observation from a moderate
+Understanding, unless very closely attended to.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I hope, however, they don't lie as deep as
+the dumb Gentleman's Politicks did in the first Act;
+if so, nothing but an inspir'd Understanding can come
+at 'em.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, this Scene is writ in Allegory, and tho'
+I have endeavour'd to make it as plain as possible;
+yet all Allegory will require a strict Attention to be
+understood, Sir.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir, every thing is ready.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Then draw up the Curtain -- Come, enter
+Mrs. <font>Screen</font> , and Mrs. <font>Barter</font> .
+
+</dialogue> <head> <font>The</font> AUCTION.</head> 
+
+<nonSpeech>SCENE <font>an Auction-Room, a Pulpit and
+Forms plac'd, and several People walking about,
+some seated near the Pulpit</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter Mrs.</font> Screen <font>and Mrs.</font> Barter.</nonSpeech>
+
+   <nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Dear Mrs. <font>Barter</font> .
+   </dialogue><nonSpeech>Mrs. <font>Bart.</font> </nonSpeech><dialogue> Dear Madam, you are early to-day?
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Oh, if one does not get near the 
+Pulpit, one does nothing, and I intend to buy a great
+deal to-day; I believe I shall buy the whole Auction,
+at least if things go cheap; you won't bid against
+me?
+   </dialogue><nonSpeech>Mrs. <font>Bart.</font> </nonSpeech><dialogue> You know I never bid for any thing?
+
+</dialogue><nonSpeech> <font>Enter</font> Banter <font>and</font> Dangle.</nonSpeech>
+
+   <nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> That's true, Mrs. <font>Barter</font> , I'll be your
+Evidence.
+<pagebreak id="15" />
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Are you come? now I suppose we
+shall have fine Bidding; I don't expect to buy
+cheaper than at a Shop.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> That's unkind, Mrs. <font>Screen</font> , you know I
+never bid against you; it would be cruel to bid against
+a Lady who frequents Auctions, only with a Design
+one Day or other to make one great Auction of her
+own: No, no, I will not prevent the filling your
+Warehouse; I assure you, I bid against no
+Haberdashers of all Wares.
+   </dialogue><nonSpeech>Mrs. <font>Bart.</font> </nonSpeech><dialogue> You are a mighty civil Person, truly.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> You need not take up the Cudgels, Madam,
+who are of no more Consequence at an Auction,
+than a Mayor at a Sessions; you only come here
+where you have nothing to do, to shew People you
+have nothing to do any where else.
+   </dialogue><nonSpeech>Mrs. <font>Bart.</font> </nonSpeech><dialogue> I don't come to say rude things to all
+the World as you do.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> No, the World may thank Heaven, that did
+not give you Wit enough to do that.
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Let him alone, he will have his Jest?
+   </dialogue><nonSpeech>Mrs. <font>Bart.</font> </nonSpeech><dialogue> You don't think I mind him, I hope;
+but pray, Sir, of what great Use is your Friend,
+Mr. <font>Dangle</font> , here?
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Oh, he is of very great Use to all Women
+of Understanding.
+   </dialogue><nonSpeech> <font>Dang.</font> </nonSpeech><dialogue> Ay! of what Use am I, pray?
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> To keep 'em at home, that they may not
+hear the silly things you say to 'em.
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> I hope, Mr. <font>Banter</font> , you will not
+banish all People from Places where they are of no
+Consequence; you will allow 'em to go to an Assembly,
+or a Masquerade, without either Playing, Dancing or
+Intriguing; you will let People go to an Opera
+without any Ear, to a Play without any Taste, and to a
+Church without any Religion?
+<pagebreak id="16" />
+</dialogue><nonSpeech> <font>Enter Mr.</font> Hen <font>Auctioneer (bowing.) </font> </nonSpeech>
+
+   <nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Oh! dear Mr. <font>Hen</font> , I am glad you
+are come, you are horrible late to-day.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Madam, I am just mounting the Pulpit; I
+hope you like the Catalogue, Ladies?
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> There are some good things here, if
+you are not too dilatory with your Hammer.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Boy, give me a Catalogue?
+   </dialogue><nonSpeech> <font>Hen. in the Pulpit.</font> </nonSpeech><dialogue> I dare swear, Gentlemen and
+Ladies, this Auction will give general Satisfaction;
+it is the first of its kind which I ever had the
+Honour to exhibit, and I believe I may challenge the
+World to produce some of the Curiosities which this
+choice Cabinet contains: A Catalogue of Curiosities
+which were collected by the undefatigable Pains of that
+celebrated Virtuoso, <font>Peter Humdrum</font> , Esq; which
+will be sold by Auction, by <font>Christopher Hen</font> on 
+<font>Monday</font> the 21st Day of <font>March</font> , beginning at Lot 1.
+Gentlemen and Ladies, this is Lot 1. A most curious
+Remnant of Political Honesty. Who puts it up,
+Gentlemen? It will make you a very good Cloke,
+you see its both Sides alike, so you may turn it as
+often as you will -- Come, five Pounds for this
+curious Remnant; I assure you, several great Men have
+made their Birth-day Suits out of the same Piece -- It
+will wear for ever, and never be the worse for 
+wearing -- Five Pounds is bid -- no Body more than
+five Pounds for this curious Piece of Political
+Honesty, five Pound, no more -- </dialogue><nonSpeech> <font>knocks.</font> </nonSpeech><dialogue> Lord
+<font>Both-Sides</font> . Lot 2, a most delicate Piece of Patriotism,
+Gentlemen, who bids? ten Pounds for this Piece of
+Patriotism?
+   </dialogue><nonSpeech>1 <font>Court.</font> </nonSpeech><dialogue> I would not wear it for a thousand Pound.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Sir, I assure you, several Gentlemen at Court
+have worn the same; it's a quite different thing
+within to what it is without.
+<pagebreak id="17" />
+   </dialogue><nonSpeech>1 <font>Court.</font> </nonSpeech><dialogue> Sir, it is prohibited Goods, I sha'nt run
+the risque of being brought into <font>Westminster-hall</font> for
+wearing it.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> You take it for the old Patriotism, whereas
+it is indeed like that in nothing but the Cut, but
+alas! Sir, there is a great Difference in the Stuff:
+But, Sir, I don't propose this for a Town-Suit,
+this is only proper for the Country; Consider,
+Gentlemen, what a Figure this will make at an Election -- 
+Come, five Pound -- One Guinea -- Put 
+Patriotism by.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Ay, put it by, one Day or other it may be
+in Fashion.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Lot 3. Three Grains of Modesty: Come,
+Ladies, consider how scarce this valuable
+Commodity is.
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> Yes, and out of Fashion too, Mr. <font>Hen</font> .
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> I ask your Pardon, Madam, it is true <font>French</font>
+I assure you, and never changes Colour on any
+Account -- Half a Crown for all this Modesty -- Is
+there not one Lady in the Room who wants any
+Modesty?
+   </dialogue><nonSpeech>1 <font>Lady.</font> </nonSpeech><dialogue> Pray Sir, what is it, for I can't see it at
+this Distance?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> It cannot be seen at any Distance, Madam, 
+but it is a beautiful Powder, which makes a fine
+Wash for the Complexion.
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> I thought you said it was true <font>French</font> ,
+and wou'd not change the Colour of the Skin?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> No, it will not, Madam; but it serves
+mighty well to blush behind a Fan with, or to wear
+under a Lady's Mask at a Masquerade -- What, no
+Body bid -- Well, lay Modesty aside -- Lot 4. One
+Bottle of Courage, formerly in the Possession of
+Lieutenant Colonel <font>Ezekiel Pipkin</font> , Citizen, Alderman
+and Tallowchandler -- What, is there no Officer
+of the Train'd-Bands here? Or it will serve an
+Officer of the Army as well in Time of Peace, nay even
+<pagebreak id="18" />
+in War, Gentlemen; it will serve all of you who
+fell out?
+   </dialogue><nonSpeech>1 <font>Offi.</font> </nonSpeech><dialogue> Is the Bottle whole? is there no Crack
+in it?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> None, Sir, I assure you; tho' it has been in
+many Engagements in <font>Tothill-Fields</font> ; nay it has serv'd
+a Campaign or two in <font>Hide-Park</font> , since the
+Alderman's Death -- it will never waste while you stay at
+home, but it evaporates immediately if carried abroad.
+   </dialogue><nonSpeech>1 <font>Offi.</font> </nonSpeech><dialogue> Damn me, I don't want it; but a Man
+can't have too much Courage -- Three Shillings
+for it.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Three Shillings are bid for this Bottle of
+Courage.
+   </dialogue><nonSpeech>1 <font>Beau.</font> </nonSpeech><dialogue> Four. 
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> What do you bid for Courage for?
+   </dialogue><nonSpeech>1 <font>Beau.</font> </nonSpeech><dialogue> Not for my self, but I have a Commission
+to buy it for a Lady.
+   </dialogue><nonSpeech>1 <font>Offi.</font> </nonSpeech><dialogue> Five.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Five Shillings, five Shillings for all this
+Courage; no Body more than five Shillings? </dialogue><nonSpeech> <font>knocks.</font> </nonSpeech><dialogue>
+your Name, Sir?
+   </dialogue><nonSpeech>1 <font>Offi.</font> </nonSpeech><dialogue> <font>Macdonald O Thunder.</font> 
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Lot 5, and Lot 6. All the Wit lately
+belonging to Mr. <font>Hugh Pantomime</font> , Composer of
+Entertainments for the Play-houses, and Mr. <font>William Goosequil</font> ,
+Composer of political Papers in Defence of a   
+Ministry; shall I put up these together?
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Ay, it is a pity to part them, where are
+they?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Sir, in the next Room, where any
+Gentleman may see them, but they are too heavy to bring
+in; there are near three hundred Volumes in Folio.
+   </dialogue><nonSpeech> <font>Ban.</font> </nonSpeech><dialogue> Put them by, who the Devil would bid for
+them unless he was the Manager of some House or
+other? The Town has paid enough for their Works
+already.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Lot 7. A very neat clear Conscience which
+has been worn by a Judge, and a Bishop.
+   </dialogue><nonSpeech>Mrs. <font>Screen.</font> </nonSpeech><dialogue> It is as clean as if it was new.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Yes, no Dirt will stick to it, and pray
+observe how capacious it is; it has one particular
+Quality, put as much as you will into it, it is never full:
+Come, Gentlemen, don't be afraid to bid for this,
+for whoever has it will never be poor.
+   </dialogue><nonSpeech> <font>Beau.</font> </nonSpeech><dialogue> One Shilling for it.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> O fy, Sir, I am sure you want it, for if you
+had any Conscience, you would put it up at more
+than that: Come, fifty Pound for this Conscience.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> I'll give fifty Pound to get rid of my
+Conscience with all my Heart.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Well, Gentlemen, I see you are resolv'd not
+to bid for it, so I'll lay it by: Come, Lot 8, a very
+considerable Quantity of Interest at Court; Come, a
+Hundred Pound for this Interest at Court.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> For me, Mr. <font>Hen</font> ?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> A Hundred Pound is bid in a Hundred Places,
+Gentlemen.
+   </dialogue><nonSpeech> <font>Beau.</font> </nonSpeech><dialogue> Two Hundred Pound.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Two Hundred Pound, two Hundred and
+Fifty, three Hundred Pound, three Hundred and Fifty,
+four Hundred, five Hundred, six Hundred, a
+Thousand; a Thousand Pound is bid, Gentlemen, no Body
+more than a Thousand Pounds for this Interest at
+Court; no Body more than one Thousand? </dialogue><nonSpeech> <font>Knocks.</font> </nonSpeech><dialogue>
+Mr. <font>Littlewit</font> .
+   </dialogue><nonSpeech> <font>Ban.</font> </nonSpeech><dialogue> Damn me, I know a Shop where I can buy
+it for less.
+   </dialogue><nonSpeech>L <font>Dap.</font> </nonSpeech><dialogue> Egad, you took me in, Mr. <font>Medley</font> , I 
+could not help bidding for it.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> It is a sure Sign it's Nature, my Lord, and
+I should not be surpriz'd to see the whole Audience
+stand up and bid for it too.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> All the Cardinal Virtues, Lot 9. Come,
+Gentlemen, put in these Cardinal Virtues?
+<pagebreak id="20" />
+   </dialogue><nonSpeech> <font>Gent.</font> </nonSpeech><dialogue> Eighteen Pence.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Eighteen Pence is bid for these Cardinal
+Virtues; no body more than Eighteen Pence? Eighteen
+Pence for all these Cardinal Virtues, no body more?
+All these Virtues, Gentlemen, are going for Eighteen
+Pence; perhaps there is not so much more Virtue in
+the World, as here is, and all going for Eighteen
+Pence </dialogue><nonSpeech> <font>Knocks.</font> </nonSpeech><dialogue> Your Name, Sir?
+   </dialogue><nonSpeech> <font>Gent.</font> </nonSpeech><dialogue> Sir, here's a Mistake; I thought you had
+said a Cardinal's Virtues, 'Sblood Sir, I thought to
+have bought a Pennyworth; here's Temperance and
+Chastity, and a Pack of Stuff that I would not give
+three Farthings for?
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Well, lay 'em by, Lot 10, and Lot 11, A
+great deal of Wit, and a little common Sense.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Why do you put up these together? they
+have no Relation to each other.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Well, the Sense by itself; then Lot 10, A
+little common Sense -- I assure you, Gentlemen, this
+is a very valuable Commodity; Come, who puts it
+in?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> You observe as valuable as it is, no body
+bids; I take this, if I may speak in the Stile of a 
+great Writer, to be a most emphatical Silence; you
+see, Mr. <font>Sowrwit</font> , no one speaks against this Lot,
+and the reason no body bids for it, is because every
+one thinks he has it.
+   </dialogue><nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Lay it by, I'll keep it my self; Lot 12.
+</dialogue><nonSpeech> <font>Drum beats.</font> </nonSpeech>
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Hey-day! What's to be done, now,
+Mr. <font>Medley</font> ?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Now, Sir, the Sport begins.
+
+</dialogue><nonSpeech> <font>Enter a Gentleman laughing.</font> </nonSpeech>
+
+<nonSpeech> <font>Huzza within.</font> </nonSpeech>
+   <nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> What's the Matter?
+   </dialogue><nonSpeech> <font>Gent.</font> </nonSpeech><dialogue> There's a Sight without would kill all
+Mankind with laughing; <font>Pistol</font> is run mad, and thinks
+<pagebreak id="21" />
+himself a great Man, and he's marching thro' the
+Streets with a Drum and Fiddles.
+   </dialogue><nonSpeech> <font>Bant.</font> </nonSpeech><dialogue> Please Heaven, I'll go and see this Sight.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> And so will I. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Hen.</font> </nonSpeech><dialogue> Nay, if every one else goes, I don't know
+why I shou'd stay behind. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Mr. <font>Sowrwit</font> , we'll go too.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> If your Lordship will have but a little
+Patience 'till the Scene be chang'd, you shall see him
+on the Stage.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Is not this Jest a little over-acted?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I warrant, we don't over-act him half so much
+as he does his Parts; tho' 'tis not so much his acting
+Capacity which I intend to exhibit as his
+ministerial.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> His ministerial!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yes, Sir, you may remember I told you
+before my Rehearsal, that there was a strict
+Resemblance between the States Political and Theatrical;
+there is a Ministry in the latter as well as the former,
+and I believe as weak a Ministry as any poor
+Kingdom cou'd ever boast of; Parts are given in the
+latter to Actors, with much the same Regard to
+Capacity as Places in the former have sometimes been,
+in former Ages I mean; and tho' the Publick damn
+both, yet while they both receive their Pay, they
+laugh at the Publick behind the Scenes; and if one
+considers the Plays that come from one Part, and
+the Writings from the other, one would be apt to
+think the same Authors were retain'd in both: But,
+come, change the Scene into the Street, and then
+enter <font>Pistol <foreign>cum suis</foreign> </font> -- Hitherto, Mr <font>Sowrwit</font> , as we
+have had only to do with inferior Characters, such as
+Beaux and Tailors, and so forth, we have dealt in the
+Prosaick; now we are going to introduce a more
+considerable Person, our Muse will rise in her Stile:
+<pagebreak id="22" />
+Now, Sir, for a Taste of the sublime; come, enter, 
+<font>Pistol</font> . </dialogue><nonSpeech> <font>Drum beats and Fiddles play.</font> </nonSpeech>
+
+<nonSpeech> <font>Enter</font> Pistol <font>and Mob</font> .</nonSpeech>
+
+   <nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Associates, Brethren, Countrymen and Friends,
+Partakers with us in this glorious Enterprize,
+Which for our Consort we have undertaken;
+It grieves us much, yes by the Gods it does!
+That we whose great Ability and Parts
+Have rais'd us to this Pinacle of Power,
+Entitling us Prime Minister Theatrical;
+That we shou'd with an Upstart of the Stage
+Contend succesless on our Consort's Side;
+But tho', by just hereditary Right
+We claim a lawless Power, yet for some Reasons,
+Which to our self we keep as yet conceal'd:
+Thus to the Publick, deign we to appeal;
+Behold how humbly the Great <font>Pistol</font> kneels.
+Say then, Oh Town, is it your Royal Will,
+That my great Consort represent the Part
+of <font>Polly Peachum</font> in the <font>Beggar's Opera</font> ?
+</dialogue><nonSpeech> <font>Mob hiss.</font> </nonSpeech>
+   <nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Thanks to the Town, that Hiss speaks their
+Assent;
+Such was the Hiss that spoke the great Applause,
+Our mighty Father met with, when he brought
+His <font>Riddle</font> on the Stage; such was the Hiss,
+Welcom'd his <font>Caesar</font> to the <font>AEgyptian</font> Shore;
+Such was the Hiss, in which Great <font>John</font> shou'd have
+expir'd:
+But, wherefore do I try in vain to number
+Those glorious Hisses, which from Age to Age
+Our Family has born triumphant from the Stage?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Get thee gone for the prettiest Hero that ever
+was shown on any Stage. </dialogue><nonSpeech> <font>Exit</font> Pistol.</nonSpeech>
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Short and sweet, faith, what, are we to have
+no more of him?
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay, ay, Sir; he's only gone to take a little
+Breath.
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> If you please, Sir, in the mean time, we'll
+go take a little Fire, for 'tis confounded cold upon
+the Stage.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I wait upon your Lordship: Stop the
+Rehearsal a few Moments, we'll be back again
+instantly. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>ACT III. SCENE I.</head> 
+
+<nonSpeech> <font>Enter</font> Medley, Sowrwit <font>and Lord</font> Dapper.</nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Now, my Lord, for my modern <font>Apollo</font> :
+Come, make all things ready, and draw
+the Scene as soon as you can.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Modern, why modern? You Common-Place
+Satirists are always endeavouring to persuade us, that
+the Age we live in, is worse than any other has been, 
+whereas Mankind have differ'd very little since the
+World began; for one Age has been as bad as 
+another.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Mr. <font>Sowrwit</font> , I do not deny that Men have
+been always bad enough; Vice and Folly are not
+the Invention of our Age; but I will maintain, that
+what I intend to ridicule in the following Scene, is
+the whole and sole Production and Invention of some
+People now living; and faith, let me tell you, 
+tho' perhaps the Publick may not be the better for
+it, it is an Invention exceeding all the Discoveries
+of every Philosopher or Mathematician, from the
+Beginning of the World to this Day.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Ay, pray what is it?
+<pagebreak id="24" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Why, Sir, it is a Discovery lately found out,
+that a Man of great Parts, Learning and Virtue, is
+fit for no Employment whatever; that an Estate
+renders a Man unfit to be trusted, that being a 
+Blockhead is a Qualification for Business; that Honesty is
+the only Sort of Folly for which a Man ought to be
+utterly neglected and contemn'd. And -- But here
+is the Inventor himself.
+
+</dialogue><nonSpeech>SCENE <font>draws, and discovers</font> Apollo <font>in a great
+Chair, surrounded by Attendants</font> .</nonSpeech><dialogue>
+
+Come, bring him forward, that the Audience may
+see and hear him: You must know, Sir, this is a 
+Bastard of <font>Apollo</font> , begotten on that beautiful Nymph
+<font>Moria</font> , who sold Oranges to <font>Thespis's</font> Company, or
+rather Cart-load of Comedians; and being a great
+Favourite of his Father's, the old Gentleman settled
+upon him the entire Direction of all our Play-houses
+and poetical Performances whatever.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Prompter.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Is there any thing to be done?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Yes, Sir, this Play to be cast.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Give it me. The Life and Death of King
+<font>John</font> , written by <font>Shakespear</font> : Who can act the 
+King?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> <font>Pistol</font> , Sir, he loves to act it behind the
+Scenes.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Here are a parcel of <font>English</font> Lords.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Their Parts are but of little Consequence,
+I will take care to cast them.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Do but be sure you give them to Actors
+who will mind their Cues -- <font>Faulconbridge</font> -- What
+sort of a Character is he?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Sir, he is a Warrior, my Cousin here
+will do him very well.
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> I do a Warrior! I never learnt to fence.
+<pagebreak id="25" />
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> No Matter, you will have no Occasion to
+fight; can you look fierce, and speak well?
+   </dialogue><nonSpeech>1 <font>Play.</font> </nonSpeech><dialogue> Boh!
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> I would not desire a better Warrior in the
+House than your self -- <font>Robert Faulconbridge</font> -- What, 
+is this <font>Robert</font> ?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Really, Sir, I don't well know what he
+is, his chief Desire seems to be for Land, I think;
+he is no very considerable Character, any body may
+do him well enough; or if you leave him quite out,
+the Play will be little the worse for it.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Well, I'll leave it to you -- <font>Peter</font> of
+<font>Pomfret</font> , a Prophet -- Have you any Body that looks
+like a Prophet?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> I have one that looks like a Fool.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> He'll do -- <font>Philip</font> of <font>France</font> .
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> I have cast all the <font>French</font> Parts, except the
+Ambassador.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Who shall do it? His Part is but short, have
+you never a good genteel Figure, and one that can
+dance? for as the <font>English</font> are the politest People in
+<font>Europe</font> , it will be mighty proper that the
+Ambassador should be able at his Arrival to entertain them
+with a Jig or two.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Truly, Sir, here are Abundance of
+Dancing-masters in the House, who do little or nothing
+for their Money. 
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Give it to one of them; see that he has a
+little Drollery tho' in him, for <font>Shakespear</font> seems to
+have intended him as a ridiculous Character, and
+only to make the Audience laugh.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> What's that, Sir? Do you affirm that
+<font>Shakespear</font> intended the Ambassador <font>Chatilion</font> a ridiculous
+Character?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No, Sir, I don't.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Oh, Sir, your humble Servant, then I
+misunderstood you; I thought I had heard him 
+say so.
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Yes, Sir, but I shall not stand to all he
+says.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> But, Sir, you shou'd not put a wrong
+Sentiment into the Mouth of the God of Wit.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I tell you, he is the God only of modern
+Wit, and he has a very just Right to be God of
+most of the modern Wits that I know; of some
+who are lik'd for their Wit; of some who are
+preferr'd for their Wit; of some who live by their
+Wit; of those ingenious Gentlemen who damn Plays, 
+and those who write them too perhaps. Here comes
+one of his Votaries; come, enter, enter -- Enter
+Mr. <font>Ground-Ivy</font> .
+
+</dialogue><nonSpeech> <font>Enter</font> Ground-Ivy.</nonSpeech>
+
+   <nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> What are you doing here?
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> I am casting the Parts in the Tragedy of 
+King <font>John</font> .
+   </dialogue><nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> Then you are casting the Parts in a
+Tragedy that won't do.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> How, Sir! Was it not written by <font>Shakespear</font> ,
+and was not <font>Shakespear</font> one of the greatest Genius's 
+that ever lived?
+   </dialogue><nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> No, Sir, <font>Shakespear</font> was a pretty Fellow,
+and said some things which only want a little of my
+licking to do well enough; King <font>John</font> , as now writ, 
+will not do -- But a Word in your Ear, I will make 
+him do.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> How?
+   </dialogue><nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> By Alteration, Sir, it was a Maxim of
+mine, when I was at the Head of Theatrical Affairs,
+that no Play, tho' ever so good, would do without
+Alteration -- For instance, in the Play before us, the
+Bastard <font>Faulconbridge</font> is a most effeminate Character,
+for which reason I would cut him out, and put all
+his Sentiments in the Mouth of <font>Constance</font> , who is so
+much properer to speak them -- Let me tell you,
+Mr. <font>Apollo</font> , Propriety of Character, Dignity of
+<pagebreak id="27" />
+Diction, and Emphasis of Sentiment are the things I
+chiefly consider on these Occasions.
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> I am only afraid as <font>Shakespear</font> is so popular
+an Author, and you, asking your Pardon, so
+unpopular.
+   </dialogue><nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> Damn me, I'll write to the Town and
+desire them to be civil, and that in so modest a 
+manner, that an Army of <font>Cossacks</font> shall be melted: I'll tell
+them that no Actors are equal to me, and no Authors
+ever were superior: And how do you think I can
+insinuate that in a modest manner?
+   </dialogue><nonSpeech> <font>Promp.</font> </nonSpeech><dialogue> Nay, faith, I can't tell.
+   </dialogue><nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> Why, I'll tell them that the former only
+tread on my Heels, and that the greatest among the
+latter have been damn'd as well as my self; and after
+that, what do you think of your Popularity? I can
+tell you, Mr. <font>Prompter</font> , I have seen things carried in
+the House against the Voice of the People before to
+Day.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> Let them hiss, let them hiss, and grumble as
+much as they please as long as we get their Money.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> There, Sir, is the Sentiment of a great Man,
+and worthy to come from the great <font>Apollo</font> himself.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> He's worthy his Sire, indeed, to think of
+this Gentleman for altering <font>Shakespear</font> .
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, I will maintain this Gentleman as
+proper as any Man in the Kingdom for the Business.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Indeed!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Ay, Sir, for as <font>Shakespear</font> is already good
+enough for the People of Taste, he must be alter'd to the
+Palates of those who have none; and if you will grant
+that, who can be properer to alter him for the worse?
+But if you are so zealous in old <font>Shakespear's</font> Cause,
+perhaps you may find by-and-by all this come to
+nothing -- Now for <font>Pistol</font> .
+<pagebreak id="28" />
+</dialogue><nonSpeech>Pistol <font>enters, and overturns his Father</font> .</nonSpeech>
+   <nonSpeech> <font>Ground.</font> </nonSpeech><dialogue> Pox on't, the Boy treads close on my
+Heels in a literal Sense.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Your Pardon, Sir, why will you not obey
+Your Son's Advice, and give him still his way;
+For you, and all who will oppose his Force,
+Must be o'erthrown in his triumphant Course.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> I hope, Sir, your <font>Pistol</font> is not intended to
+burlesque <font>Shakespear</font> .
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> No, Sir, I have too great an Honour for
+<font>Shakespear</font> to think of burlesquing him, and to be
+sure of not burlesquing him I will never attempt to
+alter him, for fear of burlesquing him by Accident, 
+as perhaps some others have done.
+   </dialogue><nonSpeech> <font>Dap.</font> </nonSpeech><dialogue> <font>Pistol</font> is the young Captain.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> My Lord, <font>Pistol</font> is every insignificant
+Fellow in Town, who fancies himself of great 
+Consequence, and is of none; he is my Lord <font>Pistol</font> ,
+Captain <font>Pistol</font> , Counsellor <font>Pistol</font> , Alderman <font>Pistol</font> ,    
+Beau
+<font>Pistol</font> , and -- and -- Odso, what was I going to say?
+Come, go on.
+   </dialogue><nonSpeech> <font>Apol.</font> </nonSpeech><dialogue> <font>Prompter</font> , take care that all things well go  
+on;
+We will retire, my Friend, and read King <font>John</font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> To what purpose, Sir, was Mr. <font>Pistol</font>
+introduced?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> To no purpose at all, Sir; it's all in
+Character, Sir, and plainly shews of what mighty
+Consequence he is -- And there ends my Article from the 
+Theatre.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Hey-day! What's become of your two
+<font>Pollys</font> ?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Damn'd, Sir, damn'd; they were damn'd at
+my first Rehearsal, for which Reason I have cut them
+out; and to tell you the Truth, I think the Town
+has honour'd 'em enough with talking of 'em for a
+whole Month; tho', faith, I believe it was owing to
+their having nothing else to talk of. Well, now for
+<pagebreak id="29" />
+my Patriots -- You will observe, Mr. <font>Sowrwit</font> , that I
+place my Politicians and my Patriots at opposite Ends
+of my Piece, which I do, Sir, to shew the wide
+Difference between them; I begin with my Politicians
+to signify that they will always have the Preference
+in the World to Patriots, and I end with Patriots to
+leave a good Relish in the Mouths of my Audience.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Ay? by your Dance of Patriots, one would
+think you intended to turn Patriotism into a Jest.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> So do I -- But don't you observe I conclude
+the whole with a Dance of Patriots? which plainly
+intimates that when Patriotism is turn'd into a Jest,
+there is an End of the whole Play: Come, enter four
+Patriots -- You observe I have not so many Patriots
+as Politicians; you will collect from thence that they
+are not so plenty.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Where does the Scene lie now, Sir?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> In <font>Corsica</font> , Sir, all in <font>Corsica</font> .
+
+</dialogue><nonSpeech> <font>Enter four</font> Patriots <font>from different Doors, who meet in
+the Center and shake Hands</font> .</nonSpeech>
+
+   <nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> These Patriots seem to equal your greatest
+Politicians in their Silence.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, what they think now cannot well be
+spoke, but you may conjecture a great deal from their
+shaking their Heads; they will speak by-and-by --
+as soon as they are a little heated with Wine: You
+cannot, however, expect any great Speaking in this
+Scene, for tho' I do not make my Patriots
+Politicians, I don't make them Fools.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> But, methinks, your Patriots are a Set of
+shabby Fellows.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> They are the cheaper dress'd; besides, no
+Man can be too low for a Patriot, tho' perhaps it
+is possible he may be too high.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> Prosperity to <font>Corsica</font> . 
+<pagebreak id="30" />
+   </dialogue><nonSpeech>2 <font>Patr.</font> </nonSpeech><dialogue> Liberty and Property.
+   </dialogue><nonSpeech>3 <font>Patr.</font> </nonSpeech><dialogue> Success to Trade.
+   </dialogue><nonSpeech>4 <font>Patr.</font> </nonSpeech><dialogue> Ay, to Trade -- to Trade -- particularly to
+my Shop.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Why do you suffer that Actor to stand
+laughing behind the Scenes, and interrupt your
+Rehearsal?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> O, Sir, he ought to be there, he's a
+laughing in his Sleeve at the Patriots; he's a very
+considerable Character -- and has much to do 
+by-and-by.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Methinks the Audience shou'd know that,
+or perhaps they may mistake him as I did, and hiss
+him.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> If they shou'd, he's a pure impudent Fellow,
+and can stand the Hisses of them all; I chose him
+particularly for the Part -- Go on, Patriots.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> Gentlemen, I think this our Island of
+<font>Corsica</font> is an ill State, I do not say we are actually in
+War, for that we are not; but however we are
+threaten'd with it daily, and why may not the
+Apprehension of a War, like other Evils, be worse than
+the Evil itself; for my part, this I will say, this I
+will venture to say, That let what will happen I will
+drink a Health to Peace.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> This Gentleman is the Noisy-Patriot, who
+drinks and roars for his Country, and never does
+either Good or Harm in it -- The next is the
+Cautious-Patriot.
+   </dialogue><nonSpeech>2 <font>Patr.</font> </nonSpeech><dialogue> Sir, give me your Hand; there's Truth in 
+what you say, and I will pledge you with all my Soul,
+but remember it is all under the Rose.
+   </dialogue><nonSpeech>3 <font>Patr.</font> </nonSpeech><dialogue> Look'ee, Gentlemen, my Shop is my
+Country, I always measure the Prosperity of the latter by
+that of the former. My Country is either richer
+or poorer, in my Opinion, as my Trade rises or falls;
+therefore, Sir, I cannot agree with you that a War
+<pagebreak id="31" />
+wou'd be disserviceable: On the contrary I think it the
+only way to make my Country flourish; for as I am
+a Sword-Cutler, it would make my Shop flourish, so
+here's to War.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> This is the Self-interested-Patriot, and now
+you shall hear the fourth and last kind, which is the
+Indolent-Patriot, one who acts as I have seen a
+prudent Man in Company fall asleep at the beginning of 
+a Fray, and never wake till the end on't.
+   </dialogue><nonSpeech>4 <font>Patr. Waking.</font> </nonSpeech><dialogue> Here's to Peace or War, I do
+not care which.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> So this Gentleman being neutral, Peace has
+it two to one.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Perhaps neither shall have it, perhaps I have
+found a way to reconcile both Parties: But go on.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> Can any one, who is a Friend to <font>Corsica</font> ,
+wish for War, in our present Circumstances? -- I
+desire to ask you all one Question, Are we not a Set of
+miserable poor Dogs?
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Ay, ay.
+   </dialogue><nonSpeech>3 <font>Patr.</font> </nonSpeech><dialogue> That we are sure enough, that no body
+will deny.
+
+</dialogue><nonSpeech> <font>Enter</font> Quidam.</nonSpeech>
+
+   <nonSpeech> <font>Quid.</font> </nonSpeech><dialogue> Yes, Sir, I deny it. </dialogue><nonSpeech> <font>All start.</font> </nonSpeech><dialogue> Nay, 
+Gentlemen, let me not disturb you, I beg you will all sit
+down, I am come to drink a Glass with you -- Can
+<font>Corsica</font> be poor while there is this in it? </dialogue><nonSpeech> <font>Lays a Purse
+on the Table.</font> </nonSpeech><dialogue> Nay, be not afraid of it, Gentlemen,
+it is honest Gold I assure you; you are a set of poor
+Dogs, you agree, I say you are not, for this is all
+yours, there, </dialogue><nonSpeech> <font>Pours it on the Table.</font> </nonSpeech><dialogue> take it among
+you.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> And what are we to do for it?
+   </dialogue><nonSpeech> <font>Quid.</font> </nonSpeech><dialogue> Only say you are rich, that's all.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Oh, if that be all! </dialogue><nonSpeech> <font>They snatch up    
+the Money.</font> </nonSpeech>
+<pagebreak id="32" />
+   <nonSpeech> <font>Quid.</font> </nonSpeech><dialogue> Well, Sir, what is your Opinion now? tell
+me freely.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> I will, a Man may be in the wrong through
+Ignorance, but he's a Rascal who speaks with open
+Eyes against his Conscience -- I own I thought we
+were poor, but, Sir, you have convinc'd me that we
+are rich.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> We are all convinc'd.
+   </dialogue><nonSpeech> <font>Quid.</font> </nonSpeech><dialogue> Then you are all honest Fellows, and here
+is to your Healths, and since the Bottle is out, hang
+Sorrow, cast away Care, e'en take a Dance, and I
+will play you a Tune on the Fiddle.
+   </dialogue><nonSpeech> <font> <foreign>Omnes.</foreign> </font> </nonSpeech><dialogue> Agreed.
+   </dialogue><nonSpeech>1 <font>Patr.</font> </nonSpeech><dialogue> Strike up when you will, we are ready to
+attend your Motions.
+</dialogue><nonSpeech> <font>Dance here</font> ; Quidam <font>dances out, and they all
+dance after him</font> .</nonSpeech>
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Perhaps there may be something intended by
+this Dance which you don't take.
+   </dialogue><nonSpeech> <font>Sowr.</font> </nonSpeech><dialogue> Ay, what prithee?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Sir, every one of these Patriots have a Hole in
+their Pockets, as Mr. <font>Quidam</font> the Fiddler there knows,
+so that he intends to make them dance till all the
+Money is fall'n through, which he will pick up again, 
+and so not lose one Half-penny by his Generosity;
+so far from it, that he will get his Wine for nothing,
+and the poor People, alas! out of their own Pockets,
+pay the whole Reckoning. This, Sir, I think is a very
+pretty Pantomime Trick, and an ingenious Burlesque on
+all the Fourberies which the great <font>Lun</font> has exhibited in
+all his Entertainments: And so ends my Play, my Farce,
+or what you please to call it; may I hope it has your
+Lordship's Approbation?
+   </dialogue><nonSpeech>L. <font>Dap.</font> </nonSpeech><dialogue> Very pretty, indeed, it's very pretty.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Then, my Lord, I hope I shall have your
+Encouragement; for things in this Town do not always
+succeed according to their Merit; there is a Vogue,
+<pagebreak id="33" />
+my Lord, which if you will bring me into, you will
+lay a lasting Obligation on me: And you, Mr.
+<font>Sowrwit</font> , I hope, will serve me among the Criticks, that
+I may have no elaborate Treatise writ to prove that
+a Farce of three Acts is not a regular Play of Five.
+<font>Lastly</font> , to you Gentlemen, whom I have not the
+Honour to know, who have pleas'd to grace my
+Rehearsal; and you Ladies, whether you be <font>Shakespear's</font> 
+Ladies, or <font>Beaumont</font> and <font>Fletcher's</font> Ladies, I hope you
+will make Allowances for a Rehearsal;
+
+And kindly all report us to the Town;
+No borrow'd, nor no stol'n Goods we've shown,
+If witty, or if dull, our Play's our own.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

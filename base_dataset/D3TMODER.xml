@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TMODER">
+  <dialogueHeader>
+
+    <filename>D3TMODER</filename>
+
+    <identifier>3 TRIAL D3TMODER</identifier>
+
+    <title>MARY MODERS</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1663</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE ARRAIGNMENT, TRYAL AND EXAMINATION OF MARY MODERS,
+OTHERWISE STEDMAN, NOW CARLETON, (STILED, THE GERMAN PRINCESS)
+AT THE SESSIONS-HOUSE IN THE OLD BAYLY, BEING BROUGHT PRISONER FROM
+THE GATE-HOUSE WESTMINSTER, FOR HAVING TWO HUSBANDS; VIZ. THO. STEDMAN
+OF CANTERBURY SHOOEMAKER AND JOHN CARLETON OF LONDON, GENT. 
+WHO UPON A FULL HEARING WAS ACQUITTED BY THE JURY ON THURSDAY, JUNE 4.
+1663.
+LONDON: PRINTED FOR N. BROOK, AT THE ANGEL IN CORNHIL, NEAR THE
+ROYAL EXCHANGE, 
+1663.
+PP. 2.21 - 3.23 SAMPLE 1
+PP. 5.9 - 16.18 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">ROUND BRACKETS ON TITLE PAGE OF SOURCE TEXT REPRODUCED ABOVE.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS NO PAGES NUMBERED 7 OR 8.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="2" />
+   <nonSpeech> <font>Clerk of the Peace.</font> </nonSpeech><dialogue> Mary Moders, alias Stedman, <font>Thou
+standest indicted in</font> London <font>by the name of</font> Mary Moders
+<font>late of</font> London <font>Spinster, otherwise</font> Mary Stedman, <font>the 
+wife of</font> , &amp;c. </dialogue><nonSpeech>And here the Indictment was read as above:</nonSpeech><dialogue>
+How sayst thou, Art thou guilty of the Felony, whereof thou
+standest indicted, or Not guilty?
+   </dialogue><nonSpeech> <font>Mary Moders.</font> </nonSpeech><dialogue> Not guilty, my Lord.
+   </dialogue><nonSpeech> <font>Clerk of the Peace.</font> </nonSpeech><dialogue> How wilt thou be tryed?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> By God and the Country.
+   </dialogue><nonSpeech> <font>Clerk of the Peace.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+
+   </dialogue><nonSpeech>And afterwards she being set to the Bar in order to her
+Tryal, she prayed time till the morrow for her Tryal: which
+was granted; and all persons concerned were ordered to
+attend them at Nine of the Clock in the Fore-noon.
+<pagebreak id="3" />
+   The Reader is desired to take notice of the following 
+Passage.
+   After she was Arraigned, and going back to the Gaol, her
+Husband the young Lord told her, He must now bid her
+Adieu for ever. To which she replyed:</nonSpeech><dialogue>
+
+<font>Nay, (My Lord) 'tis not amiss
+Before we part to have a Kiss.</font>
+
+   </dialogue><nonSpeech>And so saluted him, and said,</nonSpeech><dialogue> What a quarter and noise
+here's of a Cheat! You cheated me, and I you: You told 
+me you were a Lord, and I told you I was a Princess; and I
+think I fitted you. </dialogue><nonSpeech>And so saluting each other, they parted.</nonSpeech>
+
+ <head>JUNE 4. 63.</head> <dialogue>
+
+<comment type="compiler">PROCLAMATION OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Clerk of the Peace.</font> </nonSpeech><dialogue> <font>Mary Moders</font> , alias             
+<font>Stedman</font> , hold up 
+thy hand: </dialogue><nonSpeech>which she did.</nonSpeech><dialogue> Those men that you shall hear 
+called, and personally appear, are to pass between our
+Soveraign Lord the King and you for your life: if you will
+challenge them, or any of them, you must do it when they
+come to the Book to be sworn, before they are sworn. </dialogue><nonSpeech>And
+then were called,</nonSpeech><dialogue>
+<comment type="compiler">LIST OF JURY MEMBERS' NAMES FOLLOWS.</comment>
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="5" />
+   <nonSpeech> <font>James Knot.</font> </nonSpeech><dialogue> My Lord, and Gentlemen of the Jury, I gave
+this woman in marriage to one <font>Thomas Stedman</font> , which is now
+alive in <font>Dover</font> , and I see him last week.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> VVhere was she married?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> In <font>Canterbury</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> VVhere there?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> In St. <font>Mildreds</font> , by one Parson <font>Man</font> , who 
+is now
+dead.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How long since were they married?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> About nine years ago.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did they live together afterwards?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes, about four years, and had two Children.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> You gave her in marriage, but did the Minister
+give her to her husband then?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes, and they lived together.
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> Friend, did you give this very Woman?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What company was there?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> There was the married Couple, her sister, my self,
+the Parson and the Sexton.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Where is that Sexton?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I know not, my Lord.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> You are sure they were married in the Church,
+and this is the woman?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes, I am sure of it.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How long ago?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> About nine years ago.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you know this woman before the Marriage,
+and how long?
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes, I knew her a long time. I was an Apprentice
+seven years near her Mothers house in <font>Canterbury</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Then she's no Forreign Princess? Of what
+Parentage was she?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I did not know her own Father </dialogue><nonSpeech> (and in that he
+might be believed) </nonSpeech><dialogue> but her Father-in-law was a Musitian
+there.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> You see her married: what words were used at
+her marriage, and in what manner?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> They were married according to the order of the
+Land, a little before the Act came forth touching marriages
+by Justices of the Peace.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> VVas it by the Form of Common-Prayer, any
+thing read of that Form?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I did not take notice of that, I was but a young
+man, and was desired to go along with them.
+</dialogue><nonSpeech> <font>William Clark</font> being sworn, said,</nonSpeech><dialogue> My Lord, I was last
+week in <font>Dover</font> in company with this <font>James Knot</font> and
+<font>Thomas Stedman</font> , and he the said <font>Stedman</font> did own that he did
+marry one <font>Mary Moders</font> , a daughter of one in <font>Canterbury</font> ,
+and that <font>Knot</font> gave her, and that he had two Children by
+her, and declared his willingness to come up to give evidence
+against her, but wanted money for his journey: And I have
+understood that a person here in Court was of a Jury at
+<font>Canterbury</font> , at a Tryal between <font>Day</font> and <font>Mary Stedman</font> at  
+the
+Bar for having two Husbands.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Was she cleared?
+   </dialogue><nonSpeech> <font>Clark.</font> </nonSpeech><dialogue> I cannot tell.
+</dialogue><nonSpeech>Young <font>Carletons</font> father sworn.</nonSpeech><dialogue>
+   My Lord, I was at <font>Dover</font> the last week on Wednesday; I
+saw the husband of this woman, and the man acknowledged
+himself to be so; and did say that <font>James Knot</font> was the man
+that gave her in marriage to him.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> VVhere is this man her husband? Hearsays must
+condemn no man: what do you know of your own knowledge?
+   </dialogue><nonSpeech> <font>Carleton the Elder.</font> </nonSpeech><dialogue> I know the man is alive.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Do you know he was married to her?
+   </dialogue><nonSpeech> <font>Carleton.</font> </nonSpeech><dialogue> Not I, my Lord.
+<comment type="compiler">SOURCE TEXT HAS NO PAGES NUMBERED 7 OR 8.</comment>
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Sarah Williams.</font> </nonSpeech><dialogue> My Lord, This Woman was bound for
+<font>Barbadoes</font> , to go along with my Husband, and she desired
+to lodge at our house for some time, and did so; and when
+the ship was ready to go, she went into <font>Kent</font> to receive her
+means, and said she would meet the ship in the <font>Downe</font> ; and
+missing the ship, took boat and went to the ship. After several
+days remaining there, there came her Husband with an
+Order and fetched her ashore, and carried her to <font>Dover</font>
+Castle.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What was his name that had an Order to bring
+her on shore again?
+   </dialogue><nonSpeech> <font>Sarah Williams.</font> </nonSpeech><dialogue> His name was <font>Thomas Stedman</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Have you any more to prove the first marriage?
+   </dialogue><nonSpeech> <font>Charlton the Elder.</font> </nonSpeech><dialogue> No, none but <font>Knot</font> ; there was   
+none
+but the three, the Minister dead, the Sexton not to be found;
+and this <font>Knot</font> who hath given Evidence.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What became of the two Children, <font>Knot</font> ?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> They both died.
+   </dialogue><nonSpeech> <font>Charlton the Elder.</font> </nonSpeech><dialogue> <font>Stedman</font> said in my hearing,     
+that he
+had lived four years together, had two Children by her, and
+both dead; five years ago last <font>Easter</font> since she left him.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Mr. <font>Charlton</font> , What have you heard this Woman
+say?
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> My Lord, she will confess nothing that        
+pleases
+him.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Mr. <font>Charlton</font> , Did you look in the Church
+Register for the first marriage.
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> I did look in the Book, and he that is now
+Clerk, was then Sexton (just now not to be found,) he told
+me, that Marriages being then very numerous preceeding
+the Act before-mentioned, the then Clerk had neglected
+the Registry of this Marriage. If she intended this Trade,
+she likewise knew how to make the Clerk mistake Registring
+the Marriage.
+</dialogue><nonSpeech>Young <font>Charlton's</font> Brother sworn, who said,</nonSpeech><dialogue>
+   My Lord and Gentlemen of the Jury, I was present at the
+Marriage of my Brother with this Gentlewoman, which was
+on or about 21 April, 1663. They were married at Great
+<comment type="compiler">SOURCE TEXT: Gre FOLLOWED BY TWO SPACES</comment>
+<pagebreak id="10" />
+St. <font>Bartholomews</font> , by one Mr. <font>Smith</font> a Minister here in Court
+by Licence.
+</dialogue><nonSpeech>Mr <font>Smith</font> the Parson sworn.</nonSpeech><dialogue>
+   My Lord, all that I can say, is this, That Mr. <font>Charlton</font> the
+younger told me of such a business, and desired me to marry
+them; they came to Church, and I did marry them by the
+Book of Common Prayer.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Mr. <font>Smith</font> , are you sure that is the Woman?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Yes, my Lord, it is; I believe she will not deny
+it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Yes, my Lord, I confess I am the Woman.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Have you any more witnesses.
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> We can get no more but <font>Knot</font> to prove the
+first Marriage, the last is clear.
+   </dialogue><nonSpeech>Judge <font>Howel.</font> </nonSpeech><dialogue> Where is <font>Knot</font> ? Remember your self well
+what you said before. You say, you know that Woman at
+the Bar; that you had known her a great while; that she
+was born near you in <font>Canterbury</font> ; that you were present at
+her marriage; that Parson <font>Man</font> married them; that none
+were present but your self, the married couple, Parson, Sexton,
+and her sister.
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Some others came into the Church, but none
+that I knew; I am sure none went with her, but those I
+named.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Who gave her in marriage?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How came you to do it?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I was <font>Stedmans</font> shopmate, and he desired me to 
+go
+along with him.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Were her Parents then living, or no?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Her Mother was.
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> How old are you?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Two or Three and thirty years.
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> How long ago was this marriage?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> About 9 years since.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Then he was Twenty three, and might do it:
+What is your Trade of life?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I am a Cordweyner, otherwise a Shoomaker
+<font>Stedman</font> was so too; we wrought both together.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> We desire to know whether she had a Father and
+Mother then living?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> She had a Father-in-law.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you know her Mother?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How long before that Marriage did her own Father
+die?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I did not know him; </dialogue><nonSpeech>he said so before indeed.</nonSpeech>
+   <nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What age was she when married?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I suppose about Nineteen or twenty.
+<comment type="compiler">PRISONER'S LONG SPEECH OMITTED. SHE CLAIMS THAT HER HUSBAND AND HIS 
+FATHER HAVE ACCUSED HER OF BIGAMY IN ORDER TO GAIN POSSESSION OF HER 
+FORTUNE, WHICH SHE REFUSED TO MAKE OVER TO HER HUSBAND. SHE CLAIMS NOT
+TO BE THE SAME WOMAN AS THAT MARRIED IN CANTERBURY, AND THAT SEVERAL 
+OF THIS WOMAN'S FRIENDS WHO CAME TO THE JAIL DECLARED THEY DID NOT 
+KNOW HER.</comment>
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> <font>Knot</font> , You said she lived near you at        
+<font>Canterbury</font> ;
+What woman or man there have you to prove she lived
+there? have you none in that whole City, neither for love
+of Justice nor Right, will come to say she lived there?
+   </dialogue><nonSpeech> <font>Knot.</font> </nonSpeech><dialogue> I believe I could fetch one.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Well said, are they to fetch still?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> My Lord, I desire some Witnesses may be heard
+in my behalf.
+   </dialogue><nonSpeech> <font>Elizabeth Collier</font> examined.</nonSpeech><dialogue> My Lord, my Husband 
+being a Prisoner in the <font>Gatehouse</font> , I came there to see my 
+Husband, and did work there a dayes; and where came in an
+old man, his name was <font>Billing</font> , he said he had a wife there;
+sayes Mr. <font>Baley</font> go in and find her out; and he said I was his
+Wife, turned my hood, and put on his spectacles, looks
+upon me, and said I was the same woman his wife, and
+afterwards said I was not, and so to others: I can say no
+more.
+</dialogue><nonSpeech> <font>Jane Finch</font> examined.</nonSpeech><dialogue>
+   My Lord, there came a man and a woman one night, and
+knockt at my door; I came down, they asked to speak with
+<pagebreak id="14" />
+one <font>Jane Finch</font> ; I am the person, said I, We understand,
+said they, you know Mrs. Charleton now in prison; Not I,
+said I, I only went to see her there; said they, be not 
+scrupulous, if you will go and justifie any thing against her, we
+will give you 5 <font>l.</font>
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Who are those two?
+   </dialogue><nonSpeech> <font>Finch.</font> </nonSpeech><dialogue> I do not know them, My Lord.
+</dialogue><nonSpeech>Mr. <font>Baley</font> examined.</nonSpeech><dialogue>
+   My Lord, there has been at least 500 people have viewed
+her; several from <font>Canterbury</font> , 40 at least that said they
+lived there; and when they went up to her, she hid not her
+face at all, but not one of them knew her.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What Countrey woman are you?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I was born in <font>Cullen</font> in <font>Germany</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Mr. <font>Charlton</font> , How came you to understand she
+was married formerly?
+   </dialogue><nonSpeech> <font>Charlton</font> elder.</nonSpeech><dialogue> I received a Letter from the Recorder of
+<font>Canterbury</font> to that purpose.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> They that can offer 5 <font>l.</font> to swear against 
+me,
+can also frame a Letter against me: They say I was 19 years
+of age about 9 years ago, and am now but 21.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Mr. <font>Charlton</font> , you heard what <font>Knot</font> said; 
+he
+said she lived near him 4. years a wife, why did not you get
+some body else from thence to testifie this?
+   </dialogue><nonSpeech> <font>Charleton.</font> </nonSpeech><dialogue> Here was one <font>Davis</font> that was at her       
+Fathers
+house, and spoke with him --
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Where is he?
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> I know not; he was here.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> You were telling the Court of a former 
+Indictment against her, what was that for?
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> She was indicted for having two husbands,     
+<font>Stedman</font>
+of <font>Canterbury</font> her first Husband, and <font>Day</font> of <font>Dover</font>
+Chirurgion, her second Husband. The Indictment was 
+Traversed the year before His Majesty came to <font>England</font> , she was
+found not guilty.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Who was at that tryal?
+   </dialogue><nonSpeech> <font>Charlton.</font> </nonSpeech><dialogue> One here in Court was of the Jury: but that
+party said there was such a tryal, but knows not that this is
+the Woman.
+<pagebreak id="15" />
+<comment type="compiler">JUDGE'S SUMMING UP SPEECH OMITTED.</comment>
+<pagebreak id="16" />
+</dialogue><nonSpeech>The Jury went forth, and after some short
+Consultation, returned to their places.
+Their names were called, and all answered.</nonSpeech>
+   <nonSpeech> <font>Clerk of the Peace.</font> </nonSpeech><dialogue> Are you all agreed of your Verdict?
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Clerk.</font> </nonSpeech><dialogue> Who shall say for you?
+   </dialogue><nonSpeech> <font>Jury.</font> </nonSpeech><dialogue> The Foreman.
+   </dialogue><nonSpeech> <font>Clerk.</font> </nonSpeech><dialogue> <font>Mary Moders alias Stedman</font> hold up thy hand,
+look upon her Gentlemen, what say you, Is she guilty of the
+Felony whereof she stands indicted, or not guilty?
+   </dialogue><nonSpeech> <font>Foreman.</font> </nonSpeech><dialogue> Not guilty. </dialogue><nonSpeech>And thereupon a great number of
+people being in and about the Court, hissed and clapped their
+hands.</nonSpeech>
+   <nonSpeech> <font>Clerk.</font> </nonSpeech><dialogue> Did she flie for it?
+   </dialogue><nonSpeech> <font>Foreman.</font> </nonSpeech><dialogue> Not that we know.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

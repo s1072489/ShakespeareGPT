@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1HOBEZA">
+  <dialogueHeader>
+
+    <filename>D1HOBEZA</filename>
+
+    <identifier>1 HANDB OTH D1HOBEZA</identifier>
+
+    <title>LITTLE CATECHISME</title>
+
+    <author>BEZA THEODORUS</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1579</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BEZA, THEODORUS.</attribution>
+      <frontMatter>A LITTLE CATECHISME, THAT IS TO SAYE, A SHORT INSTRUCTION
+TOUCHING CHRISTIAN RELIGION, 
+SET FORTH BY THEODORUS BEZA. MINISTER OF THE CHURCHE OF GOD IN GENEUA. 
+(IMPRINTED AT LONDON BY HUGH SINGLETON, DWELLING IN CREEDE LANE, AT 
+THE SIGNE OF THE GYLDEN TUNN, NEERE VNTO LUDGATE, AND ARE THERE TO BE 
+SOLDE. 
+CUM PRIUILEGO.
+ANNO. 1579.)
+PP. A1R.1 - B3R.20
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">TITLE PAGE MISSING: TITLE TAKEN FROM HEADING ON PAGE A1R; PUBLISHER 
+INFORMATION TAKEN FROM COLOPHON.</comment>
+
+<comment type="compiler">IN SOURCE TEXT, BLACK LETTER IS CONSISTENTLY USED FOR THE &quot;ANSWER&quot;, 
+AND IS THUS TREATED BELOW AS BASE FONT FOR EACH &quot;ANSWER&quot;. HENCE ANY 
+OTHER FONT USED IN &quot;ANSWERS&quot; IS CODED AS &quot;FONT OTHER THAN THE BASIC 
+FONT&quot;.</comment>
+
+<pagebreak id="A1R" />
+</dialogue> <head>A LITTLE
+CATECHISME, THAT IS TO SAYE,
+A SHORT INSTRUCTION TOUCHING CHRISTIAN
+RELIGION, SET FORTH BY <font>THEODORUS BEZA</font> .
+MINISTER OF THE CHURCHE OF GOD
+IN GENEUA.</head> 
+
+ <head> <font>THE FIRST SECTION.</font> </head> 
+   <nonSpeech>Question 1.</nonSpeech><dialogue> 
+Wherefore hath God placed vs in this worlde?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To know and serue him.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVill he be knowne and serued according to
+our vnderstanding &amp; wil: or according to that, which
+it hath pleased himselfe, to declare and sette out vnto
+vs touching the same?
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> According to that which hee hath
+declared vnto vs concerning the same.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> VVher hath he declared and set out the same
+vnto vs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In that booke which wee cal the
+Bible, comprehending togither with diuers
+histories, the Law and the Gospell.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> VVho hath made this booke?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> God himselfe, by the ministery of his
+holy Prophets and Apostles.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> VVhat is the Lawe?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The doctrin which teacheth vs what
+we ought to do, as wel towards God, as one
+of vs towards another.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> VVhat is the Gospell?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> That heauenlye doctrine which
+teacheth vs, what we must beleeue to our
+saluation thorow Jesus Christ only.
+<pagebreak id="A1V" />
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> Doth this vvord contayne all that which we
+must beleue and doe?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea, without hauing any neede to ad
+or ioyne anye thing thereto, or to take anye
+thing therefrom.
+   </dialogue><nonSpeech> <font>Qu. 8.</font> </nonSpeech><dialogue> Say novv the articles of your beliefe.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I beleue in god, the father almighty. &amp;c.
+
+</dialogue> <head> <font>THE SECOND SECTION.</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> Doth this doctrine teach vs that there is but
+one onely God, or that there are more Gods then one?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It teacheth that there is but one God
+only, and that we may not haue more.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVherefore say you so?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because it must nedes be, y=t= he which
+is God, shoulde bee aboue all other thinges,
+and therefore hee may not haue a fellowe or
+companion ioyned with him.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> Yet you in naming God haue seemed to
+rehearse three, that is to say, the father, the sonne, &amp; the
+holy Ghost?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In dede there are three persons in one
+only Godhead: but yet these three persons
+are but one, and the selfe same onely God.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> Meane you that God is deuided into three
+partes?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for God cannot bee deuided, but
+I say, that euery one of these thre persons is
+one, and the selfe same onely God
+altogeather perfect.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> How can this be?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is a misterye or secreat beyond al
+<pagebreak id="A2R" />
+our vnderstanding, and yet notwithstanding
+most certaine and sure, for God hath so
+declared it, and set it forth vnto vs, by hys
+holy word.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> Doe you then beleeue in one onely God,
+the father, the sonne, and the holy ghost?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea: and by Gods goodnes, will dye
+in thys fayth.
+
+</dialogue> <head> <font>THE THIRD SECTION.</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> How is the sonne of God called?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> IESUS CHRIST.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVhat meane these words Iesus Christe?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>Iesus</font> is as much to say, as Sauiour,
+and <font>Christ</font> is as much as annointed and
+co~secrated to be our soueraigne king, hauing
+power ouer all creatures, our soueraigne or
+high prophet, who hath fullye declared vnto
+vs the will of God his father, touching our
+saluation, and our soueraigne or high priest,
+which hath fullye appeased and pacified the
+wrath of God against vs for our sinnes.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> VVhat hath he don and suffered to saue vs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He was conceiued by the holy ghost,
+and borne of the Virgin Mary, suffered
+vnder Pontious Pilate. &amp;c.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> Can God suffer or dye?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No,
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Is not Iesus Christ true and very God
+eternall, vvith his father and the holy ghoste?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> Howe then is he sayd to haue dyed?
+<pagebreak id="A2V" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because that being verye God, hee
+was made man also, to the ende that in hys
+person our nature might beare or suffer the
+whole punishmente due to our sinnes and
+transgressions.
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> Do you meane that the sonne of God was
+chaunged into man?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, because then he shuld be no more
+God: &amp; God can not eyther change himselfe
+or be changed. But being of himselfe verye
+God, hee hath taken our nature vnto
+hymselfe, that so he might be very God and very
+man.
+   </dialogue><nonSpeech> <font>Qu. 8.</font> </nonSpeech><dialogue> If he had not bin God, could he haue bine
+our sauiour.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for it belongeth vnto God only
+to pardon and forgiue sinnes, and to giue
+eternall life.
+   </dialogue><nonSpeech> <font>Qu. 9.</font> </nonSpeech><dialogue> And if he had not bin man, could he haue
+bin our sauiour?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If he had not bin man, he coulde not
+haue dyed, and therfore we our selues should
+haue bin subiect vnto death.
+
+</dialogue> <head> <font>THE FOURTH SECTION</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> Shall all the world be saued?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for the greater part of the world
+refuse their saluation.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVho then are they which shall be saued?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They that haue fayth and beleeue.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> And vvhat is fayth?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A certaine perswasion and assurance,
+<pagebreak id="A3R" />
+which euery true Christian man oughte to
+haue, that God the father loueth him, for
+Iesus Christ his sons sake.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> VVherfore do you say for Iesus Christs sake?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Bicause that wee being altogither
+corrupted and wholy peruerse in our selues,
+God could not loue vs, but in respect of him
+onelye, which is man altogether iuste and
+perfect, that is to saye, Iesus Christe hys
+sonne.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Commeth this fayth of our selues?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but from the onely grace and
+goodnesse of God, which doth freely giue it
+to his elect and chosen ones.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> And they which haue this faith ar they saued?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea of necessity, for God hath giuen
+his sonne to the ende that euerye one which
+beleueth in him, should haue life euerlasting:
+and he is not a lyer.
+</dialogue> <head> <font>THE FIFTH SECTION.</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> But vvhereby may a man know whether he
+haue faith or no?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> By good workes.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVhich be good workes, and which be euill?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Those onely are good which he
+hymselfe hath commanded, and those euill which
+he hath forbidden.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> Rehearse now the commandements of God?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>Heare Israel. &amp;c.</font> The summe
+wherof is, thou shalt loue the Lord thy God.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> To know Gods commaundements is not
+<pagebreak id="A3V" />
+onely to know to say them, but men muste also
+vnderstand that vvhich they say: wherfore I demaund of you
+vvhat meaneth that vvhich is sayde in the thirde
+commaundement, to take the name of GOD?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is to name God which we must
+neuer doe, but vppon iust and good cause, and
+with feare of his maiesty whom we name.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Then it is by stronger and greater reason
+more forbidden to sweare by God in vaine, that is to
+say, to take him for a vvitnes and iudge, without iuste
+and good cause vvhy?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is so in deede.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> VVhat meaneth it to sanctifie the Sabaoth
+day or day of rest?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is to dedicate and consecrate it to
+the glory of God.
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> Ought vve not also to dedicate vnto him al
+the rest of the dayes of our life?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea but this day is particularly and
+chiefely ordeyned for this end and purpose.
+   </dialogue><nonSpeech> <font>Qu. 8.</font> </nonSpeech><dialogue> Doe men forbid to trauaile or vvorke on the
+saboth day, as thogh to labor wer a thing euil of it self?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but they forbid ordinary and
+vsuall labor, to doe a worke which is better and
+more profitable.
+</dialogue> <head> <font>THE SIXT SECTION.</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> You haue said that they only are good works
+which God hath commanded. VVherfore tel me can
+we acco~plish &amp; fulfil the commaundements of God?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, not so much as begin to doe anye
+thing, but by a certaine singuler and speciall
+grace of God. Yea there neuer hath bine or
+<pagebreak id="A4R" />
+shall be a man, excepting Iesus Christ only,
+which hath perfectly fulfilled the same.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVherefore say you so?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because God will saue vs thorowe
+his onely mercy in Iesus Christ.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> Yet so it is that a good life is the way to
+saluation?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is true, that repentaunce &amp;
+amendment is ioyned with the forgiuenesse of our
+sinnes: but yet followeth not therevpon that
+we be saued by our workes.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> And vvhy shall vvee not bee saued by oure
+vvorks, seeing that they are good?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because they be not good ynough for
+that purpose.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> VVherefore then are they good?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To set forth Gods honour: to winne
+or else to strengthen our neighbours, and to
+make vs know and feele in our selues, that
+we are the children of God.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> Good vvorks then make vs not gods childre~?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for contrariwise, a man must first
+be the childe of God before hee can doe good
+workes: but this is a marke or badge
+wherby a man may know the children of God.
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> VVhat then maketh vs the children and
+sonnes of God?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The onely grace and mercye of God,
+by his holye spirite, because hee hath elected
+and chosen vs from before all
+euerlastingnes, according to hys good pleasure.
+</dialogue> <head> <font>THE SEUENTH SECTION</font> </head> 
+<pagebreak id="A4V" />
+   <nonSpeech> <font>Qu 1.</font> </nonSpeech><dialogue> The holy ghost then is he vvhich maketh vs
+the children of God: but vvhat instruments or means
+doth he ordinarily and commonly vse to bring vs to
+that honour and keepe vs in the same?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The preaching of the worde, prayer,
+and the vse of the Sacraments.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVhat call you preaching of the word?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> An exposition of the writinges of the
+Prophets and Apostles, which is don in the
+Church by such as he hath called to that
+holy ministry: of whom it is sayd: he that
+receiueth you, receiueth me.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> Hovv doe you pray?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>Saying.</font> O our father which art in
+heauen. &amp;c.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> To whom speak you these words?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To God the Father.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Hovv is he your father, seing that he hath
+but one onely Sonne, that is to saye, IESVS
+CHRIST?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> First bicause that Iesus Christe his
+eternall sonne, being made man is become
+our brother: secondly bicause he loueth me in
+Iesus Christ his sonne, with a greater then
+a fatherly loue and affection.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> Albeit then that you direct not your speach
+and words, eyther to the Sonne or to the holy ghost,
+yet you doe not exclude or shutte out eyther the one
+or the other.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for I can not cal him father but
+in the name of his sonne Iesus Christe, nor
+pray vnto him but by the holy Ghost.
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> And is it not lavvful for a man to frame or
+make his prayer to the person of the sonne &amp; of the
+holy Ghost?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yea in deede. For seeing that the
+three persons are one only, and the selfe same
+God, inuocation or prayer both equally
+belong vnto them. And whether I call vpon
+the father in the name of the son by the holye
+ghost, or that I make my praier vnto y=e= sone
+to lead and bring me to the father, or that I
+pray the holy ghost to teach me the father &amp;
+the sonne, all commeth to one.
+
+</dialogue> <head> <font>THE EYGHT SECTION</font> </head> 
+
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> And vvhat is a Sacrament?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is a thing which God setteth
+before mens eyes in his Church, to signifie
+vnto vs for our saluation, an other thing which
+men see not.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> And wherefore hath God ordeyned these
+signes to his promises?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> For to make vs so much the more
+assured of the certainty of them.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> Hovve manye suche signes are there in the
+christian Church?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Two, that is to saye, Baptisme, and
+the holy Supper.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> VVhat see you in Baptisme?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Water.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> VVhat doth this water signifie vnto you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The bloud of Iesus Christ.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> To vvhat ende?
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To make cleane my sinnes, as the
+water being occupied maketh cleane the
+filthines of the body.
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> Doth this water make cleane and purge sins?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but it signifieth vnto mee, that
+which washeth my sinnes, to wit, the bloude
+of Iesus Christ.
+   </dialogue><nonSpeech> <font>Qu. 8.</font> </nonSpeech><dialogue> Meane you that this matter or substance of
+the bloud of Iesus Christ vvasheth our soules?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for our soules can not be clensed
+with any matter as our bodyes. But this
+bloud maketh me cleane, because that Iesus
+Christ hath shed it for satisfaction and ful
+recompence for my sinnes.
+   </dialogue><nonSpeech> <font>Qu. 9.</font> </nonSpeech><dialogue> Is there anye difference betwene                 
+<comment type="compiler">SOURCE TEXT: betewene</comment> the water
+of Baptisme, and common vvater <comment type="compiler">SOURCE TEXT: vvatet</comment> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, as concerning the matter and
+substance (for it is alwayes water) but there
+is very great difference, as concerning the
+vse: for the common water serueth to washe
+and make cleane our bodely filthinesses, and
+the water vsed in Baptisme, is a sacrament
+of the washing of our soules.
+</dialogue> <head> <font>THE NINTH SECTION</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> VVhat see you in the supper?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The bread and the wine which is ther
+giuen and receiued, according to the
+ordinance and institution of God.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVhat doth this bread and this vvine
+signifie vnto you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The bread signifieth to me, the bodye
+<pagebreak id="B2R" />
+crucified for me, and the wine signifieth vnto
+me, the bloud shed out for me.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> To what end?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To testifie vnto me, &amp; to assure me that
+euen as this bread &amp; this wine, are ordeyned
+for the maintenance and nourishment of this
+life, so our Lord Iesus Christ hath giuen his
+body and his bloud for me, &amp; giueth himselfe
+to me, to the ende that from him, as from a
+fountaine, there may flowe vnto me eternall
+life.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> Are this bread and vvine our spirituall
+nourishment?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but they signifie vnto vs y=t= from
+whence very eternall lyfe it selfe procedeth,
+that is to saye, from him which hath suffered
+his death and passion, to take away the cause
+of our death, that is to saye sinnes, and to
+renue vs vnto eternall life, thorow a spirituall
+liuelinesse, which resteth and remaineth in
+him.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Is there any difference betvvene the breade
+and vvine vsed in this sacrament, and common breade
+and vvine?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, as touching the matter and
+substance, (for it is alwayes bread and wine:)
+but there is very great difference, as
+concerning the vse: for ordinary and co~mon meates
+are appoynted for the vse of this present life,
+but this sacrament is ordeined to signify and
+<pagebreak id="B2V" />
+seale vnto vs our spirituall and euerlasting
+nourishment.
+</dialogue> <head> <font>THE TENTH SECTION.</font> </head> 
+   <nonSpeech> <font>Qu. 1.</font> </nonSpeech><dialogue> VVherefore hath the Lord ordeyned &amp;
+instituted tvvo signes in his holy Supper, seing that in
+Baptisme there is but one onely.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To assure vs that hee doth not feede
+vs to the halues but wholly, being not only
+our meate but also our drinke.
+   </dialogue><nonSpeech> <font>Qu. 2.</font> </nonSpeech><dialogue> VVhere is Iesus Christ nowe according to
+hys humaine nature?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In heauen, from whence he shal come
+to iudge the liuing and the dead.
+   </dialogue><nonSpeech> <font>Qu. 3.</font> </nonSpeech><dialogue> By what meanes can you then which are
+on the earth receiue him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> As I receiue with my hande and my
+mouth the Sacrament, that is to saye, that
+bread and that wine, for the nourishment of
+this body, euen so by the vertue, and power
+of the holye ghoste, I doe in wardly and in
+my soule receiue and imbrace thorowe fayth
+our Lord Iesus Christ, very God and verye
+man, that by him I may liue eternally.
+   </dialogue><nonSpeech> <font>Qu. 4.</font> </nonSpeech><dialogue> Doe they which haue no faith receiue Iesus
+Christ in the Supper?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, for Iesus Christ is not receiued
+but by faith, yet doe they in deede receiue the
+sacraments, but to their condemnation.
+   </dialogue><nonSpeech> <font>Qu. 5.</font> </nonSpeech><dialogue> Hovv so?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because that they make no differe~ce
+betwene common bread and common wine,
+<pagebreak id="B3R" />
+and that which is the sacrament of the body
+and bloud of Iesus Christ, whom they reiect
+and throw from the~ thorowe their vnbeleife.
+   </dialogue><nonSpeech> <font>Qu. 6.</font> </nonSpeech><dialogue> How must a man prepare himselfe to come
+worthely to the supper.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If he haue true repentance of the life
+that is passed, confessing their sinnes before
+God, and amending them towards God and
+his brethren, so much as in him lyeth, wyth
+a ful deliberation and purpose to doe better
+in time to come, and imbracing Iesus Christ
+by a true fayth in his promises and
+Sacraments for the alone and onely sauiour.
+   </dialogue><nonSpeech> <font>Qu. 7.</font> </nonSpeech><dialogue> But hath Iesus Christ left it vnto our
+libertye and choyse, whether vve will go to the supper, or
+not goe to it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In forbidding men to resort thither
+vnworthily, he co~mandeth al them which haue
+iudgement and discretion, to prepare
+themselues that they may repaire worthily to it.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

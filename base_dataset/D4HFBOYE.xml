@@ -1,0 +1,2498 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4HFBOYE">
+  <dialogueHeader>
+
+    <filename>D4HFBOYE</filename>
+
+    <identifier>4 HANDB FRE D4HFBOYE</identifier>
+
+    <title>FRENCH-MASTER</title>
+
+    <author>BOYER ABEL</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1694</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-FRENCH">Language teaching handbook: French</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BOYER, ABEL.</attribution>
+      <frontMatter>THE COMPLEAT FRENCH-MASTER, FOR LADIES AND GENTLEMEN.
+BEING A NEW METHOD, TO LEARN WITH EASE AND DELIGHT THE FRENCH TONGUE,
+AS IT IS NOW SPOKEN IN THE COURT OF FRANCE. IN THREE PARTS.
+(...)
+BY A. BOYER, GENT.
+(...)
+LONDON: PRINTED FOR THO. SALUSBURY, AT THE KINGS ARMS NEXT ST. 
+DUNSTAN'S CHURCH IN FLEET-STREET. 
+1694.
+PP. 173.8 - 243.25
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SOURCE TEXT HAS TWO COLUMNS PER PAGE: THE FIRST COLUMN, IN FRENCH, 
+IS OMITTED BELOW. EMPTY LINES IN THE SECOND COLUMN WHICH REFLECT THE 
+LONGER TEXT IN THE FIRST COLUMN ARE OMITTED.</comment>
+
+<comment type="compiler">IN THE SOURCE TEXT, THE DIALOGUE IN THE SECOND COLUMN IS GIVEN IN 
+ITALICS, WHILE THE HEADINGS ARE IN PLAIN FONT: DEVIATION FROM THIS IS 
+CODED BELOW AS &quot;FONT OTHER THAN THE BASIC FONT&quot;.</comment>
+
+<pagebreak id="173" />
+</dialogue> <head>SIXTH DIALOGUE.</head> 
+
+ <head>BETWEEN A LADY AND
+HER WAITING-WOMAN.</head> 
+
+ <head>TO RISE.</head> <dialogue>
+
+   Has my Bell rung?
+   I believe yes.
+   </dialogue><nonSpeech>W.</nonSpeech><dialogue> -- What's a clock?
+   Madam, it is e'en eleven a
+clock.
+   Is it so late?
+   Give me my smock.
+   It is not warm; I am going to
+warm it.
+   Is there a good fire in my
+closet?
+   Yes, Madam.
+   Give me my wastcoat again.
+   Where is my Night-gown?
+   Here it is.
+<pagebreak id="174" />
+   Give me my slippers, my
+stockings, and my Garters.
+   I cannot find the garters.
+   What's become of them?
+   I cannot tell.
+   You leave all things in a 
+confusion.
+   You should put all things in
+order before you go to bed.
+   Spread the Toilet.
+   The glass of that looking-glass
+is all dirty, wipe it a little.
+   Give me a chair.
+   Are my Combs clean?
+   Yes, Madam, they are so.
+   Comb my head.
+   Softly, how you go to it?
+   You have taken the skin off of
+my head.
+   Give me my head-dress.
+   Where is the Pin-cushion?
+   Where is the Patch-box?
+   Give me a pin.
+   Has the Sempstress brought the
+Tippet and the Ingageants which
+I bespoke the day before yesterday?
+   No, Madam.
+   She shall have my custom no
+longer.
+   She neglects her customers too
+much.
+   Give me my stays.
+   Lace me very tite, or very
+close.
+   Give me my silver-fringed
+petticoat, and my yellow gown.
+<pagebreak id="175" />
+   Where are my gloves, my muff,
+and my handerchief?
+   Here they be, Madam.
+   Put some sweet-water to that
+Handkerchief.
+   Fill up this bottle with
+Hungary water.
+   Where is my watch?
+   There it is.
+   Does it go?
+   No, Madam, it is down.
+   Give it me, that I may wind
+it up.
+   But go first, and see what a
+clock it is by the Dining-rooms
+Clock.
+   Madam, it is half an hour
+past eleven.
+   Go and bid the Coachman put
+the Horses in the Coach.
+   In the Chariot.
+   Madame, the Coach is ready,
+it is at the door.
+   Madam, here come your 
+Ladyship's Sons to ask your
+blessing.
+   God bless my dear boys.
+   Be good and mind your book.
+   But where is my girl?
+   Here she is.
+   Kiss me dear honey, my dear
+child, my little darling.
+<pagebreak id="176" />
+</dialogue> <head>SEVENTH DIALOGUE.</head> 
+
+ <head>OF EATING AND
+DRINKING.</head> <dialogue>
+
+   I am hungry, I am very
+hungry.
+   And I am dry.
+   I am almost starved,
+methinks I have eat nothing these
+three days.
+   For my part I am almost
+choak'd.
+   I am mighty thirsty.
+   I could eat a bit of something.
+   Eat then, who hinders you?
+   I could drink a glass of wine.
+   Drink then, without more ado.
+   I have a good stomach.
+   I have no more stomach.
+   I am satisfied, I have my
+belly full.
+   I have no stomach at all.
+   I am no more dry.
+   My thirst is quench'd.
+<pagebreak id="177" />
+</dialogue> <head>EIGHTH DIALOGUE.</head> 
+
+ <head>OF WALKING.</head> <dialogue>
+
+   Let's go to walk.
+   Let us go to take the air.
+   Will you go along with me?
+   I will.
+   Will you go and take a turn.
+   I consent to it.
+   I consent to it.
+   Where shall we go?
+   Let us go into the Park.
+   Let's go into the Fields.
+   Shall we go in a Coach.
+   Or on foot.
+   As you please.
+   As you will.
+   Let's go on foot.
+   'Tis good for ones health.
+   You are in the right.
+   Come on, lets walk.
+   Which way do you go?
+   This way. That way.
+   On the right hand.
+   On the left hand.
+   Let's rest a little.
+   It is not worth the while.
+   Are you weary.
+   I am mighty weary, <font>or</font> , tired.
+   You are a sorry walker.
+   Lets go back again.
+   It grows late.
+<pagebreak id="178" />
+   The Sun goes down.
+   Don't go so fast.
+   Stay for me.
+   I cannot keep pace with you.
+   Come, come, you will unweary
+your self at supper.
+
+</dialogue> <head>NINTH DIALOGUE.</head> 
+
+ <head>TO MAKE A VISIT IN THE
+MORNING.</head> <dialogue>
+
+   Where is thy Master?
+   Is he asleep still?
+   No, Sir, he is awake.
+   Is he up?
+   Is he stirring? Is he up?
+   No, Sir, he is a bed still.
+   How now! are you a bed still?
+   I went to bed so late yesterday
+that I could not get up betimes.
+   What did you then after
+Supper?
+   As soon as you was gone out
+they spoke of playing.
+   Did you play?
+   Yes, Sir, I did play.
+   At what game?
+   We played at Picket, Sir --
+and I.
+   And the others?
+   Some play'd at Omber.
+<pagebreak id="179" />
+   Others at Basset.
+   And others at Chess.
+   Who won? who lost?
+   My Lady Dutchess of <font>M.</font> won
+twenty guineas.
+   The Earl of <font>F.</font> lost fifteen.
+   Sir -- <font>T.</font> won Ten Crowns
+of me.
+   As far as I see the loss or gain
+were not of great moment.
+   We never play but for diversion
+sake.
+   But methinks that gaming is
+a very dangerous diversion.
+   Especially when one plays deep.
+   What, do you never play?
+   Excuse me; but when I play,
+I do not play high.
+   We play for a small matter,
+and we make it a point of Honour
+to play fair.
+   But now I think on't, till what
+time did you play?
+   Till twelve a Clock at night.
+   What time did you go to bed?
+   At one a Clock at Night.
+   I don't wonder that you rise so 
+late.
+   What a Clock is it?
+   What a Clock do you take it to 
+be?
+<pagebreak id="180" />
+   I don't believe it is eight a
+Clock.
+   How, eight a Clock! it has
+struck ten.
+   I must rise then as fast as I 
+can.
+
+</dialogue> <head>TENTH DIALOGUE.</head> 
+
+ <head>THE GENTLEMAN AND HIS
+VALET DE CHAMBRE.</head> 
+
+ <head>TO DRESS ONES SELF.</head> <dialogue>
+
+   Who is there? who waits?
+   What do you want, Sir?
+   Come quickly, make a fire.
+   Dress me.
+   There is a fire, Sir.
+   Give me my Shirt.
+   There it is, Sir.
+   It is not warm.
+   It is quite cold still.
+   I shall warm it if you please.
+   No, no, where is my
+Night-gown?
+   Where are my slippers?
+   Bring me my silk Stockings.
+   There are holes in them.
+   Can you not stitch them?
+   Give me then a pair of woosted
+Stockings.
+<pagebreak id="181" />
+   Comb my head.
+   Take another comb.
+   Comb <comment type="compiler">SOURCE TEXT: Come</comment> my wigg.
+   Put some essence to it.
+   Give me my handkerchief.
+   There is a clean one.
+   Give me that which is in my
+my Coat's pocket.
+   I gave it to the washer-woman
+it was foul.
+   You have done well.
+   Has she brought my linnen.
+   Yes, Sir, there wants nothing.
+   Give me my breeches.
+   What Suit of cloaths do you
+put on to day?
+   That as I had on yesterday.
+   How, Sir, don't you remember
+that to day is the Duke of
+<font>Glocester's</font> Birth-day, and that the
+Tailor is to bring your new Suit
+presently.
+   I am in the wrong.
+   You are in the right.
+   'Tis well you put me in mind
+of it.
+   But some body knocks, see who
+it is.
+   Who is it?
+   'Tis the Tailor.
+   Call him up.
+   Let him come in.
+<pagebreak id="182" />
+</dialogue> <head>TWELVE DIALOGUE.</head> 
+
+ <head>THE GENTLEMAN AND
+THE TAILOR.</head> <dialogue>
+
+   Do you bring my Suit of
+Cloaths?
+   Yes, Sir, here it is.
+   I stood for you; try it me on.
+   Will you be pleas'd to try the
+close-coat on.
+   Let's see whether it be well
+made.
+   I hope it will please you.
+   It is very long methinks.
+   They wear them long now.
+   They don't wear them now so
+short as they did before.
+   Button me.
+   It is too close.
+   To be well made, it ought to
+be close.
+   Are not the sleeves too wide?
+   No, Sir, they sit very well.
+   The breeches are very narrow.
+   That's the fashion.
+   They wear them very narrow.
+   The rolls are not big enough.
+   I beg your pardon.
+   That Suit becomes you mighty
+well.
+<pagebreak id="183" />
+   But my Stockings do not match
+it.
+   No matter, such things is not 
+so nicely observed.
+   What do you say to my hat?
+   'Tis a very fine beaver.
+   You are mistaken, 'tis but a
+Castor.
+   What hat-band will you put to
+it?
+   A gold-galoon with a diamond
+buckle.
+   Did you not buy me a cravat
+string.
+   Pardon me, here it is.
+   What is the yard of this
+ribbon?
+   They don't sell by the yard, they
+sell it by the ell.
+   How much?
+   A Shilling and Sixpence.
+   'Tis not too much. 'Tis not
+dear.
+   'Tis cheap.
+   Have you made your Bill?
+   I had not the time.
+   Bring it to morrow, I shall pay
+you.
+
+</dialogue> <head>THIRTEENTH DIALOGUE.</head> 
+
+ <head>TO SPEAK TO THE
+SHOOEMAKER.</head> <dialogue>
+
+   Is the Shoomaker come?
+   No, Sir, he is not come.
+<pagebreak id="184" />
+   Run then to him, and bid him
+bring my shooes.
+   Sir, here he is, I <comment type="compiler">&quot;I&quot; ADDED BY HAND IN SOURCE TEXT</comment> met him by
+the way,
+   Are these my shooes?
+   Yes, Sir.
+   Put them on.
+   They pinch me a little.
+   They'll grow wider, by wearing
+   But they will hurt me in the
+mean while.
+   My Corns will suffer for't.
+   My feet are in the Stocks.
+   Make me some others.
+   You are hard to be pleased.
+   Will you be pleased to try
+another pair, which I brought by
+chance.
+   I will.
+   They will fit you, I believe.
+   I have my foot more at ease.
+   What are these shooes worth?
+   Five shillings.
+   That's too much.
+   'Tis a set price.
+   'Tis a shooe well made, and
+well stitcht.
+   Make me another pair like
+these.
+   Take my measure.
+   There is your money.
+<pagebreak id="185" />
+</dialogue> <head>FOURTEENTH DIALOGUE.</head> 
+
+ <head>TO BREAKFAST.</head> <dialogue>
+
+   Have you brought any thing 
+to break fast?
+   Yes, Sir, there are sausages
+and petty-patees.
+   Shall I bring the Gammon of
+Bacon.
+   Yes, bring it, we shall cut a
+slice of it.
+   Lay a napkin on that table, and
+give us plates, knives and forks.
+   Rinse the glasses.
+   Reach the Gentleman a seat.
+   Sit down, Sir, sit by the fire.
+   I am not cold, I will be very
+well here.
+   Let's see whether the wine be
+good.
+   Pull the cork of that bottle.
+   Taste that wine, pray.
+   How do you like it?
+   What do you say to it?
+   It is not bad, it is good.
+   Take that dish away.
+   Eat sausages.
+   There is an Orange.
+   Squeese it upon your Sausages.
+   Give me some drink.
+   Sir, my Service to you.
+   Sir, to your health.
+<pagebreak id="186" />
+   I thank you, Sir.
+   Give the Gentleman some drink.
+   I drunk but just now.
+   The petty-pattees were very
+good.
+   They were baked a little too
+much,
+   You do not eat.
+   I have eat so much, that I
+shall not be able to eat my dinner.
+   You only jest, you have eat
+nothing.
+   Let's say grace.
+
+</dialogue> <head>FIFTEENTH DIALOGUE.</head> 
+
+ <head>TO SPEAK FRENCH.</head> <dialogue>
+
+   Do you speak French?
+   Are you very Learned in
+the French Tongue?
+   Not much, I know nothing almost.
+   'Tis said however, that you
+speak very well.
+   I would it were true.
+   I should know, what I do not.
+   It will be true, if you please, 
+and I shall teach you the way to
+learn French quickly.
+   You shall do me a very great
+favour.
+   The easiest Method to Learn
+French, is to speak it often.
+   But to speak, a body must know
+something.
+<pagebreak id="187" />
+   You know enough already.
+   I know but four or five words
+which I have got by heart.
+   That's enough to begin to
+speak.
+   Were it so, I should become a
+great Scholar in a little time.
+   Don't you understand what I
+say to you?
+   I both understand it, and
+apprehend it very well.
+   But I have not a fluent
+expression.
+   I can hardly speak.
+   The facility of speaking will
+come in time.
+   I am too hasty.
+   Tell me a little, how do you
+call that?
+   I believe, it is called.
+   Very well, and this.
+   Do I pronounce well?
+   Pretty well. Indifferent.
+   You want but a little
+Practice.
+   How long is it since you
+learn?
+   'Tis not above eight days.
+   It is not a Month since.
+   What is your Master of
+Languages's name?
+   His name is Master --
+   How many times does he come
+to teach you?
+   He comes three times a week.
+   How much do you give him a
+month.
+   I give him -- so much.
+<pagebreak id="188" />
+   Does he come three days one
+after another?
+   No, he comes every other day,
+   To wit, On Mundays, Wenesday,
+and Frydays.
+   In the forenoon, or in the 
+afternoon?
+   In the forenoon.
+   Where does he live?
+   In <font>Grafton-street</font> <comment type="compiler">FONT CHANGE ONLY FOR Grafton IN SOURCE    
+TEXT</comment> .
+   At whose house?
+   He lodges at a Taylor's, at the
+sign of the Blue-ball.
+   Does he not tell you, that you
+should always speak French?
+   Yes, Sir, he tells me so
+often.
+   Why don't you speak then?
+   Who will you have me speak
+with?
+   With those as shall speak to
+you.
+   I'd fain speak, but I dare
+not.
+   Believe me, be confident, and
+speak without minding whether
+you say right or no.
+   If I speak so every body will
+laugh at me.
+   Don't you know that to <comment type="compiler">SOURCE TEXT: so</comment> learn
+to speak well, a body begins by
+speaking ill.
+   I shall then follow your
+advice.
+<pagebreak id="189" />
+</dialogue> <head>SIXTEENTH DIALOGUE.</head> 
+
+ <head>OF NEWS.</head> <dialogue>
+
+   What news is there
+abroad?
+   Do you know any news?
+   I have heard no news.
+   What do they say abroad?
+   There is no talk of any thing.
+   Did you hear any thing of the
+War?
+   I heard nothing of it.
+   There is a talk of a Siege.
+   They said so; but that
+report has proved false.
+   On the contrary, they talk of
+a battel.
+   I have it of good hands.
+   Do you believe we shall have
+a Peace?
+   I believe yes.
+   For my part I believe not.
+   What grounds have you for't?
+   Because I see the minds of
+both Partys are little inclin'd
+that way.
+   Mean while, it cannot be
+deny'd but that Peace would be a
+great advantage to Trade.
+   What do they say at Court?
+<pagebreak id="190" />
+   They talk of a journey.
+   When is it believed the King 
+will go?
+   It is not known. They say
+nothing of it.
+   Where do they say he will go?
+   Some say into <font>Flanders</font> , others
+upon the Fleet.
+   And what says the Gazette?
+   I have not read it.
+   And to speak freely with you,
+the designs of the Court are kept
+so secret, that I think
+Newsmongers know nothing of them.
+   The Commanders themselves,
+whom the King chuses to execute
+his designs, do not know what
+the preparations that are a
+making in the Tower and in the 
+Seaports are intended for.
+   After all this can a body speak 
+possitively of our affairs.
+   Men of sence never speak of
+those matters, but with great
+wariness and discretion.
+   For my part, I cannot excuse
+the foolishness of some people,
+who talk of Government without
+being acquainted with it.
+   They make peace and war,
+according to their freaks, or
+interests, and take upon themselves
+to settle the Nation, when at the
+same time they leave their
+Families in a ruinous disorder.
+   Let us speak of private news.
+<pagebreak id="191" />
+<comment type="compiler">ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 119</comment>
+   It is true, what is reported
+of Master --
+   What of him?
+   They say he is wounded to
+death.
+   I would be sorry for't, he is
+an honest man.
+   Who has given him the wound?
+   Two Knaves.
+   Two Villains that set upon
+him.
+   Do they know upon what
+account?
+   'Tis reported because he spoke
+ill of them, and gave a box in
+the ear to one of them.
+   I don't believe it.
+   Nor I neither.
+   Whatever it be, 'twill be
+quickly known.
+
+</dialogue> <head>SEVENTEENTH DIALOGUE.</head> 
+
+ <head>TO ENQUIRE AFTER ONE.</head> <dialogue>
+
+   Who is that Gentleman
+who spoke to you just
+now?
+   He is an Englishman.
+   I took him to be a German.
+   He speaks very good French.
+   Tho' he be an Englishman, he
+speaks so well French, Italian,
+German and Spanish, that
+<pagebreak id="192" />
+among the French they believe
+him to be a French-man.
+   He speaks <font>Italian</font> as the 
+<font>Italians</font> themselves.
+   He goes for a <font>German</font> with
+the <font>Germans</font> , and for a
+<font>Spaniard</font> among the <font>Spaniards</font> .
+   'Tis a hard matter to be
+Master of so many different
+Languages.
+   He has been a long while in
+those Countrys.
+   Is it long since you know him?
+   'Tis about two years since I
+know him.
+   I got acquainted with him at
+<font>Paris</font> .
+   He is very genteel.
+   He has a fine Presence.
+   He is of a fine proper size.
+   He is neither too tall nor too
+little.
+   He is handsom, and his shape
+is easy and free.
+   He has a noble gate.
+   He has nothing unpleasant in
+his ways.
+   He is civil, courteous, and
+complaisant with every body.
+   He has a great deal of Wit
+and is very jovial and agreeable
+in Conversation.
+   He Rides the great Horse
+very well; He is quick and handy
+to Fence, and Dances very neatly,
+(or handsomly).
+<pagebreak id="193" />
+   He plays on the lute, the
+guittar, and several other
+instruments.
+   But what renders him the
+more commendable, is that he
+has found the way to get the
+Prince's favour. who often
+bestows favours upon him.
+   And who without question
+will not fail to prefer him.
+   I should be glad to get
+acquainted with him.
+   I shall get you acquainted
+with him.
+   Do you know where he lives.
+   He lives hard by.
+   When shall you and I go and
+wait on him.
+   When you please, for he is
+my intimate Friend.
+   'Twill be when you can spare
+time.
+   When it is convenient for you.
+   At your leisure.
+
+</dialogue> <head>EIGHTEENTH 
+DIALOGUE.</head> 
+
+ <head>BETWEEN A TUTOR AND
+TWO YOUNG
+GENTLEMEN.</head> <dialogue>
+
+   Gentlemen, good morrow
+to you.
+   Sir, I wish it to you.
+   Have you been up a long
+while?
+<pagebreak id="194" />
+   It is about an hour since.
+   Have you well slept last
+night?
+   Have you had a good nights
+rest?
+   My little brother has slept
+very well.
+   For my part, I spent part
+of the night in sleeping, the 
+other in slumbering, and the
+other in waking.
+   Have you breakfasted?
+   Yes Sir.
+   Have you askt your Papa's,
+your Mama's and
+Grand-Mama's blessing?
+   Papa went out before we
+got up.
+   Mama is not awake.
+   But we have been at 
+Grand-Mama's.
+   Bring your Books.
+   What Books must I bring?
+   What day of the Week is
+it?
+   To day is Tuesday.
+   Bring then the Latin
+Grammar and the Familiar
+Phrases.
+   And for my Brother?
+   The history of the Bible and
+the French Grammar.
+   Decline a Noun, Conjugate
+a verb.
+   And you, Master <font>P--</font>
+get this Lesson by heart.
+<pagebreak id="195" />
+   Master <font>B--</font> mind what
+you are about.
+   I tell you twenty times of
+a thing, and you never
+mend.
+   You are always wandring.
+Or, you never mind.
+   You are not capable of
+committing those oversights, if
+you minded never so little.
+   You do not improve.
+   Master <font>P--</font> you do not
+study.
+   You do nothing but play.
+   You do but play the wag.
+   Say your Lesson, 
+   You stammer at every
+word.
+   Master <font>B--</font> put, (or 
+explain) into French ten Latin
+phrases.
+   Construe them.
+   Write them fairly in your
+paper-book, with the French
+translation against it.
+   And get afterwards all that
+by heart.
+   I give you a small task that
+you may get it by heart the
+sooner, and keep it the longer.
+   Do you know your Lesson
+already?
+   Yes, Sir, I know it.
+   Well, let's see. Rehearse
+it.
+   Speak loud that one may
+hear you.
+   You speak too low.
+   Be quiet; your hands are
+always in action.
+<pagebreak id="196" />
+   Very well, Master <font>B--</font>
+very well.
+   You please me very much.
+   Were you always as good
+and as diligent, I would
+never be cross, or
+ill-humoured
+   As for Master <font>P--</font>
+he is so lively, that he can't
+forbear playing the fool,
+making a noise, and twittle twattle
+to disturb us,
+   Since we have done our
+exercises. Let us go take a 
+walk
+   Call <font>W--</font> to dress you.
+
+</dialogue> <head>NINETEENTH DIALOGUE.</head> 
+
+ <head>BETWEEN THE SAME, TO
+WALK IN THE PARK.</head> <dialogue>
+
+   Let us go to the Park.
+   Shall we <comment type="compiler">SOURCE TEXT: she</comment> go on foot, or in
+a coach.
+   We may go there on foot.
+   The streets are not dirty,
+   There is no dirt
+   Give me your hand.
+   You have been like to fall.
+   You stumble at every
+step.
+   Sir, which way shall we go
+into the Park.
+<pagebreak id="197" />
+   By St. <font>James's</font> house.
+   Well, Sir, how do you like
+the Park.
+   Tho I walk in it every 
+day, I don't leave off
+admiring the Walks longer than <comment type="compiler">SOURCE TEXT: that</comment> ones
+eyes can reach.
+   Do you take notice how
+cleanly the Mail is kept.
+   What do they do with those
+heaps of Cockle-shels?
+   They spread them over the 
+Mail, and bruise them
+afterwards with the Roller.
+   Let's go round the Park.
+   Do you see, Sir, with what
+violence the water comes in
+that Canal.
+   Yes, Sir, how comes that
+about?
+   'Tis because it Ebbs and 
+Flows.
+   But which way does the 
+tide come in?
+   Under ground.
+   The tide comes in.
+   The tide goes out.
+   What does that fine brazen
+figure represent.
+   A man that fights at
+Fisty-Cuffs.
+   Let's go to the Sun-Dial
+to set our Watches by it.
+   Let's go now to the 
+Bird-Cage.
+   What sort of birds is there?
+   There are several sorts of
+them.
+<pagebreak id="198" />
+   If you have any thing
+that's good to Eat, do but
+throw it into the Water,
+and you will see how the
+Ducks and Geese will fly to
+us.
+   'Tis a pretty Diversion.
+   T'is pleasant to see how
+greedily they strive to snatch
+the Victuals away from one
+another.
+   Master <font>B.</font> to join profit to
+pleasure, tell me one of
+<font>Aesop's</font> Fables in <font>French</font> 
+Metre.
+   What Fable, Sir?
+   That of the Lyon's Court.
+   Tell me now the Story of
+the Oysters, and of the
+Litigious People.
+   And you, Master <font>P.</font> tell
+me the Fable of the Raven 
+and the Fox.
+   That's well.
+   Here is a Gentleman of
+my Acquaintance coming to
+us.
+   I believe he has a mind
+to accost us, or, to draw
+near us.
+   Don't fail to pull of your 
+Hat to him as soon as I.
+<pagebreak id="199" />
+</dialogue> <head>TWENTIETH DIALOGUE.</head> 
+
+ <head>TO DRAW NEAR ONE.</head> <dialogue>
+
+   Oh! the happy meeting.
+   It is long since I had
+not had the Honour to see you.
+   I am very glad to see you
+in good Health.
+   Where have you been lost
+all this long while?
+   I have been in the
+Country.
+   How long have you been come?
+   'Tis but two days since.
+   Are those the two young
+Gentlemen you bring up?
+   Yes, Sir.
+   They are both very 
+handsom.
+   How old is the eldest?
+   He is but eight years and a 
+half old.
+   He is very tall for that 
+age.
+   He is very handsom.
+   And He has the Gate, the 
+Air, and the Manners of a 
+Man of twenty.
+   Does he speak good <font>French</font>
+   He comes off pretty well of
+a familiar Conversation.
+   Do so much as to examin
+him your self. --
+<pagebreak id="200" />
+   I assure you, I wonder at it,
+He has a good accent, he speaks
+very well.
+   You may take notice that he
+makes some faults, and does not
+know some words.
+   That comes partly because
+he speaks with no body but me,
+and so he cannot learn the
+variety of Expressions which
+arises by speaking to several
+people.
+   And besides, most part of the
+words he does not know in
+French, are those whose
+signification he does not know in
+English.
+   But as soon as he shall begin
+to get into Companies, he will
+soon get the facility of
+expressing himself.
+   For I may say, that he
+understands Historys, Plays, and
+Romances pretty well.
+   Have you begun to teach 
+him Latin.
+   Yes, Sir, he has some
+smattering of it.
+   And he understands besides
+a little Geography.
+   He is very forward.
+   He has made great
+progress.
+   He cannot but become a
+good Scholar under so good a
+Master.
+   I assure you, without any
+flattery to him, that his good
+nature, his wit and docility do
+contribute to it more than I.
+<pagebreak id="201" />
+   And his little younger
+brother, how old is he?
+   He is six years and a
+quarter old.
+   He is extreamly handsom.
+   One may see in him all the
+little Graces which are
+ascribed to Angels, and which had
+never been till now, but in
+the Painters fancy.
+   Does he speak French too?
+   Yes, Sir, and he reads it
+indifferently. But he is full of
+roguery.
+   That becomes his age very
+well.
+   Do you return home?
+   Yes, Sir.
+   When shall I have the
+honour to see you again?
+   I shall give my self the
+honour to wait on you at your 
+house.
+   You shall be very welcome.
+   Farewel, till we meet again.
+
+</dialogue> <head>ONE AND TWENTIETH
+DIALOGUE.</head> 
+
+ <head>AT DINNER.</head> <dialogue>
+
+   Is it Dinner time?
+   I believe it is.
+   Is the Cloth laid.
+   Not yet.
+<pagebreak id="202" />
+   Put chairs round the
+table.
+   We shall have company to
+day.
+   There wants two plates.
+   Boy, call for the
+dinner.
+   It is not ready yet.
+   They have rung the bell.
+   The meat is on the table.
+   Let's sit down at table.
+   Sir, take your place.
+   I won't suffer you to sit at
+the lower end of the table.
+   You shall sit at the upper end,
+if you please.
+   Indeed, I shan't.
+   Let's forbear complements, I 
+pray.
+   Why do you make such
+ceremonies.
+   Friends live freely
+together.
+   Who says Grace.
+   Do you love French 
+Potage?
+   Yes, provided the broth be
+well made,
+   Shall I help you to some
+boiled meat.
+   Help your self.
+   Sir, you eat nothing.
+   'Tis true, we have nothing
+extraordinary to incite you to
+eat.
+   No question, but you have a
+mind to jeer me, because I don't
+commend this treat, otherwise
+than by eating well.
+<pagebreak id="203" />
+   You are quick at repartee.
+But however, I hope the
+second Course will make amends
+for the first.
+   But, Sir, you han't drank
+yet.
+   Boy, give the Gentleman
+some drink.
+   Madam, my humble service
+to you.
+   Sir, I thank you.
+   I am your servant.
+   How do you like that beer?
+   I like it pretty well.
+   Let me taste it.
+   For my part I think it is
+too bitter.
+   I'll scold at the Brewer for
+it.
+   Come, Sir, eat what you
+shall like best for.
+   What do you say of that
+Neats tongue?
+   Of that minced Meat? of
+that Fricassee? shall I help
+you to some Capon, some
+Chicken, some woodcock, or some
+Partridge?
+   Ev'n as you please.
+   What do you love best, the
+Wing or the Leg?
+   'Tis all one to me.
+   Eat some Radishes to
+sharpen (or whet) your stomach.
+   I have eat too much
+already.
+   Give me a glass of Wine.
+<pagebreak id="204" />
+   Sir, my service to you.
+   Come, Sir. I drink the
+young Prince's health to 
+you.
+   I shall pledge you with all
+my heart.
+   There is excellent Wine.
+   How do you find that
+Pigeon-pye?
+   Extraordinary good; very
+well season'd.
+   What? Dainty dishes after
+so magnificent a second Course.
+   You give us a Kings Feast,
+instead of a Friendly Meal.
+   The Fruit answers to all the
+rest.
+   You have gathered the most
+exquisite Fruits <comment type="compiler">SOURCE TEXT: Frnits</comment> the Season
+affords.
+   This Pastry-work is very well
+made.
+   Sir, you make me blush to
+prevent by your
+commendations, the excuses I ow you,
+for entertaining you so ill.
+   But I think that every body
+has done.
+   Take away.
+   Let's say Grace.
+<pagebreak id="205" />
+</dialogue> <head>TWENTY SECOND
+DIALOGUE.</head> 
+
+ <head>TO PLAY AT CHESS.</head> <dialogue>
+
+   How shall we spend this
+afternoon,
+   Let's play a Game at Chess.
+   With all my heart.
+   But you play better than I.
+   Not at all.
+   You always beat me.
+   I'll no more play with you,
+except you give me odds.
+   Indeed I cannot: See
+whether you have a mind to play
+even.
+   What shall we play for?
+   I never play but for a small
+matter.
+   Lets play for half a Crown
+a Set.
+   But play fair.
+   I never play foul.
+   I take that <font>Pawn</font> .
+   I am glad of it, for I am
+going to take that <font>Bishop</font> and
+<font>check you</font> . 
+   You'l get nothing in that
+business, there is a <font>Rook</font> , I
+take away with my <font>Knight</font> .
+<pagebreak id="206" />
+   But how shall you save your
+<font>Queen</font> .
+   By <font>Check-mating</font> you with
+my Bishop and my Rook.
+   I lost the Set, I cannot move
+the King.
+   You ow me then half a
+Crown.
+   I grant it.
+
+</dialogue> <head> <font>XXIII.</font> DIALOGUE.</head> 
+
+ <head>TO GO TO SEE A PLAY.</head> <dialogue>
+
+   There is a new Play Acted
+to day, shall we go and
+see it?
+   With all my heart.
+   It is a Comedy, or a 
+Tragedy?
+   'Tis a Comedy?
+   What's its name?
+   <font>The Old Batchelor.</font>
+   Is this the first time it is
+acted?
+   No, Sir, this is the third
+time, this is the Poets-day.
+   I'll go and bid the
+Coachman get the Coach ready, and
+and we shall go the next
+minute.
+   Shall we go in a Box.
+<pagebreak id="207" />
+   I'll do what you please, but
+methinks 'tis best to go in
+the Pit,
+   Why?
+   Because we may pass the
+time away in talking with
+some body, before the Curtain
+is drawn:
+   What do you say of that
+Symphony.
+   Methinks 'tis very good.
+   Don't you take notice of
+that Hoboy that sounds so
+finely among the violins and
+harpsecol.
+   The Boxes are full already.
+   And as you see we are very
+crowded in the Pit.
+   I never saw the house so
+full.
+   There are a great many fine
+People.
+   I love as much as the Play
+the sight of those fine Ladies,
+who grace the Boxes.
+   They are very finely drest,
+(or in a fine Garb)
+   They join the Beauty and
+Charms of the Body to the
+Richness of the Attire; and to
+the brightness of their Jewels.
+   Do you take notice of that
+Lady, who sits next to the
+Princess.
+   Yes, I see her, she's pretty,
+she's handsom.
+   How pretty? You should say
+that she's a perfect beauty.
+   Do you know her?
+<pagebreak id="208" />
+   Yes, I know her.
+   She has a fine easie shape.
+   Have you took notice of her
+Complexion.
+   'Tis the finest Complexion
+in the World.
+   The whiteness of her bosom
+(or neck) and the Vermilion
+of her face, wrong the Lilies
+and the Roses.
+   She has teeth as white as 
+snow.
+   I think that she has a great
+deal of wit.
+   Beauty may be seen, but not
+wit.
+   Had she as much wit as
+Beauty, one might say, that
+she is an abridgment of all
+perfections.
+   But the Curtain is
+drawing, let's hear.
+   The Play is done.
+   The Curtain is let down.
+   Let's return home.
+<pagebreak id="209" />
+</dialogue> <head>XXIV. <font>DIALOGUE.</font> </head> 
+
+ <head> <font>TO MAKE AN EXCHANGE.</font> </head> <dialogue>
+   What Sword is that you
+have there?
+   'Tis a Sword I bought just now
+at the Sword-Cutlers.
+   Is the Hilt of Steel or
+Gilt-Copper <comment type="compiler">SOURCE TEXT: Gllt-Copper</comment> ?
+   A fine Question! don't you see
+it is Silver-Gilt.
+   The Handle is of Silver 
+without question.
+   Will you truck (or Chop) your
+Sword?
+   With what?
+   With mine.
+   With all my Heart, what will
+you give me to boot.
+   Nothing.
+   Give me ten shillings to boot.
+   Truly you jeer me. What! is
+not my Sword as good as yours
+to the full?
+   No really; far from it.
+   You tell me fine Stories.
+   I am not so easie to be imposed
+upon.
+   See whether you will make a
+Gentlemans Exchange.
+   What do you mean by that?
+   To change even hands.
+   I'll be sure not to do it.
+   I am not such a Fool to do it.
+<pagebreak id="210" />
+   Look for your Cullies somewhere
+else.
+   Well chuse.
+   I'll give you then eight
+Shillings to boot.
+   Done.
+
+</dialogue> <head>XXV. <font>DIALOGUE.</font> </head> 
+
+ <head> <font>BETWIXT A LADY AND HER
+DAUGHTER ABOUT THE
+EXERCISES.</font> </head> <dialogue>
+
+   Daughter, have you done all
+your Exercises to day?
+   No, Madam, my dancing
+Master is not come yet.
+   Is your Singing Master gone?
+   Yes, Madam, he is just gone
+out.
+   What Song did you sing?
+   A Song of the New <font>Opera</font> .
+   What <font>Opera</font> do you mean?
+   The Fairy Queen.
+   Tell me the words of it.
+   If <font>Love's a sweet Passion</font> , &amp;c.
+   That Song is grown as
+common as a Ballad.
+   'Tis the common Fate of the
+finest Songs which are sung at both
+the Theaters.
+   Sing before me.
+   What Song, Madam?
+<pagebreak id="211" />
+   How blest are Shepherds, how
+happy their Lasses!
+   Stand upright <comment type="compiler">SOURCE TEXT: uprlght</comment> .
+   Hold up your <comment type="compiler">SOURCE TEXT: yrur</comment> Head.
+   That's well.
+   You sing pretty well.
+   You han't quite forgot that Tune,
+but you trill too much.
+   Did your Master of Languages
+come yesterday.
+   Yes, Madam.
+   Does he say that you speak good
+French?
+   He says, I speak as well as any
+of his Schollars, considering the
+time I have learnt.
+   He finds then that you
+improve?
+   I don't know whether 'tis to
+flatter, or to incourage me, but
+he tells me I make great progresses.
+   He does well not to discourage
+you.
+   I wish you may go on at the
+same rate.
+   Do not be slack, be not negligent
+   And above all, leave off your
+wanton Tricks.
+   Have you been about your work?
+   What Work.
+   The Needle work.
+   The Embroidery.
+   The flowering of your
+Combing Cloth.
+   At what Hour does your
+Dancing-Master come to day?
+   At four a Clock.
+   What Dances does he teach you <comment type="compiler">SOURCE TEXT: yon</comment> ?
+<pagebreak id="212" />
+   French Dances; as the
+<font>Courant</font> , the <font>Menuet</font> , &amp;c.
+   Does he not teach you
+Country Dances.
+   Pardon me.
+   Let me see how you make a
+Curtesy.
+   That's well.
+   But when you make a 
+Courtesey, don't stare so people in the
+face.
+
+</dialogue> <head>XXVI. DIALOGUE.</head> 
+
+ <head>TO WRITE A LETTER.</head> <dialogue>
+
+   Is it not to day a Post-day?
+   I believe it is.
+   Who do you write to?
+   To Madam <font>C.</font>
+   Is she not in Town?
+   She has been in the Country
+these two days.
+   Give me a Sheet of guilt
+Paper, a Pen, and a little
+Ink.
+   Step in my Closet, you'll find
+upon the Table all that you
+lack.
+   There are no Pens.
+   There are some in the
+inkhorn or (standish.)
+   They are good for nothing.
+   There are some others.
+   These are but Quills, they are
+not cut.
+<pagebreak id="213" />
+   Where is your Pen-knife?
+   Can you make a Pen?
+   I make them my own way.
+   This is not bad.
+   While I make an end of this
+Letter, be so kind as to make
+a bundle of that Copy of
+Verses and that Pamphlet.
+   What Seal will you have me
+put to it?
+   Seal it with my Cypher, or
+with my Coat of Arms.
+   What Wax shall I put to it?
+   Put either red or black, no
+ matter which.
+   Mayn't I put Wafers to it?
+   'Tis all one.
+   Have you put the Date?
+   I believe yes: But I did not
+subscribe.
+   What day of the month is
+this?
+   The tenth, the twentieth.
+   Put the Superscription.
+   Where is the Dust?
+   You have neither Dust nor
+Sand.
+   There is some in the 
+Powder-Box.
+   How do you convey your
+Letters?
+   By the Post.
+   There is my man who shall
+carry them there, if you will
+trust him with them.
+   Carry the Gentleman's Letters
+to the Post, and do not forget
+to pay the Postage.
+   I have no mony.
+   There is some. Go quickly
+and make haste to come back.
+<pagebreak id="214" />
+</dialogue> <head>XXVII. DIALOGUE.</head> 
+
+ <head>TO HIRE A LODGING.</head> <dialogue>
+
+   Madam, you have here a
+Bill at your door, that
+shews, you have Rooms to let.
+   So I have Sir. Will you be
+pleas'd to see them?
+   How many do you want?
+   I want a good Room and a
+Closet to it, for me, and a 
+Garret for my Man.
+   Must your Room be furnished
+or unfurnished?
+   Furnished.
+   Do me the favour to stay a
+moment in this Parlour, and I
+will go fetch the Keys.
+   Will you take the pains to
+come up.
+   We follow you, Madam.
+   Here's a Chamber to be let
+in the first story.
+   I pass my word (or I 
+warrant you) there is a very good Bed.
+   And you see, that there are all
+things requisite in a furnished
+Room, as Table, Hanging-Shelf,
+Stands, Chairs, Looking-Glass,
+and fine Tapistry.
+   But where is the Closet?
+   Here it is.
+   This fits me well enough.
+<pagebreak id="215" />
+<comment type="compiler">ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 115</comment>
+   I like the Room very well;
+what do you ask for it a week?
+   I never let my Chambers but
+by the Month or by the Quarter.
+   Well, I shall take it by the 
+Month: What will you have for 
+it?
+   I never had less than six
+Crowns a month for this Room.
+   That's too much.
+   Without so much hagling, I'll
+give four for it.
+   That's too little: you don't 
+know what Rent I pay for this
+house.
+   'Tis no business of mine to 
+know it. 
+   But in a word as well as
+in a hundred, shall we divide
+the difference?
+   I assure you, that I lose by it
+but I shall do it upon your account.
+   And for my man's Garret, how
+much will you have for it a
+month?
+   You shall give me Ten
+Shillings for it.
+   I shall give you eight for it
+   It is not enough; however,
+rather than to put you off, I
+consent to it.
+   'Tis not worth the while to
+cheapen for such a small matter.
+   But now I think on't, may I
+not board at your house?
+   Excuse me.
+<pagebreak id="216" />
+   What do you take for each 
+Boarder a week? 
+   For the Chamber and Boarding
+together, I take twelve shillings
+   And for the Boarding only,
+Eight.
+   I have rather then give you
+Twelve shillings a week for all.
+   Do een as you please.
+   Well, I shall begin to morrow.
+
+</dialogue> <head>XXVIII. DIALOGUE.</head> 
+
+ <head>TO DRESS VICTUALS.</head> 
+
+ <head>BETWEEN THE STEWARD 
+AND THE COOK.</head> <dialogue>
+
+   Master Cook, my Lord shall
+have company at Dinner; 
+you must shew all that you can
+do, (or all your skill.)
+   If I don't make good chear,
+'twill be no fault of mine; But
+look you, master Steward, you
+clip my wings so with the Cizars
+of your husbandry, that --
+   Fair and softly. -- What must
+you buy?
+<pagebreak id="217" />
+   How many people will there be
+at Table?
+   I think they'll be seven.
+   Well, for the boyled meat, there
+must be a Leg of Mutton, and
+two Hens.
+   For the first, a Fricasy of
+Chickens, a Gammon of Bacon,
+a Pigeon-Pye.
+   For the second course,
+   A Pig.
+   Four Pullets.
+   Four Partridges.
+   And a dozen of Larks.
+   As for the Fruit, the 
+House-keeper shall take care of that.
+   Go then quickly to the
+Butchers and Poulterers, to fetch all
+that you want.
+   Lay out the mony, and write
+down what you spend; I shall
+pay it you again at the end of
+the week.
+   Kill this Pig immediately;
+broyl his feet; put him in
+boyling water, and hang him on the
+Hook.
+   Scowr the great Pot, fill it
+with clean water, and put it
+to the Pot-hanger.
+   Pick (or fleece) them Pullets;
+draw them, tuck them up well,
+and lard them neatly.
+   Shell them Peese and Beans,
+and let them boyl about a
+quarter of an hour.
+<pagebreak id="218" />
+   Give me the spit.
+   Wind up the Jack.
+
+</dialogue> <head>XXIX. DIALOGUE.</head> 
+
+ <head>TO BUY A SUIT OF CLOATHS.</head> <dialogue>
+
+   Sir, I come to wait on you
+from Master <font>B.</font> --
+   What does he send you for?
+   He told me, you had a suit 
+of Cloaths to make.
+   Friend, you are welcome; I
+expect that you will make me
+a neat and modish suit of
+Cloaths.
+   What will you have it made of? 
+Of some fine English Cloth. 
+   Of what Colour?
+   I shall see.
+   Will you be pleased to buy the 
+Cloth, or shall I buy it my
+self?
+   I go to buy it now, come
+along with me.
+   What do you want Sir?
+   What do you look for?
+   I want a good and fine
+Cloth.
+   Come in, Sir, you will see here
+the finest Cloths in <font>London</font> .
+<pagebreak id="219" />
+   Shew me the best you have.
+   There is a very fine one,
+and as they wear them now.
+   It is good, but the Colour
+does not please me.
+   There is another piece lighter
+than the other.
+   I like that colour; but the
+cloth is too thin, it is not strong
+enough.
+   Look upon this piece here,
+you will find none so fine in
+another place, nor that will do
+you so much service.
+   How much will you sell it 
+an Ell?
+   Without exacting upon you of
+a penny, it is worth twenty
+shillings.
+   I am not used to cheapen,
+tell me the last word.
+   I told it you, Sir, it is worth
+so much.
+   That's too dear; I'll give 
+you eighteen for it.
+   There is not a penny to bate.
+And if you consider the
+goodness and fineness of the cloth,
+you'll find it very cheap.
+   Come, come, cut two Ells of
+it.
+   I swear, upon my honest word,
+that I don't get half a Crown
+with you.
+   Shew me now a strip'd cloth
+for the Breeches.
+   Here is one that will match
+your close coat the best in the
+world.
+<pagebreak id="220" />
+   What do you ask for the Ell?
+   It never went out of my Shop
+under six and twenty
+Shillings.
+   I'll give you at the Rate of
+four and twenty.
+   How much must you have of
+it?
+   Three Quarters <comment type="compiler">SOURCE TEXT: Quarrers</comment> of an Ell.
+   Here, Sir, there is your
+mony; see whether I did
+misreckon.
+   I would not wrong you of a
+farthing.
+   Sir, the mony is good, and
+well told.
+   Come home with me to take
+my measure.
+   Shall I find the rest?
+   That's without question.
+   Line the Coat with some
+good Silk, and the Breeches with
+good Callico.
+   You shall be contented.
+   Buy me a good pair of Silk
+Stockings.
+   Will you have them knit or
+woven?
+   I will have them knit.
+   For the rest, take a special
+care that my suit be well made.
+   It shall be so, I promise you.
+   But I must have it within
+two days at the furthest.
+   You shall have it without fail.
+<pagebreak id="221" />
+</dialogue> <head> <font>XXX. DIALOGUE.</font> </head> 
+
+ <head> <font>TO PLAY AT PICKET.</font> </head> <dialogue>
+
+   Let's play a Game at 
+Picket.
+   What will you play for?
+   Let's play for a Crown to
+pass away the time.
+   Give us a pack of Cards and
+some Counters.
+   Let's see, who shall deal?
+   You are to deal.
+   I am to play first; I have the 
+hand.
+   Shuffle the Cards; all the
+Figures are together.
+   They are shuffled enough.
+   Cut, Sir.
+   Have you your Cards?
+   I believe I have.
+   How many do you take in?
+   I take all.
+   I leave one.
+   I have bad Cards.
+   Let's deal again.
+   Not this time.
+   Have you put away?
+   No, Sir, my Cards puzzle
+me.
+   You must needs have good
+Cards, since I have nothing.
+   Tell how many you have.
+   Fifty, Sixty, &amp;c.
+   They an't good.
+   They are good.
+<pagebreak id="222" />
+   <font>Quint major</font> , <font>Quint</font> to the
+King, <font>Quint</font> to the Queen.
+Fourth to the Knave: Third to 
+the Tenth.
+   Three Aces, three Kings.
+   I have as much.
+   Fourteenth of Queens.
+   Play on.
+   Hearts, Spades, Diamonds,
+Clubbs.
+   The Ace, the King, the Queen,
+the Knave, the <comment type="compiler">SOURCE TEXT: tht</comment> Tenth, the Nine, 
+the Eight, the Seven.
+   A Peek, a Repeek.
+   I have the Cards.
+   I have seven Tricks.
+   I have lost.
+   You have won.
+   You owe me a Crown.
+   You owed me.
+   We are even (or quit).
+   Give me my Revenge.
+
+</dialogue> <head> <font>XXXI.</font> DIALOGUE.</head> 
+
+ <head>FOR THE JOURNEY.</head> <dialogue>
+
+   How many miles (or leagues)
+is <font>N.</font> from this place.
+   It is eight leagues.
+   We cannot go so far to day,
+it is too late.
+<pagebreak id="223" />
+   It is not above twelve a
+Clock at noon: you will arrive
+there betimes.
+   Is the way good?
+   Not much, there are Woods
+and Rivers to pass by.
+   Is there any danger upon
+the Road.
+   There is no talk of it; 'tis
+a Road where a body meets
+with a people every moment.
+   Don't they say, that there are
+High-way-men in the Woods?
+   There is nothing to be
+feared either by day or night.
+   Which way must one take?
+   When you come near the hill,
+you shall go to the right hand.
+   We must not then go up the
+hill.
+   No Sir.
+   Is it a difficult way through
+the Wood?
+   You cannot loose your way.
+   When you are out of the
+Wood, remember to take to the
+left.
+   I thank you Sir.
+   Come, Gentlemen, come, let's
+get on horseback.
+   Farewell, Sir, farewell.
+   I wish you a good Journey.
+   Sir, if I don't mistake, your
+horse has lost his Shoe.
+   Will you be so kind as to
+stay for me till I get him
+shoe'd.
+   With all my heart.
+<pagebreak id="224" />
+</dialogue> <head>XXXII. DIALOGUES.</head> 
+
+ <head>OF THE SUPPER AND
+LODGING.</head> <dialogue>
+
+   Can we lodge here?
+   Yes Sir, we have fine Rooms,
+and good Beds.
+   Let's alight, Gentlemen.
+   Bid some body put our horses
+into the Stables.
+   Take the Gentlemen's horses,
+take care of them.
+   Now let's see, what shall you
+give us for supper?
+   See Sir, what you shall
+like.
+   Give us a fricasy of
+Chickens, half a dozen Pigeons, a
+Sallet, six Quails, and a dozen
+of Larks.
+   Will you have nothing else?
+   No, that's enough; but give
+us good Wine and Fruit.
+   Let me alone, you shall be
+contented I warrant you.
+   Come, Gentlemen, let's go and
+see our Chambers.
+   Light the Gentlemen up.
+   Let's have our supper as soon
+as possible.
+<pagebreak id="225" />
+   Before your Boots are pull'd
+off, will supper be got ready.
+   Where are our Lackeys?
+   They are gone up stairs with 
+your Portmantles.
+   Have you brought my
+Pistols?
+   Yes Sir, there they be.
+   Pull of my Boots, and then
+you shall go to see whether they
+have given Hay to the Horses;
+you shall <comment type="compiler">SOURCE TEXT: spall</comment> carry them to the
+River, and shall take care to let
+them have some Oats.
+   I'll take care of all, don't
+trouble your self.
+   Call for supper.
+   Gentlemen, supper is
+ready, the meat is on the Table.
+   Let's go to supper, 
+Gentlemen, that we may go to bed
+betimes.
+   Let's sit down, Gentlemen;
+let's sit down at Table.
+   There wants a Plate.
+   Eat of that Fricasy, it is very
+well seasoned.
+   The Pigeons are not enough.
+   Give us some drink.
+   My service t'ye, Gentlemen.
+   Is the Wine good?
+   It is not bad.
+   Let's drink then.
+   These Quails are very tender.
+   You don't eat, Sir.
+   I have no stomach; I am
+weary and tired.
+   You must cheer up.
+   I'll certainly be better a bed
+than at Table.
+<pagebreak id="226" />
+   Get your bed warm.
+   Make an end of your supper;
+Gentlemen, I go to take my rest.
+   Do you find your self ill?
+   Do you want any thing?
+   I want nothing but rest.
+   Farewel, Gentlemen, good night.
+   I wish you a good night;
+endeavour to be well.
+   Bring the Fruit, and call the
+Landlord (or Inn-keeper) to speak
+to us.
+   Here he comes with a Bottle
+of Wine.
+
+</dialogue> <head>XXXIII. DIALOGUE.</head> 
+
+ <head>TO PAY THE RECKONING.</head> <dialogue>
+
+   Your Servant Gentlemen, how
+did you like your supper?
+   We are contented, but we
+must content you too.
+   Let's reckon Landlord, what
+have we to pay, or what have 
+we had?
+   The Reckoning is not great.
+   See what you must have for 
+us, for our men, and for our
+horses.
+   Reckon your selves, Gentlemen,
+and you will find, that there is
+seven Crowns.
+<pagebreak id="227" />
+   Methinks you ask too much.
+   On the contrary, I am very 
+cheap.
+   How much do you reckon for 
+the Wine?
+   I sell it to you fifteen pence
+a Bottle.
+   Bring another Bottle, and we
+shall give you seven Crowns to
+morrow morning at break fast.
+   When you please.
+   Give orders that we may
+have clean Sheets.
+   The Sheets you shall have, are
+Lye-washed.
+   I will not fail.
+   Bid the Ostler dress our
+horses well, curry them as he
+should, and take care that they
+don't want for hay.
+   I will. Farewell, Gentlemen,
+good night t'ye.
+
+</dialogue> <head>XXXIV. DIALOGUE.</head> 
+
+ <head>TO SPEAK TO A SICK BODY.</head> <dialogue>
+
+   What ails you?
+   I am ill.
+   You look as if you were.
+   You don't look well.
+   You look ill.
+   Oh! Sir, I am dying, I am
+half Dead.
+<pagebreak id="228" />
+   I linger, or I pine away.
+   Where is your pain?
+   My head and my heart ake, and I
+have a pain in my stomach.
+   Let me feel your Pulse.
+   You have got a Feaver.
+   I feel a heaviness in all my
+Body.
+   You must be let Blood.
+   I was let Blood the other
+day.
+   No matter: To morrow you
+shall take Physick.
+   What Diet must I keep?
+   Take new-laid Eggs, and
+Jelly Broths.
+   Have you a Nurse?
+   Yes, Sir.
+   Cheer up, don't be cast down
+for such a small matter.
+   Oh! Sir, you little know how
+ill I am; I am almost spent.
+   I have one foot already in 
+the grave.
+   Truly, I am very sorry for it.
+But it is possible that you will
+recover.
+   I am gone, I decay very
+sensibly
+   I grow weaker every day.
+   I am in a Consumption, and
+I am past recovery.
+   I must die, my Disease is an
+old Disease.
+   You make your Disease worse
+than it is. You may out-live
+me yet.
+<pagebreak id="229" />
+   Do you find your self better.
+   Yes, thank God, I find my
+self eased.
+   Did your Physick work well?
+   Very well.
+   How many times was you at 
+stool?
+   Seven or eight times.
+   Have you no better stomach?
+   Yes, Sir, I could eat a
+Chicken.
+   Within two or three days you
+may go abroad
+   Do but endeavour to rest.
+
+</dialogue> <head>XXXV. DIALOGUE.</head> 
+
+ <head>BETWEEN A 
+GENTLEWOMAN AND HER WOMAN.</head> <dialogue>
+
+   Who waits?
+   Did your Ladyship call
+Madam.
+   Bring me my Hoods and
+Tippet.
+   Let me see; hold the Glass.
+Lord! I look wretchedly to day.
+   Why don't you help me?
+   How awkward you are!
+   How can I help it?
+<pagebreak id="230" />
+   Is not my Head wry?
+   No Madam, it fits very well.
+   Give me a clean handkerchief.
+   Go now to the Foot-man and
+bid him get a chair with a high
+roof, or a very low seat.
+   I run.
+   Stay Mistress <font>sue</font> , you are so
+ready to go to the Footman. --
+   What will you be pleased to
+have, Madam.
+   Go first, and see whether my
+Sister be ready, and if she be
+willing to go to the Princess with me.
+   Well, what says she?
+   She is gone out already.
+   Truly that's very handsome, to
+disappoint me so.
+   Did she not send me word,
+that she would not go out before
+five a clock.
+   Yes, Madam.
+   What a clock is it then now?
+   'Tis hardly Five.
+   Bid the Footman call for a 
+Chair.
+   Madam, there is below. --
+   Is there a Chair?
+   No, Madam, there is Master
+<font>L.--</font> to wait upon your 
+Ladyship.
+   Did they tell him I was at
+home?
+   I believe, yes.
+<pagebreak id="231" />
+   Then I can't go out; take 
+all that again.
+   How do I look?
+   Very well
+   You may tell Master <comment type="compiler">SOURCE TEXT: Mvster</comment> <font>L--</font>
+that I am ready to receive him.
+
+</dialogue> <head>XXXVI. DIALOGUE.</head> 
+
+ <head>OF LOVE.</head> 
+
+ <head>BETWEEN A LOVER AND
+HIS MISTRESS.</head> <dialogue>
+
+   So Fortune be prais'd, for the
+blessing I have to find you
+at home.
+   'Tis no Miracle, I think.
+   It is not, I confess, very
+extraordinary, to find you at home;
+but hitherto, Madam, I had
+never the happiness to see you
+there alone.
+   Sir, you puzzle me. I cannot
+imagine what you may have to
+say to me.
+   Many things, my dear Angel!
+wrapt up in a Word, I Love.
+   You love!
+   Yes, I love. --
+<pagebreak id="232" />
+   That is not so impossible; but,
+I think, you would do much
+better to entertain her with your
+love, who influences it; for
+besides that, she might give you some
+relief; you would free me from
+the trouble, which is caused by
+the recital of other peoples
+misfortunes, to those who are not in
+a capacity of helping them.
+   Oh! how ingenious you are
+to dissemble! Is it possible that
+my looks and actions have not
+convinced you a thousand times,
+that your sparkling eyes influence
+the torments I endure?
+   The amorous Looks and
+Civilities of men, are too
+uncertain proofs of a true passion;
+and they seldom make use of them,
+but to try our Sex's Weakness,
+and laugh at our Credulity.
+   Oh! do not wrong me so much
+as to judge of me by others:
+I was never a lover by
+profession <font>or</font> , a general Lover. I
+never knew the power of Love
+before the moment I saw you.
+Suspect any thing in me but
+dissimulation: I swear, my
+charming <font>Caelia</font> , I love you more than
+my self, and my love shall be
+as lasting as my life.
+<pagebreak id="233" />
+   Every body speaks the same;
+all men are alike in their
+Language, and the Actions only,
+make them appear different.
+   Since nothing but Actions can
+shew what we are, the only
+favour I beg of you, is to judge
+of my heart by them, and to give
+me the occasion of convincing
+you of the sincerity and pureness
+of my flames.
+   Alass! How easily we are
+persuaded what we wish for!
+Yes, <font>Lisidor</font> , I believe you love
+me with a true love; and I
+have no other trouble than the
+fear of the blame I may incur,
+if I encourage it.
+   Oh! my dearest <font>Caelia</font> , you
+so transport me out of my self,
+that I don't know where to find
+expressions to shew you my
+Gratitude. But pray, what do you
+ground your fears upon?
+   I cannot tell it you now <comment type="compiler">SOURCE TEXT: know</comment> : It
+is time for us to part, my
+mother will be here presently, and
+I should be sorry, she should find
+us in a private Conversation.
+   Alas! what a blow you
+strike in my heart, when you
+speak of parting, and with how
+much grief am I forced to leave
+you!
+   We shall find the way to
+meet again; mean while be
+<pagebreak id="234" />
+faithful, and I shall not be
+ungrateful.
+
+</dialogue> <head>XXXVII. DIALOGUE.</head> 
+
+ <head>BETWEEN TWO COUZENS.</head> 
+
+ <head>OF VISITS.</head> <dialogue>
+
+   How now, Cozen, is no body
+come to visit you to day?
+   No body in the world.
+   Truly, I wonder we have both
+been alone all this day.
+   I wonder at it too, for we
+are seldom so; and your house,
+thank God, is the Sanctuary of
+all the idle Courtiers.
+   To tell truth, this afternoon has
+been very long to me.
+   And I found it very short.
+   Great Wits Couzen Love
+solitude.
+   What do I care for wit?
+you know wit is not what I
+pretend to.
+   For my part, I love Company
+I confess it.
+<pagebreak id="235" />
+   I love it too, but I love
+a choice one, and the great
+number of nauseous Visits, one is
+obliged to entertain among the
+others, makes me often love to
+be by my self.
+   That niceness is too great,
+that cannot bear with none
+but chosen persons.
+   And that complaisance is too
+general, that bears with all
+manner of persons.
+   I relish those that are
+reasonable, and laugh at Fops and
+Impertinents.
+   Truly, Fops grow soon
+tedious, and most of them please no
+more at the second Visit.
+   Madam, there is <font>Climene</font> that
+comes to wait on your Ladyship.
+   Oh Lord! what a Visit!
+   You was grumbling for being
+alone, so heaven punishes you for it.
+   Quickly, go and tell that I
+am not at home.
+   They have told her already,
+that you were.
+   Who is that block-head as told
+so?
+   'Tis I, Madam.
+   Deuce take the little Booby,
+I'll teach you to make Answers
+of your own self.
+   Madam, I'l go and tell her
+that you have a mind to be
+gone out. --
+<pagebreak id="236" />
+   Stay, beast, and let her come
+up, since the Folly is done
+already.
+   Why do you fall a
+laughing?
+   I laugh at your little Lackeys
+Simplicity.
+   Ah Couzen! how this Visit
+troubles me now?
+   No matter, it must go down
+with you.
+
+</dialogue> <head>XXXVIII. DIALOGUE.</head> 
+
+ <head>OF PUPPET SHOWS.</head> <dialogue>
+
+   Where went you yesterday
+in the Afternoon?
+   I went to give my Attendance
+to the Duke of <font>Gloucester</font> .
+   How does he do?
+   He is very well.
+   He always shews a great deal
+of Wit and Liveliness.
+   Did you play with him?
+   Yes, Sir, we play'd a little,
+whilst his Puppet-player was
+getting his Puppets ready.
+<pagebreak id="237" />
+   How! was there a 
+Puppet-Shew?
+   Yes, Sir.
+   Was that very diverting?
+   Was his Highness well
+pleased with it?
+   Extreamly; he fell a
+laughing now and then.
+   What Country-man was the
+Puppet-Player?
+   He was a French-man.
+   How do you know it?
+   Because he spoke broken
+English, and made <font>Punchinello</font> speak
+French most commonly <comment type="compiler">SOURCE TEXT: oommonly</comment> .
+   How could then the lookers on
+understand what he said?
+   The Puppet-players Wife was
+his Interpreter.
+   Was there a great deal of
+company?
+   Yes, Sir.
+   How long did the Shew last?
+   About an hour and a half.
+   At what hour did you take
+your leave of the young Prince?
+   At Eight a Clock.
+   What had you rather to see,
+Puppet Shews or Jugglers.
+   I admire the dexterity of
+Jugling Tricks; but I find, 
+Puppet-Shews more diverting and
+pleasant.
+<pagebreak id="238" />
+</dialogue> <head> <font>XXXIX.</font> DIALOGUE.</head> 
+
+ <head>OF MARRIAGE.</head> 
+
+ <head>BETWEEN A FATHER AND
+HIS DAUGHTER.</head> <dialogue>
+
+   Daughter, your good nature
+and tractableness have
+not little contributed to increase
+that love I ever had for you;
+and seeing you are of an age
+fit to be married, I have cast
+my eyes upon Sir <font>N.--</font> to
+be your husband.
+   How! Father, a Maid of
+my age marry Sir <font>N.--</font>
+   Why not? he is a sober, staid,
+prudent, and wise man, not
+above Fifty, and who is cry'd up
+for his great Estate.
+   Marriage is a business of too
+great consequence, to be so
+quickly resolved upon, and since the
+happiness of my whole life is at
+stake, I beg of you to give me
+some time to think on it.
+<pagebreak id="239" />
+   I know what is good for you
+better than your self, and
+therefore I tell you, that you shall
+marry him to morrow.
+   Since you urge me so far, I
+must tell you my true Sentiments,
+and confess to you, that I'd
+rather throw my self into a
+Nunnery, than to marry <font>S. N.</font> since
+a Marriage cannot be happy where
+there is no inclination.
+   That's a thing, Daughter, which
+may be, will come afterwards;
+and they say, that Love is often
+the fruit of Matrimony.
+   But, Sir, there is a great
+hazard on the womens side
+and I shall never forget what
+I have heard my Grandmother
+say, That a Womans Vertue is
+never so much in danger, as when
+she is marryed to one she does
+not like.
+   Without so many Reasons, I am
+Resolved you shall marry <font>S. N.</font> 
+he is rich, and that must
+satisfy you.
+   And I protest to you, with
+all the Duty and Respect I owe
+you, that I won't be sacrificed
+to Interest, since that great
+unequality of Age, Humour, and
+Sentiments, cannot but render a
+Marriage lyable to many dismal
+accidents.
+<pagebreak id="240" />
+   Did any body ever see a
+Daughter speak so to her Father?
+   But did any body ever see a
+Father marry his Daughter so?
+   'Tis a match which nothing
+can be said against, and I lay
+that every body will approve of
+my choice.
+   And I lay that it cannot be
+approved by any reasonable
+person.
+   Will you yield to your
+Brothers Judgment?
+   I'll yield to no bodys
+Judgment; my heart cannot submit to
+such a Tyranny, and in a word,
+I'll rather marry Death than
+<font>S. N.</font>
+<pagebreak id="241" />
+</dialogue> <head>XL. DIALOGUE.</head> 
+
+ <head>OF COUNTRY 
+DIVERSIONS.</head> <dialogue>
+
+   Sir, I am very glad to see
+you; where do you live
+now?
+   We have been these two months
+at a Country house.
+   Are you come to Town for
+good and all?
+   No, Sir, I go back to
+morrow morning.
+   How do you enjoy your self
+in the Country?
+   How do you pass away the
+time?
+   I bestow part of it upon
+Books.
+   But which are your
+Diversions after your serious
+Occupations?
+   I go sometimes a Hunting.
+   What do you hunt?
+   Sometimes we hunt a Deer,
+and sometimes a Hare.
+   Have you good Dogs?
+   We have a Pack of Hounds?
+<pagebreak id="242" />
+   Two Grey-hound Dogs, two
+Grey hound Bitches, four
+Terriers, and three Setting-dogs.
+   Do you never go a Fowling?
+   Pardon me.
+   What do you shoot at?
+   All manner of Game, as
+Partridges, Pheasants, Wood-cocks,
+Wood-hens, Quails, Thrushes, <font>&amp;c.</font>
+   Do you shoot flying, or
+running?
+   I do both.
+   How do you catch Rabbits?
+   Sometimes with Purse-Netts
+and a Ferret, and sometimes
+we kill them with a Gun.
+   And Quails?
+   Most commonly with a Net
+and a Setting-Dog.
+   Do you also fish sometimes?
+   Very seldom.
+   Why?
+   Because we are a great way
+from the River.
+   But we have a Fish-Pond,
+where we take Carps with a
+Line.
+   What do you do when you
+neither Hunt nor Fish?
+   We Bowl.
+<pagebreak id="243" />
+   Are you a good Bowler?
+   I make a shift to cope with
+another.
+   Have you a good
+Bowling-green? Is it even? Is it well
+kept?
+   It is pretty good. It is none
+of the roughest.
+   Do you sometimes play at
+Billiards?
+   Yes, Sir.
+   Do you not play at
+Nine-Pins too?
+   I do not love much to play
+at Nine-Pins, and I never do
+it but out of Complaisance.
+   As far as I see, your time is
+so well employ'd, that you 
+cannot be tired with being in the
+Country?
+   You think so, and yet 'tis
+quite otherwise: I begin
+already to long to be in Town; so
+true it is, that men grow
+weary of every thing.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

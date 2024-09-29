@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4CCONGR">
+  <dialogueHeader>
+
+    <filename>D4CCONGR</filename>
+
+    <identifier>4 COMEDY D4CCONGR</identifier>
+
+    <title>THE DOUBLE-DEALER</title>
+
+    <author>CONGREVE WILLIAM</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1694</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">CONGREVE, WILLIAM.</attribution>
+      <frontMatter>THE DOUBLE-DEALER, A COMEDY. 
+ACTED AT THE THEATRE ROYAL, BY THEIR MAJESTIES SERVANTS.
+WRITTEN BY MR. CONGREVE.
+(...)
+LONDON, PRINTED FOR JACOB TONSON, AT THE JUDGES-HEAD NEAR THE 
+INNER-TEMPLE-GATE IN FLEET-STREET. 
+1694.
+PP. 1.1 - 31.5
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SQUARE BRACKETS USED IN SOURCE TEXT TO INDICATE ASIDES AND  
+STAGE DIRECTIONS ARE OMITTED.</comment>
+
+<pagebreak id="1" />
+</dialogue> <head>THE DOUBLE-DEALER. 
+A 
+COMEDY.</head> 
+
+ <head>ACT I. SCENE I.</head> 
+
+<nonSpeech> <font>A Gallery in the Ld.</font> Touchwood's <font>House, with
+ Chambers adjoyning</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter</font> Careless, <font>Crossing the Stage, with his Hat, Gloves, and
+Sword in his Hands; as just risen from Table</font> : Mellefont
+<font>following him</font> .</nonSpeech>
+
+   <nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> <font>Ned</font> , <font>Ned</font> , whither so fast? What, turn'd
+flincher! Why, you wo' not leave us?
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Where are the Women? Pox I'm 
+weary of guzling, and begin to think them 
+the better Company.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Then thy Reason staggers, and thou'rt almost
+drunk.
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> No faith, but your Fools grow noisy -- and if a 
+man must endure the noise of words without Sence, I think 
+the Women have the more Musical Voices, and become 
+Nonsence better.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Why, they are at that end of the Gallery; retired 
+to their Tea, and Scandal; according to their Antient
+Custome, after Dinner. -- But I made a pretence of 
+following you, because I had something to say to you
+in private, and I am not like to have many opportunities
+this Evening. 
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> And here's this Cox-Comb most Critically come to
+interrupt you.
+
+</dialogue><nonSpeech> <font>Enter</font> Brisk.</nonSpeech>
+
+   <nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Boys, Boys, Lads, where are you? What do you
+give ground? Mortgage for a Bottle, ha? <font>Careless</font> , this
+is your trick; you're always spoiling Company by 
+leaving it.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> And thou art always spoiling Company by coming
+into 't.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Pooh, ha, ha, ha, I know you envy me. Spite,
+proud spite, by the Gods! and burning envy. -- I'le
+be judged by <font>Mellefont</font> here, who gives and takes  
+Raillery better, you or I. Pox, Man, when I say you spoil 
+Company by leaving it, I mean you leave no body for the 
+Company to Laugh at. I think there I was with you, ha?
+<font>Mellefont</font> .
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> O' my word, <font>Brisk</font> , that was a home thrust; you
+have silenc'd him.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Oh, my dear <font>Mellefont</font> , let me perish, if    
+thou art
+not the Soul of Conversation, the very Essence of Wit, 
+and Spirit of Wine, -- the Deuce take me if there were three 
+good things said; or one, understood, since thy 
+Amputation from the body of our Society. -- He, I think that's
+pretty and Metaphorical enough: I' Gad I could not have 
+said it out of thy Company. -- <font>Careless</font> , ha?
+<pagebreak id="3" />
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Hum, ay, what is't?
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> O, <font> <foreign>Mon Coeur</foreign> </font> ! What is't! nay gad I'll 
+punish 
+you for want of Apprehension: The Deuce take me if I
+tell you.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> No, no, hang him, he has no tast, -- but dear      
+<font>Brisk</font>
+excuse me, I have a little business.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Prithee get thee gone; thou seest we are 
+serious.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> We'll come immediately, if you'll but go in, and   
+keep
+up good Humour and Sense in the Company, prithee do,
+they'll fall asleep else.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> I'gad so they will -- well I will, I will, Gad
+you shall Command me from the <font>Zenith</font> to the <font>Nadir</font> . -- 
+But the Deuce take me if I say a good thing till you come. -- 
+But prithee dear Rogue, make haste, prithee make haste,
+I shall burst else. -- And yonder your Uncle my Lord
+<font>Touchwood</font> swears, he'll Disinherit you, and Sir <font>Paul Pliant</font>
+threatens to disclaim you for a Son-in-Law, and my Lord
+<font>Froth</font> won't Dance at your Wedding to Morrow; nor
+the Deuce take me, I won't Write your Epithalamium -- 
+and see what a condition you're like to be brought 
+to.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Well, I'll speak but three words, and follow you.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Enough, enough, <font>Careless</font> , bring your        
+Apprehension
+along with you. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Pert Cox-Comb.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Faith 'tis a good natur'd Cox-Comb, and has very
+Entertaining follies -- you must be more humane to him; at
+this Juncture it will do me Service. -- I'll tell you, I
+would have mirth continued this day at any rate; tho' 
+Patience purchase folly, and Attention be paid with noise:
+There are times when Sense may be unseasonable, as well as 
+Truth. Prithee do thou wear none to day; but allow
+<font>Brisk</font> to have Wit, that thou may'st seem a Fool.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Why, how now, why this extravagant proposition?
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> O, I would have no room for serious design; for I 
+am Jealous of a Plot. I would have Noise and 
+Impertinence keep my Lady <font>Touchwood's</font> Head from Working: For
+<pagebreak id="4" />
+Hell is not more busie than her Brain, nor contains more 
+Devils, than that Imaginations. 
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> I thought your fear of her had been over -- is not 
+to Morrow appointed for your Marriage with <font>Cynthia</font> , and 
+her Father Sir <font>Paul Plyant</font> , come to settle the Writings, this
+day, on purpose?
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> True, but you shall judge whether I have not reason
+to be allarm'd. None besides you, and <font>Maskwell</font> , are 
+acquainted with the Secret of my Aunt <font>Touchwood's</font> violent Passion 
+for me. Since my first refusal of her Addresses, she has 
+endeavour'd to do me all ill Offices with my Uncle; yet has
+managed 'em with that subtilty, that to him they have born
+the face of kindness; while her Malice, like a Dark 
+Lanthorn, onely shone upon me, where it was directed. Still it
+gave me less perplexity to prevent the success of her 
+displeasure, than to avoid the importunities of her Love; and of
+two evils, I thought my self favour'd in her aversion: But
+whether urged by her despair, and the short prospect of time
+she saw, to accomplish her designs; whether the hopes of her
+revenge, or of her Love, terminated in the view of this my 
+Marriage with <font>Cynthia</font> , I know not; but this Morning she
+surpriz'd me in my Bed. -- 
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Was there ever such a Fury! 'tis well Nature has  
+not
+put into her Sexes power to Ravish. -- Well, bless us!
+Proceed. What follow'd? 
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> What at first amaz'd me; for I look'd to have seen 
+her
+in all the Transports of a slighted and revengful Woman:
+But when I expected Thunder from her Voice, and Lightning
+in her Eyes; I saw her melted into Tears, and hush'd into
+a Sigh. It was long before either of us spoke, Passion had 
+ty'd her Tongue, and Amazement mine. -- In short, the 
+Consequence was thus, she omitted nothing, that the most
+violent Love could urge, or tender words express; which
+when she saw had no effect: but still I pleaded Honour and 
+nearness of Blood to my Uncle; then came the Storm I fear'd
+at first: For starting from my Bed-side like a Fury, she flew
+to my Sword, and with much ado I prevented her doing me
+or her self a mischief: having disarm'd her; in a gust of 
+<pagebreak id="5" />
+Passion she left me, and in a resolution, confirm'd by a Thousand 
+Curses, not to close her Eyes, till she had seen my ruin.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Exquisite Woman! But what the Devil does she
+think, thou hast no more Sense, than to get an Heir upon 
+her Body to Disinherit thy self: for as I take it this 
+Settlement upon you, is, with a Proviso, that your Uncle have no
+Children.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> It is so. Well, the Service that you are to do me,
+will be a Pleasure to your self; I must get you to engage
+my Lady <font>Pliant</font> all this Evening, that my Pious Aunt
+may not work her to her Interest. And if you chance 
+to secure her to your self, you may incline her to mine. 
+She's handsome, and knows it; is very silly, and thinks 
+she has Sense, and has an old fond Husband.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> I confess a very fair Foundation, for a Lover to 
+build upon.    
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> For my Lord <font>Froth</font> , he and his Wife will be
+sufficiently taken up, with admiring one another, and
+<font>Brisk's</font> Gallantry, as they call it. I'le observe my Uncle
+my self; and <font>Jack Maskwell</font> has promised me, to watch
+my Aunt narrowly, and give me notice upon any 
+suspicion. As for Sir <font>Paul</font> , my wise Father-in-Law that is to
+be, my Dear <font>Cynthia</font> has such a share in his Fatherly 
+fondness, he would scarce make her a Moment uneasy, to have
+her happy hereafter.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> So, you have Mann'd your Works: But I wish
+you may not have the weakest Guard, where the 
+Enemy is strongest.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> <font>Maskwell</font> , you mean; prithee why should you    
+suspect
+him?
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Faith I cannot help it, you know I never lik'd
+him; I am a little Superstitious in Physiognomy.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> He has Obligations of Gratitude, to bind him
+to me; his Dependance upon my Uncle is through my 
+means.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Upon your Aunt, you mean.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> My Aunt!
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> I'm mistaken if there be not a Familiarity 
+between them, you do not suspect: For all her Passion for 
+you.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Pooh, pooh, nothing in the World but his 
+design to do me Service; and he endeavours to be well
+in her esteem, that he may be able to effect it.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Well, I shall be glad to be mistaken; but, your
+Aunts Aversion in her Revenge, cannot be any way so
+effectually shown, as in bringing forth a Child to 
+Disinherit you. She is Handsome and cunning, and naturally
+wanton. <font>Maskwell</font> is Flesh and Blood at best, and 
+opportunities between them are frequent. His Affection to 
+you, you have confessed, is grounded upon his Interest,
+that, you have transplanted; and should it take Root 
+in my Lady, I don't see what you can expect from the 
+Fruit.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> I confess the Consequence is visible, were your 
+suspicions just, -- but see the Company is broke up, let's
+meet 'em.
+
+</dialogue><nonSpeech> <font>Enter Lord</font> Touchwood, <font>Lord</font> Froth, <font>Sir</font> Paul Pliant,
+<font>and</font> Brisk.</nonSpeech>
+
+   <nonSpeech>Ld. <font>Touch.</font> </nonSpeech><dialogue> Out upon't, Nephew -- leave your 
+Father-in-Law, and me, to maintain our ground against Young
+People.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> I beg your Lordships Pardon. -- We were just 
+returning. -- 
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Were you, Son? Gadsbud much better as it 
+is -- good, strange! I swear I'm almost Tipsy -- 
+t'other Bottle would have been too powerful for me, -- 
+as sure as can be it would. -- we wanted your 
+Company, but Mr. <font>Brisk</font> -- where is he? I swear and
+vow, he's a most facetious Person -- and the best 
+Company. -- And, my Lord <font>Froth</font> , your Lordship is so
+merry a Man, he, he, he.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> O foy, Sir <font>Paul</font> , what do you mean? Merry!
+O Barbarous! I'd as lieve you call'd me Fool.
+<pagebreak id="7" />
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Nay, I protest and vow now, 'tis true; when
+Mr. <font>Brisk</font> Jokes, your Lordships Laugh does so become you,
+he, he, he.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> Ridiculous! Sir <font>Paul</font> you're strangely     
+mistaken,
+I find Champagne is powerful. I assure you, Sir <font>Paul</font> , I Laugh
+at no bodies Jest but my own, or a Ladies; I assure you, Sir 
+<font>Paul</font> .
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> How? how, my Lord? What, affront my Wit! Let 
+me perish, do I never say any thing worthy to be Laugh'd
+at?
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> O foy, don't misapprehend me, I don't say so, 
+for
+I often smile at your Conceptions. But there is nothing more
+unbecoming a Man of Quality, than to Laugh; Jesu, 'tis 
+such a Vulgar Expression of the Passion! every body can
+Laugh. Then especially to Laugh at the Jest of an Inferiour
+Person, or when any body else of the same Quality does
+not Laugh with him. Ridiculous! To be pleased with
+what pleases the Croud! Now when I Laugh, I always
+Laugh alone.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> I suppose that's because you Laugh at your own   
+Jests,
+I'gad, ha, ha, ha.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> He, he, I swear tho', your Raillery provokes
+me to a smile.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Ay, my Lord, it's a sign I hit you in the Teeth, 
+if
+you show 'em.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> He, he, he, I swear that's so very pretty , I 
+can't 
+forbear.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> I find a Quibble bears more sway in your Lordships
+Face, than a Jest.
+   </dialogue><nonSpeech>Ld. <font>Touch.</font> </nonSpeech><dialogue> Sir <font>Paul</font> , if you please we'll retire to  
+the 
+Ladys, and Drink a Dish of Tea, to settle our Heads.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> With all my heart. -- Mr. <font>Brisk</font> you'll come
+to us, -- or call me when you're going to Joke, I'll be ready 
+to Laugh incontinently.
+</dialogue><nonSpeech> <font>Exit Ld.</font> Touch. <font>and Sir</font> Paul.</nonSpeech>
+   <nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> But does your Lordship never see Comedies?
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> O yes, sometimes, -- but I never Laugh.
+<pagebreak id="8" />
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> No?
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> Oh, no. -- Never Laugh indeed, Sir.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> No, why what d'ee go there for?
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> To distinguish my self from the 
+Commonalty, and mortify the Poets; the Fellows grow so
+Conceited, when any of their foolish Wit prevails 
+upon the side Boxes. -- I swear, -- he, he, he,
+I have often constrained my Inclinations to Laugh. -- 
+He, he, he, to avoid giving them encouragement.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> You are Cruel to your self, my Lord, as well as
+Malicious to them.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> I confess, I did my self some violence at     
+first,
+but now I think I have Conquer'd it.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Let me perish, my Lord, but there is something   
+very 
+particular and novel in the Humour; 'tis true, it makes
+against Wit, and I'm sorry for some Friends of mine that
+Write, but -- I'gad, I love to be malicious. -- Nay,
+Deuce take me, there's Wit in't too -- and Wit must be
+foil'd by Wit; cut a Diamond with a Diamond; no other
+way, I'gad.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> Oh, I thought you would not be long, before 
+you found out the Wit.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Wit! In what? Where the Devil's the Wit, in not
+Laughing when a Man has a mind to't.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> O Lord, why can't you find it out? -- Why
+there 'tis, in the not Laughing -- don't you Apprehend
+me? -- My Lord, <font>Careless</font> , is a very honest Fellow, but
+harkee, -- you understand me. Somewhat heavy, a 
+little shallow, or so. -- Why I'll tell you now, suppose
+now, you come up to me -- nay, prithee <font>Careless</font> be 
+instructed. Suppose, as I was saying, you come up to me, holding
+your sides, and Laughing as if you would bepiss your self -- 
+I look grave, and ask the cause of this Immoderate Mirth. -- 
+You Laugh on still, and are not able to tell me -- still I look
+grave, not so much as smile. -- 
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Smile, no, what the Devil should you smile at, when
+you suppose I can't tell you?
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Pshaw, pshaw, prithee don't interrupt me. -- But
+I tell you, you shall tell me -- at last. -- But it shall be
+a great while first.
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Well, but prithee don't let it be a great while,  
+because
+I long to have it over.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Well then, you tell me, some good Jest, or very
+Witty thing, Laughing all the while as if you were 
+ready to die -- and I hear it, and look thus. -- Would not
+you be disappointed?
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> No; for if it were a witty thing, I should not 
+expect you to understand it.  
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> O foy, Mr. <font>Careless</font> , all the World allow 
+Mr.
+<font>Brisk</font> to have Wit; my Wife says, he has a great deal. I hope
+you think her a Judge?
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Pooh, my Lord, his Voice goes for nothing. -- 
+I can't tell how to make him Apprehend, -- take
+it t'other way. Suppose I say a witty thing to you?
+   </dialogue><nonSpeech> <font>Care.</font> </nonSpeech><dialogue> Then I shall be disappointed indeed.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Let him alone, <font>Brisk</font> , he is obstinately bent  
+not to
+be instructed.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> I'm sorry for him, Deuce take me.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Shall we go to the Ladies, my Lord?
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> With all my heart, methinks we are a 
+Solitude without 'em.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Or, what say you, to another Bottle of 
+Champaign?
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> O, for the Universe, not a drop more I
+beseech you, O Intemperate! I have a flushing in my Face
+already.
+</dialogue><nonSpeech> <font>Takes out a Pocket-Glass, and looks in it.</font> </nonSpeech>
+   <nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Let me see, let me see, my Lord, I broke my Glass 
+that was in the Lid of my Snuff-Box. Hum! Deuce take
+me, I have encourag'd a Pimple here too.
+</dialogue><nonSpeech> <font>Takes the Glass and looks.</font> </nonSpeech>
+   <nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> Then you must mortifie him, with a Patch; my
+Wife shall supply you. Come, Gentlemen, <font> <foreign>allons</foreign> </font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<pagebreak id="10" />
+<nonSpeech> <font>Enter Lady</font> Touchwood, <font>and</font> Maskwell.</nonSpeech>
+
+   <nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> I'll hear no more. -- Y' are False and 
+Ungrateful; come, I know you false.
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> I have been frail, I confess, Madam, for your 
+Ladyships Service.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> That I should trust a Man, whom I had known
+betray his Friend!
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> What Friend have I betray'd? Or to Whom?
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Your fond Friend <font>Mellefont</font> , and to me; can 
+you deny it?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> I do not.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Have you not wrong'd my Lord, who has
+been a Father to you in your wants, and given you being?
+have you not wrong'd him in the highest manner, in his
+Bed?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> With your Ladyships help, and for your Service, as I
+told you before. I can't deny that neither. -- Any thing 
+more, Madam?
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> More! Audacious Villain. O what's more, is 
+most my Shame, -- have you not Dishonoured 
+me?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> No, that I deny; for I never told in all my
+Life: So that Accusation's Answer'd; on to the next.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Death, do you dally with my Passion? Insolent
+Devil! But have a care, -- provoke me not; For, by
+the Eternal Fire, you shall not scape my Vengance. -- 
+Calm Villain! How unconcern'd he stands, Confessing
+Treachery and Ingratitude! Is there Vice more black! --
+O I have Excuses, Thousands for my Faults; Fire in my
+Temper, Passions in my Soul apt to every provocation; oppressed
+at once with Love, and with Despair. But a sedate, a
+thinking Villain, whose Black Blood runs temperately bad,
+what excuse can clear? one, who is no more moved with 
+the reflection of his Crimes, than of his Face; but walks
+unstartled from the Mirrour, and streight forgets the hideous
+form.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Will you be in Temper, Madam? I would not talk,
+not to be heard. I have been </dialogue><nonSpeech> <font>She Walks about Disorder'd.</font> </nonSpeech><dialogue>
+a very great Rogue for your sake, and you reproach me
+with it; I am ready to be a Rogue still, to do you Service;
+and you are flinging Conscience and Honour in my Face, to
+rebate my Inclinations. How am I to behave my self? You
+know I am your Creature, my Life and Fortune in your
+power; to disoblige you, brings me certain Ruin. Allow
+it, I would betray you, I would not be a Traytor to my
+self: I don't pretend to Honesty, because you know I am a 
+Rascal: But I would convince you, from the necessity of my
+being firm with you.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Necessity, Impudence! Can no Gratitude 
+incline you, no Obligations touch you? Have not my
+Fortune, and my Person, been subjected to your 
+Pleasure? Were you not in the nature of a Servant, and
+have not I in effect made you Lord of all, of me,
+and of my Lord? Where is that humble Love, the
+Languishing, that Adoration, which once was paid me,
+and everlastingly engaged?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Fix'd, Rooted in my Heart, whence nothing can 
+remove 'em, yet you. -- 
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Yet, what yet?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Nay, Misconceive me not, Madam, when I say
+I have had a Generous, and a Faithful Passion, which
+you had never favour'd, but through Revenge and 
+Policy.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Ha!
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Look you, Madam, we are alone, -- pray 
+contain your self, and hear me. You know you Lov'd 
+your Nephew, when I first Sigh'd for you; I quickly
+found it, an Argument that I Lov'd; for with that
+Art you veil'd your Passion, 'twas imperceptible to all
+but Jealous Eyes. This discovery made me bold; I
+confess it; for by it, I thought you in my Power.
+Your Nephew's Scorn of you, added to my hopes; I
+watch'd the Occasion, and took you, just Repulsed by
+him, warm at once with Love and Indignation; your
+<pagebreak id="12" />
+Disposition, my Arguments, and happy Opportunity, 
+accomplish'd my Design; I prest the yielding Minute, and
+was blest. How, I have Lov'd you since, Words have 
+not shown, then how should Words express.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Well, mollifying Devil! -- And have I not
+met your Love with forward Fire?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Your Zeal I grant was Ardent, but misplac'd;
+there was Revenge in view; that Womans Idol had
+defil'd the Temple of the God, and Love was made a 
+Mock-Worship, -- a Son and Heir, would have edg'd
+Young <font>Mellefont</font> upon the brink of Ruin, and left him
+nought but you to catch at for Prevention.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> Again, provoke me! Do you wind me like a
+Larum, only to rouse my own still'd Soul for your 
+Diversion? Confusion!
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Na, Madam, I'm gone, if you Relapse, -- what
+needs this? I say nothing but what your self, in open
+hours of Love, have told me. Why should you deny it?
+Nay, how can you? Is not all this present Heat owing
+to the same Fire? Do you not Love him still? How have 
+I this day Offended you, but in not breaking off his Match 
+with <font>Cynthia</font> ? Which e're to Morrow shall be done, -- 
+had you but Patience.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> How, what said you <font>Maskwell</font> -- another
+Caprice, to unwind my temper.
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> By heaven, no; I am your Slave, the Slave of all
+your Pleasures; and will not rest till I have given you peace,
+would you suffer me.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> O' <font>Maskwell</font> , in Vain I do disguise me    
+from thee,
+thou know'st me, know'st the very inmost Windings and
+Recesses of my Soul. -- Oh <font>Mellefont</font> ! I burn; Married
+to Morrow! Despair strikes me. Yet my Soul knows I hate
+him too: Let him but once be mine, and next immediate
+Ruin seize him.
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Compose your self, You shall Enjoy and Ruin him 
+too, -- Will that please you?
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> How, how? Thou Dear, thou precious Villain,
+how?
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> You have already been tampering with my Lady
+<font>Plyant</font> ?
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> I have: She is ready for any Impression I think
+fit.
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> She must be throughly perswaded, that <font>Mellefont</font>
+Loves her.
+   </dialogue><nonSpeech> <font>L. Touch.</font> </nonSpeech><dialogue> She is so Credulous that way naturally,
+and likes him so well, that she will believe it faster
+than I can perswade her. But I don't see what you 
+can propose from such a trifling design; for her first
+Conversing with <font>Mellefont</font> , will convince her of the
+contrary.
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> I know it. -- I don't depend upon it. -- 
+But it will prepare some thing else; and gain us leasure
+to lay a stronger Plot: if I gain a little time, I shall 
+not want Contrivance.
+
+<comment type="compiler">TWO-LINE VERSE OMITTED.</comment>
+
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+<nonSpeech>End of the first Act.</nonSpeech>
+<pagebreak id="14" />
+ <head>ACT II. SCENE I.</head> 
+
+<nonSpeech> <font>Enter Lady</font> Froth <font>and</font> Cynthia.</nonSpeech>
+
+   <nonSpeech> <font>Cynthia.</font> </nonSpeech><dialogue> Indeed, Madam! Is it Possible your Ladyship 
+could have been so much in Love?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> I could not sleep; I did not sleep one wink for
+Three Weeks together.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Prodigious! I wonder, want of sleep, and so much 
+Love, and so much Wit as your Ladyship has, did not turn
+your Brain.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O my Dear <font>Cynthia</font> , you must not rally your
+Friend, -- but really, as you say, I wonder too, -- 
+but then I had a way. -- For between you and
+I, I had Whymsies and Vapours, but I gave them 
+vent.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> How pray, Madam?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O I Writ, Writ abundantly, -- do you
+never Write?
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Write, what?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Songs, Elegies, Satyrs, Encomiums, 
+Panegyricks, Lampoons, Plays, or Heroick Poems.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> O Lord, not I, Madam; I'm content to be a 
+Courteous Reader.
+   </dialogue><nonSpeech>L. <font>Froth.</font> </nonSpeech><dialogue> O Inconsistent! In Love, and not Write!
+if my Lord and I had been both of your Temper,
+we had never come together, -- O bless me! What
+a sad thing would that have been, if my Lord and I
+should never have met!
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Then neither my Lord and you would ever have
+met with your Match, on my Conscience.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O' my Conscience no more we should; thou
+say'st right -- for sure my Lord <font>Froth</font> is as fine a 
+Gentleman, and as much a Man of Quality! Ah! Nothing at
+<pagebreak id="15" />
+all of the Common Air, -- I think I may say he
+wants nothing, but a Blue Ribbon and a Star, to make
+him Shine, the very Phosphorus of our Hemisphere. Do
+you understand those Two hard Words? If you don't,
+I'll explain 'em to you.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Yes, yes, Madam, I'm not so Ignorant. -- 
+At least I won't own it, to be troubled with your 
+Instructions. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Nay, I beg your Pardon; but being 
+Derived from the <font>Greek</font> , I thought you might have escap'd the
+Etymology. -- But I'm the more amazed, to find 
+you a Woman of Letters, and not Write! Bless me!
+how can <font>Mellefont</font> believe you Love him?
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Why Faith, Madam, he that won't take my Word,
+shall never have it under my Hand.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> I Vow <font>Mellefont's</font> a pretty Gentleman, but
+Methinks he wants a Manner.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> A Manner! what's that, Madam?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Some distinguishing Quality, as for example,  
+the
+<font> <foreign>Belle-air</foreign> </font> or <font> <foreign>Brillant</foreign> </font> of Mr. <font>Brisk</font> ; the     
+Solemnity, yet
+Complaisance of my Lord, or something of his own, that should 
+look a little <font> <foreign>Jene-scay quoysh</foreign> </font> ; he is too much a          
+Mediocrity,
+in my mind.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> He does not indeed affect either pertness, or 
+formality; for which I like him: Here he comes.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> And my Lord with him: pray observe the 
+difference.
+
+</dialogue><nonSpeech> <font>Enter Lord</font> Froth, Mellefont, Brisk.</nonSpeech>
+
+   <nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Impertinent Creature, I could almost be angry 
+with her now. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> My Lord, I have been telling my dear          
+<font>Cynthia</font> ,
+how much I have been in Love with you; I swear I have;
+I'm not asham'd to own it now; ah! it makes my heart
+leap, I vow I sigh when I think on't: my dear Lord! ha,
+ha, ha, do you remember, my Lord? </dialogue><nonSpeech> <font>Squeezes him by
+the hand, looks kindly on him, sighs, and then laughs out.</font> </nonSpeech>
+<pagebreak id="16" />
+   <nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> Pleasant Creature! perfectly well, ah! that 
+look, ay, there it is; who could resist! 'twas so my heart
+was made a Captive first, and ever since 't has been in 
+Love with happy Slavery.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O that Tongue, that dear deceitful Tongue!
+that Charming Softness in your Mien and your Expression,
+and then your Bow! Good my Lord, bow as you did
+when I gave you my Picture, here suppose this my 
+Picture -- </dialogue><nonSpeech> <font>Gives him a Pocket-glass.</font> </nonSpeech><dialogue>
+Pray mind, my Lord; ah! he bows Charmingly; nay, my
+Lord, you sha'n't kiss it so much; I shall grow jealous, I
+vow now. </dialogue><nonSpeech> <font>He bows profoundly low, then kisses the Glass.</font> </nonSpeech>
+   <nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> I saw my self there, and kissed it for your
+sake.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Ah! Gallantry to the last degree -- Mr.       
+<font>Brisk</font> ,
+you're a Judge; was ever any thing so well-bred as my
+Lord?
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Never any thing; but your Ladyship, let me
+perish.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O prettily turn'd again; let me die, but you 
+have a great deal of Wit: Mr. <font>Mellefont</font> , don't you think
+Mr. <font>Brisk</font> has a World of Wit?
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> O, yes, Madam.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> O Lord, Madam -- 
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> An infinite deal!
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> O Jesu, Madam -- 
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> More Wit than any Body.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> I'm everlastingly your humble Servant, Deuce take
+me, Madam.
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> Don't you think us a happy Couple?
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> I vow, my Lord, I think you the happiest
+Couple in the World, for you are not only happy in one
+another, and when you are together, but happy in your selves,
+and by your selves.
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> I hope <font>Mellefont</font> will make a good Husband
+too.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> 'Tis my Interest to believe he will, my Lord.
+<pagebreak id="17" />
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> D'e think he'll Love you as well as I do my
+Wife? I'm afraid not.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> I believe he'll Love me better.
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> Heavens! that can never be; but why do you
+think so?
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Because he has not so much reason to be fond of   
+himself.
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> O your humble Servant for that, dear Madam;
+well, <font>Mellefont</font> , you'll be a happy Creature.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Ay, my Lord, I shall have the same reason for my
+happiness that your Lordship has, I shall think my self happy.
+   </dialogue><nonSpeech> <font>Ld. Froth.</font> </nonSpeech><dialogue> Ah, that's all.
+   </dialogue><nonSpeech> <font>Brisk.</font> ( <font>to Lady</font> Froth) </nonSpeech><dialogue> Your Ladyship is in the     
+right; but
+I'gad I'm wholly turn'd into Satyr. I confess I Write but
+seldom, but when I do -- keen <font>Iambicks</font> I'gad. But my
+Lord was telling me, your Ladyship has made an Essay toward
+an Heroick Poem.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Did my Lord tell you? Yes I vow, and the      
+Subject
+is my Lord's Love to me. And what do you think I call it?
+I dare Swear you won't guesse -- <font>The Sillibub</font> , ha, ha, ha.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> Because my Lord's Title's <font>Froth</font> , I'gad, ha, 
+ha, ha,
+Deuce take me very <font> <foreign>a Propos</foreign> </font> and Surprizing, ha, ha, ha.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> He, Ay, is not it? -- and then I call my Lord
+<font>Spumoso</font> ; and my self, what d'e think I call my self?
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> <font>Lactilla</font> may be, -- 'gad I cannot tell.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> <font>Biddy</font> , that's all; just my own Name.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> <font>Biddy!</font> I'gad very pretty -- Deuce take me if
+your Ladyship has not the Art of Surprizing the most
+Naturally in the World, -- I hope you'll make me happy
+in Communicating the Poem.
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O, you must be my Confident, I must ask 
+your Advice.
+   </dialogue><nonSpeech> <font>Brisk.</font> </nonSpeech><dialogue> I'm your Humble Servant, let me perish -- I
+presume your Ladyship has Read <font>Bossu</font> ?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> O yes, and <font>Rapine</font> , and <font>Dacier</font> upon   
+<font>Aristotle</font>
+and <font>Horace</font> . -- My Lord you must not be Jealous, I'm
+Communicating all to Mr. <font>Brisk</font> .
+   </dialogue><nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> No, no, I'll allow Mr. <font>Brisk</font> ; have you
+nothing about you to shew him, my Dear?
+   </dialogue><nonSpeech> <font>L. Froth.</font> </nonSpeech><dialogue> Yes, I believe I have. -- Mr. <font>Brisk</font> , come
+<pagebreak id="18" />
+will you go into the next Room? and there I'll shew you all
+I have. </dialogue><nonSpeech> <font>Exit</font> L. Froth <font>and</font> Brisk.</nonSpeech>
+   <nonSpeech>Ld. <font>Froth.</font> </nonSpeech><dialogue> I'll walk a turn in the Garden, and come to 
+you. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> You're thoughtful, <font>Cynthia</font> ?
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> I'm thinking, that tho' Marriage makes Man and
+Wife One Flesh, it leaves 'em still Two Fools; and they
+become more Conspicuous by setting off one another.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> That's only when Two Fools meet, and their follies
+are oppos'd.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Nay, I have known Two Wits meet, and by the
+opposition of their Wits, render themselves as ridiculous
+as Fools. 'Tis an odd Game we're going to Play at:
+What think you of drawing Stakes, and giving over in time?
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> No, hang't, that's not endeavouring to Win,
+because it's possible we may lose; since we have Shuffled
+and Cutt, let's e'en turn up Trump now.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Then I find its like Cards, if either of us have a
+good Hand, it is an Accident of Fortune.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> No, Marriage is rather like a Game at Bowls, 
+Fortune indeed makes the match, and the Two nearest, and
+sometimes the Two farthest are together, but the Game 
+depends entirely upon Judgment.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Still it is a Game, and Consequently one of us must
+be a Loser.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Not at all; only a Friendly Tryal of Skill, and the
+Winnings to be Shared between us. -- What's here, the
+Musick! -- Oh, my Lord has promised the Company a 
+New Song, we'll get 'em to give it us by the way.
+</dialogue><nonSpeech> <font>Musicians crossing the Stage.</font> </nonSpeech><dialogue>
+Pray let us have the Favour of you, to practice the Song,
+before the Company hear it.
+
+<comment type="compiler">PART I OF SONG OMITTED.</comment>
+<pagebreak id="19" />
+<comment type="compiler">PART II OF SONG OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Mal.</font> </comment> You shall have my       
+thanks below.
+</dialogue><nonSpeech> <font>To the Musick, they go out.</font> </nonSpeech>
+<nonSpeech> <font>Enter Sir</font> Paul Plyant <font>and Lady</font> Plyant.</nonSpeech>
+   <nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Gads bud! I am provoked into a Fermentation,
+as my Lady <font>Froth</font> says; was ever the like read of in Story?
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Sir <font>Paul</font> have patience, let me alone to rattle 
+him up.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Pray your Ladyship give me leave to be Angry -- 
+I'll rattle him up I Warrant you, I'll firk him with a               
+<font> <foreign>Certiorari</foreign> </font> .
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> You firk him, I'll firk him my self; pray Sir      
+<font>Paul</font>
+hold you Contented.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Bless me, what makes my Father in such a Passion! 
+-- 
+I never saw him thus before.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Hold your self Contented, my Lady <font>Plyant</font> , 
+-- I
+find Passion coming upon me by inspiration, and I cannot 
+submit as formerly, therefore give way.
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> How now! will you be pleased to retire, and -- 
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> No marry will I not be pleased, I am pleased   
+to be
+angry, that's my pleasure at this time.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> What can this mean!
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Gads my life, the man's Distracted, why how now,
+who are you? What am I? 'Slidikins can't I govern you?
+What did I Marry you for? Am I not to be absolute and
+uncontroulable? Is it fit a Woman of my Spirit, and Conduct, should
+be contradicted in a matter of this Concern?
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> It concerns me, and only me; -- besides, I'm   
+not to
+be govern'd at all times. When I am in Tranquility, my Lady
+<font>Plyant</font> shall Command Sir <font>Paul</font> ; but when I am provoked to
+fury, I cannot incorporate with Patience and Reason, -- as soon
+may Tygers Match with Tygers, Lambs with Lambs,
+and every Creature couple with its Foe, as the Poet says. -- 
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> He's hot-headed still! 'Tis in vain to talk to you;
+but remember I have a Curtain-Lecture for you, you 
+disobedient, headstrong Brute.
+<pagebreak id="20" />
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> No, 'tis because I won't be headstrong,        
+because I
+won't be a Brute, and have my Head fortifi'd, that I am thus 
+exasperated, -- but I will protect my Honour, and yonder is the
+Violater of my Fame.
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> 'Tis my Honour that is concern'd, and the violation
+was intended to me. Your Honour! You have none, but
+what is in my keeping, and I can dispose of it when I please -- 
+therefore don't provoke me.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Hum, gads bud she says true, -- well, my Lady,
+March on, I will fight under you then: I am convinced, as far
+as Passion will permit.
+</dialogue><nonSpeech> <font>L.</font> Plyant <font>and Sir</font> Paul <font>come up to</font> Mellefont.</nonSpeech>
+   <nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Inhuman and Treacherous.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Thou Serpent and first Tempter of Womankind. -- 
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Bless me! Sir; Madam; what mean you?
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> <font>Thy, Thy</font> ,  come away <font>Thy</font> , touch him  
+not, come
+hither Girl, go not near him, there's nothing but deceit about
+him; Snakes are in his Peruke, and the Crocodile of <font>Nilus</font> in
+his Belly, he will eat thee up alive.
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Dishonourable, impudent Creature!
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> For Heaven's sake, Madam, to whom do you direct this
+Language!
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Have I behaved my self with all the decorum, and
+nicety, befitting the Person of Sir <font>Paul's</font> Wife? Have I
+preserved my Honour as it were in a Snow-House for this three year
+past? Have I been white and unsulli'd even by Sir <font>Paul</font> himself?
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Nay, she has been an impenetrable Wife, even to
+me, that's the truth on't.
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Have I, I say, preserv'd my self, like a fair      
+Sheet of 
+Paper, for you to make a Blot upon --
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> And she shall make a Simile with any Woman in
+<font>England</font> .
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> I am so amazed, I know not what to speak.
+   </dialogue><nonSpeech>Sir <font>Paul.</font> </nonSpeech><dialogue> Do you think my Daughter, this pretty Creature;
+gads bud she's a Wife for a Cherubin! Do you think her fit for 
+nothing but to be a Stalking-Horse, to stand before you, while
+you take aim at my Wife? Gads bud I was never angry before
+in my Life, and I'll never be appeased again.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Hell and Damnation! this is my Aunt; such malice
+can be engendred no where else. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+<pagebreak id="21" />
+   <nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Sir <font>Paul</font> , take <font>Cynthia</font> from his sight;    
+leave me to
+strike him with the remorse of his intended Crime.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> Pray, Sir, stay, hear him, I dare affirm he's     
+innocent.
+   </dialogue><nonSpeech>Sir <font>P.</font> </nonSpeech><dialogue> Innocent! why heark'ee, come hither <font>Thy</font> ,     
+heark'ee,
+I had it from his Aunt, my Sister <font>Touchwood</font> , -- gadsbud
+he does not care a Farthing for any thing of thee, but thy
+Portion, why he's in Love with my Wife; he would have
+tantalized thee, and made a Cuckold of thy poor Father, -- 
+and that would certainly have broke my Heart -- I'm sure
+if ever I should have Horns, they would kill me; they would
+never come kindly, I should dye of 'em, like any Child, that
+were cutting his Teeth -- I should, indeed, <font>Thy</font> -- therefore
+come away; but providence has prevented all, therefore
+come away, when I bid you.
+   </dialogue><nonSpeech> <font>Cynt.</font> </nonSpeech><dialogue> I must obey. </dialogue><nonSpeech> <font>Ex.</font> <font>Sir</font> Paul <font>and</font>      
+Cynthia.</nonSpeech>
+   <nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> O, such a thing! the Impiety of it startles me -- 
+to wrong so good, so fair a Creature, and one that lov'd you 
+tenderly -- 'tis a barbarity of barbarities, and nothing could 
+be guilty of it --
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> But the greatest Villain imagination can form, I
+grant it; and next to the Villany of such a fact, is the 
+Villany of aspersing me with the guilt. How? which way was
+I to wrong her? for yet I understand you not.
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Why, gads my life, Cousin <font>Mellefont</font> , you cannot
+be so peremptory as to deny it; when I tax you with it to
+your face; for now Sir <font>Paul's</font> gone, you are <font> <foreign>Corum            
+Nobus</foreign> </font> .
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> By Heaven, I love her more than life, or -- 
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Fiddle, faddle, don't tell me of this and that, and
+every thing in the World, but give me Mathemacular
+Demonstration, answer me directly -- but I have not 
+patience -- oh! the Impiety of it, as I was saying, and the 
+unparallell'd wickedness! O merciful Father! how could you
+think to reverse Nature so, to make the Daughter the means
+of procuring the Mother?
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> The Daughter procure the Mother!
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Ay, for tho' I am not <font>Cynthia's</font> own Mother, I am
+her Father's Wife; and that's near enough to make it Incest.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Incest! O my precious Aunt, and the Devil in 
+Conjunction. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+<pagebreak id="22" />
+   <nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> O reflect upon the horror of that, and then the
+guilt of deceiving every body; Marrying the Daughter, 
+only to make a Cuckold of the Father; and then seducing
+me, debauching my purity, and perverting me from the
+road of Virtue, in which I have trod thus long, and never
+made one Trip, not one <font> <foreign>faux pas</foreign> </font> ; O consider it, what would
+you have to answer for, if you should provoke me to
+frailty? Alas! Humanity is feeble, Heaven knows! very feeble, 
+and unable to support it self.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Where am I? sure, is it day? and am I awake,
+Madam? --
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> And no body knows how Circumstances may 
+happen together, -- to my thinking, now I could resist
+the strongest Temptation, -- but yet I know, 'tis 
+impossible for me to know whether I could or no, there is no
+certainty in the things of this life.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Madam, pray give me leave to ask you one
+question. -- 
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> O Lord, ask me the question, I'll swear I'll       
+refuse it:
+I swear I'll deny it, -- therefore don't ask me, nay you
+shan't ask me, I swear I'll deny it. O Gemini, you have 
+brought all the Blood into my face; I warrant, I am as red
+as a Turky-Cock; O fie, Cousin <font>Mellefont</font> !
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Nay, Madam, hear me; I mean -- 
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Hear you, no, no; I'll deny you first, and hear you
+afterwards: For one does not know how ones mind may
+change upon hearing -- hearing is one of the Senses, and
+all the Senses are fallible; I won't trust my Honour, I assure
+you; my Honour is infallible and uncomatible.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> For Heaven's sake, Madam. --
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> O name it no more -- bless me, how can you talk
+of Heaven! and have so much wickedness in your Heart?
+May be you don't think it a sin, -- they say some of you
+Gentlemen don't think it a sin, -- may be it is no sin to
+them that don't think it so; -- indeed, if I did not think it
+a sin, -- but still my honour, if it were no sin, -- but then,
+to Marry my Daughter, for the Conveniency of frequent
+Opportunities, -- I'll never consent to that, as sure as can
+be, I'll break the Match.
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Death and amazement, -- Madam, upon my knees. -- 
+   </dialogue><nonSpeech>L. <font>P.</font> </nonSpeech><dialogue> Nay, nay, rise up, come you shall see my good
+Nature. I know Love is powerful, and no body can help his 
+passion: 'Tis not your fault; nor I swear it is not mine, --
+how can I help it, if I have Charms? And how can you 
+help it, if you are made a Captive; I swear it's pity it should
+be a fault, -- but my honour -- well, but your honour 
+too -- but the sin! -- well but the necessity -- O Lord,
+here's some body coming, I dare not stay. Well, you must
+consider of your Crime; and strive as much as can be
+against it, -- strive besure -- but don't be melancholly, don't
+despair, -- but never think that I'll grant you any thing; O
+Lord, no; -- but besure you lay aside all thoughts of the 
+Marriage, for tho' I know you don't Love <font>Cynthia</font> , only as a
+blind for your Passion to me; yet it will make me jealous, -- 
+O Lord, what did I say? Jealous! no, no, I can't be jealous,
+for I must not Love you, -- therefore don't hope, -- but don't
+despair neither, -- O, they're coming, I must fly. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Mel.</font> </nonSpeech> <nonSpeech> <font> (after a pause,) </font> </nonSpeech><dialogue> So then, -- spight of 
+my care and
+foresight, I am caught, caught in my security, -- yet this
+was but a shallow artifice, unworthy of my Matchiavilian
+Aunt: There must be more behind, this is but the first flash,
+the priming of her Engine; destruction follows hard, if not
+most presently prevented.
+</dialogue><nonSpeech> <font>Enter</font> Maskwell.</nonSpeech><dialogue>
+<font>Maskwell</font> , welcome, thy presence is a view of Land,
+appearing to my Shipwrack'd hopes: The Witch has rais'd
+the Storm, and her Ministers have done their Work; you
+see the Vessels are parted.
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> I know it; I met Sir <font>Paul</font> towing away         
+<font>Cynthia</font> :
+Come, trouble not your head, I'll joyn you together e're
+to Morrow Morning, or drown between you in the attempt.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> There's comfort in a hand stretch'd out, to one    
+that's 
+sinking; tho' ne'er so far off.
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> No sinking, nor no danger, -- come, cheer up;
+why you don't know, that while I plead for you, your Aunt
+has given me a retaining Fee; -- nay, I am your greatest 
+Enemy, and she does but Journey-Work under me.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Ha! how's this?
+<pagebreak id="24" />
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> What d'e think of my being employ'd in the execution 
+of all her Plots? Ha, ha, ha, by Heaven it's true; I have 
+undertaken to break the Match, I have undertaken to make your 
+Uncle Disinherit you, to get you turn'd out of Doors; and to --
+ha, ha, ha, I can't tell you for Laughing, -- oh she has open'd
+her heart to me, -- I am to turn you a Grazing, and to -- ha,
+ha, ha, Marry <font>Cynthia</font> my self; there's a Plot for you.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Ha! O I see, I see my Rising Sun! Light breaks thro'
+Clouds upon me, and I shall live in Day -- O my <font>Maskwell</font> !
+how shall I thank or praise thee; Thou hast outwitted
+Woman. -- But tell me, how could'st thou thus get into her
+Confidence? -- Ha! How? But was it her Contrivance to perswade
+my Lady <font>Plyant</font> to this extravagant belief?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> It was, and to tell you the truth, I encouraged it 
+for
+your diversion: Tho it made you a little uneasy for the present,
+yet the reflection of it must needs be entertaining, -- I
+warrant she was very Violent at first.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> Ha, ha, ha, I, a very Fury; but I was most afraid of
+her violence at last, -- if you had not come as you did; I don't
+know what she might have attempted.  
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> Ha, ha, ha, I know her temper, -- well, you must
+know then, that all my Contrivances were but Bubbles; till
+at last I pretended to have been long Secretly in Love with 
+<font>Cynthia</font> ; that did my business; that convinced your Aunt,
+I might be trusted; since it was as much my interest as hers
+to break the Match: Then she thought my Jealousie might
+qualifie me to assist her in her Revenge. And, in short, in
+that belief, told me the Secrets of her heart. At length we
+made this agreement, if accomplish her designs <font> (as I told
+you before) </font> she has ingaged to put <font>Cynthia</font> with all her Fortune
+into my Power.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> She is most gracious in her Favour, -- well, and   
+dear
+<font>Jack</font> , how hast thou Contrived?
+   </dialogue><nonSpeech> <font>Mas.</font> </nonSpeech><dialogue> I would not have you stay to hear it now; for I    
+don't
+know, but she may come this way; I am to meet her anon,
+after that I'll tell you the whole matter; be here in this 
+Gallery an hour hence, by that time I imagine our Consultation may
+be over.
+   </dialogue><nonSpeech> <font>Mel.</font> </nonSpeech><dialogue> I will; till then, success attend thee.            
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<pagebreak id="25" />
+   <nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> Till then, Success will attend me; for when I meet
+you, I meet the only Obstacle to my Fortune. <font>Cynthia</font> , let 
+thy Beauty gild my Crimes; and whatsoever I commit
+of Treachery or Deceit, shall be imputed to me as a
+Merit -- Treachery, what Treachery? Love cancels all 
+the Bonds of Friendship, and sets Men right upon their first 
+Foundations.  
+   Duty to Kings, Piety to Parents, Gratitude to Benefactors, and
+Fidelity to Friends, are different and particular Ties: But the
+Name of Rival cuts 'em all asunder, and is a general 
+acquittance -- Rival is equal, and Love like Death an universal
+Leveller of Mankind. Ha! but is there not such a thing as 
+Honesty? Yes, and whosoever has it about him, bears an 
+Enemy in his Breast: For your honest man, as I take it, is 
+that nice, scrupulous, conscientious Person, who will cheat
+no body but himself; such another Coxcomb, as your wise
+man, who is too hard for all the World, and will be made a 
+Fool of by no body, but himself: Ha, ha, ha. Well for
+Wisdom and Honesty, give me Cunning and Hypocrisie; oh
+'tis such a pleasure, to angle for fair-faced Fools! then that
+hungry Gudgeon Credulity, will bite at any thing -- Why,
+let me see, I have the same Face, the same Words and Accents,
+when I speak what I do think; and when I speak what I do
+not think -- the very same -- and dear dissimulation is 
+the only Art, not to be known from Nature. 
+
+<comment type="compiler">FOUR-LINE VERSE OMITTED.</comment>
+
+</dialogue><nonSpeech> <font>The End of the Second</font> ACT.</nonSpeech>
+<pagebreak id="26" />
+ <head>ACT III. SCENE I.</head> 
+
+<nonSpeech> <font>Enter Lord</font> Touchwood, <font>and Lady</font> Touchwood.</nonSpeech>
+
+   <nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> My Lord, can you blame my Brother <font>Plyant</font> , if
+he refuse his Daughter upon this Provocation?
+The Contract's void by this unheard of Impiety.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> I don't believe it true; he has better Principles 
+--  
+Pho, 'tis nonsense. Come, come, I know my Lady <font>Plyant</font> has
+a large Eye, and wou'd centre every thing in her own Circle;
+'tis not the first time she has mistaken Respect for Love, and
+made Sir <font>Paul</font> jealous of the Civility of an undesigning
+person, the better to bespeak his security in her unfeigned
+Pleasures.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> You censure hardly, my Lord; my Sister's Honour
+is very well known.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Yes, I believe I know some that have been
+familiarly acquainted with it. This is a little Trick wrought by
+some pitiful Contriver, envious of my Nephew's Merit.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Nay, my Lord, it may be so, and I hope it will
+be found so: but that will require some time; for in such a 
+Case as this, demonstration is necessary.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> There should have been demonstration of the 
+contrary too, before it had been believ'd -- 
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> So I suppose there was.
+   </dialogue><nonSpeech>Ld. <font>T</font> </nonSpeech><dialogue> How! Where? When?
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> That I can't tell; nay, I don't say there was -- 
+I am willing to believe as favourably of my Nephew as I can.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> I don't know that. </dialogue><nonSpeech> <font>half aside.</font> </nonSpeech>
+   <nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> How? Don't you believe that, say you, my Lord?
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> No, I don't say so -- I confess I am troubled to
+find you so cold in his Defence.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> His Defence! bless me, wou'd you have me
+defend an ill thing?
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> You believe it then?
+<pagebreak id="27" />
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> I don't know; I am very unwilling to speak my
+Thoughts in any thing that may be to my Cousin's 
+disadvantage; besides, I find, my Lord, you are prepared to
+receive an ill impression from any opinion of mine which is
+not consenting with your own: But since I am like to be
+suspected in the end, and 'tis a pain any longer to dissemble:
+I own it to you; in short I do believe it, nay, and can 
+believe any thing worse, if it were laid to his charge -- 
+Don't ask me my Reasons, my Lord, for they are not fit to
+be told you.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> I'm amaz'd, here must be something more than
+ordinary in this. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue> Not fit to be told me, Madam?     
+You
+can have no Interests, wherein I am not concern'd, and 
+consequently the same Reasons ought to be convincing to me,
+which create your satisfaction or disquiet.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> But those which cause my disquiet, I am willing
+to have remote from your hearing. Good my Lord, don't
+press me.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Don't oblige me to press you.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Whatever it was, 'tis past: And that is better to 
+be unknown which cannot be prevented; therefore let me
+beg you rest satisfied --
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> When you have told me, I will -- 
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> You won't.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> By my Life, my Dear, I will.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> What if you can't.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> How? Then I must know, nay I will: No more 
+trifling -- I charge you tell me -- by all our mutual
+Peace to come; upon your Duty --
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Nay, my Lord, you need say no more, to make
+me lay my heart before you, but don't be thus transported;
+compose your self: It is not of Concern, to make you lose
+one minutes temper. 'Tis not indeed, my Dear. Nay, by 
+this kiss you shan't be angry. O Lord, I wish I had not told
+you any thing. Indeed, my Lord, you have frighted me.
+Nay, look pleas'd, I'll tell you.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Well, well.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Nay, but will you be calm -- indeed it's nothing  
+but -- 
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> But what?
+<pagebreak id="28" />
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> But will you promise me not to be angry -- nay
+you must -- not to be angry with <font>Mellefont</font> -- I dare swear 
+he's sorry -- and were it to do again, would not -- 
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Sorry, for what? 'Death you rack me with delay.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Nay, no great matter, only -- well I have your
+promise -- Pho, why nothing, only your Nephew had a
+mind to amuse himself, sometimes with a little Gallantry 
+towards me. Nay, I can't think he meant any thing seriously,
+but methought it look'd odly.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Confusion and Hell, what do I hear!
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Or, may be, he thought he was not enough a-kin
+to me, upon your account, and had a mind to create a 
+nearer relation on his own; a Lover you know, my Lord -- Ha,
+ha, ha. Well but that's all -- now you have it; well
+remember your promise, my Lord, and don't take any notice of
+it to him.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> No, no, no -- Damnation!
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Nay, I swear you must not -- a little harmless
+mirth -- only misplac'd that's all -- but if it were more, 'tis
+over now, and all's well. For my part I have forgot it; and
+so has he, I hope -- for I have not heard any thing from
+him these two days.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> These two days! Is it so fresh? Unnatural Villain!
+'Death I'll have him stripp'd and turn'd naked out of my doors
+this moment, and let him rot and perish, incestuous Brute!
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> O for Heaven's sake, my Lord, you'll ruine me
+if you take such publick notice of it, it will be a Town-talk:
+Consider your own and my Honour -- nay, I told you you
+would not be satisfied when you knew it.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Before I've done, I will be satisfied. Ungrateful
+Monster, how long? --
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Lord, I don't know: I wish my Lips had grown
+together when I told you -- almost a Twelvemonth -- 
+nay, I won't tell you any more, till you are your self. Pray,
+my Lord, don't let the Company see you in this disorder -- 
+Yet, I confess, I can't blame you; for I think I was never so
+surpriz'd in my Life -- Who would have thought my
+Nephew could have so misconstrued my Kindness -- but will
+<pagebreak id="29" />
+you go into your Closet, and recover your Temper. I'll <comment type="compiler">SOURCE      
+TEXT: I'l FOLLOWED BY A SPACE</comment>
+make an excuse of sudden Business to the Company, and
+come to you. Pray, good dear my Lord, let me beg you
+do now: I'll come immediately, and tell you all; will you
+my Lord?
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> I will -- I am mute with wonder.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Well but go now, here's some body coming.
+   </dialogue><nonSpeech>Ld. <font>T.</font> </nonSpeech><dialogue> Well I go -- you won't stay, for I would hear
+more of this. </dialogue><nonSpeech> <font>Exit</font> Ld. <font>Touch.</font> </nonSpeech>
+   <nonSpeech>Ldy. <font>T.</font> </nonSpeech><dialogue> I follow instantly -- So.  
+
+</dialogue><nonSpeech> <font>Enter</font> Maskwell.</nonSpeech> 
+
+   <nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> This was a Master-piece, and did not need my
+help -- tho' I stood ready for a Cue to come in and 
+confirm all, had there been occasion.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Have you seen <font>Mellefont</font> ?
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> I have; and am to meet him here about this
+time.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> How does he bear his Disappointment?
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> Secure in my Assistance, he seem'd not much
+afflicted, but rather laugh'd at the shallow Artifice, which so
+little time must of necessity discover. Yet he is apprehensive
+of some farther design of yours, and has engaged me to
+watch you. I believe he will hardly be able to prevent your
+Plot, yet I would have you use Caution and
+Expedition.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> Expedition indeed; for all we do, must be 
+perform'd in the remaining part of this Evening, and before the
+Company break up; lest my Lord should cool, and have an
+opportunity to talk with him privately -- my Lord must
+not see him again.
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> By no means; therefore you must aggravate my
+Lord's Displeasure to a degree that will admit of no
+Conference with him. -- What think you of mentioning me?
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> How?
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> To my Lord, as having been privy to <font>Mellefont's</font>
+design upon you, but still using my utmost Endeavours to
+<pagebreak id="30" />
+dissuade him: Tho' my Friendship and Love to him has made
+me conceal it; yet you may say, I threatned the next time
+he attempted any thing of that kind, to discover it to my 
+Lord.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> To what end is this?
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> It will confirm my Lord's opinion of my Honour
+and Honesty, and create in him a new Confidence in me,
+which (should this design miscarry) will be necessary to the 
+forming of another Plot that I have in my head -- to cheat
+you, as well as the rest. </dialogue><nonSpeech> <font>aside.</font> </nonSpeech> 
+   <nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> I'll do it -- I'll tell him you hindred him once
+from forcing me.
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> Excellent! your Ladyship has a most improving
+Fancy. You had best go to my Lord, keep him as long as 
+you can in his Closet, and I doubt not but you will mould
+him to what you please; your Guests are so engaged in their
+own Follies and Intrigues, they'll miss neither of you.
+   </dialogue><nonSpeech>Ldy <font>T.</font> </nonSpeech><dialogue> When shall we meet? -- at eight this Evening
+in my Chamber; there rejoice at our success, and toy away
+an hour in mirth.
+   </dialogue><nonSpeech> <font>Mask.</font> </nonSpeech><dialogue> I will not fail. </dialogue><nonSpeech> <font>Exit.</font> Ldy <font>Touchwood</font> .</nonSpeech><dialogue>
+I know what she means by toying away an hour well enough.
+Pox I have lost all Appetite to her; yet she's a fine Woman,
+I lov'd her once. But I don't know, since I have been in a 
+great measure kept by her, the case is alter'd; what was my 
+Pleasure is become my Duty: And I have as little stomach
+to her now as if I were her Husband. Should she smoke
+my design upon <font>Cynthia</font> , I were in a fine pickle. She has a
+damn'd penetrating head, and knows how to interpret a
+Coldness the right way; therefore I must dissemble Ardour
+and Ecstasie, that's resolv'd: How easily and pleasantly is 
+that dissembled before Fruition! Pox on't that a Man can't
+drink without quenching his Thirst. Ha! yonder comes
+<font>Mellefont</font> thoughtful. Let me think: Meet her at eight -- 
+hum -- ha! by Heaven I have it -- if I can speak to my
+Lord before -- Was it my Brain or Providence? No
+Matter which -- I will deceive 'em all, and yet secure my self,
+'twas a lucky thought! Well this Double-Dealing is a 
+<pagebreak id="31" />
+Jewel, </dialogue><nonSpeech>Maskwell <font>pretending not to see him, walks
+by him, and speaks as it were to himself</font> .</nonSpeech><dialogue>
+Here he comes, now for me --
+
+</dialogue><nonSpeech> <font>Enter</font> Mellefont <font>musing</font> .</nonSpeech><dialogue>
+
+Mercy on us, What will the Wickedness of this World come to? 
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

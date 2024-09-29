@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2FRUSH">
+  <dialogueHeader>
+
+    <filename>D2FRUSH</filename>
+
+    <identifier>2 FICTION D2FRUSH</identifier>
+
+    <title>FRIER RVSH</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1620</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE HISTORIE OF FRIER RVSH: HOW HE CAME TO A HOUSE OF RELIGION
+TO SEEKE SERUICE, AND BEING ENTERTAINED BY THE PRIOUR, WAS FIRST MADE
+VNDER COOKE.
+BEING FULL OF PLEASANT MIRTH AND DELIGHT FOR YOUNG PEOPLE.
+IMPRINTED AT LONDON BY EDW. ALL-DE, DWELLING NEERE CHRIST-CHURCH.
+1620.
+PP. A2R.1 - A2V.34 SAMPLE 1
+PP. A3R.1 - C2V.6  SAMPLE 2
+PP. C3V.1 - E4V.4  SAMPLE 3
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A2R" />
+ <head>A PLEASANT HISTORY, HOW A DEUILL
+(NAMED RUSH) CAME TO A RELIGIOUS 
+HOUSE, TO SEEKE A SERUICE.</head> <dialogue>
+<comment type="compiler">THE PRINCE OF DEVILS SO DESIRED THAT A CERTAIN CLOISTER OF
+RELIGIOUS MEN CONTINUE THEIR EXTRAVAGANT LIFESTYLES THAT HE
+SENT ONE OF HIS OWN TO LIVE AMONG THEM.</comment>
+<pagebreak id="A2V" />
+<omission type="line" /> </dialogue><nonSpeech>Then within a while after the Priour 
+came vnto the gate and espied <font>Rush</font> the young man standing 
+there all alone. Anon he said vnto him,</nonSpeech><dialogue> what dost thou here,
+and what wouldest thou haue. </dialogue><nonSpeech>The young man with great
+reuerence answered and said:</nonSpeech><dialogue> Sir, I am a poore young man,
+and am out of seruice, and faine would haue a Maister. And
+Sir if it please you to haue me, I shall doe you diligent seruice,
+and shall doe so well that you and all your brethren and couent
+shall be glad of me, for I shall keepe so well your secrets, that
+I trust to obtaine at all times your good loue and fauour, and
+all theirs also.
+   </dialogue><nonSpeech>And when the Priour had heard his words, he was mooued
+with pittie, and said:</nonSpeech><dialogue> Goe into the Kitchin to the Cooke, and
+shew him that I haue sent thee thither, and bid him show thee
+what thou shalt doe: for thou shalt be with him a certaine
+season, till that some other better thing fall. </dialogue><nonSpeech>Then the young man
+made his reuerence to the Priour, and thanked him, and foorth
+he went to the Kitchin, where hee found the maister Cooke.
+Anon he made reuerence vnto him, and said:</nonSpeech><dialogue> Sir, my Maister
+the Priour hath sent me hither vnto you, and he commaundeth
+you to shew me what I shall doe, for I must be here and helpe
+you. </dialogue><nonSpeech>The maister Cooke answered and said,</nonSpeech><dialogue> you be welcome.
+</dialogue><nonSpeech>And anon hee set him to such businesse as he had to doe. And
+thus the Deuill became vnder-Cooke in the place that he was
+assigned vnto, by the Prince of Deuils.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="A3R" />
+ <head>THESE BEING THE WORDS OF THE DEUILL.</head> <dialogue>
+<comment type="compiler">RUSH INTENDS TO CAUSE DISCORD AMONG THE FRIARS.</comment>
+   </dialogue><nonSpeech>Then within foure or fiue dayes after, it fortuned that the
+Priour came into the Kitchin, and there he found the young
+man, to whom he said,</nonSpeech><dialogue> where wast thou borne, and what is
+thy name? </dialogue><nonSpeech>The young man answered and said,</nonSpeech><dialogue> Sir, I was
+borne very farre hence, and <font>Rush</font> is my name. </dialogue><nonSpeech>Then said the
+Priour vnto him,</nonSpeech><dialogue> <font>Rush</font> , canst thou couple Hounds together?
+Yea Sir </dialogue><nonSpeech> (said <font>Rush</font> ) </nonSpeech><dialogue> that I can doe right well, and more   
+then
+that, for I can couple men and women together, which is a
+more mastrie, and also Sir (if neede be) I can conuay a faire
+woman into your chamber, and conuay her home againe in
+the morning so secretly, that no man shall spye it. And also
+I shall keepe your counsaile so secretly, that it shall neuer be
+knowne. </dialogue><nonSpeech>And when the Priour heard <font>Rush</font> speake so, he was
+right glad of him, and said:</nonSpeech><dialogue> <font>Rush</font> , if thou canst doe as thou
+hast said? I shall reward thee well for thy labour, and thou
+shalt be my most welbeloued seruant: wherefore make an end
+<pagebreak id="A3V" />
+of thy businesse, for soone, thou shalt goe a little way on a
+message for me, </dialogue><nonSpeech>and so he departed and went to supper. And when
+euery man had supped, and <font>Rush</font> had done all his businesse in
+the Kitchin, hee came vnto his maister the Priour, and said,</nonSpeech><dialogue>
+Sir, what is your will with me? </dialogue><nonSpeech>the Priour answered and
+said:</nonSpeech><dialogue> here a little beside dwelleth a faire Gentlewoman, the
+the which I loue very well, but I dare not discouer my minde
+vnto her my selfe: and if thou canst finde the meanes to bring
+her secretly vnto me, I shall reward thee right well for thy
+labour and paine. </dialogue><nonSpeech>And when <font>Rush</font> had heard the words of his
+Maister, and knew all his minde, he answered and said:</nonSpeech><dialogue> Sir,
+be of good cheere, and let mee alone with that matter: for I
+shall goe vnto the Gentlewomans house, and I shall say your
+message so well, that this night she shall come to you: </dialogue><nonSpeech>and so
+departed <font>Rush</font> from his Maister, and went straight vnto this
+Gentlewomans house. And when he was thither come, hee
+found the Gentlewoman sitting all alone. And when <font>Rush</font>
+was espied of her, he made vnto her great courtesie, and with
+many reuerences these words he said.</nonSpeech>
+
+ <head>HOW A DEUILL NAMED <font>RUSH</font> CAME VNTO A GENTLEWOMANS HOUSE,
+AND HOW HE BROUGHT HER PRIUILY VNTO HIS
+MAISTERS CHAMBER.</head> <dialogue>
+
+   Rest you merry faire Mistresse, the most fairest creature
+in the world. My Maister greeteth you by me, desiring
+you to come and speake with him. </dialogue><nonSpeech>Then said the 
+Gentlewoman to <font>Rush</font> ,</nonSpeech><dialogue> who is your Maister, and what is his     
+will with
+me? faire Mistresse, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I will shew you, my Maister 
+is the Priour in a house of Religion here beside, and he loueth
+you so well except that you come vnto him this night, I know
+he will be dead for sorrow.
+
+</dialogue> <head>HERE FOLLOWETH THE ANSWERE OF THE GENTLEWOMAN.</head> 
+
+   <nonSpeech>And when the Gentlewoman had heard the words of
+<font>Rush</font> , shee answered and said,</nonSpeech><dialogue> Faire Sir, it were great
+<pagebreak id="A4R" />
+pittie that the Gentleman should die for my sake, and rather
+then he should so doe for me, I will come to him, and shew him
+all the courtesie that I can. </dialogue><nonSpeech> <font>Rush</font> was very glad of those
+comfortable words, and thought that his enterprise was well
+brought to passe, and he said vnto her:</nonSpeech><dialogue> Faire Mistresse, may
+it please you to take the labour and goe with me, and I shall
+bring you to my
+Master, and as I 
+suppose, hee will make
+you good cheare, and
+Gold and Siluer you
+shall lacke none, for
+hee hath great plenty
+thereof. </dialogue><nonSpeech>Then saide
+the Gentlewoman,</nonSpeech><dialogue>
+Sir, I pray you let
+vs depart hence: for 
+as I suppose the
+Gentleman looketh
+long for vs. </dialogue><nonSpeech>So foorth
+they went both 
+together, till they came to
+the Priours 
+Chamber.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">THE OTHER FRIARS SOON ASKED RUSH TO HELP THEM IN THE SAME
+WAY AS HE HAD HELPED THE PRIOR, WHICH HE DID. ALL WERE 
+EXTREMELY GRATEFUL TO RUSH, AND NONE GUESSED THAT HE WAS 
+REALLY A DEVIL.</comment> 
+
+<pagebreak id="A4V" />
+</dialogue> <head>HOW FRIER <font>RUSH</font> THREW THE MAISTER COOKE INTO A KETTELL
+OF WATER SEETHING VPON THE FIRE,
+WHEREIN HE DIED.</head> 
+
+   <nonSpeech>It befell vpon a day that <font>Rush</font> went forth to sport him, and
+it was very late ere he came home againe, and the maister
+Cooke was very angry with him that hee was so long absent.
+And as soone as <font>Rush</font> was entred into the Kitchin: the Cooke
+began to chide, and said vnto him,</nonSpeech><dialogue> thou horson knaue where
+hast thou beene so long: </dialogue><nonSpeech>and with a great staffe hee laid vpon
+<font>Rush</font> and beat him sore. And when <font>Rush</font> saw that the Cooke
+was angry, and so farre out of reason, and that he had beaten
+him sore: anon he began to waxe very angry with the maister
+Cooke, and said vnto him:</nonSpeech><dialogue> thou horson villaine, why hast thou
+beaten me thus: I will be reuenged on thee: </dialogue><nonSpeech>and suddainly he
+<pagebreak id="B1R" />
+caught him in his armes, and threw him into a great kettell
+which was full of water seething vpon the fire, and said,</nonSpeech><dialogue> lye
+thou there in the Diuels name: for now thou shalt neither
+fight nor chide no more with me: <omission type="sentence" />
+<comment type="compiler">RUSH THEN WENT TO COLLECT THE PRIOR'S MISTRESS. ON HIS RETURN, 
+HE LEARNED THAT THE COOK'S BODY HAD BEEN DISCOVERED; EVERYONE  
+HAD ASSUMED THAT THE COOK HAD DROWNED HIMSELF, AND RUSH WAS NOW 
+THE NEW MASTER COOK.</comment>
+<pagebreak id="B1V" />
+<omission type="line" /> </dialogue><nonSpeech>Then 
+it fortuned vpon a day the Priour and his brethren were
+assembled together in a generall counsaile, and as they stood
+talking together, the Priour remembred <font>Rush</font> , and anon he said
+vnto his brethren:</nonSpeech><dialogue> Friends we haue here <font>Rush</font> which is our
+maister Cooke in our Kithin, and he is an olde seruant, and
+much diligent and true seruice he hath done to vs, and he hath
+continued among vs longer then any seruant that euer wee
+had: wherefore me thinke it reason, that hee were promoted
+vnto some other office, and made a brother among vs. </dialogue><nonSpeech>Then
+all the whole couent with one voice said they were content it
+should so be. So the Priour sent for <font>Rush</font> , and when he was
+come before him and all his brethren, the Priour said,</nonSpeech><dialogue> <font>Rush</font> it
+is so, thou hast beene here a long season and we haue found thee
+hitherto a true and diligent seruant, wherefore wee will that
+thou be promoted, and take vpon thee an habite as we haue,
+and to become a brother among vs. </dialogue><nonSpeech> <font>Rush</font> answered and said:</nonSpeech><dialogue>
+my Maisters I thanke you all, </dialogue><nonSpeech>and then the Priour gaue <font>Rush</font>
+an habite, and put it on his backe, and so <font>Rush</font> became a
+brother in the place, neuerthelesse he kept his office still.</nonSpeech>
+
+ <head>HOW FRIER <font>RUSH</font> MADE TRUNCHEONS FOR THE FRIERS
+TO FIGHT WITHALL.</head> 
+
+   <nonSpeech>When <font>Rush</font> had on the habite of a Frier, and was a
+brother in the place, he had more vacation dayes then
+he had before. And as a King or a great Prince prepareth 
+ordinances against their warres, in likewise did Frier <font>Rush</font> :
+for when all his businesse was done in the Kitchin, and that he
+had leysure, he went and sate in the Port of the vtter gate, and
+there he was making of good bigge Truncheons of Oke. And
+<pagebreak id="B2R" />
+he made them with Hilts ouer the hand for slipping, at the
+which the other Friers had great meruaile, &amp; demanded of him
+wherefore he made those Truncheons. <font>Rush</font> answered and
+said:</nonSpeech><dialogue> Faire Sirs, I make them for this intent: that if there
+come any theeues hither for to rob vs, and to spoile our place,
+yet shall we haue weapons to defend vs withall. And
+therefore I make them. And moreouer, when any neede shall be,
+come to mee and euery man shall haue one, and they shall be
+ready at your commandement, </dialogue><nonSpeech>and then the Friers thanked
+him and so departed.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">SHORTLY AFTERWARDS, A QUARREL BETWEEN THE PRIOR AND SUBPRIOR 
+SPILLED OVER INTO VIOLENCE DURING MIDNIGHT MASS. WHEN RUSH SAW 
+THAT ALL THE OTHER FRIARS WERE JOINING IN, HE BLEW OUT THE CANDLES
+AND THEN SECRETLY SET ABOUT THEM.</comment>
+<pagebreak id="B3R" />
+<omission type="line" /> </dialogue><nonSpeech>Then when the fray
+was done, and all the noyse seased, <font>Rush</font> came in among them
+with a Candell light in his hand, and made as he had knowne
+nothing thereof, and said to them:</nonSpeech><dialogue> Fie for shame Sirs, how
+fortuned this discord to fall among your selues? I see well
+now you regard not your honour, nor the good name of your
+place. All the people shall say ye be not honest, nor good 
+religious men, the which words I would be loath to heare, and I
+may not suffer our place so to fall in an euill name: 
+wherefore good Masters, I require you to set your hearts at rest, and
+put the matter into my hands, and I shall doe so much that all
+shall be well, and you shal be good friends againe, and no words
+shall be spoken thereof, </dialogue><nonSpeech>then euery man complained to him of
+their great hurt, and he made semblance as he had beene sorie
+therefore and then they that could goe, went vp to their Sels,
+and they that could not goe, did creepe vp as well as they could,
+and laid them downe <comment type="compiler">SOURCE TEXT: dnwne</comment> in their beds, and there  
+they lay till they
+were whole againe, and in the space of three weekes and more,
+God was euill serued, for in all that space they sung neither
+Mattins nor Euensong, nor neuer entred into the Church for
+it was suspended, and for shame they durst neuer let it be
+knowne. And when they were all whole, and euery man vpon
+his feete againe, and might goe about the house, they brought
+<pagebreak id="B3V" />
+againe their staues to Frier Rush, and thanked him much, and
+then Frier <font>Rush</font> said vnto them:</nonSpeech><dialogue> Sirs when ye haue neede of
+them againe, ye shall finde them here ready at your
+commandement, </dialogue><nonSpeech>for which they gaue him thankes, and departed.</nonSpeech><dialogue>
+<comment type="compiler">RUSH LAUGHED TO HIMSELF, AND SWORE TO ENSURE THAT THEY WERE 
+ALL ETERNALLY DAMNED.</comment>
+
+</dialogue> <head>HOW FRIER <font>RUSH</font> GRYMED THE WAGGON WITH TARRE, AND
+WHAT CHEARE HE MADE IN THE COUNTRY.</head> 
+
+   <nonSpeech>Another time it fortuned that the Priour had a iourney
+to ride into the Country about a little businesse that hee
+had there to doe, and anon he called <font>Rush</font> his seruant vnto him
+and said,</nonSpeech><dialogue> <font>Rush</font> goe thy way into the Court, and take with
+thee a dish full of greace, and greace well the wheeles and
+Axeltrees of the Waggon, and make all things ready against
+to morrow in the morning, for I must ride forth to morrow
+betimes, </dialogue><nonSpeech>then <font>Rush</font> departed from his Maister, and went
+about his businesse, and in steed of greace, hee tooke a great
+vessell full of Tarre, and anointed the Waggon all ouer with
+it, both within and without, and especially in the place where
+the Priour should sit: and when he had done, he returned to
+his Maisters chamber, then the Priour demanded of <font>Rush</font> , if
+he had done as he commanded him:</nonSpeech><dialogue> yea Sir </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> ye may
+ride when please you, </dialogue><nonSpeech>and so they went to their beds. Then
+on the morrow after, the Priour and <font>Rush</font> his seruant with
+his other company, rose vp very early in the morning for to
+accomplish their iourney, and forth they went vnto their
+Waggon. and when the Priour was entred therein, hee perceiued
+<pagebreak id="B4R" />
+himselfe all to berayed and smeyred, and all his clothes were
+filed therewith: and then he said to <font>Rush</font> ,</nonSpeech><dialogue> thou lewd fellow,
+what hast thou done to this Waggon that I am thus arayed
+therein? </dialogue><nonSpeech> <font>Rush</font> answered and said:</nonSpeech><dialogue> Sir, I haue done nothing
+but as you commanded me. That is not so </dialogue><nonSpeech>said the Priour,</nonSpeech><dialogue>
+for I commaunded thee to take greace and grease but the
+wheeles and the Axeltrees, and thou hast taken Tarre and
+annointed it all ouer, both within and without. Why hast thou
+done so? Sir </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I vnderstoode you bad me doe so. 
+<omission type="line" />
+<comment type="compiler">THE PRIOR CHANGED BEFORE JOURNEYING TO HIS DESTINATION IN 
+ANOTHER WAGON. ON ARRIVAL, HE AND HIS COMPANY WENT STRAIGHT TO 
+THEIR LODGING, WHERE THE PRIOR DINED WITH HIS HOST. WHEN THEY
+HAD HAD THEIR FILL, THE REST OF HIS COMPANY FINISHED WHATEVER 
+WAS REMAINING. RUSH DESIRED SOME WINE, BUT THERE WAS NONE LEFT.</comment>
+<pagebreak id="B4V" />
+<comment type="compiler">TEXT IN RIGHT-HAND MARGIN PARTLY CUT UNTIL LINE 24.</comment>
+<omission type="line" /> </dialogue><nonSpeech>And anon he 
+called the wife of the house and said:</nonSpeech><dialogue> Mistresse, I pray you fill a
+pottle of wine for me and my fellowes, </dialogue><nonSpeech>and so shee did: and
+when that was gone, they called for another: and then they
+called for the third, and so ended their supper. Then on the
+morrow when the Priour had done all his businesse, and was
+ready to returne home againe: he called for a reckoning. And
+anon, the good wife came in and gaue him a reckoning of all
+things, both horse meate and mans meate; and at last, she
+reckoned three pottels of wine that <font>Rush</font> and his fellowes had.
+And when the Priour heard that his seruants had drunke so
+much wine: Anon he began to waxe very angry, and asked
+her, who commanded her to fill in so much wine? the wife 
+answered and said:</nonSpeech><dialogue> Sir, <font>Rush</font> your seruant commaunded me to
+fill it in, and he said, that you should pay therefore. </dialogue><nonSpeech>Then anon
+the Priour called for <font>Rush</font> , and said vnto him:</nonSpeech><dialogue> Thou lewd
+Knaue, why hast thou drunke so much wine? Might no lesse
+then pottels serue thee and thy fellowes? Sir, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> we
+haue not drunke so much, for your horses hath had two of the
+pottels. My horses, </dialogue><nonSpeech>said the Priour:</nonSpeech><dialogue> what should they doe
+with wine? Yes Sir, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> your horses laboured sorer
+than we did, and were very weary, and they had nothing but
+Hay and Oates: wherefore, me thought it needefull to giue
+them some good drinke to their course meate to comfort their
+hearts withall, and to cause them to be the lustier, and to haue
+the better courage to bring you homeward. </dialogue><nonSpeech>And when the
+Priour had heard that answere of <font>Rush</font> , and saw there was
+no remedy but patience: he paid for the wine, and all things
+that he had taken there, and so rode home in his Waggon, and
+Frier <font>Rush</font> neuer went foorth againe with his Master.</nonSpeech>
+<pagebreak id="C1R" />
+ <head>HOW THE PRIOUR MADE FRIER <font>RUSH</font> SEXTON AMONG THE FRIERS, AND
+HOW HE CHARGED HIM TO GIUE HIM KNOWLEDGE HOW MANY
+FRIERS WERE ABSENT FROM MATTINS AT MIDNIGHT,
+AND WHAT THEY WERE.</head> 
+
+   <nonSpeech>When the Prior was come home, hee made Frier Rush 
+Sexton of the church, and his office was to ring the
+bell and to light the candles, and to cal the Friers to Mattins
+at mid-night, and also the Prior commaunded Rush &amp; charged
+him, that he should take good heede that there were none of the
+Friers absent from Mattins, and if there were to giue him
+knowledge thereof, then saide Rush to his master:</nonSpeech><dialogue> Sir all your
+commaundement shalbe fulfilled, </dialogue><nonSpeech>and so they departed.</nonSpeech><dialogue> <omission type="line" />
+<pagebreak id="C1V" />
+<comment type="compiler">RUSH REPORTED SO MANY ABSENTEE FRIARS TO THE PRIOR THAT
+THEY BECAME AFRAID TO MISS THE SERVICE. SEEING ANOTHER 
+OPPORTUNITY TO AFFLICT THEM, RUSH TAMPERED WITH THE STAIRS 
+THAT LED TO THE CHURCH, CALLED THE FRIARS, AND THEN WAITED 
+FOR THEM TO COME. THE FIRST FRIAR ARRIVED SHORTLY AFTER AND, 
+BECAUSE OF THE BROKEN STAIRS, PROMPTLY FELL.</comment> 
+<omission type="sentence" /> </dialogue><nonSpeech>then said <font>Rush</font> ,</nonSpeech><dialogue> thou art one. </dialogue><nonSpeech>Presently there     
+came another,
+and like wise downe he fell and had a sore fall,</nonSpeech><dialogue> thou art two </dialogue><nonSpeech>said
+<font>Rush</font> . Anon came the third Frier, which had a mightie great
+bellie, and was a grosse man, and he made great hast, for he
+feared that he should haue been last, &amp; when he came to the staires,
+downe he fell on his fellowes necks, and he was so great and so
+heauie, that almost he had mischieued his fellowes that lay
+vnder him:</nonSpeech><dialogue> thou makest three </dialogue><nonSpeech>said <font>Rush</font> . And with that there 
+came
+seauen or eight together, and downe they fell all at once.</nonSpeech><dialogue> Softly
+masters for shame, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> ye come too many at once, ye  
+were
+not wont to be so hastie, but now I perceiue well ye would
+deceiue me, and one would excuse the other, and therefore ye come
+so thick to blind me in my tale: How should I now giue account
+to the Prior of them that be absent? Surely I cannot tell, but
+<pagebreak id="C2R" />
+now I see well, ye be too subtil for me, I would some other man
+had mine office, </dialogue><nonSpeech>and made as though he had beene verie angrie
+with them.</nonSpeech><dialogue> <omission type="line" /> 
+<comment type="compiler">ALL THE FRIARS MANAGED TO ATTEND THE SERVICE, BUT SOME WERE
+TOO BRUISED TO GO TO THEIR LODGINGS AFTERWARDS SO THEY SLEPT
+IN THE CHURCH. WHEN THE PRIOR HEARD WHAT HAD HAPPENED, HE
+SUSPECTED THAT RUSH WAS SOMEHOW INVOLVED.</comment>
+</dialogue><nonSpeech>Then the Prior sent for <font>Rush</font> to come speake with him, and
+when he was come, Prior said vnto <font>Rush</font> ,</nonSpeech><dialogue> how fell this
+misfortune to night among the Friers, that they be so sore hurt?
+Sir </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I shall shew you, it is not vnknowne vnto you,
+that when you put me first into this office, ye commaunded me
+to giue you knowledge when any of my brethren were absent
+from Mattins, and so haue I done diuers times, whereby
+many of them haue beene shent and chidden by you, and for
+that cause, they owe me euill will, and faine would haue me
+out of this office, if they wist how. And for to accomplish their
+desire, and to cause you to be displeased with mee: I shall shew
+you what they haue done this night. Sir it is so, that when
+the time was come, I rung to Mattins and lighted candles,
+and made all things readie, and when I had so done I went
+into the Dorter to euery mans Sell and called them up, then
+I went and stoode at the staire foot, for to tell them as they
+<pagebreak id="C2V" />
+came downe, as I was accustomed to doe, and to knowe who
+came to Mattins, and who did not, and for spite that I should
+not reckon them, they came all on a cluster, and for hast the one
+thrust the other downe the staires, and he that had the greatest
+belly, had the hardest fall; now if they hurt themselues, what
+might I doe with all? <omission type="line" />
+<comment type="compiler">THE PRIOR DID NOT KNOW WHAT TO SAY, BUT SENT RUSH BACK TO WORK 
+IN THE KITCHEN.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="C3V" />
+ <head>HOW A FARMER OF THE PRIORS SOUGHT HIS COWE, AND HOW HE WAS
+DESOLATED BY THE WAY HOMEWARD, AND WAS FAINE TO LYE IN 
+A HOLLOW TREE: AND OF THE VISION THAT HE HAD.</head> <dialogue>
+
+<comment type="compiler">A FARMER WENT IN SEARCH OF HIS COW AND, FINDING IT CLEANLY 
+DIVIDED INTO TWO PARTS, IMMEDIATELY SUSPECTED WITCHCRAFT. UNABLE TO
+RETURN HOME THAT NIGHT, HE SOUGHT SHELTER IN A HOLLOW TREE AND, WHILE
+THERE, SAW A COMPANY OF DEVILS.</comment>
+<pagebreak id="C4R" />
+<omission type="sentence" /> </dialogue><nonSpeech>but anon there assembled a company of Deuils,
+and among them they had a great principall Maister whose 
+name was <font>Lucifer</font> , and hee was the first that spake: and the
+first that was called, was a Deuill named <font>Belzabub</font> , and with
+a loud voyce, he said vnto him:</nonSpeech><dialogue> <font>Belzabub</font> what hast thou done
+for vs? </dialogue><nonSpeech> <font>Belzabub</font> answered and said:</nonSpeech><dialogue> Sir I haue caused
+debate and strife to fall betweene brother and brother, insomuch
+the one hath slaine the other: that is well done </dialogue><nonSpeech>said the maister
+Deuill,</nonSpeech><dialogue> thou shalt be well rewarded for thy labour. </dialogue><nonSpeech>Then
+foorth he called another Deuill, named <font>Incubus</font> , and
+demaunded of him what he had done?</nonSpeech><dialogue> Sir </dialogue><nonSpeech>said <font>Incubus</font> ,</nonSpeech><dialogue> I    
+haue caused
+great debate and strife, to fall betweene two Lords, through
+the which they haue had great warres, and many men haue
+beene slaine: </dialogue><nonSpeech>then said the master Deuill,</nonSpeech><dialogue> thou art a true
+seruant to vs, thou shalt be well rewarded for thy great labour
+and paine, </dialogue><nonSpeech>Then said the great maister vnto another Deuill,
+named <font>Norpell</font> ,</nonSpeech><dialogue> what hast thou done for vs: Sir </dialogue><nonSpeech>said         
+<font>Norpell</font> ,</nonSpeech><dialogue>
+I haue beene among players at the Dice and Cardes, and I
+haue caused them to sweare many great oathes, and the one to
+flea the other: and also I haue caused debate and strife to fall
+betweene man and wife, and caused the wife to cut her
+husbands throat: that was well done </dialogue><nonSpeech>said the Master,</nonSpeech><dialogue> thou shalt
+be well rewarded for thy labour. </dialogue><nonSpeech>Then foorth came another
+Deuill named <font>Downesnest</font> , and said:</nonSpeech><dialogue> Sir I haue caused two
+olde women to fight so sore together, and to beat each other
+about the head, that their eyes flew out: that was well done
+</dialogue><nonSpeech>said the master Deuill,</nonSpeech><dialogue> with much thanke thou shalt be well
+rewarded for thy labour. </dialogue><nonSpeech>Then foorth stepped Frier <font>Rush</font>
+freshly, and with a good courage, and said:</nonSpeech><dialogue> Sir, I am in a
+Religieus place and I gouerne the Prior and his Couent as I
+will my selfe, and they haue me in great loue and fauour: for
+I doe them many great pleasures, and I haue brought them
+<pagebreak id="C4V" />
+faire wenches euery man one when they lust, and diuers times
+I haue caused debate and strife to fall among them, and I haue
+made them staues and caused them to fight stifly together,
+and so breake each others head, and their armes and legges,
+and yet will I doe more among them ere I depart out of the
+place, for I shall make so great debate and strife among them,
+that the one shall slea the other, then they shall come and dwell
+with vs in Hell, and burne in perpetuall fire without end.
+</dialogue><nonSpeech>Then said the maister Deuill to <font>Rush</font> :</nonSpeech><dialogue> if thou haue done as
+thou hast said, thou hast done well thy part, and I pray thee
+be diligent thy selfe about thy businesse, and stirre them to sin,
+and specially to these three, that is to say, wrath, Gluttony, and
+Lechery, and briefely to make an end of thy enterprise, and
+slip it not: and when thou hast done, come home, and thou shalt
+be highly exalted and well rewarded for thy great labour and
+paine. </dialogue><nonSpeech>When <font>Rush</font> had tolde his tale: the great maister
+Deuill commanded euery Deuill to goe his way and doe the best
+he could, and thus they departed:</nonSpeech> <omission type="sentence" />
+<pagebreak id="D1R" />
+ <head>HOW THE FARMER WHICH LAY IN THE TREE, CAME VNTO THE PRIOUR
+ON THE MOROWE AFTER, AND TOLDE HIM THE WORDES THAT
+HEE HAD HEARD, AND THE WORDS OF FRIER <font>RUSH</font> ,
+AND THAT HE WAS A VERY
+DEUILL.</head> <dialogue>
+<comment type="compiler">THE FARMER PRAYED THROUGHOUT THE NIGHT AND, AS SOON AS FIRST
+LIGHT APPEARED, WENT TO INFORM THE PRIOR OF WHAT HE HAD SEEN 
+AND HEARD.</comment>
+<omission type="sentence" /> Sir, this
+night hath fortuned to me a great aduenture: how so </dialogue><nonSpeech>saide the
+Priour?</nonSpeech><dialogue> sir, yesternight late in the euening, I walked foorth
+in the fieldes to seeke a Cowe which I haue missed this foure
+or fiue dayes, and so long I wandered abroad, till at the last
+I founde the one halfe of my Cowe, but the other halfe was
+gone; and as I woulde haue returned home againe, I was
+benighted, so sore that I lost my waye: then I wist not 
+whether to goe, but spying a hollowe Tree, I sate me downe, 
+thinking there to take my rest till the day appered againe: and I
+had not sitten there but a while, but instantly there was
+assembled a great company of Deuills which made a 
+maruailous great noise, whereof I was sore afrayd. They had
+among them a great master named <font>Lucifer</font> . who called all the 
+rest to make a reckoning of all their seruice they had done,
+since they departed out of Hell: there I heard many 
+marueilous tales. At the last, foorth came Frier <font>Rush</font> , then     
+saide the
+great master <font>Lucifer</font> vnto him, <font>Rush</font> , what hast thou done
+since thou departed out of Hell? and he answered, that he had
+ruled you, and all your Couent, and caused you, to chide and
+fight, and were neuer in vnitie and peace among your selues:
+and he said he had caused you to liue viciously, and yet he saide
+<pagebreak id="D1V" />
+he would doe more ere he departed out of this place, for
+he will cause you to kill each other, and then you should be
+damned in Hell, both bodie and soule. And so euerie Deuill 
+departed and went about their busines. Wherefore take heede, for he
+is a verie Deuill. <omission type="line" />
+<comment type="compiler">AFTER THE PRIOR HAD THANKED THE FARMER, HE SPENT SOME TIME
+IN PRAYER ASKING FOR GOD'S FORGIVENESS, AND THEN INFORMED HIS 
+FRIARS OF RUSH'S TRUE IDENTITY. AS HE CONFRONTED RUSH, HE CALLED 
+ON GOD TO TURN HIM INTO THE LIKENESS OF A HORSE, AND THEN ORDERED 
+HIM TO REMAIN BY THE GATE WHERE THEY HAD FIRST MET UNTIL THE END 
+OF SERVICE.</comment>
+<pagebreak id="D2R" />
+</dialogue><nonSpeech>Then they demaunded him to what entent he came into their
+place, and why he taried there so long?</nonSpeech><dialogue> Syrs </dialogue><nonSpeech>said <font>Rush</font> :</nonSpeech><dialogue> I 
+came
+hither to cause you to do all mischife as is aforesaid, and yet I
+would haue done more ere I had gone hence: for I would haue
+caused you to slaye other, and to be damned both bodie and
+souls. </dialogue><nonSpeech>And when they had heard the words of <font>Rush</font> , euery man
+held vp his hands and thanked almighty God, that they had so
+well escaped that great misfortune. Then <font>Rush</font> desired the
+Priour licence to depart thence, and promised that he would
+neuer more come there, nor doe any man more hurt: vpon that
+condition the Priour gaue him leaue to depart. Thus <font>Rush</font>
+departed from the place, and the Friers went to their
+<pagebreak id="D2V" />
+Cloyster, and liued there solitarie and chast euer after, and serued 
+almightie God better than euer they did before.</nonSpeech>
+
+ <head>THE LAMENTATION THAT RUSH MADE WHEN HEE WAS 
+DEPARTED OUT OF THE HOUSE OF RELIGION.</head> 
+
+   <nonSpeech>When <font>Rush</font> was banished out of the house of Religion,
+and was turned into the same likenesse that he was,
+then he wandred abroad in the worlde with an heauie heart,
+&amp; these words he said:</nonSpeech><dialogue> Alas, alas, what shall I doe, I wote not
+now whether to goe, for all my seuen yeres labour is left. </dialogue><nonSpeech>And
+as he wandred about, by fortune he met with his master 
+<font>Lucifer</font> , but he would not haue seene him by his will: neuertheles
+his maister espied him quickly, and said to him</nonSpeech><dialogue> <font>Rush</font> what
+tydings with thee? Sir </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I haue lost all my labour 
+that
+I haue gone about this vii. yeares. How so, </dialogue><nonSpeech>saide his Maister?</nonSpeech><dialogue>
+Sir, I shall shew you </dialogue><nonSpeech>said <font>Rush</font> .</nonSpeech><dialogue> The last time that we were
+assembled together, there was a poore man lay in an old tree
+hard beside vs, &amp; he heard all that we said: and when we were
+departed, he arose and went vnto the Priour and shewed him
+all that we saide and specially the wordes that I had spoken,
+and so all my labour is lost, &amp; am banished that place. Well,
+</dialogue><nonSpeech>said the master Diuell to <font>Rush</font> ,</nonSpeech><dialogue> thou shalt goe some other way
+abrode, and looke if thou canst finde any thing to doe:
+<comment type="compiler">RUSH EVENTUALLY FOUND A HUSBANDMAN WHOSE WIFE WAS SECRETLY 
+MEETING THE PARISH PRIEST. AS SHE WANTED TO KEEP HER HUSBAND
+BUSY, SHE WOULD NOT ALLOW HIM TO EMPLOY ANY HELP.</comment>
+<pagebreak id="D3R" />
+</dialogue> <head>HOW RUSH CAME TO A HUSBANDMAN (LABOURING IN THE
+FIELD) AND DESIRED TO BEE ENTERTAIND INTO
+HIS SERUICE.</head> 
+
+   <nonSpeech>Rvsh trauailing vp and down, came to a Husbandman who
+was labouring in the field, being all alone, and spake these 
+<pagebreak id="D3V" />
+wordes vnto him:</nonSpeech><dialogue> Rest you merie sir, me thinks you take great
+paines to worke so sore your selfe: will it please you to 
+entertaine a seruant? I am a poore young man &amp; am out of seruice,
+and I am very willing to serue you if you please: and I trust
+to doe you such seruice, as shall be to your good content;
+</dialogue><nonSpeech>The husbandman answered him, and saide;</nonSpeech><dialogue> young man, I
+would gladly giue you entertainement, but my wife will
+neuer be pleased with any seruant that shall come into my house:
+Sir </dialogue><nonSpeech>said Rush</nonSpeech><dialogue> let me alone, for I shall so worke the matter,
+that my dame shall be well pleased with me: well </dialogue><nonSpeech>said the
+husbandman,</nonSpeech><dialogue> tarry with me till I haue done my busines, and
+thou shalt goe home with me: </dialogue><nonSpeech>when he had finished his dayes
+worke, <font>Rush</font> went home with him, they were no sooner come
+into the house, but the wife espying <font>Rush</font> , she began to gloome
+and to looke meruailous angerly at him: which the good man
+perceiuing, he saide vnto her,</nonSpeech><dialogue> dame, I pray thee to be 
+contented, thou knowest well inough that I haue more labour to
+doe, then I am able to make an end of alone, and therefore I
+haue hyred this young man to help me: </dialogue><nonSpeech>when his wife heard
+those wordes, she was more angry then before, and began to
+braule and scolde as if the Deuill had bene in her, and said
+vnto him:</nonSpeech><dialogue> what a vengance needest thou to take a seruant? thou
+art able inough thy selfe to doe all the busines that we haue
+to doe, and why should we take more charge vpon vs then we
+are able to beare? but I now perceiue thou art giuen to
+lazines, and hast little minde to work thy selfe: </dialogue><nonSpeech>when the good
+man heard her so highly displeased, he said,</nonSpeech><dialogue> dame, I pray thee
+be contented, the young man is honest, and he hath promised 
+me to be a good seruant: </dialogue><nonSpeech>yet for all these speeches, she would not
+be pacifyed, but brawled still: when <font>Rush</font> perceiued her great
+impaciencie, he said vnto her:</nonSpeech><dialogue> dame I pray you be contented,
+and be not angry with me, for you shall haue no cause, my
+Master hath hyred me but for a while, vpon a tryall, and I
+trust, in that time, so to behaue my selfe, as to giue you both
+content: and when my time commeth out, if you like my
+<pagebreak id="D4R" />
+Seruice you shall haue it before any other whatsoeuer:
+if not, I will be very well content to depart. </dialogue><nonSpeech>When the
+wife heard <font>Rush</font> speake so resonably, she pacifyed her selfe,
+and said no more: which caused the good man to be very glad,
+and so she set them to supper, and as they sate at meate, <font>Rush</font>
+demanded of his Master what he should doe the next day? his
+Master answered,</nonSpeech><dialogue> thou must rise early and goe to the field,
+and make an end of that which I was about this day; </dialogue><nonSpeech> (which
+was a great dayes worke) so when they had supt they went to
+bed.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">RUSH WORKED SO WELL THAT HE WAS NORMALLY FINISHED BY BREAKFAST
+TIME AND THEN HE AND THE HUSBANDMAN WOULD EAT BREAKFAST TOGETHER.
+THE WIFE USED THIS TIME TO ENTERTAIN HER LOVER, THE PRIEST.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>Then said <font>Rush</font>
+to his Master,</nonSpeech><dialogue> why are not your shooes better greased, I
+maruaile that you can goe in them, they be so hard? Haue
+<pagebreak id="D4V" />
+you no more at home? Yes, </dialogue><nonSpeech>said his Master,</nonSpeech><dialogue> I haue another
+payre lying vnder a great Chest at home in my chamber:
+</dialogue><nonSpeech>Then said <font>Rush</font> ,</nonSpeech><dialogue> I will goe home and grease them that you
+may put them on to morrow: </dialogue><nonSpeech>and so he walked homeward
+merrily and sung by the way. And when he approached
+neare the house, he sang out very loude: with that his Dame
+looked out at the window, and perceiued that it was her
+seruant, Shee said vnto the Priest:</nonSpeech><dialogue> alas, what shall we doe?
+our seruant is come home, and my Husband will not be long
+after, </dialogue><nonSpeech>and with that she thrust the meate into the Ouen, and
+all that was vpon the Table.</nonSpeech><dialogue> Where shall I hyde me </dialogue><nonSpeech>said
+the Priest?</nonSpeech><dialogue> Goe into the chamber and creepe vnder the great
+Chest among the olde shoone, and I shall couer you, </dialogue><nonSpeech>and so he
+did: And when <font>Rush</font> was come into the house, his Dame
+<pagebreak id="E1R" />
+asked him, why he came home so soone? <font>Rush</font> answered and
+said:</nonSpeech><dialogue> I haue done all my busines, and my Master 
+commaunded me to come home and grease his shoone. </dialogue><nonSpeech>Then he went
+into the Chamber and looked vnder the Chest, and there hee
+found the Priest, and he tooke him by the heeles and drew him
+out, and said,</nonSpeech><dialogue> thou whoreson Priest, what doost thou heere?
+</dialogue><nonSpeech>With that, the Priest held vp his hands and cryed him 
+mercy, and desired him to saue his honesty, and hee would neuer
+more come there: And so <font>Rush</font> let him goe for that once.</nonSpeech>
+
+ <head>HOW <font>RUSH</font> CAME HOME TO MAKE CLEANE THE STABLE, AND HOW
+HEE FOUND THE PRIEST VNDER THE MAUNGER
+COUERED WITH STRAW.</head> <dialogue>
+
+<comment type="compiler">SOMETIME LATER, THE PRIEST NOTICED RUSH AND HIS MASTER WORKING IN 
+THE FIELD AND DECIDED TO VISIT HIS LOVER AGAIN. SHE IMMEDIATELY 
+PREPARED HIM A MEAL BUT, AS THEY SAT DOWN TO EAT, SHE NOTICED THAT 
+RUSH WAS APPROACHING.</comment>
+<omission type="line" /> </dialogue><nonSpeech>Then said the Priest</nonSpeech><dialogue> where shall I
+hyde me? come with me, </dialogue><nonSpeech>said the wife</nonSpeech><dialogue> into the Stable, and
+creepe vnder the Maunger, and I shall couer you with straw,
+and tary there till he be gone againe, </dialogue><nonSpeech>and then she turned
+againe into the house where she found <font>Rush</font> her Seruant, and
+anon she demaunded of him why hee came home so soone?
+<font>Rush</font> answered, that he had done all his busines, and he was
+come to make cleane the Stable, and when the Wife heard
+that, she was sorry in her heart, for she doubted that he would
+<pagebreak id="E1V" />
+finde the Priest againe. Then foorth went <font>Rush</font> into the
+stable and tooke a great Forke in his hand and began to shake vp
+the Straw: and when he came to the heape that the Priest
+lay in, the which seemed to him very great, yet neuerthelesse
+with his forke he tooke all vp at once and bare it out of the
+doore, and laide it on a great heape of mucke that lay there,
+and with his forke he shaked the straw abroad, and when hee
+had shaken out a little, anon he was aware of the Priests
+Gowne: then hee said,</nonSpeech><dialogue> what a Deuill art thou? </dialogue><nonSpeech>and with his
+forke he turned the heape, and then hee perceiued that the
+Priest was come againe: then with his forke he gaue him
+three or foure good dry stripes and said,</nonSpeech><dialogue> whoreson Priest, what
+dost thou heere? thou promised me the last day neuer more to
+come heere, and how I see thou art a false Priest, but now I
+shall make an end of thee, and then shalt thou neuer deceiue me
+more. </dialogue><nonSpeech>And when the Priest heard him say so, he fell vpon his
+<pagebreak id="E2R" />
+knees and held vp his hands, and prayed <font>Rush</font> to saue his
+honor once againe and he would neuer come there more, and if
+he did then to doe with him what he would.</nonSpeech>
+   <nonSpeech>Thus <font>Rush</font> let the Priest goe the second time.</nonSpeech>
+
+ <head>HOW <font>RUSH</font> CAME HOME AND FOUND THE PRIEST IN THE 
+CHEESEBASKET, AND HOW HEE TRAYLED HIM ABOUT
+THE TOWNE.</head> <dialogue>
+
+<comment type="compiler">THE PRIEST KEPT AWAY FROM HIS LOVER FOR SOME TWO OR THREE
+WEEKS, UNTIL HE SAW RUSH AND HIS MASTER OUT IN THE FIELDS. 
+AS HE RUSHED TO BE WITH HER, RUSH AND THE HUSBANDMAN ATE THEIR 
+BREAKFAST TOGETHER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>and as they sate eating, <font>Rush</font> spyed a hayre
+in the Cheese, and then he said to his Master,</nonSpeech><dialogue> I trow my Dame
+would poyson vs, or else she washeth not the Basket that the
+Cheese lyeth in, behold it is all full of haires, I will goe home
+and wash the basket and make it cleane: </dialogue><nonSpeech>so leauing his
+Master in the field and walking homeward, he sung merrily all
+the way. And when he approached neare the house, the Wife
+knew his voyce and perceiued that he was comming. Then
+wringing her hands she said vnto the Priest,</nonSpeech><dialogue> goe hyde you, or
+else you be but dead. Where shall I hyde me </dialogue><nonSpeech>said the Priest?</nonSpeech><dialogue>
+Goe vp into the chamber and leape into the Basket that
+hangeth out at the window, and I shall call you when he is gone
+againe. </dialogue><nonSpeech>Then anon in came <font>Rush</font> , and she asked him why he
+came home so soone? then said <font>Rush</font> ,</nonSpeech><dialogue> I haue done all my
+busines in the field, and my Master hath sent me home to wash
+<pagebreak id="E2V" />
+your Cheese basket, for it is full of haires, </dialogue><nonSpeech>and so he went into
+the Chamber, and with his knife he cut the rope that the
+basket hung vp, and downe fell Priest and all into a great poole of
+water that was vnder the window: then went he into the
+stable for a Horse and rode into the poole, and tooke the rope that
+hung at the basket, &amp; tying it to the horses tayle, rode through
+the poole three or 4. times. Then he rode through the Towne
+to cause the people to wonder at him, and so came home 
+againe. And all this while he made as though he had knowne
+nothing, but looking behinde him, espyed the Priest. Then he
+alighted downe, and said vnto him:</nonSpeech><dialogue> Thou shalt neuer more
+escape me, thy life is lost. </dialogue><nonSpeech>With that, the Priest held vp his
+hands and said,</nonSpeech><dialogue> heere is a hundred peeces of Gold, take them
+and let me goe. </dialogue><nonSpeech>So <font>Rush</font> tooke the golde and let the Priest goe.
+And when his Master came home, he gaue him the halfe of his 
+money <comment type="compiler">SOURCE TEXT: mouey</comment> , and bad him farwell, for he would goe 
+see the world.</nonSpeech>
+<pagebreak id="E3R" />
+ <head>HOW <font>RUSH</font> BECAME SERUANT TO A GENTLEMAN, AND HOW THE
+DEUILL WAS CONIURED OUT OF THE BODY OF THE
+GENTLEMANS DAUGHTER.</head> 
+
+   <nonSpeech>When <font>Rush</font> was departed from the Husbandman, he
+went abroad in the Countrey, to looke if he could find
+any more aduentures: and so long he trauailed about, that at
+last he espyed a great Gentlemans place, vnto the which he
+tooke his way. And when he was come thither, as chance was,
+he found the gentleman walking vp and down before his gate.
+And when <font>Rush</font> was approached neare vnto him, he put off his
+bonet and saluted him saying:</nonSpeech><dialogue> Rest you merry good 
+gentleman: Welcome </dialogue><nonSpeech>said he:</nonSpeech><dialogue> Sir, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I am a      
+poore young
+man and am out of seruice, and faine would I haue a good
+Master. What Countryman art thou </dialogue><nonSpeech>said the gentleman</nonSpeech><dialogue> &amp; from
+whence commest thou? Sir, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I was borne farre hence
+and many a myle haue I gone to seeke a good seruice, but none
+can I find. What canst thou doe </dialogue><nonSpeech>said the gentleman,</nonSpeech><dialogue> and what
+is thy name? Sir </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> I can doe any manner of thing
+that shall please you to set me vnto, &amp; <font>Rush</font> is my name. </dialogue><nonSpeech>Then
+said the gentleman vnto him:</nonSpeech><dialogue> <font>Rush</font> tarry heere with me, and I
+will retaine thee into my seruice. </dialogue><nonSpeech>When <font>Rush</font> heard the
+gentleman speake so, hee thanked him much and tarryed there.
+Then as the Gentleman and <font>Rush</font> went talking together, the
+gentleman said vnto him:</nonSpeech><dialogue> <font>Rush</font> thou hast trauailed farre and
+gone through many strange Countries: canst thou shew me
+where to finde any man, can Coniure a spirit out of a womans
+body? Sir, </dialogue><nonSpeech>said <font>Rush</font> ,</nonSpeech><dialogue> why aske you me that question? I shall
+shew thee, </dialogue><nonSpeech>said the gentleman,</nonSpeech><dialogue> I haue a Daughter which is a
+faire young woman, but she is sore troubled in her minde, and
+as I suppose shee hath some Diuell within her body. Sir, </dialogue><nonSpeech>said
+<font>Rush</font> ,</nonSpeech><dialogue> I pray you let me see her, and I trust speedily to finde
+remedy for her. </dialogue><nonSpeech>Then the gentleman brought <font>Rush</font> into the place
+and shewed him his Daughter. And when he saw her he knew
+what she had within her body: Anon he said vnto the 
+gentleman,</nonSpeech><dialogue> sir there is remedy enough for this. Well </dialogue><nonSpeech>said the
+<pagebreak id="E3V" />
+gentleman,</nonSpeech><dialogue> if thou canst finde me any that can helpe her thereof, I
+will reward him well for his labour, and thee also. Sir, I will
+shew you what is to be done, there is a place of Religion a
+forty or fifty miles hence, wherein I was a seruant a long time,
+and the Priour is a cunning man in that science: and I doubt
+not, but if he were heere euen now she would be holpen within
+this houre. <omission type="line" />
+<comment type="compiler">THE GENTLEMAN SENT A SERVANT TO REQUEST THE PRIOR'S HELP.
+WHEN HE ARRIVED, THEY DRANK SOME WINE BEFORE WALKING TOGETHER
+IN THE GARDEN. THE GENTLEMAN THEN TOLD THE PRIOR ABOUT HIS 
+DAUGHTER'S PLIGHT.</comment>
+<omission type="sentence" /> Sir, the cause that 
+you be come hither is this. It is so, that I haue a young
+Gentlewoman to my daughter which is grieuously vexed and 
+troubled in her minde, and as I suppose she hath some wicked
+Spirit in her body, and sir, it was shewed me by a seruant of mine
+which was long seruant in your place, that you could helpe her.
+Sir </dialogue><nonSpeech>said the Priour</nonSpeech><dialogue> what is his name? </dialogue><nonSpeech>The gentleman said</nonSpeech><dialogue>
+his name is <font>Rush</font> . </dialogue><nonSpeech>And when the Priour heard his name hee
+knew him well enough, and said vnto the gentleman,</nonSpeech><dialogue> sir, cause
+the gentlewoman to come before me and I trust in almighty
+God, shortly to finde a remedy for her, </dialogue><nonSpeech>and when the 
+gentleman heard the Priour speake so, he was glad in his heart, and
+commanded in all hast to bring foorth his Daughter before the
+<pagebreak id="E4R" />
+Priour: and when she was come into his presence, he
+commanded her to kneele downe vpon her knees, and also he
+commanded her Father and her Mother, and all the company that
+were there present, in likewise to kneele vpon their knees, and
+pray vnto almighty God for the young Gentlewoman. And 
+then he himselfe said certaine prayers ouer her: then he lifted
+vp his hand and blessed her. and incontinent there flew a great
+Deuill out of her mouth. And the Priour bound the Deuill so,
+that neuer after he came there. Thus was the young
+gentlewoman restored to her right minde and health againe. Then
+the Gentleman would haue giuen to the Priour a great
+summe of money for his labour, but he would take none, but
+said vnto the gentleman:</nonSpeech><dialogue> Sir, I haue a new Church in
+building, and I lacke Lead to couer the roofe: and as it is
+informed me, this is a plentifull Countrey thereof. 
+Wherefore sir, if it will please you to giue me asmuch as shall serue 
+me: I and my Bretheren shall bee your dayly beadsmen,
+and you shall be prayed for as long as the world endureth.
+<pagebreak id="E4V" />
+Yee shall haue as much as shall serue you, </dialogue><nonSpeech>said the gentleman:</nonSpeech><dialogue>
+But how will you doe for the carriage? Well inough </dialogue><nonSpeech>said the
+Priour. Then the gentleman brought him to a great heape of
+Lead, and bad him take asmuch as would serue him.</nonSpeech><dialogue> 
+<comment type="compiler">THE PRIOR CALLED FOR RUSH, COMMANDING HIM TO INITIALLY CARRY THE 
+LEAD TO THE PRIORY, AND THEN RETURN TO CARRY HIM HOME, WHICH HE DID.
+THE PRIOR THEN TRANSFORMED RUSH INTO HIS REAL, DEVILISH, LIKENESS 
+BEFORE BANISHING HIM TO AN OLD CASTLE SURROUNDED BY FOREST.</comment>
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

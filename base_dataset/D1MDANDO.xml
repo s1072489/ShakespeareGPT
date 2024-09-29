@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1MDANDO">
+  <dialogueHeader>
+
+    <filename>D1MDANDO</filename>
+
+    <identifier>1 MISC D1MDANDO</identifier>
+
+    <title>MAROCCUS EXTATICUS</title>
+
+    <author>DANDO JOHN</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1595</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="MISCELLANEOUS">Miscellaneous text types</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">DANDO, JOHN.</attribution>
+      <frontMatter>MAROCCUS EXTATICUS. OR, BANKES BAY HORSE IN A TRANCE.
+A DISCOURSE SET DOWNE IN A MERRY DIALOGUE, BETWEEN BANKES AND
+HIS BEAST: ANATOMIZING SOME ABUSES AND BAD TRICKES OF THIS AGE.
+WRITTEN AND INTITULED TO MINE HOST OF THE BELSAUAGE, AND ALL
+HIS HONEST GUESTS.
+BY IOHN DANDO THE WIERDRAWER OF HADLEY, AND HARRIE RUNT,
+HEAD OSTLER OF BOSOMES INNE.
+PRINTED FOR CUTHBERT BURBY. 
+1595.
+PP. B1R.1 - D1R.24
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">THE INCIDENTAL USE OF ITALICS FOR &quot;I&quot; IN SOURCE TEXT OMITTED 
+BELOW.</comment>
+
+<pagebreak id="B1R" />
+</dialogue> <head>BANKES
+BAY HORSE IN
+<font>A TRANCE</font> .
+INTERLOCVTORES,
+BANKES AND HIS HORSE.</head> 
+
+<nonSpeech> <font>Bankes</font> </nonSpeech><dialogue> Holla Marocco, whose mare is
+dead, that you are thus 
+melancoly, vp I saie, and let you and
+me conferre a little vppon the
+cause, wherby matters &amp; 
+dealings may seeme to be so, you
+know my meaning.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Whereby matters and dealinges may seeme
+for to be. Verie good sir, spoke like a wholesome 
+haberdasher, and as wisely by Lady master, as he that was
+sworne to his <comment type="compiler">SOURCE TEXT: hls</comment> wiues friends, not to credit out  
+his wares
+<pagebreak id="B1V" />
+to anie man for the first fifteene yeeres hee was 
+married.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> And therewith mee thinkes I see him hang
+the hat vpon the pin againe. Wast not so Marocco? I
+am glad sir to heare you so pleasant in the threshold of
+my discourse, for I am come in purpose to debate a
+while and dialogue with you, and therefore haue at
+you after your watering. Laie out your lips and sweep
+your manger cleane, and summon your wits together,
+for I meane (by mine host leaue) to recreate my selfe 
+awhile with your horsemanship.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> And I am as like master to shew you some
+horse plaie as ere a nag in this parish, for tis a iade can
+neither whihie nor wag his taile, &amp; you haue brought
+me vp to both I thanke you, and made me an 
+vnderstanding horse, and a horse of seruice, master, and that
+you know.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> I Marocco I know it and acknowledge it, &amp;
+so must thou if thou haue so much ingenuitie, confesse
+my kindnes, thou art not onely but also bound to 
+honest Bankes, for teaching thee so many odde prankes. I
+haue brought thee vp right te~derly, as a Bakers 
+daughter would bring vp a Cosset by hand, &amp; allow it bread
+and milke by the eie.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> <font> <foreign>Maius peccatum habes</foreign> </font> , master you haue 
+the
+more to answere, God helpe you. For I warrant you,
+(though I saie it that should not saie it) I eat more 
+prouender in foure and twentie houres, than two of the
+best geldings that Robin Snibor keeps, that a hires for
+two shillings a daie a peece.
+   </dialogue><nonSpeech> <font>Bank.</font> </nonSpeech><dialogue> Two shillings Marocco, nay what saist thou by
+<pagebreak id="B2R" />
+halfe a crowne, and ten groats.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Marie I say, three daies hire is worth foure 
+such horses, saddles, and all. For a buyes them for
+ten pence a saddle at S. Giles one with another,
+and those accoutrements are sutable to his steeds.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Me thinkes such steedes should stand a
+man in small stead, by that he had ridde some fiue
+miles out of towne.
+   </dialogue><nonSpeech> <font>Horse:</font> </nonSpeech><dialogue> Yea bee sure, or halfe fiue miles either.
+And commonly the saddle fals asunder and splits
+in two peeces at the towns end, and one side takes
+his iourney towards Vxbridge, and the other 
+towards Stanes, to stop mine Hosts cushions of the
+George.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Why thats <font> <foreign>Suum cuique</foreign> </font> boye, for the
+waine-men of the West countrie, and the 
+Carryers of Gloucester shire commonlye barter awaye
+their broken ware with the hostlers for pease and
+horsebread, and they returne them a horsebacke
+to Peter Pympe the patchpannell. Marocco thou
+knowest where I am now.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Not I truely master, vnlesse you meane
+that shrewde Sadler that serued you so ill the last
+Tearme, and as I trowe his name was not Peter,
+his name was Iohn Indifferent, for a wrought me
+thought as if a had not cared whether a had 
+earned your money or no.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Beshrew him Marocco, a deceiued my
+hope, in a good part of purple veluet hose, that I
+purposde should haue made mee a seemely 
+saddle.
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> O Maister you are to purpose, and he to
+dispose, of those hose then were your breeches in
+his hands, and sweetely he handled them as you
+know: here mee thinkes had you supde vp but a
+quarter of sack, a quart of sacke, I should haue said.
+See how my minde was Master Patinis vpon the
+bagge of Otes &amp;c. Or had you come in but 
+reasonably loded from the Tauerne, or taken some of
+the excellent Muscadine at the Horne: why,
+what an occupation might you apprehend to
+rayle horribly against these mechanicall fellowes
+of the Towne, that so they haue it, care not howe
+they come by it. Twas but a veneriall sinne in this
+Sadler, to nycoll you, or nicke you rather of an
+old peece of Veluet hose. But what thinke you by
+him that had the conscience to aske fourteene
+yeardes of Satten for a sute of Apparell, and not
+to put in nine of them.
+   </dialogue><nonSpeech> <font>Bancks.</font> </nonSpeech><dialogue> Yea Marocco, as well as of him that sold it
+for eighteene shillings a yearde, being not worth
+ten.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> O he gaue time Master: And then take heed
+of that while you liue, In space, growes grace And
+in prosperitie of the Satten, will swell 
+wonderfully.
+   </dialogue><nonSpeech> <font>Banckes.</font> </nonSpeech><dialogue> I am fall as fast in a cunning stealers
+hand.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> A hard harte hath hee that hath such a
+hande to cut such large thonges of another
+mans lether, and lappe him selfe in a gentle mans
+<pagebreak id="B3R" />
+liuery.
+   </dialogue><nonSpeech> <font>Banckes.</font> </nonSpeech><dialogue> Tush, this is but a pettye matter to
+stande vpon: And yet Marocco I dare saie it and
+sweare it to thee, because thou art no talker:
+this petty matter hath pyncht neerer than
+euery man weenes for. I am vndone, nowe
+young gentleman <comment type="compiler">SOURCE TEXT: genleman</comment> . Well, <font> <foreign>Motos         
+praestat componere
+fluctus</foreign> </font> .
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Why maister of whome should you bee
+afraide, I am able to iustifye as much as you
+say. Indeed those be the young men that neuer
+sawe the Lyons. Young maisters and 
+gentlemen of the carelesse cut, such as care not howe
+they bee cut, or of what cut they bee like, so they
+may haue, to follow al fashions, and then they are
+cut indeed, no force <comment type="compiler">SOURCE TEXT: noforce</comment> , so they fall into a 
+fashion, and walke but twentie foure turnes in
+Paules, let it packe the next daye for the third
+peny. Maister M. <font> <foreign>Nemo ceditur nisi a seipso</foreign> </font> . Byrch
+and greene holly, and thou be beaten boy, thank
+thine owne follie: He that will thrust his necke
+into the yoke, is worthy to be vsed like a iade. He
+that hath been a gentleman of faire demeanes,
+and will so demeane him selfe to let landes
+and lordeshippes flie for a little brauery 
+<font> <foreign>Luat paenas &amp; in pistrino</foreign> </font> , let him crye and let him lye,
+yea and dye to, for any pittie hee is like to haue
+at my handes.
+   </dialogue><nonSpeech> <font>Ba.</font> </nonSpeech><dialogue> Why how now Marocco. O ye are too sowre.
+Dare <comment type="compiler">CATCHWORDS ARE Dare you BUT Dare IS NOT REPEATED ON 
+FOLLOWING PAGE</comment>
+<pagebreak id="B3V" />
+you tell mee of my splene agaynst the Sadler, and
+bee so bitter against the young gallantes of our
+age. What man, nay horse rather, nay asse as thou
+art, to become odious to the flower of Englande
+with thy foule manners. It is as naturall for young
+men to be braue and amorous, as for olde men to
+be graue and serious. Why colte then, youle take
+vppon you I see? Doo you not heare what they
+saie that scarse vouchsafe you an answere? <font> <foreign>Patres
+aequum esse censent nos iam iam a pueris illico nasci
+senes, neque illarum affines esse rerum, quas fert 
+adolescentia</foreign> </font>
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Maister you mistake me, I am no such
+seuere horse nor sullen asse, but I can allowe a yong
+Gentleman his madde trickes, yea, and his merrie
+trickes too for a need. But master, this Latine I
+learned when I gambolde at Oxforde, <font> <foreign>Est modus
+in rebus sunt, certi denique fines</foreign> </font> . This is it vrgeth me
+thus farre, and I speake it in passion too, and wyth
+the action of my head and heeles, that a
+Mercadore, naye, a mechanicall fellowe shall go so farre
+into a Gentleman, and a Gentleman so farre out
+of himselfe &amp; all a has, that for one or two tearmes
+arraie, a shall for his liues tearme, and tearme of
+life become beggeries bondman, and vsuries 
+vassall, <font> <foreign>O tempora, O mores, O Poetarum flores</foreign> </font> . You shall
+finde in an olde Tracte printed by Winkin de
+Woorde, this olde sayde sawe, Whats a
+Gentleman but his pleasure, O pleasure, what a treasure
+is it to take pleasure with measure.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Measure Marocco, nay, nay, they that
+<pagebreak id="B4R" />
+take vp commodities make no difference <comment type="compiler">SOURCE TEXT: differnce</comment> for
+measure betweene a Flemishe ell and an Englishe
+yard.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> I knowe an ell Flemish cost English
+Anthonie halfe a yard of the best ware he had.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> That ware will neuer see ware againe,
+in so good sorte as it hath done, nor sit in a 
+shower of raine on the top of Amwell hill.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Go to master, hum drum is sauce for a
+cunnie, you and I should doo verie ill to speake in
+priuate, we are so plaine.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Plaine Marocco, nay and I were as
+plaine as I will bee, I should crie out-right, for in
+this I agree with thee, and with thee the world
+agrees, and besides teares and commiseration on
+the state of Gentlemen that haue vngentlefied,
+why I might saie, dishonored themselues by
+buying and selling.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Haue they so master? Why woulde hee
+bee a buyer then? Why woulde hee bee a seller?
+This buying and selling,
+By all mens telling,
+Is gaine without swelling,
+To him that sels his dwelling,
+For his bonds cancelling.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Ho, ho, good Marocco, I see now a
+dozen of bread dooes as much with you, as three
+pipes of Tobacco taken in an odde alehouse, to a
+weake braine.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> I am not dronke master, after my
+watering, that you need to challenge mee thus: I know
+<pagebreak id="B4V" />
+what I saie, and I saie what I knowe:
+To buy this measure,
+And this momentanie pleasure,
+With so much treasure,
+To sell seate and seizure,
+And repent at leasure.
+   Go to master, he is a bad waster, that consumes
+his daies and houres, and reapes <foreign>Pour vn plaisure,
+<font>mille</font> </foreign> . Cambridge and Oxford can record: and the
+foule dolorous fortune of many a faire boorde,
+What it is?
+What it is to come into the clouches,
+For Aglets or brouches,
+Of these pure appearing asses,
+That like simple glasses
+Seeme that they are not,
+Let them storme I care not:
+Vnpittied might he bee,
+That imbases his degree,
+With this indignitie.
+   I tell you master, for a truth I tell you too, I
+knowe a man that in this towne, had a Bible lying
+on his shoppe boorde, and solde but three yardes
+of satten vnto a Gentleman, and forswore 
+himselfe at least three times in the coping, and yet the
+booke laie open before him, and hee came newe
+from reading of Salomons Prouerbes.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> That had beene somwhat grosse in him
+if he had beene reading the twentith of Exodus.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> No, no, his minde was on the twentith
+daie of the moneth following, when his money
+<pagebreak id="C1R" />
+was due.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Tis good to haue an eie to the maine:
+house keeping is chargeable, and rent must bee
+paide, the Landlord will haue his due, <font> <foreign>Caueat 
+emptor</foreign> </font> , let the Tenant looke to it.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> The Landlord will leade to the deuill, &amp;
+the Tenant will follow after.
+   </dialogue><nonSpeech> <font>Bancks.</font> </nonSpeech><dialogue> What else? they be relatiues: Landlord
+and Tenant are as <font> <foreign>Pater</foreign> </font> and <font> <foreign>Filius</foreign> </font> .   
+</dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> O master, I could relate to you of these
+relatiues, if it became me to speake like a 
+commonwealths man, what an abuse is ingendered twixte
+the Landlord and Tenant.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Occasion of what Marocco.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Of more amisse by gis, than easily amended
+is, of bauderie, and beggerie, and such lyke
+matters, master. <font> <foreign>Ambubaiarum collegia, 
+pharmacapolae, mendici mimi balatrones, hoc genus omne.</foreign> </font> Crie
+out and complaine for the loffe of this good 
+landlordes worship, God rest his soule, sayes T. B. wee
+could haue had no wrong while hee liued: so hee
+had had his rent at the daie, the deuill and Iohn
+of Comber shoulde not haue fetcht Kate L. to
+Bridewell, no nor all the Court whipt C. F. at the
+cart, Ile tell you master, come what complaint
+coulde haue come against Peticoate lane, Smocke
+Alley, Shordich, or Rotten rowe, there were
+champions and spokes men for this crue, other
+manner of felowes I wis, than you thinke for, such
+as sit in their sattens and riche furres, and wyth a
+<pagebreak id="C1V" />
+dash of a penne in a counting house, coulde doo
+more than the proudest plaintiefe that 
+commenceth anie matter or sute against this sisterhoode,
+yea, and seale vp his letter and theyr lyps both at
+once, that murmure anie thing against the 
+inhabitantes of this holy corner. Master I coulde haue
+shewed you the coppie of a Letter that was lost in
+this yarde by chaunce, written by a man of some
+account, so fauourably to the Treasurer of 
+Bridewell, in the behalfe of an honest Tenaunt of his,
+such a Tenant, master, as had her name <font> <foreign>a Tenendo</foreign> </font> ,
+and would holde so fast betweene the thighs, that
+shame it was for him that had anie shame, to be so
+shamelesse to vse anie meanes to keep her from 
+open shame.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Thou speakest of mallice against some
+or other Marocco, and perhappes thou meanest
+that drabbe that the last daie when shee sawe thee
+heere doo thy trickes, sayd thou wert a deuill &amp; I
+a coniurer.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Against her Master, no of mine honestie,
+she is but a poore whoore, to her I meane. Tush,
+she that I talke of can entertaine you with a duzen
+of tiffite taffetie girles in a morning, I, and the
+worst of them, when she is at the worst, shall haue
+a wrought wastcoate on her backe, and a lockram
+smocke worth three pence, as well rent behind as
+before, I warrant you.
+   </dialogue><nonSpeech> <font>Ban.</font> </nonSpeech><dialogue> Those rents by your leaue Marocco, helpe
+to paie the Landlords rent at the quarters end.
+<pagebreak id="C2R" />
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> I master, and the Landlorde by your
+leaue helpes to rent some of them betweene the
+quarters.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Thats but a tricke of youth lad, <font> <foreign>Omnis
+homo mendax</foreign> </font> , Euerie man may amend.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> True master, <font> <foreign>Et vt hora sic vita</foreign> </font> , A   
+loues a
+whoore as his lyfe. For hee will forbeare as long
+as shee will beare, and thats ka mee, and ka thee,
+knaue he, and queane she.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Had neede bee of exceeding patience
+Marocco, to forbeare as long as sheele beare, for a
+better bearing beast is not in all Shordich, nor
+Hounds-dich neither, than this beastly beast that
+I thinke thou meanest. But speake not so loude,
+for and if her landlord heard you, hee would aunswere
+for her.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> I thinke so, has answered so long for her,
+that a can scarce answere for himselfe, and I speake
+not so loude that I feare him, <font> <foreign>Male audit vbique</foreign> </font> ,
+master, a heares verie badlye euerie where: and
+worse a will heare, and a holde on, yea master, and
+loose hearing and seeing to, and a vie it and see it,
+as a has done these duzen yeres.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Well, whats that to the purpose, these
+wrongs are priuate, and touch himself, and wrack
+not the common wealth, as thou exclaymest.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> O master, then you know nothing: for
+vnderstand you as of Nownes, some be substantiues,
+some be adiectiues: so of Landlords, some of them
+bee couetous, and some bee lecherous, and hee
+<pagebreak id="C2V" />
+is both.
+   </dialogue><nonSpeech> <font>Banckes.</font> </nonSpeech><dialogue> Sayest mee so. Well then Marocco,
+whether does more harme in the commonwelth,
+the couetous or the lecherous Landlord.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> Tush master, that question is no question.
+For though it bee a question betweene the 
+couetous and the prodigall, yet is it no question 
+betwixt the couetous and the lecherous. The 
+lecherous Landlord hath his wench at his 
+commandement, and is content to take ware for his money,
+his priuate scutcherie wounds not the 
+commonwealth farther than that his whoore shall haue a
+house rent free, when his honest neighbours wife
+and children shall neither haue a peece of a house
+or a householde loafe for him. Let him passe for a
+farting churle, and weare his mistres fauors, <foreign>viz.</foreign>
+rubies and precious stones on his nose, &amp;c. And
+this <font> <foreign>Et caetera</foreign> </font> shall, if you will, bee the perfectest
+poxe that euer grewe in Shordich or 
+Southwarke.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> And there haue beene bigge 
+inflamations, and more vnquenchable than the great fire
+that burnt so much blew threed on the toppe of
+Fishstreet hill.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> But the couetous Landlord is the 
+caterpiller of the common-wealth, hee neither feares
+God nor the deuill, nor so hee maye racke it out,
+cares not what Tenant he receiues: he is no 
+wencher (praie God he be no bencher) hee sits warme
+at home, and sets downe his accounts, and saies to
+<pagebreak id="C3R" />
+himselfe, my houses goe nowe but for twentie
+poundes by the yeere, Ile make them all baudie
+houses, and they will yeeld mee twice as much.
+Vppon the Exchange comes to him one or two
+honest men to take the~ at his hands, the poore 
+artificer or his lyke, of what trade so euer, offers him
+the rent it hath gone for, &amp; sureties perhaps. Yea,
+saie so, good securitie, and foure pounds a yere for
+a house, comes Pierce Pandor, and baudie 
+Bettrice his wife, two that I warrant you were 
+knowen well inough what they were, I two that had
+beene as well carted and whipt, and couerd with
+durt ouer head and eares, and they forsooth will
+begin the world anue again, hauing a fresh wench
+or two that came but from the carryers that 
+morning, though shee had tapt many a canne in long
+lane at Barthelmew tide. With this stocke of 
+wenches will this Trustie Roger and his Bettrice set
+vp forsooth with their pamphlet pots, and stewed
+prunes, nine for a tester, in a sinfull saucer, and
+they will offer this couetous and wretched 
+landlorde fiue poundes by the yeere, yea sixe pounds
+to haue his house and his countenaunce wythall.
+But hee that will go to the deuill for money, will
+admit them with fauour, and so let them haue his
+house, with promise of anie thing whatsoeuer in
+his power, yea, and if occasion serue, will write,
+and speak, and take paines and plaie the sutor, and
+beare wyth them in anie thing, so there bee anie
+meane to doo it, and hee to bee sure of his rent.
+<pagebreak id="C3V" />
+God is his iudge hee does it for no fleshly respect,
+but euen of a mere worldly motion, to beare sinne
+out with sinne, and lecherie with couetousnesse.
+Let the Parish complaine, why (sayes hee) what
+should I doo, I haue my rent paid mee at my day.
+I must make money of my lande, and so let them
+doo their heartes out, thinkes hee, I shall haue my
+rent the readier. This cormorant is hee that cares
+not how he get it so hee haue it. This Stymphalist
+is he that with fiue or sixe Tenements, and the 
+retinue thereunto belonging, infectes the aire with
+stench, and poisons that parish, yea and twentie
+parishes off with the contagion of such carrion as
+lies there in their bumble baths, and stinke at both
+ends like filthie greene elder pipes. For him and
+them master, such Landlordes and such Tenants.
+Good master wish as I wish.
+   </dialogue><nonSpeech> <font>Bankes.</font> </nonSpeech><dialogue> Whats thy wish Marocco?
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> That at the quarter daie the parish would
+of their owne deuotion to the common wealth,
+bestow a banket vpon them of ale and cakes in the
+cage, &amp; a hundred or two of good faggots, to 
+consume the bodies and bones of them all and euerie
+mothers child, such Landlords and such Tenants
+as so much against conscience, receiue &amp; deceiue,
+and daie by daie, and houre by houre cheat, 
+coosen, catch, and deuour in pillage from gentlemen,
+prentises, and good fellowes, <font> <foreign>ab vno vsque ad mille</foreign> </font> ,
+euen from the outside to the inside, from the cloak
+to the shirt, leauing Nicol Neuerthriue neuer a
+<pagebreak id="C4R" />
+wench in the chamber or penie in the purse.
+   </dialogue><nonSpeech> <font>Ban.</font> </nonSpeech><dialogue> Marocco, Praie thy wish take effect, I wish
+for euerie parish so pestered with such tenants and
+tenements, God put into their mindes to be but at
+cost and charges for the faggots, for ale and cakes
+I were mearst, if it cost fiue markes. But how does
+this landlord fall into this <font> <foreign>Praemunire</foreign> </font> ? Why is thy
+mallice so great against them, when tis the baude
+and the whoore that make all this stirre?
+   </dialogue><nonSpeech> <font>Hor.</font> </nonSpeech><dialogue> O master, miserable landlords are cause of
+all this mischiefe. Tis he that because he will haue
+an vnreasonable rent, will vpholde anie villanie in
+his tenant: a slaue to monie, a pandor to the baud,
+a piller, nay a pillow &amp; a bolster to all the roguerie
+committed in his houses. And yet will this filthie
+felow sit at his doore on a sonday in the high street
+and my mistres his wife by him, &amp; there forsooth
+talke so saint-like of the sermon that day, and what
+a good peece of worke the young man made, and
+what a goodly gift of vtterance he had, but not the
+value of a pound of beefe wil a giue him, were his
+gift of vtterance comparable to S. Augustines, or
+Chrisostomes eloquence. Sweare a will and
+forsweare vpon the workeday, as well as anie. And if
+percase a sit in place of authoritie, O howe seuere
+will he be in all his proceedings against a yong or
+good fellow in anie trifling matter. Then a takes
+vpon him not a little: Sir (sayes hee) what did you
+in such an house? Wherefore came you 
+thether? And laie the lawe and the Prophetes too,
+<pagebreak id="C4V" />
+and so rate a Gentleman well descended, meerely
+priuiledged with a furd gowne and a nightcap:
+when in deede his bringing vp hath beene in 
+beggerie and slauerie illiberally, hauing spent his time
+in conference with the water tankard at the 
+Conduit, lying miserably, and for sparing of wood, 
+loding his gowne sleeue with fuell from the 
+haberdashers, and wearing his handes in a frostie 
+morning by the fugitiue flames of a few wast papers, a
+naturall enemie to all learning and liberalitie. O
+master, such a churle as you and I sawe heere last
+daie talke with two souldiers in the yard, and put
+his hand in his pouch, &amp; gaue them nere a penny.
+   </dialogue><nonSpeech> <font>Ban.</font> </nonSpeech><dialogue> Didst thou see that Marocco? Well, there
+be too many such as he, yet there is a choice 
+number of sober citizens that haue golden mindes, and
+golden purses withall.
+   </dialogue><nonSpeech> <font>Hor:</font> </nonSpeech><dialogue> That I know well master, and to them that
+haue such golden mindes, I wish golden mines:
+master, I protest to you I speake it not to flatter, but
+in reproach of those money-mongers, those 
+lease-mongers, those caniballs, that dishonour the citie
+wherein they dwell, but vprightly I speake it, that
+you may not think I raile vpon mallice against any
+priuate man for anie priuate quarrell: There are
+many that beautifie London for their good parts,
+who being ciuily and well brought vp, are affable
+to straungers, charitable to the poore, liberall to
+schollers, and such as Citizens should be, dutifull
+to their prince, and deuout to their citie.
+<pagebreak id="D1R" />
+But as cockle is euer among corne, and drosse 
+among gold, so will those foule churles cumber the 
+best corners, and march cheek by ioul among the
+better many, with as great shew of deuotion and
+charitie as the best. From such dissembling 
+holynesse, such double wickednesse, good Lord
+delyuer vs.
+   </dialogue><nonSpeech> <font>Banks.</font> </nonSpeech><dialogue> Tis almost supper time Marocco, I heare
+mine host call, you haue done pretily well for two
+pointes, referre the rest till another time.
+   </dialogue><nonSpeech> <font>Horse.</font> </nonSpeech><dialogue> As you please master, and let this be our
+first lecture of the Anatomie of the world. If the
+Trance holde me but till the next Tearme, where
+now I haue but with a drie foote ouerleapt these
+matters, I may chance of these and more leaue a
+deeper print, and hauing handled a case of 
+commodities, will saie somewhat further of their 
+discommodities and differences, euen as the bit of
+reason shall leade mee. And so I commit you to
+your supper, and my selfe to my litter, for I
+promise you I am not a little weary
+with gambolling this
+afternoone.
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

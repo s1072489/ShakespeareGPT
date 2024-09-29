@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TGREEN">
+  <dialogueHeader>
+
+    <filename>D5TGREEN</filename>
+
+    <identifier>5 TRIAL D5TGREEN</identifier>
+
+    <title>GREENWOOD</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1740</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE GENUINE AND AUTHENTICK TRIAL OF MR. BARTHOLOMEW GREENWOOD, 
+CHARG'D WITH ROBBING MR. ROGER WHEATLY NEAR CAMBERWELL.
+WHICH WAS TRY'D BEFORE THE RIGHT HONOURABLE MR. BARON CARTER, AT THE 
+ASSIZES FOR THE COUNTY OF SURRY, HELD AT KINGSTON UPON THAMES: ON 
+SATURDAY AUG. 2. 1740.
+THE THIRD EDITION.
+LONDON: PRINTED FOR THOMAS ROBINS, IN FLEETSTREET, AND SOLD AT THE 
+ROYAL EXCHANGE, ST. JAMES'S, BOND-STREET, AND CHARING-CROSS. 
+1740.
+PP. 10.22 - 24.36
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="10" />
+   <nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Mr. <font>Wheatley</font> , will you give an 
+Account what happen'd to you, on the Fifth of
+<font>June</font> last, and how far it concerns the
+Prisoner?
+   </dialogue><nonSpeech>Mr. <font>Wheatley.</font> </nonSpeech><dialogue> On the 5th of <font>June</font> last, I
+happened to be at the Tennis Court, and staid
+there till about three o'Clock. While I was
+there, the Prisoner was standing talking with
+One <font>Warren</font> , and then came up to me, and
+inquired of me, when I should see my Lord <font>John
+Sackville</font> , for he wanted to know if my Lord
+would play the Match out, that if he did not care
+to play it he should pay; I told him that if my
+<pagebreak id="11" />
+my Lord <font>John</font> owed him any Money he would
+pay him without doubt, that I was going down to
+<font>Bedford</font> with him to Morrow and would speak to
+him, I then asked the Prisoner how much it was?
+and he told me there were twenty Guneas due to
+him for a Horse and Fifty Guineas at Tennis, I
+replied that if my Lord <font>John</font> would give me an
+Order, I would pay the Money <font>instantly</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did You offer to pay the Money then?
+   </dialogue><nonSpeech>Mr. <font>Wheatley.</font> </nonSpeech><dialogue> I said I would <font>instantly</font> , my
+Lord! provided I had an Order from my Lord
+<font>John</font> . I staid there till about three o'Clock and
+then I went into the City, intending to dine at a
+Friend's House, but I met with some
+Acquaintance which came from <font>Northamptan</font> , and we
+agreed to go to a Tavern together, I staid with
+them some Time, and being at a Loss for a 
+Horse to go my Journey, as I was to set out very
+soon the next Morning, I went from the Tavern
+to find out One Mr. <font>Adams</font> , who I knew had a
+Horse would do for me, Mr. <font>Adams</font> was not at
+Home, But was gone to <font>Vauxhall</font> , accordingly
+having got directions where to find him, I went to
+<font>Vauxhall</font> , where I saw Mr. <font>Adams</font> ; he gave me a 
+Ticket for his Horse, and I took my leave of
+him, thinking it to be my best Way to go cross
+the Fields home to <font>Camberwell</font> , and accordingly
+I went to <font>Kennington</font> Common, crossed over the
+Road and went into the Fields.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> What Time was this?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> It was almost Nine, when I left
+<font>Vauxhall</font> , and it was between Nine and Ten, when
+I got into the Fields. When I got into the Third
+Field I saw a Man before me in the Field, on my
+right Hand, and presently two more.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Were they all three together?
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> Yes, my Lord, there is a Bar to
+get over, after that I was over that, they
+seperated, one went to my Left Hand, another to
+my Right, and the third came after me; seeing
+myself thus beset, I turn'd back to look, and
+saw a Man coming towards me in a <font>Brown Coat</font> ,
+a thin middle-sized Man: He came up to the
+Bar, and leap'd over at once; he had a Pistol
+in his Left Hand, and a large Oak Stick in his
+other: After he had leap'd over the Bar, he
+cry'd out, <font>I want to speak with you</font> ; and
+immediately came up to me, and clapping a Pistol to
+my Breast demanded my Money.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Were the other two Men near you,
+when you were thus attack'd?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> One was about sixteen Yards off,
+the other more.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> This Man that presented the Pistol to
+you, was dress'd in Brown, you say: What were
+the others dress'd in?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> In Brown, they were all dress'd in
+Brown. After he had demanded my Money, I
+told him, I had a Guinea and a Half, and that I
+would give him; but not satisfied with that, he
+laid on me with his Stick as hard as he could:
+The first Blow that I receiv'd, was on the Left
+Side of my Head; upon which, I rais'd my
+Arm, and defended myself with my Cane: I
+receiv'd six Blows on my Head and Left Arm,
+and then he drew a back Stroke, and cut me just
+under my <font>Right Eye</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did not the two Men come up to you
+all this While?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> No, my Lord, I found myself very
+much bruised, and said to him, you Rascall, you
+Villian You, are not you a Rascal to abuse a 
+<pagebreak id="13" />
+Gentleman, when he tells you what Money he has,
+and offers to give it You? why did you STRICK
+then? Said he, I could not well defend myself
+any longer with my Cane, so I threw it down and
+clos'd in with him, and in the Scuffle fell with
+him, he then put his Hand in my Breeches 
+Pocket, and took out One Guinea, a half Guinea, an
+Iron Ring, a Bunch of small Keys and a Silver
+Seal, and finding I had no more, <font>What</font> ! says
+he, <font>have you left your Money at London</font> ? He then
+demanded my Watch, and in the Warmth of my
+Scuffle I was simple enough to let him understand 
+that I knew him, for upon his demanding that, 
+<font>You Villian</font> , says I, <font>You know I wear none</font> . When
+he had robb'd me, he leap'd over the Bar again,
+and went up to the two Men, and they all went
+away together.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> You have told the Manner of your
+being robb'd; Now, I would ask you, if you
+were then certain that you knew the Man, and
+by what?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> As soon as he came up to me I
+knew him, for his Hat was flapp'd, and stood
+a little on one Side, so that I saw his Face very
+plain, and knew it perfectly well, tho' it had a
+yellowish Cast round the Chin, as if it had been
+rubb'd with something; besides I knew his
+Voice.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did you know the two others?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> No, I did not.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> You say, you knew the Person that
+robb'd you. Look at the Prisoner: Now, 
+consider the Oath you have taken, as you shall 
+answer it to God, the Court, and your Country, is
+the Prisoner the Man that robb'd you?
+<pagebreak id="14" />
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> Upon the Oath I have taken, he is
+the Man that robb'd me; I knew him the
+Moment I saw him, and could not be mistaken.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> What did you do when he left you?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> I went directly Home.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> What Time was it when you come
+Home?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> Between Nine and Ten, I sent for
+Doctor <font>Thompson</font> , and he came to me and
+dressed me, I told him I had been robb'd, the
+Manner of it, and that I knew the Person. The next
+Morning, which was <font>Friday</font> , I came to Town,
+thinking to enquire his Name, and that I should
+see him at the Tennis Court. I went to Justice
+<font>Frazier</font> , and he would not grant me a Warrant;
+so I went to the Tennis Court, and told the
+whole Story to my Lord <font>Cavendish</font> , who advis'd
+me to let the Warrant alone till the next Day;
+because he was to be at the Tennis Court then at
+Play: Accordingly, on the <font>Saturday</font> , having got
+a Warrant from Colonel <font>De Veil</font> , I gave it to
+<font>North</font> the Officer, and went with him to the
+Tennis Court, where I pointed out the Prisoner
+to him, and he took him, and carried him before
+the Justice, where he was examin'd, and 
+committed to the Gatehouse.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did you see the Prisoner between the
+Time of the Robbery being committed, and his
+being apprehended?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> Yes, I saw him on the <font>Friday</font> at
+the Tennis Court, and spoke to him, and he
+seem'd to be very much confounded.
+   </dialogue><nonSpeech> <font>Council for the Prisoner.</font> </nonSpeech><dialogue> I would ask you a
+Question or two, Sir, if you please. Did you
+declare to Nobody that you did not know the
+<pagebreak id="15" />
+Man that robb'd you, and said, it was a
+Soldier?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> I did say, he was <font>Riding Master</font> to
+a Troop, and that I knew him, but not readily
+knew his Name.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Have not you said, that you could
+not swear to his Face, only to his Voice?
+   </dialogue><nonSpeech> <font>Wheatley.</font> </nonSpeech><dialogue> No, I always said, I knew both his
+Face and Voice.
+   </dialogue><nonSpeech> <font>Council for the Prosecutor.</font> </nonSpeech><dialogue> Call <font>Thomas Baker</font> .
+Mr. <font>Baker</font> , do you know any Thing of Mr. 
+<font>Wheatley's</font> coming Home, on <font>Thursday</font> , the fifth
+of <font>June</font> ? Give an Account of it?
+   </dialogue><nonSpeech> <font>Thomas Baker.</font> </nonSpeech><dialogue> I am a Tenant of Mr.
+<font>Wheatley's</font> ; he came Home to <font>Camberwell</font> , between
+Nine and Ten o'Clock on <font>Thursday</font> Night, the
+fifth of <font>June</font> last; he was very much beat and
+bruis'd, and said, he had been robb'd, and had
+lost a Guinea and Half, and some other Things,
+and that he had been very ill us'd, but he knew
+the Man that did it?
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did he say, who it was?
+   </dialogue><nonSpeech> <font>Baker.</font> </nonSpeech><dialogue> He said, that he knew him, but did
+not mention his Name.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did not he say, he was robb'd by
+two Soldiers.
+   </dialogue><nonSpeech> <font>Baker.</font> </nonSpeech><dialogue> He said, the Man that had robb'd him
+was a Soldier, and that he knew him very well.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call Dr. <font>Thompson</font> . Mr. <font>Thompson</font>
+was you sent for to Mr. <font>Wheatley</font> on the 5th of
+<font>June</font> , what Time, and upon what Account.
+   </dialogue><nonSpeech> <font>Thompson.</font> </nonSpeech><dialogue> Between Nine and Ten o'Clock on 
+the Fifth of <font>June</font> , I was sent for to Mr.
+<font>Wheatley</font> , I live in <font>Camberwell</font> , I went to his House,
+and dress'd him, he said he had been robb'd,
+and that he believ'd he knew the Man.
+<pagebreak id="16" />
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did he mention no Particulars.
+   </dialogue><nonSpeech> <font>Thompson.</font> </nonSpeech><dialogue> Not while I staid, but I was not
+there long.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> What Time was it when you was at
+Mr. <font>Wheatley's</font> ?
+   </dialogue><nonSpeech> <font>Thompson.</font> </nonSpeech><dialogue> It was almost Ten o'Clock, but not
+quite Ten.
+<comment type="compiler">LONG SPEECH BY COUNCIL FOR THE PRISONER OMITTED.</comment>
+<pagebreak id="18" />
+   </dialogue><nonSpeech> <font>Cou.</font> </nonSpeech><dialogue> Mr. <font>John Baker</font> , did you see Mr.
+<font>Wheatley</font> any Time, and when since the fifth of <font>June</font> ,
+did he mention any Thing about his being 
+robbed, and what?
+   </dialogue><nonSpeech> <font>John Baker.</font> </nonSpeech><dialogue> I saw Mr. <font>Wheatley</font> on the
+<font>Friday</font> , he said he had been robb'd, that he should
+know the Man again if he met him; for he was
+a Soldier, and he had given two Watermen
+something to dog him who had seen him in
+<font>George's</font> Fields.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did he say, he knew the Man or
+his Name.
+   </dialogue><nonSpeech> <font>Baker.</font> </nonSpeech><dialogue> No, he said he should know him
+again if he saw him, that was all.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call <font>George Baker</font> . Mr. <font>Baker</font> do you
+know Mr. <font>Greenwood</font> ?
+   </dialogue><nonSpeech> <font>G. Baker.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Do you remember where and at what
+Time he was on the fifth of <font>June</font> last, or were
+you with him?
+   </dialogue><nonSpeech> <font>Baker.</font> </nonSpeech><dialogue> I dined with him at his own Lodgings
+in <font>Conduit-street</font> , it was a little after Three, and
+I staid with him till almost Seven, when I was
+going away, he said he was going towards the 
+<font>Strand</font> , and if I was going that Way he would
+accompany me; but as I was going another 
+Way we parted, and he went towards the
+<font>Strand</font> ,
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Pray, Sir, when was this?
+   </dialogue><nonSpeech> <font>G. Baker.</font> </nonSpeech><dialogue> It was on <font>Thursday</font> , the Fifth of
+<font>June</font> .
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> How came you to be so very
+particular in that Day, you see Mr. <font>Greenwood</font>                    
+<comment type="compiler">SOURCE TEXT: <font>Greeewood</font> </comment> often, 
+can you remember any other Day of the Month
+that you were with him, or dined with him.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>G. Baker.</font> </nonSpeech><dialogue> Not directly, but that being Post
+Night, I wrote a Letter that Night, which makes
+me remember the Date. I offer'd to give this in
+before Colonel <font>De Veil</font> .
+   </dialogue><nonSpeech> <font>Council</font> </nonSpeech><dialogue> Did Mr. <font>Greenwood</font> send for you when
+before the Colonel?
+   </dialogue><nonSpeech> <font>G. Baker.</font> </nonSpeech><dialogue> No, I heard of his being 
+apprehended, and went voluntarily.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call <font>Cicely Mow</font> . Do you know any
+Thing of seeing the Prisoner at his Uncle's on
+the Fifth of <font>June</font> , and what Time was it?
+   </dialogue><nonSpeech> <font>Cicely Mow.</font> </nonSpeech><dialogue> I am a Servant to Mr. 
+<font>Greenwood</font> . He lives the Corner of the <font>Savoy</font> . 
+Between Seven and Eight o'Clock, on <font>Thursday</font> 
+Night, young Mr. <font>Greenwood</font> came to our
+House, and ask'd for his Uncle, I told him he
+was not at Home, but was gone up to the <font>Genoa
+Arms</font> in <font>Catherine street</font> , and he said he would
+go to him, for he had got on a new Fustian
+Frock and Breeches, and I took up the Flap to
+look on it.
+   </dialogue><nonSpeech> <font>Pros. Co.</font> </nonSpeech><dialogue> Do you usually take up the Flap of
+Peoples Cloaths that come to your Master's House?
+   </dialogue><nonSpeech> <font>Mow.</font> </nonSpeech><dialogue> No; but I thought I might take that
+Liberty with young Mr. <font>Greenwood</font> .
+   </dialogue><nonSpeech> <font>Pros. Co.</font> </nonSpeech><dialogue> What was he dress'd in do you say?
+   </dialogue><nonSpeech> <font>Mow.</font> </nonSpeech><dialogue> In a white Fustian Frock and Breeches,
+a white Waistcoat and Stockings.
+   </dialogue><nonSpeech> <font>P. Co.</font> </nonSpeech><dialogue> How do you know it was the 5th of <font>June</font> ?
+   </dialogue><nonSpeech> <font>Mow.</font> </nonSpeech><dialogue> I am sure it was; he was taken up on
+the <font>Saturday</font> , and it was the <font>Thursday</font> before.
+   </dialogue><nonSpeech> <font>Pr. Co.</font> </nonSpeech><dialogue> Perhaps you may mistake the Day, how
+often does he use to come to his Uncles?
+   </dialogue><nonSpeech> <font>Mow.</font> </nonSpeech><dialogue> Once in three Weeks.
+   </dialogue><nonSpeech> <font>P. Co.</font> </nonSpeech><dialogue> What just once in 3 Weeks and no oftner?
+   </dialogue><nonSpeech> <font>Mow.</font> </nonSpeech><dialogue> Yes, sometimes oftener.
+   </dialogue><nonSpeech> <font>Pris. Co.</font> </nonSpeech><dialogue> Call Mr. <font>Chatler</font> . Sir, please to give
+<pagebreak id="20" />
+an Account what you remember of seeing Mr. 
+<font>Greenwood</font> , on the 5th of <font>June</font> .
+   </dialogue><nonSpeech> <font>Chatler.</font> </nonSpeech><dialogue> I live next Door to old Mr <font>Greenwood</font>
+<comment type="compiler">SOURCE TEXT: <font>Grcenwood</font> </comment>
+in the <font>Savoy</font> ; young Mr <font>Greenwood</font> came to me,
+on the 5th of <font>June</font> , between 7 and 8 o'Clock in
+the Evening. I remember the Day for I had
+wrote to my Lawyer to meet me that Evening,
+and he had mislaid the Note and came to me to 
+know the Time; when Mr <font>Greenwood</font> came to
+me it was between 7 and 8 o'Clock, and he said
+he was going up to his Uncle at the <font>Genoa Arms</font> .
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you see him go into his Uncle's?
+   </dialogue><nonSpeech> <font>Chatler.</font> </nonSpeech><dialogue> No, he said he had been there when
+he came to me: I live next Door.
+   </dialogue><nonSpeech> <font>Pris. Co.</font> </nonSpeech><dialogue> What Cloaths had he on?
+   </dialogue><nonSpeech> <font>Chatler.</font> </nonSpeech><dialogue> A white Fustian Frock; I did not
+mind what else. He did not stay long with me.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Do you know where he went to?
+   </dialogue><nonSpeech> <font>Chatler.</font> </nonSpeech><dialogue> He said he was going to the <font>Genoa
+Arms</font> , he went that Way.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> This does not prove any Thing as to
+the Time of the Robbery.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> We are coming to that now my Lord.
+Call Mr <font>Bartholomew Greenwood</font> . Sir, give an
+Account where you saw your Nephew on the 5th
+of <font>June</font> last, where you was in his Company, and
+how long he staid.
+   </dialogue><nonSpeech> <font>Greenwood.</font> </nonSpeech><dialogue> I went from Home on <font>Thursday</font>
+the 5th of <font>June</font> , about seven o'Clock in the
+Evening and he went up to the Genoa Arms in
+<font>Catherine Street</font> , a little before Eight o'Clock my
+<font>Nephew</font> came in, he sate down and drank with
+me, there were several People in the Room.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> How do you know it was about 8 o'Clock.
+   </dialogue><nonSpeech> <font>Greenwood.</font> </nonSpeech><dialogue> We all guessed it to be about Eight.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you guess it so that Night, or Since?
+   </dialogue><nonSpeech> <font>Greenwood.</font> </nonSpeech><dialogue> That Night. We gues'd it to be
+<pagebreak id="21" />
+about Eight o'Clock. He staid till past Nine,
+and then he and I went out, and after standing
+some Time at the Door, we took a walk round
+<font>Covent</font> Garden Piazza, and I went Home, and
+he went Home to Bed.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> How do you know he went Home?
+   </dialogue><nonSpeech> <font>Greenwood.</font> </nonSpeech><dialogue> He went that Way.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Were any People in Company with
+you at the <font>Genoa Arms</font> ?
+   </dialogue><nonSpeech> <font>Greenwood.</font> </nonSpeech><dialogue> Yes, several: Mr <font>Dobiggen</font> , Mr
+<font>Turner</font> , Mr <font>Austen</font> , Mr <font>Sinicrose</font> , and several others.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> What Cloaths had he on?
+   </dialogue><nonSpeech> <font>Greenw.</font> </nonSpeech><dialogue> A white Fustian Frock and Breeches,
+and a white Waistcoat.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call Mr <font>Dobbigen</font> . Were you at the
+<font>Genoa Arms</font> , Sir, on the 5th of <font>June</font> , and did
+you see the Prisoner Mr <font>Greenwood</font> there?
+   </dialogue><nonSpeech> <font>Dobb.</font> </nonSpeech><dialogue> I remember the Day very well, for I
+wrote several Letters that Day: I was at the
+<font>Genoa Arms</font> , and young Mr <font>Greenwood</font> came in
+about a Quarter before 8 o'Clock: He sat down
+by his Uncle, and they drank two Half Pints of 
+Wine; while they were drinking, one of the
+Company pull'd out some Patterns of Cloth,
+which we look'd at, and I taking Notice of Mr
+<font>Greenwood's</font> Coat, and talking of the Price of
+Cloth, says he, What do you think the Outside
+of this Coat and Breeches cost me? it was light
+Fustian: Five or six and twenty Shillings said I.
+No, said he, but sixteen.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> He had a light Fustian Coat on you
+say?
+   </dialogue><nonSpeech> <font>Dobb.</font> </nonSpeech><dialogue> Yes, a light Fustian Coat and Breeches,
+white Waistecoat and white Stockings. They
+staid till a Quarter after 9, and then young
+<font>Greenwood</font> would have had t'other half Pint, but the old
+Gentleman said it was late, he must go Home.
+<pagebreak id="22" /> 
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Conrt.</font> </comment> How do you know it  
+was a Quarter
+after Nine? Had you any Clock, and did you look
+particularly upon his going?
+   </dialogue><nonSpeech> <font>Dobb.</font> </nonSpeech><dialogue> No, my Lord, but the old Gentleman
+saying it was late, one of the Company pull'd out
+his Watch, and it was a Quarter after Nine all
+but one Minute. They staid about three or four
+Minutes in the House, and then got up and went
+into the Yard, and there they stood talking a
+Quarter of an Hour: From the Yard they went
+down the Entry to the Street Door, and there
+they stood again; they were Half an Hour in the
+Yard, and at the Door.
+   </dialogue><nonSpeech> <font>Court.</font> </nonSpeech><dialogue> Did you see them all the While?
+   </dialogue><nonSpeech> <font>Dobb.</font> </nonSpeech><dialogue> Yes, for I sate fronting the Window,
+and saw them all the While they stood in the
+Yard, and at the Door, and when they went
+away I am sure it was above Half an Hour after
+Nine.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call Mr <font>Turner</font> . Do you
+remember seeing Mr <font>Greenwood</font> on the 5th of <font>June</font> at
+the <font>Genoa Arms</font> ?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Yes, Sir, I went into the <font>Genoa Arms</font>
+about Half an Hour after Seven, and Mr
+<font>Greenwood</font> came in not very long after me; so that I
+believe it was near Eight: He staid there till past
+Nine, and then ask'd his Uncle, old Mr 
+<font>Greenwood</font> , if they should have another Half Pint, but
+the old Gentleman did not care for any more
+Wine; so they went out and stood talking
+together in the Yard, and at the Door for near Half
+an Hour, and then went away.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> What Cloaths had young Mr
+<font>Greenwood</font> on at that Time?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> A white Fustian Frock, white
+Waistcoat Breeches and Stockings.
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Did they stand in Sight when they
+were in the Yard, and at the Door?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Yes, I saw them all the While.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Call Mr <font>Sinicrose</font> . Sir, Was you at
+the <font>Genoa Arms</font> , on the 5th of <font>June</font> ?
+   </dialogue><nonSpeech> <font>Sinicrose.</font> </nonSpeech><dialogue> I was there about Seven o'Clock,
+young Mr <font>Greenwood</font> came in about Eight; he
+staid till a Quarter after Nine, and then went
+out in the Yard, where he stood talking with his
+Uncle Half an Hour, that is in the Yard and at
+the Door.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Do you know any Thing of a Watch
+being pull'd out to see the Hour.
+   </dialogue><nonSpeech> <font>Sinicrose.</font> </nonSpeech><dialogue> Yes, old Mr <font>Greenwood</font> saying it was
+late, and he did not care to drink no more, I
+pull'd out my Watch to see what o'Clock, and it
+was exactly fourteen Minutes after Nine, they staid
+some little Time in the House, paid their
+Reckoning, and went and stood in the Yard and at
+the Door.
+   </dialogue><nonSpeech> <font>Thomas Crose.</font> </nonSpeech><dialogue> I keep the <font>Genoa Arms</font> , young
+Mr <font>Greenwood</font> was in the House when I came in,
+about a Quarter after Eight, and I left him there
+when I went out at Nine.
+   </dialogue><nonSpeech> <font>Alice Turner.</font> </nonSpeech><dialogue> I am Servant at the House where
+Mr. <font>Greenwood</font> lodges in <font>Conduit street</font> ; he came
+home on <font>Thursday</font> , the fifth of <font>June</font> , exactly at
+11 o'Clock: I let him in, and I know what
+Hour it was, because our Clock was set that Day,
+and I look'd to see how it went, for one Clock
+had struck, but ours had not.
+   </dialogue><nonSpeech> <font>John Greenwood.</font> </nonSpeech><dialogue> My Brother has Seventy
+Pound a Year or upwards Estate part Freehold,
+part Copyhold I know it for I received the Rents 
+in my Father's Time, and for my Brother since
+this Misfortune.
+<pagebreak id="24" />
+   </dialogue><nonSpeech> <font>Lord Delawar.</font> </nonSpeech><dialogue> Mr. <font>Greenwood</font> is Riding
+Master to the Troop, which I have the Honour
+to command, it brings him in generally 200 <font>l.
+per Annum</font> ; but, I believe, I may say never less
+than 150. He is a sober Man, bears a general
+good Character, and I never heard the least Ill
+of him; this I know, that whenever I send for
+him upon any Business, he is always ready and
+with me, almost as soon as I send.
+   </dialogue><nonSpeech>Mr. <font>Frazier.</font> </nonSpeech><dialogue> When Mr. <font>Wheatley</font> came to me
+for a Warrant, he said he did not know the Man
+by his Face, but by his Voice: I would not
+grant him a Warrant, and said, if you cannot
+swear to his Face, be sure you are certain of his 
+Voice before you <comment type="compiler">SOURCE TEXT: your</comment> swear.
+   </dialogue><nonSpeech>Col. <font>De Veil.</font> </nonSpeech><dialogue> When he was examin'd before
+me, Mr <font>Wheatley</font> said, if <font>Greenwood</font> was the Man,
+he had a black Arm, for he had paid him so with
+his Cane, that it must be black. He stripp'd
+both his Arms, and not the least Mark
+appeared; most of the Evidence that has been given in
+Court was offer'd before me.
+   </dialogue><nonSpeech>My Lord <font>Delawar</font> , Col. <font>Folliot</font> , Capt. <font>Hawker</font> ,
+Esq; <font>Fowler</font> , Mr <font>Ellis</font> , and several others
+appeared, and gave Mr <font>Greenwood</font> a general good
+Character.
+   The Prosecutor likewise call'd several 
+Gentlemen to his Character, who said, that he was a Man
+that would not forswear himself on any Account.
+   The Judge, having summ'd up the Evidence,
+left it to Jury, concluding:</nonSpeech><dialogue> <font>Gentlemen, if you
+believe Mr</font> Wheatley <font>you will find the Prisoner guilty,
+if do not believe Mr.</font> Wheatley <font>you'l acquit him</font> .
+   </dialogue><nonSpeech>The Jury withdrew, and return'd in a 
+Quarter of an Hour, and brought in their Verdict,
+NOT GUILTY.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

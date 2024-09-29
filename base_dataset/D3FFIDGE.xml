@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3FFIDGE">
+  <dialogueHeader>
+
+    <filename>D3FFIDGE</filename>
+
+    <identifier>3 FICTION D3FFIDGE</identifier>
+
+    <title>THE ENGLISH GUSMAN</title>
+
+    <author>FIDGE GEORGE</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1652</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">FIDGE, GEORGE.</attribution>
+      <frontMatter>THE ENGLISH GUSMAN; OR THE HISTORY OF THAT UNPARALLEL'D THIEF
+JAMES HIND.
+(...)
+WRITTEN BY G. F.
+LONDON
+PRINTED BY T. N. FOR GEORGE LATHAM JUNIOR; AND ARE TO BE SOLD AT THE
+BISHOPS-HEAD, IN PAUL'S CHURCH-YARD, 
+1652.
+PP.  2.19 - 11.29 SAMPLE 1
+PP. 14.25 - 15.39 SAMPLE 2
+PP. 16.7 - 17.26  SAMPLE 3
+PP. 19.1 - 22.7   SAMPLE 4
+PP. 25.1 - 33.15  SAMPLE 5
+PP. 35.31 - 46.13 SAMPLE 6
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">DOUBLE STROKE ON P. 15, L. 18 OMITTED.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="2" />
+ <head> <font>HOW</font> HIND <font>RUN FROM HIS MASTER</font> .</head> 
+
+   <nonSpeech>Hind living but a weary life with his master, would
+often complain to his fellow Apprentize of their <font>Slavish</font>
+life and condition, and told him, <font>That it was better to rob on
+the highway, then so to spend his life</font> , and so resolved to
+enlarge his restraint; and upon a time he puts on his <font>best
+apparel</font> and goes to his <font>Mother</font> and desires leave of her        
+<font>privately</font> 
+(unknown to his <font>Father</font> ) to go to <font>London</font> ; and there he told
+his <font>Mother, he had a friend that in a short time would procure
+him a place to his content</font> ; the good old woman loving her
+<font>onely son</font> so dearly, (being her onely joy) that she would not
+seem to deny him, that request; but gave him <font>forty shillings</font> , 
+and promised to furnish him with no more money, untill such
+time as he should be placed; so that now he gives his master
+the <font>slip</font> , and travels towards <font>London</font> , and upon the Rode he
+<pagebreak id="3" />
+overtakes some <font>Carriers</font> , of whom he asked some <font>questions</font> ,
+but they answered him but <font>saucily</font> , whereupon <font>Hind</font> strikes
+one of them to the ground, but the rest seeing that, fell upon
+him, and intreated him with many sower blowes, and at last
+being parted, <font>Hind</font> tells them <font>that he would requite their
+cowardliness</font> ; as afterwards he performed by robbing them,
+as shall be intimated hereafter.</nonSpeech>
+
+ <head> <font>WHAT BEFEL HIM WHEN HE CAME TO</font> LONDON.</head> 
+
+   <nonSpeech>Hind being now come to <font>London</font> , did meet with many
+of his friends, and acquaintance, and one night being
+<font>drinking</font> in the <font>City</font> , and too long staying by the <font>good    
+liquor</font> ,
+made <font>Indentures</font> as he went by the <font>Counter</font> , (a <font>Trap</font> to   
+catch
+such <font>Rats</font> , was forced to take a nap before he went any
+further, and after his first <font>sleep</font> , awaked and looked about him,
+saying,</nonSpeech><dialogue> <font>This is a large house and may entertain many guests</font> ,
+but I do not intend to keep my <font>Christmas</font> here; </dialogue><nonSpeech>and 
+afterwards meeting with some <font>mad Lads</font> (as mad as himself) in
+earnest resolved to be <font>drunk</font> , being before but spiced a
+little with the same <font>disease</font> <comment type="compiler">SOURCE TEXT: <font>dis ase</font> </comment> , in  
+jest; now they drink and roar,
+fearing neither <font>Cunstable</font> , nor <font>Watchmen</font> , to come to disturb
+them) and at this place <font>Hind</font> became acquainted with <font>Allen</font> ,
+who now is one of the <font>chief Rogues</font> in the <font>Pack</font> and promised
+<font>Hind</font> to entertain him as his servant, and to learn him such an
+<font>Art</font> , as would for ever make him a <font>Gentleman</font> , <font>Hind</font> being
+willing to imbrace his proffer, (to be a <font>Gentleman</font> ) vowed,
+<font>To serve him in any thing</font> :</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">SO HIND BEGAN HIS CAREER, BEING CAREFUL TO PAY HIS NEW MASTER
+SPECIAL ATTENTION.</comment>
+<pagebreak id="4" />
+</dialogue> <head> <font>HOW</font> ALLEN <font>INSTRUCTS HIS NEW SERVANT, AND SETS HIM TO ROB A</font>
+GENTLEMAN.</head> 
+
+<omission type="sentence" /> <nonSpeech> <font>Allen</font>
+seeing his young man in a <font>Study</font> took him aside, saying,</nonSpeech><dialogue> <font>I
+would have you be as my companion and friend, and not as a
+servant, neither do I look for any such respect as you do give me;
+you shal eat and drink as I do, and if I have money, you shal have
+part, and want none, and if I want, you must help to get some
+as well as you can</font> : </dialogue><nonSpeech>In short, <font>Hind</font> condescended, and they
+<font>swore him to be true to their Gang</font> ; which being done, they
+admit him as a <font>Brother</font> of their Company: And now to <font>Flesh</font>
+him they determined, and went to a stable, where were many
+brave Horses: <font>Allen</font> bid him chuse his <font>Horse</font> , and to take
+which he <font>liked best</font> ; whereupon <font>Hind</font> did chuse the very best
+(and <font>Allen</font> and his Gang wondred much to see what
+an audacious spirit their new Brother had:) Now they go to
+<font>Shooters-Hill</font> , where presently they discovered a 
+Gentleman and his servant coming towards them; and <font>Allen</font> bid
+<font>Hind</font> to ride alone up to them, and they would <font>lie</font> in an
+<font>Ambush</font> if occasion should serve; thereupon <font>Hind</font> rides to them
+(being already tutor'd to the purpose) and bids them <font>Stand,
+and deliver such money as they had, otherwise he would
+presently be their death</font> ; The Gentleman not willing to die,
+presently gave him <font>Ten pounds</font> , which was all the Gentleman had;
+<font>Hind</font> seeing it was all he had, said,</nonSpeech><dialogue> <font>Sir, here is forty      
+shillings
+for you to bear your Charges; in regard it is my Handsale</font> ; </dialogue><nonSpeech>the
+Gentleman answered,</nonSpeech><dialogue> <font>I wish you better luck with it then I
+have</font> ; </dialogue><nonSpeech>so <font>Hind</font> took his way, and came to the rest of the gang;
+<pagebreak id="5" />
+and <font>Allen</font> praised him for learning his Art so quickly, saying,</nonSpeech><dialogue>
+did you not see, <font>How he rob'd him with a Grace</font> .
+
+</dialogue> <head> <font>HOW</font> HIND <font>SOLD HIS HORSE TO A</font> CITIZEN <font>OF</font> LONDON.</head> 
+
+   <nonSpeech> <font>Hind</font> having Liberty to ride where he pleased, having his
+Art already so perfectly; upon a time took an occasion to
+ride to <font>Barnet</font> , where he took up his <font>Inn</font> , and there met with
+some Gentlemen, and were very merry together; and after
+Supper, <font>Hind</font> went to <font>feed</font> his horse, and see him drest, and
+some of the Company went with him (but chiefly a <font>Citizen</font> )
+and when they came into the <font>Stable</font> , the <font>Citizen</font> looked upon
+all the <font>Horses</font> , wishing, <font>he had a better then his own; his
+being the worst</font> ; and <font>switching</font> the horses, at last switched   
+<font>Hinds</font> ,
+which leapt with such <font>courage</font> , as made the young Citizen
+wish him <font>his own</font> ; and asked the Hostler, <font>whose horse it was</font> ;
+the Hostler answered,</nonSpeech><dialogue> <font>it is the Gentlemans in the gray suit</font> .
+<font>I wish he would sel him me</font> , </dialogue><nonSpeech>said the Citizen; In the interim,
+<font>Hind</font> came into the Stable where the Citizen and the Hostler
+were; The Hostler said,</nonSpeech><dialogue> <font>Sir, will you sell your horse</font> :        
+</dialogue><nonSpeech> <font>Hind</font>
+said, <font>that money would buy him</font> ;</nonSpeech><dialogue> Sir, </dialogue><nonSpeech>said the Citizen,</nonSpeech><dialogue>    
+<font>I have a
+good Gelding here, but that he is out of flesh; what shal I
+give you, and my Gelding, for your Horse</font> , </dialogue><nonSpeech>Hind said,</nonSpeech><dialogue> <font>Sir, you
+shal give me five and twenty pound and your Gelding</font> ; </dialogue><nonSpeech>The
+Citizen told him it was too much;</nonSpeech><dialogue> <font>yet</font> </dialogue><nonSpeech>said he,</nonSpeech><dialogue> <font>I will    
+give you</font> 20l.
+<font>in Gold and my gelding, which is worth</font> 8l. <font>for your horse</font> :  
+</dialogue><nonSpeech>Now
+he strikes him earnest with a piece of gold, <font>Hind</font> loving that
+<font>kind</font> of money, yeilded that a bargain; the Citizen had the
+best bargain, if he could have kept the horse; though he
+bought him by <font>Candle light</font> : The Citizen pays <font>Hind</font> the rest 
+of the gold, and gives him a pottle of sack for good luck; 
+after their mirth they go to bed. In the morning, <font>Hind</font> , out
+of courtesy, would have the Citizen on his way; but as they
+rod, <font>Hind</font> found fault that he rayned his horse too hard, saying,</nonSpeech><dialogue>
+<font>he is tender mouthed, and you will put him quite out of his pace</font> :
+</dialogue><nonSpeech>But they now riding in <font>Endfield Chase</font> , <font>Hind</font> desired the
+Citizen to let him ride the horse, and he would shew him how
+<pagebreak id="6" />
+to pace him right; the Citizen easily believing what <font>Hind</font> said,
+alighted, and mounted the horse that <font>Hind</font> rid; <font>Hind</font>
+finding himself well setled on his own horse, paced him a little
+way;</nonSpeech><dialogue> Sir, </dialogue><nonSpeech>said <font>Hind</font> ,</nonSpeech><dialogue> <font>you shall see his true pace the next 
+time you see me</font> ; <omission type="sentence" />
+<comment type="compiler">SO THE CITIZEN LOST HIS GOLD AND HIS NEW HORSE, AND WHEN 
+HE LATER TOLD HIS FRIENDS OF HIS ENCOUNTER, HE WAS GREATLY
+RIDICULED.</comment> 
+<omission type="line" /> </dialogue><nonSpeech>The Citizen said,</nonSpeech><dialogue> 
+<font>Gentlemen, forbear, for this is worse then the loss of all, to be
+laughed at</font> .
+
+<comment type="compiler">ALLEN'S FONDNESS FOR HIND AND HIS EXPLOITS INCREASED. INDEED, IT
+SPURRED HIM AND HIS GANG TO JOIN IN HIS MANY VARIED EXPLOITS.</comment>
+<pagebreak id="7" />
+</dialogue> <head> <font>HOW</font> HIND <font>PARTED FROM HIS COMPANY, AND APPOINTED TO MEET THEM
+AT A CERTAIN PLACE; AND HOW HE ROBBED TWO GENTLEMENS 
+SERVANTS; AND CAUSED A PARSON TO BE APPREHENDED FOR A
+HIGHWAY-MAN, AND ESCAPED HIMSELF</font> :</head> 
+
+   <nonSpeech> <font>Hind</font> being informed of a Purchase, desired leave of his
+gang, to go by himself for a day, and appointed them
+to meet him at a certain place; but his plot failed: and
+being vext, he not much minded his way, but rod on another
+road, where he espied some gentlemen drinking at an
+Alehouse on horse-back, having sent their servants before: <font>Hind</font>
+passed by them; but riding at a good rate, quickly overtook
+the Gentlemens servants, who rod but easily: <font>Hind</font> being with
+them, saw by their Portmantles that there was money in them;
+<font>bid deliver the money, or he would be their death</font> : they being
+not used to fight, yeilded unto him; but he seeing their
+delaies would breed danger; with his dagger-knife, cut open
+the Portmantles, and took out the money, and tying the baggs
+together, laid them before him and rid full speed away: one
+of the servants rod to acquaint their Master, who presently
+persued <font>Hind</font> hard: <font>Hind</font> met a Parson and said to him,</nonSpeech><dialogue>      
+<font>Sir</font> ,
+I am like to be robbed, you must stand to it now for your own
+good as well as mine: they would have this money from me, which
+you see. Come Sir, be of good cheer, one honest man will skare
+ten theeves: you shall have one of my pistols: </dialogue><nonSpeech>So <font>Hind</font> gives the
+Parson a pistol ready cock't and charged, and bids him</nonSpeech><dialogue> fire at
+them that come first; while I ride down to the <font>next Village
+and raise the Countrey people to be our help</font> . </dialogue><nonSpeech>The <font>Parson</font> 
+having taken a cup too much at a wedding, was                        
+<font> <foreign>pot-valliant</foreign> </font> , and
+rid up boldly to the Gentlemen, and fired his Pistol at them;
+<pagebreak id="8" />
+but being too far off, did no execution <comment type="compiler">SOURCE TEXT: execntion</comment>   
+to either of them; but
+he rid nigher to them, and flung the <font>Pistol</font> at one of them, that
+he had like to have knockt him off his horse: the Gentlemen
+seise on him, and take him prisoner: the Parson cries out,</nonSpeech><dialogue>
+<font>spare my life, and you shall have all my money</font> : no Sirra, </dialogue><nonSpeech>said
+the Gentlemen,</nonSpeech><dialogue> <font>we will have you hanged: what? a Parson
+and rob on the high-way</font> : </dialogue><nonSpeech>they presently hale him to the next
+Justice of the Peace, which was very near: when they came
+before the Justice, they told him, <font>That they were robbed of
+almost two hundred pounds; and that this Parson was one of the 
+Theeves</font> : the Justice marvailed that such an apparent 
+testimony should come against the Parson of his Parish.</nonSpeech>
+   <nonSpeech>The Parson by this time was come to himself, and desired
+the Justice to give him leave to speak for himself: being
+licensed to speak, he said to the Justice,</nonSpeech><dialogue> <font>Sir, you have known me
+this twenty years, and no man can say I have wronged him of
+a penny; much less this which is laid to my charge</font> ; Sir, I shall
+tell you so much as I know of this business: <font>as I was riding in
+my way home, I met a man who had two baggs of money before
+him, who told me that theeves persued him, and he desired
+my help; and said that I need not fear, for One honest man would
+beat Ten theeves: so he gave me a Pistol charged, cockt and
+primed, and bid me fire at the first that came, while he raised
+the Countrey men to assist us</font> : but when these Gentlemen
+came down the hill, I rod up to them, and fired my pistol
+among them, and when I had so done, I flung it at this
+Gentlemans head, thinking they had been theeves: <font>Sir, this is
+all I know of the matter</font> . </dialogue><nonSpeech>The Justice laughed to see the
+Parson of his Parish apprehended for a high-way-man; so the
+Justice past his word for his appearance the next Assises: who
+when he was brought before the Bench, was cleared: But <font>he 
+made a vow never to fire Pistols more</font> .</nonSpeech> 
+<pagebreak id="9" />
+ <head> <font>HOW</font> HIND <font>CAME TO HIS COMPANY SHEWING THEM THE MONEY; AND
+WHAT HAPNED TO THEM AT THE SAME TIME</font> .</head> <dialogue>
+<comment type="compiler">HIND SOUGHT OUT HIS FRIENDS TO TELL THEM OF HIS MOST RECENT 
+ADVENTURE, BUT WAS OVERHEARD.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech> <font>Hind</font> having a quick wit, did guess by the peoples
+<font>staring</font> up to the windowes, that they were discovered: he
+then speaks to all his Company to shift for themselves: he
+takes one of his bags and goes into the stable: and mounts
+his horse, and was gone before any of the other could finde
+their cloaks and necessaries to be going: there came in this
+mean time many people in, who filled the yard with noise, that
+they could scarce hear one another: <font>Allen</font> to appease the
+multitude, flung handfuls of money among them: saying,</nonSpeech><dialogue>
+<font>Good people forbear comming any farther</font> , and be civil: for
+we are Gentlemen: and to the contrary expect death some of
+you: <omission type="sentence" />
+<comment type="compiler">ALLEN AND HIS MEN MANAGE TO ESCAPE TO AN INN SOME TWENTY MILES
+AWAY. HOWEVER, A CONSTABLE COMES UPON THE INN WHILE THEY ARE
+SLEEPING.</comment>
+<pagebreak id="10" />
+<omission type="sentence" /> </dialogue><nonSpeech> <font>Allen</font> was amased to see so many
+lights, and watchbills, in his Chamber, said Mr. Counstable,</nonSpeech><dialogue>
+<font>You might have been more civil, then to press into my Chamber
+at this time of the night</font> : Sir, </dialogue><nonSpeech>said the Counstable</nonSpeech><dialogue> I was
+commanded so to do: <font>I would your torches and candles were all
+out</font> , </dialogue><nonSpeech>said Allen,</nonSpeech><dialogue> <font>otherwise I shall not sleep</font> :            
+<font>Jack</font> : give the
+Counstable five shilings to make his watchmen drink: I thank
+you sir </dialogue><nonSpeech>said the Counstable,</nonSpeech><dialogue> <font>I see you are an honest Gentleman
+now: Good night sir: Good night Mr. Counstable: I pray
+let me hear no more of you</font> .
+   </dialogue><nonSpeech>The Counstable descending the stairs; said to some of his
+watchmen,</nonSpeech><dialogue> I am sorry I have troubled the Gentleman: did
+you not see what a glorious shute lay on the Table: I'll
+warrant it <font>cost twenty Nobles, at least</font> : his men I beleeve are  
+all
+<font>Gentlemen</font> or <font>Gentlemens sons</font> ; good lord! If I had taken
+these men for the Robbers, What should have become of me,
+and you too: </dialogue><nonSpeech>one of <font>Allens</font> men came down and called for a
+pint of Sack in a Gallon pot: the Counstable drank Sack like
+small Beer, till the watchmen were troubled to carry him, for
+go he could not; so we leave the Counstable drunk as he is:
+and return to <font>Allen</font> : who is in a <font>sweat</font> .</nonSpeech>
+
+ <head> <font>HOW</font> ALLEN <font>CAUSED HIS MEN NOT TO GO TO BED, BUT TO SIT UP AND
+DRINK, FEARING LEAST A PLOT SHOULD BE LAID TO TAKE HIM: AND
+HOW IN THE MORNING HE WOULD HAVE ROBBED A</font> STEWARD <font>TO A
+NOBLE MAN</font> .</head>  
+
+   <nonSpeech>When <font>Allen's</font> men came from the <font>Counstable</font> , he said
+to them,</nonSpeech><dialogue> <font>How goes the squares abroad</font> : </dialogue><nonSpeech>they answer
+him</nonSpeech><dialogue> very well: <font>feel my hands</font> </dialogue><nonSpeech> <font>said</font> Allen,</nonSpeech><dialogue> <font>If I was   
+not in a
+fear when they came</font> : well we are much bound to God that he
+gave this <font>Counstable</font> no more understanding; otherwise we
+might have lookt out at a grate by this time; I hope that
+<font>James</font> is well, for I love him dearly; Gentlemen, I shall desire
+you to sit up this night for fear of the worst: </dialogue><nonSpeech>so <font>Allen</font> made  
+as
+<pagebreak id="11" />
+though that disturbance would not let him sleep any more
+that night: saying,</nonSpeech><dialogue> <font>When my first sleep is broke, I can sleep no
+longer</font> : </dialogue><nonSpeech>so he sends one of his servants to the Host of the
+house to come and drink with him: who being a good fellow,
+never denies drink, came willingly to Mr. <font>Allen</font> : (who told
+him, he was sorry there was any disturbance in the house; but
+being in all other Inns, he hoped he would not be
+offended:</nonSpeech><dialogue> No, no, </dialogue><nonSpeech>said <font>Allen</font> ,</nonSpeech><dialogue> <font>I am not troubled</font> , but 
+onely for my
+sleep: but this shall be your penalty that you drink all
+night with me; sir, </dialogue><nonSpeech>said the Host,</nonSpeech><dialogue> I shall fulfil your desire:
+</dialogue><nonSpeech>then said <font>Allen</font> </nonSpeech><dialogue> I will rise; </dialogue><nonSpeech>there being a great fire in  
+the
+room: their drink was muld sack till morning: which when it
+appeared he caused all his men to be in a readiness for to take
+horse; and accordingly his desire was accomplished, so
+taking leave of his Host, rod away: but riding by-ways because of
+the hew and cryes overtook a Gentleman riding with a
+port mantle behinde him: <font>Allen</font> used some discourse; and
+among the rest asked if he lived thereabouts: he answered</nonSpeech><dialogue> yes,
+I am a steward to a noble man in these parts, and I have been
+to fetch in some rents that lay forty miles off: </dialogue><nonSpeech> <font>Allen</font> was glad
+when he heard he had money: said,</nonSpeech><dialogue> sir, how do you think I
+maintain all these Gentlemen: shall I tell you: <font>I borrow of
+those that are not willing to give or to lend</font> : sir, </dialogue><nonSpeech>said the
+Steward</nonSpeech><dialogue> you are merrily disposed: and are willing to try my
+patience: I speak in earnest </dialogue><nonSpeech>said <font>Allen</font> ,</nonSpeech><dialogue> therefore unto your
+portmantle: sir, </dialogue><nonSpeech>said the Steward,</nonSpeech><dialogue> if you will have it, I cannot
+now gainsay it: I am a servant, and if you take this money
+from me I am undon; but I will direct you to a greater
+purchase if you let me escape: </dialogue><nonSpeech>to this <font>Allen</font> consented:</nonSpeech><dialogue>      
+<omission type="sentence" />
+<comment type="compiler">THE STEWARD INFORMED THEM THAT A PAYMENT OF 200 POUNDS WAS SOON 
+TO BE MADE TO A LONDON CREDITOR.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="14" />
+ <head> <font>HOW</font> HIND <font>WAS BETRAYED BY TWO WHORES: WHO SENT TWO HIGHWAY
+MEN TO TAKE</font> HIS MONEY: <font>AND <comment type="compiler">SOURCE TEXT: und</comment> HOW HE KILLED    
+ONE OF THEIR HORSES,
+AND ROBD THE OTHER OF HIS MONEY</font> .</head> <dialogue>
+<comment type="compiler">HIND INVITES TWO WHORES TO JOIN HIM FOR HIS EVENING MEAL AT AN INN.
+ON RETIRING TO BED, THE TWO WHORES TELL THEIR REAL COMPANIONS ABOUT
+HIND'S GOLD.</comment>
+<pagebreak id="15" />
+<omission type="sentence" /> </dialogue><nonSpeech>but the
+theeves seeing he had so <font>good a horse</font> , were like to fall out who
+should <font>have him</font> : one said,</nonSpeech><dialogue> <font>I will have the horse, and you
+shall have his money</font> : <font>nay</font> , </dialogue><nonSpeech>said the other,</nonSpeech><dialogue> <font>I will have 
+his horse</font> .
+</dialogue><nonSpeech>They quickly made themselves ready, and rod after <font>Hind</font> ;
+when they had overtaken him, they asked him which way he
+rod, he answers them,</nonSpeech><dialogue> towards <font>Cambridg</font> : </dialogue><nonSpeech>they tell him they
+would be glad of his company: now riding in a place where no
+people were nigh, one of the theeves sings</nonSpeech><dialogue> <font>Maids where are
+your hearts become, Look you what here is</font> ! </dialogue><nonSpeech> <font>Hind</font> seeing their
+intent, and knowing he was betrayed, answers them in the same
+tune:</nonSpeech><dialogue> <font>Now you Rogues, you are both undone Look you what
+here is</font> , </dialogue><nonSpeech>fyring at one of them, by chance shot his horse in the
+head: the horse presently fell down with his Masters leg
+under him: the other seeing this, betook him self to flight, but
+<font>Hind</font> quickly overtook him, and made him deliver such money
+as he had: cutting his girts and his bridle made him work
+enough to catch his horse again. <font>Hind</font> now rides to the other
+theif who now lay in little ease: he alights and puls the horse
+from his leg, and then helps him up, and takes away his money
+also, saying,</nonSpeech><dialogue> <font>is there but one Master-Thief in</font> England, <font>and
+would you venture to rob him: verily, were you not of mine
+own profession; neither of you should have lived; but seeing
+you ventured hard for it, thou deservest something</font> : </dialogue><nonSpeech>so <font>Hind</font>
+gave him his money back which he had taken from him, to
+buy him another horse: saying to him,</nonSpeech><dialogue> <font>Remember what I say
+unto you: Disgrace not your selves with small sums, but aim
+high, and for great ones; for the least will bring you to the 
+gallows</font> : </dialogue><nonSpeech> <font>Hind</font> shaking the poor thief by the hand, left him 
+to
+his partner to catch his horse, and bid him farwell.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="16" />
+ <head> <font>HOW</font> HIND <font>WAS</font> INCHANTED <font>BY A</font> CUNNING WOMAN, <omission type="sentence" /> </head> 
+
+<omission type="sentence" />
+<pagebreak id="17" />
+<omission type="sentence" /> <nonSpeech>as he rod along <font>Hatfield</font> , at the Towns end,
+an old <font>Ill-favoured woman</font> asked an <font>Almes</font> of him: his horse
+<font>presently staid</font> , and would go no further;</nonSpeech><dialogue> <font>Sir</font> , </dialogue><nonSpeech>said    
+the old
+woman,</nonSpeech><dialogue> <font>I have something to say to you, and then you shal be      
+gon</font> ;
+</dialogue><nonSpeech> <font>Hind</font> not likeing her Countenance, puld out <font>five shillings</font> 
+and
+gave her, thinking she would but like a <font>Gipsee</font> , tell his fortune:
+Said,</nonSpeech><dialogue> good woman <font>I am in hast</font> : Sir, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> <font>I have    
+staid all
+this morning to speake to you; and would you have me lose my
+labour</font> : speak your mind, </dialogue><nonSpeech>said <font>Hind</font> .</nonSpeech>
+
+<nonSpeech>The old woman began thus:</nonSpeech><dialogue>
+
+   <font>Captain</font> Hind, <font>You ride and go in many dangers; wherefore
+by my poor Skill, I have thought on a way to preserve you, for
+the space of Three Years: but that time being past, you are no
+more then an ordinary man, and a mischance may fall on you,
+as well as another: but if you be in</font> England, <font>come to me, and</font> I
+<font>will renew the Vertue of this</font> Charm <font>again</font> : </dialogue><nonSpeech>in saying these
+words, she puld out of her <font>bosom, a little box</font> , almost like a
+<font>Sun Dyal</font> , and gave it Captain <font>Hind</font> , and said to him,</nonSpeech><dialogue>     
+<font>When
+you are in any distress, open this, and which way you see the
+Star turn, ride or go that way, and you shall escape all dangers</font> :
+</dialogue><nonSpeech>So she <font>switched him</font> with a <font>white Rod</font> that was in her hand, 
+and
+<font>strook</font> the <font>horse</font> on the <font>buttocks</font> and bid him farwell:</nonSpeech><dialogue>  
+<omission type="sentence" />
+<comment type="compiler">THE OLD WOMAN'S CHARM KEPT HIND FROM ALL DANGERS FOR SOME TWO
+MONTHS.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="19" />
+ <head> <font>HOW</font> HIND <font>ROBBED A GENTLEMAN OF ONE HUNDRED AND FIFTY POUNDS,
+NEAR NOTTINGHAM</font> .</head> 
+
+   <nonSpeech>Hind travelling up and down at last met with a lusty
+young fellow whom he had formerly known: and
+asking him many questions, among the rest: said,</nonSpeech><dialogue> <font>Jack, If thou
+wilt live with me thou shalt have money at command or any
+thing you want</font> , </dialogue><nonSpeech> <font>Jack</font> knowing partly his trade, gave consent,
+<font>Hind</font> presently bought a good horse for his man; and 
+furnished him with <font>Cloaths, a sword</font> , and <font>small pistols</font> :    
+being well
+fixed away they travel towards <font>Nottingham</font> ; and as they rod
+they chanced to come into an Inn, where a Gentleman and his
+man were newly come before them: <font>Hind</font> rides to the stable
+door, where the Hostler was a taking of the other Gentlemans
+portmantle, the Hostler said,</nonSpeech><dialogue> <font>it is but a little pormantle, but  
+it
+is very heavy:</font> </dialogue><nonSpeech> <font>Hind</font> , well eying it said to his man:</nonSpeech><dialogue>      
+<font>Jack,
+enquire cuningly which way this Gentleman travels to
+morrow</font> : <omission type="sentence" />
+<comment type="compiler">HIND ENSURED THAT HE AND THE GENTLEMEN BECAME BETTER
+ACQUAINTED.</comment> 
+<omission type="sentence" /> </dialogue><nonSpeech> <font>Jack</font> asked the Gentlemans servant, <font>which way
+they rod in the morning</font> , he told him</nonSpeech><dialogue> towards <font>London</font> , my
+Master, </dialogue><nonSpeech>said <font>Jack</font> ,</nonSpeech><dialogue> <font>rides that way too</font> , I think, </dialogue><nonSpeech>now  
+<font>Jack</font> 
+having as much as he desires, went to see what his master 
+wanted: <font>Hind</font> bids his man get his slippers ready, and pull off
+his boots: which being done he takes his leave of the
+Gentleman, and goes to bed: when he came into his Chamber, he asked
+his man which way they went: <font>Jack</font> tels him: In the
+morning <font>Hind</font> rides first: but the Gentleman stays to eat his
+breakfast: after he had done he rod on his journey, and 
+riding by a wood where <font>Hind</font> and his man lay in ambush for
+them: <font>Hind</font> rides out to the Gentleman, and with his <font>Cane 
+slaps</font> him over the <font>pate</font> : saying,</nonSpeech><dialogue> <font>have I nothing to do but 
+to</font> 
+wait <font>on you</font> : </dialogue><nonSpeech> <font>Jack</font> , takes his Portmantle off:</nonSpeech><dialogue> master,  
+<font>tis 
+<pagebreak id="20" />
+heavy</font> : Sir, </dialogue><nonSpeech>said <font>Hind</font> to the Gentleman,</nonSpeech><dialogue> <font>you are ill     
+beloved
+in the Country that you cannot get gold for your silver</font> :          
+</dialogue><nonSpeech> <font>Jack</font>
+rides back to the Gentlemans servant and <font>strikes</font> him <font>over the
+pate</font> , saying,</nonSpeech><dialogue> <font>You Rogue, must I spoil my horse to carry your
+Portmantle; must</font> I, <font>must</font> I, you Rogue.
+   </dialogue><nonSpeech>Hind and his man rid away; leaving the Gentleman and
+his servant: looking one upon another, almost amased at this
+sudden accident; the Gentleman at the last cheers up himself,
+and sayes to his man;</nonSpeech><dialogue> I <font>was robbed between</font> sun and sun,
+<font>therefore the Country must pay me again</font> : </dialogue><nonSpeech>so they ride back to
+make their redresses: where we leave them to get their 
+money if they can.</nonSpeech><dialogue>
+<comment type="compiler">HIND ESCAPED TO GLOUCESTERSHIRE, WHERE HE MET UP WITH, AND STOLE 
+FROM, A FARMER.</comment>
+
+</dialogue> <head> <font>HOW</font> HIND <font>ROBBED A FARMER</font> .</head> 
+
+   <nonSpeech>Hind riding between <font>Glocester</font> and <font>Tewxbery</font>
+overtook a <font>Country-Farmer</font> , who had money about him, to
+whom <font>Hind</font> had some discourse, and as they were riding;
+<font>Hind</font> shewed him one of the <font>States</font> twenty shilling peeces,
+asking him, how he liked it: the Country Farmer replied,</nonSpeech><dialogue> <font>it
+is a very fair peece, I would I had one to carry home with me: If
+you please</font> , Sir, <font>I will give you one and twenty for it</font> ; Sir, 
+</dialogue><nonSpeech>said
+Hind,</nonSpeech><dialogue> <font>being you are desirous of it, you shall have it</font> ; </dialogue><nonSpeech>the
+Countryman pulled out his <font>long purse</font> , and told out one and
+twenty shillings and gave <font>Hind</font> ; so <font>Hind</font> gave him the peece of
+gold, saying,</nonSpeech><dialogue> <font>do not put it among your silver, for it will wast
+the gold</font> : well, </dialogue><nonSpeech>said the Country man,</nonSpeech><dialogue> <font>I'll put it in my     
+little
+pocket then in a paper to keep it</font> ; </dialogue><nonSpeech> <font>Hind</font> , seeing his purse,
+<pagebreak id="21" />
+longed like a <font>woman with child</font> till he had it: said to the       
+Farmer</nonSpeech><dialogue>
+Sir, <font>I want a little silver to buy a commodity that I have use
+for</font> : nay, </dialogue><nonSpeech> <font>said the Country man</font> </nonSpeech><dialogue> <font>you shall have your    
+gold again</font> :
+the old saying is true, <font>one may buy gold to dear</font> : </dialogue><nonSpeech>Hind said,</nonSpeech><dialogue>
+<font>tell me not of old stories, but give me your money, for I will
+have it by fair means or foul</font> : nay, </dialogue><nonSpeech>said the Country man</nonSpeech><dialogue> <font>I
+will not fight, but if you have it, I'll go to law with you, if there
+be any law in</font> England: </dialogue><nonSpeech> <font>Hind</font> told him, <font>that he cared more
+for the Lawyers, then the law it self: and would be glad to
+meet them any where</font> :</nonSpeech><dialogue> <font>your money, your money</font> , </dialogue><nonSpeech>said        
+Hind,</nonSpeech><dialogue> <font>I
+do not use to stay so long for so</font> little <font>money</font> : </dialogue><nonSpeech>the Farmer  
+pulls
+his purse out, as if all the wealth of <font>Presto John</font> or of the
+<font>Indies</font> had laine in it: but <font>Hind</font> receiving the purse made    
+light
+of it, saying,</nonSpeech><dialogue> <font>this is an ill daies work, but I will make it
+better before night</font> : If God send you good luck </dialogue><nonSpeech>said the Farmer,</nonSpeech><dialogue>
+<font>I hope you will give me my money again</font> : yes, yes, </dialogue><nonSpeech>said        
+<font>Hind</font> ,</nonSpeech><dialogue>
+and <font>many thanks</font> ; then I suppose </dialogue><nonSpeech>said the Farmer</nonSpeech><dialogue> <font>you are no
+common thief</font> , but one that will <font>pay what you borrow</font> :         
+</dialogue><nonSpeech> <font>Hind</font>
+asked him where he lived, that he might come and pay him:
+the Farmer told him, and so <font>Hind</font> parted from him: the Farmer
+went home thinking <font>Hind</font> would come and pay him his money
+again: shewing all his neighbours his new gold, and told
+one of his neighbours how he was served: his neighbour said,</nonSpeech><dialogue>
+you may hang him if you will; <font>No, no</font> ,                           
+</dialogue><nonSpeech> <font>said the Farmer</font> ,</nonSpeech><dialogue> <font>I
+will not hang him because he let me have his gold so
+willingly</font> .
+
+</dialogue> <head> <font>HOW HE JESTED WITH A BUTCHER THAT WAS HIS FRIEND.</font> </head> 
+
+   <nonSpeech>Hind riding neer <font>Chippingnorton</font> , met with a friend and
+acquaintance of his; but <font>Hind</font> being in a disguise of false
+<font>hair</font> and a false <font>beard</font> : would not make him acquainted who
+he was: but bid him <font>stand and deliver such money as he had</font> ,
+the Butcher said,</nonSpeech><dialogue> <font>You come in an ill time, for I have newly
+paid away all my money; but I have six shilling left, if that
+will serve your turn you shall have it</font> : </dialogue><nonSpeech> <font>Hind</font> said,</nonSpeech><dialogue> <font>any 
+money</font> :
+<pagebreak id="22" />
+for, I am like an <font>Angler that must refuse no bite</font> : for I may
+as well <font>catch a fry</font> , as a <font>great fish</font> . </dialogue><nonSpeech> <font>Hind</font> having   
+his money rod
+a little way, and pulled of his disguise and returned to his
+friend; and <comment type="compiler">SOURCE TEXT: aud</comment> said,</nonSpeech><dialogue> <font>how easie it is to        
+deceive an honest man</font> :
+</dialogue><nonSpeech> <font>Hind</font> gives him his <font>six shillings</font> again; and gave him also a
+<font>twenty shillings</font> peece to buy him a <font>pair of gloves</font> : after a 
+little
+discourse they parted.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="25" />
+ <head> <font>HOW</font> HIND <font>GOT A GALLANT HORSE, HAVING SPOILED HIS OWN BY AN
+UNFORTUNATE LEAPE</font> .</head> <dialogue>
+
+<comment type="compiler">HIND BADLY INJURED HIS HORSE WHILE PERFORMING TRICKS FOR A 
+GROUP OF GENTLEMEN.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech> <font>Hind</font> being on his own horse, asked what the price of
+that horse was; the Horsecourser that was to sell him, said,</nonSpeech><dialogue>
+fourscore pound is his price: </dialogue><nonSpeech> <font>Hind</font> , said,</nonSpeech><dialogue>  ride him along:
+</dialogue><nonSpeech>the man <font>rod him well; but</font> Hind <font>had a minde to use him        
+better</font> :
+and said to the Horsecourser;</nonSpeech><dialogue> <font>I prithee put my saddle on the
+horse: that I may try him</font> : </dialogue><nonSpeech>He did so, and held <font>Hinds</font> horse:
+which to sight was as good as the other: <font>Hind</font> rid the horse
+a little way and trotted him back, and asked the 
+Horsecourser, whether he had a <font>good Gallop</font> ;</nonSpeech><dialogue> yes, Sir, </dialogue><nonSpeech>said  
+he,</nonSpeech><dialogue>
+<font>Gallop him and try</font> : </dialogue><nonSpeech> <font>Hind</font> gallopt him <font>so far</font> , that   
+he <font>returned
+no more</font> : leaving his horse with the Horsecourser, to make
+the best use of him: which once was <font>better</font> , but now may
+<font>lye</font> on his hands: <font>Hind</font> being well horsed, rod till he came
+to a place: where some of his Companions stayed for him:
+but when he come to the place, they were extream glad to see
+him so well mounted: they presently asked him, how he came
+by this brave horse, and what he gave for him: He answers
+them thus:</nonSpeech><dialogue> <font>Gentlemen, how long shall I tutor you; will you
+never understand this; to deceive the deceiver is no deceit?
+I had him of the Horsecourser at an easie rate</font> : </dialogue><nonSpeech>whereat they
+fell a laughing at the conceit: and so mounting their horses,
+away they ride together.</nonSpeech>
+<pagebreak id="26" />
+ <head> <font>HOW</font> HIND <font>ROBBED A GENTLEMAN IN YORKSHIRE, AND AFTERWARDS
+CAME TO THE INN WHERE HE LAY TO SUP WITH HIM, BUT DID NOT</font> .</head> <dialogue>
+
+<comment type="compiler">HIND ROBBED A GENTLEMAN TRAVELLING FROM YORK TO LONDON, LEAVING
+HIM ENOUGH TO FIND LODGING AT THE NEXT INN.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>in the mean time, in comes <font>Hind</font> , and askes, <font>If
+there were any Gentlemen that went for</font> London; the Host
+answered, yes, <font>There was one Gentleman alone, and he would
+be glad of any good Company</font> . So <font>Hind</font> went up to the
+Gentleman's Chamber and saluted him: The Gentleman said,</nonSpeech><dialogue>
+Sir, <font>sit down, and I will tell you how I was robbed to day, and
+I durst have sworn you had been the man, but that your hair
+is short, and his was long</font> . Sir, </dialogue><nonSpeech>said Hind,</nonSpeech><dialogue> <font>do you know his
+horse</font> ; yes <font>very well</font> , </dialogue><nonSpeech>said the Gentleman;</nonSpeech><dialogue> <font>To satisfie  
+you</font> ,
+</dialogue><nonSpeech>said <font>Hind</font> ,</nonSpeech><dialogue> <font>you shall see mine</font> : </dialogue><nonSpeech>So <font>Hind</font> went down 
+and fetch'd
+his horse out of the Stable, and asked the Gentleman, <font>If that
+were the horse</font> ; he answered,</nonSpeech><dialogue> I, I, <font>that's the horse</font> .       
+<font>Then</font> ,
+Sir, </dialogue><nonSpeech>said Hind,</nonSpeech><dialogue> <font>I cannot sup with you to night, if you know
+my</font> Horse <font>better then my self</font> . </dialogue><nonSpeech>So he bids him good night.</nonSpeech>
+
+ <head> <font>HOW SOME OF</font> HIND'S COMPANIONS <font>ROBBED A GENTLEMAN: AND,
+HOW</font> HIND <font>MET HIM, AND GAVE HIM MONY TO BEAR HIS
+CHARGES, AND AFTERWARD MET HIM IN</font> LONDON, <font>AND PAID HIM THE
+REST</font> .</head> 
+
+   <nonSpeech>Hind and his Gang, riding merrily along, met 
+accedentally with one of <font>Hind's</font> friends, who was very glad to
+see <font>Hind</font> , and to have some private discourse with him: <font>Hind</font>
+desired his Companions to ride before, and he would
+overtake them:</nonSpeech><dialogue> <omission type="sentence" />
+<pagebreak id="27" />
+<comment type="compiler">WHILE HIND AND HIS FRIEND SOUGHT OUT A PLACE TO TALK, HIND'S 
+GANG RODE ON AND ROBBED A GENTLEMAN TRAVELLER.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>the Gentleman
+kept on his way, and as he rod met with <font>Hind</font> , who bid him
+<font>Stand, and deliver</font> : the Gentleman said,</nonSpeech><dialogue> <font>It was the last     
+thing I
+did</font> : for four Gentlemen in such habits met me and took
+all my money from me: </dialogue><nonSpeech> <font>Hind</font> knowing they were his
+Companions, said,</nonSpeech><dialogue> <font>did they leave thee any money</font> : very         
+<font>little</font> , </dialogue><nonSpeech>said
+the Gentleman:</nonSpeech><dialogue> Sir, </dialogue><nonSpeech>said Hind,</nonSpeech><dialogue> <font>I see you look but melancholly
+on the matter; deal ingeniously with me, and tell me how much
+they had from you</font> : In troth, Sir, </dialogue><nonSpeech>said the Gentleman,</nonSpeech><dialogue> it were
+a folly for me <font>to bely me own purse</font> : they had about <font>twelve
+pounds</font> from me: </dialogue><nonSpeech> <font>Hind</font> pulls out <font>five peeces</font> of           
+<font>gold</font> , and gives
+it the Gentleman, saying,</nonSpeech><dialogue> Sir, <font>here is this in part, and when
+I meet you next, I will give you the rest</font> : </dialogue><nonSpeech>the Gentleman 
+giving him many thanks, would have parted from him: <font>Hind</font>
+said</nonSpeech><dialogue> I have one thing more to say to you; <font>here are many wags
+abroad, and they will have this money from you; therefore if
+you meet any; tell them</font> the Fidler is paid, <font>and they will let
+you pass</font> : </dialogue><nonSpeech>so <font>Hind</font> bid him farewel; the Gentleman had not
+rid far, but he met with some blades, who bid him stand;</nonSpeech><dialogue>
+Gentlemen </dialogue><nonSpeech>said he</nonSpeech><dialogue> the FIDLER <font>is paid</font> : </dialogue><nonSpeech>they being
+satisfied with this answer; asked him which way the 
+FIDLER went: he giving them the best direction he could, 
+parted from them. <font>Hind</font> afterwards met this Gentleman in
+<font>London</font> , and paid him the <font>rest of his money, and gave him a
+Dinner</font> .</nonSpeech>
+
+ <head> <font>HOW</font> HIND <font>SERVED A COMMITTEE MAN, WHO DISGUISED HIMSELF
+FOR FEAR OF ROBBING</font> .</head> <dialogue>
+
+<comment type="compiler">A COMMITTEE MAN DISGUISED HIMSELF AS A POOR OLD MAN IN 
+AN ATTEMPT TO PREVENT FALLING VICTIM TO ROBBERS.</comment>
+<pagebreak id="28" />
+<omission type="sentence" /> </dialogue><nonSpeech>but
+<font>money ill got will be ill spent</font> ; for he chanced to meet with
+<font>Hind</font> who asked what he was: he replyed, <font>that he was an</font>
+old man <font>going to get relief among his friends</font> : <font>Hind</font> gave him
+a peece in gold, and bid him <font>drink his health, and be merry
+at his Inn</font> : the old miser thinking to please <font>Hind</font> , coyned
+two or three great oathes presently and said, <font>he would be drunk
+with drinking his health</font> , so <font>Hind</font> parted from him, and the
+old man went to his Inn, and set up his mare, then called for
+half a pint of Sack; and after the first glass was down, he 
+began to say, that he escaped the greatest danger that ever he
+was in;</nonSpeech><dialogue> for, </dialogue><nonSpeech>said he,</nonSpeech><dialogue> I met with <font>Hind</font> ; and <font>insteed of   
+robbing
+me, he gave me a peece in gold; and bid me drink his</font> health,
+<font>but I'll see him hanged before I'll spend one penny for his sake;
+hang him</font> Rogue, <font>he robs all</font> honest men, <font>onely</font> Cavaliers,
+<font>he lets them go: I'll put his gold among my own: I would
+have given ten pound to have been rid of him when first I met
+him</font> ; </dialogue><nonSpeech>so after a short supper went to bed. <font>Hind</font> came to
+the Inn, using to lie there, as a traveller not known: the host
+was telling him in what fear an old Committee man was to
+day, saying, he met with <font>Hind</font> , who gave him money to drink
+his health; but he said he would see him hanged first, and
+called him rogue a thousand times: <font>Hind</font> went to bed, and
+let the old man travel first in the morning, and about an hour
+after, <font>Hind</font> rides after him: when he had overtaken him:
+he asked the old man, <font>if he drank his health</font> ;</nonSpeech><dialogue> I, Sir, </dialogue><nonSpeech>said  
+he,</nonSpeech><dialogue>
+<font>I was never so drunk in my life, as I was the last night; for
+I drank the Kings health, the Queens, the Princes, and your
+health ten times over</font> . </dialogue><nonSpeech>Hind said unto him</nonSpeech><dialogue> Friend, <font>I have    
+found
+you in many</font> lies: <font>and now I wil make you call me</font> Rogue <font>for
+somthing</font> : </dialogue><nonSpeech>So <font>Hind</font> made him unty <font>his greasy</font> snapsack,    
+<font>where
+he found fifty pound in gold, and his own peece besides; now the
+Committee man to cheer up himself; resolved to borrow so
+much money of the State before he went another journey</font> . Hind
+said,</nonSpeech><dialogue> the sooner you get it, the more money I shall have.
+<pagebreak id="29" />
+</dialogue> <head> <font>HOW</font> HIND <font>BORROWED MONEY OF A TOBACCO-SELLER, WHO SOLD HIS
+TOBACCO AT FAIRS, AND TO GREAT INNS, AND AFTERWARD PAID
+HIM</font> .</head> 
+
+   <nonSpeech>Hind having some Companions with him more then he
+thought good, sent some of them to seek their fortune by
+themselves, he only reserving two Gentlemen wherein he put
+great confidence; but money growing short, he desired them to
+accompany him, they being as willing to go, as he was to desire
+them: as they were riding, <font>Hind</font> espies one riding between
+two Dossers on a good horse, says to his Companions,</nonSpeech><dialogue> I believe
+that this fellow has money, tis but trying </dialogue><nonSpeech>said Hind: they
+presently ride to him, and being far from any house, they ask him
+for money, and tel him that money they will have: the fellow
+was amazed and could not tell what to answer: they presently
+lead him out of the road, and puls him off his horse, and riggs
+his dossers, where they found nothing but Tobacco and pipes,
+and some <font> <foreign>aquavitae</foreign> </font> in a bottle:</nonSpeech><dialogue> come, </dialogue><nonSpeech>said             
+<font>Hind</font> ,</nonSpeech><dialogue> honest fellow
+will you give us a pipe of your <font>Tobacco</font> : yes, with all my heart
+</dialogue><nonSpeech>said he,</nonSpeech><dialogue> and my <font>strong water</font> too: </dialogue><nonSpeech> <font>Hind</font> says,</nonSpeech><dialogue>        
+<font>honest friend, I
+have but little money, and if you will lend me but three or four
+pound, I will give you five pound for it a week hence upon my
+reputation</font> : Alas, Sir, </dialogue><nonSpeech>said the fellow,</nonSpeech><dialogue> I have not much money,
+and that I have <font>is my Masters</font> ; but rather then you should
+take it from me by force, I will lend you <font>three pounds</font> which
+I have <font>hid about me</font> : well </dialogue><nonSpeech>said <font>Hind</font> ,</nonSpeech><dialogue> it shall be       
+sufficient: </dialogue><nonSpeech>the
+poor fellow puls off his hat, and in the <font>crown</font> thereof was his
+money: <font>Hind</font> and his Comrades fell a laughing at this conceit,
+and said,</nonSpeech><dialogue> <font>we might have looked long enough in the Dossers, and
+your money so safe</font> : </dialogue><nonSpeech>he delivers <font>Hind 3. pound</font> , saying,</nonSpeech><dialogue>   
+<font>I hope you
+will be honest, and then you shall borrow another time</font> : </dialogue><nonSpeech> <font>Hind</font>
+thanks him, and appoints him <font>a place</font> to pay him. After ten
+days <font>Hind</font> sent for this fellow to come to him, who presently
+came: <font>Hind</font> gives him 5 <font>l.</font> and his belly full of sack:</nonSpeech><dialogue>      
+Sir, </dialogue><nonSpeech>said the
+fellow,</nonSpeech><dialogue> <font>I will give you a pound of Spanish Tobaco</font> : no do not go
+</dialogue><nonSpeech>said <font>Hind</font> :</nonSpeech><dialogue> I live but hard by, at the <font>Constables</font> :      
+</dialogue><nonSpeech>said Hind,</nonSpeech><dialogue> I
+<pagebreak id="30" />
+<font>never care to take any of their Tobacco</font> : </dialogue><nonSpeech>so calling for his   
+horse,
+<font>rod away</font> .</nonSpeech>
+
+ <head> <font>HOW</font> HIND <font>ROBBED TWO CAPTAINS THAT HAD RECEIVED MONEY TO PAY
+THEIR TROOPS, AND AFTER HE HAD CONVEYED AWAY THE MONEY,
+CAME BACK AND ROBBED THEM OF WHAT MONEY THEY HAD ABOUT
+THEM</font> .</head> 
+
+   <nonSpeech>Two Captains, whose Troops lay then in <font>Essex</font> , had been
+to fetch money for the payment of them a fortnights pay,
+having two Troopers and a spare horse with them, whereon
+the Port-mantle lay which had the money, but they riding by
+<font>Havaring</font> Park, heard many Gentlemen hollow; so they loving
+the sport, rid into the Park, and commanded the Troopers to
+stay till they came back: <font>Hind</font> , as his fortune was, came that
+way, and seeing a horse with a Port-mantle, did guess it to be
+money by the close lying of it; asked what they stayed for, they
+said, for their Captains; as they were in discourse, the <font>Deer</font> and
+<font>Doggs</font> ran by, which took the Troopers <font>Eyes</font> off their Charge:
+the while <font>Hind</font> with his <font>Dagger</font> knife cut the                 
+<font>male-girts</font> , and
+takes the <font>Port-mantle</font> and laies before him, and rides away; but
+when he was just setting spurs to his horse, one of the 
+Troopers cries out,</nonSpeech><dialogue> <font>The Port-mantle's gon, The Port-mantle's     
+gon</font> :
+</dialogue><nonSpeech>The Captains being amazed at this newes, rod after <font>Hind</font> ; but 
+he had delivered up his Treasure to those that stood redy for
+it; and returned a little way, where he espies only the two
+Captains coming, who rod at him a tilt; but he knowing how
+to save one, shund their first incounter, and out rid them again;
+the Captains followed him hard; at last he turned short and
+came in the rear of one of them, and puld him by his long Belt,
+that he made him lie on the ground, and the fall so much
+amazed him, that he could not rise to catch his horse: <font>Hind</font> was
+presently up with the other, and was so rough with him, that 
+he cryed, <font>Quarter</font> : <font>Hind</font> feels his pocket, where was a very  
+fine
+<font>watch</font> and ten pieces of <font>gold</font> : <font>Hind</font> cuts his bridle and  
+girts,
+and turns his horse going, and presently went to the other, who
+as yet, was scarce in his senses; yet delivers <font>Hind</font> such money
+<pagebreak id="31" />
+as he had: the Troopers by this time were come up: but
+their horses were so tyred that they could gallop no longer:
+<font>Hind</font> flung them twenty shillings to drink, and bid them
+farwel.</nonSpeech>
+
+ <head> <font>HOW</font> HIND <font>NEATLY ROBBED A PARSON OF FORTY POUNDS IN GOLD,    
+WHICH
+HE HAD HID IN THE</font> COLLER <font>OF HIS</font> DOUBLET; <font>AFTER HE WAS
+ROBBED OF ALL HIS SILVER THE DAY BEFORE</font> .</head> 
+
+   <nonSpeech>A Parson riding from <font>Coventry</font> towards <font>London</font> , by petty
+theeves was robbed of his <font>Silver</font> : but having forty pounds
+in <font>gold</font> about him resolved to go on his journey: and as he
+rode, <font>Hind</font> overtook him, and asked the Parson which way
+he travelled: the Parson told him that he intended for
+<font>London</font> :</nonSpeech><dialogue> but I was almost prevented, for to day I was robbed
+of <font>five pounds in silver</font> , and the knaves left me but <font>five     
+shillings</font> .
+Sir, </dialogue><nonSpeech>said <font>Hind</font> ,</nonSpeech><dialogue> <font>I was robbed of a little silver to day    
+also</font> : for
+a man were as good let them have it quietly, as indanger ones
+life to resist; but I was cunning enough to hide my gold in my
+<font>boots</font> , before I met them: nay, I believe, </dialogue><nonSpeech>said the Parson,</nonSpeech><dialogue>
+<font>that mine is as safe; for I have quilted it in the Coller of my
+Dublet</font> : </dialogue><nonSpeech> <font>Hind</font> was not a little glad when he heard where his
+gold lay: but being neer their Inn, they supt together, and
+went to bed; in the morning the <font>Parson</font> called <font>Hind</font> up, and
+told him, he would be glad of his Company: after breakfast 
+they rid together; <font>Hind</font> asked the Parson <font>if he could guess
+what trade he was</font> ;</nonSpeech><dialogue> no </dialogue><nonSpeech>said the Parson: then said <font>Hind</font> ,</nonSpeech><dialogue> 
+<font>I am
+a Cutter: for I must cut the Coller of your Doublet off, before
+I shall come to your money</font> : </dialogue><nonSpeech>having so done, he left the Parson
+forty pounds <font>lighter, then he found him</font> .</nonSpeech><dialogue>
+<pagebreak id="32" />
+<comment type="compiler">THE RHYME UNDER THE ILLUSTRATION OMITTED.</comment>
+</dialogue> <head> <font>HOW</font> HIND <font>ROBBED TWO LAWYERS</font> .</head> 
+
+   <nonSpeech>Two Lawyers that had got money enough in their
+Circuit, were resolved to return to <font>London</font> : and now being
+<pagebreak id="33" />
+on their way, <font>Hind</font> overtakes them: and askes them which
+way they were travelling: they told him,</nonSpeech><dialogue> to <font>London</font> : I go
+there too </dialogue><nonSpeech>said <font>Hind</font> :</nonSpeech><dialogue> we three may make a fine Company, for
+we may travel as cheap as two; </dialogue><nonSpeech>but as they were riding, the
+two Lawyers disputed much on <font>points</font> of the <font>Law</font> : <font>Hind</font>
+being almost <font>dulled</font> with their <font>Discourse</font> , said,</nonSpeech><dialogue>           
+Gentlemen, <font>what
+point of the Law will you give for this</font> ; suppose I <font>take both
+your monies from you, and give each of you a small ring in
+lieu of it</font> . </dialogue><nonSpeech>One of the Lawyers said,</nonSpeech><dialogue> <font>it doth weaken the Law
+much; but because we are two, and you but one, we may hang
+you</font> : </dialogue><nonSpeech>said Hind,</nonSpeech><dialogue> <font>In troth I will try the title</font> : </dialogue><nonSpeech>so      
+having a
+<font>Pistol</font> ready; made them deliver their money, and gave each
+of them a <font>ring</font> , and bid them <font>incite him if they would</font> : they
+said,</nonSpeech><dialogue> <font>to much purpose</font> , and you'll <font>never come</font> : <font>God be   
+with
+you</font> , </dialogue><nonSpeech>said he.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="35" />
+ <head> <font>HOW</font> HIND <font>LIVED IN THE</font> ISLE <font>OF</font> MAN.</head> <dialogue>
+<omission type="sentence" />
+<pagebreak id="36" />
+<comment type="compiler">HIND SETTLED FOR A TIME AT THE ISLE OF MAN, IN THE COMPANY OF 
+THE EARL OF WARBY. IN A MATTER OF WEEKS, HE HAD ROBBED SIX OR SEVEN
+EMINENT MEN.</comment>                    
+<omission type="sentence" /> </dialogue><nonSpeech>this strange 
+report came to the <font>Earls</font> ear; who presently sent for <font>Hind</font> : 
+In the mean time the <font>Earl</font> told Sir <font>Philip Musgrave</font> , that he
+suspected none but <font>Hind</font> to do the feat there: Sir <font>Philip</font>     
+said,</nonSpeech><dialogue>
+my Lord there are many <font>strange Gentlemen</font> in the Island, do
+not judge raishly of Captain <font>Hind</font> , he carries himself very
+civilly here; but I confess he is a likely man to do such things.
+</dialogue><nonSpeech> <font>Hind</font> in the interim came in, which broke off their discourse;
+my <font>Lord</font> and Sir <font>Philip</font> desired him to deal ingeniously with
+them, and tell them the truth, whether he did those 
+robberies or no: <font>Hind</font> being apt to blush, yet spoke smartly,</nonSpeech><dialogue> <font>I
+protest my Lord, your honors tell me news: If any of your Island
+can say, and swear I robbed them, I will suffer your law</font> : </dialogue><nonSpeech>the
+Earl said,</nonSpeech><dialogue> Captain <font>Hind</font> , you <font>are the onely man suspected;
+and the men who were robbed are now in the Castle</font> , </dialogue><nonSpeech>the Earl
+sent for the Gentlemen, who came presently: he asked them
+all, if they <font>knew</font> the man who robbed them; they said,</nonSpeech><dialogue> very
+well.  </dialogue><nonSpeech>The Earl said, pointing to <font>Hind</font> ,</nonSpeech><dialogue> <font>is he like this
+Gentleman</font> , </dialogue><nonSpeech>they answered,</nonSpeech><dialogue> <font>no</font> ; for he had long            
+<font>black hair</font> , and
+a <font>great beard</font> </dialogue><nonSpeech> (this was a disguise which he wore: but those
+people did not use to see periwigs nor false beards) then the
+Earl said to the Gentlemen that he would do his best 
+endeavour to find the man by laying wait at all Seaports, and causing
+searches to be made; so the Gentlemen departed; when they
+were gone, he said to <font>Hind</font> ,</nonSpeech><dialogue> Sir, <font>I am sorry if I have accused
+you wrongfully: deal ingeniously with me, and I will give you
+a sum of money, and give you under my hand not to do you the
+least injury</font> : </dialogue><nonSpeech>which being done: <font>Hind</font> went to his            
+<font>lodging</font> ,
+<pagebreak id="37" />
+and fetch the <font>Periwig</font> and <font>false beard</font> ; whereat the <font>Earl</font> 
+and
+Sir <font>Philip</font> fell into a <font>great laughter</font> :</nonSpeech><dialogue> nay, </dialogue><nonSpeech>said        
+<font>Hind</font> ,</nonSpeech><dialogue> let <font>them
+laugh that win</font> ; </dialogue><nonSpeech>so he laughed too.</nonSpeech><dialogue>
+<omission type="line" />
+
+<comment type="compiler">FROM THE ISLE OF MAN, HIND TRAVELLED FIRST TO SCOTLAND AND THEN
+ON TO LONDON. HIND'S PRESENCE IN LONDON WAS DISCOVERED, AND HE WAS
+SEIZED, BROUGHT TO WHITE-HALL AND QUESTIONED.</comment>
+
+</dialogue> <head> <font>THE TRUE RELATION OF THE TAKING OF CAPTAIN</font> JAMES HIND <font>IN</font>
+LONDON.</head> 
+<omission type="line" />
+<pagebreak id="38" />
+<omission type="line" /> 
+   <nonSpeech>To which <font>Hind</font> answered, <font>That he never saw the King        
+since
+the fight at</font> Worcester, <font>neither did he know of his getting off
+the Field; but he was now glad to hear he had made so happy
+an escape</font> .</nonSpeech><dialogue>
+<comment type="compiler">HIND WAS THEN IMPRISONED IN THE GATEHOUSE. HIS CELEBRITY STATUS
+DREW MANY INQUISITIVE VISITORS.</comment>
+<pagebreak id="39" />
+<omission type="sentence" /> </dialogue><nonSpeech>Among the rest, a
+Gentleman born in the same Town. <font> <foreign>viz.</foreign> Chippingnorton</font> :
+who took acquaintance of him, and saluting him, said;</nonSpeech><dialogue> truly,
+<font>Countryman, I am sorry to see you here</font> ; </dialogue><nonSpeech>he answered, that
+imprisonment was a comfort to him: in suffering for so good
+and just a cause, as adhering to the King. His Countryman
+said,</nonSpeech><dialogue> to morrow I shall return home; and if you have any
+thing to recommend to your wife, or friends, I will
+communicate it: I thank you Sir, </dialogue><nonSpeech>said <font>Hind</font> ;</nonSpeech><dialogue> pray remember   
+my love
+to them all, and satisfie them, that although I never see them
+more in this world, yet, in the world to come, I hope we shall
+meet in glory: </dialogue><nonSpeech>then the Gentleman took a glass of bear and
+drank to him, which he pledged about half: and filling up his
+glass, said,</nonSpeech><dialogue> come </dialogue><nonSpeech>taking the Gentleman by the hand,</nonSpeech><dialogue> here is
+a health to my Master the King: and God bless and preserve 
+his Majesty; </dialogue><nonSpeech>but the Gentleman refusing to drink the same
+upon such an account: moved <font>Hind</font> to passion; who said,</nonSpeech><dialogue> the
+Devil take all Traytors; Had I a thousand lives and at
+liberty I would adventure them all for King <font>Charles</font> : a pox take
+all turn coates: Forbear, Sir, </dialogue><nonSpeech>said the Keepers,</nonSpeech><dialogue> and be not
+in Passion: not in the least </dialogue><nonSpeech>said he,</nonSpeech><dialogue> I am free from it.
+
+</dialogue> <head> <font>HIS SPEECH AT</font> NEW-GATE.</head> 
+
+<nonSpeech>His time being short, spoke as followeth:</nonSpeech><dialogue>
+
+   <font>Well Gentlemen</font> :
+   This is all I have to say to you before I go into the
+<font>Dungeon</font> , for so may I term the place whereto I am going;
+I would have all men true to their Principles, and those that
+have laid a foundation for their King, let them endeavour to
+raise it, and those that are on the contrary Party, let them,
+endeavour to demolish it: As for my part I had not been here
+<pagebreak id="40" />
+now, if there had not been a <font>Judas</font> abroad; for indeed I was
+betrayed by one who formerly served the King; but now he
+is for you: </dialogue><nonSpeech> (which when he uttered, he pointed to a 
+Captain that was present) </nonSpeech><dialogue> but God forgive him: </dialogue><nonSpeech>the Keeper of
+the Prison, called him from the fire side to the window, and
+looked upon the iron shakels that were about his legs, to
+see whether they were in order:</nonSpeech><dialogue> well, </dialogue><nonSpeech>said Captain <font>Hind</font> ,</nonSpeech><dialogue>  
+all
+this I vallew not three pence: I owe a debt to God; and a
+debt I must pay. Blessed be his name, that he hath kept me
+from shedding of blood unjustly; which is now a great
+comfort to me, neither did I wrong any poor man of the worth
+of a penny; but I must confess, I have (when I have been
+necessitated thereto) made bold with a rich <font>Bompkin</font> , or a
+lying Lawyer, whose full fed fees from the rich Farmer, doth
+too too much impoverish the poor Cottage keeper: but
+truly, I could wish, that thing were as little used in <font>England</font>
+among Lawyers; as the eating of <font>Swines-flesh</font> was among the
+Jews: </dialogue><nonSpeech>the expression caused much laughter; and many such
+witty gingles he often put forth: another Gentleman 
+standing by: said,</nonSpeech><dialogue> I, Captain, <font>you are not brought hither for
+robbing but for Treason</font> : Treason, </dialogue><nonSpeech>replyed <font>Hind</font> ,</nonSpeech><dialogue> <font>I am not
+guilty in the least</font> ; yes, Sir, <font>but you are</font> , for complying with
+<font>Charles Stuart</font> , and engaging against the Common-wealth
+of <font>England</font> : Alas, Sir, it seems, <font>that is enough to hang me</font> :
+I am afraid, <font>you will finde it so</font> , </dialogue><nonSpeech>replyed the Gentleman:</nonSpeech><dialogue>    
+well,
+<font>Gods will be done</font> , </dialogue><nonSpeech>said <font>Hind</font> ;</nonSpeech><dialogue> I vallew it not three    
+pence to
+lose my life in so good a cause; and if it were to do again, I
+protest, I would do the like; laying his hand on his brest:
+<font>Come</font> , </dialogue><nonSpeech>said the Keeper,</nonSpeech><dialogue> <font>no more of this discourse; clear the
+Room</font> : so he went with the Keeper to the place appointed for 
+him.
+<pagebreak id="41" />
+<comment type="compiler">HIND'S HUMBLE PETITION TO COUNSEL OMITTED.</comment>
+<pagebreak id="42" />
+<comment type="compiler">THE RHYME UNDER THE ILLUSTRATION OMITTED.</comment> 
+
+</dialogue> <head> <font>THE DISCOURSE BETWEEN HIS FATHER, HIS WIFE, AND HIMSELF,
+IN</font> NEWGATE, <font>THE 28. OF</font> NOVEMBER.</head> <dialogue>
+<omission type="line" />
+<pagebreak id="43" />
+<omission type="line" />
+   <font>Son</font> , I hope it is not too late to give you counsel: but I wish
+to God you had taken my former counsel, and then I might
+not have come here to see you; you do not think how much
+it goes to my heart, and all your friends to think what will
+become of you.
+   <font>Father</font> , I hope the Lord will look upon a sinner that 
+truly repents, and is sorry from the bottom of his heart for his
+offences: and I make no doubt, but that the <font>State</font> , will have
+as much mercy on me, as ever the late King had on <font>Clavil</font> ;
+who was far more in danger then I am now.
+   <font>Son, Son</font> , Be not too confident; for when a ship is cast
+away by bulging on rocks that are neer the shore; those that
+can swim may be saved, but those that cannot must take their
+fortune. Even so it is with you: For friends that should stir
+in your business, I have none; and that which should do you
+most good, doth you the most injury: I shall desire you
+upon my blessing to bridle your speech, and let not envy be in
+your heart to any one: let not this counsel be like water spilt
+upon the ground, but make use of it for the best.
+   <font>Father</font> , I shall by the help of God follow your advice:
+and I desire the world not to look back on my actions; but
+forward, and they shall find me an altered man.
+   <font>Husband</font> , I would once more you were at liberty, that I
+might see this change, which would make both soul and 
+body happy.
+   </dialogue><nonSpeech>The Keeper having occasion to be gone, desired them to
+depart for that time: so taking their leave of him, they went to
+their lodging.</nonSpeech>
+<pagebreak id="44" />
+ <head> <font>THE TRYAL OF CAPTAIN</font> JAMES HIND, <font>IN THE</font> OLD BAYLEY <font>WITH
+HIS EXAMINATION, AND CONFESSION</font> .</head> 
+
+   <nonSpeech>On <font>Friday</font> the 12. of <font>December</font> 1651: About two of
+the Clock in the afternoon, Captain <font>James Hind</font> was
+brought to the Bar, before the Honourable Court at the
+Sessions in the <font>Old Bayly</font> : being brought with four Keepers to
+the Bar: divers Questions were proposed to him, which he
+very mildly answered: the Recorder asked him, what
+<font>Countryman he was, and where he was born</font> : He replyed,</nonSpeech><dialogue> <font>at the
+merry Town of Chipping-Norton in Oxfordshire</font> : </dialogue><nonSpeech>then it was 
+demanded of him, <font>whether he accompanied the</font> Scotish King
+<font>into</font> England; <font>and whether he was at the fight at</font> Worcester:
+He answered, <font>that he came into</font> England <font>with his Majesty the
+King; and that he was not onely at the fight at</font> Worcester,
+<font>but at</font> Warrington <font>also, wishing that it had been his happy
+fortune there to have ended his daies</font> .</nonSpeech>
+   <nonSpeech>Then some farther questions were proposed to him, in
+relation to his <font>Mad Pranks</font> : To which he answered, <font>that what
+he confessed before the Councel of State, the like he
+acknowledged to that Honorable Court</font> : protesting his innocency in
+any matter of Fact or Crime, since the year 1649. within
+any of the Parliaments Dominions. He stands indited upon
+high Treason, by the Councel of State, and thereupon the
+Court made no farther progress against him; by reason that
+no bill of inditement was brought in; so he was ordered to
+be remanded back to the place from whence he was brought:
+The time he was at the Bar, he deported himself with
+undaunted courage, yet with a smiling Countenance: but
+before his departure, this is observable; that as he passed from
+the Bar, casting his head on one side, and looking as it were
+over the left shoulder: said,</nonSpeech><dialogue> <font>these are filthy gingling spurs</font> ;
+</dialogue><nonSpeech> (meaning his irons about his legs) </nonSpeech><dialogue> <font>but I hope to have them
+exchanged ere long</font> ; </dialogue><nonSpeech>which expression caused much laughter. As
+he passed up the <font>Old Bayley</font> towards <font>Newgate</font> , divers people
+resorted to see him; who asked if he had received sentence:
+which words Captain <font>Hind</font> hearing, faced to the left, and
+<pagebreak id="45" />
+smiling, said,</nonSpeech><dialogue> <font>no, no, good people, there is no hast to hang
+true folk</font> .
+
+   </dialogue><nonSpeech>Being now come to <font>Newgate</font> , many Gentlemen were
+there to see him, and to ask him some questions:
+Captain <font>Hind</font> having a little time now more then ordinary, before
+he went to his old lodging: said,</nonSpeech><dialogue> Gentlemen, <font>what is your
+will with me, I know you long to hear news</font> : </dialogue><nonSpeech>they desired to
+know how he came off at the Sessions: he pulling a chair, said,</nonSpeech><dialogue>
+<font>I stand but in little ease therefore I will first sit down</font> :     
+</dialogue><nonSpeech>then
+calling for a glass of Sack drank to them all, saying,</nonSpeech><dialogue> Gentlemen,
+<font>I was somewhat dry with talking: therefore give me the other
+glass</font> : </dialogue><nonSpeech>having drank his Sack, said,</nonSpeech><dialogue> Gentlemen, <font>It seems that
+to my enemies I have been civil</font> ; there being no bill found
+against me, the Honorable Court onely asked my name, and
+some other questions; which I answered, not seeing any one
+that would accuse me: neither could I spy, no, not so much,
+as the face of a Thief catcher; ( <font>who would if they knew how</font>
+(not for their conscience sake; nor out of love to the
+Common-wealth) <font>Hang me</font> ) but for the lucre of the ten pounds
+which is the reward; which will make them swallow a false
+oath as easily, <font>as one would do buttered fish</font> : but I have
+nothing to do with them, nor never had; so I leave them to
+follow the rest of their Company, which assoon as they have
+oppertunity, will let no time slip to help one another to the
+Gallowes. </dialogue><nonSpeech>His Father and his Wife came into the Room, which
+broke of his discourse: so for the present taking his leave of
+the Gentlemen, went with his Father into his own Room,
+where he lay; being by themselves, his Father said to him,</nonSpeech><dialogue>
+Son; <font>How much are you bound to God for your good fortune,
+you see many poor men here condemned, who have not been so
+noted as you have been, I make no doubt but God has a blessing
+in store for you; and it is my desire as a Father to see his child do
+well: So I hope thou will not forget my Councel, but daily
+meditate on things for thy Soul, and then thou shalt be happy</font> .
+   </dialogue><nonSpeech>His Wife then rejoycing to see him take his imprisonment
+so patiently: said</nonSpeech><dialogue> <font>Dear heart, I shall visit you often, but it is
+<pagebreak id="46" />
+my grief that I come to a Prison to you; but I hope you shall be
+released of your misery, and live once more with me</font> : </dialogue><nonSpeech>His
+Father said,</nonSpeech><dialogue> Son, <font>my occasion calls me home, and I shall do you
+little good in staying here; I shall take my leave of you</font> : </dialogue><nonSpeech>now
+giving him his blessing, bids him <font>fare-wel</font> ; wishing him to
+serve God, who would not cast away a sinner that doth truly
+repent: His Wife with tears in her eies gave him a parting 
+Salute; which made the stout Captain answer the same in the 
+like nature; wishing he were at liberty to have gone with
+them: but he still relying on the mercy of the Parliament;
+made no doubt, but to visit his friends, before they came to
+visit him again; but as yet he lies in <font>Newgate</font> in hopes of a
+Release.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

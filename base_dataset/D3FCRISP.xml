@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3FCRISP">
+  <dialogueHeader>
+
+    <filename>D3FCRISP</filename>
+
+    <identifier>3 FICTION D3FCRISP</identifier>
+
+    <title>DON SAMUEL CRISPE</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1660</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>DON SAMUEL CRISPE: OR, THE PLEASANT HISTORY OF THE KNIGHT OF
+FOND LOVE. ADORNED AND EMBELLISHED WITH SUNDRY RARE AND DELIGHTFUL 
+ADVENTURES
+LONDON: 
+PRINTED IN THE YEAR MDCLX.
+PP. A3R.6 - A4R.8  SAMPLE 1
+PP. A4R.9 - B1R.11 SAMPLE 2
+PP. B1V.3 - B1V.22 SAMPLE 3
+PP. B2V.4 - B3V.7  SAMPLE 4
+PP. B3V.8 - B4V.16 SAMPLE 5
+PP. C1V.1 - C1V.29 SAMPLE 6
+PP. C2V.1 - C4R.11 SAMPLE 7
+PP. C4V.7 - C4V.29 SAMPLE 8
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A3R" />
+ <head> <font>CHAP. I.</font> </head> 
+ <head> <font>OF THE BIRTH, PARENTAGE AND EDUCATION OF THE KNIGHT OF
+FOND LOVE.</font> </head> <dialogue>
+
+<comment type="compiler">IN THE REIGN OF OLIVER, PROTECTOR OF ENGLAND, A MAN NAMED 
+CRISPE HAS THREE SONS, TOBY, SAMUEL AND ROWLAND, WHO GROW UP 
+DESIRING TO BE EMINENT. THEY ORIGINALLY CONSIDER A CAREER 
+IN PHILOSOPHY, MATHEMATICS, SCIENCE OR THE LAW.</comment>
+
+<pagebreak id="A3V" />
+<omission type="line" /> </dialogue><nonSpeech>Being thus in a deep Debate, quoth <font>Toby</font> to
+<font>Samuel</font> :</nonSpeech><dialogue>
+   <font>As I am elder then you, so I may perhaps speak as wisely
+as you: 'Tis true, I am a Merchant, yet I have idle time 
+enough to spare, and can follow any other handsome 
+imployment, to waste leisure-hours: Some men follow drinking;
+but I cannot maintain quarrels, and therefore I like it not.
+Some follow gaming; but there's mischief and danger in
+that, too, especially if a man question the Dice; so that I 
+abjure it. Therefore I am of opinion, that there is no Art
+so suitable to our Dispositions, as the Art of Love; 'Tis a
+fine Calling, and a civil: for, Ladies, Brother, will not only
+not fight, but love; and doubtless love us, being proper and
+handsome: Besides, Brother, as I take it, there is a Duty
+lying upon young men, to serve and wait upon young Ladies
+and Gentlewomen</font> .
+   </dialogue><nonSpeech> <font>Toby</font> having ended this Speech, Samuel shouted for joy,
+saying to his Brother, that he was wiser then <font>Solomon</font> , and
+had more discretion then his <font>Namesake</font> , who was Judge of
+<font>Israel</font> :</nonSpeech><dialogue> But Brother, two hearts are better then one; and
+therefore, as you have begun the invention, you shall see how
+bravely I will contrive the rest: For you must know, 
+Brother, that before we can practise this Art, to wait upon 
+Ladies, as we should do, we must be knighted, and assume unto
+our selves certain Titles, after we have studied those things
+which are most requisite to accomplish us. Thus was St.
+<font>George</font> knighted before he could conquer the Dragon, for the
+<pagebreak id="A4R" />
+Kings Daughters sake, and was called, <font>The Knight of the 
+Red Cross</font> . So likewise, the Grocers Apprentice, before
+he could be fit to wait on his Mistresses daughter, was 
+knighted, and called, <font>The Knight of the Burning Pestle</font> . First,
+therefore, let us learn to dance, then let us read the several
+Books and Treatises that may better our complemental
+Language, and then I shall not question but to find out some
+person or other, who may give us our Order.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="A4R" />
+ <head> <font>CHAP. II.</font> </head> 
+ <head> <font>HOW THESE TWO YOUNG MEN PROCEEDED IN THEIR STUDIES, AND
+HOW THEY WERE DUBB'D BY SIR PEMMEL, KNIGHT OF THE
+ELEEMOSYNARY ALE.</font> </head> <dialogue>
+
+<comment type="compiler">THE TWO BROTHERS PROCEED IN THEIR STUDIES AND ARE GIVEN 
+INSTRUCTION BY MEN INCLUDING SIR CHANNEL. THEY ALSO ACQUIRE 
+NEW CLOTHING.</comment>
+
+<pagebreak id="A4V" />
+<omission type="sentence" /> </dialogue><nonSpeech>For going to 
+<font>Fleetstreet</font> , one of these young persons happened to be adry;
+and seeking for an Ale-house, they lighted in at the sign of
+the <font>Buff-coat</font> : they called for Ale; 'twas asked whether
+<font>Eleemosynary</font> , or other Ale? they replyed,</nonSpeech><dialogue> What Ale's
+that? </dialogue><nonSpeech>quoth the Squire,</nonSpeech><dialogue> This is the Castle of Sir <font>Pemmel</font> ,
+Knight of the <font>Eleemosynary</font> Ale, as being that Liquor with
+which most commonly, he relieves distressed Knights: 
+</dialogue><nonSpeech>whereupon they sent for the Knight, who coming courteously unto
+them, they demanded several Questions; and among the rest,
+whether he had power to make Knights. Sir <font>Pemmel</font>
+replyed, That he had; and that, if they pleas'd, he could erect
+new Orders: at which they received great satisfaction, 
+desiring to be made Knights also: and having heard a 
+Catalogue of Orders read to them, they at length pitched upon the 
+<font>Order of Fond Love</font> : which being determined, the Laws
+were produced and read.</nonSpeech><dialogue>
+<comment type="compiler">THE MEN'S EARS ARE INITIALLY EDGED WITH BLACK WOOL AS A SYMBOL 
+THAT THEY SHOULD ONLY ADHERE TO THESE LAWS AND THEN, AS THEY
+KNEEL BEFORE SIR PEMMEL, THEY ARE KNIGHTED.</comment>
+<pagebreak id="B1R" />
+<omission type="sentence" /> </dialogue><nonSpeech>in came Sir <font>Pemmel</font> , and laying the 
+Fire-Fork on their shoulders, bid them,</nonSpeech><dialogue> <font>Rise up Sir Toby, and Sir
+Samuel Crispe, Knights of the Order of Fond Love</font> . </dialogue><nonSpeech>After
+this, they thank'd Sir <font>Pemmel</font> for his civility, and gave the
+Squire the odde peny which was over and above the 
+reckoning, and so departed. Then resolving to have but one
+Squire between them, to save charges, they went and hired
+<font>Jack Waterhouse</font> , who readily agree'd to serve them for five 
+shillings a quarter, and their old silk Stockings.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="B1V" />
+ <head> <font>CHAP. IV.</font> </head> 
+ <head> <font>HOW SIR SAMUEL LAMENTED HIS CASE, AND HOW HE SENT A LETTER
+TO ELIZABETHA.</font> </head> <dialogue>
+
+<comment type="compiler">AFTER A SUMMER OF VISITING CHURCH IN ORDER TO ACQUAINT HIMSELF 
+WITH THE LADIES, SIR SAMUEL IS SUDDENLY &quot;STRUCK&quot; BY CUPID'S BOW. 
+LOVE-SICK, HE INSTRUCTS HIS SQUIRE TO FOLLOW THE LADY (ELIZABETHA) 
+TO SEE WHERE SHE LIVES, AND THEN GOES HOME.</comment>
+<omission type="line" /> </dialogue><nonSpeech>At length, impatient of delay, he uttered his woes 
+in this sort:</nonSpeech><dialogue> Oh most unfortunate of men, and most 
+wretched of young men! unhappy eyes! why were ye not asleep,
+asleep at Church, where most eyes have the happiness to sleep,
+but waking, to see your Destruction? To what purpose am
+I black and comely, straight and proper, but that women
+should be in love with me? and must I be now in love with
+woman? but I am in love, &amp; cannot help it for my heart and
+guts. O <font>Elizabetha, Elizabetha Tottel</font> , thou hast undone
+<font>Samuel Crispe</font> . </dialogue><nonSpeech>By this time his good Squire <font>Jack Waterhouse</font>
+came in, and told him where his <font>Elizabetha</font> lay: whereupon,
+calling for Pen, Ink and Paper, he thus wrote unto her.</nonSpeech><dialogue>
+
+<comment type="compiler">SIR SAMUEL GIVES THE LOVE LETTER TO HIS SQUIRE TO TAKE TO 
+ELIZABETHA. HOWEVER, SHE GIVES IT TO HER CHAMBER-MAID, WITH 
+INSTRUCTIONS THAT SHE MAKE USE OF IT IN THE GARDEN. MEANWHILE, 
+HAVING RECEIVED NO REPLY, THE LOVE-SICK SIR SAMUEL DECIDES TO 
+VISIT ELIZABETHA.</comment> 
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="B2V" />
+ <head> <font>CHAP. VI.</font> </head> 
+ <head> <font>HOW SIR SAMUEL COURTED ELIZABETHA, AND HOW THE 
+CHAMBER-MAID AFFRONTED HIM; AND WHAT HAPPENED THEREUPON.</font> </head> 
+
+   <nonSpeech>Sir <font>Samuel</font> being now in the presence of his Mistress,
+though at first he were a little daunted at the Majestie
+of her person, yet finding that he must either speak, or be
+counted a Puppy, for coming to visit a Lady, and saying 
+nothing; he addressed himself, after a leg or two made in mood
+and figure, in these following words.</nonSpeech><dialogue>
+   <font>Madam, seeing the painted cloth of your vertues hang
+out at the window, and Fame standing at the door with
+a Trumpet in her hand, I could not chuse, out of a natural
+inclination which I have to fights and Puppet-plays, but
+step in and behold the monstrousness of your beauties: and
+now Madam I have seen you, I admire you more then the
+hairy Gentlewoman.</font> </dialogue><nonSpeech>Donna <font>Elizabetha</font> reply'd, That
+truly his person was very proper, and his language was 
+very eloquent: but withal she told him, that she was very 
+sorry that he had put himself to so great a trouble, since she
+found by him (for she could see as far into a Milstone as 
+another) that he was not for her turn. But he confidently, 
+as being now over shooes over boots, returns her answer,
+That she had created love within him, and that he hoped
+she would not cause it to be born and die at the same instant:
+and therefore he petitions her again, in these words:</nonSpeech><dialogue> <font>Most
+celestial beam of beauty, I have received you into my heart,
+which like a Burning-glass contracting the heat of your rays,
+is now all on fire, not to be quenched but by the moistning
+Julep of your affection; and therefore do not deny me
+life, since it is altogether in your power to give it</font> . </dialogue><nonSpeech>To
+which she jestingly replies, that she was sorry she could not
+<pagebreak id="B3R" />
+subscribe his petition: yet she was glad to see him, for that
+she never saw a Phenix before; which she conjectured                 
+<comment type="compiler">SOURCE TEXT: conjectued</comment> him
+to be, because he went about to die in his flames. However,
+if that were not his intention, rather then he should be
+scorched to death for love of her, that could not requite him,
+she would cause her Maid to make water in a bason, that
+he might bathe and quench his burning brest therein. Sir
+<font>Samuel</font> thanked her, telling her withal, that any stream of
+her kindness would be acceptably received into his bosome.</nonSpeech><dialogue>
+<font>But wo is me</font> , </dialogue><nonSpeech> (said he, proceeding) </nonSpeech><dialogue> <font>for I finde my words
+have made no more impression in your heart, then an 
+arrow on a rock of Adamant: so that I may say of you, that
+as in the greenest grass is the greatest serpent, in the clearest
+water the ugliest toad; so is your fair body lin'd with a
+cruel soul. Alas, you have no mercy on my Captivity; so
+that I am like the spaniel, that gnaws his chain, but sooner
+spoils his teeth then procures liberty. But as a bladder
+is to a learning swimmer, so is Hope to me; which makes
+me apt to believe, that as there is no iron but will be  
+softned with the fire; so there is no heart, how hard soever, 
+that will not be softned by continual prayers. Consider, 
+that the sun disdains not to shine upon the smallest worm.
+Reconcile your self to the humblest of your vassals, and do
+not through Marble-heartd cruelty overwhelm him with
+sense-distracting grief</font> -- </dialogue><nonSpeech>He would have said more; but
+<font>Elizabetha</font> impatient of his impertinencies, flung in great
+haste out of the Room, not so much as staying to see him
+make his retiring honour.</nonSpeech>
+   <nonSpeech>Being thus pensively left alone, the Chamberlain comes
+down, and seeing Sir <font>Samuel</font> in such a sad condition, she 
+accosts him, telling him, that though he had not the way, yet
+she knew how well enough to prevail with her Mistriss;
+assuring him withal, that for five pieces she would make him
+possessour of the happiness he sought to enjoy. Sir <font>Samuel</font>
+shak'd his head at this, telling her, That it was for ought he
+knew, more then he should receive for her portion; but if five
+shillings would content her, it was at her service. At which
+words, the Maid discovering the pitiful humour of Sir
+<pagebreak id="B3V" />
+<font>Samuel</font> , disdaining his profer, called him Sad Fellow, and
+Mole-catcher, telling him he did not deserve a 
+Kitchin-wench: and as he went out of doors, she pinned a sheet of
+brown Paper to the Cape of his Cloak; which though it
+were not written, yet gave many people as he went in the
+streets, an opportunity sufficient to read the Character of the
+man.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="B3V" />
+ <head> <font>CHAP. VII.</font> </head> 
+ <head> <font>HOW SIR SAMUEL SENT HIS MISTRIS A COPY OF VERSES, WISHING
+HIMSELF A PUPPY-DOG FOR HIS MISTRESS SAKE: WHICH HE SENT 
+BY HIS GOOD PAGE, JACK WATERHOUSE; AND HOW JACK
+WATERHOUSE GOT DRUNK BEFORE HE COULD PRESENT THEM.</font> </head> <dialogue>
+
+<pagebreak id="B4V" />
+<comment type="compiler">SIR SAMUEL DECIDES TO TRY AND IMPRESS ELIZABETHA WITH SOME 
+TEXT FROM A PLAY. HAVING WRITTEN OUT THE TEXT, HE GIVES IT TO 
+JACK TO DELIVER. BUT JACK, NOT REALISING THE URGENCY OF HIS ERRAND,
+GOES DRINKING AND SO ARRIVES AT ELIZABETHA'S THE WORSE FOR WEAR.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>and having 
+something more to deliver to her then his Knight imposed upon
+him, he spewed upon her shooes, thereby enigmatically 
+setting forth the streams of his Masters affection: raised again
+at length upon his Legs, he began his Speech:</nonSpeech><dialogue> Madam
+</dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> --- hickup --- my Master --- hickup --- hath sent you
+some --- hickup --- some Verses; wherein --- hickup --- he hath
+declared --- hickup --- the reality --- hickup --- of his affections
+--- hickup --- as plainly --- hickup --- as the Nose --- hickup ---
+in your face. -- </dialogue><nonSpeech>The Lady <font>Elizabetha</font> , seeing the young
+Squire in such a condition, and that he wanted lodging,
+caused him to be conveyed out of doors into the Porch, where
+he lay till the Watch came by: who then took him, and 
+put him in the Round-house; whence being set at 
+liberty, he went to Sir <font>Samuel</font> , relating to him his, and his own
+doleful misfortunes.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="C1V" /> 
+ <head> <font>CHAP. X.</font> </head> 
+ <head> <font>HOW SIR TOBY AND LAWRENCE FELL BOTH IN LOVE WITH THE SAME 
+LADY, AND HOW LAWRENCE WISH'D THE DEVIL TAKE HIS 
+BROTHER SIR TOBY.</font> </head>    
+
+   <nonSpeech>Leaving now Sir <font>Samuel</font> in the Country, let us see
+what becomes of Sir <font>Toby</font> , and <font>Lawrence</font> the younger
+of the three Brethren. These two being acquainted with
+a Lady of great beauty, happened both to fall in love with
+her. Sir <font>Toby</font> thought he deserved her best, as being the
+elder Brother and a Knight: <font>Lawrence</font> thought she ought
+to love him best, as having thrown his affections first upon
+her. However, there happened great contention between
+them, so that they lived in perpetual strife. <font>Lawrence</font>
+willing to reconcile the difference;</nonSpeech><dialogue> <font>Brother</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue>    
+<font>you
+know how good a thing it is for Brethren to agree 
+together: You and I, 'tis true, love one and the same Lady;
+now to reconcile this difference, I will propose three
+things to you, and let him that wins her, take her; that is,
+either let us play first come to three hits at Ticktack for her,
+or let us play an hundred and threescore up at Trap-ball
+for her; or let us play at push-pin, and he that wins the first
+five pins, let him take her a Gods name</font> . </dialogue><nonSpeech>Sir <font>Toby</font> , though
+he could not but confess these three Propositions to be very
+reasonable, yet being blinded with love, he continued 
+obstinate, and would yeild to nothing: which caused great 
+anger in <font>Lawrence</font> , so that now in all companies, he curses his
+Brother, wishing him hang'd and at the Devil; and hath a 
+great pick at his Mother for bringing him forth to be his
+Rival.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="C2V" /> 
+ <head> <font>CHAP. XII.</font> </head> 
+ <head> <font>OF HIS ADVENTURE IN A WOOD NEAR TUNBRIDGE, AND OF HIS
+RESOLUTION TO RETIRE INTO A MONASTERY.</font> </head> <dialogue>
+
+<comment type="compiler">SIR SAMUEL DECIDES TO FOLLOW ELIZABETHA TO THE COUNTRY, BUT HIS 
+SHEPHERD DISGUISE CAUSES HIM TO BE ARRESTED AS A SPY AND FINED!  
+ON HIS RELEASE, HE CONTINUES HIS JOURNEY AND COMES UPON TWO 
+DISTRESSED WOMEN IN A FOREST NEAR TUNBRIDGE.</comment>
+<omission type="line" /> </dialogue><nonSpeech>The Voyce caused him to draw near,
+and drawing near, he discovered two young Ladies sitting in
+a fair green Plat, bewailing their misfortunes. Sir 
+<font>Samuel</font> moved with compassion, accosts them; and having 
+demanded some questions of them, told them, He was a 
+forsaken Lover, as he ghessed them to be, being a Knight of the
+Order of <font>Fond Love</font> . Whereupon one of the Ladies 
+discovering in his Physiognomie, that the man might 
+easily be made an Ass;</nonSpeech><dialogue> <font>Sir</font> , </dialogue><nonSpeech>quoth she, casting her self at  
+his
+feet,</nonSpeech><dialogue> <font>if you be such a one as you pretend, have compassion
+on a distressed Lady: I have lost my Maiden-head, and
+prove with Child; therefore I desire you to marry me, to
+take off all reproach that the world may cast either on my
+Child, or my self</font> . </dialogue><nonSpeech>To which Sir <font>Samuel</font> replyed:</nonSpeech><dialogue> 
+<font>Madam, you being a Lady, and I a Knight, I should be no Knight
+should I not be kind to you a Lady</font> . </dialogue><nonSpeech>Then quoth she,</nonSpeech><dialogue> Since
+neer relations ought to be more familiar, <font>let us sit down
+together on the grass</font> : </dialogue><nonSpeech>to which the Knight readily 
+consented. Then she proceeding:</nonSpeech><dialogue> <font>My pretty dear</font> , </dialogue><nonSpeech>quoth she,</nonSpeech><dialogue>
+<font>suppose that I being thy wife, should ask thee for ten or
+twenty pieces to sport away at Cards, would you deny it
+me? No, as I hope to be saved</font> , </dialogue><nonSpeech>answered Sir <font>Samuel</font> :</nonSpeech><dialogue>
+<pagebreak id="C3R" />
+<font>but suppose I should come and give thee a little box on the
+ear, and say, My Dear, let me see thy pockets, and so take out
+all thy money, wouldst thou be angry? No indeed law</font> , 
+</dialogue><nonSpeech>answered Sir <font>Samuel</font> . With that she gave him a sweet kiss,
+and putting her hand into his Fob, took out all she could
+find; neither was she slow to secure it again in her own 
+pockets. Then quoth she,</nonSpeech><dialogue> <font>My dear, you have rings on, which
+are doubtless the Enchantments which cause me and other
+women to love thee so: preethee let me see 'em</font> : </dialogue><nonSpeech>and so
+without more Complements, she takes them off. Sir 
+<font>Samuel</font> , who had more of courtesie then craft, suffered all this.
+The Lady now well ballasted, of a suddain starts up, cries
+out,</nonSpeech><dialogue> <font>Theeves, Theeves</font> , </dialogue><nonSpeech>and runs away as hard as she could
+drive: Sir <font>Samuel</font> ran after; but at length finding them
+too swift, and considering that he had left his Cloak and
+Hat behind, he desisted from the chase, for fear of loosing all.
+Sir <font>Samuel</font> all this while thought this had been only a 
+lovetrick, and expected to hear from them next morning; but 
+the fifth and sixth day passing without any tidings, he 
+concluded himself puppyfi'd, and cursed the day of his birth.</nonSpeech>
+
+ <head> <font>CHAP. XIII.</font> </head> 
+ <head> <font>HOW SIR SAMUEL COUNTERFEITED HIMSELF DEAD, TO GET PITY FROM
+HIS ELIZABETHA, AND HOW HE DATED A LETTER TO HER FROM
+HIS GRAVE.</font> </head>  
+
+   <nonSpeech>Sir Samuel finding by this time, that neither his person
+nor his parts could move his <font>Elizabetha</font> , resolved to
+play the crafty Fox, and to overcome her by slight. Oh the
+suttle inventions of love! for you shall hear what a strange
+Whim came into his Noddle. Said he to himself:</nonSpeech><dialogue>
+Women are tender Creatures, and they have soft and tender
+breasts, and in those tender breasts lodgeth pity and 
+compassion. They will revile and scorn a man at this instant, but
+let the same person cut his finger in their company, and
+<pagebreak id="C3V" />
+the next, they will give him the sugar, sweetest words of pity
+that a Woman can give to a Man. Let a Man fain himself
+sick for love of them, and their hearts will melt like Ice
+before the Fire: If then they will do so much for those that
+are sick for love, what will they not do for those that shall dye
+for love? I will dye for love of <font>Elizabetha</font> , and cause her 
+affections to come like Butter, being charmed by the 
+compassion of her soul towards me. 
+<comment type="compiler">SIR SAMUEL THEN DISPATCHED HIS SQUIRE, JACK WATERHOUSE, WITH 
+INSTRUCTIONS THAT HE INFORM ELIZABETHA OF THE GRAVE ILLNESS THAT 
+HAD SUDDENLY BEFALLEN HIM!</comment>
+<omission type="line" /> I go, </dialogue><nonSpeech>said <font>Jack 
+VVaterhouse</font> ,</nonSpeech><dialogue> and will return quickly, therefore enlarge that    
+little
+heart of yours, which is no bigger then a Hasle Nut, and be
+of good comfort. <omission type="line" />
+<comment type="compiler">ON RECEIVING SIR SAMUEL'S MESSAGE, ELIZABETHA DECIDES TO HAVE
+SOME FUN. EVEN THOUGH SHE DOES NOT LOVE HIM, SHE INSISTS THAT HE
+SHOULD COME AND SEE HER. JACK WATERHOUSE RETURNS TO INFORM HIS
+MASTER BUT, AS SIR SAMUEL CANNOT GO, HIS BROTHER, SIR TOBY, GOES IN
+HIS PLACE. HE REITERATES SIR SAMUEL'S PLIGHT.</comment>
+<pagebreak id="C4R" />
+<omission type="line" /> How! ill, </dialogue><nonSpeech>quoth <font>Elizabetha</font> ,</nonSpeech><dialogue> of what disease? Of 
+Love, </dialogue><nonSpeech>replyed Sir <font>Toby</font> :</nonSpeech><dialogue> whom loves he? </dialogue><nonSpeech>said               
+<font>Elizabetha</font> .</nonSpeech><dialogue>
+He loves you, Madam, </dialogue><nonSpeech>answered Sir <font>Toby</font> ;</nonSpeech><dialogue> you your self
+are the cause of his Maladies; and dye doubtlesse he must
+and will, if you continue in obstinacy. </dialogue><nonSpeech>As he was 
+conversing the Story, to confirm the truth thereof, in comes a 
+Letter from Sir <font>Samuel</font> to direct to the fair <font>Elizabetha</font> : it
+was brought by <font>Jack VVaterhouse</font> , with tears in his eyes,
+having left his Master laid out in his Winding Sheet for
+dead.</nonSpeech> <omission type="line" /> 
+
+
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="C4V" />
+   <nonSpeech> <font>Elizabetha</font> having read this Letter, asked <font>Jack 
+VVaterhouse</font> if his Master were mad; and why he troubled her
+with such impertinence; telling him withal, That she was
+now in good company, and could not leave them: besides,
+she never cared for seeing dead men: and therefore she 
+desired <font>Jack VVaterhouse</font> to bury him well; letting him
+know withal, that if he had left her a Legacy, she was 
+willing to receive it. With this Message <font>Jack VVaterhouse</font>
+returned; and Sir <font>Samuel</font> seeing his Metropolitan 
+Designe fail him, hearing the Exchange-Bell ring, rose again,
+and went about his business.</nonSpeech>
+
+ <head> <font>CHAP. XIV.</font> </head> 
+ <head> <font>HOW SIR SAMUEL DISMISSED HIS SQUIRE, AND HOW THE SQUIRE
+GAVE A CHARACTER OF HIS MASTER.</font> </head> 
+
+   <nonSpeech>Sir <font>Samuel</font> seeing all his tricks and quillets to be void &amp;
+of none effect, resolves to leave his Knight-errantry, and
+to put off his Squire <font>Jack Waterhouse</font> ; who being 
+thereupon destitute, returned again to his old Master Sir            
+<font>Channel</font> .
+Now there being a great meeting of Knights and Ladies
+at his Castle, who had heard of the Adventures of Sir 
+<font>Samuel</font> , they desired <font>Jack VVaterhouse</font> , as having been his
+Squire, to give them an accompt of the man; which with 
+little entreaties he did, in this following Character.</nonSpeech><dialogue>
+<comment type="compiler">DESCRIPTION OF SAMUEL CRISPE'S CHARACTER OMITTED.</comment>
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

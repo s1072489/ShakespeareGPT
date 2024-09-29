@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2CSHAKE">
+  <dialogueHeader>
+
+    <filename>D2CSHAKE</filename>
+
+    <identifier>2 COMEDY D2CSHAKE</identifier>
+
+    <title>MERRY WIUES</title>
+
+    <author>SHAKESPEARE WILLIAM</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1623</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">SHAKESPEARE, WILLIAM.</attribution>
+      <frontMatter>THE MERRY WIUES OF WINDSOR.
+IN: MR. WILLIAM SHAKESPEARES COMEDIES, HISTORIES, &amp; TRAGEDIES.
+PUBLISHED ACCORDING TO THE TRUE ORIGINALL COPIES.
+LONDON
+PRINTED BY ISAAC IAGGARD, AND ED. BLOUNT. 
+1623.
+PP. 39.1C1 - 48.38C1
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">THE ALIAS &quot;Broome&quot; USED IN THE SOURCE TEXT IS PRESERVED BELOW. THE 
+QUARTO OF 1602 GIVES &quot;Brooke&quot;, WHICH IS ESSENTIAL TO THE WORD-PLAY. 
+SEE, FOR EXAMPLE, PAGE 46 BELOW.</comment>
+
+<pagebreak id="39C1" />
+</dialogue> <head>THE 
+MERRY WIUES OF WINDSOR.</head> 
+
+ <head> <font> <foreign>ACTUS PRIMUS, SCENA PRIMA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Iustice</font> Shallow, Slender, <font>Sir</font> Hugh Euans, <font>Master</font>
+Page, Falstoffe, Bardolph, Nym, Pistoll, Anne Page,
+<font>Mistresse</font> Ford, <font>Mistresse</font> Page, Simple.</nonSpeech>
+
+   <nonSpeech> <font>Shallow.</font> </nonSpeech><dialogue>
+Sir <font>Hugh</font> , perswade me not: I will make a
+Star-Chamber matter of it, if hee were twenty Sir
+<font>Iohn Falstoffs</font> , he shall not abuse <font>Robert Shallow</font>
+Esquire.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> In the County of <font>Glocester</font> , Iustice of Peace 
+and Coram.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> I (Cosen <font>Slender</font> ) and <font> <foreign>Cust-alorum</foreign> </font> .
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I, and <font> <foreign>Rato Iorum</foreign> </font> too; and a Gentleman  
+borne
+(Master Parson) who writes himselfe <font> <foreign>Armigero</foreign> </font> , in any
+Bill, Warrant, Quittance, or Obligation, <font> <foreign>Armigero</foreign> </font> .
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> I that I doe, and haue done any time these three
+hundred yeeres.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> All his successors (gone before him) hath don't:
+and all his Ancestors (that come after him) may: they
+may giue the dozen white Luces in their Coate.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> It is an olde Coate.
+   </dialogue><nonSpeech> <font>Euans.</font> </nonSpeech><dialogue> The dozen white Lowses doe become an old
+Coat well: it agrees well passant: It is a familiar beast to
+man, and signifies Loue.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> The Luse is the fresh-fish, the salt-fish, is an  
+old
+Coate.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I may quarter (Coz).
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> You may, by marrying.
+   </dialogue><nonSpeech> <font>Euans.</font> </nonSpeech><dialogue> It is marring indeed, if he quarter it.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Not a whit.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Yes per-lady: if he ha's a quarter of your coat,
+there is but three Skirts for your selfe, in my simple
+coniectures; but that is all one: if Sir <font>Iohn Falstaffe</font> haue
+committed disparagements vnto you, I am of the Church
+and will be glad to do my beneuolence, to make
+attonements and compremises betweene you.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> The Councell shall heare it, it is a Riot.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> It is not meet the Councell heare a Riot: there
+is no feare of Got in a Riot: The Councell (looke you)
+shall desire to heare the feare of Got, and not to heare a 
+Riot: take your viza-ments in that.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Ha; o' my life, if I were yong againe, the sword
+should end it.
+   </dialogue><nonSpeech> <font>Euans.</font> </nonSpeech><dialogue> It is petter that friends is the sword, and end
+it: and there is also another deuice in my praine, which
+peraduenture prings goot discretions with it. There is
+<font>Anne Page</font> , which is daughter to Master <font>Thomas Page</font> ,
+which is pretty virginity.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> <font>Mistris Anne Page</font> ? she has browne haire, and
+speakes small like a woman.
+<pagebreak id="39C2" />
+   </dialogue><nonSpeech> <font>Euans.</font> </nonSpeech><dialogue> It is that ferry person for all the orld, as     
+iust as
+you will desire, and seuen hundred pounds of Moneyes,
+and Gold, and Siluer, is her Grand-sire vpon his
+deathsbed, (Got deliuer to a ioyfull resurrections) giue, when
+she is able to ouertake seuenteene yeeres old. It were a
+goot motion, if we leaue our pribbles and prabbles, and
+desire a marriage betweene Master <font>Abraham</font> , and Mistris
+<font>Anne Page</font> .
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Did her Grand-sire leaue her seauen hundred 
+pound?
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> I, and her father is make her a petter penny.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I know the young Gentlewoman, she has good
+gifts.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Seuen hundred pounds, and possibilities, is
+goot gifts.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Wel, let vs see honest M=r= <font>Page</font> : is         
+<font>Falstaffe</font> 
+there?
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Shall I tell you a lye? I doe despise a lyer, as I
+doe despise one that is false, or as I despise one that is not
+true: the Knight Sir <font>Iohn</font> is there, and I beseech you be
+ruled by your well-willers: I will peat the doore for M=r=.
+<font>Page</font> . What hoa? Got-plesse your house heere.
+   </dialogue><nonSpeech> <font>M=r=. Page.</font> </nonSpeech><dialogue> Who's there?
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Here is go't's plessing and your friend, and
+Iustice <font>Shallow</font> , and heere yong Master <font>Slender</font> : that
+peraduentures shall tell you another tale, if matters grow to
+your likings.
+   </dialogue><nonSpeech> <font>M=r=. Page.</font> </nonSpeech><dialogue> I am glad to see your Worships well: I
+thanke you for my Venison Master <font>Shallow</font> .
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Master <font>Page</font> , I am glad to see you: much good 
+doe it your good heart: I wish'd your Venison better, it
+was ill killd: how doth good Mistresse <font>Page</font> ? and I thank
+you alwaies with my heart, la: with my heart.
+   </dialogue><nonSpeech> <font>M. Page.</font> </nonSpeech><dialogue> Sir, I thanke you.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Sir, I thanke you: by yea, and no I doe.
+   </dialogue><nonSpeech> <font>M. Pa.</font> </nonSpeech><dialogue> I am glad to see you, good Master <font>Slender</font> .
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> How do's your fallow Greyhound, Sir, I heard
+say he was out-run on <font>Cotsall</font> .
+   </dialogue><nonSpeech> <font>M. Pa.</font> </nonSpeech><dialogue> It could not be iudg'd, Sir.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> You'll not confesse: you'll not confesse.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> That he will not, 'tis your fault, 'tis your fault:
+'tis a good dogge.
+   </dialogue><nonSpeech> <font>M. Pa.</font> </nonSpeech><dialogue> A Cur, Sir.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Sir: hee's a good dog, and a faire dog, can there
+be more said? he is good, and faire. Is Sir <font>Iohn Falstaffe</font>
+heere?
+   </dialogue><nonSpeech> <font>M. Pa.</font> </nonSpeech><dialogue> Sir, hee is within: and I would I could doe a
+good office betweene <comment type="compiler">SOURCE TEXT: be tweene</comment> you.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> It is spoke as a Christians ought to speake.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> He hath wrong'd me (Master <font>Page</font> .) 
+   </dialogue><nonSpeech> <font>M. Pa.</font> </nonSpeech><dialogue> Sir, he doth in some sort confesse it.
+<pagebreak id="40C1" />
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> If it be confessed, it is not redressed; is not   
+that
+so (M. <font>Page</font> ?) he hath wrong'd me, indeed he hath, at a
+word he hath: beleeue me, <font>Robert Shallow</font> Esquire, saith
+he is wronged.
+   </dialogue><nonSpeech> <font>Ma. Pa.</font> </nonSpeech><dialogue> Here comes Sir <font>Iohn</font> .
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Now, Master <font>Shallow</font> , you'll complaine of me to
+the King?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Knight, you haue beaten my men, kill'd my
+deere, and broke open my Lodge.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> But not kiss'd your Keepers daughter?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Tut, a pin: this shall be answer'd.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I will answere it strait, I haue done all this:
+That is now answer'd.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> The Councell shall know this.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> 'Twere better for you if it were known in
+councell: you'll be laugh'd at.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> <font> <foreign>Pauca verba</foreign> </font> ; (Sir <font>Iohn</font> ) good worts.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Good worts? good Cabidge; <font>Slender</font> , I broke
+your head: what matter haue you against me?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Marry sir, I haue matter in my head against you,
+and against your cony-catching Rascalls, <font>Bardolf, Nym</font> ,
+and <font>Pistoll</font> .
+   </dialogue><nonSpeech> <font>Bar.</font> </nonSpeech><dialogue> You Banbery Cheese.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I, it is no matter.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> How now, <font>Mephostophilus</font> ?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I, it is no matter.
+   </dialogue><nonSpeech> <font>Nym.</font> </nonSpeech><dialogue> Slice, I say; <font> <foreign>pauca, pauca</foreign> </font> : Slice,      
+that's my
+humor.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Where's <font>Simple</font> my man? can you tell, Cosen?
+   </dialogue><nonSpeech> <font>Eua.</font> </nonSpeech><dialogue> Peace, I pray you: now let vs vnderstand: there
+is three Vmpires in this matter, as I vnderstand; that is,
+Master <font>Page</font> ( <foreign>fidelicet</foreign> Master <font>Page</font> ,) &amp; there is my     
+selfe,
+( <foreign>fidelicet</foreign> my selfe) and the three party is (lastly, and
+finally) mine Host of the Gater.
+   </dialogue><nonSpeech> <font>Ma. Pa.</font> </nonSpeech><dialogue> We three to hear it, &amp; end it between them.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Ferry goo't, I will make a priefe of it in my
+note-booke, and we wil afterwards orke vpon the cause,
+with as great discreetly as we can.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> <font>Pistoll.</font>
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> He heares with eares.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> The Teuill and his Tam: what phrase is this?
+he heares with eare? why, it is affectations.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> <font>Pistoll</font> , did you picke M. <font>Slenders</font> purse?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I, by these gloues did hee, or I would I might
+neuer come in mine owne great chamber againe else, of
+seauen groates in mill-sixpences, and two <font>Edward</font>
+Shouelboords, that cost me two shilling and two pence a
+peece of <font>Yead Miller</font> : by these gloues.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Is this true, <font>Pistoll</font> ?
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> No, it is false, if it is a picke-purse.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Ha, thou mountaine Forreyner: Sir <font>Iohn</font> , and
+Master mine, I combat challenge of this Latine Bilboe:
+word of deniall in thy <font> <foreign>labras</foreign> </font> here; word of denial; froth,
+and scum thou liest.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> By these gloues, then 'twas he.
+   </dialogue><nonSpeech> <font>Nym.</font> </nonSpeech><dialogue> Be auis'd sir, and passe good humours: I will
+say marry trap with you, if you runne the nut-hooks
+humor on me, that is the very note of it.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> By this hat, then he in the red face had it: for
+though I cannot remember what I did when you made
+me drunke, yet I am not altogether an asse.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> What say you <font>Scarlet</font> , and <font>Iohn</font> ?
+   </dialogue><nonSpeech> <font>Bar.</font> </nonSpeech><dialogue> Why sir, (for my part) I say the Gentleman had
+drunke himselfe out of his fiue sentences.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> It is his fiue sences: fie, what the ignorance is.
+   </dialogue><nonSpeech> <font>Bar.</font> </nonSpeech><dialogue> And being fap, sir, was (as they say) casheerd: and
+so conclusions past the Car-eires.
+<pagebreak id="40C2" />
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I, you spake in Latten then to: but 'tis no
+matter; Ile nere be drunk whilst I liue againe, but in honest,
+ciuill, godly company for this tricke: if I be drunke, Ile
+be drunke with those that haue the feare of God, and not
+with drunken knaues.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> So got-udge me, that is a vertuous                
+<comment type="compiler">SOURCE TEXT: vertuons</comment> minde.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> You heare all these matters deni'd, Gentlemen;
+you heare it.
+   </dialogue><nonSpeech> <font>M=r=. Page.</font> </nonSpeech><dialogue> Nay daughter, carry the wine in, wee'll
+drinke within.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Oh heauen: This is Mistresse <font>Anne Page</font> .
+   </dialogue><nonSpeech> <font>M=r=. Page.</font> </nonSpeech><dialogue> How now Mistris <font>Ford</font> ?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> <font>Mistris Ford</font> , by my troth you are very wel met:
+by your leaue good Mistris.
+   </dialogue><nonSpeech> <font>M=r=. Page.</font> </nonSpeech><dialogue> Wife, bid these gentlemen welcome: come,
+we haue a hot Venison pasty to dinner; Come
+gentlemen, I hope we shall drinke downe all vnkindnesse.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I had rather then forty shillings I had my booke
+of Songs and Sonnets heere: How now <font>Simple</font> , where
+haue you beene? I must wait on my selfe, must I? you
+haue not the booke of Riddles about you, haue you?
+   </dialogue><nonSpeech> <font>Sim.</font> </nonSpeech><dialogue> Booke of Riddles? why did you not lend it to
+<font>Alice Short-cake</font> vpon Alhallowmas last, a fortnight
+afore Michaelmas.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Come Coz, come Coz, we stay for you: a word
+with you Coz: marry this, Coz: there is as 'twere a
+tender, a kinde of tender, made a farre-off by Sir <font>Hugh</font> here:
+doe you vnderstand me?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I Sir, you shall finde me reasonable; if it be so,
+I shall doe that that is reason.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Nay, but vnderstand me.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> So I doe Sir.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> Giue eare to his motions; (M=r=. <font>Slender</font> ) I  
+will
+description the matter to you, if you be capacity of it.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Nay, I will doe as my Cozen <font>Shallow</font> saies: I
+pray you pardon me, he's a Iustice of Peace in his
+Countrie, simple though I stand here.
+   </dialogue><nonSpeech> <font>Euan.</font> </nonSpeech><dialogue> But that is not the question: the question is
+concerning your marriage.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> I, there's the point Sir.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Marry is it: the very point of it, to Mi.           
+<font>An Page</font> .
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> Why if it be so; I will marry her vpon any
+reasonable demands.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> But can you affection the 'o-man, let vs command
+to know that of your mouth, or of your lips: for diuers
+Philosophers hold, that the lips is parcell of the mouth:
+therfore precisely, ca~ you carry your good wil to y=e= maid?
+   </dialogue><nonSpeech> <font>Sh.</font> </nonSpeech><dialogue> Cosen <font>Abraham Slender</font> , can you loue her?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I hope sir, I will do as it shall become one that 
+would doe reason.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Nay, got's Lords, and his Ladies, you must speake
+possitable, if you can carry-her your desires towards her.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> That you must:
+Will you, (vpon good dowry) marry her?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I will doe a greater thing then that, vpon your
+request (Cosen) in any reason.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Nay conceiue me, conceiue mee, (sweet Coz):
+what I doe is to pleasure you (Coz:) can you loue the 
+maid?
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> I will marry her (Sir) at your request; but if
+there bee no great loue in the beginning, yet Heauen
+may decrease it vpon better acquaintance, when wee
+are married, and haue more occasion to know one
+another: I hope vpon familiarity will grow more content:
+but if you say mary-her, I will mary-her, that I am freely 
+dissolued, and dissolutely.
+<pagebreak id="41C1" />
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> It is a fery discetion-answere; saue the fall is in
+the'ord, dissolutely; the ort is (according to our 
+meaning) resolutely: his meaning is good.
+   </dialogue><nonSpeech> <font>Sh.</font> </nonSpeech><dialogue> I: I thinke my Cosen meant well.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> I, or else I would I might be hang'd (la.)
+   </dialogue><nonSpeech> <font>Sh.</font> </nonSpeech><dialogue> Here comes faire Mistris <font>Anne</font> ; would I were 
+yong for your sake, Mistris <font>Anne</font> .
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> The dinner is on the Table, my Father desires
+your worships company.
+   </dialogue><nonSpeech> <font>Sh.</font> </nonSpeech><dialogue> I will wait on him, (faire Mistris <font>Anne</font> .)
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Od's plessed-wil: I wil not be abse~ce at the grace.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> Wil't please your worship to come in, Sir?
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> No, I thank you forsooth, hartely; I am very well.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> The dinner attends you, Sir.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> I am not a-hungry, I thanke you, forsooth: goe,
+Sirha, for all you are my man, goe wait vpon my Cosen
+<font>Shallow</font> : a Iustice of peace sometime may be beholding
+to his friend, for a Man; I keepe but three Men, and a 
+Boy yet, till my Mother be dead: but what though, yet
+I liue like a poore Gentleman borne.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> I may not goe in without your worship: they
+will not sit till you come.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> I'faith, ile eate nothing: I thanke you as much as
+though I did.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> I pray you Sir walke in.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> I had rather walke here (I thanke you) I bruiz'd
+my shin th'other day, with playing at Sword and
+Dagger with a Master of Fence (three veneys for a dish of
+stew'd Prunes) and by my troth, I cannot abide the smell
+of hot meate since. Why doe your dogs barke so? be
+there Beares ith' Towne?
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> I thinke there are, Sir, I heard them talk'd of.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> I loue the sport well, but I shall as soone quarrell
+at it, as any man in <font>England</font> : you are afraid if you see the 
+Beare loose, are you not?
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> I indeede Sir.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> That's meate and drinke to me now: I haue seene
+<font>Saskerson</font> loose, twenty times, and haue taken him by the
+Chaine: but (I warrant you) the women haue so cride
+and shrekt at it, that it past: But women indeede, cannot
+abide'em, they are very ill-fauour'd rough things.
+   </dialogue><nonSpeech> <font>Ma. Pa.</font> </nonSpeech><dialogue> Come, gentle M. <font>Slender</font> , come; we stay for 
+you.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> Ile eate nothing, I thanke you Sir.
+   </dialogue><nonSpeech> <font>Ma. Pa.</font> </nonSpeech><dialogue> By cocke and pie, you shall not choose, Sir:
+come, come.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> Nay, pray you lead the way.
+   </dialogue><nonSpeech> <font>Ma. Pa.</font> </nonSpeech><dialogue> Come on, Sir.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> Mistris <font>Anne</font> : your selfe shall goe first.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> Not I Sir, pray you keepe on.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> Truely I will not goe first: truely-la: I will not
+doe you that wrong.
+   </dialogue><nonSpeech> <font>An.</font> </nonSpeech><dialogue> I pray you Sir.
+   </dialogue><nonSpeech> <font>Sl.</font> </nonSpeech><dialogue> Ile rather be vnmannerly, then troublesome: you
+doe your selfe wrong indeede-la. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <font> <foreign>SCENA SECUNDA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Euans, and Simple.</font> </nonSpeech>
+   <nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Go your waies, and aske of Doctor <font>Caius</font> house,
+which is the way; and there dwels one Mistris <font>Quickly</font> ; 
+which is in the manner of his Nurse; or his dry-Nurse; or
+his Cooke; or his Laundry; his Washer, and his Ringer.
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> Well Sir.
+<pagebreak id="41C2" />
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Nay, it is petter yet: giue her this letter; for it 
+is
+a'oman that altogeathers acquainta~ce with Mistris <font>Anne
+Page</font> ; and the Letter is to desire, and require her to
+solicite your Masters desires, to Mistris <font>Anne Page</font> : I pray 
+you be gon: I will make an end of my dinner; ther's
+Pippins and Cheese to come. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <font> <foreign>SCENA TERTIA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Falstaffe, Host, Bardolfe, Nym, Pistoll, Page.</font> </nonSpeech>
+   <nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Mine <font>Host</font> of the <font>Garter</font> ?
+   </dialogue><nonSpeech> <font>Ho.</font> </nonSpeech><dialogue> What saies my Bully Rooke? speake schollerly,
+and wisely.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Truely mine <font>Host</font> ; I must turne away some of my
+followers.
+   </dialogue><nonSpeech> <font>Ho.</font> </nonSpeech><dialogue> Discard, (bully <font>Hercules</font> ) casheere; let them   
+wag;
+trot, trot.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I sit at ten pounds a weeke.
+   </dialogue><nonSpeech> <font>Ho.</font> </nonSpeech><dialogue> Thou'rt an Emperor ( <font>Cesar, Keiser</font> and          
+<font>Pheazar</font> )
+I will entertaine <font>Bardolfe</font> : he shall draw; he shall tap; said
+I well (bully <font>Hector</font> ?)
+   </dialogue><nonSpeech> <font>Fa.</font> </nonSpeech><dialogue> Doe so (good mine <font>Host</font> .
+   </dialogue><nonSpeech> <font>Ho.</font> </nonSpeech><dialogue> I haue spoke: let him follow: let me see thee froth,
+and hue: I am at a word: follow.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> <font>Bardolfe</font> , follow him: a <font>Tapster</font> is a good 
+trade:
+an old Cloake, makes a new Ierkin: a wither'd 
+Seruingman, a fresh Tapster: goe, adew.
+   </dialogue><nonSpeech> <font>Ba.</font> </nonSpeech><dialogue> It is a life that I haue desir'd: I will thriue.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> O base hungarian wight: wilt y=u= the spigot wield.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> He was gotten in drink: is not the humor co~ceited?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I am glad I am so acquit of this Tinderbox: his
+Thefts were too open: his filching was like an vnskilfull
+Singer, he kept not time.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> The good humor is to steale at a minutes rest.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Conuay: the wife it call: Steale? foh: a fico for
+the phrase.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Well sirs, I am almost out at heeles.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Why then let Kibes ensue.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> There is no remedy: I must conicatch, I must shift.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Yong Rauens must haue foode.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Which of you know <font>Ford</font> of this Towne?
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> I ken the wight: he is of substance good.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> My honest Lads, I will tell you what I am about.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Two yards, and more.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> No quips now <font>Pistoll</font> : (Indeede I am in the    
+waste
+two yards about: but I am now about no waste: I am
+about thrift) briefely: I doe meane to make loue to <font>Fords</font>
+wife: I spie entertainment in her: shee discourses: shee
+carues: she giues the leere of inuitation: I can construe
+the action of her familier stile, &amp; the hardest voice of her
+behauior (to be english'd rightly) is, <font>I am Sir Iohn Falstafs</font> .
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> He hath studied her will; and translated her will:
+out of honesty, into English.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> The Anchor is deepe: will that humor passe?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Now, the report goes, she has all the rule of her
+husbands Purse: he hath a legend of Angels.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> As many diuels entertaine: and to her Boy say I.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> The humor rises: it is good: humor me the angels.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I haue writ me here a letter to her: &amp; here
+another to <font>Pages</font> wife, who euen now gaue mee good eyes
+too; examind my parts with most iudicious illiads: 
+sometimes the beame of her view, guilded my foote: 
+sometimes my portly belly.
+<pagebreak id="42C1" />
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Then did the Sun on dung-hill shine.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> I thanke thee for that humour.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> O she did so course o're my exteriors with such
+a greedy intention, that the appetite of her eye, did seeme
+to scorch me vp like a burning-glasse: here's another
+letter to her: She beares the Purse too: She is a Region
+in <font>Guiana</font> : all gold, and bountie: I will be Cheaters to
+them both, and they shall be Exchequers to mee: they 
+shall be my East and West Indies, and I will trade to
+them both: Goe, beare thou this Letter to Mistris <font>Page</font> ;
+and thou this to Mistris <font>Ford</font> : we will thriue (Lads) we
+will thriue.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Shall I Sir <font>Pandarus</font> of <font>Troy</font> become,
+And by my side weare Steele? then Lucifer take all.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> I will run no base humor: here take the
+humor-Letter; I will keepe the hauior of reputation.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Hold Sirha, beare you these Letters tightly,
+Saile like my Pinnasse to these golden shores.
+Rogues, hence, auaunt, vanish like haile-stones; goe,
+Trudge; plod away ith'hoofe: seeke shelter, packe:
+<font>Falstaffe </font> will learne the honor of the age,
+French-thrift, you Rogues, my selfe, and skirted <font>Page</font> .
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Let Vultures gripe thy guts: for gourd, and
+Fullam holds: &amp; high and low beguiles the rich &amp; poore,
+Tester ile haue in pouch when thou shalt lacke,
+Base <font>Phrygian</font> Turke.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> I haue opperations,
+Which be humors of reuenge.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Wilt thou reuenge?
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> By Welkin, and her Star.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> With wit, or Steele?
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> With both the humors, I:
+I will discusse the humour of this Loue to <font>Ford</font> .
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> And I to <font>Page</font> shall eke vnfold
+How <font>Falstaffe</font> (varlet vile)
+His Doue will proue; his gold will hold,
+And his soft couch defile.
+   </dialogue><nonSpeech> <font>Ni.</font> </nonSpeech><dialogue> My humour shall not coole: I will incense <font>Ford</font>
+to deale with poyson: I will possesse him with 
+yallownesse, for the reuolt of mine is dangerous: that is my
+true humour.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Thou art the <font>Mars</font> of <font>Malecontents</font> : I     
+second
+thee: troope on. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <font> <foreign>SCOENA QUARTA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Mistris Quickly, Simple, Iohn Rugby, Doctor, 
+Caius, Fenton.</font> </nonSpeech>
+   <nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> What, <font>Iohn Rugby</font> , I pray thee goe to the
+Casement, and see if you can see my Master, Master Docter
+<font>Caius</font> comming: if he doe (I'faith) and finde any body
+in the house; here will be an old abusing of Gods
+patience, and the Kings English.
+   </dialogue><nonSpeech> <font>Ru.</font> </nonSpeech><dialogue> Ile goe watch.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Goe, and we'll haue a posset for't soone at night,
+(in faith) at the latter end of a Sea-cole-fire: An honest,
+willing, kinde fellow, as euer seruant shall come in house
+withall: and I warrant you, no tel-tale, nor no
+breede-bate: his worst fault is, that he is giuen to prayer; hee is
+something peeuish that way: but no body but has his
+fault: but let that passe. <font>Peter Simple</font> , you say your
+name is?
+<pagebreak id="42C2" />
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> I: for fault of a better.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> And Master <font>Slender's</font> your Master?
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> I forsooth.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Do's he not weare a great round Beard, like a
+Glouers pairing-knife?
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> No forsooth: he hath but a little wee-face; with
+a little yellow Beard: a Caine colourd Beard.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> A softly-sprighted man, is he not?
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> I forsooth: but he is as tall a man of his hands, as
+any is betweene this and his head: he hath fought with
+a Warrener.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> How say you: oh, I should remember him: do's
+he not hold vp his head (as it were?) and strut in his gate?
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> Yes indeede do's he.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Well, heauen send <font>Anne Page</font> , no worse fortune:
+Tell Master Parson <font>Euans</font> , I will doe what I can for your
+Master: <font>Anne</font> is a good girle, and I wish --
+   </dialogue><nonSpeech> <font>Ru.</font> </nonSpeech><dialogue> Out alas: here comes my Master.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> We shall all be shent: Run in here, good young
+man: goe into this Closset: he will not stay long: what
+<font>Iohn Rugby</font> ? <font>Iohn</font> : what <font>Iohn</font> I say? goe <font>Iohn</font> , goe
+enquire for my Master, I doubt he be not well, that hee
+comes not home: <font> (and downe, downe, adowne'a. &amp;c.</font>
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> Vat is you sing? I doe not like des-toyes: pray
+you goe and vetch me in my Closset, vnboyteene verd;
+a Box, a greene-a-Box: do intend vat I speake? a 
+greene-a-Box.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> I forsooth ile fetch it you:
+I am glad hee went not in himselfe: if he had found the
+yong man he would haue bin horne-mad.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> <font> <foreign>Fe, fe, fe, fe, mai foy, il fait for chando,   
+Ie man voi a le
+Court la grand affaires.</foreign> </font>
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Is it this Sir?
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> <font> <foreign>Ouy mette le au mon</foreign> pocket, <foreign>de-peech</foreign>     
+quickly</font> :
+Vere is dat knaue <font>Rugby</font> ?
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> What <font>Iohn Rugby, Iohn</font> ?
+   </dialogue><nonSpeech> <font>Ru.</font> </nonSpeech><dialogue> Here Sir.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> You are <font>Iohn Rugby</font> , and <comment type="compiler">SOURCE TEXT: aad</comment>   
+you are <font>Iacke Rugby</font> :
+Come, take-a-your Rapier, and come after my heele to
+the Court.
+   </dialogue><nonSpeech> <font>Ru.</font> </nonSpeech><dialogue> 'Tis ready Sir, here in the Porch.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> By my trot: I tarry too long: od's-me: <font> <foreign>que ay ie
+oublie</foreign> </font> : dere is some Simples in my Closset, dat I vill not
+for the varld I shall leaue behinde.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Ay-me, he'll finde the yong man there, &amp; be mad.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> O <font> <foreign>Diable, Diable</foreign> </font> : vat is in my Closset?
+Villanie, La-roone: <font>Rugby</font> , my Rapier.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Good Master be content.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> Wherefore shall I be content-a?
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> The yong man is an honest man.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> What shall de honest man do in my Closset: dere
+is no honest man dat shall come in my Closset.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> I beseech you be not so flegmaticke: heare the
+truth of it. He came of an errand to mee, from Parson
+<font>Hugh</font> .
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> Vell.
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> I forsooth: to desire her to --.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Peace, I pray you.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> Peace-a-your tongue: speake-a-your Tale.
+   </dialogue><nonSpeech> <font>Si.</font> </nonSpeech><dialogue> To desire this honest Gentlewoman (your Maid)
+to speake a good word to Mistris <font>Anne Page</font> , for my
+Master in the way of Marriage.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> This is all indeede-la: but ile nere put my finger
+in the fire, and neede not.
+   </dialogue><nonSpeech> <font>Ca.</font> </nonSpeech><dialogue> Sir <font>Hugh</font> send-a you? <font>Rugby</font> , ballow mee some
+paper: tarry you a littell-a-while.
+<pagebreak id="43C1" />
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> I am glad he is so quiet: if he had bin
+throughly moued, you should haue heard him so loud, and so
+melancholly: but notwithstanding man, Ile doe yoe your
+Master what good I can: and the very yea, &amp; the no is, y=e=
+French Doctor my Master, (I may call him my Master,
+looke you, for I keepe his house; and I wash, ring, brew,
+bake, scowre, dresse meat and drinke, make the beds, and
+doe all my selfe.)
+   </dialogue><nonSpeech> <font>Simp.</font> </nonSpeech><dialogue> 'Tis a great charge to come vnder one bodies
+hand.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Are you a-uis'd o'that? you shall finde it a great
+charge: and to be vp early, and down late: but
+notwithstanding, (to tell you in your eare, I wold haue no words
+of it) my Master himselfe is in loue with Mistris <font>Anne
+Page</font> : but notwithstanding that I know <font>Ans</font> mind, that's
+neither heere nor there.
+   </dialogue><nonSpeech> <font>Caius.</font> </nonSpeech><dialogue> You, Iack'Nape: giue-'a this Letter to Sir
+<font>Hugh</font> , by gar it is a shallenge: I will cut his troat in de
+Parke, and I will teach a scuruy Iack-a-nape Priest to
+meddle, or make: -- you may be gon: it is not good
+you tarry here: by gar I will cut all his two stones: by
+gar, he shall not haue a stone to throw at his dogge.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Alas: he speakes but for his friend.
+   </dialogue><nonSpeech> <font>Caius.</font> </nonSpeech><dialogue> It is no matter'a ver dat: do not you tell-a-me
+dat I shall haue <font>Anne Page</font> for my selfe? by gar, I vill
+kill de Iack-Priest: and I haue appointed mine Host of
+de Iarteer to measure our weapon: by gar, I wil my selfe
+haue <font>Anne Page</font> .
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Sir, the maid loues you, and all shall bee well:
+We must giue folkes leaue to prate: what the good-ier.
+   </dialogue><nonSpeech> <font>Caius.</font> </nonSpeech><dialogue> <font>Rugby</font> , come to the Court with me: by gar, if
+I haue not <font>Anne Page</font> , I shall turne your head out of my 
+dore: follow my heeles, <font>Rugby</font> .
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> You shall haue <font>An-fooles</font>                       
+<comment type="compiler">NO ITALICS FOR fooles IN SOURCE TEXT</comment> head of your owne;
+No, I know <font>Ans</font> mind for that: neuer a woman in
+<font>Windsor</font> knowes more of <font>Ans</font> minde then I doe, nor can doe
+more then I doe with her, I thanke heauen.
+   </dialogue><nonSpeech> <font>Fenton.</font> </nonSpeech><dialogue> Who's with in there, hoa?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Who's there, I troa? Come neere the house I
+pray you.
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> How now (good woman) how dost thou?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> The better that it pleases your good Worship
+to aske?
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> What newes? how do's pretty Mistris <font>Anne</font> ?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> In truth Sir, and shee is pretty, and honest, and
+gentle, and one that is your friend, I can tell you that by
+the way, I praise heauen for it.
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> Shall I doe any good thinkst thou? shall I not
+loose my suit?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Troth Sir, all is in his hands aboue: but
+notwithstanding (Master <font>Fenton</font> ) <comment type="compiler">SOURCE TEXT: <font>Feuton</font> </comment>    
+Ile be sworne on a booke
+shee loues you: haue not your Worship a wart aboue
+your eye?
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> Yes marry haue I, what of that?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Wel, thereby hangs a tale: good faith, it is such
+another <font>Nan</font> ; (but (I detest) an honest maid as euer
+broke bread: wee had an howres talke of that wart; I
+shall neuer laugh but in that maids company: but 
+(indeed) shee is giuen too much to Allicholy and musing;
+but for you -- well -- goe too --
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> Well: I shall see her to day: hold, there's 
+money for thee: Let mee haue thy voice in my behalfe: if
+thou seest her before me, commend me. --
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Will I? I faith that wee will: And I will tell
+your Worship more of the Wart, the next time we haue
+confidence, and of other wooers.
+<pagebreak id="43C2" />
+   </dialogue><nonSpeech> <font>Fen.</font> </nonSpeech><dialogue> Well, fare-well, I am in great haste now.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Fare-well to your Worship: truely an honest
+Gentleman: but <font>Anne</font> loues him <comment type="compiler">SOURCE TEXT: hiim</comment> not: for I   
+know <font>Ans</font>
+minde as well as another do's: out vpon't: what haue I
+forgot. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+
+ <head> <font> <foreign>ACTUS SECUNDUS. SCOENA PRIMA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Mistris</font> Page, <font>Mistris</font> Ford, <font>Master</font> Page,        
+<font>Master</font> 
+Ford, Pistoll, Nim, Quickly, Host, Shallow.</nonSpeech>
+
+   <nonSpeech> <font>Mist. Page.</font> </nonSpeech><dialogue> What, haue scap'd Loue-letters in the
+holly-day-time of my beauty, and am I now a subiect
+for them? let me see?
+
+<comment type="compiler">FALSTAFFE'S LETTER OMITTED.</comment>
+
+What a <font>Herod</font> of <font>Iurie</font> is this? O wicked, wicked world:
+One that is well-nye worne to peeces with age
+To show himselfe a yong Gallant? What an vnwaied
+Behauiour hath this Flemish drunkard pickt (with
+The Deuills name) out of my conuersation, that he dares
+In this manner assay me? why, hee hath not beene thrice
+In my Company: what should I say to him? I was then
+Frugall of my mirth: (heauen forgiue mee:) why Ile
+Exhibit a Bill in the Parliament for the putting downe
+of men: how shall I be reueng'd on him? for reueng'd I
+will be? as sure as his guts are made of puddings.
+   </dialogue><nonSpeech> <font>Mis Ford.</font> </nonSpeech><dialogue> <font>Mistris Page</font> , trust me, I was going to   
+your
+house.
+   </dialogue><nonSpeech> <font>Mis Page.</font> </nonSpeech><dialogue> And trust me, I was comming to you: you
+looke very ill.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> Nay, Ile nere beleeue <comment type="compiler">SOURCE TEXT:         
+beleeee</comment> that; I haue to shew
+to the contrary.
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> 'Faith but you doe in my minde.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> Well: I doe then: yet I say, I could shew 
+you to the contrary: O Mistris <font>Page</font> , giue mee some
+counsaile.
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> What's the matter, woman?
+   </dialogue><nonSpeech> <font>Mi. Ford.</font> </nonSpeech><dialogue> O woman: if it were not for one trifling
+respect, I could come to such honour.
+   </dialogue><nonSpeech> <font>Mi. Page.</font> </nonSpeech><dialogue> Hang the trifle (woman) take the honour:
+what is it? dispence with trifles: what is it?
+   </dialogue><nonSpeech> <font>Mi. Ford.</font> </nonSpeech><dialogue> If I would but goe to hell, for an eternall
+moment, or so: I could be knighted.
+   </dialogue><nonSpeech> <font>Mi. Page.</font> </nonSpeech><dialogue> What thou liest? Sir <font>Alice Ford</font> ? these
+Knights will hacke, and so thou shouldst not alter the
+article of thy Gentry.
+   </dialogue><nonSpeech> <font>Mi. Ford.</font> </nonSpeech><dialogue> Wee burne day-light: heere, read, read:
+perceiue how I might bee knighted, I shall thinke the
+worse of fat men, as long as I haue an eye to make
+difference of mens liking: and yet hee would not sweare:
+<pagebreak id="44C1" />
+praise womens modesty: and gaue such orderly and
+welbehaued reproofe to al vncomelinesse, that I would haue
+sworne his disposition would haue gone to the truth of
+his words: but they doe no more adhere and keep place
+together, then the hundred Psalms to the tune of
+Greensleeues: What tempest (I troa) threw this Whale, (with
+so many Tuns of oyle in his belly) a'shoare at Windsor?
+How shall I bee reuenged on him? I thinke the best way
+were, to entertaine him with hope, till the wicked fire
+of lust haue melted him in his owne greace: Did you
+euer heare the like?
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Letter for letter; but that the name of
+<font>Page</font> and <font>Ford</font> differs: to thy great comfort in this
+mystery of ill opinions, heere's the twyn-brother of thy 
+Letter: but let thine inherit first, for I protest mine neuer
+shall: I warrant he hath a thousand of these Letters, writ
+with blancke-space for different names (sure more): and
+these are of the second edition: hee will print them out
+of doubt: for he cares not what hee puts into the presse,
+when he would put vs two: I had rather be a Giantesse,
+and lye vnder Mount <font>Pelion</font> : Well; I will find you
+twentie lasciuious Turtles ere one chaste man.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> Why this is the very same: the very hand:
+the very words: what doth he thinke of vs?
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Nay I know not: it makes me almost
+readie to wrangle with mine owne honesty: Ile entertaine
+my selfe like one that I am not acquainted withall: for
+sure vnlesse hee know some straine in mee, that I know
+not my selfe, hee would neuer haue boorded me in this
+furie.
+   </dialogue><nonSpeech> <font>Mi. Ford.</font> </nonSpeech><dialogue> Boording, call you it? Ile bee sure to keepe
+him aboue decke.
+   </dialogue><nonSpeech> <font>Mi. Page.</font> </nonSpeech><dialogue> So will I: if hee come vnder my hatches,
+Ile neuer to Sea againe: Let's bee reueng'd on him: let's
+appoint him a meeting: giue him a show of comfort in
+his Suit, and lead him on with a fine baited delay, till hee
+hath pawn'd his horses to mine Host of the Garter.
+   </dialogue><nonSpeech> <font>Mi. Ford.</font> </nonSpeech><dialogue> Nay, I wil consent to act any villany against
+him, that may not sully the charinesse of our honesty: oh
+that my husband saw this Letter: it would giue eternall
+food to his iealousie.
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Why look where he comes; and my good
+man too: hee's as farre from iealousie, as I am from
+giuing him cause, and that (I hope) is an vnmeasurable 
+distance.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> You are the happier woman.
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Let's consult together against this greasie
+Knight: Come hither.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Well: I hope, it be not so.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Hope is a curtall-dog in some affaires:
+Sir <font>Iohn</font> affects thy wife.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Why sir, my wife is not young.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> He wooes both high and low, both rich &amp; poor,
+both yong and old, one with another <font> (Ford) </font> he loues the
+Gally-mawfry <font> (Ford) </font> perpend.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Loue my wife?
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> With liuer, burning hot: preuent:
+Or goe thou like Sir <font>Acteon</font> he, with
+Ring-wood at thy heeles: O, odious is the name.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> What name Sir?
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> The horne I say: Farewell:
+Take heed, haue open eye, for theeues doe foot by night.
+Take heed, ere sommer comes, or Cuckoo-birds do sing.
+Away sir Corporall <font>Nim</font> :
+Beleeue it <font> (Page) </font> he speakes sence.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I will be patient: I will find out this.
+<pagebreak id="44C2" />
+   </dialogue><nonSpeech> <font>Nim.</font> </nonSpeech><dialogue> And this is true: I like not the humor of lying:
+hee hath wronged mee in some humors: I should haue
+borne the humour'd Letter to her: but I haue a sword:
+and it shall bite vpon my necessitie: he loues your wife;
+There's the short and the long: My name is Corporall
+<font>Nim</font> : I speak, and I auouch; 'tis true: my name is <font>Nim</font> :
+and <font>Falstaffe</font> loues your wife: adieu, I loue not the
+humour of bread and cheese: adieu.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> The humour of it (quoth'a?) heere's a fellow
+frights English out of his wits.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I will seeke out <font>Falstaffe</font> .
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> I neuer heard such a drawling-affecting rogue.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> If I doe finde it: well.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> I will not beleeue such a <font>Cataian</font> , though the
+Priest o' th'Towne commended him for a true man.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> 'Twas a good sensible fellow: well.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> How now <font>Meg</font> ?
+   </dialogue><nonSpeech> <font>Mist. Page.</font> </nonSpeech><dialogue> Whether goe you <font> (George?) </font> harke you.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> How now (sweet <font>Frank</font> ) why art thou 
+melancholy?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I melancholy? I am not melancholy:
+Get you home: goe.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> Faith, thou hast some crochets in thy head,
+Now: will you goe, <font>Mistris Page</font> ?
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Haue with you: you'll come to dinner
+<font>George</font> ? Looke who comes yonder: shee shall bee our 
+Messenger to this paltrie Knight.
+   </dialogue><nonSpeech> <font>Mis. Ford.</font> </nonSpeech><dialogue> Trust me, I thought on her: shee'll fit it.
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> You are come to see my daughter <font>Anne</font> ?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> I forsooth: and I pray how do's good Mistresse
+<font>Anne</font> ?
+   </dialogue><nonSpeech> <font>Mis. Page.</font> </nonSpeech><dialogue> Go in with vs and see: we haue an houres
+talke with you.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> How now Master Ford?
+   </dialogue><nonSpeech> <font>For.</font> </nonSpeech><dialogue> You heard what this knaue told me, did you not?
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Yes, and you heard what the other told me?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Doe you thinke there is truth in them?
+   </dialogue><nonSpeech> <font>Pag.</font> </nonSpeech><dialogue> Hang 'em slaues: I doe not thinke the Knight
+would offer it: But these that accuse him in his intent
+towards our wiues, are a yoake of his discarded men:
+very rogues, now they be out of seruice.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Were they his men?
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Marry were they.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I like it neuer the beter for that,
+Do's he lye at the Garter?
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> I marry do's he: if hee should intend this
+voyage toward my wife, I would turne her loose to him;
+and what hee gets more of her, then sharpe words, let it
+lye on my head.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I doe not misdoubt my wife: but I would bee
+loath to turne them together: a man may be too
+confident: I would haue nothing lye on my head: I cannot
+be thus satisfied.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Looke where my ranting-Host of the Garter
+comes: there is eyther liquor in his pate, or mony in his
+purse, when hee lookes so merrily: How now mine 
+Host?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> How now Bully-Rooke: thou'rt a Gentleman
+Caueleiro Iustice, I say.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> I follow, (mine Host) I follow: Good-euen,
+and twenty (good Master <font>Page</font> .) Master <font>Page</font> , wil you go
+with vs? we haue sport in hand.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Tell him Caueleiro-Iustice: tell him 
+Bully-Rooke.
+   </dialogue><nonSpeech> <font>Shall.</font> </nonSpeech><dialogue> Sir, there is a fray to be fought, betweene Sir
+<font>Hugh</font> the Welch Priest, and <font>Caius</font> the French Doctor.
+<pagebreak id="45C1" />
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Good mine Host o'th'Garter: a word with you.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> What saist thou, my Bully-Rooke?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Will you goe with vs to behold it? My merry
+Host hath had the measuring of their weapons; and (I
+thinke) hath appointed them contrary places: for
+(beleeue mee) I heare the Parson is no Iester: harke, I will
+tell you what our sport shall be.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Hast thou no suit against my Knight? my
+guest-Caualeire?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> None, I protest: but Ile giue you a pottle of
+burn'd sacke, to giue me recourse to him, and tell him
+my name is <font>Broome</font> : onely for a iest.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> My hand, (Bully:) thou shalt haue egresse and
+regresse, (said I well?) and thy name shall be <font>Broome</font> . It
+is a merry Knight: will you goe An-heires?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Haue with you mine Host.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> I haue heard the French-man hath good skill
+in his Rapier.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Tut sir: I could haue told you more: In these
+times you stand on distance: your Passes, Stoccado's, and
+I know not what: 'tis the heart (Master <font>Page</font> ) 'tis heere,
+'tis heere: I haue seene the time with my long-sword, I
+would haue made you fowre tall fellowes skippe like
+Rattes.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Heere boyes, heere, heere: shall we wag?
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Haue with you: I had rather heare them scold,
+then fight.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Though <font>Page</font> be a secure foole, and stands so
+firmely on his wiues frailty; yet, I cannot put-off my
+opinion so easily: she was in his company at <font>Pages</font> house:
+and what they made there, I know not. Well, I wil looke
+further into't, and I haue a disguise, to sound <font>Falstaffe</font> ; if
+I finde her honest, I loose not my labor: if she be
+otherwise, 'tis labour well bestowed. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head> <font> <foreign>SCOENA SECUNDA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter</font> Falstaffe, Pistoll, Robin, Quickly, Bardolffe,
+Ford.</nonSpeech>
+
+   <nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I will not lend thee a penny.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Why then the world's mine Oyster, which I,
+with sword will open.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Not a penny: I haue beene content (Sir,) you
+should lay my countenance to pawne: I haue grated
+vpon my good friends for three Repreeues for you, and
+your Coach-fellow <font>Nim</font> ; or else you had look'd through
+the grate, like a Geminy of Baboones: I am damn'd in
+hell, for swearing to Gentlemen my friends, you were
+good Souldiers, and tall-fellowes. And when Mistresse
+<font>Briget</font> lost the handle of her Fan, I took't vpon mine
+honour thou hadst it not.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> Didst not thou share? hadst thou not fifteene
+pence?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Reason, you roague, reason: thinkst thou Ile
+endanger my soule, <font> <foreign>gratis</foreign> </font> ? at a word, hang no more about
+mee, I am no gibbet for you: goe, a short knife, and a
+throng, to your Mannor of <font>Pickt-hatch</font> : goe, you'll not
+beare a Letter for mee you roague? you stand vpon your 
+honor: why, (thou vnconfinable basenesse) it is as much
+as I can doe to keepe the termes of my hononor precise:
+I, I, I my selfe sometimes, leauing the feare of heauen on
+<pagebreak id="45C2" />
+the left hand, and hiding mine honor in my necessity, am
+faine to shuffle <comment type="compiler">SOURCE TEXT: shufflle</comment> : to hedge, and to lurch, 
+and yet, you
+Rogue, will en-sconce your raggs; your 
+Cat-a-Mountaine-lookes, your red-lattice phrases, and your
+bold-beating-oathes, vnder the shelter of your honor? you
+will not doe it? you?
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> I doe relent: what would thou more of man?
+   </dialogue><nonSpeech> <font>Robin.</font> </nonSpeech><dialogue> Sir, here's a woman would speake with you.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Let her approach.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Giue your worship good morrow.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Good-morrow, good-wife.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Not so and't please your worship. 
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Good maid then.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Ile be sworne,
+As my mother was the first houre I was borne.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I doe beleeue the swearer; what with me?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Shall I vouch-safe your worship a word, or
+two?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Two thousand (faire woman) and ile vouchsafe
+thee the hearing.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> There is one Mistresse <font>Ford</font> , (Sir) I pray     
+come a
+little neerer this waies: I my selfe dwell with M. Doctor
+<font>Caius</font> :
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Well, on; Mistresse <font>Ford</font> , you say.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Your worship saies very true: I pray your
+worship come a little neerer this waies.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I warrant thee, no-bodie heares: mine owne
+people, mine owne people.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Are they so? heauen-blesse them, and make 
+them his Seruants.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Well; Mistresse <font>Ford</font> , what of her?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Why, Sir; shee's a good-creature; Lord, Lord,
+your Worship's a wanton: well: heauen forgiue you,
+and all of vs, I pray --.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Mistresse <font>Ford</font> : come, Mistresse <font>Ford</font> .
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Marry this is the short, and the long of it: you
+haue brought her into such a Canaries, as 'tis 
+wonderfull: the best Courtier of them all (when the Court lay
+at <font>Windsor</font> ) could neuer haue brought her to such a 
+Canarie: yet there has beene Knights, and Lords, and
+Gentlemen, with their Coaches; I warrant you Coach after
+Coach, letter after letter, gift after gift, smelling so 
+sweetly; all Muske, and so rushling, I warrant you, in silke
+and golde, and in such alligant termes, and in such wine
+and suger of the best, and the fairest, that would haue
+wonne any womans heart: and I warrant you, they could
+neuer get an eye-winke of her: I had my selfe twentie
+Angels giuen me this morning, but I defie all Angels (in
+any such sort, as they say) but in the way of honesty: and
+I warrant you, they could neuer get her so much as sippe
+on a cup with the prowdest of them all, and yet there has 
+beene Earles: nay, (which is more) Pentioners, but I
+warrant you all is one with her.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> But what saies shee to mee? be briefe my good
+<font>shee-Mercurie</font> <comment type="compiler">NO ITALICS FOR shee IN SOURCE TEXT</comment> .
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Marry, she hath receiu'd your Letter: for the
+which she thankes you a thousand times; and she giues
+you to notifie, that her husband will be absence from his
+house, betweene ten and eleuen.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Ten, and eleuen.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> I, forsooth: and then you may come and see the
+picture (she sayes) that you wot of: Master <font>Ford</font> her
+husband will be from home: alas, the sweet woman leades
+an ill life with him: hee's a very iealousie-man; she leads
+a very frampold life with him, (good hart.)
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Ten, and eleuen.
+<pagebreak id="46C1" />
+Woman, commend me to her, I will not faile her.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Why, you say well: But I haue another 
+messenger to your worship: Mistresse <font>Page</font> hath her heartie
+commendations to you to: and let mee tell you in your
+eare, shee's as fartuous a ciuill modest wife, and one (I
+tell you) that will not misse you morning nor euening 
+prayer, as any is in <font>Windsor</font> , who ere bee the other: and
+shee bade me tell your worship, that her husband is
+seldome from home, but she hopes there will come a time.
+I neuer knew a woman so doate vpon a man; surely I
+thinke you haue charmes, la: yes in truth.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Not I, I assure thee; setting the attraction of my
+good parts aside, I haue no other charmes.
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> Blessing on your heart for't.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> But I pray thee tell me this: has <font>Fords</font> wife,  
+and
+<font>Pages</font> wife acquainted each other, how they loue me?
+   </dialogue><nonSpeech> <font>Qui.</font> </nonSpeech><dialogue> That were a iest indeed: they haue not so little
+grace I hope, that were a tricke indeed: But Mistris <font>Page</font>
+would desire you to send her your little Page of al loues:
+her husband has a maruellous infectio~ to the little Page:
+and truely Master <font>Page</font> is an honest man: neuer a wife in
+<font>Windsor</font> leades a better life then she do's: doe what shee
+will, say what she will, take all, pay all, goe to bed when
+she list, rise when she list, all is as she will: and truly she
+deserues it; for if there be a kinde woman in <font>Windsor</font> , she
+is one: you must send her your Page, no remedie.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Why, I will.
+   </dialogue><nonSpeech> <font>Qu.</font> </nonSpeech><dialogue> Nay, but doe so then, and looke you, hee may
+come and goe betweene you both: and in any case haue
+a nay-word, that you may know one anothers minde,
+and the Boy neuer neede to vnderstand any thing; for
+'tis not good that children should know any wickednes:
+olde folkes you know, haue discretion, as they say, and
+know the world.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Farethee-well, commend mee to them both:
+there's my purse, I am yet thy debter: Boy, goe along 
+with this woman, this newes distracts me.
+   </dialogue><nonSpeech> <font>Pist.</font> </nonSpeech><dialogue> This Puncke is one of <font>Cupids</font> Carriers,
+Clap on more sailes, pursue: vp with your fights:
+Giue fire: she is my prize, or Ocean whelme them all.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Saist thou so (old <font>Iacke</font> ) go thy waies: Ile   
+make
+more of thy olde body then I haue done: will they yet
+looke after thee? wilt thou after the expence of so much
+money, be now a gainer? good Body, I thanke thee: let
+them say 'tis grossely done, so it bee fairely done, no
+matter.
+   </dialogue><nonSpeech> <font>Bar.</font> </nonSpeech><dialogue> Sir <font>Iohn</font> , there's one Master <font>Broome</font> below 
+would
+faine speake with you, and be acquainted with you; and 
+hath sent your worship a mornings draught of Sacke.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> <font>Broome</font> is his name?
+   </dialogue><nonSpeech> <font>Bar.</font> </nonSpeech><dialogue> I Sir.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Call him in: such <font>Broomes</font> are welcome to mee,
+that ore'flowes such liquor: ah ha, Mistresse <font>Ford</font> and
+Mistresse <font>Page</font> , haue I encompass'd you? goe to, <font> <foreign>via</foreign> </font> .
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> 'Blesse you sir.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> And you sir: would you speake with me?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I make bold, to presse, with so little 
+preparation vpon you.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> You'r welcome, what's your will? giue vs leaue
+Drawer.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Sir, I am a Gentleman that haue spent much,
+my name is <font>Broome</font> .
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Good Master <font>Broome</font> , I desire more acquaintance
+of you.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Good Sir <font>Iohn</font> , I sue for yours: not to charge
+you, for I must let you vnderstand, I thinke my selfe in
+<pagebreak id="46C2" />
+better plight for a Lender, then you are: the which hath
+something emboldned me to this vnseason'd intrusion:
+for they say, if money goe before, all waies doe lye
+open.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Money is a good Souldier (Sir) and will on.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Troth, and I haue a bag of money heere
+troubles me: if you will helpe to beare it (Sir <font>Iohn</font> ) take all,
+or halfe, for easing me of the carriage.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Sir, I know not how I may deserue to bee your
+Porter.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I will tell you sir, if you will giue mee the
+hearing.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Speake (good Master <font>Broome</font> ) I shall be glad to
+be your Seruant.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Sir, I heare you are a Scholler: (I will be briefe
+with you) and you haue been a man long knowne to me,
+though I had neuer so good means as desire, to make my
+selfe acquainted with you. I shall discouer a thing to
+you, wherein I must very much lay open mine owne 
+imperfection: but (good Sir <font>Iohn</font> ) as you haue one eye 
+vpon my follies, as you heare them vnfolded, turne another
+into the Register of your owne, that I may passe with a
+reproofe the easier, sith you your selfe know how easie it
+is to be such an offender.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Very well Sir, proceed.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> There is a Gentlewoman in this Towne, her
+husbands name is <font>Ford</font> .
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Well Sir.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I haue long lou'd her, and I protest to you, 
+bestowed much on her: followed her with a doating 
+obseruance: Ingross'd opportunities to meete her: fee'd 
+euery slight occasion that could but nigardly giue mee
+sight of her: not only bought many presents to giue her,
+but haue giuen largely to many, to know what shee
+would haue giuen: briefly, I haue pursu'd her, as Loue
+hath pursued mee, which hath beene on the wing of all
+occasions: but whatsoeuer I haue merited, either in my
+minde, or in my meanes, meede I am sure I haue receiued
+none, vnlesse Experience be a Iewell, that I haue 
+purchased at an infinite rate, and that hath taught mee to say
+this,
+   <font>&quot;Loue like a shadow flies, when substance Loue pursues,
+     &quot;Pursuing that that flies, and flying what pursues.</font>
+
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Haue you receiu'd no promise of satisfaction at
+her hands?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Neuer.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Haue you importun'd her to such a purpose?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Neuer.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Of what qualitie was your loue then?
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Like a fair house, built on another mans ground,
+so that I haue lost my edifice, by mistaking the place,
+where I erected it.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> To what purpose haue you vnfolded this to me?
+   </dialogue><nonSpeech> <font>For.</font> </nonSpeech><dialogue> When I haue told you that, I haue told you all:
+Some say, that though she appeare honest to mee, yet in
+other places shee enlargeth her mirth so farre, that there
+is shrewd construction made of her. Now (Sir <font>Iohn</font> ) here
+is the heart of my purpose: you are a gentleman of
+excellent breeding, admirable discourse, of great
+admittance, authenticke in your place and person, generally
+allow'd for your many war-like, court-like, and learned 
+preparations.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> O Sir.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Beleeue it, for you know it: there is money,
+spend it, spend it, spend more; spend all I haue, onely
+<pagebreak id="47C1" />
+giue me so much of your time in enchange of it, as to lay
+an amiable siege to the honesty of this <font>Fords</font> wife: vse 
+your Art of wooing; win her to consent to you: if any
+man may, you may as soone as any.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Would it apply well to the vehemency of your
+affection that I should win what you would enioy? 
+Methinkes you prescribe to your selfe very preposterously.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> O, vnderstand my drift: she dwells so securely
+on the excellency of her honor, that the folly of my soule
+dares not present it selfe: shee is too bright to be look'd
+against. Now, could I come to her with any detection
+in my hand; my desires had instance and argument to
+commend themselues, I could driue her then from the
+ward of her purity, her reputation, her marriage-vow,
+and a thousand other her defences, which now are
+too-too strongly embattaild against me: what say you too't,
+Sir <font>Iohn</font> ?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Master <font>Broome</font> , I will first make bold with your
+money: next, giue mee your hand: and last, as I am a
+gentleman, you shall, if you will, enioy <font>Fords</font> wife.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> O good Sir.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> I say you shall.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> Want no money (Sir <font>Iohn</font> ) you shall want none.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Want no <font>Mistresse Ford</font> (Master <font>Broome</font> )    
+you shall 
+want none: I shall be with her (I may tell you) by her
+owne appointment, euen as you came in to me, her
+assistant, or goe-betweene, parted from me: I say I shall be
+with her betweene ten and eleuen: for at that time the
+iealious-rascally-knaue her husband will be forth: come
+you to me at night, you shall know how I speed.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I am blest in your acquaintance: do you know
+<font>Ford</font> Sir?
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Hang him (poore Cuckoldly knaue) I know
+him not: yet I wrong him to call him poore: They say
+the iealous wittolly-knaue hath masses of money, for
+the which his wife seemes to me well-fauourd: I will vse
+her as the key of the Cuckoldly-rogues Coffer, &amp; ther's
+my haruest-home.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> I would you knew <font>Ford</font> , sir, that you might
+auoid him, if you saw him.
+   </dialogue><nonSpeech> <font>Fal.</font> </nonSpeech><dialogue> Hang him, mechanicall-salt-butter rogue; I wil
+stare him out of his wits: I will awe-him with my
+cudgell: it shall hang like a Meteor ore the Cuckolds horns:
+Master <font>Broome</font> , thou shalt know, I will predominate
+ouer the pezant, and thou shalt lye with his wife. Come
+to me soone at night: <font>Ford's</font> a knaue, and I will
+aggrauate his stile: thou (Master <font>Broome</font> ) shalt know him for
+knaue, and Cuckold. Come to me soone at night.
+   </dialogue><nonSpeech> <font>Ford.</font> </nonSpeech><dialogue> What a damn'd Epicurian-Rascall is this? my
+heart is ready to cracke with impatience: who saies this
+is improuident iealousie? my wife hath sent to him, the
+howre is fixt, the match is made: would any man haue
+thought this? see the hell of hauing a false woman: my
+bed shall be abus'd, my Coffers ransack'd, my 
+reputation gnawne at, and I shall not onely receiue this villanous 
+wrong, but stand vnder the adoption of abhominable
+termes, and by him that does mee this wrong: Termes,
+names: <font>Amaimon</font> sounds well: <font>Lucifer</font> , well: <font>Barbason</font> ,
+well: yet they are Diuels additions, the names of fiends:
+But Cuckold, Wittoll, Cuckold? The Diuell himselfe
+hath not such a name. <font>Page</font> is an Asse, a secure Asse; hee
+will trust his wife, hee will not be iealous: I will rather 
+trust a <font>Fleming</font> with my butter, Parson <font>Hugh</font> the
+<font>Welsh-man</font> with my Cheese, an <font>Irish-man</font> with my 
+Aqua-vitae-bottle, or a Theefe walke my ambling gelding, then
+my wife with her selfe. Then she plots, then shee
+<pagebreak id="47C2" />
+ruminates <comment type="compiler">SOURCE TEXT: rumiuates</comment> , then shee deuises: and what   
+they thinke in their
+hearts they may effect; they will breake their hearts but
+they will effect. Heauen bee prais'd for my iealousie:
+eleuen o'clocke the howre, I will preuent this, detect
+my wife, bee reueng'd on <font>Falstaffe</font> , and laugh at <font>Page</font> . I
+will about it, better three houres too soone, then a
+mynute too late: fie, fie, fie: Cuckold, Cuckold, Cuckold.
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Exti.</font> </comment>
+
+</dialogue> <head> <font> <foreign>SCENA TERTIA.</foreign> </font> </head> 
+
+<nonSpeech> <font>Enter Caius, Rugby, Page, Shallow, Slender, Host. 
+Caius. Iacke Rugby.</font> </nonSpeech>
+   <nonSpeech> <font>Rug.</font> </nonSpeech><dialogue> Sir.
+   </dialogue><nonSpeech> <font>Caius.</font> </nonSpeech><dialogue> Vat is the clocke, <font>Iack</font> .
+   </dialogue><nonSpeech> <font>Rug.</font> </nonSpeech><dialogue> 'Tis past the howre (Sir) that Sir <font>Hugh</font> promis'd
+to meet.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By gar, he has saue his soule, dat he is no-come:
+hee has pray his Pible well, dat he is no-come: by gar
+<font> (Iack Rugby) </font> he is dead already, if he be come.
+   </dialogue><nonSpeech> <font>Rug.</font> </nonSpeech><dialogue> Hee is wise Sir: hee knew your worship would
+kill him if he came.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By gar, de herring is no dead, so as I vill kill
+him: take your Rapier, <font> (Iacke) </font> I vill tell you how I vill
+kill him.
+   </dialogue><nonSpeech> <font>Rug.</font> </nonSpeech><dialogue> Alas sir, I cannot fence.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> Villanie, take your Rapier.
+   </dialogue><nonSpeech> <font>Rug.</font> </nonSpeech><dialogue> Forbeare: heer's company.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> 'Blesse thee, bully-Doctor.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> 'Saue you M=r=. Doctor <font>Caius</font> .
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Now good M=r=. Doctor.
+   </dialogue><nonSpeech> <font>Slen.</font> </nonSpeech><dialogue> 'Giue you good-morrow, sir.
+   </dialogue><nonSpeech> <font>Caius.</font> </nonSpeech><dialogue> Vat be all you one, two, tree, fowre, come for?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> To see thee fight, to see thee foigne, to see thee
+trauerse, to see thee heere, to see thee there, to see thee
+passe thy puncto, thy stock, thy reuerse, thy distance, thy
+montant: Is he dead, my Ethiopian? Is he dead, my
+Francisco? ha Bully? what saies my <font>Esculapius</font> ? my <font>Galien</font> ? my
+heart of Elder? ha? is he dead bully-Stale? is he dead?
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By gar, he is de Coward-Iack-Priest of de vorld:
+he is not show his face.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Thou art a Castalion-king-Vrinall: <font>Hector</font> of
+<font>Greece</font> (my Boy)
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> I pray you beare witnesse, that me haue stay,
+sixe or seuen, two tree howres for him, and hee is
+nocome.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> He is the wiser man (M. Doctor) he                
+<comment type="compiler">SOURCE TEXT: (M. Docto) rhe</comment> is a curer of
+soules, and you a curer of bodies: if you should fight, you
+goe against the haire of your professions: is it not true,
+Master <font>Page</font> ?
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Master <font>Shallow</font> ; you haue your selfe beene a
+great fighter, though now a man of peace.
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> Body-kins M. <font>Page</font> , though I now be old, and
+of the peace; if I see a sword out, my finger itches to
+make one: though wee are Iustices, and Doctors, and
+Church-men (M. <font>Page</font> ) wee haue some salt of our youth
+in vs, we are the sons of women (M. <font>Page</font> .)
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> 'Tis true, M=r=. <font>Shallow</font> .
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> It wil be found so, (M. <font>Page:</font> ) M. Doctor     
+<font>Caius</font> ,
+I am come to fetch you home: I am sworn of the peace:
+you haue show'd your selfe a wise Physician, and Sir
+<font>Hugh</font> hath showne himselfe a wise and patient
+Churchman: you must goe with me, M. Doctor.
+<pagebreak id="48C1" />
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Pardon, Guest-Iustice; a Mounseur 
+Mocke-water.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> Mock-vater? vat is dat?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Mock-water, in our English tongue, is Valour
+(Bully.)
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By gar, then I haue as much Mock-vater as de
+Englishman: scuruy-Iack-dog-Priest: by gar, mee vill
+cut his eares.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> He will Clapper-claw thee tightly (Bully.)
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> Clapper-de-claw? vat is dat?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> That is, he will make thee amends.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By-gar, me doe looke hee shall clapper-de-claw
+me, for by-gar, me vill haue it.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> And I will prouoke him to't, or let him wag.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> Me tanck you for dat.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> And moreouer, (Bully) but first, M=r=. Ghuest,
+and M. <font>Page</font> , &amp; eeke Caualeiro <font>Slender</font> , goe you through
+the Towne to <font>Frogmore</font> . 
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Sir <font>Hugh</font> is there, is he?
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> He is there, see what humor he is in: and I will
+bring the Doctor about by the Fields: will it doe well?
+   </dialogue><nonSpeech> <font>Shal.</font> </nonSpeech><dialogue> We will doe it.
+   </dialogue><nonSpeech> <font>All.</font> </nonSpeech><dialogue> Adieu, good M. Doctor.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By-gar, me vill kill de Priest, for he speake for a
+Iack-an-Ape to <font>Anne Page</font> .
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Let him die: sheath thy impatience: throw cold
+water on thy Choller: goe about the fields with mee
+through <font>Frogmore</font> , I will bring thee where Mistris <font>Anne
+Page</font> is, at a Farm-house a Feasting: and thou shalt wooe
+her: Cride-game, said I well?
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By-gar, mee dancke you vor dat: by gar I loue
+you: and I shall procure 'a you de good Guest: de Earle,
+de Knight, de Lords, de Gentlemen, my patients.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> For the which, I will be thy aduersary toward
+<font>Anne Page</font> : said I well?
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> By-gar, 'tis good: vell said.
+   </dialogue><nonSpeech> <font>Host.</font> </nonSpeech><dialogue> Let vs wag then.
+   </dialogue><nonSpeech> <font>Cai.</font> </nonSpeech><dialogue> Come at my heeles, <font>Iack Rugby</font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

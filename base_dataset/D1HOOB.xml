@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1HOOB">
+  <dialogueHeader>
+
+    <filename>D1HOOB</filename>
+
+    <identifier>1 HANDB OTH D1HOOB</identifier>
+
+    <title>QUESTIONS</title>
+
+    <author>O. B.</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1594</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">O. B.</attribution>
+      <frontMatter>QUESTIONS OF PROFITABLE AND PLEASANT CONCERNINGS, TALKED OF BY
+TWO OLDE SENIORS, THE ONE AN ANCIENT RETIRED GENTLEMAN, THE OTHER A 
+MIDLING OR NEW UPSTART FRANKELING, VNDER AN OAKE IN KENELWORTH PARKE, 
+WHERE THEY WERE MET BY AN ACCIDENT TO DEFEND THE PARTCHING HEATE OF A 
+HOATE DAY, IN GRASSE OR BUCK-HUNTING TIME CALLED BY THE REPORTER THE 
+DISPLAY OF VAINE LIFE, TOGETHER WITH A PANACEA OR SUPPLING PLAISTER 
+TO CURE IF IT WERE POSSIBLE, THE PRINCIPALL DISEASES WHEREWITH THIS 
+PRESENT TIME IS ESPECIALLY VEXED.
+LONDON 
+PRINTED BY RICHARD FIELD, DWELLING IN THE BLACKFRIERS BY LUDGATE. 
+1594.
+PP. A4R.1 - D2V.33
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A4R" />
+ <head>THE DISPLAY OF
+FOLLIE.</head> 
+   <nonSpeech> <font>Huddle.</font> </nonSpeech><dialogue> See you neighbour <font>Dunstable</font> what hote
+spurring there is made after the Buck ouer yonder
+land? were it with you and me as it hath bene
+since each knew other, we could not behold
+such sport thus farre of, but rather so farre as
+might become vs, keep way with the formost.
+   </dialogue><nonSpeech> <font>Dunstable.</font> </nonSpeech><dialogue> Sir then was then, and now is now, they that 
+cannot 
+do as they haue done, must content themselues with what they
+may do: pleaseth it you therefore to giue ouer the game in the
+plaine fielde, and let me tie vp our horses to yonder bough,
+reposing our selues awhile vnder the shade of this goodly
+greene Oake. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> I readily consent to your indifferent
+motion. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Because it is vnwholsome and not altogether 
+safe
+to sleepe in this wilde wood, let me beseech you to discourse
+such matters as our experience may delight vs to remember:
+withall, voutchsafe I pray you, to report the newes of London,
+for thence I vnderstand your maistership is lately come.             
+</dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> 
+With a glad will, but ere we enter into them, let me first tell 
+you what I latest heard, which proouing true will equally glad 
+vs both. This noble Earle is not come hither to take an
+honorable recreation only, as heretofore he was wont, but purposeth
+withall to keepe a standing house here the whole yeare
+thorough. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> But that I feare the contrarie, how       
+should I
+reioyce these glad tidings. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> My selfe in like manner   
+hold
+the matter doubtfull, knowing the speciall imploiments her
+Maiestie hath daily to make of his most approoued good
+seruices, being full as he hath bene alwaies so excellent a
+becomming states peare, that his worthinesse cannot but carrie him
+from vs to matters of farre greater consequence. To say truly,
+<pagebreak id="A4V" />
+our vntoward deseruings haue merited no such benefit from
+him for longer then we are receiuing good turnes at his hands,
+<omission type="sentence" /> <comment type="compiler">THE REST OF HUDDLE'S SPEECH OMITTED: THE EARL IS NOT AS 
+APPRECIATED AS HE SHOULD BE.</comment>
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Since it is your
+pleasure to stay your discourse with a desire to heare my plaine
+eloquence, I rather blame you for speaking too little against
+that which is so worthy reproofe, then otherwise thinke much
+or that you ouer said in the Earle his praise. To say truly, such
+are our grosse manners, not caring what we say so we say
+somwhat, and somwhat we must say, else could not the world take
+knowledge of our sufficiencies, which serue vs much better to
+finde wants in other men, where they are not, then to feele the
+burthen of our owne extremities, lying heauy vpon our
+<pagebreak id="B1R" />
+shoulders ready to breake our weake backs. For my part, I meane to
+turne that cursed speaking you named into hartie praier, that it
+may please God to further this noble man his purpose and
+desire, both to this whole countries benefit, and also to the
+encoraging of other noble and worshipfull Gentlemen, who
+accompanie him in loue and good will, to do the like by his
+example, where they dwell. A thing so much discontinued and so
+farre worne out of fashion, that vnlesse by some notable man
+it be reduced and set vp againe, the old ancient patterns lost and
+gone, I feare me, it will hardly or neuer catch the right shape
+againe, men haue swarued so much to the new cut, wearing all
+on London fashion, where they neuer thinke on their poore
+countries, saue on quarter rent daies only. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Though you 
+spared me on the maine which stood in your way, you thought 
+to nick me on the bye, not set for you. <omission type="line" />
+<comment type="compiler">THE REST OF HUDDLE'S SPEECH OMITTED: DRESS HAS IMPROVED.</comment>
+<pagebreak id="B1V" />
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Surely you fauour me rightly; for it was my      
+meaning to 
+shew the dislike I had of such as weare more on their backs in 
+<pagebreak id="B2R" />
+one day, then their fathers did in their whole life time.            
+</dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> 
+Now I dare vndertake by your waightie words, you meane 
+such as weare more armour on their backs in one day, or are
+girte with more wounds and stripes then their Fathers were.
+</dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Nay rather, I speake against that excesse, where
+commendable Farmes which were wont to maintain &amp; bring vp honest
+tennants and their children, ouer and aboue the rent, are dasht
+vpon one sute of apparrell together with one daies
+vnmeasurable expences.
+<comment type="compiler">HUDDLES'S SPEECH OMITTED.</comment>
+<pagebreak id="B2V" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Through your gentle teachings, I
+begin to perceaue an approoued error, in ouerdoing, as well in
+things that haue good purposes and intents, as also in
+matters grounded vppon mischiefs, carrying an outward shew of
+holy and religious deeds. I confesse, Monasteries and Priories
+were not so likely to haue bin causes hereof, as the other
+<pagebreak id="B3R" />
+dissolute houses, where refreshings were without respect or
+partiality. The Moncks and Abbots of my knowledge, cut large
+shiuers of the loafe for which they neuer sweate, to make them
+selues strong in the peoples fauour and opinion, or else spent
+their whole gettings vpon vnlawfull children. Yet 
+notwithstanding by your fauour, you haue not attained vnto the
+full of my meaning and desire herein. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> I confesse I haue
+not, for the sight of beefed beggers that thronged so thick in
+my way: but now I haue got past them, I will go neare to meet
+you on your owne bawlke. Your desire is to haue houses kept
+to beare the Lord of misrule company at Christmas, spending
+then vpon Hick and Stephan, who haue no need of it, what
+would maintaine a seemly family more then halfe a yeare. Such
+may well be called the Lord of misrule his guests, who besides
+excessiue ouer-eating &amp; drinking the~selues, spoiling by misuse
+that they cannot deuour, leaue behind them also such
+vnmannerly annoyances, called bestialities, that the Nobleman and
+Gentleman that hath thus crammed his quoistrels, must of
+necessitie forsake their house and housekeeping, till a good winde
+blow away the vnpleasant sauours their Christmasse Poulcats
+leaue behind them. Thus besides excessiue cost and trouble by
+the fruits of this carelesse hospitalitie, their houses are left in
+worse case then common Innes or ostelries. If it be a
+sheep-shearing feast, maister Baily can entertaine you with his bill 
+of
+reckonings to his Maister, of three sheapheards wages, spent on
+fresh cates, besides spices and Saffron pottage. So that the
+Nobleman &amp; Gentleman should haue nothing come in clearly to
+them at any season, if your ancient patterns might be rightly
+obserued. I know your meaning is not to haue the Hockedame
+waited on by them, who for the most part let their lands to
+halfes, or else conuert all into rent. The entertainment one of
+them giues vnto another cannot be that you call so hotly
+vpon: for those fashions you haue a homely terme I list not to
+remember you of. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> The money your maistership hath    
+spent
+in learning and trauell, is euery penny better bestowed then
+other. Now I plainly see, let an ignorant man be neuer so wise, or
+of neuer so great experience, but if he meete with a man of
+<pagebreak id="B3V" />
+gifts and bringing vp, his presuming to know all things
+prooueth plaine ignorance, and meere mistaking. Once to day I
+tooke my selfe to know as many wayes to the Church as
+maister Vicar himselfe, but now I see Plowmen are no preachers.
+I haue a Sonne that hath cost me many a quarter of corne, on
+whome for this dayes worke I will bestowe one Peck of pure
+graine, which toucht no chaffe this many a day, to buie him
+more learning; and though I am not able to breed a
+Gentleman, I may perhaps, as well as some of my neighbors, bring vp
+one. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> I meruaile how you stumble on the Church and the
+Minister: this hote weather and our long talke should rather
+haue put you in minde of the Butler and the Butterie. Besides
+I cannot bethinke me what vertue should be in your peck of
+pelfe, especially to alter nature; my selfe withall the proofe I
+could make, could neuer finde the skill to cause a barking
+mongrell to become a true questing Spaniel. To be plaine with
+you, I neuer thinke an Ape more deformed, then when he
+striueth by borrowed skill, to put on that which nature cannot
+grace: nay rather those things are most vgly, which are forced
+and done in spight of nature. Euery one to whome Mastership
+belongeth is not a Gentleman, what purchase soeuer his father
+maketh, vnlesse he can procure bloud to alter kinde: that you
+cannot giue your sonne, because you haue not attained vnto it
+your selfe. The notabilitie hereof proceeds from chiualrie and
+marshall prowesse, where for princes right, and
+commonweales saftie, through worthy aduentures of bloud and life,
+purchase is made at the dearest price and rate. Therefore as
+there cannot be a greater cause amongst men, then the Prince
+and commonwealths businesse, nor a greater matter then bloud
+and life, to be powred out and parted withall, of necessitie the
+greatest and principallest respect and regard hath euer bene 
+had therevnto. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> By your fauour sir, there are no such
+lawes yet made to prooue Souldiers Gentlemen: or if there be,
+it is left out of their stile in all that I can reade or vnderstand  
+of
+their profession. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> If you speake ignorantly, I am
+contented to helpe you ouer the stile, you seeme not able to clime,  
+but
+if you play the Foxe with me, grapes are no meate for you, <omission type="sentence" />
+<pagebreak id="B4R" />
+<comment type="compiler">THE REST OF HUDDLE'S SPEECH OMITTED: DIVERSE DEGREES OF VIRTUE.</comment>
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Without offending you with my rude
+answers, let me aske you this mannerly question. Do you meane
+those that are begotten and borne in a Campe, to be onely
+Gentlemen of bloud, or how otherwise I beseech you to shew me?
+I haue heard this matter often debated, but neuer fully agreed
+vpon. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Because you haue alreadie heard it doubtfully
+handled, and at no time discust, it may in like sort become me
+to giue place to some doctor of the Ciuill law, to whose
+profession it especially appertaineth to know the certaintie of all
+worthie antiquities. </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> It fits me not to importune you,
+otherwise I should receiue a great good turne at your
+masterships hands thereby, for my sonne takes great delight in
+petegrees of Gentlemen, and hath some skill in quartering their
+coates. God willing he shall one day waight vpon you to
+better his knowledges, if it may please you to accept of his
+<pagebreak id="B4V" />
+vnworthinesse. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Bring him with you on Sonday next to   
+dinner,
+where you shal be sure of a Pigge for your sonne his welcome,
+therein I meane to proue his skill, how he can head and
+shoulder the same, the iawes and eares he shall bestow vpon you after
+he hath quartered them. The head so spoiled, he shall charge his
+quadrate trencher with. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> I thought I should make you
+merry with my mistakings, I now and then catch a word or
+two from my sonne, which for lack of due placing, marreth all
+in the making. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> You shall in earnest (if you list to   
+carry it
+with you) heare what I can do in your sonne his Art. The Pigs
+head shall be vpon a Spit couchant, the toung pendant, the
+braines dormant in the sauce poinant. Now for a supporter or
+crest, because of the quadrufoile in his bare head, there shall be
+a recompence made by purchase of the back ribbes and
+chinebone. All these thus put together, must of necessitie conclude
+somwhat, especially in a morning fasting. </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> Most of these
+termes my sonne hath by heart, and will talke them to a glasse
+window I haue, when many times it is my fortune to
+ouerheare him. According to your saying also he hath often confest
+vnto me, that his wit and memorie haue serued him best to
+those purposes in a morning eare he haue eaten any thing. But
+still I am to put you in minde of my former desire, wherein I
+am perswaded you are able to satisfie a much better man then
+my selfe. <omission type="line" />
+<comment type="compiler">HUDDLE'S SPEECH OMITTED.</comment>
+<pagebreak id="C2R" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> 
+Surely Sir, you haue spoken so darkely, that for the thick 
+spleigh of boughes and broad leaues of this tree, I cannot
+discerne your meaning. </dialogue><nonSpeech> <font>Huddle.</font> </nonSpeech><dialogue> Thinke you I go about to
+deceiue you with darkenesse of words? If a field be said to
+haue eyes, a wood may likewise haue eares. But whether you
+heare me not, or list not to beleeue me, the likelihood hereof
+shall carrie me to credit the same, knowing that matters of
+lesse proofe and more vnlikely trueth, haue bene receiued
+from worse grounds and beginnings then this commeth
+from. But you may see how the loue I beare you hath carried
+me to clime vnknowne hauntes, and such difficult pathes, as
+there are no steppes or traces left mee to follow; therefore
+you may say, it is like to proue a hard iourney to a weake
+traueller. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Now I better remember my selfe, I haue   
+read
+many stories agreeing with your worthies in their notable
+deedes and exploites, done by couragious and bold attempts.
+   </dialogue><nonSpeech> <font>Huddle.</font> </nonSpeech><dialogue> I will not seeke to winne you by extremitie of
+speeches, but leaue you to the libertie of your owne better
+conceauings. To keepe whole the vnderstanding of the matter,
+I will come to that which shall neereliest agree with that I said
+before. After this principall Worthie was enthronized by
+others, himselfe was also addicted and disposed, for the better
+conseruation of all things in order, in the integritie of his
+iudgement and discernings, to consider with rewards and
+dignities such deseruers and beautified mindes, as himselfe
+had seene forward by ready and feruent dispositions,
+placing and crediting vnto them for their tryed and approoued
+seruices, such degree of trust and superioritie, as might both
+stand in stead towards a recompence of their trauailes, and
+also the more incourage them to go on with him in perfecting
+things necessarie to vphold societies and vocations,
+wherevnto he had lately sorted the whole people. Afterward, such of
+<pagebreak id="C2V" />
+all sorts as had defected and come short in sufficiencie, to
+performe matters and places committed vnto them, so as the rest
+receiued losse and hinderance by their fault or negligence; such
+iniurious deceiuers were deposed, thrust downe, and
+disfranchised, as persons vnfit to become the strong vertues and
+properties beseeming men euer after compelled to exercise weake
+things, and withall enioyned to liue out the rest of their dayes
+in the company and conuersation of women. What occasion
+soeuer notwithstanding vrging the vse of them, such were
+neuer recalled nor suffered to execute duties amongst men. <omission type="line" />
+<comment type="compiler">DUNSTABLE'S SPEECH OMITTED.</comment>
+<omission type="line" /> </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> I thinke it hath bin the warmth
+of gentle bloud, which beating within your brest, hath thrust
+out this formalitie you indent your words withall: could my
+consent helpe towards it, you should be made a gentle maister
+Scriuener, for your orderly frame of words are so well suted,
+that as me thinketh you haue much amended the old patterne
+you began with in the morning. If you mistake me in sence
+also no worse hereafter, it shall not repent me to talke of this
+fashion yet a while longer with you. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Though of my   
+selfe
+it soundeth not well, yet without brag be it spoken, there be
+Gentlemen of bloud in this countrey that sit not so high in the
+<pagebreak id="C3R" />
+subsidie booke, neither are rated in furnitures and setting out of
+men to the warres in sort as I am. <omission type="line" />
+<comment type="compiler">HUDDLES'S SPEECH OMITTED.</comment>
+<pagebreak id="C3V" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunstable.</font> </nonSpeech><dialogue> Had I thought your maistership would haue
+taken my free speeches in so ill part, which concerned onely
+my selfe and my ready abilitie, to forward to my power my
+Prince her occasions and seruices, I would haue forborne to
+haue vttered my minde, wherein I onely grieued, that any
+should exempt themselues or forbeare to extend their
+vttermost helpe and indeuour in such good workes. My
+intent was not to repine at my owne easie charges, especially
+to performe so necessarie a dutie. If it please you to forget
+my foolish speeches and scattering questions, beginning
+where the matter brake off, you shall fauour me; in that I
+haue a speciall desire to heare at the full, you hauing so
+notablie entred into the declaration thereof. You left at
+absolute vertues, which are the gifts of nature, and accompany
+Gentlemen from their birth. <omission type="line" />
+<comment type="compiler">HUDDLE'S SPEECH OMITTED.</comment>
+<pagebreak id="C4R" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Belike then, if the worthie
+progenitour had attained to the tipe of all perfections, his worthie
+of-spring had at the first immediately bene seasoned with
+that most precious liquor, according to the influence into
+the former vessell. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Yea vndoubtedly, but the mysterie
+of the perfection celestiall, which you rightly termed a most
+precious influence, it is too deuine to dwell vpon earth, or to
+be discust by mortall sence and vnderstanding: but the next
+vnto that omnipotencie, are Kings and Princes, because they
+receiue theyr blessings from God directly, without other
+benefit or additament whatsoeuer. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Then I pray you   
+Sir,
+how to diuerse without the benefit of this generous bloud,
+attaine to such ripenesse as may make them worthie high place
+and dignitie in the word? </dialogue><nonSpeech> <font>Huddle.</font> </nonSpeech><dialogue> Through forward
+inclination and disposition, taken with the loue and desire to       
+immitate 
+such seruiceable vertues as they haue seene approoued and
+rewarded in others, whose more properly at the first they
+were, and so vpon iust cause, are both receiued and held
+worthie men. In the first vertuous man, I shewed you euen now,
+after his good speed was seene, and the way knowne, how he
+did great things, others were stirred vp to haue pleasure and
+delight in the like, yet such also as were better endued, and of a
+more ready motion then the rest. For all could neither be 
+incited by example, nor forced by compulsion to needfull and
+concerning duties, to the pleasuring of themselues. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> 
+By 
+this reckening, wisdome to forethinke is not the least helpe 
+both to seeke and also to become great places attained vnto.
+</dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> All my speeches haue tended to that end and purpose,
+<pagebreak id="C4V" />
+Yet first I shewed you, how bold courage did rouse and
+waken men from out the cradle of securitie, before they were
+assisted by consultation: euen then also had they failed of
+resolution to enterprise and breake through difficulties, such also as
+perhaps were repugnant vnto reason, and aboue that wit could
+perswade to be possible, then all had fainted, and nothing had
+bene atcheiued. Now wit, arte, and counsell, which you spake
+of right now, might haue serued them to prolong their plenty,
+and to haue held them still in ease, to haue lestened and made
+away by deuise, some of their superfluous and rising numbers;
+but the strong vertue was first, and it preuailed to best
+purposes and blessings. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Now sir I beseech you, speake
+somewhat of the defects that were found in them that neuer came
+forward. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> I haue promised so to do. You may imagine,
+that while the sunne is oppressed and surcharged with cloudes,
+her vertue of comforting is for the while hindered; but when
+she hath outwrought them, and broken thorough the black
+prison, her light is then cleare, and her operations effectuall.
+Likewise, whilest wantonnesse, belly cheare, and other
+entangling delights, held men back from the vse and knowledge
+of themselues: till I say, the maisterfull spirit had by maine
+force, spoiled and driuen away all impediments, they could
+purchase no freedome nor rest contented, vnlesse they were
+able also to make a through conquest of themselues, then which
+there could not be a greater victorie. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> A faire and a
+vertuous generation of worthy men, fit to take example at. <omission type="line" />
+<comment type="compiler">HUDDLES'S SPEECH OMITTED.</comment>
+<pagebreak id="D1V" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> I pray you sir suffer me
+yet to aske you this one question more, whether you thinke
+courage or counsell the more beneficiall vertue, to aduance and
+set forward actions of greatest moment? <omission type="line" />
+<comment type="compiler">HUDDLE'S SPEECH OMITTED: COURAGE IS THE MOST BENEFICIAL VIRTUE.</comment>
+<pagebreak id="D2R" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Alas Sir, 
+hard lodging and bad diet would be as good as a murthering 
+piece to kill me out right. Yet for one day I could be content 
+to see fashions amongst them with a quarter of a cold Pig, and 
+an <font>Aqua vita</font> bottle vnder my girdle. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Nay, I can   
+assure 
+you, the warres and a colde stomack will neuer agree: at these 
+yeares, you and I will pray from them that may. To martch 
+in Armour, and to vnder the waight thereof, would breake 
+our bones, being, as they are, cold, drie, and marrowlesse.          
+</dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> 
+My sonne telleth me, it is nothing now a daies to be a souldier, 
+for they neuer come to pitcht fields, as they were wonte in 
+our olde English warres, when the deuision of houses was.            
+</dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> 
+Is your sonne a Fencer that wayes to; I thinke he be an 
+vniuersall man. But I pray you what warde hath he to beare of a
+Musket bullet? it must needs be with his legges, for his hands
+I know are not Pistoll proofe. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> I confesse those     
+gunnes 
+are diuelish things, and make many men runne away that other 
+wayes would not turne their heads. But when I said a Souldier, 
+I meant the Generall or commander in the warres. He telleth 
+me many times he could discharge the place himselfe, though 
+he neuer saw an enemy in the face. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Not vnlike, but shew 
+me I pray you, wherein the commaunders office consisteth, 
+according to that you haue heard your sonne report.                  
+</dialogue><nonSpeech> <font>Dunstable.</font> </nonSpeech><dialogue> 
+Marrie sir, in ordering and ordaining the field, and in well 
+lodging his campe, neare riuers and places defended from 
+contagious noisome winds. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> What shall then be the Lord 
+Marshall his place vnder him, if his Generalship be thus imploied!
+<pagebreak id="D2V" />
+</dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> He saith <font>Hanniball</font> supplied both the romes      
+himself, and
+made the offices one: he alwaies when he came to ioyne
+battels and prepare his fights, bestowed his footmen vpon hils and
+places of aduantage, and his horsemen in the plaines and euen
+valleis beneath. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> If yong <font>Hanniball</font> your sonne     
+were chiefe
+in the field, his footmen should be Astronomers or wisards, to
+know when they should not fight, then from the hilles to giue
+signes to the horsemen to be gone, and flie away together, and
+so your sonne his hoast should consist of a running campe.
+Though I was neuer worthy to beare the name of a companion
+in the warres, yet vnder his conduct I could be content to refuse
+the offer of a very good place and office. </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> What       
+office is 
+that, and why? I pray you sir let me know. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> No 
+entertainment could tempt me to be maister of his carriages, to      
+carrie &amp; 
+recarrie hils and dales, windes and waters; besides I know the 
+great librarie that hath cost you so many quarters of Corne, 
+must also waite vpon his remoues. If that fleet vp and downe 
+with him, well he may loose an eye with poaring vpon his
+<font>Puerilis</font> , but with climing the Alpes as <font>Hanniball</font> did, for  
+catching 
+an ill humour in that sort, I dare put you in comfort and be his 
+warrant. </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> May it please you sir to take a hard lodging 
+at
+my house to night, for I see by the Moones leape into her
+waterie circle, if we sit long here, vnwholesome dewes will be sent
+downe vpon vs. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Not now I thanke you, I haue such
+businesse with my Lord that I cannot, whe~ I come into the
+countrey againe in winter, it is like I will bid my self vpon this
+warrantise. </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> I haue a case of some extremitie, wherein 
+I would
+be glad of your worships counsell, might I be so bold to craue
+it. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> To morrow in the morning when my Lord is gone
+forth againe to hunt, I wil be ready for you, and as glad of your
+companie as to day. </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> God keepe you Sir, as it 
+becommeth me, I will waite vpon your comming abroad in the
+morning. </dialogue><nonSpeech> <font>Hud.</font> </nonSpeech><dialogue> Good night neighbour.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

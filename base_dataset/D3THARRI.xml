@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3THARRI">
+  <dialogueHeader>
+
+    <filename>D3THARRI</filename>
+
+    <identifier>3 TRIAL D3THARRI</identifier>
+
+    <title>THOMAS HARRISON</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1660</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE ARRAIGNMENT, TRYAL, AND CONDEMNATION OF THOMAS HARRISON
+LATE MAJOR GENERAL, AND ONE OF THE PRETENDED JUDGES THAT SIGN'D THE 
+WARRANT FOR THE MURDER OF KING CHARLES THE FIRST, OF EVER BLESSED 
+MEMORY, AND APPOINTED THE PLACE FOR THAT FATAL EXECUTION TO BE AT 
+WHITE-HALL GATE. 
+(...)
+(LONDON) PRINTED FOR T. VERE, AND W. GILBERTSON. 
+1660.
+PP. 4.1 - 7.29
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="4" />
+   <nonSpeech>Cryer.</nonSpeech><dialogue> <font>Hardresse Waller</font> Knight, <font>hold up thy hand, what  
+sayest
+thou, art thou guilty of this horrid Act of Treason whereof thou
+standest indicted, or not guilty</font> .
+   </dialogue><nonSpeech> <font>Hard. Wall.</font> </nonSpeech><dialogue> My Lord, I cannot say, I am not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>Then you plead, you are guilty.</font> 
+   </dialogue><nonSpeech> <font>Hard.</font> </nonSpeech><dialogue> Yes my Lord, I am guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>Set him aside.</font>
+Thomas Harison, <font>Hold up thy hand, art thou guilty or not guilty</font> .
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> If I should say I am not guilty, I should wrong my 
+own
+conscience, yet in matter and form as it is laid down in this
+Indictment, I am not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> Then you plead not guilty.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> My Lord, I desire I may have counsell afforded me, 
+and
+time to make my defence, for I have been kept close prisoner in a
+dark Chamber, and had no notice of my Tryal till five of the clock
+in the morning, that I am altogether unprepared.
+   </dialogue><nonSpeech>Judge,</nonSpeech><dialogue> <font>You are to plead guilty or not guilty, for in cases  
+of
+Treason Counsel is not to be assigned, for that would make it
+justifiable, and that it were not Treason, and you would be quit,    
+but if
+it be treason, then it is not justifiable.</font>
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I am not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>How wilt thou be tryed.</font>
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> By the Lords Lawes, and by the good and wholesome
+Laws of the Land.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>Wilt thou be tryed by God and the Countrey.</font>
+   </dialogue><nonSpeech> <font>Har.</font> He answered that was a profane word.</nonSpeech>
+   <nonSpeech> <font>Then the Judge answered</font> ,</nonSpeech><dialogue> <font>he shall be turned over to   
+God and the
+Countrey.</font> 
+   </dialogue><nonSpeech>Har.</nonSpeech><dialogue> <font>No Sir, I will be tryed by God and the Country.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance, </dialogue><nonSpeech>and turn'd    
+him aside.</nonSpeech><dialogue>
+Henry Heveningham, <font>hold up thy hand, guilty or not guilty</font> .
+   </dialogue><nonSpeech> <font>Hev.</font> </nonSpeech><dialogue> Not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>How wilt thou be tryed.</font>
+   </dialogue><nonSpeech>Hev.</nonSpeech><dialogue> I will present an humble Petition to His Majesty and the
+Parliament, and desire your Lordships to let me return to my
+lodgings in the Tower, for I have some infirmities upon me.
+<pagebreak id="5" />
+   </dialogue><nonSpeech>Judge,</nonSpeech><dialogue> <font>We can give you no answer to that,</font>
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> How wilt thou be tryed?
+   </dialogue><nonSpeech>Hev.</nonSpeech><dialogue> <font>By God and the Countrey.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+<font>Set them by, Bring</font> Isaac Pennington, Henry Martin, Gilbert
+Millington, Robert Tichborn, and Robert Lilborn <font>to the Bar</font> .
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> Henry Martin, <font>Hold up thy hand to the Bar, what 
+sayest
+thou, art guilty of this horrid act of Treason whereof thou standest 
+indicted or not guilty</font> .
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> My Lord, I desire the benefit of the Act of        
+Indempnity.
+   </dialogue><nonSpeech>Judge,</nonSpeech><dialogue> <font>First you are to plead before you can have the       
+benefit of
+any thing, and for your pleading the Act of Indemnity that makes
+you guilty.</font>
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> My Lord, If I plead, I loose the benefit of that   
+Act.
+   </dialogue><nonSpeech>Judge,</nonSpeech><dialogue> <font>Your name is in that Act.</font>
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> My name is not there my Lord, my name is <font>Henry 
+Marten</font> , not <font>Martin</font> , </dialogue><nonSpeech>Then the Judge said</nonSpeech><dialogue> there is no      
+difference
+between <font>Martin</font> and <font>Marten</font> in Law, the difference is very     
+little in
+the sound, </dialogue><nonSpeech>then said the Clerk,</nonSpeech><dialogue> art thou guilty or not guilty.
+   </dialogue><nonSpeech> <font>The Judge bid him</font> </nonSpeech><dialogue> <font>be advised, for it makes no         
+difference if there
+were two names of the like form, the difference is betwixt the six
+Names, and 'twill but make you a Mute in Law, and a Mute in
+Treason, Sir, you must have Judgement passed on you</font> .
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> Are you guilty or not guilty.
+   </dialogue><nonSpeech>Mar.</nonSpeech><dialogue> <font>I desire Counsel my Lord in that which is matter of    
+Law.</font>
+   </dialogue><nonSpeech> <font>Judg.</font> </nonSpeech><dialogue> What do you desire counsel for? you are indicted  
+for
+matter of Treason, for Contriving and Composing the Kings
+death: you have justification to plead if it be Treason, it is not
+justifiable; or if it be justifiable, it is not Treason.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> <font>Then my Lord I plead not guilty.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> How will you be tryed?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> <font>By God and the Countrey.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+   </dialogue><nonSpeech>Judge,</nonSpeech><dialogue> <font>You may give any Evidence, but in a case of this     
+nature
+you can give no Evidence.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> <font>Gilbert Millingtoun</font> , Hold up thy hand, what  
+sayst thou
+<pagebreak id="6" />
+art guilty of this horrid Act of Treason or not guilty.
+   </dialogue><nonSpeech>Mil.</nonSpeech><dialogue> <font>I humbly crave your Lordships pardon in some few       
+words.</font>
+   </dialogue><nonSpeech> <font>Judg.</font> </nonSpeech><dialogue> Sir we must do in this case as in all other       
+cases, either
+you must plead guilty or not, if you plead not guilty, you shall be
+heard hereafter: but you must plead guilty or not guilty.
+   </dialogue><nonSpeech>Mil.</nonSpeech><dialogue> <font>There is something in that Indictment which I am not    
+guilty of.</font>
+   </dialogue><nonSpeech> <font>Jud.</font> </nonSpeech><dialogue> Then plead not guilty.
+   </dialogue><nonSpeech>Mil.</nonSpeech><dialogue> <font>I am not guilty my Lord.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> How wilt thou be tryed?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> <font>By God and my Countrey.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> Robert Tichborn, <font>hold up thy hand, art thou guilty of
+this horrid Act of Treason, or not guilty</font> .
+   </dialogue><nonSpeech> <font>Tich.</font> </nonSpeech><dialogue> My Lord, I have for some space been kept close    
+prisoner,
+and I am altogether unable in the Law to speak for my self.
+   </dialogue><nonSpeech>Jud.</nonSpeech><dialogue> <font>You must plead guilty, or not guilty.</font>
+   </dialogue><nonSpeech> <font>Tich.</font> </nonSpeech><dialogue> Spare me one word, if the Tryal be matter of Law, 
+give
+leave for Counsel to plead for me: if I should plead my own case
+in Law, I might be overpowred, since there are many persons of
+great eminency and honour will plead against me, but I will not
+trouble you long if this be the case in matter and form as I am
+here Indicted, I am not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>How wilt thou be tryed?</font>
+   </dialogue><nonSpeech> <font>Tich.</font> </nonSpeech><dialogue> <comment type="compiler">NO SPEAKER NAME GIVEN IN SOURCE TEXT.</comment> By God  
+and the Country.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>God send you a good deliverance.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> Owen Roe, Hold up your hand, art thou guilty of    
+this
+horrid act of Treason or not guilty.
+   </dialogue><nonSpeech>Owen Roe,</nonSpeech><dialogue> <font>My Lord, I will rest upon the Judgement of the
+Court, in matter and form as I stand indicted, I am not guilty.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> How wilt thou be try'd?
+   </dialogue><nonSpeech>Owen Roe,</nonSpeech><dialogue> <font>By God and the Country.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> Robert Lilburn, <font>Hold up thy hand, art thou guilty or  
+not 
+guilty</font> ?
+   </dialogue><nonSpeech> <font>Lilburn,</font> </nonSpeech><dialogue> I have been close Prisoner my Lord these twenty 
+dayes, and none suffered to come to me, and I am told that I
+ought to have counsel before I plead.
+<pagebreak id="7" />
+   </dialogue><nonSpeech>Judg.</nonSpeech><dialogue> <font>You are misinformed, you cannot have it, you must     
+plead
+guilty or not guilty, for if this be your argument, and this answer
+return of Iudgement will be given against you, for the rule is set
+before us.</font>
+   </dialogue><nonSpeech> <font>Lilborn,</font> </nonSpeech><dialogue> My Lord, if you over rule me, I cannot help it.
+   </dialogue><nonSpeech>Judg.</nonSpeech><dialogue> <font>Sir, Pray let no such words fall from your mouth.</font>
+   </dialogue><nonSpeech> <font>Lilborn,</font> </nonSpeech><dialogue> My Lord, I must say in matter and form as I    
+stand
+indicted, I am not guilty.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>How wilt thou be try'd?</font>
+   </dialogue><nonSpeech>L.</nonSpeech><dialogue> By God and the Country.
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> <font>God send thee a good deliverance.</font>
+   </dialogue><nonSpeech>Cler.</nonSpeech><dialogue> Call <font>Adrian Scroop, Augustine Garland, Gregory Clement,
+Peter Temple, John Jones, Iames Temple, Iohn Cook, Iohn Carew</font> ,
+</dialogue><nonSpeech>all which held up their hands as others before by degrees, 
+pleading not guilty?</nonSpeech>
+<nonSpeech>Afterwards was called <font>Tho. Scot, Henry Smith, Gregory Clement,
+Vincent Potter, Edmund Harvy, Tho. Wait, Hugh Peters</font> , to hold up 
+their hands and read the Charge,</nonSpeech><dialogue> are ye guilty or not guilty?
+   </dialogue><nonSpeech>Pet.</nonSpeech><dialogue> <font>I cannot say I am guilty my Lord, for I would not be   
+guilty
+of the murder for ten thousand Worlds.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> How wilt thou be tryed.
+   </dialogue><nonSpeech>Pet.</nonSpeech><dialogue> <font>By the word of God</font> ; </dialogue><nonSpeech>at which the Court smiled.</nonSpeech>
+   <nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> Art thou guilty or not guilty.
+   </dialogue><nonSpeech>Pet.</nonSpeech><dialogue> <font>Not guilty.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> How wilt thou be tryed.
+   </dialogue><nonSpeech>Pet.</nonSpeech><dialogue> <font>By God and the Countrey.</font>
+   </dialogue><nonSpeech> <font>Cler.</font> </nonSpeech><dialogue> God send thee a good deliverance.
+</dialogue><nonSpeech>George Fleetwood <font>being call'd to the Bar, held up his hand as
+before, and confest himself guilty: But the others pleaded not       
+guilty</font> .</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1WDARCY">
+  <dialogueHeader>
+
+    <filename>D1WDARCY</filename>
+
+    <identifier>1 WITNESS D D1WDARCY</identifier>
+
+    <title>S. OSES</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1582</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A TRUE AND IUST RECORDE, OF THE INFORMATION, EXAMINATION AND
+CONFESSION OF ALL THE WITCHES, TAKEN AT S. OSES IN THE COUNTIE OF
+ESSEX: (...).
+WRITTEN ORDERLY, AS THE CASES WERE TRYED BY EUIDENCE, BY W. W.
+IMPRINTED IN LONDON AT THE THREE CRANES IN THE VINETREE BY THOMAS
+DAWSON 
+1582.
+PP. A1R.1 - A2V.22  SAMPLE 1 
+PP. A4R.14 - A4V.26 SAMPLE 2
+PP. A6R.20 - A6V.10 SAMPLE 3
+PP. B5R.18 - C1V.13 SAMPLE 4
+PP. C4R.9 - C7V.28  SAMPLE 5
+PP. D1R.9 - D4R.11  SAMPLE 6
+PP. D4V.23 - D5R.17 SAMPLE 7
+PP. D8V.1 - E2R.12  SAMPLE 8
+PP. E4R.1 - E4V.11  SAMPLE 9
+PP. E6R.22 - F3V.28 SAMPLE 10
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A1R" />
+ <head> <font>THE XIX. DAY OF FEBRUARY
+THE XXIIII. YEERE OF THE RAIGNE OF
+OUR SOUERAIGNE LADIE QUEENE
+ELIZABETH.
+
+THE INFORMATION OF GRACE THURLOWE, THE WIFE OF 
+IOHN THURLOWE, TAKEN BEFORE MEE BRIAN DARCEY,
+THE DAY AND YEERE ABOUE SAIDE, AGAINST
+VRSLEY KEMPE, ALIAS GREY,
+AS FOLLOWETH.</font> </head> 
+
+   <nonSpeech>The saide grace sayeth, that
+about xii. monethes past, or
+neere there abouts, her sonne
+Dauye Thurlowe, beeing
+strangely taken and greatly
+tormented, Vrsley Kempe
+<font>alias</font> Grey <comment type="compiler">SOURCE TEXT: Gery</comment> came vnto the said
+Grace to see how the childe did: At which time
+the childe lying vpon a bed in the chimney
+corner, shee the said Vrsley tooke it by the hande,
+saying,</nonSpeech><dialogue> A good childe howe art thou loden? </dialogue><nonSpeech>and
+so went thrise out of the doores, and euery time
+when shee came in shee tooke the childe by the
+hande, and saide,</nonSpeech><dialogue> A good childe howe art thou
+loden? </dialogue><nonSpeech>And so at her departure, the saide Grace
+prayed the saide Vrsley to come againe vnto
+<pagebreak id="A1V" />
+her at night to helpe her. And thereupon she
+the saide Vrsley replied, and saide,</nonSpeech><dialogue> I warrant
+thee I, thy Childe, shall doe well enough; </dialogue><nonSpeech>and y=t=
+night it fell to rest, the which it did not of a long
+time before. And the next day the said Grace
+going to mille warde meeting the said Vrsley,
+shee asked her howe her childe did, and shee said</nonSpeech><dialogue>
+it tooke good rest this night God be thanked, I
+I </dialogue><nonSpeech>saide the said Vrsley,</nonSpeech><dialogue> I warrant thee it shall
+doe well. </dialogue><nonSpeech>Note, that the palmes of the childes
+handes were turned where the backes shoulde
+bee, and the backe in the place of the palmes.</nonSpeech>
+   <nonSpeech>The said Grace saith also, that about three
+quarters of a yeere agoe she was deliuered of a 
+woman childe, and saith, that shortly after the
+birth thereof, the said Vrsley fell out with her,
+for that shee woulde not suffer her to haue the
+nursing of that childe, at suche times as she the
+said Grace continued in woorke at the Lorde
+Darcies place: And saith, that shee the saide
+Grace nursing the said childe, within som short
+time after that falling out, the childe lying in
+the Cradle, and not aboue a quarter olde, fell
+out of the saide Cradle, and brake her necke,
+and dyed. The which the saide Vrsley
+hearing to haue happened, made answere</nonSpeech><dialogue> it
+maketh no matter. For shee might haue 
+<pagebreak id="A2R" />
+suffered mee to haue the keeping and nursing of it.
+   </dialogue><nonSpeech>And the saide Grace saith, that when shee 
+lay in, the saide Vrsley came vnto her, and
+seemed to bee very angrie for that shee had not the
+keeping in of the saide Grace, &amp; for that she
+answered vnto her that shee was prouided: And 
+thereupon they entred further into talke, the
+saide Grace saying, that if shee should
+continue lame as shee had doone before, shee
+woulde finde the meanes to knowe howe it
+came, and y=t= shee woulde creepe vpon her knees
+to complaine of them to haue iustice done vpon
+them. And to that shee the saide Vrsley saide,
+it were a good turne.</nonSpeech><dialogue> Take heed </dialogue><nonSpeech> (said Grace) </nonSpeech><dialogue>
+Vrsley, thou hast a naughtie name. </dialogue><nonSpeech>And to
+that Vrsley made answere, though shee coulde
+vnwitche shee coulde not witche, and so
+promised the saide Grace, that if shee did sende
+for her priuily, and send her keeper away,
+that then shee woulde shew the said Grace, how
+shee shoulde vnwitch herselfe or any other at
+any time.</nonSpeech>
+   <nonSpeech>And the said Grace further saith, that about
+halfe a yeere past she began to haue a lamenesse
+in her bones, &amp; specially in her legges, at which
+time y=e= said Vrsley came vnto her vnsent for and
+w=t=out <comment type="compiler">SOURCE TEXT: wout</comment> request: And said, she would helpe     
+her of
+her lamenes, if she the said Grace woulde giue
+<pagebreak id="A2V" />
+her xii. pence, y=e= which the said Grace speaking
+her fayre, promised her so to doe, and thereupon
+for the space of v. weekes after, she was wel &amp;
+in good case as shee was before. And then
+the said Vrsley came vnto the saide Grace, and
+asked her y=e= money she promised to her. 
+Wherupon the saide Grace made answere, that shee
+was a poore and a needie woman, and had no
+money: &amp; then the said Vrsley requested of her
+cheese for it: but she said she had none. And shee
+the said Vrsley, seeing nothing to be had of the
+saide Grace, fell out with her, and saide, that she
+woulde bee euen with her: and thereupon shee
+was taken lame, and from that day to this day
+hath so continued.</nonSpeech>
+   <nonSpeech>And she saith, that when she is any thing well
+or beginneth to amend, then her childe is 
+tormented, and so continueth for a time in a very
+strange case, and when he beginneth to amend:
+Then shee the saide Grace becommeth so lame,
+as without helpe shee is not able to arise, or to
+turne her in her bed.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="A4R" />
+ <head> <font>THE ENFORMATION OF ALES HUNT, TAKEN BEFORE
+MEE BRIAN DARCEY ESQUIRE, THE XXIIII. DAY
+OF FEBRUARY, AGAINST IOAN PECHEY WIDDOW.</font> </head> 
+   <nonSpeech>This examinat Ales Hunt saith, that shee
+dwelleth in y=e= next house vnto y=e= saide Ioan
+Pechey, &amp; y=t= she the said Ioan two or three daies
+before Christmas last, went to y=e= house of 
+Iohnson y=e= Collector appointed for y=e= poore, whereas
+she y=e= said Ioan receiued beefe &amp; bread, the which
+this Examinat saith, shee hearde to bee of the
+gift of y=e= said Bria~ Darcey). And this examinat
+saith that y=e= said Ioan going homewardes,
+murmured &amp; found great fault at Iohnson, saying,
+he might haue giuen that to a gyrle or another,
+<pagebreak id="A4V" />
+and not to her, saying the bread was to hard
+baked for her and that shee then seemed to bee in
+a great anger therewithall. This examinat
+saith, shee was at that present in the house of the
+wydow Hunt, and that there was but a wall
+betweene them, The saide Ioan comming to her
+house did vnlocke her dore, the which this
+examinat did see her doe: And after shee was
+entred into her house, this examinat saith, she hard
+the said Ioan to say,</nonSpeech><dialogue> yea are you so sawsie: are 
+yee so bolde: you were not best to bee so bolde
+with mee: For if you will not bee ruled, you
+shall haue Symonds sause, yea </dialogue><nonSpeech>saide the saide
+Ioan,</nonSpeech><dialogue> I perceiue if I doe giue you an inch, you
+you will take an ell: </dialogue><nonSpeech>and saith she is assured that
+there was no christian creature with her at that
+time, but that she vsed those speeches vnto her
+Imps.</nonSpeech>
+   <nonSpeech>And this examinat saith, that she hath heard
+her mother say, that she the said Ioan was
+skilfull and cunning in witcherie, and could do as
+much as the said mother Barnes, this
+examinats mother, or any other in this towne of S.
+Osees. And further saith, she hath hard her
+mother to say, y=t= the said Ioan did know what was
+saide or done in any mans house in this towne.</nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="A6R" />
+ <head> <font>THE ENFORMATION OF WILLIAM HOOKE PAINTER,
+TAKEN BEFORE ME BRIAN DARCEY ESQUIRE, THE
+XXIII OF FEBRUARIE, AGAINST ALES NEWMAN.</font> </head> 
+
+   <nonSpeech>This examinate William Hooke sayth, y=t= he
+dwelleth in the next house vnto Ales
+Newma~, &amp; saith, that he hath hard William Newema~
+her husba~d to say vnto y=e= said Ales his wife, y=t= she
+<pagebreak id="A6V" />
+was the cause of her husbands great miserie and
+wretched state, and sayeth, that when the saide
+Ales doeth giue her husbande any meate to eate,
+then presently he the saide William saith to his
+wife,</nonSpeech><dialogue> doest thou not see? doest thou see: 
+</dialogue><nonSpeech>wherevnto this examinate sayth, that he hath hearde the
+saide Ales to say,</nonSpeech><dialogue> if thou seest any thing giue it
+some of thy meat. </dialogue><nonSpeech>And saith further, that he hath 
+hearde the saide William Newman bid the said
+Ales his wife to beate it away.</nonSpeech><dialogue>
+<comment type="compiler">FOUR DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="B5R" />
+ <head> <font>THE EXAMINATION AND CONFESSION OF ALES
+NEWMAN, TAKEN BEFORE MEE BRIAN DARCIE
+ESQUIRE, THE XXI. OF FEBRUARY.</font> </head> 
+
+ <head> <font>CONDEMNED.</font> </head> 
+   <nonSpeech>This examinat saith, that shee went vnto the
+house where the saide Vrsley Kempe <font>alias</font>
+Grey dwelt, and entred into communication
+with her, and that they fell out greatly: and
+confesseth that shee saide vnto the saide Vrsley
+<pagebreak id="B5V" />
+that she knew her to be a witche, but denieth the
+residue of y=e= speeches alleadged by the said 
+Vrsley against this Examinat.</nonSpeech>
+   <nonSpeech>The said Brian Darcey finding this
+examinat to bee obstinate, and that shee coulde bee
+brought to confesse nothing, said to this 
+Examinat, that hee woulde seuer and part her and her
+spirites a sunder,</nonSpeech><dialogue> nay </dialogue><nonSpeech>sayth shee this examinat,</nonSpeech><dialogue>
+that shal ye not, for I wil carry the~ with me, </dialogue><nonSpeech>and
+hold being taken of her wordes, after some
+distance she added (if she haue any.) </nonSpeech>
+
+ <head> <font>THE ENFORMATION OF WILLIAM BONNER, TAKEN
+BEFORE ME BRIAN DARCEY ESQUIRE, THE XXIIII.
+DAY OF FEBRUARY.</font> </head> 
+
+   <nonSpeech>The said William Bonner saith, that y=e= said
+Elizabeth Bennet and his wife were
+lovers and familiar friendes, and did accompanie
+much together: and saith that since Candlemas
+last his wife hath complained of a lamenesse in
+her knee, and that sithence also shee hath been
+much troubled. And saith also that not ten daies
+past the saide Elizabeth Bennet being with his
+wife, shee beeing sickely and sore troubled, the
+saide Elizabeth vsed speeches vnto her, saying,</nonSpeech><dialogue>
+a good woman how thou art loden, </dialogue><nonSpeech>&amp; then
+clasped her in her armes, and kissed her:
+<pagebreak id="B6R" />
+Wherupon presently after her vpper Lippe swelled &amp;
+was very bigge, and her eyes much sunked into
+her head, and shee hath lien sithence in a very
+strange case.</nonSpeech>
+
+<nonSpeech> <font>Vpon the saide enformation made by Vrsley
+Kempe alias Grey, against Elizabeth 
+Bennet, I Brian Dorcey directed my warra~t for
+her apprehe~sio~, wherupo~ she was brought
+before me the said Brian, whole confession
+being taken the 22. day of February.</font> </nonSpeech>
+ <head> <font>CONDEMNED.</font> </head> 
+   <nonSpeech>The said Elizabeth Bennet being charged
+with the foresaid information, denieth the
+same in generall, &amp; after many and sundrie
+dema~ds being asked, whether she had not a pot or
+pitcher of earth sta~ding vnder a paire of staires
+in her house &amp; wool in the same, in the which
+vsually the said two spirits did lie, denied y=e= same
+with many othes, saying, y=t= she was wel assured
+y=t= she had none such, wherupo~ it was said to her,</nonSpeech><dialogue>
+if it be proued to your face, what will you say to
+al the other matters you haue bin charged with,
+are they true: </dialogue><nonSpeech>To that she made answere &amp; said</nonSpeech><dialogue>
+yea: </dialogue><nonSpeech>Then was the pot brought before her, the
+which she then confessed to be her pot, but
+denied y=t= the wool therin was any of hers, the~ I
+calling her vnto mee, saide,</nonSpeech><dialogue> Elizabeth as thou
+<pagebreak id="B6V" />
+wilt haue fauour confesse the truth. For so it
+is, there is a man of great cunning and
+knoweledge come ouer lately vnto our Queenes
+Maiestie, which hath aduertised her what a
+companie and number of Witches be within
+Englande: whereupon I and other of her Iustices
+haue receiued Commission for the apprehe~ding
+of as many as are within these limites, and
+they which doe confesse the truth of their
+doeings, they shall haue much fauour: but the other
+they shall bee burnt and hanged. </dialogue><nonSpeech>At which
+speeches shee the saide Elizabeth falling vpon her
+knees distilling teares confessed as 
+heereafter followeth.</nonSpeech>
+   <nonSpeech>Saying, that one William Byet dwelt in
+the next house vnto her three yeres, saying, y=t= the
+first yeere they did agree reasonably well, but
+ere the seconde yeere passed they fell out
+sundry and oftentimes, both with this examinat &amp;
+her husbande, Byet calling her oftentimes olde
+trot and olde witche, and did banne and curse
+this examinat and her Cattell, to the which this
+examinat saith, that shee called him knaue
+saying,</nonSpeech><dialogue> winde it vp Byet, for it wil light vpon your
+selfe: </dialogue><nonSpeech>and after this falling out this examinat
+saith, that Byet had three beastes dyed, whereof
+hee seeing one of them somewhat to droupe, hee
+did beat the saide Cowe in such force, (as this
+<pagebreak id="B7R" />
+Examinat saith, that shee thought the said Cow
+did die thereof.</nonSpeech>
+   <nonSpeech>This examinat saith further, that Byets wife
+did beate her swine seuerall times with greate 
+Gybets, and did at an other time thrust a
+pitchforke through the side of one of this examinats
+swine, the which Durrant a Butcher did buie,
+and for that when hee had dressed it, it prooued
+A messell, this Examinat saith, shee had nothing
+for it but receiued it againe, &amp;c.</nonSpeech>
+   <nonSpeech>This examinat saith also, that aboue two
+yeeres past there came vnto her two spirits, one 
+called <font>Suckin</font> , being blacke like a Dogge, the
+other called <font>Lierd</font> , beeing red like a Lion, <font>Suckin</font>
+this examinat saith is a hee, and the other a shee.
+And saith, on a time as this examinat was
+comming from mill, the spirite called <font>Suckin</font> came
+vnto her and did take her by the coate, and helde
+her that shee coulde not goe forwarde nor
+remooue by the space of two houres, at the which
+(this examinat saith) she was much amased, and
+shee saith, that the spirite did aske her if she this
+examinat <comment type="compiler">SOURCE TEXT: examiuat</comment> woulde goe with it: Whereat shee
+this examinat saide,</nonSpeech><dialogue> In the name of God, what
+art thou: Thou wilt not hurt mee, </dialogue><nonSpeech>at the
+which speeche it said</nonSpeech><dialogue> no, </dialogue><nonSpeech>&amp; this Examinat saith, 
+that shee then prayed deuoutly to Almightie
+God to deliuer her from it: at which time the spirite
+<pagebreak id="B7V" />
+did depart from her vntill shee had gone a good
+way, and being come within xxx. or xl. rodes of
+her house, this examinat saith, that the said
+spirite came againe vnto her and tooke her by the
+coates behind, &amp; held her fast, whereat this
+examinat saith, that she desired God to deliuer her
+fro~ that euill spirite, and then that did depart to
+the Wel. And this examinat saith, y=t= within one
+houre after, the same same spirite came againe
+vnto her she being a sifting of her meale, &amp; saith,
+the same remained with her vntill she had laied 
+her leauen, and then departed.</nonSpeech>
+   <nonSpeech>The saide examinat saith, that the next day
+shee being a kneading of her bread, the said
+spirite came againe vnto her, and brought the other
+spirite with it called <font>Lierd</font> , and that one of them
+did aske her why she was so snappish yesterday,
+to that this examinat saith, that shee made 
+answere,</nonSpeech><dialogue> I trust I am in the faith of God, and you
+shall haue no power ouer mee, </dialogue><nonSpeech>at which wordes
+this Examinat saith, the saide spirites 
+departed.</nonSpeech>
+   <nonSpeech>Then shee this examinat saith, that shee 
+beeing a making of a fire in her Ouen, the said
+spirits came againe vnto her, and tooke her by the
+legge, this examinat feeling it to take her by the
+leg saith she said,</nonSpeech><dialogue> God and the holy Ghost
+deliuer me from the euill spirites, </dialogue><nonSpeech>at which words
+<pagebreak id="B8R" />
+this examinat saith, that the said spirites did
+depart to her thinking.</nonSpeech>
+   <nonSpeech>But this examinat saith, that within halfe
+an houre after she hauing a fier fork in her ha~d,
+and beeing a stirring of the fire in the Ouen,
+the spirit (called <font>Suckin</font> ) came vnto her &amp; tooke
+this examinat by the hippes, and saide,</nonSpeech><dialogue> seeing
+thou wilt not be ruled, thou shalt haue a cause, </dialogue><nonSpeech>&amp;
+would haue thrust this examinat into y=e= burning
+Ouen, &amp; so had (as this examinat saith) but for
+the foresaide forke, but this examinat striuing
+and dooing what shee coulde to her vttermost,
+the saide spirite burnt her arme, the which
+burning is apparaunt and euidently too bee
+seene, and when it had thus doone it did
+depart.</nonSpeech>
+   <nonSpeech>And this Examinat saith, that about a 
+moneth after or more, shee beeing a walking in a
+croft neere vnto a Barne called Heywoods
+Barne, the spirite called <font>Suckin</font> came and
+followed this examinat, she spying the same as she
+looked backe, at the sight thereof this examinat
+saith, y=t= her eies wer like to start out of her head:
+then she saith y=t= she did beseech God to gouerne
+and guide her from the euill spirites,
+whereupon shee saith they did depart,</nonSpeech>
+   <nonSpeech>But the same euening she this examinat being
+set a milking of a red Cowe with a white face,
+<pagebreak id="B8V" />
+saith that <font>Suckin</font> and <font>Lired</font> came againe vnto
+her, and saith that <font>Suckin</font> appeared at that time
+in the likenesse of a blacke dogge, and <font>Lired</font> in
+the likenesse of a Hare, the one sitting on the 
+one side of her, the other on the other side of her
+within lesse then two yardes. And saith, that
+the Cowe shee was then a milking of, snorted
+and ranne away, and brake her paile and spilt al
+her milke, neither coulde she get the said Cow
+any more that night to stand still, and saith, that
+for the losse thereof her husband did much chide
+her, but shee woulde not tell him what was the
+cause: and she praying to the father, the sonne, &amp;
+the holy ghoste, saith that they did depart, and
+that shee sawe them not a quarter of a yeere
+after, nor aboue three times since Midsommer
+last.</nonSpeech>
+   <nonSpeech>The said exam. saith, that about that time
+they appeared againe vnto her, and saith that a
+little before there was a falling out betweene
+her and the saide Byet, whereupon and for that
+Byet had oftentimes misused her this
+examinat and her Cattell, shee saith, that shee caused
+<font>Lyard</font> in y=e= likenes of a Lion to goe &amp; to plague
+the saide Byets beastes vnto death, and the
+spirite returning tolde this examinat that it had
+plagued two of his beastes, the one a red Cow,
+the other a blacke. And saith that the spirite
+<pagebreak id="C1R" />
+tolde her, that hee plagued the blacke Cowe in
+the backe, and the read Cowe in the head.</nonSpeech>
+   <nonSpeech>This Examinate saieth further, that aboute
+Whitsontyde last past, the spirit called <font>Suckin</font> ,
+did come againe at that tyme vnto her, sayeing
+to this Examinate, that hee had mette Byettes
+wife two seuerall tymes, tellyng this
+Examynate, that it mette her once in this Examinates 
+yarde, and the next day after it sayde, that it met
+her at the style, going into her grounde: And
+saieth it tolde this Examinate, it had plagued
+y=e= said Byets wife to the death. She this
+Examinate saying it was done by the spirite, but
+not by the sending of this Examinate. The
+sayde spirite sayeing,</nonSpeech><dialogue> I knowe that Byet and
+his wife haue wronged thee greatly, and doone
+thee seuerall hurtes, and beaten thy swyne, and
+thrust a pytchforke in one of them, </dialogue><nonSpeech>the which
+the spirite sayde to haue doone, to winne credit
+with this Examinate.</nonSpeech>
+   <nonSpeech>And this Examinate saieth further, that
+aboute Lammas last past: For that the sayde
+William Byet had abused her, in calling her
+olde trot, old whore, and other lewde speaches,
+shee this Examinate, caused the spirite, called
+<font>Suckin</font> , to goe and plague the sayde Willyam
+Byette where that woulde: The which the
+sayd spyrite did, and at the retourne of it, it
+<pagebreak id="C1V" />
+tolde this Examinate, that it met Byet in the
+barne yarde, and that it had plagued him in the
+hippes, euen vnto death: And saith she gaue it a
+rewarde of mylke: and saith, that many tymes
+they drinke of her milke bowle. And being
+asked how shee came by the sayde spirites, she
+confessed and sayde, that one Mother Turner did
+sende them vnto her to her house (as shee
+thinketh) for that she had denyed the sayde Mother
+Turner of mylke: And when, and as often
+as they did drinke of the mylke: This 
+Examynate saith they went into the sayd earthen pot,
+and lay in the wooll.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="C4R" />
+ <head> <font>THE EXAMINATION AND CONFESSION OF
+MARGERY SAMMON, TAKEN BEFORE MEE BRIAN
+DARCIE ESQUIRE, THE XXV. OF FEBRUARY.</font> </head> 
+   <nonSpeech>The sayde Margerie Sammon, sister to the
+sayde Ales Hunt, daughter to one mother
+Barnes lately deceased, (which mother Barns
+was accompted to bee a notorious Witche)
+saith, that shee remayned at home with her
+mother by the space of halfe a yeare, and saith
+shee was with her mother seueral times, when
+shee laye sicke, and also at the houre of her
+death: But denyeth the hauing of any spirites
+of her sayd Mother, or that her mother had any
+to her knowledge.</nonSpeech>
+   <nonSpeech>The said Margery y=t= night being co~mitted to
+y=e= ward &amp; keeping of y=e= counstable, and the nexte
+daye brought before mee the saide Bryan in the
+presence of her sister Ales Hunte, And 
+beeing charged by her sayde Syster to haue
+<pagebreak id="C4V" />
+two spirites like toades, giuen her by her 
+mother at her death, vtterlye denyed the same
+saying,</nonSpeech><dialogue> I defie thee, though thou art my sister,
+</dialogue><nonSpeech>saying she neuer sawe anye such: At which
+speaches her sister taking her aside by the arme,
+whyspred her in the eare: And then
+presentlye after this Examinate with great submission
+and many teares, confessed that she had two
+spirites delyuered her by her mother, the same day
+shee departed. And that shee this Examinate
+caryed them awaye with her in the euening, they
+beeing in a wicker basket, more then half full
+of white and blacke wooll: And that she asking
+her mother what shee should doe with them, she
+bad her keepe them and feede them: This
+Examinate asking wherewithall: her mother
+answered,</nonSpeech><dialogue> if thou doest not giue them mylke, they
+will sucke of thy blood: </dialogue><nonSpeech>And sayeth, she called
+them by the names of <font>Tom</font> and <font>Robbin</font> . And
+this Examinate beeing asked how often she had
+giuen them meate sithence shee had them, saieth
+and confesseth, that she fed them twise out of a 
+dyshe with mylke: And beeing asked when shee
+fed them last, this Examinate sayde, vppon
+Twesday last past before this examination, and
+that with mylke.</nonSpeech>
+   <nonSpeech>This Examinate sayeth also, that when shee
+tooke them of her mother, shee sayde vnto her</nonSpeech><dialogue>
+<pagebreak id="C5R" />
+if thou wilte not keepe the said spirits, then
+send them to mother Pechey, for I know she
+is a Witch, and will bee glad of them. </dialogue><nonSpeech>And
+saith further, that shee hearing, that Vrsleye
+Kempe was apprehended, and fearing that shee
+shoulde bee called in question, saith thereupon
+shee tooke the saide spirites beeing in a basket,
+and in the euening wente into the grounde of
+her Master, and so into Reads grounde, and
+bad them goe to the sayde mother Pechey: At
+which wordes they skypped out of the said 
+basket, and wente before this Examinate, shee this
+Examinate sayeing,</nonSpeech><dialogue> all euill goe with you, 
+and the Lorde in heauen blesse mee from yee:
+</dialogue><nonSpeech>And sayeth, shee myghte see the sayde
+spyrites goeing towarde a barred style,
+goeing ouer into Howe lane: And when they
+came at the style, shee saieth, they skypped ouer
+the same style and wente the readye waye to
+mother Pecheyes house: And saieth shee 
+verilye thinketh the sayde mother Pechey hath
+them.</nonSpeech>
+
+ <head> <font>THE EXAMINATION AND CONFESSION OF IOANE
+PECHEY WIDDOWE, TAKEN BEFORE MEE BRIAN
+DARCIE ESQUIRE, THE XXV. OF FEBRUARY.</font> </head> 
+<pagebreak id="C5V" />
+   <nonSpeech>This Examinate Ioan Pechey beeing
+asked how olde shee was, saith, shee is
+threescore yeares and vpwardes: And saith that shee
+hath dwelt in the Towne of S. Oseys aboue
+xl. yeares: And saith she knew Mother Barnes,
+and she knewe her to bee no witch, or that she
+euer heard her to bee accompted, or to haue skill
+in any witchery. And she being asked whether
+shee was with her when she lay vpon her death
+bed, saith that she was not.</nonSpeech>
+   <nonSpeech>This Examinate also denyeth, that she hath
+or euer had any Puppettes, Spyrites or
+Maumettes: Or that shee had any Spirites, which
+she bought, or were conueyed vnto her by
+Margerie Barnes, or sent by any other sithence the
+death of Mother Barnes.</nonSpeech>
+   <nonSpeech>This Examinate also denyeth, that euer shee
+sayde to any of her neighbours, or to any other
+person in secrete sorte or meerely, that she knew
+or could tell what any man in the Towne at
+aany <comment type="compiler">SOURCE TEXT: a-any AT LINE BREAK</comment> time dyd or sayed, when    
+she her selfe listed,
+or would know.</nonSpeech>
+   <nonSpeech>This Examinate saith, that she neuer vsed
+any of those speaches, which Ales Hunte hath
+enformed against her,</nonSpeech><dialogue> As yea art thou so sawsie?
+art thou so boulde? thou were not best to bee so
+bould, for if thou beist, thou shalt haue Simonds
+sauce.
+<pagebreak id="C6R" />
+   </dialogue><nonSpeech>This examinate being asked, what she thought
+of the sodaine death of Iohnson the Collector,
+saith, he was a very honest man, and dyed very
+sodainly: And saith she heard, that one Lurkin
+shoulde saye, that hee heard Iohnson to saye,
+that Mother Newman had beewitched him.
+And beeing asked of whome shee heard it, shee
+aunswered shee coulde not tell: And sayth
+that shee her selfe neuer vsed anye harde
+speaches against the sayde Iohnson.</nonSpeech>
+
+   <nonSpeech>This Examinate beeing charged to haue
+willed her Sonne Phillip Barrenger, beeing
+of the age of xxiii. yeares to lye in bedde with
+her, denyeth that shee had so doone, other
+then shee had willed him at some tymes to lye
+vppon the bedde at her backe.</nonSpeech>
+   <nonSpeech>But the saide Phyllyppe beeing examined,
+confesseth and saith, that manye times and of
+late hee hath layne in naked bed with his owne
+mother, being willed and commaunded so to doe
+of her.</nonSpeech>
+   <nonSpeech>This Examinate beeing asked, whether she
+had any Cat in her house, sayth that shee hath a
+Kyttyn, and a little Dogge. And beeing asked,
+what coulour the Kyttyn was of, shee this
+Examinate sayed she could not tell, saying</nonSpeech><dialogue> yee maye 
+goe and see.
+<pagebreak id="C6V" />
+</dialogue> <head> <font>THE INFORMATION OF IOHN SAYER ONE OF THE
+CONSTABLES OF THORPE, TAKEN BEFORE MEE
+BRYAN DARCEY ESQUYRE, ONE OF HER MAIESTIES
+IUSTICES AGAINST ALS MANFIELDE, THE XIII. DAYE OF
+MARCH.</font> </head> 
+
+   <nonSpeech>The saide Iohn saieth, that about one
+yeare sithence hee had a Thetcher, which
+was a thetching of a barne of his, neere
+Mother Manfieldes house, and that then shee
+the sayde Ales came vnto the Thetcher, and
+would haue had him to thetche ouer an ouen of 
+hers, wherunto this Thetcher made aunswer
+and sayde, hee woulde doe it, if his mayster
+woulde let him, but els hee woulde not doe it,
+whereunto shee sayde,</nonSpeech><dialogue> hee had beene as good
+as to haue willed you to doe it. For I will bee
+euen with him. </dialogue><nonSpeech>And hee saieth, that within a
+while after, hee had occasion to come by the
+house of the sayde Ales Manfielde with his
+carte, well neere three quarters loaden, and
+beeing before her doore vppon the harde grounde:
+saieth, his carte stoode, that hee coulde not
+make it goe forwarde nor backwarde, by the
+space of one howre and more: The which he
+saieth, hee thought to bee doone by some
+witcherie, which the sayde Ales Manfielde then
+vsed.</nonSpeech>
+<pagebreak id="C7R" />
+ <head> <font>THE INFORMATION OF ROBERT SANNEUET,
+TAKEN BEFORE ME BRIAN DARCEY ESQUIRE, ONE OF
+HER M. IUSTICES THE XIIII. OF MARCH.</font> </head> 
+
+   <nonSpeech>The sayde Robert saieth, that aboute xv.
+yeeres past, ther dwelt with him the
+daughter of Elizabeth Ewstace, and that for some
+lewde dealynges, and behauiour by her doone,
+hee saieth, hee vsed some threatning speeches
+vnto her, beeing his seruaunt: And that
+shortlye after shee wente home to her sayde mother,
+and telled her of her maysters vsing of her: And
+the nexte daye hee saieth, as hee was a sitting
+by his fire side, his mouth was drawne awrye,
+well neere vppe to the vpper parte of his
+cheeke: whereuppon hee sayeth, hee sent
+presentlye to one of skill to come vnto him, who
+came vnto him, And that hee seeing him in 
+that case, tooke a lynnen cloath, and couered
+his eyes, and stroake him on the same side with
+a stronge blowe, and then his mouth came into
+the right course: and hee sayeth that hee
+willed this Examinate to put awaye his seruaunt,
+and that out of hand: the which he saieth he did.</nonSpeech>
+   <nonSpeech>This Examinat saith, that iii. yeres sithence
+his brother Crosse was taken verye sickly, and
+at tymes was without any remembrance, &amp; that
+he sent for this Examinat, &amp; when he came vnto
+<pagebreak id="C7V" />
+him, hee tolde him that Margaret Ewstace had
+bewitched him, and brought him into that weak
+state hee then was at: Wherto this Examinate
+saith, that if that bee so, hee then wished a spyt
+red hotte and in her buttocks, which speaches of
+his, hee sayth was carryed by one then in the
+house vnto the saide Mother Ewstace, and this
+Examinate saith, that shee seeing a neighbour
+of his going towardes this Examinates house,
+asked her whether shee was going, and she
+answered vnto this Examinates house:
+Wherevnto she the sayd Mother Ewstace should say,</nonSpeech><dialogue>
+naye goe not thyther, for he saith I am a witch:
+</dialogue><nonSpeech>And sayed,</nonSpeech><dialogue> his wife is with Childe and lustie,
+but it will bee otherwise with her then hee
+looketh for: </dialogue><nonSpeech>Whereuppon this Examinate saith,
+that his wife had a most straunge sicknes, and
+was deliuered of childe, which within short time 
+after dyed.</nonSpeech>
+   <nonSpeech>This Examinate saith, that the Sommer
+after he milked vii. milche beasts, and that al that
+sommer many and very often tymes, his sayde
+beasts did giue downe blood in steede of milke
+and that hee had little, or no profit by them: And
+hee saith that about iiii. monethes after many of
+his hogges did skippe and leape aboute the 
+yarde in a straunge sorte: And some of them
+dyed.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="D1R" />
+ <head> <font>THE ENFORMATION OF HENRIE SELLYS, SONNE OF
+THE SAIDE HENRIE, TAKEN BEFORE MEE BRIAN
+DARCEY ESQUIRE, THE SAIDE DAY AND YEERE.</font> </head> 
+
+   <nonSpeech>The saide Henrie saith, that hee is of the age 
+of ix. yeeres, and that sithence Candlemas
+last, one night about midnight, there came to
+his brother Iohn a spirite, and tooke him by the 
+left legge, and also by the litle Toe, which was
+like his sister, but that it was al blacke: at which
+time his brother cryed out and said,</nonSpeech><dialogue> Father,
+Father, come helpe mee, there is a blacke thing y=t=
+hath me by y=e= legge, as big as my sister: 
+</dialogue><nonSpeech>whereat his father said to his mother,</nonSpeech><dialogue> why thou whore
+cannot you keepe your impes from my childre~?
+</dialogue><nonSpeech>whereat shee presently called it away fro~ her
+sonne, saying,</nonSpeech><dialogue> come away, come away, </dialogue><nonSpeech>At which
+speech it did depart.</nonSpeech>
+   <nonSpeech>This examinat saith, that the next day hee
+<pagebreak id="D1V" />
+tolde his mother hee was so afraid of the thing
+that had his brother by the legge that he swett
+for feare, and that he coulde scarse get his shirt
+from his backe: his mother answering</nonSpeech><dialogue> thou
+lyest, thou lyest whoresonne. </dialogue><nonSpeech>This Examinat
+being asked, wherewith hee had seene his 
+mother to feede her Imps and wherein, hee saith,
+y=t= she fed them out of a blacke dish, ech other day
+with milke: and saith, that he hath seene her to
+carry it vnto a heape of wood and brome
+standing vnder a crab tree by the house, and being
+asked what their names were, he saith, that one
+of them is called by two names which is
+<font>Herculus</font> , sothe <font>hons</font> , or <font>Iacke</font> , &amp; that is a blacke one,
+&amp; is a hee, and the other is called <font>Mercurie</font> , and
+is white, and is a shee: and that their eyes bee
+like vnto goose eyes, and saith, that he hath seen
+his mother to remooue foure Brome fagots,
+and so to creepe into the crabtree roote,
+whereas they stand and lye vpo~ a fleese of wooll. And
+this Examinant saith further, y=t= the same night
+Rosse his maide was taken: when his father
+came home, his mother told him her husbande,
+that she had sent <font>Herculus</font> to Rosse his maide:
+and he answered,</nonSpeech><dialogue> yee are a trim foole. </dialogue><nonSpeech>This
+examinat saith, that as hee and his mother were
+comming (they being in Rosse his Bromefield)
+she said vnto him,</nonSpeech><dialogue> take heed ye say nothing.
+<pagebreak id="D2R" />
+</dialogue> <head> <font>THE INFORMATION OF IOHN SELLES THE YOUNGEST
+SONNE OF HENRY AND CYSLEY, TAKEN BEFORE
+MEE BRIAN DARCEY ESQUIRE, THE THIRD DAY OF
+MARCH.</font> </head> 
+   <nonSpeech>The said Iohn Selles saith, that he is about
+the age of vi. yeeres iii. quarters, &amp; saith,
+y=t= one night there was a blacke thing like his
+sister, that tooke him by the legge and that hee
+cried out, saying,</nonSpeech><dialogue> father, father, come helpe me
+and defende mee, for there is a blacke thing that
+hath me by the legge: </dialogue><nonSpeech>at which he saith, his
+father said to his mother,</nonSpeech><dialogue> ye stinking whore what
+meane yee? can yee not keepe your imps from
+my children? </dialogue><nonSpeech>&amp; beeing asked what colour they
+were of, &amp; what they were called, he saith, that
+one is black, &amp; another is white, &amp; y=t= he hath hard
+his mother to call them Imps, &amp; that they haue
+eyes as big as himselfe: and he saith, y=t= his 
+father bad his mother put them away or els kill
+them. And saith, y=t= a while sithence his mother
+deliuered the~ to one of Colchester (he thinketh
+his name is Wedon or Glascocke) and saith y=t=
+Wedo~s wife had a cap to dresse of his mothers,
+and saith, that they were carried away in a 
+basket at that time. And beeing asked,
+whether his father of mother bade him that hee
+shoulde saye nothinge, hee saieth, that his
+<pagebreak id="D2V" />
+mother said vnto him that hee should goe before:
+a gentleman, and willed him to take heed he
+telled no tales nor lyes.</nonSpeech>
+   <nonSpeech>He saith, that his father called one of them, 
+which is the blacke <font>one</font> , <font>Iohn</font> , which he said
+his father mocked him because his name was
+so: And his mother called y=e= white one an <font>Impe</font> .
+He saith he hath seene his father to feede them
+out of a blacke dish with a woodden spone, and y=t=
+he knoweth the same dishe, &amp; the last time he fed
+them it was behinde the Bromestacke at y=e= 
+crabtree. And hee saith, that the man which carried
+them away gaue his mother a pennie, and that
+when she should goe to him she should haue
+another pennie, hee saith at that time his brother
+was from home at one Gardeners house.</nonSpeech>
+   <nonSpeech>And being asked, whether euer hee sawe his
+mother to feede them, he saith, that he hath seene
+his mother to feed them twise, and that out of a 
+dish with a spone with thinne milke.</nonSpeech>
+   <nonSpeech>Note also, it is to be considered, that there is
+a scarre to bee seene of this examinats legge
+where it was taken, and also the naile of his
+little Toe is yet vnperfect.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF IOAN SMITH WIFE OF
+ROBERT SMITH, TAKE~ BEFORE MEE BRIAN DARCEY
+ESQUIRE, THE SAID DAY AND YEERE.</font> </head> 
+<pagebreak id="D3R" />
+   <nonSpeech>The said Ioan saith, that one holy day in the
+after noone sithence Michaelmas last, shee
+had made her selfe readie to goe to Church, and
+tooke in her armes her young childe &amp; opening
+her dore, her mother (grandmother to the child)
+one redworths wife, and Selles his wife were
+at the said dore readie to draw the latch, shee this
+examinat telling her mother she was comming
+out of dores to Churchward: whereat the grand
+mother to the child, tooke it by the hand &amp; shoke
+it, saying,</nonSpeech><dialogue> a mother pugs art thou comming to
+Church? </dialogue><nonSpeech>And Redworthes wife loking on it,
+said,</nonSpeech><dialogue> here is a iolie &amp; likely childe God blesse it?
+</dialogue><nonSpeech>after which speeches, Selles his wife saide, shee
+hath neuer the more children for that, but a little
+babe to play w=t=all for a time. And she saith
+within short time after her said childe sickned and
+died: But she saith y=t= her co~science wil not serue
+her to charge the said Cysley or her husband to
+be the causers of any suche matter, but prayeth
+God to forgiue them if they haue dealt in any
+such sort. &amp;c.</nonSpeech>
+ <head> <font>THE EXAMINATION AND CONFESSION OF HENRIE
+SELLES AND CYSLEY HIS WIFE, TAKEN BEFORE
+MEE BRIAN DARCEY ESQUIRE, THE FIRST DAY OF
+MARCHE.</font> </head> 
+   <nonSpeech>The said Henry saith, that he hath wrought
+in husbandry by some long time past with
+<pagebreak id="D3V" />
+Richard Rosse of litle Clapton, and y=t= one time
+he being at plough, two of his horses vpon a
+sodaine fell downe and were in most strange
+taking, but what the occasion should be thereof (he
+saith) he knew not. And saith, y=t= he doth not
+reme~ber y=t= he would haue had any mault of the saide
+Rosse at his price, or y=t= there was any falling
+out betweene the~: and denieth y=t= his childe cried
+out vnto him, saying,</nonSpeech><dialogue> father come helpe me, </dialogue><nonSpeech>or
+that he called his wife stinking whore: and
+denieth all the residue of the matters in general
+enformed against him, &amp;c.</nonSpeech>
+
+ <head> <font>CONDEMNED.</font> </head> 
+   <nonSpeech>The said Cysley his wife saith, that she doth
+not reme~ber y=t= Rosse his wife did at any tyme
+hunt her catell being in her ground, or y=t= shee
+vsed any hard speeches to his wife therevpon, or y=t=
+shee fel out for y=t= she could not haue any mault at
+her price: but she saith at one time she met Rosse
+his wife, &amp; that there was some talke betweene
+them, the which shee doeth not remember more
+then that the saide Rosses wife saide,</nonSpeech><dialogue> I shall see
+at your ende what you are. </dialogue><nonSpeech>And being asked if
+shee knewe not mother Tredsall, shee saith shee
+knew her, but she denieth, y=t= she saide if she were
+a witche, she learned the same of the saide
+mother Tredsall: and denieth that her childe
+<pagebreak id="D4R" />
+cryed out in the night to his father, and all the 
+residue of y=e= matters in general enformed against 
+her.</nonSpeech>
+   <nonSpeech>Ales Gilney, Ioan Smith, and Margaret
+Simson women of credite, appointed by mee
+Brian Darcey, to view and see the body of the
+saide Cysley, say, that shee hath vpon her body
+many spots very suspitious, and the said
+Margaret saith, that they bee much like the sucked
+spots, that shee hath seene vpon the body of
+Vrsley Kempe and seuerall other.</nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="D4V" />
+ <head> <font>THE INFORMATION OF HENRIE DURRANT, TAKEN
+BY MEE BRIAN DARCEY ESQUIRE, ONE OF HER
+MAIESTIES IUSTICES OF PEACE, THE 26. DAY OF
+MARCH, AGAINST ALES HUNT.</font> </head> 
+   <nonSpeech>The said He~ry Durra~t saith, y=t= about the
+second day of this present month, he went to
+<pagebreak id="D5R" />
+Colchester to appeare before the Iustices there to
+bee bounde from killing of fleshe, and after that
+hee had so done he saith, that he went with
+seueral of his neighbours vnto the Castle, to see the
+witches that were committed thyther, at which
+time he saith, he talked with Vrsley Kemp <font>alias</font>
+Gray, who then tolde him after some demaunds
+which hee vsed vnto her, that Ales Hunt and her
+mother (the widow Barnes) had bewitched his
+daughter, whereof she dyed, saying, that</nonSpeech><dialogue> because
+they were denied of a peece of Porke at suche
+time as they came for it, therefore they were
+offended with you: </dialogue><nonSpeech>and saieth further, that hee doth
+remember that they came vnto him and woulde
+haue had a peece of Porke, the which for that it
+was newly dressed, and somewhat whot, he made
+them answere that he woulde not cut it out.</nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="D8V" />
+ <head> <font>THE ENFORMATION OF THOMAS DEATH &amp; 
+MARIE HIS DAUGHTER, TAKEN BY ME BRIAN DARCEY
+ESQUIRE, ONE OF HER MAIESTIES IUSTICES, THE
+XV. DAY OF MARCH.</font> </head> 
+
+   <nonSpeech>The sayde Thomas Death saith, that about
+two yeeres sithence, there was a great
+falling out betweene this examinates wife and the
+sayde Cisly Celles, for that one George Battell
+hauing put a child of his to the nursing and
+keeping of the saide Cisley, and after he taking the
+saide childe away from her, and put the same to
+this examinates wife to be nursed &amp; kept,
+wherevpon at the next meeting of the sayde wiues, the
+saide Celles his wife chid and rayled at her, and
+saide,</nonSpeech><dialogue> thou shalt loose more by the hauing of it,
+then thou shalt haue for the keeping of it. </dialogue><nonSpeech>&amp; 
+within one moneth after (as he now remembreth) he
+saith that a child of his, of the age of foure yeres,
+being in good liking and well, went but out of
+the doores into the yarde, who presently fell
+downe dead, and after by helpe being brought to
+life, the saide childe was in a pitious case, and so
+died presently.</nonSpeech>
+   <nonSpeech>This examinate saith, that hee had presently
+after seuerall Swine the which did skippe and
+leape about the yarde, in a most straunge sorte,
+and then died. And he saith that ouer night he had
+<pagebreak id="E1R" />
+a Calfe which was very fatt, and the next
+morning he found the same dead.</nonSpeech>
+   <nonSpeech>This examinate saith, that hee hauing bin at
+sea and newely arriued at Ipeswitch, a
+messenger which was newely come from his wife, 
+by chaunce mette him, who told this examinate
+that his daughter Marie was taken very
+strangly, and lay in a most pitious case, saying he had
+brought her water to carry vnto a Phisition to
+haue his opinion thereof: Wherevpon this
+examinate saieth, that hee and the messenger went
+therewith vnto one Berte dwelling in that
+Towne, and shewed him the same, hee sayeth, he
+asked him if that his daughter were not
+bewitched: But hee saide that hee woulde not deale
+so farre to tell him, wherevpon hee not satisfied
+to his minde, met after with an acquaintaunce
+of his, and asked him where hee might goe to
+a cunning man, telling him in what case his
+daughter lay in: who then sent him to a man
+whome he knewe not, nor his name hee nowe
+remembreth not, with whome after hee had
+conferred and shewed his daughters saide water:</nonSpeech>
+   <nonSpeech>This examinate sayeth, hee tolde hym if hee
+had not commen with some great haste to seeke
+helpe, hee had come too late: And this
+<pagebreak id="E1V" />
+examinate sayeth, that hee toulde him that
+within two nyghtes after the parties that had hurte
+his daughter shoulde appeare vnto her, and
+remedie her: And hee sayeth, that hee him selfe
+did not then come home, but went to sea: But
+hee sayeth hee sent his messenger home with
+thinges that were to bee ministred vnto his said
+daughter.</nonSpeech>
+
+   <nonSpeech>This examinate sayeth, that when he came
+home, his wife tolde him that the next nyght
+after his daughter had receyued the thinges
+ministred vnto her, that shee heard a noyse like a 
+groning, and that shee did arise and went vnto
+her daughter, and asked her howe shee did:
+wherevnto her daughter made answere and
+sayed,</nonSpeech><dialogue> ah mother that you had commen a little
+sooner, you shoulde haue seene Celles wife and
+Barkers wife here standing before mee.
+
+   </dialogue><nonSpeech>Marie Death, daughter of the sayd
+Thomas Death, sayeth, that about two yeeres
+sithence vpon a Sunday, shee was taken with an
+ache or numnes from her necke down her backe
+all ouer: And shee sayeth, that after her
+mother had ministred thinges vnto her sente from
+a Phisition: The nexte nyght after shee
+<pagebreak id="E2R" />
+sayeth shee hearde a voyce, saying vnto her,</nonSpeech><dialogue> looke
+vp, </dialogue><nonSpeech>at which shee saieth shee lifted vp her eyes,
+and then did see Celles wife and Barkers wife
+standing before her in the same apparell that
+they did vsually weare. And shee this examinat
+sayeth, shee thought they saide vnto her bee not
+afraide, and that they vanished away, as shee
+thinketh it was about midnight, And the nexte
+day after, this examinate saieth, shee amended,
+and was in case to arise without help, where
+afore two or three coulde scarce turne her in her 
+bed as shee lay.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="E4R" />
+ <head> <font>THE ENFORMATION OF FELICE OKEY WIDOWE,
+TAKEN BY MEE BRIAN DARCEY ESQUIRE, ONE 
+OF HER MAIESTIES IUSTICES OF THE PEACE, THE
+XX. DAY OF MARCH. AGAINST ELIZABETH
+EWSTACE.</font> </head> 
+
+   <nonSpeech>The saide Felice sayeth, that shee was the
+late wife of Thomas Crosse, and that
+shee on a time finding the geese of
+Elizabeth Ewstace in her grounde, did driue
+them out, and that by mischaunce one of her
+geese was hurt: whereat the sayde Elizabeth
+fell out exceedinglye with this Examinate, and
+gaue her harde speeches, saying, that</nonSpeech><dialogue> thy
+husbande shall not haue his health, nor that
+whiche hee hath shall not prosper so well as it
+hath done, </dialogue><nonSpeech>and that shee also sayde,</nonSpeech><dialogue> thou haste not
+had so good lucke with thy gooslings, but thou
+shalt haue as badde: </dialogue><nonSpeech>And shee sayeth that neuer
+after that shee coulde haue any of them geese
+whiche shee her selfe kept: and also the same
+night shee sayeth, that one of her Kine gaue
+downe blood in steede of mylke, and after for the
+space of viii. dayes.</nonSpeech>
+
+   <nonSpeech>This examinate saith, that her late husbande
+T. Crosse, was take~ in a stra~ge sort, &amp;
+<pagebreak id="E4V" />
+therof pyned, and sayeth, that on a time as her said
+husbande was a walking in his grounde, hee was
+cast amongest Bushes, and was in that case that
+hee coulde neyther see, heare, nor speake, and
+his face all to bee scratched: and shee sayeth, that
+hee beeing in that strange case, when hee came
+to his memorie, hee woulde alwayes crye out
+vpon the sayde Elizabeth euen vnto his dying
+day, and woulde say that sithence shee the sayd
+Elizabeth had threatned him he was consumed,
+and that shee had bewitched him.</nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 10">
+
+<pagebreak id="E6R" />
+ <head> <font>THE ENFORMATION OF IOHN WADDE, THOMAS
+CARTWRITE, RICHARD HARRISON WITH SEUERAL
+OTHERS THE PARISHIONERS OF LITTLE OKELEY,
+TAKEN BY MEE BRIAN DARCEY ESQUIRE ONE OF 
+HER MAIESTIES IUSTICES THE 16. DAY OF MARCH.</font> </head> 
+<pagebreak id="E6V" />
+   <nonSpeech>Iohn Wade saith, that about two moneth
+sithence Annis Heard saide vnto him, that shee
+was presented into the spirituall Courte for a 
+witch, and prayed him to be a meanes to helpe 
+her, that she might answere the same when the
+dayes were longer: whereunto he said, that hee
+told her that the Regester dwelt at Colchester,
+saying,</nonSpeech><dialogue> it must be hee that therein may pleasure
+thee: </dialogue><nonSpeech>whereto she saide, that shee woulde goe to
+Iohn Aldust of Ramsey to speake vnto him, for
+that he goeth to Colchester that he might speak
+to the officers for her, and so she departed: this
+examinat saith, that since that time hee droue
+fortie sheepe and thirtie lambes to a pasture y=t=
+he had at Tendring, beeing thereof well neere
+fourescore Acres, the which hee had spared by
+some long time, and knew the same to be a good
+sheepes pasture, and saith, that after they had bin
+there viii. or ix. dayes, hee went to see them
+(hauing neuerthelesse appointed one to looke to
+them): And at his comming, he found one to bee
+dead, another to bee lame, another to sit
+drowping, and a lambe in the same case by it, whiche
+all died, and he founde one other with the necke
+awry, which is in that case to this day, and one
+other whiche was so weake that it coulde not
+arise, &amp; this examinat saith, that sithence he with
+others that presented her, and sithence she the
+<pagebreak id="E7R" />
+saide Annis talked with him, he hath had not so
+fewe as twentie sheepe and lambes that haue
+died, and be lame and like to die: &amp; hee saith, that
+hee hath lost of his beasts &amp; other cattell, which
+haue dyed in a strange sort.</nonSpeech>
+   <nonSpeech>Thomas Cartwrite saith, that after a great
+winde &amp; snowe wel neere three yeeres sithence,
+there was an arme of boughe of a tree of his
+that was blowen downe, whereof Annis Herd
+had remoued a peece and laid the same ouer a
+wet or durtie place to goe ouer, which being to
+this examinate vnknowen, hee tooke the same &amp;
+the rest and carried it home: the which the saide
+Annis knowing, that hee had carried the same
+away, she said, that the churle (meaning this
+examinat) to a neighbour of hers had carried
+away the peece of the bough that she had laied to
+go ouer, saying, that shee woulde bee euen with 
+him for it. After which this Examinat saith,
+within three nights after, there then beeing a
+snowe two of his beasts went from all the rest,
+where as they lay as he might well perceiue by
+the snowe, and the head Cowe fell ouer a great
+bancke into a ditch on the other side, and there
+lay with the necke double vnder her, and the
+head vnder the shoulder, but a liue, and he saith,
+he gate it home by good helpe and laied it in his
+barne, and saith, that it lay fourteene dayes in a 
+<pagebreak id="E7V" />
+groning and piteous sort, but of all that time
+woulde eate nothing: whereupon hee saith hee
+tooke an axe &amp; knocked it on the head. And
+also the other Cowe that was with the said Cow
+being a caluing in a most strange sorte died, the
+which this examinat saith, y=t= hee verily thinketh
+to be done by some witchery by the saide Annis
+Herd.</nonSpeech>
+   <nonSpeech>Bennet Lane wife of William Lane, saith,
+y=t= when she was a widdow, Annis Herd beeing
+at her house she gaue her a pint of milke &amp; also
+lent her a dish to beare it home, the which dishe
+she kept a fortnight or 3. weekes, &amp; then y=e= girle
+of the said Annis Herds came to her house on a
+message: &amp; she asked the girle for the dish, &amp; said</nonSpeech><dialogue>
+though I gaue thy mother milk to make her a 
+posset I gaue her not my dish, </dialogue><nonSpeech>she this examinat
+being then a spinning: &amp; so y=e= girle went home,
+&amp; as it seemed told her mother, who by her sent
+her dish home to her, y=e= which girle hauing done
+her arrand, &amp; being but a while gone: shee this
+examinat saith, she could no lo~ger spin nor make
+a thread to hold, whereat she was so greeued y=t=
+she could not spin, she saith, she tooke her spindle
+and went to the grindstone therewith once or
+twise, &amp; grownd it as smoth as she coulde,
+thinking it might be by some ruggednesse of y=e=
+spindle that did cause her thread to breake, and so
+<pagebreak id="E8R" />
+when she had grownd it as wel as she could, she
+went againe to worke therewith, thinking that
+then it would haue done, but it would not do no 
+better then it did before: then she saith, y=t= shee
+remembred her self and tooke her spindle and put
+it into y=e= fire, &amp; made it red hot, &amp; then cooled it
+gaine and went to worke, and then it wrought
+as well as euer it did at any time before.</nonSpeech>
+   <nonSpeech>This examinat saith, that an other time the
+saide Annis Herd owed her two pence, and
+the time came that shee shoulde pay the Lordes
+rent, and she beeing a poore woman was
+constrained to aske her the two pence, and to borow
+besides (as shee said): whereto she the saide 
+Annis answered, that shee had paied eight or nine 
+shillings that weeke, and shee had it not nowe:
+saying she should haue it the next weeke, 
+whereto shee this Examinat saide,</nonSpeech><dialogue> you must needes
+helpe me with it now, for this day I must paye
+the Lordes rent, </dialogue><nonSpeech>then shee saide shee must goe
+borrowe it, and so went and fetched it, saying,</nonSpeech><dialogue>
+there is your money, </dialogue><nonSpeech>whereunto shee this
+examinat answered, and said,</nonSpeech><dialogue> now I owe you a pint
+of milke, come for it when you will &amp; you shall
+haue it: </dialogue><nonSpeech>the which she came for y=e= next day, &amp; had
+it with y=e= better, this examinat saith, y=t= y=e= next day
+she would haue fleet hir milk bowle, but it wold
+not abide y=e= fleeting, but would rop &amp; role as it were
+<pagebreak id="E8V" />
+the white of an egge, also the milk being on the
+fier it did not so soone seath but it would quaile,
+burne by and stincke, the which shee saide shee
+thought might be lo~g of y=e= feeding of her beasts,
+or els that her vessels were not sweete,
+wherevpon she saith, she scalded her vessels, and
+scoured them with salt, thinking that might helpe,
+but it was neuer the better but as before: then
+she saith, shee was full of care, that shee shoulde
+loose both milke and creame, then shee saith it
+came into her minde to approoue another way,
+which was, shee tooke a horse shue and made it
+redde hote, and put it into the milke in the 
+vessals, and so into her creame: and then she saith,
+shee coulde seath her milke, fleete her creame,
+and make her butter in good sort as she had
+before.</nonSpeech>
+   <nonSpeech>Andrewe West and Anne saith, that on a 
+time the said Annis Herd came vnto his house,
+saying, she had been at mill, and that she coulde
+get neither meale nor bread, at which her
+speeches hee knowing her neede, saith, hee caused
+his wife to giue her a peece of a lofe: and that
+the~ he said vnto her,</nonSpeech><dialogue> Annis, thou art ill thought
+of for witchcraft, </dialogue><nonSpeech>the which she then vtterly
+denyed y=t= she coulde or did any such thing:
+whereunto he saith, his wife saide</nonSpeech><dialogue> wee haue a sort of
+pigges I wote not what we shall doe with the~,
+<pagebreak id="F1R" />
+</dialogue><nonSpeech>saying,</nonSpeech><dialogue> I woulde some body had one or two of
+them, </dialogue><nonSpeech>to that the said Annis said, that if a poore
+body should haue of them and bestow cost, &amp; that
+then if they should die it would halfe vndoe the~,
+and said if her Landlord would giue her leaue
+to keepe one, she the~ wished that she would giue
+her one of them, whereunto this examinat said,
+shee should haue one: But for that she came not
+for it, this examinat saith, that he did thinke that
+she cared not for it, and after a while one of her
+neighbours bought two of them, and within ii.
+or iii. dayes after the said Annis came for one: to
+whom this examinat <comment type="compiler">SOURCE TEXT: examint</comment> said, for y=t= they had  
+not hard
+no more of her, that he thought she would haue
+none, and told her that he had sold two of them,
+and so the said Annis departed and went home.</nonSpeech>
+   <nonSpeech>This examinat saith, y=t= his wife the next day
+sent vnto the said Annis a pound of wooll to be
+spun: and that she said to the boy that brought it,
+saying,</nonSpeech><dialogue> can she not haue her weeders to spin the
+same? </dialogue><nonSpeech>and that she then said to y=e= boy,</nonSpeech><dialogue> your Aunt
+might as well giue me one of her pigges, as to
+Penly. </dialogue><nonSpeech>and this examinat saith, that within two
+houres after, one of the best pigs that he had fel
+vpon a crying as they stood all together before
+the dore in the yard, and the rest of the pigs we~t
+away from y=t=: at the length the pig that cried
+folowed stackering as though it were lame in the
+hinder partes, and y=t= then he called his weeders
+<pagebreak id="F1V" />
+to see in what strange case the pig was in, and
+asked them what was best to doe therewith, to
+which some of them said, burne it, other said, cut
+of the eares &amp; burn them, and so they did, &amp; then
+the pig amended by &amp; by. and within two daies
+after this examinats wife met with the said
+Annis Herd, and shee then burdened her with
+that she had said to her boy: To the which y=e= said
+Annis made answere, y=t= she did say so: and then
+this examinats wife told the said Annis in what
+case her pig was, saying,</nonSpeech><dialogue> thou saidest the other
+day thou hadst no skill in witcherie, </dialogue><nonSpeech>his saide
+wife then said,</nonSpeech><dialogue> I will say thou hast an vnhappie
+tongue. </dialogue><nonSpeech>After which, this examinats wife could
+not brewe to haue any drinke y=t= was good, so as
+she was full of care, saying, y=t= somtimes she put
+one thing into her brewing fat, sometimes an
+other thing to see if it could doe it any good, but
+shee saith, it did none: then she saith one gaue her
+counsell to put a hot yron into her mesh fat, the
+which she did, and then shee could brewe as well
+as she did before.</nonSpeech>
+   <nonSpeech>Edmond Osborne and Godlife his wife, said
+that a litle before Christmas last past, he bought
+at Manitree mault, and brought it home, and
+said to his wife,</nonSpeech><dialogue> good wife, let vs haue good
+drinke made of it. </dialogue><nonSpeech>And the next day shee went in
+hand to brew the same, and when she had meshed
+her first worte and did let it goe, that did verye
+<pagebreak id="F2R" />
+well: Then his said wife hauing occasion to
+send her lad to their ground, she bade the lad call
+at Annis Herds for iii. d. the which shee owed
+her for a pecke of Aples, and that the lad so did:
+And she answered him very short, and saide, shee
+had it not now, saying, she shold haue it as soone
+as y=e= Wooll ma~ came: and the lad came home, &amp;
+tolde his dame what she had said. And at y=t= time,
+she this examinat was readie to meshe y=e= seconde
+time, &amp; whe~ she had done, her mesh fat wrought
+vp as the fat doth when it was set a worke with
+good beere, and bare vp a hand breadth aboue y=e=
+fat, and as they thrust in a sticke or any
+other thing, it would blow vp and then sinked
+againe, then she saith, y=t= she did heat an yron redde
+hot, and put y=e= same into it, &amp; it rose vp no more.
+And then she let goe, and then shee did seath the
+wort, and when it was sodden it stancke in suche
+sorte, as that they were compelled to put y=e= same
+in the swill tubbe.</nonSpeech>
+   <nonSpeech>Richard Harrison Clerk, person of Beamo~d
+saith, that he and his late wife did dwell at little
+Okely, in a house of his said wife, &amp; that hee the
+said Richard Harrison had also the personage
+of Okeley in farme, and about Sommer was
+tweluemonth, he being at London his wife had
+a Ducke sitting on certaine egges vnder a 
+Cherrie tree in a hedge, and when the saide
+<pagebreak id="F2V" />
+Duck had hatched, his said wife did suspect one
+Annis Herd a light woma~, and a common
+harlot to haue stolen her duckelins, &amp; that his
+said wife went vnto the said Annis Herd &amp;
+rated her and all too chid her, but she could get no
+knowledge of her ducklins, and so came home &amp;
+was very angry against the said Annis. &amp; 
+within a short time after, the said Richard Harrison
+went into a chamber, and there did reade on his
+bookes for the space of 2. or 3. houres bidding
+his said wife to goe to bed w=t= the children, and y=t=
+he would come to her, and she so did: and being
+awhile laid downe in her bed, his wife did crie
+out:</nonSpeech><dialogue> Oh Lord Lorde, helpe me &amp; keepe me, </dialogue><nonSpeech>and
+he running to her, asked her what she ailed? and
+she said,</nonSpeech><dialogue> Oh Lord I am sore afraid, and haue bin
+diuers times, but that I would not tell you, </dialogue><nonSpeech>and
+said,</nonSpeech><dialogue> I am in doubt husband, that yonder wicked
+harlot Annis Herd doth bewitch me, </dialogue><nonSpeech>and y=e= said
+Richard, said to his wife,</nonSpeech><dialogue> I pray you be content
+and thinke not so, but trust in God and put your
+trust in him onely, and he will defend you from
+her, and from the Diuell himselfe also: </dialogue><nonSpeech>and said
+moreouer,</nonSpeech><dialogue> what will the people say, that I
+beeing a Preacher shoulde haue my wife so weake
+in faith.
+   </dialogue><nonSpeech>This examinat saith, y=t= within two moneths
+after his said wife said vnto him,</nonSpeech><dialogue> I pray you as
+euer there was loue betweene vs, (as I hope
+<pagebreak id="F3R" />
+there hath been for I haue v. pretie children by
+you I thanke God) seeke som remedie for me
+against yonder wicked beast </dialogue><nonSpeech> (meaning the saide
+Annis Herd).</nonSpeech><dialogue> And if you will not I will
+complaine to my father, and I thinke he wil see som
+remedie for me, for </dialogue><nonSpeech> (said she) </nonSpeech><dialogue> if I haue no
+remedie, she will vtterly consume me, </dialogue><nonSpeech>whereupo~ this
+examinat did exhort his said wife as hee had
+before, &amp; desired her to pray to God, and y=t= he wold
+hang her the said Annis Herd if he could proue
+any such matter. and after he went to the
+personage, and there he saith he gathered plummes:
+and the said Annis Herd then came to the hedge
+side and Anwicks wife with her, and said vnto
+him,</nonSpeech><dialogue> I pray you giue me som plummes sir: </dialogue><nonSpeech>and
+this examinat said vnto her,</nonSpeech><dialogue> I am glad you are
+here you vield strumpet, </dialogue><nonSpeech>saying,</nonSpeech><dialogue> I do think you
+haue bewitched my wife, and as truly as God
+doth liue, if I can perceiue y=t= she be troubled any
+more as she hath been, I will not leaue a whole 
+bone about thee, &amp; besides I will seeke to haue
+thee hanged: </dialogue><nonSpeech>and saith, he saide vnto her that his
+wife would make her father priuie vnto it, and
+that</nonSpeech><dialogue> then I warrant thee he will haue you
+hanged, for he will make good friends, &amp; is a stout 
+man of himselfe. </dialogue><nonSpeech>and saith, y=t= then he did rehearse
+diuers things to her y=t= were thought she had 
+bewitched, as Geese &amp; Hogges, &amp; as he was
+comming downe out of the tree, shee the said Annis
+<pagebreak id="F3V" />
+did sodenly depart from him without hauing 
+any plummes.</nonSpeech>
+   <nonSpeech>This examinat saith, after which speeches
+so by him vsed vnto her, and before Christmas,
+his said wife was take~ sore sick, &amp; was at many 
+times afraid both sleeping and waking, &amp; did
+call this examinat her husbande vnto her not
+aboue two dayes before her death, and saide vnto
+him,</nonSpeech><dialogue> husband, God blesse you and your children,
+and God send you good friends, for I must
+depart from you, for I am nowe vtterly
+consumed with yonder wicked Creature,
+</dialogue><nonSpeech>naming the saide Annis Herd, which wordes hee
+saith were spoken by her in y=e= presence of Iohn
+Pollin, &amp; mother Poppe, and within two daies
+after his said wife departed out of this world in
+a perfect faith, she diuers times in her sicknesse
+and before, repeating these wordes,</nonSpeech><dialogue> Oh Annis
+Herd, Annis Herd shee hath consumed me.
+   </dialogue><nonSpeech>Iohn Pollin saith, he was at master
+Harrisons when his wife lay sicke, &amp; neere y=e=
+departing out of this world, &amp; that her husband gaue
+her good counsell for her saluation, and that she
+then said,</nonSpeech><dialogue> O Annis Herd, Annis Herd.
+   </dialogue><nonSpeech>Brets wife saith, shee heard mistres 
+harrison say, that the said Annis Herd had consumed
+her euen to the death, &amp; that she cryed out vpon
+her to the houre of her death.</nonSpeech><dialogue>
+<comment type="compiler">FOUR DEPOSITIONS OMITTED.</comment>
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

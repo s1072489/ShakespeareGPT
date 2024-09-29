@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4FSMITH">
+  <dialogueHeader>
+
+    <filename>D4FSMITH</filename>
+
+    <identifier>4 FICTION D4FSMITH</identifier>
+
+    <title>NOTED HIGHWAY-MEN</title>
+
+    <author>SMITH ALEXANDER</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1714</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">SMITH, ALEXANDER.</attribution>
+      <frontMatter>THE HISTORY OF THE LIVES OF THE MOST NOTED HIGHWAY-MEN,
+FOOT-PADS, HOUSE-BREAKERS, SHOP-LIFTS AND CHEATS, OF BOTH SEXES, IN
+AND ABOUT LONDON, AND OTHER PLACES OF GREAT-BRITAIN, FOR ABOVE FIFTY
+YEARS LAST PAST.
+(...)
+BY CAPT. ALEXANDER SMITH.
+IN TWO VOLUMES.
+THE SECOND EDITION. 
+LONDON: PRINTED FOR J. MORPHEW NEAR STATIONERS-HALL, AND A. DODD
+WITHOUT TEMPLE-BAR. 
+M DCC XIV.
+PP. 9.8 - 15.15     SAMPLE 1
+PP. 20.6 - 22.28    SAMPLE 2
+PP. 27.8 - 29.7     SAMPLE 3
+PP. 98.10 - 100.17  SAMPLE 4
+PP. 105.9 - 111.2   SAMPLE 5
+PP. 122.13 - 125.18 SAMPLE 6
+PP. 131.1 - 133.26  SAMPLE 7
+PP. 228.6 - 230.14  SAMPLE 8
+PP. 268.5 - 270.18  SAMPLE 9
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">ONLY VOLUME I SAMPLED BELOW. THIS EDITION PRINTED IN THE SAME YEAR
+AS THE FIRST EDITION.</comment>
+
+<comment type="compiler">SHORT OR LONG DASHES USED IN SOURCE TEXT TO INDICATE MISSING LETTERS 
+WITHIN A WORD ARE RENDERED AS TWO HYPHENS BELOW.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="9" />
+   <nonSpeech>Not long after the committing of
+this Robbery, overtaking an old
+Grasier on <font>Putney-Heath</font> , in a very ordinary
+Attire, but yet very Rich, he takes
+half a score Guineas out of his Pocket,
+he gave them to the Old Man, and
+said,</nonSpeech><dialogue> <font>There are three or four Persons
+behind us, who look'd very suspicious,
+therefore I desire the Favour of you to
+put that Gold into your Pocket, for in case
+they are Highway-Men, your indifferent
+Apparel will make them believe you have
+no such Charge about you</font> . </dialogue><nonSpeech>The Old
+Grasier, looking upon his Intentions
+to be honest, quoth he,</nonSpeech><dialogue> <font>I have fifty
+Guineas ty'd up in the Fore-lappit of my Shirt,
+and I'll put it to that, for Security</font> . </dialogue><nonSpeech>So 
+riding along both of them Cheek by
+Jole, for above half a Mile, and the
+Coast being still clear, the <font>Golden
+Farmer</font> said to the Old Man,</nonSpeech><dialogue> <font>I believe
+<pagebreak id="10" />
+here's no body will take the pains of
+robbing you or me to Day, therefore I think I
+had as good take the trouble upon me of
+robbing you my self, so, instead of
+delivering your Purse, pray give me the Lappit
+of your Shirt</font> . </dialogue><nonSpeech>The Old Grasier was
+horridly startled at these Words, and
+began to beseech him not to be so
+cruel in robbing a Poor Old Man.</nonSpeech><dialogue>
+<font>Prithee</font> </dialogue><nonSpeech> (quoth the <font>Golden Farmer</font> ) </nonSpeech><dialogue> <font>don't
+tell me of Cruelty, for who can be more
+Cruel than Men of your Age, whose Pride
+it is to teach their Servants their Duties
+with as much Cruelty, as some People teach
+their Dogs to fetch and carry</font> ? </dialogue><nonSpeech>So, being
+obliged to cut off the Lappit of the
+Old Man's Shirt himself, for he would
+not, he rid away to seek out for
+another Booty.</nonSpeech>
+
+   <nonSpeech>Another time this bold Robber lying
+at the <font>Red-Lyon-Inn</font> in <font>Uxbridge</font> , he
+happen'd into Company with one Esq;
+<font>Broughton</font> , a Barrister of the
+<font>Middle-Temple</font> , which he understanding, 
+pretended to him, that he was going up
+to <font>London</font> , to advise with a Lawyer
+about some Business, wherefore he
+should be much oblig'd to him if he
+<pagebreak id="11" />
+could recommend him to a good one. <comment type="compiler">ABOVE, NO ITALICS FOR Inn 
+IN THE SOURCE TEXT.</comment>
+Counsellor <font>Broughton</font> , thinking he
+might be a good Client, bespoke
+him for himself; then the <font>Golden
+Farmer</font> telling him his Business was about
+several of his Neighbours Cattle
+breaking into his Grounds, and doing
+a great deal of Mischief, the Barrister
+told him, that was very Actionable, as
+being <font>Damage fesant</font> .</nonSpeech><dialogue> <font>Damage fesant</font> !
+</dialogue><nonSpeech>said the <font>Golden Farmer</font> ,</nonSpeech><dialogue> <font>what's that, pray
+Sir</font> ? </dialogue><nonSpeech>He told him, that it was an
+Action brought against Persons, when
+their Cattle broke thro' Hedges, or
+other Fences, into Peoples Grounds,
+and did them Damage. Next
+Morning, as they were both riding
+towards <font>London</font> , quoth the <font>Golden Farmer</font> ,
+to the Barrister,</nonSpeech><dialogue> <font>If I may be so bold as
+to ask you, pray Sir, what is that you call
+Trover and Conversion</font> ? </dialogue><nonSpeech>He told him,
+it signified, in our common Law, an
+Action which a Man hath against one,
+that having found any of his Goods,
+refuses to deliver them upon Demand,
+and perhaps converts them to his own
+use also. The <font>Golden Farmer</font> being now
+at a place convenient for his Purpose,
+he reply'd,</nonSpeech><dialogue> <font>Very well, Sir; and so if I
+<pagebreak id="12" />
+should find any Money about you, and
+convert it to my use, why then that is but
+only Actionable, I find</font> . <font>That's a Robbery</font> ,
+</dialogue><nonSpeech> (said the Barrister) </nonSpeech><dialogue> <font>which requires no less
+Satisfaction than a Man's Life</font> . <font>A
+Robbery</font> ! </dialogue><nonSpeech> (reply'd the <font>Golden Farmer</font> ) </nonSpeech><dialogue> <font>why
+then I must e'en commit one, for once and
+not use it, therefore deliver your Money,
+or else behold this Pistoll shall presently 
+prevent you from ever reading</font> Cook upon
+Littleton <font>any more</font> . </dialogue><nonSpeech>The Barrister was
+strangely surpriz'd at his Client's rough
+Behaviour, asking him if he thought
+there was neither Heaven nor Hell,
+that he could be guilty of such wicked
+Actions? Quoth the <font>Golden Farmer</font> ,</nonSpeech><dialogue>
+<font>Why, you Son of a Whore, thy Impudence
+is very great, to talk of Heaven and
+Hell to me, when you think there's no way
+to Heaven but thro'</font> Westminster-Hall.
+<font>Come, come, down with your Rino this
+Moment, for I have otherguess Customers
+to mind, than to wait on your A--se all
+Day.</font> </dialogue><nonSpeech>The Barrister being very loath
+to part with his Money, he was still
+insisting on the Injustice of the Action,
+saying, that it was against both Law
+and Conscience to Rob any Man.
+However, the <font>Golden Farmer</font> heeding
+<pagebreak id="13" />
+not his Pleading, he swore that he
+was not to be guided by Law nor
+Conscience, any more than them of
+his Profession, whose Law is always
+furnish'd with a Commission to arraign
+their Conscience; but upon Judgment
+given, they usually had the knack of
+setting it at large. So putting a Pistol
+to the Barrister's Breast, he quietly
+deliver'd his Money, amounting to
+about thirty Guineas, and eleven
+Broad-Pieces of Gold, besides some Silver,
+and a Gold Watch.</nonSpeech>
+
+   <nonSpeech>One time overtaking a Tinker, on
+<font>Black-Heath</font> , whom he knew to have
+seven or eight Pounds about him,
+quoth he,</nonSpeech><dialogue> <font>Well overtook, honest Tinker,
+methinks you seem very Devout, for your
+Life is a continual Pilgrimage, and in
+Humility you go almost barefoot, thereby
+making Necessity a Vertue</font> . Ay, Master,
+</dialogue><nonSpeech> (reply'd the Tinker) </nonSpeech><dialogue> needs must when
+the Devil drives; and, had you no
+more than I, you might go without
+Boots and Shoes too. <font>That may be</font> ,
+</dialogue><nonSpeech> (quoth the <font>Golden Farmer</font> ;) </nonSpeech><dialogue> <font>and I 
+suppose you march all over</font> England <font>with your
+Bag and Baggage</font> . Yes, </dialogue><nonSpeech> (said the
+<pagebreak id="14" />
+Tinker) </nonSpeech><dialogue> I go a great deal of Ground; but
+not so much as you ride. <font>Well</font> </dialogue><nonSpeech> (quoth
+the <font>Golden Farmer</font> ) </nonSpeech><dialogue> <font>go where you will, it
+is my Opinion, your Conversation is 
+unreprovable, because thou'rt ever mending</font> .
+I wish </dialogue><nonSpeech> (reply'd the Tinker) </nonSpeech><dialogue> that I could
+say as much by you. <font>Why, you Dog of</font>
+Egypt </dialogue><nonSpeech> (quoth the other) </nonSpeech><dialogue> <font>you don't
+think, I hope, that I'm like you, in
+observing the Statutes, and therefore had
+rather Steal than Beg, in spite of Whips or
+Imprisonment</font> . </dialogue><nonSpeech> (Said the Tinker again) </nonSpeech><dialogue>
+I'll have you to know, that I take a
+great deal of Pains for a Livelihood.
+<font>Yes</font> </dialogue><nonSpeech> (reply'd the <font>Golden Farmer</font> ) </nonSpeech><dialogue> <font>I know
+thou'rt such a strong Enemy to Idleness,
+that in mending one Hole, you make three,
+rather than want Work</font> . That's as you
+say, </dialogue><nonSpeech> (quoth the Tinker) </nonSpeech><dialogue> however I wish 
+that you and I, Sir, were farther
+asunder, for i'faith I don't like your
+Company. <font>Nor I yours</font> </dialogue><nonSpeech> (said the other) </nonSpeech><dialogue>
+<font>for tho' thou'rt entertain'd in every place,
+yet you enter no farther than the Door, to
+avoid Suspicion</font> . Indeed </dialogue><nonSpeech> (reply'd the
+Tinker) </nonSpeech><dialogue> I have a great Suspicion of
+you. <font>Have you so</font> ? </dialogue><nonSpeech> (quoth the <font>Golden
+Farmer</font> ) </nonSpeech><dialogue> <font>why then it shall not be without a
+Cause; come, open your Wallet strait, and
+<pagebreak id="15" />
+deliver that Parcel of Money that's in it</font> .
+</dialogue><nonSpeech>Here their Dialogue being on a 
+Conclusion, the Tinker pray'd heartily
+that he would not robb him, for if he
+did, he must be forc'd to beg his way
+home, from whence he was above an
+Hundred Miles.</nonSpeech><dialogue> <font>D--n me</font> </dialogue><nonSpeech> (quoth the
+<font>Golden Farmer</font> ) </nonSpeech><dialogue> <font>I don't care if you Beg
+your way Two-hundred Miles, for if a
+Tinker 'scapes</font> Tyburn <font>and</font> Banbury, <font>it
+is his Fate to die a Beggar</font> . </dialogue><nonSpeech>So taking
+Money and Wallet too, from the
+Tinker, he left him to his old Custom of
+conversing still in open Fields and 
+lowly Cottages.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="20" />
+   <nonSpeech>One time <font>Old-Mobb</font> overtaking the 
+Stage-Coach going for <font>Bath</font> , and in
+which was only one Gentlewoman, he
+commanded the Coachman to stop his
+Horses; and then demanding the
+Passenger's Money, she made a great
+many Excuses for not answering his
+Expectation, and, to raise Pity in him,
+she shed Tears very plentifully, and
+cry'd she was a poor Widow, who
+had lately lost her Husband, and
+therefore hop'd he would have some
+Compassion on her.</nonSpeech><dialogue> <font>D--n me, you B--ch</font> ,
+</dialogue><nonSpeech>quoth <font>Old-Mobb</font> ) </nonSpeech><dialogue> <font>and your Husband too; 
+the loss of him is no Argument that I must
+lose my Booty. Come, come, Deliver 
+quickly, for those Crocadile Tears of thine work
+no Pity in me, because I know the end of
+a Woman's Husband always begins in Tears,
+and the end of her Tears begins in another
+Husband</font> . Indeed </dialogue><nonSpeech> (said the 
+Gentlewoman) </nonSpeech><dialogue> my late Husband was so very
+good to me, that I shall never think
+<pagebreak id="21" />
+of Marrying another, because I shall
+not find the like of him again, for
+Kindness. </dialogue><nonSpeech>Quoth <font>Old-Mobb</font> then,</nonSpeech><dialogue> <font>Hold
+your Tongue, you lying B--ch, for at that
+rate you'll differ from all other Widows,
+who are just like an Herauld's Herse-Cloth;
+they'll serve to many Funerals with a very
+little altering the Colour: So talk no more
+of the Dead to me, for I must live by the
+Quick</font> . </dialogue><nonSpeech>The Gentlewoman, finding
+she could receive no Civility at his
+Hands, she gave him her Purse, in
+which was about forty Guineas;
+<font>Old-Mobb</font> putting it into his Pocket, quoth
+he,</nonSpeech><dialogue> <font>I should have made a narrower Search
+about your Person, but that I see another
+Prize coming forwards</font> . </dialogue><nonSpeech>Whereupon,
+making up to it, who should it be, but
+<font>Cornelius a` Tilburgh</font> , the Mountebank
+living in <font>Lincolns-Inn-Fields</font> , going to 
+set up a Stage at <font>Wells</font> . Then, giving
+his usual Word of Command to him,
+he craved his Money, but in a very
+rough sort of Language, which made
+the Quacksalver to use several
+Expostulations for the saving of what he
+had; but all to no purpose, for
+<font>Old-Mobb</font> , knowing his Profession, quoth
+he,</nonSpeech><dialogue> <font>As you get your Money very easy, I
+<pagebreak id="22" />
+must oblige you to observe the old Proverb</font> ,
+Lightly come, lightly go; <font>therefore what
+you do, do quickly, that I may go about
+my Business</font> . </dialogue><nonSpeech>The Stroling Doctor being
+very unwilling to part with his Money,
+he began to read a Lecture to him,
+about the Unlawfulness of his Actions,
+and withal, telling him, that what he
+did might be the utter Ruine of some
+People.</nonSpeech><dialogue> <font>Why, you double-refin'd Son of a
+Whore</font> , </dialogue><nonSpeech> (quoth <font>Old-Mobb</font> ) </nonSpeech><dialogue> <font>can I ruine more
+People than you? Who hath put out more Eyes
+than the Small-Pox; made more Deaf than
+the Cataracts of</font> Nile; <font>Lam'd more than
+the Gout; Shrunk more Sinews than one
+that makes Bow-strings; and Kill'd more
+than the Pestilence. Therefore make haste
+and Deliver, or else I'll make you to know,
+that tho' your</font> Orvietan <font>will expel Poyson,
+yet is it not Proof enough against the Force
+of Gun-powder, which, by the vertue of a
+little Lead, shall fill your Body as full of
+holes as a Sieve</font> . </dialogue><nonSpeech>Whereupon, rifling his
+Portmantua, he took thereout 
+twenty-five Pounds, and a Gold Medal, 
+presented him by King <font>Charles</font> the Second,
+for poysoning himself in His Majesty's
+Presence.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="27" />
+   <nonSpeech>Another time <font>Old Mobb</font> being at
+<font>Abingdon</font> , where a great Market is kept
+for Corn, he lit into a Person's 
+Company, at the <font>Crown-Inn</font> there, whom
+he knew to be a great Ingrosser of
+Corn, and had bought then as much of
+that Commodity in the Market as cost
+Fifty Pounds, which <font>Old Mobb</font> bought
+of him again, and paid him Eighty 
+Pounds ready Money, as liking it (as
+he pretended) better than any he saw
+there that Day. The Corn he sent
+presently away, where he knew how 
+to dispose of it quickly again, tho'
+under Price; and understanding which
+way he went the next Morning, of
+whom he bought the Corn, he was
+soon at his Heels, and clapping a Pistol
+to his Breast, demanded his Money
+again, and what else he had besides.
+The Countryman was in a great
+<pagebreak id="28" />
+Surprize, shaking like an <font>Aspen-Leaf</font>                             
+<comment type="compiler">NO ITALICS FOR Leaf IN SOURCE TEXT</comment> , and
+ask'd him whether it was Justice to
+take his Money from him, and Goods
+too?</nonSpeech><dialogue> <font>Hast thou the Impudence</font> </dialogue><nonSpeech> (quoth
+<font>Old-Mobb</font> ) </nonSpeech><dialogue> <font>to talk of Justice, when there's
+none in the World acts more Injustice than
+an Ingrosser of Corn? Sirrah, there's no
+Vermin in the Land like you, who slanders
+both Heaven and Earth with pretended
+Dearths, when there's no Scarcity at all.
+Thou Spawn of</font> Belzebub! <font>you daily pray
+for more Inclosures, and know no reason
+why we call our Forefathers Days</font> , The
+Time of Ignorance, <font>but only because
+they sold Wheat for Twelve-pence a Bushel.
+Thou Fiend of Hell! Don't you wish</font>
+Dantzick <font>at</font> Barbadoes? <font>And curse 
+Tobacco because you say it is a sparer of
+Breadcorn, which you too often transport without
+a License? No Picture pleases you so well
+as</font> Pharaoh's <font>Dream of the seven lean kine,
+that eat up the fat ones; that you'll have
+in your Parlour, and commend it to People,
+with a smother'd Prayer for the like
+Scarcity. Besides, accounting the Poor the
+Justices Intelligencers, you mortally hate them,
+and complain of our Negligence of
+discovering new parts of the World, only to rid
+them from our Climate. So Mr. Hell-bound,
+<pagebreak id="29" />
+talk no more of Justice, but deliver your
+Money strait, or else I'll send a Brace of
+Balls thro' your Head</font> . </dialogue><nonSpeech>Hereupon he
+deliver'd him a Bag, in which <font>Old-Mobb</font>
+finding his own Money, and as much
+more to it, he went away with a great
+deal of Satisfaction.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="98" />
+   <nonSpeech>Now <font>Holloway</font> having cast all
+Honesty and Goodness quite out of doors,
+he was resolv'd to prosecute his Villany
+to the highest Degree; so from
+committing small Matters of Theft, he
+was resolv'd to turn Highwayman, and
+being accoutred for this Purpose, as
+having a good Horse, Hanger and
+Pistols, he set out for such Enterprizes.
+The first Action he went upon was
+upon the Road betwixt <font>Faringdon</font> and
+<font>Abingdon</font> in <font>Berkshire</font> , where meeting
+with a Country Farmer, and asking
+him the time of the Day, he told him
+it was about twelve a Clock;</nonSpeech><dialogue> <font>Why then</font>
+</dialogue><nonSpeech> (quoth <font>Holloway</font> ) </nonSpeech><dialogue> <font>it may be about high
+time to ask one Favour of you</font> . What's
+that? </dialogue><nonSpeech> (said the Farmer.) </nonSpeech><dialogue> <font>Why truly</font>
+</dialogue><nonSpeech>reply'd <font>Holloway</font> </nonSpeech><dialogue> <font>understanding that you
+<pagebreak id="99" />
+receiv'd Ten Pounds at the Inn from whence
+you now came, for I was drinking in the
+next Room when 'twas paid you, Necessity
+obliges me to borrow it, therefore if you are
+not willing to lend it me by fair Means,
+you must by foul Means</font> . </dialogue><nonSpeech>The Farmer
+being a Man of some Courage, 
+presently drew his Hanger in his own
+Defence, but that being no security
+against Pistols, which could kill at a 
+Distance, <font>Holloway</font> shot his Horse
+under him, so dismounting his
+Antagonist, and riding up to him with
+another Pistol ready cockt, and 
+presenting it to the Farmer's Breast, he lent
+him his Money without taking a Note
+of his Hand for't.</nonSpeech>
+
+   <nonSpeech>Another time <font>Holloway</font> meeting with
+a Gentleman on the Road, who had
+like to have been robb'd but a little
+before, he told the said <font>Holloway</font> , as
+supposing him to be an honest Man, that
+there were some Highway-men before,
+wherefore he advis'd him, if he had
+any Charge about him, to turn back.
+Quoth <font>Holloway</font> ,</nonSpeech><dialogue> <font>I have no great Charge
+about me, Sir, however I'll take your
+Advice for fear of the worst</font> . </dialogue><nonSpeech>So as they
+<pagebreak id="100" />
+were riding along, said <font>Holloway</font> again,</nonSpeech><dialogue>
+<font>Perhaps we may meet with more Rogues of
+the Gang by the way, for this is an ugly
+robbing Road, therefore I'll secure that
+little I have, which is but three Guineas, by
+putting it in my Mouth</font> . </dialogue><nonSpeech>Now the
+Gentleman thinking him not of that
+Profession, quoth he,</nonSpeech><dialogue> <font>And in case we
+should be set upon, I have secur'd my
+Gold in the Rowls of my Stockings, which
+is no small Quantity, which I receiv'd this
+Day of some of my Tenants for Rent</font> .
+</dialogue><nonSpeech>They had not gone above half a Mile
+farther, e'er they came into a very
+bye place, where <font>Holloway</font> bidding the
+Gentleman Stand and Deliver, he was
+in a great Surprize,</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="105" />
+<omission type="line" /> <nonSpeech>About a Month after, <font>Dick
+Adams</font> having been Drinking somewhat
+hard in the City, and forgetting the
+Prank he had plaid the Mercer, he
+came by his House one Afternoon, and
+he being accidentally standing at the
+Door, and espying his Chapman, he
+presently seiz'd him, saying,</nonSpeech><dialogue> <font>Oh! Sir,
+have I caught you; you are a fine Spark
+indeed to cheat me out of Two-hundred
+Pounds worth of Goods, but before I part
+with you, I believe I shall make you pay
+dearly for them</font> . </dialogue><nonSpeech>Indeed Mr. <font>Adams</font>
+was much surpriz'd at his being so
+suddenly apprehended, and without
+doubt, curs'd his Fate to himself for
+being so forgetful as to come into the
+very Mouth of his Adversary; but
+seeing the late Bishop of <font>London</font> at some
+Distance riding along in his Coach,
+and having a good Presence of Mind
+<pagebreak id="106" />
+at the same time, quoth he to the
+Mercer,</nonSpeech><dialogue> <font>I must acknowledge I have committed
+a Crime to which I was forc'd by meer
+Necessity, but I see my Uncle the Bishop of</font>
+London <font>is coming this way in his Coach,
+therefore hoping you'll be so civil as not to
+raise any hubbub of the Mob about me,
+whereby I shall be expos'd and utterly undone,
+I'll go speak to His Lordship about the 
+matter, if you please to step with me, and I'll
+engage he shall make you Satisfaction for
+the Damage I've done you</font> . </dialogue><nonSpeech>The Mercer
+liking his Proposal, as thinking it far
+better than sending him to Jayl, he
+stept along with Mr. <font>Adams</font> , who
+boldly calling out to the <font>Coachman</font> to stop,
+he approached the side of the Coach,
+and desir'd the Favour of speaking a
+few Words with the Bishop. His
+Lordship seeing him have the Mein and
+Habit much of a Gentleman, he was
+pleas'd to hear what he had to say; so
+leaning over his Coach Door, quoth</nonSpeech><dialogue>
+<font>Adams, Begging your Lordship's Pardon for
+my Presumption I make bold to acquaint
+Your Honour, that the Gentleman standing
+behind me is an eminent Mercer, keeping
+House just by here, and is a very upright
+Godly Man; but being a great Reader in
+<pagebreak id="107" />
+Books of Divinity, especially Polemical
+Pieces, he hath met therein with some
+intricate Cases which very much trouble him,
+and his Conscience cannot be at rest, 'till
+his Doubts and Scruples are clear'd about
+'em; therefore I humbly request Your
+Lordship would vouchsafe me the Honour
+of giving my Friend some Ease before he
+run farther to Despair</font> . </dialogue><nonSpeech>The Bishop 
+being ready to serve any Person in
+Religious Matters, he order'd <font>Adams</font> to
+bring his Friend to him the next Day.
+But said <font>Adams</font> again,</nonSpeech><dialogue> <font>It will be more 
+satisfactory to him, if Your Lordship would
+be pleas'd to speak Yourself to the 
+Gentleman to wait upon You</font> . </dialogue><nonSpeech>Whereupon His
+Lordship beckoning to the Mercer,
+who stood some Distance off, whilst
+they discours'd together; when he
+came up to the side of the Coach,
+quoth the Bishop,</nonSpeech><dialogue> <font>The Gentleman hath
+inform'd me of all the matter about you,
+and if you please to give your self the
+Trouble of coming to Morrow to my House
+at</font> Fulham, <font>I'll satisfy you then in
+every Point</font> . </dialogue><nonSpeech>The Mercer making
+twenty Bows and Cringes was very well
+pleas'd with his Security; and taking
+<font>Adams</font> to the Tavern gave him a very
+<pagebreak id="108" />
+good Treat. Next Morning <font>Adams</font>
+came again to the Mercer, who was
+drawing out his Bill to give to the
+Bishop, and pretending that his coming
+in haste to go along with him to his
+Uncle, had made him forget to put 
+Money in his Breeches, he desir'd the
+Mercer to lend him a Guinea, and put
+it down in his Bill; which he did
+very willingly; and then taking Water,
+away they went to <font>Fulham</font> , where
+acquainting the Bishop's Gentleman, that
+according to his Lordship's Order over
+Night they were come to wait upon
+him at the time appointed; the
+Gentleman introduc'd 'em into the Hall,
+and having Regal'd them there with a
+Bottle or two of Wine and a Neat's
+Tongue, the Mercer was admitted 
+into His Lordship's Presence, and in the
+mean time Mr. <font>Adams</font> made the best
+of his way by Water again. Now
+the Mercer being before the Bishop,
+quoth His Lordship,</nonSpeech><dialogue> <font>I understand that
+you are, or at leastwise have been much
+troubled, how do you find yourself now,
+Sir</font> ? </dialogue><nonSpeech>The Mercer reply'd,</nonSpeech><dialogue> <font>My Trouble
+is much abated since Your Lordship was
+pleas'd to order me to wait on you</font> . </dialogue><nonSpeech>So
+<pagebreak id="109" />
+pulling out a Pocket Book, he gave
+his Lordship the following Bill.</nonSpeech><dialogue>
+<comment type="compiler">THE BILL IS OMITTED.</comment>
+<pagebreak id="110" />
+   </dialogue><nonSpeech>His Lordship staring upon this large
+Bill, quoth he,</nonSpeech><dialogue> <font>What's the meaning of
+all this? The Gentleman last Night might
+very well say your Conscience could not be
+at rest; and I think so too, when you bring
+a Bill to me which I know nothing of</font> .
+</dialogue><nonSpeech>Said the Mercer then, Bowing and
+Scraping,</nonSpeech><dialogue> <font>Your Lordship last Night was
+pleas'd to say that you would satisfy me to
+Day</font> . <font>Yes</font> </dialogue><nonSpeech> (reply'd his Lordship) </nonSpeech><dialogue> <font>and so
+I would as to what the Gentleman told me,
+who said that you being much troubled about 
+some Points of Religion, you desired to be
+resolv'd therein; and in order thereto I
+appointed you to come to me to Day</font> . <font>Truly</font>
+</dialogue><nonSpeech> (said the Mercer again) </nonSpeech><dialogue> <font>Your Lordship's
+Nephew told me otherwise, for he said you
+would pay me this Bill off, which Goods,
+upon my word, he had of me, and in a very
+clandestine manner, if I was to tell Your
+Lordship all; but only in respect to Your
+Honour, I would not disgrace your Nephew</font> .
+</dialogue><nonSpeech>Quoth His Lordship,</nonSpeech><dialogue> <font>My Nephew! he's
+none of my Nephew; I never, to my 
+knowledge, saw the Gentleman in my Life
+before</font> . </dialogue><nonSpeech>Thus when they came to 
+unriddle the matter on both sides they could
+not forbear laughing, the Bishop at
+his new Nephew, and the Mercer for
+<pagebreak id="111" />
+lending a Man, that had once cheated
+him, a Guinea to cheat him again.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="122" />
+   <nonSpeech>Another time <font>Jack Ovet</font> being 
+drinking at the <font>Star-Inn</font> in the <font>Strand</font> , he
+over-heard a Soap-boiler contriving
+with a Carrier how he should send an
+hundred Pounds to a Friend in the
+Country; at length it was concluded
+upon, to put the Money into a Barrel
+of Soap; which Project was mightily
+approv'd of by the Carrier; who said,
+<font>That</font> </nonSpeech><dialogue> <font>if any Rogues should rob my Waggon,
+which they never did but once, the Devil
+must be in 'em if they look for any Money
+in the Soap-Barrel</font> . </dialogue><nonSpeech>Accordingly the
+Money and Soap was brought to the
+Inn; and next Morning the Carrier
+going out of Town, <font>Jack Ovet</font> was
+<pagebreak id="123" />
+with him in the Afternoon, and 
+commanding him to stop, or other wise he
+would shoot him and his Horses too,
+he was oblig'd to obey the Word of
+Command. Then, quoth the honest
+Highwayman,</nonSpeech><dialogue> <font>I must make bold to
+borrow a little Money out of your Waggon,
+therefore if you have any direct me to it,
+that I may not loose my Time, which you
+know is always precious</font> . </dialogue><nonSpeech>The Carrier
+told him he had nothing but
+cumbersome Goods in his Waggon, as he knew
+of; however, if he would not believe
+him, he might search every Box and
+Bundle there if he pleas'd. Then <font>Jack
+Ovet</font> getting into the Waggon, threw
+all the Boxes and Bundles about, till at
+last he came to the Soap Barrel which
+feeling somewhat heavy, quoth he to
+the Carrier,</nonSpeech><dialogue> <font>What a Pox do you with this
+nasty Commodity in your Waggon? I'll <comment type="compiler">SOURCE TEXT: I ll</comment> fling
+it away</font> . </dialogue><nonSpeech>So throwing it on the Ground
+the Hoops bursted, out flew the Head,
+and the Soap spreading abroad, the 
+Bag appear'd; then jumping out of the
+Waggon, and taking it up, he said
+again,</nonSpeech><dialogue> <font>Is not he that sells this Soap a
+cheating Son of a Whore, to put this Bag of Lead
+into it, to make the Barrel weigh heavy? If
+<pagebreak id="124" />
+I knew where he liv'd, I'd go and tell him
+his own; however that he may not succeed
+in his Roguery, I'll go and sell it at the next
+House I come to, for it will wet ones
+Whistle, to the Tune of two or three Shillings</font> .
+</dialogue><nonSpeech>So riding away, quoth the Carrier,</nonSpeech><dialogue>
+<font>Hold, hold, Sir, that is not Lead that is
+in the Bag; it is an hundred Pounds, for
+which (if you take it away) I must be
+accountable</font> . <font>No, no</font> , </dialogue><nonSpeech> (reply'd <font>Jack Ovet</font> </nonSpeech><dialogue>
+<font>this can't be Money; but if it is, tell the
+Owner that I'll be answerable for it if he'll
+come to me</font> . <font>Where, Sir</font> , </dialogue><nonSpeech> (said the
+Carrier) </nonSpeech><dialogue> <font>may one find you</font> ? <font>Why, truly</font> ,
+</dialogue><nonSpeech> (reply'd <font>Jack</font> ) </nonSpeech><dialogue> <font>that is a Question soon asked,
+but not so soon to be answered; for i'faith,
+you may find me in a Goal before Night, and
+then perhaps you may have again what I've
+took from you, and forty Pounds to boot; so
+hoping you'll use, for the future, Wash Balls
+instead of Soap, I'm oblig'd to bid you
+farewel, because I must now go somewhere else
+to make Hay while the Sun shines</font> .
+
+   </dialogue><nonSpeech>Another time <font>Jack Ovet</font> meeting
+with the <font>Worcester</font> Stage Coach on the
+Road, in which were several young
+Gentlewomen, he robb'd them all;
+but one of them being a very
+<pagebreak id="125" />
+handsome Person, he seem'd to have such
+a Passion for her exquisite Charms,
+that when he took her Money from
+her, he said,</nonSpeech><dialogue> <font>Madam, cast not your Eyes
+down, neither colour your Face with those
+modest Blushes, since it would appear most
+admirable, that your Virtues should find
+Fetters in a Place where they expect
+Conquest. What I have took from you (through
+meer Necessity at present) is only borrowed;
+for as there is no Object on Earth can
+allure my wavering Eye at your Venus-like
+<comment type="compiler">NO ITALICS FOR Venus IN SOURCE TEXT</comment>
+Beauty, assure yourself that if you please
+to tell me where I may direct to you, and
+I'll <comment type="compiler">SOURCE TEXT: I ll</comment> upon Honour make good your Loss to
+the very utmost</font> . </dialogue><nonSpeech>The young
+Gentlewoman told him where he might send
+to her;</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="131" />
+   <nonSpeech>Another time <font>Will Bew</font> and his
+Brother overtaking a very handsome
+Gentlewoman and her Footman on
+the Road, he bore up to her; and
+pretending to be much enamour'd
+with her Beauty, they held the 
+following Dialogue.</nonSpeech>
+   <nonSpeech>Will Bew.</nonSpeech><dialogue> <font>Madam, by those killing
+Features of your charming Face, give a
+Gentleman leave, for once, to say, he's
+your humble Servant.</font> 
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> Indeed, Sir, you
+honour me so much, that I have not the
+Vanity to think my self worthy of
+such Servants.
+   </dialogue><nonSpeech>Will Bew.</nonSpeech><dialogue> <font>I vow, Madam, the very
+Image of your Countenance, and outward
+Expressions of your Behaviour, make my
+passionate Desires to think that the
+Enjoyment of your Person is a Favour <comment type="compiler">SOURCE TEXT: Favonr</comment> much more
+to be valu'd than any thing in this Life.</font> 
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> I thank you, Sir, for
+your good Opinion of me; but 'tis an
+old as well as true Saying, <font>That hot
+Love is soon cold</font> ; and therefore you 
+must pardon my Rudeness, telling you,
+whosoever reads the Records of the
+faithless Protestations of Men, their
+perjur'd Promises, and feign'd Love,
+<pagebreak id="132" />
+cannot but view a poor <font>Ariadne</font> abus'd,
+a <font>Medea</font> mockt, and a <font>Dido</font> slighted.
+   </dialogue><nonSpeech>Will Bew.</nonSpeech><dialogue> <font>There's no general Rule,
+Madam, without an Exception, therefore
+as all our Sex are not to be blam'd for some
+particular Persons, grant me then the
+Happiness, who will be ever constant, of
+having my true Affections rais'd to the honour
+of waiting upon your Commands, who even
+exceeds</font> Venus <font>herself for Beauty</font> .
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> Truly, Sir, you
+mistake my Disposition, if you suppose
+I affect Praises.
+   </dialogue><nonSpeech>Will Bew.</nonSpeech><dialogue> <font>I speak as I mean,
+Madam; and must say, that Tragedians and
+Painters are not guilty of those Murders
+which the Darts of your Eyes must needs
+commit daily; wherefore in all Shapes, and
+under the most dreadful Aspects that can
+appear, I am intirely Yours for ever.</font> 
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> But I shall not say I
+am yours, because you seem to be the
+Emblem of Terror; and your furious
+Looks are able to consume a Woman.
+   </dialogue><nonSpeech>Will Bew.</nonSpeech><dialogue> <font>As a Pledge of my
+Protestation, you shall have both my Hand and
+Heart to be yours in Dust and Ashes.</font> 
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> It would appear
+boldness in me to accept of Strangers
+<pagebreak id="133" />
+Company; for it is not for me to
+entertain all Shews and Offers of
+Kindness; however I can but thank you
+for your good Will.
+   </dialogue><nonSpeech>Will Bew.</nonSpeech><dialogue> <font>Indeed, Madam, you, who
+have Power to infuse Love and Fidelity 
+into the Hearts of</font> Barbarians, <font>have
+captivated me, who never was in Love before</font> .
+   </dialogue><nonSpeech> <font>Gentlewoman.</font> </nonSpeech><dialogue> If you would be more
+thrifty of your Breath, you may spend
+it to better purpose; for you may
+intimate your Desires, and make tedious
+Discourses, but, in a Word, I shall
+never love you.
+   </dialogue><nonSpeech>This flat Denial being given in a
+convenient place to commit a <font>Robbery,
+Will Bew</font> quickly chang'd his Note, by
+turning his Complements into Railery,
+saying,</nonSpeech><dialogue> <font>Tho' I flatter'd you just now, yet
+have you no more Beauty than will serve to
+excuse you from being extream ugly: And
+if you still persist to doat on your seeming
+handsomness, the time will come when your
+Face will scare you more than a Judge doth
+a Criminal. So Madam deliver what you
+have</font> . <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="228" />
+   <nonSpeech>Another Time this pickled Blade
+being upon his Patrole in <font>Essex</font> , as he was
+on one side of the Hedge, he espy'd at
+some Distance, a Gentleman very well
+mounted on a good Gelding; so getting
+into the Road, he lay all along on
+the Ground with his Ear close to it,
+'till the Gentleman came up; who
+asking him the Reason of that Posture,
+<font>Stephen</font> held up his Hand to him, which
+was as much as to bid the Gentleman
+be silent; but the Gentleman being of
+a hasty Temper, quoth he,</nonSpeech><dialogue> <font>What a Pox
+are you listening to</font> ? </dialogue><nonSpeech>Hereupon <font>Stephen</font>
+sitting on his Breech, he said,</nonSpeech><dialogue> <font>Oh!
+dear Sir, I have often heard great Talk of</font>
+Fairies, <font>but I could never have the Faith
+to believe there were any such Thing in
+Nature, 'till now; for indeed, here in this
+very Place I hear such a most ravishing and
+melodious Harmony of all sorts of Musick,
+which was enough to charm me to sit here,
+if possible, to all Eternity</font> . </dialogue><nonSpeech>This Story
+<pagebreak id="229" />
+made the Gentleman presently alight
+to hear this ravishing Musick too; so
+giving <font>Stephen</font> his Guelding to hold, and
+laying his Ear to the Ground, quoth
+he,</nonSpeech><dialogue> <font>I can hear nothing</font> . </dialogue><nonSpeech>Mr. <font>Bunce</font> bid
+him turn t'other Ear; so his Face being
+from him, he presently mounted his
+Gelding, and gallop'd away with all
+Speed, 'till he came within Sight of
+<font>Rumford</font> , then alighting, he let the
+Gelding loose, supposing that if the
+Owner us'd any Inn in that Town, he
+would make to it, as accordingly he
+did, and <font>Stephen</font> at his Heels, which 
+made the Hostler, who was at the Door,
+cry out,</nonSpeech><dialogue> <font>Master, Master, here's Mr.</font>
+Bartlet's <font>Horse come without him</font> : </dialogue><nonSpeech>So
+<font>Stephen</font> by this Stratagem having got
+the Owner's Name, quoth he to the
+Inn-keeper, <font>Mr.</font> Bartlet <font>being engag'd with
+some Gentlemen in Play at</font> Ingerstone, <font>he
+pray'd him to send him 15 Guineas, and to
+keep his Gelding in Pledge thereof 'till he
+came himself, which would be in the
+Evening</font> .</nonSpeech><dialogue> <font>Aye, aye</font> , </dialogue><nonSpeech> (reply'd the Inn-keeper) </nonSpeech><dialogue>
+100 <font>Guineas if he wanted 'em</font> ; </dialogue><nonSpeech>so giving
+<font>Stephen</font> 15 Guineas, he made the best of
+his Way to <font>London</font> , when in about four
+or five Hours, the Gentleman came
+<pagebreak id="230" />
+puffing and blowing in his great
+Jack-Boots to the Inn, and the Inn-keeper
+stepping up to him, he said,</nonSpeech><dialogue> <font>O, dear
+Sir, what need you have sent your Gelding,
+and so put your self to the Trouble of
+coming this sultry Weather on Foot, for the
+small Matter of 15 Guineas, when you might
+have commanded ten times as much without
+a Pledge</font> ? </dialogue><nonSpeech>Quoth the Gentleman,</nonSpeech><dialogue> <font>Hath
+the Fellow then brought my Gelding hither?
+A Son of a Whore! He was pretty honest
+in that; but I find the Rogue hath made
+me pay 15 Guineas for hearing his d--n'd
+Faries Musick</font> .
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="268" />
+   <nonSpeech>Another Time <font>Jack Hall</font> going to
+one Mr. <font>Aspin</font> , a Robe-Maker, living
+in <font>Portugal-Street</font> by <font>Lincolns-Inn</font> back
+Gate, he pretended that he had
+Occasion for a Gown for his Brother, who was
+a Parson in the Country, but he
+would have a very good one, though
+it cost him the more Money.</nonSpeech><dialogue> <font>I can
+furnish you with all Sorts and Sizes</font> , </dialogue><nonSpeech>said
+Mr. <font>Aspin</font> ; and thereupon fetch'd 
+several, and shew'd him. <font>Jack</font> turn'd
+many of them over, but still desir'd to
+see better; at length one was brought,
+which he seem'd to like; but said he to
+the Robe-maker,</nonSpeech><dialogue> <font>I doubt it is too short?
+No</font> , </dialogue><nonSpeech> (quoth he) </nonSpeech><dialogue> <font>it is long enough in all
+Conscience</font> ; </dialogue><nonSpeech>and thereupon he was for
+trying of it upon <font>Jack</font> , who said,</nonSpeech><dialogue> <font>Alas!
+that will be no certain Measure by me, for
+my Brother is taller than I am by the Head
+and Shoulders; but as he is a Man about
+your Pitch, I desire the Favour of you to
+put it upon your self, and then I shall guess
+the better whether it is long enough, or no</font> .
+</dialogue><nonSpeech>Mr. <font>Aspin</font> , to satisfy his Customer, did
+<pagebreak id="269" />
+so; but as he was putting it on, <font>Jack</font>
+took up a Barrister's Gown, and shew'd
+him a fair Pair of Heels. Mr. <font>Aspin</font> ,
+without putting off the Gown, pursu'd
+him; in the mean Time two of his
+Companions, who laid Perdue, acted 
+their Parts, for <font>Stephen Bunce</font> went 
+into the Shop, and taking the next
+Parcel of Goods which came to Hand, he
+march'd off; and <font>Dick Low</font> fearing
+that if the Shop-keeper kept his Pace,
+he might overtake <font>Jack Hall</font> , he
+having plac'd himself in the Way on
+purpose, catches hold on Mr. <font>Aspin</font> ,
+and says,</nonSpeech><dialogue> <font>O! dear Doctor</font> Cross, <font>who
+thought of seeing you? I am glad I have
+met you with all my Heart: But pray, Sir,
+what makes you run in this distracted 
+Manner about the Streets</font> ? <font>Pish</font> , </dialogue><nonSpeech> (quoth Mr.
+<font>Aspin</font> ) </nonSpeech><dialogue> <font>let me go, I'm no Parson, you are
+mistaken in the Man, for I'm running after
+a Rogue that has robb'd me</font> . </dialogue><nonSpeech>Then <font>Dick
+Low</font> reply'd, but still holding him,</nonSpeech><dialogue> <font>I
+beg your Pardon, Sir, for my Mistake, for 
+you are as like my Friend Doctor</font> Cross,
+<font>as ever I saw two Men in my Life like one
+another</font> . </dialogue><nonSpeech>So letting him go, <font>Jack</font>
+before now was turn'd the Corner of a
+Street or two, and was quite out of
+<pagebreak id="270" />
+Sight. By this Time also several of
+the Neighbours being gather'd 
+together, they were in an Admiration to
+see old <font>Aspin</font> in a canonical Habit, some
+saying, <font>Surely he was not going to christen
+his own Child himself, which his Maid</font> 
+Betty <font>lay in with</font> ! whilst others perswaded
+him to go Home, and put off the Gown,
+and then make an Enquiry after the
+Thief, since he was at present got
+clear away. Mr. <font>Aspin</font> took their 
+Advice; but when he came to his Shop,
+he found a second Loss, which made
+him more angry than before, and
+swear, that the Fellow that met him,
+might well call him Doctor <font>Cross</font> , for,
+d--n him, if he had not all the Crosses
+in the World come upon him at once.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TAMBRO">
+  <dialogueHeader>
+
+    <filename>D5TAMBRO</filename>
+
+    <identifier>5 TRIAL D5TAMBRO</identifier>
+
+    <title>JOHN AMBROSE</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1745</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>MINUTES TAKEN AT THE COURT-MARTIAL, HELD UPON CAPTAIN JOHN 
+AMBROSE, ON BOARD THE LONDON, ON THE 18, 21, 22, 23, 24, 25, 28, 29, 
+AND 31 OCTOBER, AND 1, 4, 5, 6, AND 7TH OF NOVEMBER 1745. 
+BEING AN ENQUIRY INTO THE CONDUCT OF THE SAID GENTLEMAN IN THE LATE
+ENGAGEMENT IN THE MEDITERRANEAN. 
+WITH CUTS. 
+LONDON: PRINTED FOR M. COOPER, IN PATERNOSTER-ROW, 
+1745.
+PP. 42.21 - 70.44
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SINGLE CLOSING SQUARE BRACKETS USED FOR PARENTHETICAL COMMENTS 
+BY NARRATOR ARE OMITTED.</comment>
+
+<pagebreak id="42" />
+</dialogue> <head>SECOND DAY.</head> 
+
+<nonSpeech> <font>Chatham</font> , Ship <font>London</font> , <font>October the 21st</font> , 1745.</nonSpeech>
+
+<nonSpeech> <font>The Court ordered the Marshal to bring in the Prisoner.</font> </nonSpeech>
+
+<nonSpeech> <font>Captain</font> JOHN AMBROSE <font>brought into Court</font> .</nonSpeech>
+
+   <nonSpeech>Lieutenant <font>Hugh Palliser</font> was called in and sworn. Then
+his Deposition was read, setting forth, that he was first
+Lieutenant of the <font>Essex</font> , during the Month of <font>February</font>
+1743; which Ship, on the 11th of the said Month, was
+stationed next a-stern of the <font>Dorsetshire</font> and the third
+a-stern of the Admiral in the Engagement off <font>Toulon</font> ;
+that the <font>Dorsetshire</font> and <font>Rupert</font> bore down when the
+Admiral did, but not so near as the Admiral and 
+<font>Marlbro'</font> , nor near enough to form the Line; that the
+<font>Dorsetshire</font> began to engage soon after the Admiral, but he
+believes not within Point-blank; that the Fireship bore
+down, and pass'd by in sight of the <font>Dorsetshire</font> , <font>Rupert</font> ,
+<pagebreak id="43" />
+and <font>Royal Oak</font> , and that they then were to windward of
+the Line, and might have conducted and covered her, but
+none of them did; that the <font>Marlbro'</font> was disabled, and
+that the <font>Dorsetshire</font> , <font>Essex</font> , and <font>Rupert</font> were then to
+windward; and that the <font>Rupert</font> , if she had pass'd by the
+<font>Dorsetshire</font> , might have assisted the <font>Marlbro'</font> , and might
+have covered the Fireship.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Is this Deposition   
+true?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> never in the Line? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she ever within Point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, not when I saw her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What time did you see her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw her several times that Day.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> attempt to cover her?             
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she ever attempt to cover the <font>Marlbro'</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She went down to the <font>Marlbro'</font> at Night, when we
+wore, but not before.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she near you when you brought up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, she presently fell farther a-stern of us and to
+leeward, but not so far as to form the Line.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she ever within Point-blank? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What time was the <font>Royal Oak</font> engaged with the three
+<font>Spanish</font> Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you remember any thing of the <font>Royal Oak</font> and
+<font>Rupert</font> driving away the first Ship they engaged before the 
+Wind?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I never saw any of the <font>Spanish</font> Ships         
+a-stern of
+their Admiral, but before the Wind.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Royal Oak</font> engage them?           
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To windward of the <font>Royal Oak</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far to windward?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A long Mile from, but not so far to windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> then engag'd?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, the <font>Rupert</font> was then farther from the Enemy   
+than
+the <font>Royal Oak</font> by a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When did you see the <font>Royal Oak</font> engaged?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe an Hour after the Admiral began.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there any Ship for you to engage at first?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, if we had gone into our Station.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you haul'd your Wind was there any Ship before
+your Beam? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> bear away before the Admiral wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long before?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell exactly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she in a Line with the <font>Namur</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say; she was not so far to Leeward as the
+Admiral was when he began to engage.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Namur</font> considerably to windward of the
+<font>Marlborough</font> then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When was that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Just before the Admiral made the Signal and wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How much before?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> About half an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> firing then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she within Gun-shot? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What time was that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When she bore away, half an Hour before the Admiral
+wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she then engaging briskly? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Royal Oak</font> engage within 
+Point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She was pretty near it.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it in the <font>Rupert's</font> Power to have gone down   
+with
+her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I saw nothing to hinder her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> any way disabled?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, she cou'd not be disabled, because she had had no
+Engagement before that.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you saw the <font>Rupert</font> firing smartly, where was
+the headmost of the five of the Enemy coming up in respect
+of the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was when one or two of the headmost Ships fired at
+the Fireship, and they were then shot past the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Rupert</font> then in respect to you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Abreast of us, half a Mile nearer the Enemy.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you fire a Gun then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What time of the Day was it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> About four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did your Shot fall short? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> then half a Mile nearer the Enemy
+than you? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the Enemy return any Shot to you? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any Shot go over the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not at that time; when we wore there did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> and <font>Royal Oak</font> had engaged      
+those Ships as
+closely as they ought to have done, wou'd they have stopped
+<pagebreak id="45" />
+those Ships from annoying ours, and hinder'd                         
+<comment type="compiler">SOURCE TEXT: hinder d</comment> them from
+getting up till the Vice-Admiral's Division had got up?
+   </dialogue><nonSpeech>Here the Prisoner interrupted, and said, he apprehended that
+was not a proper Question.</nonSpeech>
+   <nonSpeech> <font>The Court said</font> ,</nonSpeech><dialogue> We have a Right to ask any Questions we
+think fit, and you are at liberty to ask any Question
+you think proper, and we have shewn you a particular
+Indulgence in that respect.
+   </dialogue><nonSpeech> <font>Then the Witness answer'd.</font> </nonSpeech> <nonSpeech> <font>A.</font> </nonSpeech><dialogue> We wou'd have   
+attack'd
+them with five of our Ships, that is, the <font>Essex</font> , <font>Rupert</font> ,   
+<font>Royal
+Oak</font> , <font>Dunkirk</font> , <font>Cambridge</font> ; but I can't say whether the    
+<font>Rupert</font>
+and <font>Royal Oak</font> only cou'd have stop'd them <comment type="compiler">SOURCE TEXT: then</comment> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were the <font>Dunkirk</font> , or <font>Cambridge</font> near enough  
+to attack
+them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If they had gone into their Station, they would have 
+been
+near enough.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Hercules</font> go near to assist  
+the Ship
+attack'd by the <font>Rupert</font> and <font>Royal Oak</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see any Shot go over the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not till we wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What distance was the headmost from the <font>Dunkirk</font> ,
+and <font>Cambridge</font> from the <font>Royal Oak</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Cambridge</font> bear under the    
+<font>Royal
+Oak's</font> Stern?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, just before we wore, and she fired at the Enemy
+under the <font>Royal Oak's</font> starboard Quarter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you saw the <font>Cambridge</font> under the             
+<font>Royal Oak's</font>
+Stern, where was the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> This was just before we wore, she was then firing at
+the Enemy.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you remember, when the Admiral wore, how many
+of the four or five Sail of the Enemy had past before the
+<font>Rupert's</font> Beam?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell exactly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> You was a-head and could see.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't remember whether any of them open'd a-head
+of the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was any of them a-head of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When I fired a Shot, I don't remember whether the
+two headmost were a-head or a-stern of the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> then directly to leeward of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, half a Mile nearer the Enemy, it cou'd not
+be more, because of our wearing soon after, and we had not
+Room to wear short of her, but soon fell on board of her,
+which obliged us to shift our Helm, by which we were jostled
+<pagebreak id="46" />
+down very near the Enemy; the Fire from the Muzzel of
+our Guns set her Spritsail on fire.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> directly a-breast of you then?    
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the Admiral in respect of you when the
+<font>Rupert</font> was a-breast of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon our Lee-Bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> between you and the Enemy when you
+fired?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I fired two single Shot from our lower Deck, with
+the Guns laid down in the Carriage, both which I saw fall
+short.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the five of the Enemy continue their Course
+under the same Sail? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Supposing the <font>Rupert</font> had bore down in a Line with
+the Admiral, and brought up in a Line when he did, how
+long would it have been before the <font>Rupert</font> would have had
+any Ship to engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had gone down and brought up in a  
+Line
+with the Admiral, she would have been in a proper Position
+to engage the five Sail of the Enemy coming up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> stop those Ships from getting up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I believe not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> From the beginning of the Engagement till the Admiral
+wore, did you ever observe the <font>Rupert</font> annoy the Enemy in
+any Shape whatever?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, she fired a good deal, but not within a Distance 
+to
+do Execution.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see any Shot of the Enemy come over the
+<font>Rupert</font> , when she was a-breast of you? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any of the Enemy fire at her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The headmost of the five Sail did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the Rupert within Gun-shot of them then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Essex</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Essex</font> always to windward of the          
+<font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any Shot of the Enemy reach you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, at first.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Rupert</font> off you then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To leeward of us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you from the time the Shot reach'd you, continue 
+<comment type="compiler">SOURCE TEXT: cotinue</comment>
+hauling off? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> haul off too? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What was the meaning of your hauling off?
+<pagebreak id="47" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech> <nonSpeech>The Witness made no Answer, but smiled, so did the
+Court.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had you received any Damage, or had the <font>Rupert</font> ? 
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> continue hauling off?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, till she bore away again, and begun to fire     
+briskly
+in the Evening.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long was it from the <font>Rupert's</font> first bearing  
+up, till
+she bore down again?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I never saw that she bore away again from the
+Beginning, till half an Hour before the Admiral wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> had received any     
+Damage
+to prevent her going into her Station?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, at no time of the Day.
+   </dialogue><nonSpeech> <font>Then the Prisoner asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> In the Evening,   
+when you
+wore, did not you engage the five <font>Spanish</font> Ships a-stern, and
+how was it possible, if once they got a-head of the <font>Rupert</font> , for
+the <font>Rupert</font> to wear and engage them in passing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The <font>Rupert</font> had bore away, and was firing at those
+Ships upon the Admiral's wearing; it was then that I observed
+the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the five Ships once past me, how could I go under
+the Stern of the Admiral and all the other Ships, and
+engage those five Ships in passing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They were not a-breast of you when you fired at them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> You say that I was engaged with the five Ships, that
+I was half a Mile from you, and that I was out of
+point-blank, then how could I shoot up to you in the Wearing, and
+engage the five Ships in passing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> You did not shoot up to us, we came down to you.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Royal-Oak</font> engage a single   
+Ship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far were the five Ships of the Enemy from you
+when the Admiral first engaged?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three Miles, as near as I can judge, not so far      
+a-stern,
+rather upon our lee-quarter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How many Ships were there a-stern of the             
+<font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Five.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Sail had the five Ships out?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say particularly, the two headmost had all   
+their
+Sails set.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they all come up in a Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They appeared to me so.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did they bear from you then, and how did your
+Head lye?
+<pagebreak id="48" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> We were lying to, close to the Wind, and they were
+right a-stern of us by springing our Luff from them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Royal Oak</font> fire before the <font>Rupert</font> ?   
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were the <font>Royal-Oak</font> and <font>Rupert</font> firing         
+together at the
+same Time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, in the Evening, when you was firing briskly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As the <font>Rupert</font> was between you and the Enemy, how
+could you distinguish whether I was near enough to do
+Execution?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I could judge of the Distance as it appeared to me,  
+and
+by our Shot falling short by the Distance you were from us,
+and the Distance we were from the Enemy; I think we in
+the <font>Essex</font> were two Miles from them, and you half a Mile
+nearer than we.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Then I was a Mile and a half off? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> From the Situation you lay to windward, could you
+judge whether the <font>Rupert</font> was in a Line with the Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, because you was so near us, therefore I am sure
+you was not in a Line.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had gone down in a proper Line at  
+first,
+would there have been any Ship for her to engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If you had continued going down with an easy Sail till
+you had compleated the Line from the <font>Namur</font> , I judge you
+would have fell in a-breast of the Headmost Ship of the Five;
+for the <font>Royal Oak</font> , by continuing her Course down, fell
+a-breast of the Second; a little more of her Port-helm in
+going down, would have laid her along-side of the Third,
+you might have taken the Second, and we in the <font>Essex</font> the
+First.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If I had gone down to the Headmost of the Five Ships,
+how far should I have been from you, supposing you had
+gone in the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At a proper Distance; a Quarter of a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Hercules</font> from the other three Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three Miles the most at first; but had you gone
+down with an easy Sail, as that Space was growing less and
+less, when you had got down so far as to be in a Line, you
+would have been a-breast of the Headmost of those Ships.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you far out of your Station at your first
+bringing to? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Then how could I have any Ship to engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> But we were a great Way from the Enemy when that
+Shot reached us; I judge the <font>Essex's</font> Distance from the
+<font>Hercules</font> was about two Miles, and her Weather Guns would
+carry a Shot that Distance.
+<pagebreak id="49" />
+   </dialogue><nonSpeech>The Court interrupted, and told the Prisoner, that the
+asking those Questions took up a great deal of
+Time, and only seem'd proper Questions to be ask'd
+his own Witnesses. The Prisoner said, he thought
+them material; but if the Court thought they
+were not proper Questions, he would submit.</nonSpeech>
+   <nonSpeech> <font>Then the Prisoner asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you think in the
+Situation I was in, if the five Sail of the Enemy had held their
+Course they first steer'd, could they have fetch'd me?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, they steer'd for their Admiral; if they had kept
+their Wind close, they might have fetch'd you.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you wear a-head or a-stern of the five <font>Spanish</font>
+Ships in the Rear, when you wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> We wore and past a-stern of them; when we wore
+they were put before the Wind.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you engage them as you past?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> We engaged with our Larboard Guns when we wore.
+   </dialogue><nonSpeech> <font>Then the Prisoner addressed himself to the Court.</font> </nonSpeech><dialogue> As all
+these Gentlemen have been already examined, and
+cross-examined upon former Tryals, it will be
+impossible for me to find out any Mistakes they are
+guilty of; and therefore I would beg of every 
+Gentleman that is a Member of the Court, to destroy the
+Minutes they have taken upon the former Tryals,
+that they may have no Influence in regard to the
+Sentence that may be pass'd upon my Conduct.
+   </dialogue><nonSpeech>Captain <font>Renton</font> , one of the Members of the Court, said,</nonSpeech><dialogue>
+I believe every Gentleman that is a Member of the
+Court, will not only destroy the Minutes taken upon
+former Tryals, but endeavour to forget as much as
+possible, every thing that has pass'd upon former Tryals.
+   </dialogue><nonSpeech> <font>The Prisoner said</font> ,</nonSpeech><dialogue> I mention this, not that I have the
+least Suspicion of the Court, but because I hope to
+prove that you never yet had a right understanding of
+the Matter.
+   </dialogue><nonSpeech> <font>The President said</font> ,</nonSpeech><dialogue> You are not to dictate to the Court;
+every Body here are Persons of Honour, and will do
+you Justice; and therefore I think that Speech of 
+yours very ungenteel.
+   </dialogue><nonSpeech>Then Lieutenant <font>Joseph Peyton</font> of the <font>Essex</font> was called in
+and sworn, and his Deposition read, setting forth,
+That he was fourth Lieutenant of the <font>Essex</font> , on the
+11th of <font>February</font> 1743, which Ship was station'd the
+next a-stern of the <font>Dorsetshire</font> , and the third a-stern
+of the Admiral; that in the Morning a Signal was
+<pagebreak id="50" />
+made for a Line a-head, and about one the 
+<font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal-Oak</font> bore down when the
+Admiral did, but not near enough to form the Line;
+that between three and four the <font>Ann Galley</font> Fireship
+bore down in Sight of the <font>Dorsetshire</font> , <font>Rupert</font> , and
+<font>Royal Oak</font> , and that they were not then engaged;
+that the <font>Marlborough</font> was disabled, having her Main
+and Mizen-Masts shot away; and that the <font>Essex</font> was
+to windward of the <font>Rupert</font> , and the <font>Rupert</font> to 
+windward of the <font>Royal Oak</font> ; that they were all to
+windward of the Line the greatest Part of the Engagement;
+and that if they had bore down as the Admiral and
+<font>Marlborough</font> did, they might have cover'd the 
+Fireship, and kept the Sternmost Ships of the Enemy from
+getting up till the Vice Admiral and his Division had
+got up.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font>   
+haul up to
+windward of the Admiral? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she fire?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, between three and four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Ship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At the Sternmost Ships coming up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she within point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I think not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Marlbro'</font> when her Masts went away?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> assist her? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she cover the Fireship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, not that I saw.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> in the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I don't know how she might have been in the
+Evening.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> within point-blank,  
+from
+the Beginning of the Engagement till the Admiral wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If she had gone within point-blank, would she have
+been to leeward of the <font>Namur</font> ?
+   </dialogue><nonSpeech> <font>The Witness asked</font> ,</nonSpeech><dialogue> At what Time?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Headmost of the five Ships came up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't judge.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was you to windward of the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A good Way; three Quarters of a Mile, or more.
+<pagebreak id="51" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the <font>Rupert</font> to leeward of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Two Cables length and a half.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Time did you observe the <font>Rupert</font> fire smartly?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Between three and four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Ship did she fire at?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At the five Sail coming up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At which of them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Faith I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever observe the five Sail pass before the   
+Beam
+of the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell whether they did or no.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they ever alter their Course, or shorten Sail when
+they fired at any of our Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, our Ships were at too great a Distance for that.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there Wind sufficient for the <font>Rupert</font> to have 
+gone
+down near enough to have engaged them properly? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the <font>Rupert</font> made a warm Fire, did any of the
+Enemy's Shot come over her? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see any of them fall short? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Royal Oak</font> fire? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I must have seen her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the <font>Rupert</font> to windward of the 
+<font>Royal-Oak</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Two Cables length.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> To windward or a-head?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon her Weather-bow, to windward and a-head.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she as much farther from the Enemy? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> 
+Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you fired the Guns from your Ship, could you
+see the <font>Rupert</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you haul'd your Wind, did the <font>Rupert</font> do so
+too?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't be positive; I did not observe; but when the
+<font>Marlbro's</font> Masts were gone, she was to windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> During what Time did you see the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was most of the Time upon the Quarter-deck         
+<comment type="compiler">SOURCE TEXT: Quarter-dec k</comment> and
+must have seen her often.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Ship did you fire your Guns?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At the <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you fire any at the Sternmost <font>Spanish</font> Ships? 
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you haul'd off, did the <font>Rupert</font> do so too?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you observe the <font>Rupert</font> bear down nearer than 
+you
+at first? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she ever bear down nearer than that?
+<pagebreak id="52" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not till the Admiral wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the Shot reach you from the Enemy?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, at the first of the Engagement.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> the next Ship to you?             
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had bore down at first, might not  
+she
+have engaged the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was in her Power, there was Wind enough.
+   </dialogue><nonSpeech> <font>Then the Prisoner said</font> , He had a great many Questions
+to ask, if the Court thought proper.</nonSpeech>
+   <nonSpeech> <font>The Court said</font> , He might ask what Questions he pleased.</nonSpeech>
+   <nonSpeech> <font>Then the Prisoner asked</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long did you   
+keep
+firing at the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Till after the <font>Marlbro's</font> Masts were gone.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did your Shot reach?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did their Shot reach you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, at first; but we kept hauling off; and when the
+<font>Marlbro'</font> lost her Masts we left off firing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there any Ship for the <font>Rupert</font> to engage, if  
+she
+had come down at first?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not unless she had gone to the <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Dorsetshire</font> firing upon the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She fired sometimes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If you had commanded the <font>Rupert</font> , do you think it
+would not have been better to have engaged the Ships
+coming up, than to have gone to engage the <font>Hercules</font> and assist
+the <font>Marlbro'</font> ?
+   </dialogue><nonSpeech> <font>The Court said</font> ,</nonSpeech><dialogue> That was not a proper Question, we
+can best judge of that.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see any of my Shot fall short?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I never saw any.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were the five Sail coming up, to leeward of their
+Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe, rather to leeward, but very little.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you saw the <font>Rupert</font> and <font>Royal Oak</font>        
+engaging,
+were they to leeward of the Admiral and <font>Marlbro'</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue>  
+No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were they near one another? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Spanish</font> Ships had held the Course they came
+up when the <font>Rupert</font> and <font>Royal Oak</font> were engaging them,
+could not they have weather'd the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe they could have gone very near to have
+done it.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As the <font>Rupert</font> was at first under your            
+Lee-quarter, how
+came she afterwards to be so far to leeward of you; was it
+by your hauling off, or her bearing away?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't judge of that.
+<pagebreak id="53" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> engaging the five Sail, and between
+them and the Fireship, when the Fireship blew up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She was not immediately between them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> a-head stemming for the Fireship, 
+when
+the Fireship blew up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> nearer the Fireship than the five 
+Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They were nearer when the Fireship blew up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they pass me?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As these Ships came up to annoy the Fireship, I must
+have stop'd them?
+   </dialogue><nonSpeech> <font>The Court said</font> , This was argumentative, and no
+Answer was given to it.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the <font>Rupert</font> was engaging those Ships, were   
+they
+upon her Quarter, or upon her Beam?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Rather upon her Quarter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> I think you say my Shot fell short?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not say so.
+   </dialogue><nonSpeech>Then Lieutenant <font>Hamilton Gore</font> of the <font>Essex</font> was called in
+and sworn, and his Deposition read, setting forth, That
+he was a Lieutenant on board the <font>Essex</font> in the Month
+of <font>February</font> 1743, which Ship, on the 11th of the same
+Month was station'd next a-stern of the <font>Dorsetshire</font> , and
+the Third a-stern of the Admiral; that the <font>Dorsetshire</font> ,
+<font>Rupert</font> and <font>Royal Oak</font> bore down towards the Enemy,
+as the Admiral did, but not near enough to form the
+Line, tho' they might have done it, having Wind
+sufficient; that the Fireship passed by in Sight of the
+<font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal Oak</font> , not covered or
+conducted by any of the other Ships; that they might have
+done it, but did not; that the <font>Marlbro'</font> was disabled,
+having her Main and Mizen-mast shot away; that the
+<font>Essex</font> was then to windward of all the Ships a-stern;
+the <font>Rupert</font> was to windward of the <font>Royal Oak</font> ; that
+they all kept to windward of the Line during the
+greatest Part of the Engagement; that if they had come
+down they might have covered the Fireship, and stopt
+the Sternmost Ships of the Enemy from coming up, till
+the Vice-Admiral and his Division had got up.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was you        
+quartered?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon the lower Gun-deck.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Rupert</font> when she first haul'd up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she in a Line with the Admiral?
+<pagebreak id="54" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, to windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> engaged?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, she fired.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Time was it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A little after the Admiral did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Ship did she fire?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I took it to be the <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Distance?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Mile and a half, or better.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Marlbro'</font> when her Masts went away?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> assist her? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Fireship bore away, did the <font>Rupert</font> assist
+her, or cover her from the Enemy? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she never within point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not till we wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> in a Line with the
+Admiral? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How do you know she was not in a Line with the
+Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because I saw both her and the Admiral.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you in the Line? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far to windward of the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the <font>Rupert</font> from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Better than a Quarter of a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> a Quarter of a Mile to leeward or
+a-stern of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To leeward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Could the <font>Rupert</font> have engaged the <font>Hercules</font>   
+if she had
+bore down properly?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To be sure.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there any Ship between the <font>Rupert</font> and        
+<font>Marlbro'</font> ,
+to take up the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The <font>Dorsetshire</font> was between, but she was to      
+windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had bore down to the               
+<font>Hercules</font> , must not
+she have shot a-head of the <font>Dorsetshire</font> and <font>Essex</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, but they were to leeward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At the first of the Action, if the <font>Rupert</font> had    
+bore down
+and brought up in a Line, was there any Ship for her to
+engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She might have engaged if she had gone to the        
+<font>Marlbro's</font>
+Assistance.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If she had brought up in a Line with the Admiral,    
+cou'd
+she have engaged? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+<pagebreak id="55" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If she had brought up at first, could she have       
+brought any
+of her Guns upon the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, she did fire at the <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had she gone down nearer, cou'd she have engaged the
+<font>Hercules</font> properly? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had bore down in a proper Line,    
+and kept
+there; how long wou'd it have been before the headmost of
+the <font>Spanish</font> Ships could have come up within Gun-shot of her,
+supposing they cou'd have crowded sail?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Half an Hour, or three quarters of an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she fire at the <font>Hercules</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When these Ships came up, was the <font>Rupert</font> in a    
+proper 
+station <comment type="compiler">SOURCE TEXT: t ation</comment> to engage the headmost of them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, she fired, and her Shot all fell short.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see them fall short?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, both the Enemy's and hers fell short; the Enemy's
+fell nearer the <font>Rupert</font> , than the <font>Rupert's</font> did the Enemy.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you first brought up, what distance was you from
+the <font>Dorsetshire</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Better than a quarter of a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Dorsetshire</font> from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To leeward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In a Line with the <font>Dorsetshire</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> During any part of the Day before the Admiral wore,
+were the five Sail shot a-head of the <font>Rupert</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Essex</font> haul her Wind? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any of the five Sail shorten Sail or alter their 
+Course
+from the Fire of any of our Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, none of them a-stern did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you in a Line with the <font>Namur</font> when she was    
+haul'd
+off toward the latter part of the Action?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, never.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had brought up in a Line, wou'd she
+have been within Point-blank of the Enemy? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If the <font>Rupert</font> had haul'd up in a Line with the
+Admiral, where wou'd the headmost of the five Sail have been
+from her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Within Point-blank.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the five sail pass the <font>Rupert</font> ? 
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No. 
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> bring up when the Admiral did?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Are you sure that the <font>Rupert</font> did not keep        
+bearing down
+after the Admiral haul'd up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think he brought up then.
+<pagebreak id="56" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> bring up when the Admiral did?    
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes <comment type="compiler">SOURCE TEXT: Ye</comment> .
+   </dialogue><nonSpeech>Then the Court observ'd, every Ship must be in a 
+Consternation, when the Admiral brought up.</nonSpeech>
+   <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you take notice of the Enemy's Ships, a short time
+before the Admiral wore? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How many of them had pass'd the Beam of the
+<font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think they all had pass'd
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Admiral wore, had any of the Enemy's
+shot before the Beam of the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They had shot up nearer their Admiral.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How many of them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> All the five.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were they all nearer the Fireship than the           
+<font>Rupert</font> was?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think they were.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Admiral wore, were the five Ships a-breast,
+a-head, or a-stern of the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe a-breast of her.
+   </dialogue><nonSpeech> <font>Then the Prisoner asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If I had bore     
+down with the
+Admiral at first, and brought up in a Line, how long wou'd
+it have been before the five Sail wou'd have been within
+Gun-shot?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three quarters of an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long must I have been in going into a Line with
+the Admiral, if I had put the Helm a-weather, after I had
+brought up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Half an Hour, or better.
+   </dialogue><nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When he had got      
+there, wou'd
+there have been any Ship for him to engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, he must have been within Point-blank of the 
+sternmost Ship.
+   </dialogue><nonSpeech> <font>Then the Prisoner asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If I had not      
+brought to when
+I did, how long wou'd it have been before I had got into
+the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Half an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any of the Enemy's Shot reach you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not that I saw.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Half Hour that you speak of my getting
+into the Line was expir'd, should I have been within
+Point-blank of any Ship? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did I fire at the <font>Hercules</font> when I brought to?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, but the other Ships were a great way from their
+Admiral.
+   </dialogue><nonSpeech> <font>Then the Court asked.</font> </nonSpeech><dialogue> Did any of the five Sail pass the
+<font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think they shot up when the Fireship bore down.
+<pagebreak id="57" />
+   </dialogue><nonSpeech> <font>Then the Prisoner ask'd.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the   
+<font>Hercules</font>
+from the Ships coming up at the first of the Engagement?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were there four or five Ships coming up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Five.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see a single <font>Spanish</font> Ship, or any Ship   
+engage
+her? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>A.</font> </comment> Did I bring to to leeward   
+of you? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was I in a Line with the <font>Dorsetshire</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was as much as you were.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was you from me?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not a great Way then, but we filled our Sails and
+hauled our Wind.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did I do then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> You were firing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did I do at first?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> You were firing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When did you see my Shot fall short?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw it always fall short.
+   </dialogue><nonSpeech>Then <font>Joseph Meyers</font> of the <font>Essex</font> was called in and sworn.
+His Deposition read, setting forth, that he was Master
+of the <font>Essex</font> during the Month of <font>February</font> 1743;
+that about nine in the Morning of the 11th of the said
+Month Admiral <font>Mathews</font> made the Signal for the Line
+of Battle a-head, and that the <font>Dorsetshire</font> , <font>Rupert</font> , and
+<font>Royal Oak</font> were in the Center Division, and stationed
+a-stern of the Admiral; that they bore down a little
+when the Admiral did, but not near enough to be in their
+Stations, and that the <font>Royal Oak</font> was to leeward of the
+others, and that they had all Wind enough to have gone
+nearer; that the <font>Marlbro's</font> Masts were shot away by the
+Enemy, and that the <font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal
+Oak</font> were capable of assisting her, but did not; that
+between four and five the <font>Ann Galley</font> Fireship bore down,
+and was not covered or conducted by any of the other
+Ships; and that the <font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal Oak</font>
+might have covered her, but they did not, as appeared to
+this Witness.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Is this Deposition   
+true?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> haul up before she came in the    
+Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see her engage within Point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not till the Evening, when she wore.
+<pagebreak id="58" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see when the <font>Marlbro'</font> lost her Masts?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> give her any Assistance?          
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> cover her or attempt it?          
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did the <font>Rupert</font> do?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She began to fire when we did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When did she begin?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Soon after the Admiral.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Ship did she fire?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say; either at the <font>Hercules</font> , or the    
+Ship a-stern.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did she do after that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She continued firing some time, and all the Shot fell
+short.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what distance was she from the Enemy?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not within Point-blank.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> If she had gone down at first, was there Room for her
+to engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She must have gone a-head of us, there was nothing to
+hinder her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If she had gone into her proper Station a-stern of the
+Admiral, would she have gone to engage the <font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, a-head of us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Supposing she had left a Space for the <font>Essex</font> and
+<font>Dorsetshire</font> , wou'd she then have done Execution upon the
+<font>Hercules</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, she must then have engaged the headmost of the
+five Sail coming up then; but she might have brought some
+Guns to bear upon the <font>Hercules</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>A.</font> </comment> If the <font>Rupert</font> had gone   
+down in the Line at first, cou'd
+she have fired at the headmost of the five Sail of the Enemy,
+and left a Space for the <font>Dorsetshire</font> and <font>Essex</font> ?             
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At the Beginning? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Must not she have been to leeward of the Admiral
+then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the Admiral wore in the Evening, what Position
+were the sternmost of the Enemy in from the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When the Admiral wore, we were firing at them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they shoot up a-head, or lie a-breast of the     
+<font>Rupert</font> ?  
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The headmost of them was upon her Beam, but not the
+sternmost.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were they a-head of the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, when we wore, we fired our larboard Guns at
+them.
+<pagebreak id="59" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you was so near the <font>Rupert</font> , how far was you
+from the <font>Spanish</font> Ships? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Near a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any of the <font>Spanish</font> Ships coming up alter their
+Course from the <font>Rupert's</font> Fire? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>A.</font> </comment> Was the <font>Rupert</font> never    
+nearer the <font>Spanish</font> Ships than she
+was just before you wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, that was the nearest.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you fire any Shot at the Enemy? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Distance? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Why do you think so, did the Shot fall short?        
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> ever in a Line with the <font>Namur</font> 
+after
+she hauled off?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you in the <font>Essex</font> ever as far to leeward as the
+<font>Namur</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How near was you to the Admiral before you wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Mile and a quarter at nearest.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the <font>Rupert</font> from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Between a quarter and half a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was that the nearest you was to the <font>Rupert</font>       
+before you
+wore? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>The Prisoner asked.</font> </nonSpeech><dialogue> Did you ever see the headmost of the
+five <font>Spanish</font> Ships fire at the Fireship? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did their Shot reach?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, they went both a-head and a-stern of her before
+they wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were the five Ships to leeward of the Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say, because we were so far to windward.
+   </dialogue><nonSpeech>The Prisoner said,</nonSpeech><dialogue> I have no more Questions to ask him
+now, but desire he may be in the Way lest I should
+have Occasion to call him in my Defence.
+   </dialogue><nonSpeech>The Court told the Witness,</nonSpeech><dialogue> You are to attend till this
+Tryal is over: </dialogue><nonSpeech>But upon Recollection, the President 
+said, there wou'd be no End, if they suffer'd a 
+Witness to be called more than once, and desired that the
+Prisoner would ask him what Questions he had to ask
+now.</nonSpeech>
+   <nonSpeech>The Judge-Advocate acquainted the Court, that he had
+known frequently that a Witness has been called in
+three or four times, and that he had himself seen it,
+and therefore it was determined that he had Liberty
+to call him again when he thought proper.</nonSpeech>
+   <nonSpeech>Then Lieutenant <font>Edmund Turner</font> of the <font>Royal Oak</font> was
+called in and sworn, and his Deposition read, setting
+<pagebreak id="60" />
+forth, that he was Lieutenant of the <font>Royal Oak</font> on the
+11th of <font>February</font> 1743, and that about half past twelve
+the Admiral and <font>Marlborough</font> began to fire at the
+Enemy; and that all the Captains a-stern of the Admiral
+were in sight of the Signal to engage, and of the
+Engagement, and that the <font>Rupert</font> was half a Mile to
+winward of the <font>Royal Oak</font> ; and that after Captain <font>Williams</font>
+had ordered them to cease firing, because of our being
+too far off, he heard the Captain say twice,</nonSpeech><dialogue> Why don't 
+they bear down, </dialogue><nonSpeech>meaning the <font>Rupert</font> and <font>Essex</font> .</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Is this Deposition   
+true?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was you quarter'd?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon the Gun-deck.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the <font>Royal Oak</font> began to engage, how was the
+<font>Rupert</font> from her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Half a Mile upon her Weather-bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she fire?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not see her fire.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> out of your 
+Weather-Ports?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was abaft the main Mast, and saw the <font>Rupert</font>    
+out of
+the Weather-Ports, and our People cryed out; <font>Look! Look!
+at the</font> Essex <font>and</font> Rupert.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> After the <font>Royal Oak</font> fired, where was the         
+<font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw her to windward; I looked out now and then, and
+always saw her to windward.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see her engage? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How often did you look out?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three or four Times.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> During what space of Time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> An Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Rupert</font> to windward of you then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see when the <font>Marlborough's</font> Masts went    
+away?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see her after? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Qr</font> </comment> Did the <font>Rupert</font> bear     
+down to assist her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not see that she did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you had done engaging the <font>Spanish</font> Ships, what
+did the <font>Rupert</font> do?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say.
+   </dialogue><nonSpeech>Sir <font>Charles Molloy</font> , one of the Members, said,</nonSpeech><dialogue> This Witness
+says nothing; </dialogue><nonSpeech>upon which the President said,</nonSpeech><dialogue> What
+<pagebreak id="61" />
+do you mean by saying he has said nothing? he says,
+he saw the <font>Rupert</font> to windward of the <font>Royal Oak</font> , </dialogue><nonSpeech>and
+ordered the Judge-Advocate to read what he had said, 
+which was done accordingly.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the 
+<font>Rupert</font>
+in a Line with the Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell the Situation, I was quartered below.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Ship did you fire at in the <font>Royal Oak</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The headmost of the four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How many of those Ships past by you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe all of them but the last.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Just before you wore, did you <comment type="compiler">SOURCE TEXT: yout</comment>  
+look out at the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Spanish</font> Ships then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> 
+Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far were they shot a-head of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> But a little Way.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they continue the same Sail as before?           
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they alter their Course?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not that I observed.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Sail had they set?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Foresails, Topsails, and Top-gallant-sails; at the   
+first
+of the Engagement some of them had their Top-gallant-sails
+lowered, and some not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Which of them did you engage last?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They headmost of the four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she before your Beam when you engaged her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I think she was abaft the Beam.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you observe the <font>Rupert</font> then? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you think they could have pass'd the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you go upon Deck, before you wore Ship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not just before.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At the Time of the Wearing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, when I was ordered to cease firing, then I went
+up and saw the Situation of the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> From the Time the Engagement began till the Admiral
+wore, was the <font>Rupert</font> ever at a proper Distance from the
+Enemy to do Execution and engage?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I never saw her fire at all.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see her at a proper Distance to do
+Execution?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say; she was upon our Weather-bow, but she
+might be within proper Execution.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you then at a proper Distance from the Enemy?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+<pagebreak id="62" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> always to windward of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship come down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you know any thing of the <font>Royal Oak's</font> hailing
+the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, nothing but what I heard afterwards.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you hear the <font>Royal Oak</font> hail the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Then Lieutenant <font>Robert Wilson</font> of the <font>Royal Oak</font> was called
+in and sworn.</nonSpeech>
+   <nonSpeech> <font>The Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was you quartered?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon the upper Deck.
+   </dialogue><nonSpeech>Then his Deposition was read, setting forth, that he was
+first Lieutenant of the <font>Royal-Oak</font> the 11th of <font>February</font>
+1743; that about one, the <font>Namur</font> and <font>Marlbro'</font> bore
+down, and engaged the <font>Real</font> and her Second a-stern;
+that the <font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal-Oak</font> , were in
+sight of the Signal to engage, and of the Engagement;
+that the <font>Royal-Oak</font> was in a Line with the Admiral
+during the Engagement, but not with the <font>Marlbro'</font> , and
+he then saw the <font>Rupert</font> upon the <font>Royal-Oak's</font> 
+Weather-Bow; that the <font>Royal-Oak</font> fired about twelve, but she
+was not in a Line with the <font>Marlbro'</font> ; that Capt. <font>Edmund
+Williams</font> hail'd Captain <font>Ambrose</font> , and asked why he did
+not bear down nearer; that he saw a great many Guns
+fired by the <font>Rupert</font> ; that the <font>Marlbro's</font> Masts went
+away, and the <font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal-Oak</font> ,
+might have gone down to her Assistance, but did not.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Is this Deposition   
+true?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> bring up to windward of the Line of
+the <font>Namur</font> and <font>Marlbro'</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see her engage? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> With what Ship? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Ship a-stern of the 
+<font>Hercules</font> ,
+she had none to engage at first.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she within point-blank? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she in a Line with the Admiral? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Marlbro'</font> when her Masts went away?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw her about that time.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A little to windward of us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she bear away to assist the <font>Marlbro'</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I know not that she did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship going down?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw her before she blew up.
+<pagebreak id="63" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> properly engaged?    
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> ever in the Line?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> About four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What were the Words Captain <font>Williams</font> made use of,
+when he hailed the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He asked why he would not bear down, but can't tell
+whether there was any Answer.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it the Captain himself that hail'd Captain       
+<font>Ambrose</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were the Words, if he would bear down, or why he
+would not bear down?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Why he would not bear down.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see the <font>Rupert</font> , while you was      
+engaged,
+engage at a proper Distance to do Execution? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As you did not hear any Answer, did the <font>Rupert</font>   
+bear
+away upon your hailing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not the <font>Rupert</font> bear away when the            
+<font>Royal-Oak</font> did?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At the Evening when the Signal of Battle was hauled
+down, were any of the <font>Spanish</font> Ships past by the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do not remember any of them past the <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you believe the <font>Rupert</font> bore down when the
+<font>Royal-Oak</font> did? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it in the <font>Rupert's</font> Power to engage those     
+Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Must she have gone to leeward of the Line, if she had
+gone at a proper Distance to engage them? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What time of the Day did your first bring up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> About Two.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Close to us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How near you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Within a Stone's throw.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long did you engage them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three quarters of an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you left off, where was the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> We were very near her then.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not the <font>Rupert</font> engage then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not see she did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the Enemy off you then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> That Ship was a-breast off us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Had the <font>Rupert</font> a Ship to engage with then?       
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you left off engaging, how far was the <font>Rupert</font>
+from you?
+<pagebreak id="64" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A little way the first time.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it after you left off engaging, you hailed the
+<font>Rupert</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you make Sail after the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, we lay still.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it after you left off firing the first time,      
+that you
+hauled up to the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, after we had engaged the four Ships.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you hail the <font>Rupert</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At Three.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it after engaging the first Ship? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue>   
+Yes.   
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you haul up to the <font>Rupert</font> after engaging 
+the 
+first Ship? 
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, it was after engaging the four Ships.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> close by you when you engaged the 
+first Ships? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As the Enemy shot a-head, did not the <font>Rupert</font>     
+engage
+her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you near enough when you engaged the single
+Ship? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> ever to leeward of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not till we wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she ever right a-head of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, rather upon our Weather-Bow, if any thing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you haul'd off from the four of the Enemy's
+Ships, did you hail the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> We did hail her, but I can't be certain whether it was
+after we had done engaging the first Ship, or after engaging
+the four Ships.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever observe the <font>Spanish</font> Ships to         
+shorten Sail,
+or alter their Course from your first engaging them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>James Patterson</font> , Master's Mate of the <font>Royal-Oak</font> , was
+called in and sworn. His Deposition read, setting forth,
+that he was Master's Mate of the <font>Royal-Oak</font> on the
+11th of <font>February</font> 1743; that about one, the Admiral
+and <font>Marlbro'</font> bore down and engaged the Enemy; and
+that the <font>Dorsetshire</font> , <font>Rupert</font> , and <font>Royal-Oak</font> bore down
+also, but not so near as the Admiral and <font>Marlbro'</font> did,
+and that they might have gone nearer, having Wind
+sufficient. That the <font>Marlbro'</font> was disabled, having her
+Main and Mizen-Masts shot away, and the <font>Namur</font> was
+then engaged in Fight, and the <font>Dorsetshire</font> , <font>Rupert</font> , and
+<pagebreak id="65" />
+<font>Royal-Oak</font> were then to windward, and might have
+assisted the <font>Marlbro'</font> , but did not; that between three
+and four, the <font>Ann Galley</font> Fireship bore down upon the
+Enemy, but she was not covered or conducted by any
+of the other Ships, and that the <font>Dorsetshire</font> , <font>Rupert</font> , and
+<font>Royal-Oak</font> , might have covered her, but none of them
+did.</nonSpeech>
+   <nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was you        
+quartered?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon the Fore-castle.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What do you know concerning the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When the Admiral bore down we bore down, but the
+Admiral took a shorter round than we did, and when we
+brought to first, the <font>Rupert</font> was to windward of us, and she
+brought-to before we did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you engage a single Ship at first? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue>  
+Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what time did you begin?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't remember the time of the Day, it was about
+half an hour after the Admiral began.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon our Larboard-Bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what distance from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Cable's Length.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did she engage that Ship too?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not immediately, she fired some time after we did, but
+can't say at what Ship.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the <font>Rupert</font> when you had done engaging
+the single Ship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon our Larboard-Bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How near you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Pretty near us, we hauled up, and came close to her
+Quarter.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not you hail the <font>Rupert</font> then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot say positively, whether it was before or    
+after
+we bore down the last time.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long did you lye there?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Half an Hour.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What did the <font>Rupert</font> do afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> She did not bear down with us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What past in your hailing the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Our Captain hailed several times, then Captain       
+<font>Ambrose</font>
+came into his Starboard-Gallery; our Captain asked why
+they did not bear down nearer? Captain <font>Ambrose</font> turn'd round,
+but said nothing that I heard.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Do you think that Captain <font>Ambrose</font> was then within
+Gun-shot of the Enemy?
+<pagebreak id="66" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Within random Shot he might.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Repeat the Words that past on your hailing.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When our Captain hailed, Captain <font>Ambrose</font> came into
+his Starboard-Gallery, he said, what do you say? Captain
+<font>Williams</font> said, Why don't you edge nearer, Captain <font>Ambrose</font> ?
+or Words to that effect. Captain <font>Ambrose</font> turn'd round, and
+went out of his Gallery into his Cabin.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you hailed the <font>Rupert</font> did she bear down?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you hear Captain <font>Ambrose's</font> Words distinctly, 
+What
+do you say, Captain <font>Williams</font> ? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you were engaging the four Ships, was Captain
+<font>Ambrose</font> within a proper Distance of the Enemy?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Or was he at any part of the Time during the
+Engagement within Point-blank? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> After you hailed the <font>Rupert</font> , did the            
+<font>Royal-Oak</font> bear
+down singly?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell whether it was after or before hailing, 
+that
+we bore down singly.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was you ever hail'd by Captain <font>Ambrose</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Not that I ever heard of.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Must you have heard it, if he had hailed you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I was upon the Fore-castle all Day.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> within Point-blank, or in a Line  
+with
+the <font>Namur</font> and <font>Marlbro'</font> , when she fired? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Which of the four Sail of the Enemy were you engaged
+with the last time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Most of the four.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far did the Headmost shoot a-head of you, before
+the Admiral made the Signal to leave off Chace and wore?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't remember whether she was before our Beam or
+not; if she was before our Beam, it was as much as she
+was.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What Sail did they come up with?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Top-gallant-sails, Top-sails, and Fore-sails; some had
+their Top-gallant-sails down, and some not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they shorten Sail, or alter their Course upon your
+firing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't remember they did, they edged away a little
+more.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was it from your fire? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How was the <font>Rupert</font> from you then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To windward of us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> What was she doing?
+<pagebreak id="67" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far to windward of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Cable's length upon our Bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Rupert</font> fire then?                
+</dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> At what Ship?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was she wide upon your Bow?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Point and a Half or two Points upon our weather
+Bow?
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> ever within Point-blank?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe not till we wore in the Evening.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Which was nearest the Fireship, the five Sail of the
+Enemy, or the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The <font>Rupert</font> was the nearest when the Fireship was
+coming down.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Which was the nearest when she blew up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The <font>Spanish</font> Ships.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Which of our Ships was the nearest?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The <font>Rupert</font> .
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did the Fireship bear from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon our Starboard-bow.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did the Fireship bear from the <font>Spanish</font> Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The headmost of them was abaft her Beam.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Marlborough</font> when she lost her    
+Masts?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did the <font>Rupert</font> assist her? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Then the Prisoner asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you engaged  
+the four
+Ships, how were they from you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The two sternmost upon our Quarter, and the two
+headmost upon our Beam.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How did these Ships come up, with the Wind
+large?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Two or three Points from the Wind.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How cou'd I have engaged those Ships till they came
+a-head of the <font>Royal Oak</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> You cou'd not.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were those Ships in a Line with their Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Them seem'd to come up to close the Line with their
+Admiral.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were they in a Line with their Admiral?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Admiral was further to windward than they.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did they come up as you did?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They edg'd away more than we did.
+<pagebreak id="68" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> If Captain <font>Williams</font> and I had bore away further  
+than
+we did, before we brought up, wou'd not those Ships have shot
+us away to leeward of them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Had we gone down as close as the Admiral and         
+<font>Marlbro'</font>
+did, if those Ships had had a Mind, some, if not all of them
+might have weatherd us.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where did the Single Ship go to that you engaged?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> It is very odd, if you engaged a Ship an Hour, that  
+you
+don't know where she went to; pray recollect your-self.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I know there was a Single Ship distant from the four
+which we engaged.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did I engage as soon as I had any Ship to engage
+with?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't remember what Ship you engaged with, I saw
+you fire.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see me haul off from the Enemy or
+endeavour to get nearer?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I never saw you endeavour to get nearer from your    
+first
+hauling up.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did I haul off?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> You seem'd to keep the same Position.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Where was the Shot that you receiv'd in your Main
+Mast, was it the Aftermost part or one Side?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Between the two Cheeks in the Aftermost part.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did not that Shot come from the Ship a-stern of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was either from the sternmost of the Enemy, or that
+next to her as I believe, I am not positive.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How cou'd I get between them to fire upon them till
+they got out of the Way?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know whether we did not receive that Shot in
+the hauling off, we might receive it then.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Upon your hauling off did you get your Fore-Tack on
+board, haul your Mizen out, and haul your Wind till you
+got to windward of my weather Beam?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do not remember we got our Weather-Tack aboard
+till we wore.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see me yaw Ship, put my Sails a-back
+in order to open the Enemy's Ships, and bring my weather
+Guns to bear?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw you once bring to.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did I ever fire my weather Guns?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say you did.
+<pagebreak id="69" />
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you ever see me yaw Ship, put the Helm
+sometime Port, sometime Starboard, and lay my Sails back?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not observe you did.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long did you fire before I began?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Some time; I can't remember how long.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> As these Ships were under their Topsails, Topgallant
+sails and Foresails, they must have soon pass'd you; did I not
+engage them then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say; the headmost just came before our Beam, I
+saw her firing.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see any of her Shot fall short?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, and several of your Shot fell short of her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was I from the Enemy when you saw me
+fire?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Less than a Mile.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was I within a Cable's Length of you? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue>   
+Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was the <font>Rupert</font> and <font>Royal Oak</font> in a Line with  
+the
+Fireship when she blew up? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How far was the Fireship to Leeward of them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> About half a Mile.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did any of the sternmost Ships of the Enemy ever pass
+the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, I saw none pass till we wore.
+   </dialogue><nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech>Q.</nonSpeech><dialogue> What side of the Deck did  
+Captain
+<font>Williams</font> stand on when he hail'd the <font>Rupert</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon the Weather side of the Quarter-Deck.
+   </dialogue><nonSpeech>Then Captain <font>Philip Toms</font> , late of the <font>Norfolk</font> , call'd 
+in,
+and sworn, and his Deposition read, setting forth, that he
+was second Lieutenant of the <font>Norfolk</font> on the 11th of
+<font>February</font> 1743, that about eleven the Signal was made to
+engage; that about half past twelve the Admiral and 
+<font>Marlbro'</font> began to fire upon the Enemy; that all the Captains
+a-stern of the <font>Marlbro'</font> were in Sight of the Signal to
+engage, and of the Engagement; that the Fireship bore down
+near the <font>Dorsetshire</font> , <font>Rupert</font> , and the <font>Royal Oak</font> , that 
+she
+was not cover'd or conducted by any of the other Ships,
+and that those three Ships might have cover'd her, but
+neither of them did, and she blew up without Effect.
+   Then the Court desired him to relate what he knew
+concerning the <font>Rupert</font> .</nonSpeech>
+   <nonSpeech> <font>Witness.</font> </nonSpeech><dialogue> All I know of her is, that the three Ships     
+a-stern
+of the <font>Marlbro'</font> made an Angle to windward of the
+Line, the <font>Dorsetshire</font> was the leewardmost, the <font>Essex</font>
+to windward of her, the <font>Rupert</font> to leeward of the
+<font>Essex</font> ; I did not see them till after two, when the
+<pagebreak id="70" />
+<font>Marlboro'</font> was out of Action; I did not see any thing
+more.
+   </dialogue><nonSpeech> <font>Then the Court asked.</font> </nonSpeech> <nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the             
+<font>Royal Oak</font> engaged,
+how did the <font>Rupert</font> bear from her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Q</font> </nonSpeech><dialogue> Did you see the <font>Marlborough</font> when her Masts fell?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the <font>Rupert</font> , or any of the other     
+Ships a-stern, 
+assist her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, they all then made the Angle, and were in the
+Position I mentioned.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Were they firing then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw them firing once, but can't tell whether it was
+then or no.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see the Fireship go down? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did you see her blow up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but I saw her Combustibles in the Air.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Did any of those Ships go down with her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not see any of them go down with her, but they
+went down after her.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> How long after her?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Admiral was wearing then, and they all bore down
+with him.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When you saw the <font>Royal Oak</font> to leeward of the other
+Ships, was the <font>Rupert</font> disabled, or what was the Reason she
+did not bear down?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I can't say what might be the Reason.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was there Wind enough? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> When the <font>Royal Oak</font> was engaging the second Ship
+a-stern of the <font>Spanish</font> Admiral, where were the other <font>Spanish</font>
+Ships?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A long Way a-stern, and to Windward of every
+Ship of Admiral <font>Mathews's</font> Division.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Are you sure of that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, it is plain they were to Windward, because
+I was to Leeward of the <font>Dorsetshire</font> , <font>Essex</font> , <font>Rupert</font> and 
+<font>Royal Oak</font> , and I saw those Ships to Windward of them.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>A.</font> </comment> At what time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At two, and half past two, and at three: Admiral
+<font>Lestock's</font> Division engaged them to windward of our Line at
+three, and when Mr. <font>Lestock's</font> Division neared them, they
+edged away towards their Admiral.
+   </dialogue><nonSpeech> <font>Q.</font> </nonSpeech><dialogue> Was Mr. <font>Lestock's</font> Division to windward of the
+Admiral's? </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

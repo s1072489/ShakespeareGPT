@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOCARE">
+  <dialogueHeader>
+
+    <filename>D3HOCARE</filename>
+
+    <identifier>3 HANDB OTH D3HOCARE</identifier>
+
+    <title>COVNTRY-MANS CARE</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1641</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE COVNTRY-MANS CARE, AND THE CITIZENS FEARE, IN BRINGING UP
+THEIR CHILDREN IN GOOD EDUCATION. 
+SET FORTH IN A DIALOGUE BETWEENE A CITIZEN AND COUNTRY-MAN. 
+PRINTED AT LONDON FOR T. B. 
+1641.
+PP. 3.1 - 8.7
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">IN SOURCE TEXT PAGE 4 IS GIVEN AS 5 AND PAGE 5 AS 4.</comment>
+
+<pagebreak id="3" />
+</dialogue> <head>THE COUNTRY MANS CARE,
+AND 
+THE CITIZENS FEARE IN THESE
+DANGEROUS, AND TROUBLESOME TIMES.</head> 
+   <nonSpeech> <font>Citizen.</font> </nonSpeech><dialogue> Well met <font>Countryman</font> , what is the best newes
+that the Country doth afford at this
+time?
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Alas sir! I wonder you should
+so earnestly enquire newes of mee, that
+live in the Countrey, whenas we receive all our newes
+from you. I confesse, you did prevent mee, therefore I
+pray, what is the best newes in the City?
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Alas! the ambiguous rotation of the World
+is very mutable, nothing is constant, nothing durable,
+but all things doe praecipitate themselves most strangly
+in a mutuall levitie.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> This newes is hard indeed: for I did expect
+better, in regard that I have a Son, truely a pritty
+Scholler (as his Master tells me) and of a hopefull
+expectation, whose preferment I intend to raise (God willing)
+Therefore I beseech you (if you can) instruct me, what
+way I may settle him in.
+<pagebreak id="4" />
+<comment type="compiler">AN ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 5</comment>
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> What can he understand the Latine tongue, or
+how farre hath he proceeded therein?
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Truely sir he is past his <foreign>Propribus que        
+maribus</foreign> ,
+&amp; his <foreign>Asse in praesentibus</foreign> too I'le assure you; yea, &amp; he can
+reade any Chapter in the Bible very punctifully, and
+withall he hath read toe Master Practise on the Piety,
+and many other Godly bookes I thanke God for it, who
+hath endewed him with so much grace: Therefore
+because he is come to some knowledge now, I would
+willingly bring him up to some Scholler-ship: what think
+you Sir, if I should send him to the Vniversity?
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Sir I commend your sedulity herein: but I have
+often heard, and withall I know by experience, that the
+Vniversity is much polluted, and contaminated with
+Popish superstitions, which if your sonne should be
+seduced into, perhaps it will cause both his utter ruine, and
+your perpetuall sorrow.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Is it possible that the Vniversity should be
+corrupt? Tis no marvell then that the whole kingdome is
+misled, since the very fountaines themselves are
+poluted.
+   </dialogue><nonSpeech> <font>Citiz</font> </nonSpeech><dialogue> I Exhort you as a friend; and hope you will not
+contemne my friendly admonition.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> But my Son may avoid their crafty
+allurements, and if he then uncessantly follow his studdy, he
+may one day prove a Minister of Gods word.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Pish, a minister of Gods word quother? Now
+a dayes every man will become a Minister: therefore it
+will be but vanity for you to send your sonne thither to
+attaine to the Sacerdotiall function.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> But dare every man presume so farre without
+learning?
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> That is the chiefe cause thereof: for learning is
+abused, contemned, derided, neglected, despised: they
+<pagebreak id="5" />
+<comment type="compiler">AN ERRONEOUS PAGE NUMBER IN SOURCE TEXT: 4</comment>
+will have noe praying, nor preaching, unlesse it be
+performed by instinct and inspiration, as the spirit mooves
+them. And if a man heapes up knowledge, and
+Scholler-ship by indefatigable studdy, he is thought to have
+fild his mind only with more advantage to doe
+wickednesse.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Oh lamentable!
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Yea you may see Coblers and Tinkers rising
+from the very Dunghill, beating the Pulpits as
+conformably, as if they were the Kinges professors of Divinity,
+scattering their new doctrine and discipline in the
+Church, and are accounted great divines too of the
+vulgar. Here you shall see one making himselfe a Prophet
+preaching in a Tub as confidently, as if he were Doctor
+in Divinity. There you shall see another thumping forth
+his new doctrine in a Barne among his conniticles (I
+should have said) conventicles, as if he were Master of
+Artes. In the meane while revolve all, and you shall
+finde Scholler-ship most shamefully despised.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> But if he diligently continue in his studdy,
+God knowes but that he may one day become a Bishop.
+   </dialogue><nonSpeech> <font>Citix.</font> </nonSpeech><dialogue> How? a Bishop? alas! I feare there will be no
+more of that dignity: for the generall assent and consent
+too of the Commons will admit of no Bishops: and
+they must all very shortly resigne their Titles, which
+shall be abrogated. Your sonne shall never be
+Arch-Bishop I'le warrant you: and if you intend to make a
+Divine of him, he must have a great care least the
+Arch-Bishop doe not cut of his eares. But I will free you from
+that feare, for I tell once againe that there will be no
+more Bishops: Yet if it seemes more just, and secure,
+that the holy Church should admit a degree of lesse, and
+greater, they will have no Bishops, but onely
+Lay-Elders: to the election of which dignity, they judge and
+<pagebreak id="6" />
+suppose none more fit, and none more prepared for the
+performance of every thing, belonging to Gods word,
+then those venerable, and reverend Fathers Master
+<font>Cobler, Tinker</font> , and <font>Button-maker</font> , men (although but of a
+meane Scholler-ship) yet most wonderfully inspired.
+Therefore I think it it meere vanity for you, to bring your
+sonne up to be a Scholler.
+   </dialogue><nonSpeech> <font>Count.</font> <comment type="compiler">SOURCE TEXT: <font>Couut.</font> </comment> </nonSpeech><dialogue> Alas! then what     
+shall I doe? unlesse I should
+put him to the Innes a Court.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Soe you'l make a young <font>Suckling</font> of him, and
+then he'l run away.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> But I intend to make him a <font>Lawyer</font> .
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> Alas the Starre-Chamber, and
+High-Commission Court is downe long agone: and he must be as
+busie as a <font>Ducke</font> , or else he will loose preferment. For
+Lawyers are not respected, neither are they accounted
+Honest, because they sell their lines dearer then
+<font>Apothecaries</font> Physicks, which I confesse is deare enough, yet
+nothing comparable to the price of their lines, which gape
+wider then an Oyster-wifes mouths, and straddle wider
+then a French-man's legs. Fie, fie! Lawyers are accounted
+Knaves over all the Country.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Tis strange! For I'm sure they have more
+Angels come hourely to them in Terme time, then all the
+Puritans in the Towne.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> But here lyes the difference: Their Angels doe
+weare crosses: and because the Puritans will admit of
+no crosse, therefore they hate the Lawyers the more,
+because they are so ready to receive them.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> And there is none of their whole Tribe, that
+will deny such crosses, I'le warrant you.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> But Lawyers are so little regarded now adayes,
+that I feare before they can procure other men's Suites
+at Law, they'le want Suites to their owne Backs.
+<pagebreak id="7" />
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> But perhaps he may come to the honour of a
+Iudge one day.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> I hope you doe not desire to have your Sonne
+hang'd. That's a dangerous title I'le assure you: Did
+you not heare that most of the Iudges are to be judged
+under other Iudges, yea and they'le hardly escape
+hanging too, unlesse they give ample satisfaction to the
+Parliament: for they are acknowledged to be the Originall
+of all our greivances. Therefore if you be wise desist
+from that opinion.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Alas! What education shall I then impose
+upon my Son? Since all these grounds of hope hath
+deceived me. What thinke you Sir, if I traine him up to
+be a Souldier?
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> He must sweare lustily then: and bragge of
+many things with ostentation, although he can performe
+nothing. But stay! Now I thinke on it: Perhaps he may
+be suspected to be some Trooper, (for they say the
+Countrey is very full of them) then apprehended and so
+incontinently committed onely upon suspicion.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> You say true indeed Sir: Therefore I know not
+what course to take with him. I intreat you Sir, to lend
+me your advice.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> If the Lad be so hopefull, as you declare him to
+be: I care not greatly if I take him under my Tuition,
+and if you please to condescend thereunto, he shall be
+my Apprentice, and I'le assure you for your sake he shall
+be both kindly kept, and religiously instructed.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> I humbly thank you for your love, wherefore
+I acknowledge my selfe much ingaged to you: But I
+pray what trade are you off Sir?
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> I am a Vintner by my Trade.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> I am very glade to heare of that: and if my
+Sonne be wise enough, but to take fourty Shilling a
+<pagebreak id="8" />
+Tunne, he may prove an Alderman too. Well Sir, I am
+much obleiged unto you, for your love unto him, and
+I will bring him unto you, and if you like his morality
+and ingenuity, I will willingly send him unto you.
+   </dialogue><nonSpeech> <font>Citiz.</font> </nonSpeech><dialogue> He shall be most lovingly respected.
+   </dialogue><nonSpeech> <font>Count.</font> </nonSpeech><dialogue> Thankes Noble Sir; In the meane while farewell.
+
+   </dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

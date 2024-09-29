@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOTRAV">
+  <dialogueHeader>
+
+    <filename>D3HOTRAV</filename>
+
+    <identifier>3 HANDB OTH D3HOTRAV</identifier>
+
+    <title>THREE TRAVELLERS</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1641</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>A DIALOGUE BETWIXT THREE TRAVELLERS, AS ACCIDENTALLY THEY DID
+MEET ON THE HIGH-WAY: CRUCY CRINGE, A PAPIST, ACCEPTED WEIGH ALL, A
+PROFESSOUR OF THE CHURCH OF ENGLAND, AND FACTIOVS WREST-WRIT, A 
+BROWNIST.
+WHEREIN THE ERROURS OF THE PAPISTS AND THE BROWNISTS ARE DISCUSSED,
+AND THEMSELVES RECONCILED TO THE CHURCH OF ENGLAND.
+(LONDON)
+PRINTED IN THE YEARE, 1641.
+PP. 1.1 - 6.35
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="1" />
+ <head>A DIALOGUE
+BETWIXT THREE TRAVELLERS,
+AS ACCIDENTALLY THEY DID MEET ON THE
+HIGH-WAY, <font>CRUCY CRINGE</font> , A PAPIST,
+<font>ACCEPTED WEIGHALL</font> , A PROFESSOUR OF THE
+CHURCH OF <font>ENGLAND</font> , AND <font>FACTIOUS
+WREST-WRIT</font> , A BROWNIST.</head> 
+   <nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> 
+Well met, well met Master <font>Wrest-Writ</font> , you
+are such an eager man; Do you remember,
+Sir, the conference we had, when we last
+encountred, almost in this very place? Doe
+you still pursue your errours with that wilfull heat?
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Out of my sight, thou Idolater;
+prophanesse hangs in a mist about thee, that thou maist
+commit thy deeds of darknesse with the Whore of
+Babilon with more securenesse.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> Not so hasty Master <font>Wrest-Wright</font> , a good
+cause should be disputed with good words, and
+confirmed with reasons, not with passions.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Down <font>Dagon</font> , down, I hate thee <font>Cringe</font> ;
+<pagebreak id="2" />
+I hate thee and thy late disputed doctrine of the reall
+presence in the Sacrament, worse than the lawne
+sleeves of the Prelates, which are but meer rags of
+<font>Rome</font> , and fit onely for tinder for the Tinder-box of
+<font>Tophet</font> ; but goe to Master <font>Cringe</font> , because society is
+the injunction of nature, and good discourse (they say)
+doth make a horse that trots seeme to amble, proceed
+in your last argument, and I promise you both silence
+and attention.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> If you will be patient I will. The doctrine
+then of the reall presence in the Eucharist.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> The Eucharist! I can forbeare the
+argument no longer; there is no such word to be read in all
+the Scripture.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> Very frequently, Sir, in the Greek originall.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Talk not to me of Greek, I will beleeve
+no Greek, it is a language that shall carry no
+authority with me; I hope to see Greek and Latine too, ere
+it be long, in lesse reputation than they are.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> I doe not like this fury, E'en God be with
+you, and grant your zeale more knowledge, and your
+knowledge more humility.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Nay but hark you Master <font>Cringe</font> , hark you
+one word, - look you here, - Master <font>Accepted 
+Weighall</font> : - Come as wisht for.
+   </dialogue><nonSpeech> <font>Accepted.</font> </nonSpeech><dialogue> How have you done this long time? How
+doe you Master <font>Crucy</font> ? Sir, I heartily salute you.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> I returne your salutation with the like
+testimony of good will, and true affection: you intervene
+an happy Vmpire, we two were e'en a falling out, and
+a falling off too.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Verily, Master <font>Weighall</font> , the words of
+truth being not in his lips, I was about to separate, and
+to leave him to the fogs of his superstitious ignorance,
+<pagebreak id="3" />
+I must beseech you, having so happily met with your
+better company, that we may abandon him.
+   </dialogue><nonSpeech> <font>Accept.</font> </nonSpeech><dialogue> Why so Sir, Although I am a Professour of true
+and Orthodox Religion, I am not of the separation; I
+would be neither a <font>Trojan</font> , not <font>Tyrian</font> ; it fares with
+Religion as with Vertue, she must preserve her selfe entire
+betwixt two extreames; and the safest way to truth, is the
+middle way; I would be neither learnedly superstitious,
+nor obstinately ignorant; but to the point which you were
+so hot in disputation of.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Sir, when last Master <font>Cringe</font> and I        
+encountred,
+we held a controversie concerning the reall presence in 
+the Sacrament, which Master <font>Cringe</font> beleeveth to be truly
+corporall, and in adoration bowes unto it.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> Sir, I beleeve the Sacrament to be a greater
+mystery then peradventure you conceive it, and not a meere
+Love-feast, as idly enough you are pleased to fancy it; I
+dare affirme, that the great worke of mans Redemption
+is no where more perfectly to be discovered, <font> <foreign>Nec tam 
+praesentes alibi cognoscere Divos</foreign> </font> .
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> Sir, you are in your Latine, I will have
+Latine againe to answer you; I assure you I take it to be a
+Commemoration <font> <foreign>per fidem</foreign> </font> , onely in remembrance of our
+Saviours sufferings, on whom we feed with the eye of
+faith.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> That cannot be Master <font>Wrest-Writ</font> , the words
+are positive and punctuall, <font>This is my Body</font> , and will admit
+of no other interpretation.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> The words that follow that text doe as plainly
+and punctually interpret the words precedent, <font>Doe this in
+remembrance of me</font> , which implies a direct absence of the
+party; for what needs a remembrance, when the person
+is present? and in this I referre my selfe to Master
+<font>Weighall</font> . You affirmed besides at our last meeting, that you did
+<pagebreak id="4" />
+feed in the Sacrament, upon the very body of Christ
+indeed.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> I feed in the Sacrament on the very Body and
+Bloud of Christ, the elements of Bread and Wine, being
+transubstantiated into his Body.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> This is most horrible impiety. How is this
+transubstantiation? when is it begun? when is it finished?
+answer me to that, Master <font>Cringe</font> .
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> Immediately after the words of the
+consecration.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> That cannot be, for the Metaphysicks (as I
+have heard Schollers say) will not allow that the
+substance should be altered, and the accidents remaine, that 
+the Bread and Wine should be converted into the very
+Body and Bloud of Christ; yet the colour and taste of the
+Bread and Wine, which are their accidents, should still 
+continue; neither will Divinity ever agree, that the Bread,
+which after consecration, you say, is turned into the
+Body of Christ, should suffer afterwards corruption, and
+moulder away, as we see it doth.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> We feed, I say, in the Sacrament on the very
+Body of Christ; but how? not as we feed on butchers
+meat bought in the shambles; but it being received with
+all reverence, and prepared humility after a divine and
+spirituall manner; and whatsoever you are pleased to say to
+to the contrary of us, beleeve me, there is no Catholick
+but is of the same opinion with me.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> That you doe to avoid some dangerous
+absurdities which would consequently arise, should you affirme, 
+that in a fleshly manner you eat in the Sacrament, the very
+flesh of our Saviour; for then by the same argument should
+the blessed Virgin, the mother of our Saviour, feed in the
+Sacrament, on the flesh of her owne son; and then again,
+as often as in the time of Lent you receive the
+<pagebreak id="5" />
+Communion, you should as often offend against the order of the
+Church, which doth command, that there should in Lent
+no meat be eaten. Besides, I understand how crosse it is
+to reason and Philosophy, that one Body should at one
+and the same time move in severall places.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> Wonders are no wonders in wonderfull
+subjects; I beleeve as the Church beleeveth, which doth
+informe me, that the Body of our Saviour is assisted alwayes
+with the Divinity of our Saviour, and in this (as Master
+<font>Wrest-Writ</font> did before) I referre my selfe to you Master
+<font>Weighall</font> .
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> With all my heart, and if we shall continue
+in our journey and travell one way together; as in this, so
+in all controverted points betwixt us, I shall referre my
+selfe to your advice, Master <font>Weighall</font> .
+   </dialogue><nonSpeech> <font>Weighall.</font> </nonSpeech><dialogue> I have not the desire, nor yet the ability to
+goe thorow with so great a taske; but since it is the 
+inclination of truth to communicate herselfe, and through all
+my life I have made it my labour to enquire her out: I
+will, as neare as I can, first state the question aright, and
+then determine it. I beleeve we ought not to make our
+approaches to the blessed Sacrament, with that 
+overweening familiarity, as the sawcy Brownists; nor yet with such
+a devout superstition as the abused Papists. That the Bread
+and wine in the Sacrament should be transubstantiated
+into the Body of Christ, cannot be admitted into the faith
+of any sober man, without admitting with it many grosse
+and grievous errours; for besides that, it is but a meere
+invention of latter times, it is diametrically opposite to
+reason and nature; and God himselfe, who oftentimes
+doth work above nature, doth never work against it. The
+elevation of the Host by the Papists savours of rank
+idolatry; and the unmannerly sitting of the Brownists at the
+Communion, of irreverence. A decent and humble
+<pagebreak id="6" />
+posture is most requisite, especially where God is pleased
+to communicate himselfe to be really, and more
+peculiarly present. It is no lukewarmenesse, no neutrality to keepe
+safe between both your errours, but a grounded
+knowledge and uprightnesse: And I assure my selfe, if you would
+well weigh, with how much safety between both rockes
+the Truth doth passe by unship-wrackt, how secure and
+cleare shee is discovered, you would then make hast to
+disembogue, and make up unto her, who indeed is the
+Center of all sublunary happinesse, where alone we may
+finde peace with confidence. Errours in the Church result
+out of too unruly an heat, or too thick and too grave a 
+Superstition; either while we violently are lead by our own
+ungoverned humours, or while blinded with pompe, or
+with the shadowes of Antiquitie with a willing reverence
+wee are drawne unto Idolatry. Too much Ceremony
+and an affected pompe hath begot much Superstition in
+the Sacrament amongst the Papists. Too carelesse a
+presumption hath begot much irreverence in the Sacrament
+amongst the Anabaptists. The mean betwixt both is the
+safe and happy way attended with a persevering care, not
+to decline, either to the one, or to the other, either
+to the right hand, or to the left.
+   </dialogue><nonSpeech> <font>Crucy.</font> </nonSpeech><dialogue> I thanke you for your good counsels, and shall
+endeavour to embrace them.
+   </dialogue><nonSpeech> <font>Factious.</font> </nonSpeech><dialogue> And I shall acknowledge my selfe to be much
+improved by you which doth embolden me to propound
+one question more, and that is concerning the Originall,
+and the Institution of Bishops.
+   </dialogue><nonSpeech> <font>Accept.</font> </nonSpeech><dialogue> I should with much content lend eare to your 
+Conference, but see the Towne is neare, and within the
+full view of our eye; we will therefore for this day repose
+our minds as well as bodyes; and refer the discourse untill
+the Morning.
+</dialogue> <head> <foreign>FINIS.</foreign> </head>  
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

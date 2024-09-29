@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5HOGILP">
+  <dialogueHeader>
+
+    <filename>D5HOGILP</filename>
+
+    <identifier>5 HANDB OTH D5HOGILP</identifier>
+
+    <title>GARDENS</title>
+
+    <author>GILPIN WILLIAM</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1748</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">GILPIN, WILLIAM.</attribution>
+      <frontMatter>A DIALOGUE UPON THE GARDENS OF THE RIGHT HONOURABLE
+THE LORD VISCOUNT COBHAM, AT STOW IN BUCKINGHAMSHIRE.
+(...)
+LONDON:
+PRINTED FOR B. SEELEY, BOOKSELLER IN BUCKINGHAM, AND SOLD BY
+J. AND J. RIVINGTON, IN ST. PAUL'S CHURCH-YARD.
+MDCCXLVIII.
+PP. 1.1 - 22.24 SAMPLE 1
+PP. 30.9 - 47.2 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText> 
+
+<comment type="compiler">PUBLISHED ANONYMOUSLY BY WILLIAM GILPIN ACCORDING TO ESTC.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="1" />
+ <head>A DIALOGUE 
+UPON THE
+GARDENS <font>OF THE RIGHT HOUNOURABLE 
+THE</font> LORD VISCOUNT COBHAM, &amp;C.</head> 
+
+<nonSpeech>POLYPTHON was a
+Gentleman engaged in a way of Life,
+that excused him two Months in
+the Year from Business; which 
+Time he used generally to spend in visiting
+what was curious in the several Counties
+around him. As he had long promised his
+Friend <font>Callophilus</font> to pass away his 
+Vacancy, at some time or other, in 
+<font>Buckinghamshire</font> , he determined upon it this Year,
+and accordingly paid him a Visit at * * *.
+<font>Stow</font> was one of the first Places where his
+Curiosity carried him; and indeed he had
+<pagebreak id="2" />
+scarce got his Foot within the 
+Garden-door, before he broke out into the 
+following Exclamation.</nonSpeech><dialogue>
+
+   Why, here is a View that gives me a
+kind of Earnest of what my Expectation is
+raised to!
+
+   It is a very fine one indeed </dialogue><nonSpeech> (replied 
+<font>Callophilus</font> :) </nonSpeech><dialogue> I do not wonder it should
+catch your Sight: The old Ruin upon the 
+left of the Canal, the Opening to the 
+Pyramid, the View towards the House, the
+River, the beautiful Disposition of the 
+Trees on the other side of it, and that
+venerable old Temple, make a fine Variety
+of Objects. But your Eye is so taken up
+with Views at a distance, that you neglect
+something here at hand very well worth
+your notice. What do you think of these
+two Pavilions?
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Why really they are light, 
+genteel Buildings enough. I like these rough
+Paintings too; they are done in a very 
+free, masterly Manner. Pray, Sir, do you
+know the Stories?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> They are both taken from <font>Pastor
+Fido</font> ; the disconsolate Nymph there, poor
+<font>Dorinda</font> , had long been in love with 
+<pagebreak id="3" />
+<font>Sylvio</font> , a wild Hunter, of barbarous Manners,
+in whose Breast she had no reason to believe 
+she had raised an answering Passion. As
+she was roving in the Woods, she
+accidentally met his Dog, and saw her beloved
+Hunter himself at a distance hollowing, and
+running after it. She immediately calls the
+Hound to her, and hides it amongst the
+Bushes. <font>Sylvio</font> comes up to her, and
+enquires very eagerly after his Dog: The
+poor Nymph puts him off, and tries all her
+Art to inspire him with Love, but to no
+purpose; the cold Youth was quite
+insensible, and his Thoughts could admit no
+other Object but his Dog. Almost 
+despairing, she at length hopes to bribe his
+Affections, and lets him know she has his
+Dog, which she will return if he will
+promise to love her, and give her a Kiss;
+<font>Sylvio</font> is overjoyed at the Proposal, and 
+promises to give her ten thousand Kisses.
+<font>Dorinda</font> upon this brings the Dog: but
+alas! see there the Success of all her Pains:
+the Youth transported at the Sight of his
+Dog, throws his Arms round its Neck, and
+lavishes upon it those Kisses and
+Endearments, in the very Sight of the poor
+afflicted Lady, which she had been flattering
+herself would have fallen to her share. --
+On this other Wall Disdain and Love have
+taken different Sides; the Youth is warm,
+<pagebreak id="4" />
+and the Nymph is coy: Poor <font>Myrtillo</font> had
+long loved <font>Amarillis</font> ; the Lady was
+engaged to another, and rejected his Passion.
+Gladly would he only have spoke his Grief,
+but the cruel fair One absolutely forbid him
+her Presence. At length a Scheme was
+laid by <font>Corisca</font> , the young Lover's 
+Confidant, which was to gain him Admission
+into his dear <font>Amarillis's</font> Company. The
+Lady is enticed into the Fields with some
+of <font>Corisca's</font> Companions, (who were let
+into the Plot) to play at Blindman's Buff,
+where <font>Myrtillo</font> was to surprize her. See
+there he stands hesitating what use to make
+of so favourable an Opportunity, which 
+Love has put into his Hands. -- If you 
+have satisfied your Curiosity here, let us
+walk towards the Temple of <font>Venus</font> . But
+hold: we had better first go down towards
+that Wilderness, and take a View of the
+Lake.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Upon my Word here is a noble 
+Piece of Water!
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Not many Years ago I 
+remember it only a Marsh: it surprized me
+prodigiously when I first saw it floated in this
+manner with a Lake. Observe, pray, what
+a fine Effect that old Ruin has at the Head
+of it: Its Ornaments too, the Cascade,
+<pagebreak id="5" />
+the Trees and Shrubs, half concealing, and
+half discovering the ragged View, and the
+Obelisk rising beyond it, are Objects 
+happily disposed.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Yes, indeed, I think the Ruin
+a great Addition to the Beauty of the 
+Lake. There is something so vastly
+picturesque, and pleasing to the Imagination in
+such Objects, that they are a great
+Addition to every Landskip. And yet perhaps it
+would be hard to assign a reason, why we are
+more taken with Prospects of this ruinous
+kind, than with Views of Plenty and
+Prosperity in their greatest Perfection: 
+Benevolence and Good-nature, methinks, are
+more concerned in the latter kind.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Yes: but cannot you make a
+distinction between natural and moral
+Beauties? Our social Affections undoubtedly
+find their Enjoyment the most compleat
+when they contemplate, a Country 
+smiling in the midst of Plenty, where Houses
+are well-built, Plantations regular, and 
+every thing the most commodious and 
+useful. But such Regularity and Exactness
+excites no manner of Pleasure in the
+Imagination, unless they are made use of to
+contrast with something of an opposite 
+kind. The Fancy is struck by <font>Nature</font>
+<pagebreak id="6" />
+alone; and if <font>Art</font> does any thing more
+than improve her, we think she grows
+impertinent, and wish she had left off a little
+sooner. Thus a regular Building perhaps
+gives us very little pleasure; and yet a fine
+Rock, beautifully set off in <foreign>Claro-obscuro</foreign> , 
+and garnished with flourishing Bushes, Ivy,
+and dead Branches, may afford us a great
+deal; and a ragged Ruin, with venerable
+old Oaks, and Pines nodding over it, may
+perhaps please the Fancy yet more than 
+either of the other two Objects. -- Yon old
+Hermitage, situated in the midst of this
+delightful Wilderness, has an exceeding good
+Effect: it is of the romantick Kind; and
+Beauties of this sort, where a probable
+Nature is not exceeded, are generally pleasing.
+-- This Opening will lead us again into 
+the Terrace. -- That large Building <comment type="compiler">SOURCE TEXT: Bulding</comment> , the 
+Inscription lets you see, is a Temple dedicated
+to <font>Venus</font> .
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Upon my Word a Master has 
+been at work here! I cannot say I have
+met with any modern Touching, this long 
+time, that has pleased me better. I see very
+little to be cavilled at, with regard either
+to the Design, Colouring, or Drawing.
+These Stories are taken from the 
+<font>Fairy-Queen</font> I dare say; they look like <font>Spencer's</font>
+Ideas.
+<pagebreak id="7" />
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Yes: that Lady is the fair
+<font>Hellinore</font> , who having left a disagreeable
+Husband, and wandering in the Woods, was
+met by the polite Sett of Gentry she is
+dancing with: She likes their Manner of
+Life, and resolves to enjoy it with them.
+Her old Spouse <font>Malbecco</font> is inconsolable
+for his Loss: he wanders many Days in
+search of her, and at length finds her (you
+see him at a distance peeping from behind
+a Tree) revelling with a beastly Herd of
+Satyrs. When the Evening comes on, he
+follows the Company to their Retirement, 
+takes a commodious stand, and to his great
+Torment sees every thing that passes among
+them. After they were all laid asleep, he
+creeps gently to his Lady, and you see him
+in the other Painting offering to be 
+reconciled to her again, if she will return back
+with him. But <font>Hellinore</font> threatens to 
+awake the Satyrs, and get him severely
+handled if he does not immediately leave her.
+Upon which the poor Cuckold is obliged
+to fly, and soon after runs distracted.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> This loose Story, these
+luxurious Couches, and the Embellishments
+round the Walls, give the Place quite a 
+<font>Cyprian</font> Air, and make it a very proper Retreat
+for its incontinent Inhabitant upon the
+<pagebreak id="8" />
+Roof. -- But let us move forward towards
+yon cubico-pyramidical Building. It looks
+like a mighty substantial one: I fancy it is
+Sir <font>John's</font> ; he is generally pretty liberal of
+his Stone. However, it terminates this
+Terrace extremely well: the Ascent up to
+it too has a good Effect. -- Pray, do you
+know what that Field there, upon the right, 
+is to be improved into?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I am surprized the Beauty of it,
+in its present Form, does not strike you at
+first sight. It is designed, like a Glass of
+Bitters before Dinner, to quicken your
+Appetite for the elegant Entertainment that
+is to follow. For my part, I assure you,
+I find it a very great Relief to my Eye, to
+take it from these grand Objects, and cast it
+for a few Minutes upon such a rural Scene
+as this. Do not you think that Haycock
+contrasts extremely well with this Temple?
+Such Oppositions, in my Opinion, are
+highly pleasing. -- That Building there is
+called, <font>The Belvidere</font> . Whatever you may 
+think of it, from this Stand, it has its Use,
+I assure you, in several Prospects in the
+Gardens. -- There is a very good Copy of
+the <font>Roman</font> Boxers.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I like its Situation extreamly:
+it terminates these Alleys, and that Opening
+<pagebreak id="9" />
+from the Terrace, very beautifully; much
+better, I think, than the fighting 
+Gladiator, and <font>Sampson</font> killing the <font>Philistine</font> ,
+do that other vast Terrace; the Objects
+there, in my Opinion, are too small for
+the Distance: Here both are justly 
+proportioned.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Your Criticism, I think, is 
+rather too refined: I cannot see what occasion
+there is always for a confined View; a more
+open one sometimes makes Variety.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> You mistake me: I am not
+against a Prospect's being bounded even by
+the blue Hills in the Country. All I mean
+is this, that where Objects are set up to 
+terminate a View, they ought to be of such a
+Nature as to afford Pleasure at any Distance 
+they are designed to be viewed from. These
+Statues I have been mentioning, are 
+Objects so small, that at one end of the 
+Terrace it is impossible to make out what is
+offered you at the other. -- I have too
+much Envy in my Temper, you must know,
+to bear to see any thing perfect; and I came
+in here fully determined to cavil, if I saw
+the least Grounds. But this is a sad Place,
+I find, for a malicious Spirit to enter: He
+whose chief <font>Entertainment</font> is finding fault,
+will here meet with a very slender <font>Repast</font> :
+<pagebreak id="10" />
+As the Devil did at Sight of the Creation,
+in spite of Envy he must cry out,
+
+<comment type="compiler">10 LINES OF VERSE OMITTED.</comment>
+
+But what have we got here?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> This is the Building we took
+notice of from the Temple of <font>Venus</font> . I 
+know you are no Friend to a cloathed
+Statue; so I question whether you will meet
+with any thing here to your Taste.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> There is something extremely
+grand and noble, I have always thought, in
+several of the old cloathed Statues, and
+particularly in some of the <font>Roman</font> consular
+ones; yet I must confess I am always better 
+pleased when I find them without their
+Finery. Marble, tho' admirably fitted to 
+express the Roundness of a Muscle, very
+often fails when it attempts to give you the
+<pagebreak id="11" />
+Folds of Drapery. The Ancients, it must
+be owned, even in their Draperies are often
+successful; but amongst our modern
+Attempts in this Way, how many horrid Pieces
+of Rock-work have I beheld!
+
+<comment type="compiler">2 LINES OF LATIN OMITTED.</comment>
+
+<font>Michael Angelo</font> , whenever he found
+himself obliged to cloath his Statues, used to do
+it with wet Linnen; which is 
+unquestionably the most advantageous kind of
+Cloathing for a Statue.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Since you are not to be pleased
+here, let us pass on to something else. There
+is no Occasion to turn down to that
+Pyramid; it is an Object not designed to be
+viewed at a Yard's Distance; but you will
+see its Use by and by, in a Variety of 
+beautiful Views: Let us pursue our Walk along
+this Terrace.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Why here we entirely lose
+sight of the Garden; our elegant Prospects 
+are all vanished: I cannot conceive what
+this impertinent Hedge does here.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Did you never experience in a 
+Concert vast Pleasure when the whole Band
+<pagebreak id="12" />
+for a few Moments made a full Pause? The Case
+is parallel: You have already had a great many
+fine Views, and that you may not be cloyed,
+this Hedge steps in to keep your Attention
+awake. One Extreme recommends 
+another: The Moralists observe, that a
+little Adversity quickens our Relish for the 
+Enjoyment of Life; and it is the Man of
+Taste's Care not to distribute his Beauties
+with too profuse a Hand, for a Reason of
+the same kind.
+
+   <font>Let not each Beauty every where be spy'd,
+   Where half the Skill is decently to hide.</font>
+
+But if you must have something to look at,
+the Park there upon your left Hand affords
+you some very fine Views. I like that
+Equestrian Statue extremely: It is, in my Opinion,
+a very beautiful Circumstance. What a
+Number of fine Vistas it terminates thro' the
+Trees, varying its Appearance in each of 
+them. -- There you have a charming View
+struck out towards the Temple of Ancient
+Virtue.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Methinks that Statue of the 
+Faun stands a little aukwardly: He might
+at least, I should think, have fixed himself
+in the Middle of the Semi-circle.
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> You do not certainly attend to
+his Use: He stands there to receive the Eye
+placed at the other End of that Opening. --
+That elegant little Building I think they call
+<font>Nelson's</font> Seat.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> The Painting is done masterly
+enough: The Inscriptions, I see, explain the
+Designs. Those Boys fixing the Trophies
+are prettily imagined. From hence that
+round Building terminates the View
+extremely well. Let us walk to it.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Hold -- turn to the Right a 
+little: We must first pay a Visit here to the
+Temple of <font>Bacchus</font> .
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> We have had a pretty long
+Walk, suppose we sit down here a
+Moment: These Walls seem to promise us
+some Entertainment.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Here, Sir, you see represented
+the Triumphs and Happiness of 
+Drunkenness. Those musical Ladies too are not
+improper Companions to this
+mirthfully-disposed Deity.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Some of those smaller Figures 
+are really done extremely well: And those 
+two Vases are delightfully touched. I 
+<pagebreak id="14" />
+cannot say I am so much pleased with the jolly
+Inhabitant: Even <font>Bacchus</font> himself certainly
+never made so enormous a Figure.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I am admiring the fine View
+from hence: So great a Variety of beautiful
+Objects, and all so happily disposed, make
+a most delightful Picture. Don't you think
+this Building too is a very genteel one, and
+is extremely well situated? These Trees give
+it an agreeable, cool Air, and make it, I
+think, as elegant a Retreat for the 
+Enjoyment of a Summer's Evening, as can well
+be imagined. -- But it is mere trifling to sit
+here: Let us walk towards the Rotunda. --
+This little Alley will carry us to <font>Dido's</font>
+Cave.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> <font>Dido's</font> Cave! why 'tis built
+of hewn Stone! Here she is however, and
+her <font>pious</font> Companion along with her.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Those two Cupids joining their
+Torches, I never see but I admire extremely:
+they are very finely painted.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I think they are indeed. But 
+let us be a little complaisant, and not
+interrupt these kind Lovers too long. I want
+to see this Rotunda.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> There then you have it: I hope
+you cannot complain of an heavy Building
+here. I do not know any Piece of 
+Stone-work in the whole Garden that shews itself
+to more Advantage than this does, or makes
+a more beautiful Figure in a Variety of fine
+Views from several Parts of the Garden:
+Several Parts of the Garden likewise return
+the Compliment, by offering a great many
+very elegant Prospects to it. There you
+have an Opening laid out with all the
+Decorations of Art; a spacious Theatre; the
+Area floated by a Canal, and peopled with
+Swans and Wild-ducks: Her late Majesty is
+the principal Figure in the Scene, and around
+her a merry Company of Nymphs and
+Swains enjoying themselves in the Shade.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I must confess I cannot very
+much admire --
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Come; none of your Cavils. --
+Observe how this View is beautifully 
+contrasted by one on the opposite Side of a
+different kind; in which we are almost solely
+obliged to Nature. You must know I look
+upon this as a very noble Prospect! The
+Field is formed by that Semi-circle of Trees
+into a very grand Theatre. The Point of
+Sight is centred in a beautiful manner by the
+Pyramid, which appears to great Advantage
+<pagebreak id="16" />
+amongst those venerable Oaks: Two or
+three other Buildings, half hid amongst the
+Trees, come in for their Share in the
+Prospect, and add much to the Beauty of it.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I agree with you entirely; nor
+do I think this other View inferior to it.
+That Variety of different Shades amongst
+the Trees; the Lake spread so elegantly
+amongst them, and glittering here and there
+thro' the Bushes, with the Temple of <font>Venus</font>
+as a Termination to the View, make up a
+very beautiful Landskip.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Here is a Vista likewise very
+happily terminated by the Canal, and the
+Obelisk rising in the Midst of it. There is
+another close View likewise towards 
+<font>Nelson's</font> Seat.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Upon my Word, we have a
+Variety of very elegant Prospects centred in
+this Point. I could sit here very agreeably 
+a little longer.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Nay, if you are inclined to rest,
+come along with me: I'll carry you to where
+you may indulge your Humour with great
+Propriety. Deep in the Retirement of that 
+Wood, the God of Sleep has reared his
+Habitation, where he will afford you every
+<pagebreak id="17" />
+Convenience to make a Nap agreeable --
+It comes into my Head that I forgot to 
+carry you to a little Place, which it is hardly 
+worth while to travel back to from this
+Distance: It is called <font>St. Austin's</font> Cave,
+and answers its Title very well; it appears
+quite Cell-like, stands retired, and is made
+of no other Materials but Roots and Moss.
+In the Inside a Straw Couch offers you an 
+hard Seat, and the Walls three humorous
+Inscriptions, in Monkish Verse. You may
+buy them, bound up with Copies of all the
+other Inscriptions, in a Six-penny Pamphlet,
+that will be offered us at the Inn. --
+There, Sir, is the Temple of Sleep.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Why really I must confess <font>Ovid</font>
+himself could scarce have buried the senseless
+God in an happier Retirement. This gloomy
+Darkness, these easy Couches, and that
+excellent <font>Epicurean</font> Argument above the
+Door, would incline me wonderfully to 
+indulge a little, if these beautiful Ornaments 
+did not keep my Attention awake. There
+is wanting too a purling Stream, to sing a
+Requiem to the Senses; tho' the Want is 
+in some measure made up by the drowsy
+Lullibies of that murmuring Swarm, which
+this Shade has invited to wanton beneath
+it. You would laugh at me, or I should
+certainly throw myself down upon one of
+<pagebreak id="18" />
+these Couches; I am persuaded I should
+need no Opium to close my Eyes.
+
+ </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I own sleeping is a Compliment
+as much due to this Place, as Admiration
+and Attention are to <font>Raphael</font> at 
+<font>Hampton-Court</font> . But try if your Curiosity cannot
+keep you awake. Come, leave these drowsy
+Abodes, they are infectious; like luscious
+Food they will blunt your Appetite before
+the Entertainment is half over. Walk down
+that Alley, and pop your Head into the
+first Door you come to.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> What the D---l have we got 
+here? What wretched Scrawler has been
+at work upon these Walls?
+
+    </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I assure you, Sir, I look upon 
+this as a very great Master-piece. You must
+know this House is inhabited by a 
+Necromancer; and that Inscription lets you see
+the Hand that has been employed to paint it.
+The Composition, Drawing, and Pencilling,
+I can allow you, are not the most elegant;
+yet if the Design and Figures are the Artist's
+own, I can assure you he has shewn 
+excellent Humour, and an exceeding good
+Invention. That Consultation is well 
+imagined; and so are these Witches and Wizards;
+their Employments likewise, their Forms
+<pagebreak id="19" />
+and Attitudes are well varied. -- But 
+I see this is a Scene not suited to your Taste:
+Our next, I hope, will please you better.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Pray, what Building is that
+before us? I cannot say I dislike the Taste it
+is designed in. It seems an Antique.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> It is the Temple, Sir, of
+Ancient Virtue; the Place I am now
+conducting you to. You will meet within it a very 
+illustrious Assembly of great Men; the wisest
+Lawgiver, the best Philosopher, the most
+divine Poet, and the most able Captain, that
+perhaps ever lived.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> You may possibly, Sir, engage
+yourself in a Dispute, by fixing your Epithets
+in such an absolute manner; there are so
+many Competitors in each of these Ways, 
+that altho' Numbers may be called truly
+eminent, it will be a difficult matter to fix
+Pre-eminence upon any.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> You will hardly, I fancy, dissent
+from me, when I introduce you to these
+great Heroes of Antiquity: There stands
+<font>Lycurgus</font> ; there <font>Socrates</font> ; there <font>Homer</font> ;
+and there <font>Epaminondas</font> . Illustrious Chiefs,
+who made Virtue their only Pursuit, and
+the Welfare of Mankind their only Study;
+<pagebreak id="20" />
+in whose Breasts mean Self-interest had no
+Possession. To establish a well-regulated
+Constitution; to dictate the soundest 
+Morality, to place Virtue in the most amiable
+Light; and bravely to defend a People's 
+Liberty, were Ends which neither the 
+Difficulty in overcoming the Prejudices, and
+taming the savage Manners of a barbarous
+State; the Corruptions of a licentious Age,
+and the Ill-usage of an invidious City; 
+neither the vast Pains of searching into Nature,
+and laying up a Stock of Knowledge 
+sufficient to produce the noblest Work of Art;
+nor popular Tumults at Home, and the
+most threatning Dangers Abroad, could
+ever tempt them to lose Sight of, or in the
+least abate that Ardency of Temper with
+which they pursued them.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> A noble Panegyric upon my
+Word! why, Sir, these great Spirits have
+inspired you with the very Soul of Oratory.
+However, in earnest, I confess your
+Encomium is pretty just; and I am apt to
+believe that if any of those worthy Gentlemen
+should take it into his Head to walk from 
+his Nitch, it would puzzle the World to 
+find his Equal to fix in his Room. --
+That old Ruin, I suppose, is intended to
+contrast with this new Building.
+<pagebreak id="21" />
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Yes, Sir, it is intended to 
+contrast with it not only in the Landskip, but
+likewise in its Name and Design. Walk
+a little nearer, and you will see its
+Intention.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I can see nothing here to let 
+me into its Design, except this old 
+Gentleman; neither can I find any thing 
+extraordinary in him, except that he has met with
+a Fate that he is entirely deserving of,
+which is more than falls to the Share of
+every worthless Fellow.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Have you observed how the 
+Statue is decorated?
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> O! I see the whole Design: A
+very elegant Piece of Satyr, upon my Word!
+This pompous Edifice is intended, I suppose,
+to represent the flourishing Condition, in
+which ancient Virtue still exists; and those 
+poor shattered Remains of what has never
+been very beautiful (notwithstanding, I see,
+they are placed within a few Yards of a 
+Parish-church) are designed to let us see the
+ruinous State of decayed modern Virtue.
+And the Moral is, that Glory founded 
+upon true Worth and Honour, will exist, when
+Fame, built upon Conquest and popular
+Applause, will fade away. This is really the
+<pagebreak id="22" />
+best thing I have seen: I am most 
+prodigiously taken with it.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I intend next to carry you to a
+Scene of another kind. I am going to shew 
+you the Grotto, a Place generally very
+taking with Strangers. -- I thought that 
+Piece of Satyr would catch your Attention:
+I hope likewise you will be as well pleased
+here. This Gate will carry us into the
+romantic Retirement. What do you think
+of this Scene?
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Why really, Sir, it is quite a
+Novelty: This Profusion of Mirrors has a
+very extraordinary Effect: The Place seems
+divided into a thousand beautiful 
+Apartments, and appears fifty times as large as 
+it is. The Prospects without are likewise
+transferred to the Walls within: And the
+Sides of the Room are elegantly adorned
+with Landskips, beyond the Pencil of <font>Titian</font> ;
+with this farther Advantage, that every View,
+as you change your Situation, varies itself
+into another Form, and presents you with 
+something new.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="30" />
+   <nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> What an happy Man you are,
+thus to find an Opportunity of moralizing
+upon every Occasion! What a noble View
+you have displayed before me; when 
+perhaps if I had been alone, I should have
+entertained myself no otherwise than in
+examining the Busts; or if I read the
+Inscriptions, they would only have drawn a 
+Remark from me, that they were well wrote. --
+The Assembly yonder on the opposite Side 
+of the Water, will be, I suppose, the next
+Subject for your Rapsody. Pray what
+Titles are those Gentry distinguished by?
+At this Distance I can hardly find out whether
+they are Philosophers or Milk-maids.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why, Sir, you have there a
+View of the Kingdom of <font>Parnassus</font> : That 
+Assembly is composed of <font>Apollo</font> , and his
+Privy-council. But as I believe they will
+hardly pay us, by any Beauty in their
+Workmanship, for our Trouble, should we go
+round and make them a Visit; it is my
+<pagebreak id="31" />
+Advice that we walk directly from hence to
+the Temple of Friendship, and so return by
+that Terrace back again to those Parts of
+the Garden that remain yet unseen.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> With all my Heart: But let
+us turn in here, I beseech you, and walk
+as much in the Shade as possible, for the
+Day grows vastly warm.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I am ready to follow you amongst
+the Trees, not more out of Complaisance
+than Inclination: I like a cool Retreat as
+well as you. When I plan a Garden, I 
+believe, I shall deal much in shady Walks;
+wherever I open a grand Terrace, I intend
+to lengthen out by its Side a close Vista:
+through the one I shall lead Strangers, in
+the other enjoy my Friends. I am a great
+Admirer of walking in a Shade; it is a kind
+of Emblem of the most agreeable Situation
+in Life, the retired one: Every fantastic View
+is hid from us, and we may if we please, be
+Poets, or Philosophers, or what we will.
+I own I admire the Taste of these buzzing
+Insects, sporting themselves in the Shade; a
+glaring Sun-shine neither in the World, nor
+in a Walk, is agreeable to my Way of thinking.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> If all the World thought as you
+do, we should have neither Statesmen to
+<pagebreak id="32" />
+mend our Laws, nor Coblers to mend our
+Shoes: We should all run and hide
+ourselves amongst Trees, and what then would 
+become of Society?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> If I thought you did not
+willfully mistake my Meaning, I would take the
+Trouble of telling you that I am an 
+Advocate for no other <font>Retirement</font> than such as
+is consistent with the Duties of Life. A
+Love for which kind of Retirement, <font>properly
+qualified</font> , is <font>Health</font> to the Mind; but
+when it is <font>made up</font> unskillfully, it throws
+us into a <font>fatal Lethargy</font> , from whence 
+begins the Date of an useless Life. Every
+virtuous Mind, in a greater or a less Degree,
+has a turn this Way, and the <font>best</font> , I believe, 
+ought to be at the <font>most</font> Pains to guard 
+against carrying this Inclination into the
+Extreme.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> And yet the Annals of most
+Nations let us see that their greatest Men
+have often indulged it; and much for the 
+Benefit of Mankind too; witness many of
+the illustrious Worthies we have just been
+visiting: You forget the Panegyric you
+bestowed upon them.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> No, Sir: But do you
+remember that I placed these cool Reasoners on
+<pagebreak id="33" />
+the best Side of a Comparison with those who
+entred into the World, and spent their Lives
+in Action? On the contrary, this latter kind
+of Men have always stood fairest in my
+Esteem. The Life of a Recluse I would
+recommend to none but a Valetudinarian. We
+were intended to assist each other as much
+as we are able. For my Part, it has always
+been my Opinion, that <font>one good Man</font> does 
+more Service in the World, than <font>a thousand 
+good Books</font> . -- But we'll drop our 
+Argument at present, because I see we have
+finished our Walk.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Is that Building the Temple of
+Friendship? I cannot say that I extremely 
+admire it: But I hope I shall meet with more
+Entertainment within, than I am able to do 
+without. -- Well: This is elegant I
+must confess.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Ay, look round, and tell me if
+you are not struck by several very beautiful
+Objects. Those Busts I assure you are <font>all</font>
+pretty well done, and <font>some</font> of them
+extremely well.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> So they are indeed: But I am 
+chiefly intent upon the Painting, which I
+am much taken with: It is by the same
+Hand, I dare say, with that in the Temple
+<pagebreak id="34" />
+of <font>Venus</font> . That Emblem of Friendship
+above the Door, those of Justice and Liberty,
+and those other Ornaments upon the Walls, 
+are well touched. What is that Painting
+upon the Cieling? I do not rightly 
+understand it.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why, Sir, it is a Piece of
+Satyr: I am sure you will like it if you will
+give yourself the Trouble to examine it:
+It is in your Taste I know exactly. --
+There you see sits <font>Britannia</font> ; upon one
+Side are held the Glory of her Annals, the
+Reigns of Queen <font>Elizabeth</font> and <font>Edward</font> III.
+and on the other is offered the Reign of
+--, which she frowns upon, and puts
+by with her Hand.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Excellent, upon my Word! 
+Faith, this is good! Never accept it, honest
+Lady, till Corruption is at an End, and
+public Spirit revives.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> With so little Malevolence as
+I know you are possessed of, I do not think
+I ever met with any body in my Life so
+eager to catch at any thing to blame; or
+to whom an Opportunity of that kind 
+afforded a more seeming real Pleasure than
+it does to you. -- But I know it
+proceeds from an honest Nature. -- Well:
+Suppose we continue our Walk. -- I look
+<pagebreak id="35" />
+upon that Statue as one of the finest in the
+World: I would give all the Money in my
+Pocket for a Sight of the Original.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> The Posture always to me 
+appears a little too much strained. I can scarce
+throw myself into such an Attitude. Yet
+it is fine I must confess.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> You have the best View of it, 
+Sir, from hence. Most of the Engravings
+I have met with give us the back View, but
+I think the Statue appears infinitely to the 
+best Advantage when taken in Front. The
+Air of the Head is delightful, and cannot
+be hid without depriving the Figure of half
+its Life. -- I am leading you now to that 
+genteel Piece of Building which goes by 
+the Name of the Palladian Bridge.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I have seen, I think, something
+like it at my Lord <font>Pembroke's</font> .
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I believe, Sir, the Model was
+taken from thence. Tho' if I remember
+right, the Roof is there supported by
+Pillars on both Sides.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I think it is. -- But what have
+we got there? You are taking me past
+something curious. 
+<pagebreak id="36" />
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I beg your Pardon: Indeed I
+had almost forgot the Imperial Closet: And
+I wonder I should, for I assure you I have
+the greatest Veneration for its Inhabitants. --
+There, Sir, is a noble Triumvirate. <font>Titus</font> ,
+<font>Trajan</font> , and <font>Aurelius</font> , are Names which 
+want not the Pomp of Title to add a
+Lustre to them.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I wish you could persuade all 
+the Kings in <font>Europe</font> to take them as
+Patterns. But, God knows, public Spirit is 
+now at a low Ebb amongst us: There is
+more of it in that single honest Sentiment,
+<font> <foreign>Pro me: si merear, in me</foreign> </font> , than I believe
+is to be found in this degenerate Age in
+half a Kingdom.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> I see, my good Friend, you can
+moralize upon Occasion too.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Moralize! The D---l take me, 
+if I would not this Moment, in spite of --
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Nay, come, don't grow serious:
+You know I have long since laid it down as
+a Rule, to stop my Ears when you get into
+your political Vein. I am not now to learn
+that there is no keeping you within the
+Bounds of Temperance upon that Topic.
+<pagebreak id="37" />
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Well then, let us have 
+something else to talk about. -- Yon Wall
+at this Distance seems to promise us some 
+Bass-relief.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Yes, Sir; you are there
+presented with a View of the different Quarters 
+of the World, bringing their various 
+Products to <font>Britannia</font> . It is a pretty
+Ornament enough for a Bridge, which, like the
+Art of Navigation, joins one Land to 
+another.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I can't say I much admire the
+Workmanship. There is a great Degree of
+Aukwardness in several of the Figures.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why really I am so far of your
+way of thinking, that I must own I am no
+great Admirer of this kind of Work, except 
+it be extremely fine. -- The best thing
+in this Way, that ever I met with, is a Piece
+of Alt-relief which his Lordship keeps
+within Doors. We shall scarce, I believe have
+time now, but we must take an 
+Opportunity of seeing it before you leave the
+Country. You will meet with likewise in those
+Apartments several very good Pictures: I
+remember spending an Afternoon about half 
+a Year ago, in a very agreeable Manner
+amongst them. But this Piece of Alt-relief
+<pagebreak id="38" />
+struck me beyond every thing. The Story
+is <font>Darius's</font> Tent; and it is so charmingly 
+told, that I have had, I can tell you, a 
+meaner Opinion of <font>Le Brun</font> upon that
+Subject, ever since I have seen it: The
+Composition is so just, the Figures so
+graceful and correct, nay, the very Drapery so
+free and easy, that I declare I was altogether 
+astonished at the Sight of it.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Well; I shall find some
+Opportunity of paying it a Visit. There is so
+much Art required, and so much Difficulty
+attends doing any thing in this Way as it
+ought to be, that when we do meet with a 
+good Piece of Workmanship of this kind,
+it affords us an extreme Pleasure. --
+So, Sir <font>William</font> , have I met you here! I
+should rather have expected to have seen
+you among the <font>British</font> Worthies. --
+This same <font>Penn</font> , Sir, I assure you, is a great
+Favourite of mine. I esteem him one of 
+the most worthy Legislators upon Record.
+His Laws, I am told, act still with great
+Force in <font>Pensylvania</font> , and keep the honest,
+inoffensive People there in extreme good 
+Order.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Our Sailors mention his Colony 
+as a very happy Set of People; they live
+entirely at Peace amongst themselves; and
+<pagebreak id="39" />
+(bred up in a strict Observance of Probity)
+without any Knowledge of an Art Military
+amongst them, are able to preserve the most
+sociable Terms with their Neighbours. --
+These Busts seem to have escaped your
+Observation.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> No, Sir, I am not so 
+incurious as to suffer any thing that has been in
+<font>Italy</font> to slip my Notice: Some of those
+particularly that stand on the Side next 
+<font>Rawleigh</font> , I was exceedingly taken with.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Pray what is your Opinion of
+checquered Marble's being made use of in
+Busts?
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Why, Sir, I never see any of
+these party-coloured Faces, but I am moved
+with Indignation at the Sculptor's ridiculous
+Humour. It is so absurd a Taste, that I
+cannot conceive how it should ever enter
+into a Workman's Head, to make every
+Feature of a Man's Face of a different Colour;
+and it amazes me, I assure you, that we meet
+with daily so many Instances of such 
+Absurdity. -- In several Parts of the
+Garden, I have had various Views of that old
+<font>Gothic</font> Building; we are now at last I hope
+moving towards it. I am so wonderfully 
+pleased with its outward Appearance, that
+<pagebreak id="40" />
+I shall be disappointed if I don't meet
+something answerable within.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why, Sir, as old as it looks, I 
+assure you it is not yet finished. You will meet
+with nothing ornamental in the Inside; so
+I would have you persuade yourself it has
+already done all in its Power to entertain you.
+And upon my Word I think it has done a
+great deal: Without it, I am sure this Part
+of the Garden would be quite naked and
+lifeless; nor would any other Part appear
+with so much Beauty. It puts one in Mind
+of some generous Patriot in his Retirement;
+his own Neighbourhood feels most the
+Effects of that Bounty, which in some
+measure spreads itself over a whole Country.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I like this Disposition within,
+I assure you, altogether as well as its Form
+without. -- There are two or three 
+Pieces of the best painted Glass that I have
+any where met with: Those little historical
+Pieces are exceedingly beautiful; and so are
+those Landskips likewise. -- This Hill
+I think appears rather too naked.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Throw your Eye over it then,
+and tell me if you are not ravished with the
+View before you. Nothing certainly in 
+the kind can be more beautiful or great
+<pagebreak id="41" />
+than that pompous Pile rising in so 
+magnificent a manner above the Wood. The
+Building cannot possibly be shewn to greater
+Advantage: The Appearance it <font>makes</font> 
+presents you with an Idea sufficiently grand;
+yet your Imagination cannot be persuaded
+but that it is in fact much grander, and that
+the Wood hides a great Part of what is to
+be seen from your Eye. This is a most
+delightful manner of pleasing: A grand Object
+left to a good Imagination to improve
+upon, seldom loses by its Assistance. Our
+View likewise is greatly added to in point
+of Beauty, by those several other smaller
+Buildings which offer themselves, some
+only half hid amongst the Branches, and 
+others just peeping from amongst tufted
+Trees, which make very beautiful little
+garnished Dishes in this most elegant 
+Entertainment.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> As you have thus painted the
+near Objects, let my Pencil, I beg, come
+in for a few rough Touches in the
+backgrounds: Without something of an Offskip,
+your Man of Art, you know, seldom esteems
+his View perfect. And in this Landskip
+there are as many beautiful Objects thrown
+off to a Distance as can well be imagined:
+That Variety of fine Wood; that bright
+Surface of Water, with the pointed Obelisk 
+<pagebreak id="42" />
+in the Midst of it; those two Pavilions
+upon the Banks of the Canal; and the still
+more distant View into the Country, are
+Objects which, in my Opinion, make no
+small Addition to the Beauty of your
+Landskip; or, to carry on your Allusion, may
+very well come in as a second Course in
+your Entertainment. -- Our Attention, 
+I think, in the next Place, is demanded by
+this venerable Assembly. That old
+Gentleman there sits with great Dignity: I like
+his Attitude extremely: If I understood the 
+<font>Runic</font> Character, I might have known 
+probably (for this Inscription I fancy would
+inform me) by what Title he is distinguished.
+But the Gracefulness of his Posture discovers
+him to have been nothing less than an Hero
+of the first Rank. He puts me in Mind of
+a <font>Roman</font> Senator, sitting in his Curule Chair 
+to receive the <font>Gauls</font> .
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why, Sir, you have done him
+great Honour I must own; but you have
+not yet honoured him according to his 
+Dignity: He is nothing less, Sir, I assure you,
+than the Representative of a <font>Saxon</font> Deity.
+You see here
+
+   Thor <font>and</font> Woden <font>fabled Gods</font> --
+
+with the whole System of your Ancestor's 
+<pagebreak id="43" />
+Theology. Walk round the Assembly, they
+will smile upon a true <font>Briton</font> , and try if
+you can acknowledge each by his distinct
+Symbol.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I must confess they do not to
+me seem accoutered like Gods: For my 
+Part, I should rather suspect them to be
+Statues of Heroes and Lawgivers, 
+metamorphised into Divinities by the Courtesy
+of the Place: I shall not however go about
+to dispute their Titles; but like my good
+Ancestors before me, acquiesce piously in
+what other People tell me. -- Tho' I
+cannot say but that Lady there, bearing the
+Sun (who represents I suppose <font>Sunday</font> ) looks
+whimsical enough; and makes just such an
+Appearance as I could imagine the misted 
+Conception of an enthusiastic <font>Saxon</font> might
+mould his Deities into. But in these other
+Figures I must own I cannot see Superstition
+at all characterized, which you may observe
+generally forms its Objects of Worship into
+the most mis-created things that can possibly
+enter the Imagination of Man.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why, Sir, amongst the <font>Greeks</font>
+and <font>Romans</font> , you may observe several very 
+well-shaped Deities: The <font>Hercules</font> , the
+<font>Apollo</font> , and the <font>Venus</font> , are at this Day
+Standards of Beauty.
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Yes; but I am apt to attribute
+this rather to the Imagination of their 
+Sculptors, than their Priests. To <font>shew Art</font> , 
+rather than to <font>express Religion</font> , was the Point
+aimed at in these enchanting Pieces of 
+Workmanship. -- But when Superstition acted
+without Controul; when the fantastic 
+Notions of Priests were put into the Hands of
+ordinary Workmen, even amongst the
+polite <font>Greeks</font> and <font>Romans</font> themselves, Lord!
+what misshapen Monsters crouded into
+Temples, and reared themselves aloft above
+Altars! Search other Countries likewise,
+<font>Egypt</font> and <font>Africa, China</font> and <font>Japan</font> , or
+any Place either ancient or modern, where
+Superstition prevails, and I dare engage in
+the whole Catalogue of their Deities you
+will scarce meet with one that bears any
+thing like the human Shape.
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> Why their Demi-Gods, or 
+canonized Heroes, of which all pagan Nations
+had Abundance, were generally I fancy
+represented in the human Form. And these
+<font>Saxon</font> Divinities, I suppose, pretend not to
+any superior Rank. -- But however, as no
+Degree of Veneration is exacted from you,
+you may I think let them rest quietly upon
+their Pedestals, without any farther
+Molestation. -- We have a good View into the
+Country from hence. Those Woods are
+<pagebreak id="45" />
+extremely elegant in their kind; we must
+certainly contrive to take a Ride thither
+some Evening. They are laid out in a very
+fine Manner, and cut into very beautiful
+Ridings.
+
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> Ay, that is the kind of
+Improvement that takes most with me (let us step in
+here a Moment, we are caught I see in a
+Shower) I am altogether of the Poet's 
+Opinion, that
+
+   <font>'Tis</font> Use <font>alone that sanctifies Expence</font> .
+
+Were I a Nobleman, I should endeavour to 
+turn my Estate into a Garden, and make my 
+Tenants my Gardiners: Instead of useless
+Temples, I would build Farm-houses; and
+instead of cutting out unmeaning Vistas, I
+would beautify and mend Highways: The 
+Country should smile upon my Labours, and
+the Public should partake in my Pleasures.
+What signifies all this ostentatious Work?
+Is any Man the better for it? Is it not Money
+most vilely squandered away?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> So far from it, that I assure you,
+considered even in a public Light, I look
+upon it as an Expence that may very
+properly be said to be sanctified by <font>Use</font> .
+<pagebreak id="46" />
+   </dialogue><nonSpeech> <font>Polypth.</font> </nonSpeech><dialogue> I suppose you are going to tell 
+me that it feeds two or three poor
+Labourers; and when you have said this, I know
+not what more you can say to defend it.
+But how is it possible for a Man to throw
+away his Money without doing some
+Service in the World?
+
+   </dialogue><nonSpeech> <font>Calloph.</font> </nonSpeech><dialogue> How? Why by spending it in
+gaming, to the Encouragement of Cheats
+and Sharpers: By squandering it away upon
+Lusts and Appetites, in the Support of Stews
+and Bawdy-houses: Or by Dealing it out
+in Bribes, in opposition to Honesty, and to
+advance Corruption. In Arts like these,
+what Numbers consume their Wealth! It is
+not enough for them to prevent Mankind's 
+being benefited by their affluent 
+Circumstances; but they do their utmost, while they
+diminish their Fortunes, to make all they
+can influence as worthless as themselves.
+So that I assure you I should look upon it
+as a very great Point gained, if all our Men
+of Fortune would only take care that their
+Wealth proves of no Disservice to Mankind.
+Tho' I am far from desiring they should stop 
+there: I would have them endeavour to turn
+it into some useful Channel. And in my
+Opinion, it is laid out in a very laudable 
+Manner, when it is spent, as it is here, in
+circulating thro' a Variety of Trades, in
+<pagebreak id="47" />
+supporting a Number of poor Families, and in
+the Encouragement of Art and Industry.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

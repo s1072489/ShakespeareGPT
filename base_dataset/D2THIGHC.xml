@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2THIGHC">
+  <dialogueHeader>
+
+    <filename>D2THIGHC</filename>
+
+    <identifier>2 TRIAL D2THIGHC</identifier>
+
+    <title>HIGH COMMISSION</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1632/1886</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">GARDINER, SAMUEL RAWSON.</attribution>
+      <frontMatter>REPORTS OF CASES IN THE COURTS OF STAR CHAMBER AND HIGH 
+COMMISSION. 
+EDITED BY SAMUEL RAWSON GARDINER, LL.D.
+PRINTED FOR THE CAMDEN SOCIETY.
+NEW SERIES XXXIX.
+WESTMINSTER: PRINTED BY NICHOLS AND SONS, 25, PARLIAMENT STREET.
+M.DCCC.LXXXVI.
+PP. 278.26 - 286.6  SAMPLE 1
+PP. 292.4 - 297.30  SAMPLE 2
+PP. 300.1 - 302.29  SAMPLE 3
+PP. 306.4 - 310.5   SAMPLE 4
+PP. 313.4 - 315.27  SAMPLE 5
+PP. 316.23 - 322.2  SAMPLE 6
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="278" />
+ <head>IN THE COURT OF HIGH COMMISSION, 3 MAIJ, 1632.</head> 
+
+   <nonSpeech>This day were brought to the Court out of prison divers persons
+(and some of them appeared by bond) which were taken on Sunday
+last at a Conventicle mett at the house of       Barnett, a brewer's
+<pagebreak id="279" />
+clarke, dwellinge in the precinct of Black Fryars: by name, John
+Latroppe their minister, Humphrey Bernard, Henry Dod, Samuell
+Eaton <emendation>William</emendation> Granger, Sara Jones, Sara Jacob, Pennina Howse,
+Sara Barbon, Susan Wilson; and divers other there were which
+appeared not this day. M=r= Latropp the Minister did not appeare at
+the first, but kept himself out of the way a while, therefore the man
+of the howse wherein they were taken was first called: who was
+asked when he was at his parish church? He answered that he
+was then at his parish church when they were in his house, and
+that he useth to goe to church, but his wife will not. Then said
+THE ARCHBISHOP OF YORK,</nonSpeech><dialogue> &quot;Will you suffer that in your wife?&quot;
+</dialogue><nonSpeech>Then said THE KING'S ADVOCATE</nonSpeech><dialogue> &quot;These persons were assembled
+on Sunday last at this man's house in Black Fryars and there
+unlawfullie held a Conventicle, for which there are Articles         
+exhibited
+in this Court against them; I pray that they may be put to answere
+uppon their oathes to the Articles, and that they sett forth what
+exercises they used, and what were the words spoken by them.&quot;
+&quot;And as for you, M=r= Dod, </dialogue><nonSpeech> (quoth THE ADVOCATE) </nonSpeech><dialogue> &quot;you might
+well have forborne, seing you have been warned heeretofore, and
+passed by upon promise of amendment.&quot; &quot;Good M=r= Advocate,
+spare that,&quot; </dialogue><nonSpeech>saith DOD. He was asked whether he useth to come
+to his parish church. He saith he hath come to his parish church
+as often as he could and useth to come thither, but he endeavoureth
+to heare the most powerfull ministry.</nonSpeech><dialogue> &quot;And therefore,&quot; </dialogue><nonSpeech>saith THE
+BISHOP OF LONDON,</nonSpeech><dialogue> &quot;you heare M=r= Latroppe. What ordination
+hath he?&quot; &quot;He is a minister,&quot; </dialogue><nonSpeech>saith M=r= DOD.</nonSpeech><dialogue> &quot;Did you not heare
+him preach and pray?&quot; </dialogue><nonSpeech>saith the BISHOP.</nonSpeech><dialogue> &quot;Nay you yourself and
+the rest take upon you to preach and to be Ministers.&quot; &quot;Noe,&quot;
+</dialogue><nonSpeech>saith M=r= DOD. LONDON,</nonSpeech><dialogue> &quot;Yes, you doe, and you were heard
+preach and pray.&quot; </dialogue><nonSpeech>DOD,</nonSpeech><dialogue> &quot;I shalbe readie in this particular to
+confesse my fault, if I am convinced to be in any.&quot; </dialogue><nonSpeech>Then two of them
+were put to their oath, but they desired to be excused for this tyme,
+and that they might have some time to consider and be informed of
+the oath.
+<pagebreak id="280" />
+   Then said THE ARCH-BISHOP OF CANTERBURY,</nonSpeech><dialogue> &quot;You shew
+yourselves most unthankfull to God, to the King and to the Church
+of England, that when (God be praysed) through his Ma=ties= care
+and ours you have preaching in every church, and men have liberty
+to joyne in prayer and participation of the Sacraments and have
+catechizings and all to enlighten you, and which may serve you in
+the way of salvation; you in an unthankfull manner cast off all this
+yoake, and in private unlawfullie assemble yourselves togeather,
+making rents and divisions in the Church. If anie thing be amisse,
+let it be knowen, if any thing be not agreeable to the word of God,
+we shalbe as readie to redresse it as you, but whereas it is nothing
+but your owne imaginations, and you are unlearned men that seeke
+to make up a religion of your owne heads! I doubt noe persuasion
+will serve the turne. We must take this course: you are called
+heere: let them stand upon their bonds, and let us see what they
+will answere, it may be they will answere what may please us.&quot;
+</dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;It is tyme to take notice of these, nay this is not the
+4th parte of them about this cittie, you see these came of sett
+purpose they mett not by chance, they are desperatlie hereticall:    
+they
+are all of different places, out of Essex, S=t= Austin's, S=t=       
+Martin's Le
+Grand, Buttolphs, Algate, Thisleworth, S=t= Saviours: let these be
+imprisoned. Let me make a motion; There be fower of the ablest
+men of them, let these 4 answere and be proceeded against, and the
+while if the rest come in, they shalbe received, but if they will    
+not,
+I know noe reason why 4 or 5 men should not answere for all.
+<comment type="compiler">SOURCE TEXT HAS AN OPENING SQUARE BRACKET PRECEDING not.</comment>
+<comment type="compiler">ONE CASE OMITTED.</comment>
+<pagebreak id="281" />
+   </dialogue><nonSpeech>Then came in Mr. Latropp, who is asked what authority he had
+to preach and keepe this Conventicle? and saith THE BISHOP OF
+LONDON,</nonSpeech><dialogue> &quot;How manie woemen sate crosse legged upon the bedd,
+whilest you sate on one side and preached and prayed most
+devoutlie? </dialogue><nonSpeech>LATROPPE,</nonSpeech><dialogue> &quot;I keepe noe such evill companie, they
+were not such woemen.&quot; </dialogue><nonSpeech>LONDON:</nonSpeech><dialogue> &quot;Are you a Minister?&quot;
+</dialogue><nonSpeech>ARCHBISHOP OF CANTERBURY,</nonSpeech><dialogue> &quot;Are you a Minister?&quot; </dialogue><nonSpeech>BISHOP
+OF S=t= DAVID'S,</nonSpeech><dialogue> &quot;Were not you Doctor King the Bishop of
+London's Sizer in Oxford? I take it you were; and you shew
+your thankfullnes by this.&quot; </dialogue><nonSpeech>He answered that he was a Minister.
+LONDON.</nonSpeech><dialogue> &quot;How and by whom qualified? Where are your orders?&quot;
+</dialogue><nonSpeech>LATROPP.</nonSpeech><dialogue> &quot;I am a Minister of the gospell of Christ, and the Lord
+hath qualified me.&quot; &quot;Will you lay your hand on the booke, and 
+take your oath?&quot; </dialogue><nonSpeech>saith the Court. He refuseth the oath.</nonSpeech><dialogue>
+<pagebreak id="282" />
+<comment type="compiler">FOUR CASES OMITTED.</comment>
+<pagebreak id="284" />
+   </dialogue><nonSpeech>Samuel Eaton and two women and a maid appeared, who
+were demaunded why they were assembled in that Conventicle
+when others were at church? EATON.</nonSpeech><dialogue> &quot;We were not assembled
+in contempt of the Magistrate.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Noe, it was in
+contempt of the church of England.&quot; </dialogue><nonSpeech>EATON.</nonSpeech><dialogue> &quot;It was in conscience
+to God, (May it please this Hono=ble= Court) and, we were kept from
+Church, for we were confyned in the house together by those that
+besett the house, els divers would have gone to Church and manie
+came in after the sermons were done.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;These were
+first discovered at Lambeth, and then at other places and now taken
+heere, they have in their meetinge bookes printed against the
+Church of England&quot;: </dialogue><nonSpeech>ARCHBISHOP OF CANTERBURY.</nonSpeech><dialogue> &quot;Where
+were you in the morninge before you came hither to this house?&quot;
+&quot;We were in our owne families.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;What did
+you?&quot; &quot;We read the Scriptures and catechized our families&quot;
+saieth Eaton: &quot;and maie it please this honourable Court to heare us
+speake the truth, we will shew you what was donne, and, free us
+of the contempt of authority, wee did nothing but what you will
+allow us to doe.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Who can free you? These are
+dangerous men, they are a scattered companie sowen in all the citty,
+and about S=t= Michaell of the Querne, S=t= Austins, Ould Jury,
+Redriffe, and other remoter places. Hould them the booke.&quot; </dialogue><nonSpeech>EATON.</nonSpeech><dialogue>
+<pagebreak id="285" />
+&quot;I dare not sweare, nor take this oath, though I will not refuse it,
+I will consider of it?&quot; </dialogue><nonSpeech>S=r= HENRY MARTIN.</nonSpeech><dialogue> &quot;Heare, heare, you
+shall sweare but to answeare what you know, and as far as you are
+bound by law. You shall have time to consider of it, and have it
+read over and over till you can say it without booke if you will,
+when you have first taken your oath that you will make a true
+answere.&quot; </dialogue><nonSpeech>EATON.</nonSpeech><dialogue> &quot;I dare not, I know not what I shall sweare
+to.&quot; </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;It is to give a true answere to articles
+put into the Court against you, or that shalbe put in touching this
+conventicle of yours, and divers your hereticall tenents, and what
+wordes, and exercises you used, and things of this nature.&quot; </dialogue><nonSpeech>EATON.</nonSpeech><dialogue>
+&quot;I dare not.&quot;
+   </dialogue><nonSpeech>ARCHBISHOP OF CANTERBURY.</nonSpeech><dialogue> &quot;What say you, woman?&quot;
+</dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;I dare not worship God in vaine,&quot; but </dialogue><nonSpeech>saith THE
+BISHOP OF LONDON,</nonSpeech><dialogue> &quot;will you not sweare and take an oath when
+you are called to it by the Magistrate?&quot; </dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;Yes, I will
+answere upon my oath to end a controversy before a lawful
+magistrate.&quot; </dialogue><nonSpeech>EARLE OF DORSETT.</nonSpeech><dialogue> &quot;What, doest thou thinke woman
+of these grave Fathers of the church, that these heere be not lawfull
+Magistrates?&quot; </dialogue><nonSpeech> <emendation>S. JONES.</emendation> </nonSpeech><dialogue> &quot;I would doe any thing that is
+according to God's word.&quot; </dialogue><nonSpeech>ARCHBISHOP OF YORKE.</nonSpeech><dialogue> &quot;Would you?
+Then you must take your oath, now you are required by your
+governours, you must sweare in truth, in judgement, in
+righteousnes.&quot; </dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;Yes, and they that walke in            
+righteousnes shall
+have peace, but I dare not forsweare my selfe.&quot;
+   </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;Come, what say you?&quot; </dialogue><nonSpeech>PEN.</nonSpeech><dialogue> &quot;I dare not
+sweare this oath till I am better informed of it, for which I desire
+tyme:&quot; </dialogue><nonSpeech>SIR HENRY MARTIN.</nonSpeech><dialogue> &quot;Must you not be readie to give
+an answere of your faith?&quot; </dialogue><nonSpeech>PEN.</nonSpeech><dialogue> &quot;Yes, I will give an answere
+of my faith, if I be demaunded, but not willinglie forsweare my
+selfe.&quot;
+   </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;What, will you take your oath, good
+woman? </dialogue><nonSpeech>S. BARBONE.</nonSpeech><dialogue> &quot;I dare not sweare, I doe not understand
+it. I will tell the truth without swearing.&quot; </dialogue><nonSpeech>ARCHBISHOP OF
+<pagebreak id="286" />
+CANTERBURY.</nonSpeech><dialogue> &quot;Take them away.&quot; </dialogue><nonSpeech>Soe they were all committed
+to the New prison, and it was appointed, that at the next Court,
+being a fortnight after this, because of Ascention day, they should
+be brought againe to the Consistorie at Paules, because of trouble
+and danger in bringinge soe manie prisoners as there were over the
+water to Lambeth.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="292" />
+ <head>IN THE COURT OF HIGH COMMISSION AT THE CONSISTORY IN PAULES, 8     
+MAY, 1632.</head> 
+   <nonSpeech>This day all those that were taken in the Black Fryars were
+brought by the Court under the custodie of the Keeper of the New
+prison. The King's Advocate shewed that they were taken at a
+private Conventicle and prayed that they may take their oathes to
+answere the articles which are putt in against them.
+   First. Sara Jones was asked, of what parish she was? She
+said she dwelleth at Lambeth. LONDON.</nonSpeech><dialogue> &quot;Doe you come to
+the church?&quot; </dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;None accuseth me to the contrary.&quot;
+</dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Where were you upon Sunday was sennight?&quot; </dialogue><nonSpeech>S.
+JONES.</nonSpeech><dialogue> &quot;When I have done evill and my accuser come, I will
+answere.&quot; </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;I doe accuse you, take your oath
+and you shall knowe your accusacion.&quot; </dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;I am afraid
+to take God's name in vaine, I knowe noe other worship then God
+hath appointed.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;This you are commaunded to doe of
+God who saieth you must obey your Superiors.&quot; </dialogue><nonSpeech>S. JONES.</nonSpeech><dialogue> &quot;That
+which is of God is according to God's word, and the Lord will not
+hold him guiltlesse that taketh his name in vaine.&quot;
+   </dialogue><nonSpeech>S. Jacob was called to the booke, but she refused alsoe. Then
+was called Marke Lucar: who was asked of what parish he was and
+when he was at church? M. LUCAR.</nonSpeech><dialogue> &quot;I am yet to chuse of what
+parish to be; and I doe not remember the day of the moneth when
+I was at church.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;He doth not remember, I dare say, 
+the day of the moneth nor the moneth of the yeare when he was at
+<pagebreak id="293" />
+church, but he dwelleth in St. Austin's parish. Offer him the booke.&quot;
+</dialogue><nonSpeech>M. LUCAR.</nonSpeech><dialogue> &quot;If I may knowe a law and ground for takeing this
+oath, I will take it, but I desire to know my articles before I take
+my oath.&quot; </dialogue><nonSpeech>ARCHBISHOP OF YORKE.</nonSpeech><dialogue> &quot;Whether doe you know or
+noe that the King hath power to take an account of your 
+proceedings?&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Att their perrills. Aske the next.&quot;
+   </dialogue><nonSpeech>John Ireland was asked where and when he was at church. He
+saith at Mary Maudlins Church in Surrey. And that he was at
+morninge church within this halfe yeare; but being asked the booke,
+refused to sweare. Then were called 4 others, Toby Talbot; William
+Pickering; Mabell Milbourne; William Attwood; and were put to
+their oathes . And first TALBOT saieth in his excuse, that he knoweth
+not the articles what they are; and before he would take this oath
+he would know his accuser. S=r= HENRY MARTIN.</nonSpeech><dialogue> &quot;The law is,
+that those that are taken in these Conventicles and remaine          
+obstinate,
+that they shallbe made to abjure the kingdome, and if they returne,
+or obey not, it is felony: therefore, freinds, take heed to          
+yourselves,
+and know that you have more favour then yee deserve.&quot;
+</dialogue><nonSpeech>PICKERING.</nonSpeech><dialogue> &quot;I trust I have done nothing against the law, and for 
+this
+oath, I doe not know what belongs to it;&quot; </dialogue><nonSpeech>and he refuseth to take
+it. ATTWOOD saith,</nonSpeech><dialogue> he doth not know what the booke is. </dialogue><nonSpeech>M.
+MILBOURNE being asked whether she would take her oath, she said
+that she would not.</nonSpeech>
+   <nonSpeech>LONDON spake to Dod, Latroppe, and the man of the house.</nonSpeech><dialogue>
+&quot;Henry Dod, you are the obstinate and perverse ringleaders of these
+folkes: you had a faire admonition the last Court day: and you
+have this day assigned you to answere upon your oath.&quot; </dialogue><nonSpeech>DOD.</nonSpeech><dialogue> &quot;I
+hope we are not soe impious: we stand for the truth: for takeing
+the oath I crave your patience, I am not resolved upon it.&quot;
+</dialogue><nonSpeech>BREWER'S CLARKE.</nonSpeech><dialogue> &quot;I was at the church, but for takeing the
+oath I desire to be resolved.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Mr. Latroppe, hath the
+Lord qualified you? What authority; what orders have you? the
+<pagebreak id="294" />
+Lord hath qualifyed you; Is that a sufficient answere? You must
+give a better answere before you and I part.&quot; </dialogue><nonSpeech>LATROPP.</nonSpeech><dialogue> &quot;I doe not
+know that I have done any thing which might cause me justly to
+be brought before the judgement seat of man: and for this oath I
+doe not know the nature of it.&quot;
+   </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;The manner of the oath is that you shall
+answere to that you are accused of, for schisme.&quot; </dialogue><nonSpeech>YORK and
+LONDON.</nonSpeech><dialogue> &quot;If he will not take his oath, away with him.&quot;
+</dialogue><nonSpeech>LATROPP.</nonSpeech><dialogue> &quot;I desire that other passage may be remembred; I dare
+not take this oath.&quot; </dialogue><nonSpeech>Wherefore the Court ordered that they
+should be kept in straight custodie, especiallie Latropp, for the
+BISHOP OF LONDON said he had more to answere then he knew of.
+   SAMUELL EATON being demaunded whether he would take the
+oath: he answered,</nonSpeech><dialogue> &quot;I doe not refuse it, though I doe not take it:
+it is not out of obstinacie, but, as I shall answere it at the Last  
+day,
+I am not satisfyed whether I may take it.&quot;
+   &quot;Samuell Howe!&quot; </dialogue><nonSpeech>saith the KING'S ADVOCATE,</nonSpeech><dialogue> &quot;you are
+required by your oath to answere to the articles.&quot; </dialogue><nonSpeech>HOWE.</nonSpeech><dialogue> &quot;I
+have served the King both by sea and by land, and I had been at
+sea if this restraint had not been made upon me. My conversacion,
+I thank God, none can tax.&quot; </dialogue><nonSpeech>REGISTER.</nonSpeech><dialogue> &quot;Will you take your
+oath?&quot; </dialogue><nonSpeech>HOW.</nonSpeech><dialogue> &quot;I am a yong man and doe not know what this
+oath is.&quot; </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;The King desires your service
+in obeying his lawes.&quot;
+   </dialogue><nonSpeech>Then P. Howes was called, and required to take her oath, but
+she refused. LONDON.</nonSpeech><dialogue> &quot;Will you trust M=r= Latropp, and beleive
+him rather then the Church of England?&quot; </dialogue><nonSpeech>PENNINA.</nonSpeech><dialogue> &quot;I
+referre my self to the word of God, whether I maie take this oath or
+noe.&quot; </dialogue><nonSpeech>Then were called Joane Ferne and Elizabeth Denne: who
+refused to sweare till they were informed, and one of them said she
+could not read a letter in the booke. The KING'S ADVOCATE
+saith their oath was that they should answere trulie as farre as they
+knew to the Articles. ELIZABETH SARGEANT saith she must not
+sweare but when she is before a Magistrate.</nonSpeech><dialogue> &quot;Why now,&quot; </dialogue><nonSpeech>saith
+<pagebreak id="295" />
+the BISHOP OF LONDON,</nonSpeech><dialogue> &quot;you are called before the Magistrate,
+are you not? John Egge! Will you take your oath?&quot; </dialogue><nonSpeech>He refuseth:</nonSpeech><dialogue>
+&quot;Henry Packer! Will you take your oath to answear the articles?&quot;
+</dialogue><nonSpeech>H. P<emendation>ACKER</emendation> .</nonSpeech><dialogue> &quot;I doe not deny the oath, though I dare not take
+it, till I shall know what I shall sweare.&quot; </dialogue><nonSpeech>JOHN WOODWYNE, He
+being tendered the booke, said,</nonSpeech><dialogue> &quot;I desire to know what I shall
+sweare to, and what is the end of his oath,&quot; </dialogue><nonSpeech>before he will sweare.
+JOHN MELBORNE.</nonSpeech><dialogue> &quot;I am not well perswaded of this oath, yet I
+will not deny it.&quot; </dialogue><nonSpeech>ELIZABETH MELBORNE.</nonSpeech><dialogue> &quot;I doe not know any
+such thing as a Conventicle, we did meete to pray and talke of the
+word of God, which is according to the law of the land.&quot; </dialogue><nonSpeech>YORK.</nonSpeech><dialogue>
+&quot;God wilbe served publiquely, not in your private house.&quot; </dialogue><nonSpeech>THOMAS
+ARUNDELL of S=t= Olave's parish refuseth to take the oath for the
+present, till he knew the Articles, that he might informe himself.
+William Granger of S=t= Margarett's in Westminster. He being
+called, THE BISHOP OF LONDON spake unto him saying,</nonSpeech><dialogue> &quot;Granger!
+You look like a man of fashion: will you take your oath to answere
+to the articles according to your knowledg, and as farre as you are
+bound by law?&quot; </dialogue><nonSpeech>GRANGER.</nonSpeech><dialogue> &quot;I desire to have some tyme to
+consider of it.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;I would not have any of the standers by
+thinke that you or any of these have not had tyme to consider of
+this, you rent and teare the Church and will not submitt yourself to
+the tryal of law. You must know the justice of this Court is
+lymited, and you may be driven to abjure the Realme for your
+offence.&quot; </dialogue><nonSpeech>Then Robert Reignolds of Thistleworth was tendered the
+oath. He desired to speak 2 or 3 wordes:</nonSpeech><dialogue> &quot;If I have done any
+thing against the law, lett me be accused by the course of the law:
+if I thought this oath might be taken with a good conscience, I
+would take it; and I doe for the present desire you, though you doe
+not pitty me, yet to pitty my poore wife and smale children.&quot;
+</dialogue><nonSpeech>YORK.</nonSpeech><dialogue> &quot;Pitty your wife and children yourself, and lay your
+obstinacy to your conscience.&quot;
+<pagebreak id="296" />
+<comment type="compiler">TWO CASES OMITTED.</comment>
+<pagebreak id="297" />
+   </dialogue><nonSpeech>William Sounde, Nicholas Gerard, John Pococke, Daniell
+Halmworth, and two others of S=t= Austins parish, near Paule's gate,
+appeared upon letters, and tooke their oathes to answere the articles
+that were in the Court against them, about their seates in the
+Church above the Communion table. THE BISHOP OF LONDON
+said he had been scorned and slighted by these men in an irreligious
+manner. He saieth he will not take that upon him which he will
+not let be knowne heere;</nonSpeech><dialogue> you have made your seates round about
+the Communion table; you must not prepare your seates above
+God; I desired fairely you would take away the seates; you
+answere, &quot;We durst not doe it; we have noe such custome.&quot; </dialogue><nonSpeech>The
+parishioners answered that these seates were made there upon an
+ould foundation, and that they were built for necessity, their church
+being to litle for the parishioners; and if they have not roome,
+they must goe to other Churches. LONDON.</nonSpeech><dialogue> As good as you stand,
+and have stood. Why, there are noe seates in any church of any
+kingdome but this; and what then is your tyme out of minde?
+For tyme was when there were noe seates in any Church among
+us.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="300" />
+<comment type="compiler">THE SECOND CASE HEARD IN THE COURT ON 7 JUNE, 1632.</comment>
+   </dialogue><nonSpeech>Abigail Delamar, a Frenchman's wife, was brought from the
+New prison to the Court, and required to take the oath. She
+demanded whether it were the oath of Allegeance; the King's
+Advocate said it was to answere the truth to the articles in Court
+against her as farre as she knew and was bound by law. She said,</nonSpeech><dialogue>
+&quot;I neither dare nor will take this oath till I am informed of it,
+that I may with a good conscience.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Her husband is
+the Queene's servant, and a stiffe Romane Catholique, and she a
+deepe Familist and Brownist, and one of the Conventiclers taken at
+Black Fryars; the last weeke ther was a generall fast held in the
+prison, that they might be delivered out of prison. I gave order
+that all that came to them that day should be stayed. This woman
+came, and because she had a great belly she was carried to a
+Taverne, and her husband was sent for, and findinge her in a 
+Taverne, and yet tould that she was in prison, he thought it not in
+earnest. They therefore came before me, and I tooke his bond for
+her apparance, I admonished him to be more moderate, to come to
+church, and meet his wife halfeway, &amp;c.&quot; </dialogue><nonSpeech>ABIGAIL DELAMAR.</nonSpeech><dialogue> &quot;I
+hould no Familisme, I know not many of their opinions, those that
+I doe know I abhorre: and as for my comminge into the prison, I came
+to bring a tayler some worke that I had to doe for him.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue>
+&quot;I pray your grace that she may stand upon her bayle till her belly
+be unladen, and then we shall talk further with her.&quot; </dialogue><nonSpeech>ARCH BISHOP
+OF CANTERBURY.</nonSpeech><dialogue> &quot;Your husband, they say, is a Roman Catholique,
+this is a most absurd thing to professe to be a Romane Catholique, the
+words imply a contradiction. Rome is a particular Church, Catholicke
+is universall, then this is as much as to say of a particuler 
+universall Church; Nonsense! But, woman, where dwell you, in
+what parish?&quot; </dialogue><nonSpeech>ABIGAIL DELAMAR.</nonSpeech><dialogue> &quot;Att Giles where
+Manwairing dwelleth.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;How often have you heard him
+within this 12 moneth? Is that your manners? Why not Doctor
+Manwaring? is he not a doctor?&quot; </dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;I have not
+<pagebreak id="301" />
+heard him often, for the parliament put him by his preaching a
+great while.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;Wilt thou goe heare him the
+next Sunday?&quot; </dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;Noe, but I will goe in the
+afternoone.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;Why not in the forenoone?&quot;
+</dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;Because then I shall heare popish doctrine; I
+was once in the whore's bosome, and these hornes thrust me in,
+but God hath delivered me.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;What hornes?&quot;
+</dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;The hornes of the beast.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Whores
+doe make hornes indeed.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;But was she ever
+a papist?&quot;  </dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;Yes, I was once in the whore's lappe,
+and seinge that I am escaped out of it I shall, God willing, take
+heed how I am thrust in againe.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;I see you are
+an obstinate woman, as all the rest of your Companie are.&quot; </dialogue><nonSpeech>AB.
+DELAMAR.</nonSpeech><dialogue> &quot;You persecute us without a cause: you have sent
+26 of us to the prison, but since we were imprisoned what course
+have you taken to informe us? Which of you have sent anie man
+to us, or taken any paines to informe us?&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;There was
+a day sett for them to answere at the Consistorye in Paules: but
+they have the last Sunday peticioned his Ma=tie=, shewing that it is
+not out of obstinacie, but they decline the Ecclesiasticall          
+jurisdiccion
+altogether.&quot; </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue> &quot;Woman, take your oath.&quot;
+</dialogue><nonSpeech>AB. DELAMAR.</nonSpeech><dialogue> &quot;Noe, this oath is condempned by the law of the
+land, and I refuse it as an accursed oath, and appeale to the Kinge.&quot;
+</dialogue><nonSpeech>I heard that the Saboth day after this Court she delivered a       
+peticion
+to the King, in the name of all the rest, shewing that they refused
+not this oath obstinately, but that they were afraid it was against
+the subiects just libertie, to be compelled to take this oath, and
+shewed that they would willinglie be tryed by his Ma=ties= lawes, or
+by his Ma=tie= or any of his Lords and Nobles.
+   Amy Holland did not appeare because of sicknes, as it was given
+in answere for her.
+   Mr. Bates' bond to be certefyed into the Exchequer, and his
+suretyes to be compelled to bring him in, because it is said, that
+he lay about the towne, and now is gonne to Amsterdam.
+<pagebreak id="302" />
+   Grafton an upholster, one of the Black Fryers companie is
+ordered to give bond for his apparance at the next Court.
+   Sara Barbone being bound to appeare is escaped, and hideth her
+selfe, her bond to be certefyed in the Exchequer.
+   Phillis Wilson, being one of them that were taken at Black
+Fryers, was tendered the oath, but she refused, saying she durst not
+sweare unadvisedly. KING'S ADVOCATE.</nonSpeech><dialogue> &quot;It is before the
+Magistrate by authority of an act of parliament.&quot;
+   </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;7 or 8 of those that were best able to beare it are
+let out of prison, and therefore for my part I will consent that it be
+ordered that noe more be sent to the new prison, till these be
+brought againe.&quot;
+   </dialogue><nonSpeech>The keeper prayed their Lor=pps= pardon, and promised to        
+endeavour
+to finde them againe. LONDON:</nonSpeech><dialogue> &quot;Let these women therefore for
+the honour of the Court be sent to other prisons, and the rest to be
+removed some to one prison and some to an other.&quot;
+
+   </dialogue><nonSpeech>The peticion of the Churchwardens of the Parish Church of
+S=t= Leonard's Foster lane: That there is not roome in their church
+to hould their parishioners, and therefore they desire that their
+seates above the Communion table may stand, and shew that time
+out of minde, beyond the memory of man, they have stood there.
+LONDON.</nonSpeech><dialogue> &quot;This will not serve your turne; What prescription is
+there? seinge tyme was there were noe seates in churches, and that
+not long agone.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;You must obey your Ordinary.&quot;
+</dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;For that they will not obey me, I am forced to desire
+that assistance of this Court, 3. or 4. Churches at this present are 
+at
+this ward with me. I think it is S=t= Austin's case.&quot; </dialogue><nonSpeech>YORKE.</nonSpeech><dialogue> &quot;Doe
+you thinke you are worthy to sitt above the Lord's board in his
+house?&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="306" />
+   <nonSpeech>Sound, Hollingsworth, Gerard, John Osborne, and Thomas
+Pocock, havinge answered for setting up and continuing the seates
+above the Communion table in S=t= Austin's Church by Paules, they
+being Churchwardens and parishioners there; DOCTOR DUCK, the
+Chancellor of London, moved that their answeres and their cause
+might be considered, and they ordered to take down and remove
+their seates newlie sett up above the Communion table. LONDON:</nonSpeech><dialogue>
+&quot;You say you have not roome for your parishioners, and therfore
+you must have seates above God Almighty, and above Christ in his
+owne house; judge you, is it reason? The Church of S=t= Leonards,
+Fosterlane, is in the same case, but I made them pull downe their
+seates, and soe I will you, and then I will beginne with the old
+seates.&quot; </dialogue><nonSpeech>YORKE:</nonSpeech><dialogue> &quot;You must be subject to your Ordinary, he hath
+power to appoint your seates, it is not fitt you should sit above    
+God
+in his house.&quot; </dialogue><nonSpeech>The ARCHBISHOP OF CANTERBURY saith they
+must submitt themselves to their Ordinary. The articles and their
+answeres were read:</nonSpeech><dialogue> <comment type="compiler">ARTICLES OMITTED.</comment> 
+</dialogue><nonSpeech>They answere
+that they think they are subject to their Ordinarie, and that they
+might sett up their seates above the Communion table, for there
+was an ould fondation of seates there, and that they have onlie
+built up their seates higher. The BISHOP OF LONDON moved
+<pagebreak id="307" />
+the Arch Bishop to declare his dislike of the thing, which he did,
+shewing that the Ordinary had power enough in such cases, and he
+desired that they would amend it. PARISHIONERS.</nonSpeech><dialogue> &quot;If the Court
+will order us to take them downe we will, or els we dare not, for
+the Vestry hath ordered it that they shalbe built upon the ould
+foundacion.&quot; </dialogue><nonSpeech>S=r= HENRY MARTIN saith,</nonSpeech><dialogue> this is a matter not
+speedily to be determined, </dialogue><nonSpeech>and that the Court must take heed what
+they say in it; and therfore that it be deferred till the            
+Informacions.
+LONDON.</nonSpeech><dialogue> &quot;I desire it be ordered that my Chancellor view the
+Church and appoint what is fitt to be done.&quot; </dialogue><nonSpeech>YORKE.</nonSpeech><dialogue> &quot;We must
+informe our selves.&quot; </dialogue><nonSpeech>ROCHESTER.</nonSpeech><dialogue> &quot;The power of Vestryes and
+Churchwardens, this is to hatche a lay Presbyterye.&quot;
+
+   </dialogue><nonSpeech>Amy Holland preferred her peticion, humbly shewing that she
+was not well in health, being great with childe, that therefore the
+Court would be pleased to lett her forth upon bayle: she was to
+answere in Court, but she came not, and it was ordered that Doctor
+Ayloffe should goe to the prison to her to take her oath. LONDON.</nonSpeech><dialogue>
+&quot;How ould is she? Had she ever childe?&quot; </dialogue><nonSpeech>CROSSE.</nonSpeech><dialogue> &quot;I know
+not, I think she is about 32, but I desire you would discharge me
+of her, for I cannot keep her without a guard of purpose. I am in
+feare every houre to loose her.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Let her have what 
+she longs for, and let Crosse be well recompenced for his charges
+in keeping her.&quot;
+<comment type="compiler">ONE CASE OMITTED.</comment>
+<pagebreak id="308" />
+   </dialogue><nonSpeech>Rawlins, Harvy, Arthur Goslin, Howland, Robert Bye, John
+Smith, and others were taken at a Conventicle in a wood neare
+Newington in Surrey, upon the Saboth day last, and being now
+brought to the Court they were required to take their oathes to
+answere the articles put in against them. Two of them answeare
+they will not sweare at this time; and as they were goinge out,
+Harvy put on his hatt, which was presentlie taken offe and he was
+complayned on, and being called back to answere it, he saith he was
+shiftinge away, and putt on his hatt. Another saith that a lawfull
+Magistrate had examined them alreadie, and therefore he will not
+sweare to be heere examined. LONDON.</nonSpeech><dialogue> &quot;Your examinations taken
+before S=r=       he sent to me, there is nothing in it but
+that you mett togeather to conferre upon the word of God as farre
+as you understood the same, and to pray, which you might answere
+heere: but you tell this Court that it is not a lawful power and
+authority: and of the same minde are those that were taken att
+Black Fryers: for they peticoned the King to be tryed by his
+Judges, by his Lords, declyning the ecclesiasticall jurisdiccion.
+This they tendred the last Sunday: this your obstinacie will cause
+<pagebreak id="309" />
+you to be proceeded against at the common law, and be made abjure
+the Kingdome, and if you returne, to be hanged.&quot; </dialogue><nonSpeech>KING'S
+ADVOCATE speaketh to another of them,</nonSpeech><dialogue> &quot;You are required to take your
+oath to answer the Articles put in against you.&quot; </dialogue><nonSpeech>PRISONER.</nonSpeech><dialogue> &quot;I
+cannott sweare, because I know them not in certeinty.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue>
+&quot;Let these (may it please your grace) be sent two and two to other
+prisons, and none to the New Prison, because the Keeper hath lett
+some of the principall of the other companie to escape.&quot;
+   </dialogue><nonSpeech>Andrew Sherle will not lay his hand upon the booke. Robert
+Bye comminge into the Court, THE BISHOP OF LONDON spake
+kindly to him, saying,</nonSpeech><dialogue> &quot;Come, thou lookest like a good fellow, that
+wilt take thy oath.&quot; </dialogue><nonSpeech>BYE.</nonSpeech><dialogue> &quot;I am Christ's freeman; I owe
+obedience to God and the King, and those that are lawfullie sent by
+him, but to noe others.&quot; </dialogue><nonSpeech>Att which there being some laughter, he
+said,</nonSpeech><dialogue> &quot;I am in deed and good earnest, I dare not take this oath.
+An oath is for the ending of a controversie, but this is made to be
+but the beginninge of the controversie.&quot; </dialogue><nonSpeech>ARCHBISHOP OF
+CANTERBURY;</nonSpeech><dialogue> &quot;You doe shew yourselves the most ungratefull to God
+and to his Ma=tie= the King and to us the Fathers of the Church. If
+you have anie knowledg of God, it hath come through and by us,
+or some of our predecessors. We have taken care, under God, to
+give milke to the babes and yonglings and strong meate for the
+men of understanding, you have the word of God to feed you, the
+Sacraments to strengthen you, and we support you by prayer, for all
+this what despight do you returne us: you call us abhominable men,
+to be hated of all, that we carry the marke of the beast, that we are
+his members: We doe beare this patiently, not because we have
+noe law to right us, but because of your obstinacie. But for your
+dishonouring of God and disobeyinge the King, it is not to be
+indured: When you have readinge, preaching, singinge, teaching,
+you are your owne ministers, the blinde lead the blinde, whereas his
+Ma=tie= is God's viceregent <comment type="compiler">SOURCE TEXT: vicegerent</comment> in the       
+Church, the Church is nothing with
+you, and his ministers not to be regarded, and you runne into woods,
+as if you lived in persecution, such an one you make the King, to
+<pagebreak id="310" />
+whome wee are soe much bound for his great care for the truth to
+be preserved amonge us, and you would have men beleive that he
+is a tyrant, this besides your wickednes, unthankfulnes, and
+ungraciousnes towards us the Fathers of the Church. Therefore let    
+these
+men be put 2. and 2. in severall prisons.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="313" />
+ <head>KING'S ADVOCATE AGAINST HENRY MUDFORD, HENRY FERMAN, AND 
+FRANCIS BRIDGES.</head> <dialogue>
+<comment type="compiler">ARTICLES OMITTED.</comment>
+   </dialogue><nonSpeech>DOCTOR REEVES saith,</nonSpeech><dialogue> &quot;They have made noe defence, 
+therefore all is true, they hould all these opinions.&quot; </dialogue><nonSpeech>MUDFORD,
+FERMAN, and  BRIDGES said that all was not true, they doe not hould
+all those as they are articled. DOCTOR EDEN, for the defence,
+saith that</nonSpeech><dialogue> these are plaine men; they hould some of these, but not
+all. They say they are justifyed actually by faith, but that before
+faith they are loved of God, and that whatsoever is wantinge in the
+beleiver is supplyed by Christ Jesus; whatsoever the first Adam
+lost, Christ maketh that good againe to every beleiver, &amp;c.&quot;
+</dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;They said these wordes, did they not? Was it not
+given forth in writinge by them? There is sufficient testimonie,
+M=r= Samuel Ward and others. What say you to that your opinion,
+that we are justifyed and made the sonnes of God by the worke of
+Christ before anie faith be in us to apply the merritts of Christ to
+our selves?&quot; </dialogue><nonSpeech>Answere by the three Defendants.</nonSpeech><dialogue> &quot;That as Adam
+made all men corrupt, soe Christ maketh the elect righteous and
+<pagebreak id="314" />
+acceptable: and you agree with us in baptisme, Infants are
+regenerate, therefore they are justifyed, and that is by faith;      
+there is
+grace, though not seene.&quot; </dialogue><nonSpeech>LONDON and CANTERBURY.</nonSpeech><dialogue> &quot;This in
+baptisme is not an actuall but an habituall faith. What say you to
+this? That a beleiver cannott greive God's spirit.&quot; </dialogue><nonSpeech>Answere by
+the three men.</nonSpeech><dialogue> &quot;We doe not beleive that a beleiver cannot greive
+God's spirit, but yet they say that God's love was not lesse to David
+for his sinnes of adultery and murther: for God's love is
+unchaungeable.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;Let these men lye by the heeles.&quot;
+</dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;Let them be sent to 3 other prisons, and not to the
+new prison. And let M=r= Prinne be articled against for the same.
+We must not sitt heere to punish poore snakes, and lett him goe
+scot free.&quot; </dialogue><nonSpeech>The 3 men.</nonSpeech><dialogue> &quot;We desire that some bodie may conferre
+with us, that we may be informed if we be in errour.&quot; 
+</dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;The Country complayneth, and the Commissary 
+complayneth, you pervert the word of God.&quot;
+<comment type="compiler">ONE CASE OMITTED.</comment>
+<pagebreak id="315" />
+   </dialogue><nonSpeech>Amy Holland, by her petition desireth to be bayled and to have
+liberty to appeare by her Proctor. LONDON.</nonSpeech><dialogue> &quot;If she be let it be
+a bond of 2000=li= and good bayle to be given, or els she shalbe
+committed close prisoner to Newgate.&quot;
+
+   </dialogue><nonSpeech>Ralph Grafton, an Upholster, dwellinge in Cornehill, London,
+was required to take his oath to answere the Articles. He was said
+to be a principall ringleader of those Conventiclers that mett at
+Black-Fryars. KING'S ADVOCATE.</nonSpeech><dialogue> &quot;This is a rich man, dwelling
+within the Citty, my motion is, that your Grace and the Court
+would sett a fine upon this man if he shall refuse to answere, that
+other may be warned for contemning of the Court.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue>
+&quot;M=r= Advocate, I thanke you for this motion.&quot; </dialogue><nonSpeech>KING'S ADVOCATE.</nonSpeech><dialogue>
+&quot;I require you, and the Court requireth you, to take your oath to
+answere to matters of your owne fact as farre as you know, and are
+bound by law.&quot; </dialogue><nonSpeech>GRAFTON.</nonSpeech><dialogue> &quot;An oath is a matter of an high
+nature, and must not be taken rashlie, I dare not therefore take this
+oath. We have done nothinge against the law: it was noe
+Conventicle: there was nothinge spoaken against the King, nor against
+the State, I dare not take the oath, and I am no ringleader of any
+to evill.&quot; </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;You mett without law, you had noe
+authority. <font> <foreign>Poena ad paucos, metus ad omnes.</foreign> </font> &quot;Wherefore, the
+Court for his contempt in refusing the oath sett a fine of two
+hundred pound upon him and committed him to prison. </dialogue><nonSpeech>GRAFTON.</nonSpeech><dialogue>
+&quot;I have bayle heere readie, if you please to take it, I doe tender it
+to you.&quot; </dialogue><nonSpeech>LONDON. CANTERBURY.</nonSpeech><dialogue> &quot;Noe! Away with him to
+prison: if he come not in by the day of mittigation, let the fine
+stand.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="316" />
+<comment type="compiler">THE CASE AGAINST JOHN ETSALL, VICAR.</comment>
+<comment type="compiler">ARTICLES OMITTED.</comment>
+<pagebreak id="319" />
+<comment type="compiler">ETSALL SPEAKS.</comment>
+   &quot;I confesse that which I have written hath justly offended you,
+I pray you remember, that he that confesseth and forsaketh his
+sinnes shall finde mercy with God, so let me with you: I have
+trespassed against this Court in writinge that which doth reflect
+upon your honorable Court.&quot; </dialogue><nonSpeech>S=r= HENRY MARTIN.</nonSpeech><dialogue> &quot;You have
+commended heer John Eaton, whom we have condempned. Hath
+the Church noe sinne? is she not subject to error?&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue>
+&quot;David was a justifyed person yet 139 Psalme, Thou spiest out all
+my waies, and yet he cryeth out of his sinnes: the Article of our
+Creed, the remission of sinnes, and that which the Lord saith to the
+Angell of the Church of Smirna: he saw their zeale, their
+sufferings, their faith, and yet I have somewhat against thee: this  
+is noe
+state of perfection.&quot; </dialogue><nonSpeech>ROCHESTER:</nonSpeech><dialogue> &quot;Doe you undertake to write
+such a letter as this? such an epistle? there is not one thinge layd
+downe clearlye in any part of your letter. What Papist, Brownist,
+Jesuit might not write this letter. Was not Adam and Christ in
+Paule? Is there not flesh and spirit in both. I could answere you
+for David too that was before Christ.&quot;
+   </dialogue><nonSpeech>DOCTOR AYLOFFE.</nonSpeech><dialogue> &quot;If he will submitt himself, and make
+recantation of takinge part with Eaton and Townes, I would not give
+my voice that he should be deprived, soe that he will plainely sett
+downe his opinions, and till then I suspend him.&quot;
+<comment type="compiler">SIR NATHANIEL BRENT SPEAKS.</comment>
+   &quot;These are grosse opinions for which Eaton was heere sentenced,
+and therefore for justifying of him I would have him make publique
+confession at Paules, and at his owne Church and suspenscion till
+then, and to pay costs of suit.&quot;
+<pagebreak id="320" />
+<comment type="compiler">SIR HENRY MARTIN SPEAKS.</comment>
+   &quot;You have justifyed heere Eaton, Townes, Traske and Pretty,
+these were all lewd fellowes, therefore you shall make your
+confession, and be deprived of your Benefice.&quot;
+<comment type="compiler">ROCHESTER SPEAKS.</comment>
+   &quot;I am onlie sorry that the Court hath not taken this to heart
+being soe great a matter: these are worse then heathenes, they are
+a scandall to all our professions I cannot speake it with sufficient
+severity. This man I take him to be an ignorant foole, but an
+usurping blaspheminge fellow: if I could prevaile, the least I would
+sett upon him, I would send him to Bedlam: but I doe deprive him
+and degrade him, and to pay costs of suit.&quot;
+<comment type="compiler">BISHOP OF ST DAVID'S SPEAKS.</comment>
+   &quot;If he will recant, and not returne unto his opinions againe, I
+would not have him degraded, but onlie suspended for a while.&quot;
+<comment type="compiler">LONDON SPEAKS.</comment>
+   &quot;Who is that Demas that hath forsaken you? your letter is full
+of blasphemy. Who choaked you with a benefice?&quot; </dialogue><nonSpeech>ETSALL.</nonSpeech><dialogue> &quot;I
+pray speak in love.&quot; </dialogue><nonSpeech>LONDON.</nonSpeech><dialogue> &quot;I may censure you to deprivation
+in love, for your base hereticall opinions: It was not wont that men
+should choppe in and talke soe when the Court is speakinge; these
+are blasphemies opened in Townes' cause, I doe deprive him and
+degrade him, and costs of suit, I goe the higher, because he hath
+contradicted the sentence of this Court against others heeretofore.&quot;
+<comment type="compiler">CANTERBURY SPEAKS.</comment>
+   &quot;If God seeth not sinne in his children, then they may take upon
+them to committ sinne without feare: We know how far this is
+gone: and now this man to take upon him to be a kinde of an
+Apostle, and to write apostolicallie, we see his pride. I remember
+John Eaton, he was soe ignorant, and his carriage soe simple, that
+we thought fitt to send him to Westminster Schoole and Paule's
+Schoole to be instructed. He would deny, maintaine, confesse,
+repent, and sometymes we had mercy upon him; after his deprivacion
+we were troubled what to doe with him; for if he did not preach,
+or doe somewhat, women must steale from their husbands to
+mainteyne him. Then we were content, if he would be a curate, we
+would try him, and he was admitted to reade homilies. Wise John
+Eaton fell to expoundinge of the homilies, and then broached all
+his opinions (formerlie denyed) againe: and this is your Patriarch.
+<pagebreak id="321" />
+Therefore I hould this man worthy to be imprisonned and pay costs
+of suit, and to be deprived and degraded, if he doe not with all the
+detestacion possible make confession of his errours and cry God
+mercy and forgiveness, and you shalbe soe deprived and degraded if
+you doe it not; but to be suspended in the meane while. And the
+Bishop of the Diocesse must have this signified unto him to provide
+the Church with a Curate in the meane tyme.&quot;
+<comment type="compiler">ONE CASE OMITTED.</comment>
+<comment type="compiler">THE CASE OF WHITACRES.</comment>
+   That he brought over a booke called <font> <foreign>Le Prince</foreign> </font> , and     
+this was at
+20=s= price, at which I wondered </dialogue><nonSpeech> (saith the BISHOP OF LONDON) </nonSpeech><dialogue>
+seeing that by the bulke it should be but 3=s= or 3=s= 4=d=, and     
+now it is
+falsely printed heere in England.
+   </dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;This Basset the Author is a deepe flatterer, a
+most malatious, hungry fellow.&quot; </dialogue><nonSpeech>WHITTACRES.</nonSpeech><dialogue> &quot;I beseech your
+Lordships pardon, I knew not what was conteyned in the booke.
+It is an impudent thinge that such things should be suffered in
+bookes. Kingdomes cannot long stand in peace if they should.&quot;
+</dialogue><nonSpeech>CANTERBURY.</nonSpeech><dialogue> &quot;In France they have such histories, that when the
+Duke of Birone was heere, and Count       , Queen Elizabeth
+should have the Earle of Essex head by her, and shewed it unto
+him, and this goeth as a cheife story amongst them. Balsett is an
+idle fellow and dishonest man.&quot;
+<comment type="compiler">THE SENTENCE.</comment>
+   </dialogue><nonSpeech>That all the books be drawen in and fired and burnt publiquely
+<pagebreak id="322" />
+with those that remaine in Paule's Churchyard, and this man to be
+fyned 100 marks to the King and to pay cost of suit.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

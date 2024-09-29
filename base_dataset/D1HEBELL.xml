@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1HEBELL">
+  <dialogueHeader>
+
+    <filename>D1HEBELL</filename>
+
+    <identifier>1 HANDB ENG D1HEBELL</identifier>
+
+    <title>FAMILIAR DIALOGVES</title>
+
+    <author>BELLOT JACQUES</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1586</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-ENGLISH">Language teaching handbook: English</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BELLOT, JACQUES.</attribution>
+      <frontMatter>FAMILIAR DIALOGVES, FOR THE INSTRUCTION OF THE~, THAT BE 
+DESIROUS TO LEARNE TO SPEAKE ENGLISH, AND PERFECTLYE TO PRONOU~CE THE
+SAME: 
+SET FORTH BY IAMES BELLOT GENTLEMAN OF CAEN.
+IMPRINTED AT LONDON BY THOMAS VAUTROLLIER, DWELLING IN THE 
+BLACKE-FRIERS. 
+1586. 
+PP. A5R.1 - G2V.12
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SOURCE TEXT HAS TEXT IN THREE COLUMNS, CONSISTING OF ENGLISH TEXT, 
+FRENCH TEXT, AND A PRONUNCIATION GUIDE RESPECTIVELY. BELOW ONLY THE 
+ENGLISH TEXT IS REPRODUCED.</comment>
+
+<comment type="compiler">SOURCE TEXT LINEATION IS NOT MAINTAINED WITH REGARD TO UTTERANCES, 
+AND EMPTY LINES BETWEEN UTTERANCES ARE OMITTED. HOWEVER, LINEATION FOR 
+HEADINGS AND VOCABULARY LISTS IS MAINTAINED.</comment>
+
+<comment type="compiler">MUCH FRENCH LANGUAGE INTERFERENCE IN THE GRAMMAR AND SPELLING IN 
+THIS TEXT. OUR COMMENTS GIVEN ONLY FOR APPARENT PRINTING ERRORS SUCH 
+AS &quot;t&quot; FOR &quot;r&quot;, AND NOT FREQUENT MISSPELLINGS SUCH AS &quot;th&quot; FOR &quot;t&quot;.</comment>
+
+<pagebreak id="A5R" />
+</dialogue> <head>THE RISING IN 
+THE MORNING.</head> 
+<nonSpeech>Barbara, 
+Peter, Stephe~, 
+Iames. 
+The Father. 
+The Mother.</nonSpeech>
+   <nonSpeech>Barbara.</nonSpeech><dialogue>      
+How now children, will you not rise to day?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+What ist a clock?
+   </dialogue><nonSpeech>Bar.</nonSpeech><dialogue>
+It is seue~ a clock.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I beleue you not
+   </dialogue><nonSpeech>Bar.</nonSpeech><dialogue>
+Why do you not beleue me?
+   </dialogue><nonSpeech>Steuen.</nonSpeech><dialogue>
+Because I am yet all sleepye and 
+<pagebreak id="A5V" />
+that I am accustomed to awake alwayes at fiue of the clocke.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Beleue this bearer: he is scant well awake at eight of the clocke, 
+how then could he be awaket at fiue?
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+You say true.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+You will iest.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Rise quickely: It is tyme to go to schoole: your maister will ierke 
+you, if you can not say your lessons.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Oure maister hath no roddes.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+<pagebreak id="A6R" />
+I will carye him som.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+It is needelesse for we will study well.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Geue me my hosen.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Which of them?
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+My redd hoses.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+And to me my blacke ones.
+   </dialogue><nonSpeech>Iames</nonSpeech><dialogue>
+Bring me my whit hoses, and a cleane shyrt: Or els, bring me my graye 
+hoses, my greene dwblet <comment type="compiler">FOR &quot;doublet&quot;</comment> and a handkercher.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+<pagebreak id="A6V" />
+Holde, here be your hosen.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Here lacke some pointes.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+You played the~.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I haue not, they be broken.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Button your ierkin Peter: where be your garters?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+I lost them.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+You deserue to be beaten: But you feare nothing, why doe you not gyrt 
+you Stephen?
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I can not bowe downe.
+<pagebreak id="A7R" />
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Truely you are but a wagge, whiche lookes but for the death of the 
+day.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Geue me my doublesoulshoes
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Here be them.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Where is the showing horne?
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Take it vpon the table.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Geue me my pantables, and my pompes: But where be my sockes?
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Here be them, Iames, put on your hatte: make cleane your 
+<comment type="compiler">&quot;ur&quot; IN &quot;your&quot; UNCLEAR IN SOURCE TEXT</comment> cap: 
+<pagebreak id="A7V" />
+Peter, where layde you your night cap?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+I left it vpon the bedde.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Are you ready?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+How should I be ready? You brought me a smock, in steade of my shirt.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+I forgat my selfe: holde, here is your shirt.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Now you are a good wenche.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Why doe you not put on your showes? you goe alwayes 
+<pagebreak id="A8R" />
+sleepe-shotte.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+My showes be naught.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Better is to haue a bad excuse, then not at all.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Now, we be ready: Geue vs our breakefast, that we may goe to schoole.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Did you say your prayers?
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Not yet.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+It is not well done: Pray God, then you shall haue your break fast.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Brother, it is for you to day to 
+<pagebreak id="A8V" />
+pray God: and my cosen shall pray GOD to morowe: Then, it shalbe my 
+turne to pray. 
+Sonneday 
+Monneday 
+Twesday 
+Weddenesday 
+Thursday 
+Friday 
+Sathurday.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Kneele downe all.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Our helpe be in the name of GOD, whiche hath made heauen and earth. 
+So be it. 
+Ovr Father whiche art in heauen, halowed be thy name. Thy kingdome 
+come. Thy 
+<pagebreak id="B1R" />
+will be done, in earth, as it is in heauen. Geue vs this day our dayly 
+bread, and forgeue vs our offences, as we forgeue them that trespasse 
+agaynst vs: And let vs not be led into temptation: But deliuer vs from 
+euill: For thine is, the kingdome, the power, and the glory for euer 
+and euer.
+   </dialogue><nonSpeech>Iames</nonSpeech><dialogue>
+So be it.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Let vs eate, and drinke, acknowledging, that all goodnesse doe come 
+from God, In the name of the Father, and
+<comment type="compiler">LEFT-HAND MARGIN OBSCURED: &quot;I&quot; IN &quot;In&quot;, AND &quot;t&quot; IN THE SECOND &quot;the&quot;
+NOT SEEN IN SOURCE TEXT</comment>
+<pagebreak id="B1V" />
+of the Sonne, and of the holy Ghost.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+So be it.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Now breake your fast, then go aske your fathers, and mothers blessing.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I pray you Father, pray to GOD to blesse me.
+   </dialogue><nonSpeech>The Father.</nonSpeech><dialogue>
+God blesse you you <comment type="compiler">you REPEATED AT LINE BREAK</comment> my sonne.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I pray you mother, geue me your blessing.
+   </dialogue><nonSpeech>The Mother.</nonSpeech><dialogue>
+God blesse you all, my children.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Go to children.
+<pagebreak id="B2R" />
+take your books and goe you to schoole: But play not by the way.
+Go you in peace and learne well, then you shalbe called the children 
+of God.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Where is my booke?
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Where did you put it?
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I layde it ysterday vppon the window.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Take it then.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Geue <comment type="compiler">SOURCE TEXT: Gene</comment> me my paper booke.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Hold, here is
+<pagebreak id="B2V" />
+your paper, and your inkehorne also.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+There is neither pennes, nor ink.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+What did you with all?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+He lost them, and he sold his penneknife.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Truely, I will tell it to your mother.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I pray doe not tell her, and I will loue you well.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Will ye doe so? Goe to, I will not tell her: 
+Here is a peny to buy you some 
+<pagebreak id="B3R" />
+quilles.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I thanke ye, I will buy some as I go to schoole.
+   </dialogue><nonSpeech>Barbara.</nonSpeech><dialogue>
+Well sayd, Goe in Gods name.
+</dialogue> <head>TO THE MARKET.</head> 
+<nonSpeech>Ayles, Ralf, 
+Androw, Simon, 
+The Draper, 
+The Poulterer, 
+The Fishmo~ger, 
+The butcher, 
+The 
+Costardmonger.</nonSpeech>
+   <nonSpeech>Ayles.</nonSpeech><dialogue>
+Is it not tyme to goe to the market? 
+It is almost ten a clocke: 
+Goe I pray, and make hast to come agayne.
+<pagebreak id="B3V" />
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+I goe by and by: But is it so late as you say?
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+Yes truely, Goe quikely.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Good morow cosen Androw.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+And to you also cosen Ralf.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+How doe you? 
+How is it with you?
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Well thankes be to God: So so.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+From whence come you?
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+I come from home.
+<pagebreak id="B4R" />
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Whether goe you?
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+I go to the market.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+And I also: We shall goe together, if you will.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+I am glad of your company: But before we goe, it were good to drinke a 
+pinte of wine.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Whether shall we goe?
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+At the Byshops head, or at the Cardinals hat.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Let vs goe: How Symon, shall we 
+<pagebreak id="B4V" />
+haue a pynte of wine well drawen?
+   </dialogue><nonSpeech>Symon.</nonSpeech><dialogue>
+You be well come: What wine will you drinke? Will you eate any thinke.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Geue vs of the best wine you haue: Geue vs some whitte wine. 
+Clairet wine, 
+Red wine. 
+Frenche wine. 
+Gaskyne wine. 
+New Renishe 
+wine. 
+Good Sakke. 
+Good Mamesie. 
+Good 
+Muscadene. 
+New wine. 
+Old wine,
+<pagebreak id="B5R" />
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Bring vs a quart of your best Whitte wine: For it is wholesommer in 
+the morning: and a role and some butter.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+You shall haue it: How like you this wine?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+I like it very well.
+   </dialogue><nonSpeech>And.</nonSpeech><dialogue>
+This wine is faire and pure.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+To you gosseppe Ralf.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+I thanke ye, Gra~mercy, good brother.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+<pagebreak id="B5V" />
+Let vs dispach: Let vs make hast, to breake our fast.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Pure some wine: 
+Geue me some wine.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+The pot is emptie: There is no more: Shall we haue an other pynt?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+No, It is tyme to goe to the market.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Whe~ you please.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+How Simon.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+Doe you lacke any thinke? 
+Doe you call?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+What doe we 
+<pagebreak id="B6R" />
+owe? What haue we to pay? 
+What must you haue? 
+Let vs haue a reakening: 
+What is to pay?
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+You haue to pay: you owe, eight pence, and you be well come.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Hold your money, Fare you well gossippe.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+GOD be wy my frendes at your commaundement.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Now let vs goe to the market.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Let vs go.
+   </dialogue><nonSpeech>The Poulter.</nonSpeech><dialogue>
+What doe you 
+<pagebreak id="B6V" />
+buye?  
+What doe you lacke?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Showe me a coupell of good, and fatte Rabettes,
+A fat Capon. 
+A good henne. 
+A fatte goose. 
+A good goseling 
+A dosen of 
+larkes. 
+A stoke doue. 
+A Hayre. 
+A mallart. 
+A ducke. 
+A drake. 
+A crane. 
+A sparow. 
+A woodcoke. 
+A swanne. 
+A blackbirde. 
+A Parret.
+   </dialogue><nonSpeech>The Poult.</nonSpeech><dialogue>
+Here be them, 
+<pagebreak id="B7R" />
+that be very good and fat.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+They be very stale.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+Truely, they be very new. 
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+How sell you them? 
+How much?
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue> 
+Ten pence the couple.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+It is to much, you are to, deare, 
+They be not worth so much. 
+They be worth but a grote.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+They be not mine for that price. They coast me more.
+<pagebreak id="B7V" />
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue> 
+Tell me your lowest word.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue> 
+Are you willing to buye?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue> <comment type="compiler">THIS SPEAKER IDENTIFICATION MISSING IN SOURCE TEXT.</comment>
+Yes, if you will, be reasonable.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+At one word: you shall pay two grotes for them.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>       
+I will pay but six pence for.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+I may not <comment type="compiler">SOURCE TEXT: uot</comment> sell them so.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Fare you well then.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue> 
+Here ye Syr: Cast th'other penye.
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+I will pay no more for.
+<pagebreak id="B8R" />           
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+You are a very hard man: Well, you shall haue them: 
+I sell this day. 
+Robin-hoodes peners: Shall I fleae them?
+   </dialogue><nonSpeech>Ralf.</nonSpeech><dialogue>
+Yea, here is your money. 
+God be wy Ser.
+   </dialogue><nonSpeech>The Poul.</nonSpeech><dialogue>
+Well come Ser, at your commaundement.
+   </dialogue><nonSpeech>The Costerdmonger.</nonSpeech><dialogue>
+Buy <comment type="compiler">SOURCE TEXT: Bvuy</comment> you any apples? 
+Who buye of my apples?
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+How many for a peny? 
+How sell you the hundreth?
+<pagebreak id="B8V" />
+   </dialogue><nonSpeech>The cost.</nonSpeech><dialogue>
+I sell them, twelfe a peny. 
+You shall pay two shillings for the hundreth.
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+Haue you any pepines?
+   </dialogue><nonSpeech>The Cost.</nonSpeech><dialogue> 
+The fayrest in London.
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+Shal I haue thirtie for a peny? 
+Or els, you shall haue a shilling for the hu~dreth of your pepines.
+   </dialogue><nonSpeech>The Cost.</nonSpeech><dialogue> 
+Here ye, fayre mayde: Will you haue them for twenty pe~ce the 
+hundreth.
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+<pagebreak id="C1R" />
+I am at one word.
+   </dialogue><nonSpeech>The Cost.</nonSpeech><dialogue>
+Go to, you shall haue them: 
+Where will you haue them.
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>
+Put them in myne apurne.
+   </dialogue><nonSpeech>The Cost.</nonSpeech><dialogue>
+One, Two, 
+Three, Foure, 
+Fiue, Sixe, 
+Seuen, Eight, 
+Nyne, Ten, 
+Eleuen, Twelfe, 
+Thirten. 
+Foureten. 
+Fiften. 
+Sixten. 
+Seuenten. 
+Eighten. 
+Ninten. 
+Twenty. 
+One and 
+twenty.
+Two and 
+twenty. 
+<pagebreak id="C1V" />
+Three and 
+twe~ty. 
+Foure and 
+twe~ty. 
+Fiue and 
+twenty. 
+And here be foure, whiche makes fiue score and foure.
+   </dialogue><nonSpeech>Ayles.</nonSpeech><dialogue>      
+You shall geue me one aboue.
+   </dialogue><nonSpeech>The Cost.</nonSpeech><dialogue>
+Hold, here is, for you: 
+As you shall finde the~, come agayne.
+   </dialogue><nonSpeech>Ailes.</nonSpeech><dialogue>    
+So I will.
+   </dialogue><nonSpeech>The Draper.</nonSpeech><dialogue>
+What lacke ye? 
+What doe ye buy. 
+What will you haue. 
+What will you 
+<pagebreak id="C2R" />
+buy. 
+What please you to buy. 
+What please you to haue. 
+What seeke y. 
+Will you haue any cloth.
+Come in, I will show you some. 
+Come hether Ser. 
+Come in, you shall haue good cheape. 
+See if I haue any thing that likes you. 
+I will vse you well. 
+You shall finde me as reasonable, or more, as any other, 
+you shall see good wares.
+Come in, if you 
+<pagebreak id="C2V" />
+please.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+God be here.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+Well come Ser.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Haue you any good broade cloth. 
+Haue you any fine Caresie. 
+Haue you any Caresie Flanders deye. 
+Haue you any Cottun. 
+Any Fryse. 
+Any rugette. 
+Any stamell. 
+Any frisadoe. 
+Any sardge. 
+Any skarlatte. 
+Any veluet. 
+Any granadoe 
+silke. 
+Any Spanishe 
+silke. 
+Any satten. 
+<pagebreak id="C3R" />
+Any damaske. 
+Any taffettey. 
+Any sarsenet. 
+Any grosgrayne. 
+Any chamelet. 
+Any worstede. 
+Any mokadoe. 
+Any braunched 
+veluet. 
+Any tuffte 
+taffetey. 
+Any Welshe 
+plaine. 
+Any fustiane. 
+Any buckeren. 
+Any sacke cloth. 
+Any holland. 
+Any trype 
+veluet. 
+Any <comment type="compiler">SOURCE TEXT: Auy</comment> tuffte 
+veluet.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+What collour will ye haue.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+What collour haue ye.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+<pagebreak id="C3V" />
+I haue fayre whitte. 
+Blacke. 
+Gray. 
+Fayre French 
+taney. 
+Violet. 
+Greene. 
+Mingled 
+collour. 
+Sheepes 
+collour. 
+yallow. 
+Blue. 
+Orenge collour. 
+Fayre straw 
+collour. 
+Fayre purple 
+collour. 
+I haue of all collours, and of all prices.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>  
+Showe me some fayre darke greene if you haue any.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+yea forsoth, I
+<pagebreak id="C4R" /> 
+haue that which is very fayre, and good.
+There is no better in this towne. It is of good syse.
+Vew it well. 
+Did you euer see better.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+I haue sene better, and worse also. 
+Haue you any better.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+yes marye: But it is of more higher price.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>   
+Let me haue the sight of it.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+Here is of the best you did euer see.
+   </dialogue><nonSpeech>Andro.</nonSpeech><dialogue>
+It is good in
+<pagebreak id="C4V" />
+did: But showe me of the very best that you haue.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+It shalbe done. Hold, here is of the best that I haue.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+If you haue no better, you haue nothing for me.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+What say you to this same.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+It is indifferent <comment type="compiler">SOURCE TEXT: indiffetent</comment> . So, So.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+I haue no better. 
+The collour is sure.
+It is in grayne.
+<pagebreak id="C5R" />
+It will not stayne.
+   </dialogue><nonSpeech>And.</nonSpeech><dialogue>    
+How sell you the yard of it? 
+How do you sell the yard. 
+How is it the yard. 
+What shall coast me the elle?
+What shall I pay for the yard. 
+What shall I geue for the elle. 
+What is worth the yarde of this cloth.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+At one word, I would sell it fayne: for twelue shillinges and eight 
+pence the yard. 
+I sell it for fiften shillings the yard. 
+<pagebreak id="C5V" />
+It shall caost you sixtene shillings, and sixe 
+pence the elle. 
+you shall pay a marke for the yarde of the same. 
+It is well worth eleuen shillings the yard. 
+you shall geue me twenty shillinges for the yard.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+It is to much. 
+you are to deare. 
+you hold your wares to high.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+What is it worth of your money.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>      
+I will geue nine shillings <comment type="compiler">SOURCE TEXT: shtllings</comment> for the yard.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+<pagebreak id="C6R" />
+you offer me not that it caost me. 
+What will you geue. 
+What will ye geue for. 
+Tell me a good word, that I may sell.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+I will geue ten shillinges sixe pence for the yard.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+I can not sell it for that price. you offer me to much lost.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+Shall I haue it for foureten shillinges.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+No truely. 
+I should be a loser by, it caost me more. 
+<pagebreak id="C6V" />
+It is better worth. 
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+It is worth no more. 
+Will ye take sixten shillinges for the yard.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+It caost me more then you offer me.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+You shall not sell it at your owne word.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+I could sell it for no lesse. 
+But bycause I am desirous to sell: I will bate out a shilling of my 
+price.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+At one word, I will geue but seuenten 
+<pagebreak id="C7R" />
+shillinges for.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue> 
+It is not mine for that price. Neuerthelesse, you shal haue it. Haw 
+much will ye haue of it.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+I must haue three elles and a half.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+You shall haue what you please. 
+One. 
+Two.
+Three, and a halfe good measure.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>    
+Make a good measure I pray.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+Measure it your selfe if you please.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+<pagebreak id="C7V" />
+It is needelesse, I would trust you in greater matter. 
+How much must you haue in all.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+Three elles, and a halfe, come to foure yardes, and two third partes 
+of the yard: So at seuenten shillinges the yard, the whole, comes to 
+three pound nineten shillinges and foure pence.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+you say true: Here is your money.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+God geue me a good handsell, I 
+<pagebreak id="C8R" />
+do buy your custome: I hope that you shall bare me good lucke, and 
+that I shall haue more of your money.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Dout not of it: Fare ye well Syr.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+God be wy Syr, at your co~maundement.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+But I pray Syr. Could you not mache this collour?
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+yes forsoth, I can: 
+We must see: 
+Let me see: Here is the nearest that I haue. 
+<pagebreak id="C8V" />
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>  
+This like me not.
+   </dialogue><nonSpeech>The Drap.</nonSpeech><dialogue>
+I haue none other.
+   </dialogue><nonSpeech>Androw.</nonSpeech><dialogue>
+Fare ye well the~.
+   </dialogue><nonSpeech>The Fishmo~ger.</nonSpeech><dialogue> 
+What doe you lake.
+   </dialogue><nonSpeech>Ra,</nonSpeech><dialogue>    
+What fishe haue you.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue> 
+I haue good salt fish, 
+Soles. 
+A good plaise.
+Viuers. 
+Rotches, or 
+Gornettes. 
+Whittinges. 
+Waisters. 
+Thurnebacke. 
+Smeltes. 
+Redde hering. 
+Whitte hering.
+Shrimpes. 
+<pagebreak id="D1R" />
+A loupster. 
+Crabbes. 
+A Picke. 
+A pickerell. 
+A millers thu~be. 
+A saumond. 
+A lamproye. 
+Elles. 
+A dorey. 
+A makerell.
+A trouette. 
+Small la~proyes. 
+Moskels. 
+Cockelles. 
+A tenche. 
+A carpe. 
+Kempes. 
+A whale. 
+And of sondry other fishes.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>    
+What shall I pay for a quarteron of waisters, for this side of salt 
+fish. 
+For this Thurnbacke, and for
+<pagebreak id="D1V" /> 
+halfe a hu~dreth of smelts.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue>
+Will you haue but one word.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>       
+No.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue> 
+you shall paye eight grotes for.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>    
+I shall not: I will pay, but fiue grotes for.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue> 
+you come not to buy.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>    
+But I doe: But you will sell your waeres to deare.
+Will you take money.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue> 
+yea, with other: 
+<pagebreak id="D2R" />
+A word wye Syr. 
+I will buy your custume. 
+Take all for two shillinges.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>    
+I will pay no more for.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue> 
+I should be a looser by: Cast th'other two pence.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>    
+I can not.
+   </dialogue><nonSpeech>The Fish.</nonSpeech><dialogue>
+Take it in Gods name.
+   </dialogue><nonSpeech>Ra.</nonSpeech><dialogue>   
+Hold here is your monney. Fare you well.
+   </dialogue><nonSpeech>The Butcher.</nonSpeech><dialogue> 
+What doe you buy? 
+Come hether Syr.
+What will you 
+<pagebreak id="D2V" />
+haue?
+What lake you?
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>       
+A fatte shippes 
+flesh. 
+A side of porke.
+This breast of 
+beefe. 
+A quarter of 
+vealle. 
+A nettes toung. 
+This roumpe of 
+beefe. 
+A calfes plucke. 
+Calfes feete. 
+Sheepes feete.
+A sheepes head. 
+A sheepe gather. 
+A calfes leagge. 
+A shoulder of 
+<pagebreak id="D3R" />
+motton.
+A loygne of 
+veale. 
+A quarter of 
+lambe.
+   </dialogue><nonSpeech>The butch.</nonSpeech><dialogue>
+I haue the beast meate in this towne and the fatest. 
+Choose,
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>        
+How sell you the waight of this beef.
+   </dialogue><nonSpeech>The bu.</nonSpeech><dialogue>
+Foureten pence the waight if you will.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+I will pay for it twelfe pence at a word.
+   </dialogue><nonSpeech>The butch.</nonSpeech><dialogue>
+You must come higher: 
+For my wares is not leane: See in an other place, 
+<pagebreak id="D3V" />
+and if you doe finde, fatter flesh then myne you shall haue it at your 
+prise.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>        
+I am a ma~ at one <comment type="compiler">SOURCE TEXT: one at</comment> word.
+   </dialogue><nonSpeech>The Butch.</nonSpeech><dialogue>
+Take the wares without money, and <comment type="compiler">SOURCE TEXT: aud</comment> as you shall 
+finde it, you shall pay me for.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>        
+I thanke you: 
+Take my money if you may.
+   </dialogue><nonSpeech>The Butch.</nonSpeech><dialogue> 
+You shall haue it, for the old acquaintance sake: Will you haue all 
+the whole side.
+<pagebreak id="D4R" />
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>      
+Yes, what doth it waight?
+   </dialogue><nonSpeech>The Butch.</nonSpeech><dialogue>
+It waightes, fiue waightes, two poundes, and a halfe good waight.
+   </dialogue><nonSpeech>Simon.</nonSpeech><dialogue>
+Hold, here is fiue shillinges and foure pence I pray GOD to graunt you 
+a good market.
+   </dialogue><nonSpeech>The Butch.</nonSpeech><dialogue>
+Fare you well brother Simon. At your co~mau~dement.
+</dialogue> <head>AT THE TABLE.</head> 
+<nonSpeech>The maister. The 
+Mistresse. 
+The neighbour. The 
+schoolemaister.
+<pagebreak id="D4V" />
+The sonne. 
+The daughter. 
+The man 
+seruaunt. 
+The mayde 
+seruaunt.</nonSpeech>
+   <nonSpeech>The Maister.</nonSpeech><dialogue>
+Dicke.
+   </dialogue><nonSpeech>Richard.</nonSpeech><dialogue>
+Anone forsoth. What is your pleasure.
+   </dialogue><nonSpeech>The Maist.</nonSpeech><dialogue> 
+Goe tell my neighbour roper, that I pray him to come to morow to dine 
+with me: And fro~ thence. Go thou desire my sonnes schoolemaister, to 
+beare vs co~paignie.
+   </dialogue><nonSpeech>Richard.</nonSpeech><dialogue>        
+Well Syr. 
+Good euen maister roper.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+<pagebreak id="D5R" /> 
+Good euen my frend.
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>        
+My maister desireth you to beare him company to morow at dyner.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+How doth your maister, and your mistresse.
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>        
+They be in good health, thankes be to God.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+Where be them?
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>
+They be at home.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+Haue me recommaunded 
+To him. 
+To her. 
+To them. 
+And tell them, 
+<pagebreak id="D5V" />
+that I will not misse.
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>        
+I will tell them so: God saue you Syr.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+And you also my frend: 
+What newes?
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>        
+My maister, and my mistresse desire you, to dine to morow with them.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue> 
+I trouble them euery foote: But sence they will haue it so: 
+I will come.
+   </dialogue><nonSpeech>Rich.</nonSpeech><dialogue>        
+Fare you well Syr.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+God be wy my frend Dicke. 
+<pagebreak id="D6R" />
+Haue me recommau~ded to your maister, and to your mistresse also.
+   </dialogue><nonSpeech>Ri.</nonSpeech><dialogue>
+I will tell the~ so.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Will they come?
+   </dialogue><nonSpeech>Ri.</nonSpeech><dialogue>       
+I Syr. 
+They promised so.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+God be here.
+   </dialogue><nonSpeech>The mistresse.</nonSpeech><dialogue>
+Good morow neighbour. 
+Here well come.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+I thanke ye mistresse.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+God saue all the company.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+<pagebreak id="D6V" />
+Well come Syr.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I thanke you Syr.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Why is not come my gossip your wife?
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+She is very busie at home. 
+She is gone forth.
+Shee is gone to the market.
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+What to doe?
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+She is gone thether to buy some egges. 
+A pigge. 
+Some nuttes. 
+Some peasen. 
+Some beanes. 
+Some aotte meale. 
+Some pudinges. 
+som saucerlings. 
+<pagebreak id="D7R" />
+Some apples. 
+Some peares.
+Some pease 
+cottes. 
+Some cherises. 
+Some raisins.
+Some figges. 
+Some butter. 
+Some rise. 
+Some milke. 
+Some plummes. 
+Some prunes. 
+Some almondes 
+Some turneps. 
+A pye, or a pasty. 
+A caeke. 
+A custarde. 
+Some oringes. 
+Some lymones. 
+A cabushe. 
+A henne.
+   </dialogue><nonSpeech>The mistr.</nonSpeech><dialogue>
+Be her affaires so great that she may not come?
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I, in deede.
+<pagebreak id="D7V" />
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+It shalbe then for an other tyme.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue> 
+Be it so.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+You be all well come. 
+Much good may it do to you. 
+You see your fare.
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+Pore here some drinke. 
+To you Syr. 
+I recommaunde you my sonne.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I thanke you mistresse: 
+your sonne <comment type="compiler">SOURCE TEXT: some</comment> is altogether recommaunded vnto me: 
+He is a very prety child.
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+<pagebreak id="D8R" />
+But a very shroude boy.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+He is the mothers sonne.
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+I loue him in deede.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+What newes?
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+There is no other newes, but of the sickenesse and the dearth, which 
+be now a dayes almost thoroughout all Fraunce.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+It is Gods hand which reue~geth the iniurie done to his Church.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+you say true.
+<pagebreak id="D8V" /> 
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+I beleue, that there scappes alwayes some of them.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+Few, or none at all.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Is the number of them great, that are come ouer into this cou~trey?
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+Very great: and there be many of them whiche doe liue very hard, so 
+great is their pouertie.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Truely, I take great pitie of their miserable estate: But I hope that 
+God will remember them: for he 
+<pagebreak id="E1R" />
+neuer forsaketh them which doe thrust in him.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Commen Syrs, let euery one take rowme.
+Iames pray God.
+   </dialogue><nonSpeech>Iames, sonne.</nonSpeech><dialogue> 
+The eyes of all thinges do looke vp, and thrust in thee, O Lord, thou 
+geuest the~ meate in due season: Thou openest thy hand and fillest 
+with thy blessing euery liuyng thing: Good Lord Blesse vs, and all thy 
+giftes, which we do receaue of thy bou~teous liberality through Iesu 
+Christ our Lord.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+<pagebreak id="E1V" />
+So be it.
+   </dialogue><nonSpeech>Mary daugh.</nonSpeech><dialogue>
+Let vs eate, and drinke, acknowledging, that all goodnesse doe come of 
+God. In the name of the Father, and of the sonne, and of the holy 
+ghost.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+It is a most true saying.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+You spend the tyme in talking, and you eate nothing. 
+Geue vs some whitte bread. 
+Some mancher <comment type="compiler">SOURCE TEXT: manchet</comment> . 
+Bring the seco~d course. 
+Goe fetche the fruite: 
+Geue here a 
+<pagebreak id="E2R" />
+tarte, and a custarde. 
+My frend, haue we not a cake.
+   </dialogue><nonSpeech>The mist.</nonSpeech><dialogue>
+Here is one.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+you be very litle eaters: 
+Take away, and pore vs some wine: 
+My sonne come say graces.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>  
+The kyng of eternall glory, make vs partakers of his heauenly table.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+So be it.
+   </dialogue><nonSpeech>Mary.</nonSpeech><dialogue>
+God saue his vniuersal Church our Queene and the Realme, and graunt vs 
+peace, 
+<pagebreak id="E2V" />
+and truth in Christ Iesus.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+So be it.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+God blesse you my children: 
+Syrs, come nere the fier. 
+There ayre of the fire is alwayes good.
+Make vs a good fire. 
+Bring a byllet, or twayne. 
+Now goe fetch a Fagot and some coales.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+Syr, It is tyme to goe.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+What hast haue you?
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I must goe to my 
+<pagebreak id="E3R" />
+schollers, to the end they leese no tyme.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+You haue yet tyme enough.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I pray you to geue me leaue this once, an other tyme you shall 
+commaund me.
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+Syr, you shalbe alwayes, well come to me: 
+I would be loth to let you from your good worke.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+I thanke you sir: Good euen mistresse.
+   </dialogue><nonSpeech>The neigh.</nonSpeech><dialogue>
+<pagebreak id="E3V" />
+God be wy sir, and you also mistresse. 
+I thanke you for your good chere
+   </dialogue><nonSpeech>The maist.</nonSpeech><dialogue>
+It is not worth thankes, good euen neighbour, you are well come.
+   </dialogue><nonSpeech>The mistres.</nonSpeech><dialogue>
+Fare ye well Syrs: We doe thanke you for your good company. 
+Iames, Goe to schoole, with your maister.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Well mother, I goe.
+</dialogue> <head>AT PLAYING.</head> 
+<nonSpeech>Peter. 
+Iames. 
+<pagebreak id="E4R" />
+Thomas. 
+Stephen. 
+The 
+scholemaister. 
+The Vsher.
+The seruaunt.</nonSpeech>
+   <nonSpeech>The school.</nonSpeech><dialogue>
+What is it of the clocke?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+It is almost two a clocke. 
+Tyme to goe to play if it please you to geue vs leaue.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+Children, Goe play: But take heede that you hurt not one an other    
+<comment type="compiler">SOURCE TEXT: othet</comment> .
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I thanke you maister.
+   </dialogue><nonSpeech>The Vsher.</nonSpeech><dialogue>
+Doe soe, that we here no complaintes on ye.
+<pagebreak id="E4V" />
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+We will play quitely.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+What game shal we play at?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Let vs play at dyce.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+I did neuer learne to play at dyce.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Let vs then play at tables.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Our maister should not be wel pleased with all.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Shall we then play at boules?
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+No: But we shall play at tanyse, or els at Cartes.
+<pagebreak id="E5R" />
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Let it be at Cartes, we bestow our tyme in vayn: and I feare much, 
+that our maister calles vs to our bookes, before we haue bego~ our 
+game.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Let vs then play for pynes.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Let it be so: But let vs hast to begin. 
+Shall we play at Trumpe?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Yea.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+How shall we play?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+<pagebreak id="E5V" />   
+The kyng shalbe worth six pynes. The Queene, foure: 
+The knaue, two: and eche carte one: and who haue the
+asse shall rubbe.
+   </dialogue><nonSpeech>Thomas.</nonSpeech><dialogue>
+You say well: 
+We will play my brother, and I agaynst Stephen and against you.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Will you haue it so Stephen?
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Yea.
+   </dialogue><nonSpeech>Thomas.</nonSpeech><dialogue>
+Let vs begin the~. Who shal deale?
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+The same shall deale, that shall cut the fayrest carte.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+<pagebreak id="E6R" />
+Let vs see then: Who shall deale.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I must deale: for I did cut a kyng.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Deale twelue a peece.
+   </dialogue><nonSpeech>Thomas.</nonSpeech><dialogue>
+Nine for euery man is enough.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Well deale then.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I dealt right. 
+The trumpe is. 
+Of clubbes.
+Of hartes. 
+Of speades. 
+Of dyamondes.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+I rubbe: But you dealt all to the~.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+I can not mende it: 
+<pagebreak id="E6V" />
+The cartes did rise so.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+You did not shufle them wel.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+But I haue.
+   </dialogue><nonSpeech>Thomas.</nonSpeech><dialogue>
+You doe owe me euery man two pinnes, for the knaue that I haue.
+   </dialogue><nonSpeech>Stephen.</nonSpeech><dialogue>
+Let see.
+   </dialogue><nonSpeech>Thomas.</nonSpeech><dialogue>
+Here it is.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+And you do owe me euery man ten, for the king, and the Queene
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Show them.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Here be them.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Notwithsta~dyng 
+<pagebreak id="E7R" />
+all your fayre cartes, I haue the game: 
+And you do owe me euery man, for six cartes.
+   </dialogue><nonSpeech>The seruaunt.</nonSpeech><dialogue>
+Children, Come to your bookes: The schoolemaister doth tary for you in 
+the schoole.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+We doe but begyn to play. 
+Do you call vs allready? 
+you ieste I beleue.
+   </dialogue><nonSpeech>The seruaunt.</nonSpeech><dialogue>
+I doe not: 
+Come I pray you, least you be beaten.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+Let vs goe then, and we shall make an end an
+<pagebreak id="E7V" />  
+other <comment type="compiler">SOURCE TEXT: orher</comment> tyme.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Our maister co~meth himselfe for vs.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+Will you neuer be weary of playing: 
+To your bookes, and learne well your lessons: The~ goe you home 
+quietly.
+   </dialogue><nonSpeech>Peter.</nonSpeech><dialogue>
+So shall we doe maister.
+   </dialogue><nonSpeech>Iames.</nonSpeech><dialogue>
+Good euen maister.
+   </dialogue><nonSpeech>The school.</nonSpeech><dialogue>
+Where is your cutsie? 
+you forget it alwayes: 
+Haue me recommau~ded to your 
+<pagebreak id="E8R" />
+parentes, and be here to morow betymes.
+</dialogue> <head>VPON THE WAY.</head> 
+<nonSpeech>The 
+Gentelman. 
+The marchaunt 
+man. 
+The seruing ma~. 
+The plowman.
+The Innekeeper.</nonSpeech>
+   <nonSpeech>The Gentel.</nonSpeech><dialogue>
+Neadd bring hether my horse, It is great tyme to be goyng.
+   </dialogue><nonSpeech>The seruing.</nonSpeech><dialogue>
+Whe~ you please: sir here is your horse.
+   </dialogue><nonSpeech>The gentel.</nonSpeech><dialogue>
+Let vs ride a good passe, to ouertake that man, which doth ride there 
+afore vs: God saue you sir.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+<pagebreak id="E8V" />
+God blesse you Syr.
+   </dialogue><nonSpeech>The gentel.</nonSpeech><dialogue>
+Whether go you sir.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+I would fayne be in Fraunce.
+   </dialogue><nonSpeech>The gentl.</nonSpeech><dialogue>
+And I also. 
+But where about do you mynde to take shipping?
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+At Rye, God willing.
+   </dialogue><nonSpeech>The gentel.</nonSpeech><dialogue>
+I would we were there.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+I hope we shalbe there to morow betymes.
+   </dialogue><nonSpeech>The gentel.</nonSpeech><dialogue>
+Nedde, geue me a waund: For I will not spurre 
+<pagebreak id="F1R" />
+my horse.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+Here is one sir.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Is it a hasell wanne?
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT HAS De WITH ACUTE ACCENT 
+IN PLACE OF The.</comment>
+No Syr: It is a holly wanne.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+But I pray you Syr: 
+Be we not out of our way?
+   </dialogue><nonSpeech>The gentl.</nonSpeech><dialogue>
+I can not tell in deede: 
+This plowman, which tilleth his grounde, will set vs againe on our 
+way, if we be out of the same. 
+Here ye my 
+<pagebreak id="F1V" />
+frend: 
+Is this the ready way to goe to Rye?
+   </dialogue><nonSpeech>The plow.</nonSpeech><dialogue>
+Yes syr: 
+Keepe still on the right hand.
+   </dialogue><nonSpeech>The gentle.</nonSpeech><dialogue>
+Is there neuer a house here by, wherein we may lodge.
+   </dialogue><nonSpeech>The plow.</nonSpeech><dialogue>
+Yes forsoth: 
+you haue two milles hence, a very good Inne.
+   </dialogue><nonSpeech>The gentl.</nonSpeech><dialogue>
+I thank ye my frend. 
+God be here: 
+Shall we lodge with you, this night? 
+Haue you any beadyng? 
+Good stables? 
+<pagebreak id="F2R" />
+Good hay? and good oates.
+   </dialogue><nonSpeech>The inkeeper.</nonSpeech><dialogue>
+You be very well come Syrs.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+I pray rubbe well our horses and geue them good litter: 
+Bring some hay, and some oates.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+How much will you haue.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+Bring halfe a bushell of oates for our three horses and full the 
+manger of hay.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+You shal haue it.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+<pagebreak id="F2V" />
+Nedd, pull of our bootes, and make the~ cleane and our spurres also: 
+Let the bridle of my horse be hu~ged on the pommell of his sadle.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+It hungeth there already? But there is one of your styruppes broken: 
+and one of the gyrtes ready to breake.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Goe buy others, and bring me a new gyrdle: For myne is worne. 
+Goe fetche
+A saddler. 
+A spurrier. 
+A teyler.
+<pagebreak id="F3R" />
+A shoemaker. 
+A cabeller. 
+A hattemaker. 
+A capper. 
+A seamester. 
+A habredasher. 
+A mercer. 
+A grosser. 
+An armourer.
+A cutteller. 
+A chandeler. 
+A grinder. 
+A carier. 
+A vintener. 
+A brewer. 
+A cooke. 
+A cooper. 
+A fishmonger. 
+A butcher. 
+A baker.
+A draper. 
+A pewterer. 
+A peinter. 
+A smith. 
+A locksmith. 
+An yronmonger. 
+A broker. 
+A poulterer. 
+A goldsmith. 
+<pagebreak id="F3V" />
+A carpendore. 
+A loygner. 
+A fruiterer. 
+A woodmonger. 
+A gyrdler. 
+A clockmaker. 
+A coalier. 
+A thinker.
+A glouer. 
+A ieweller.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+Syr. 
+Is it not tyme to goe to bed: 
+We must be on horsebacke to morow verye earely.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+You say true: 
+Myne host, let our beds be made, and let vs haue a fire made, &amp; cleane 
+<pagebreak id="F4R" />
+shittes.
+   </dialogue><nonSpeech>The host.</nonSpeech><dialogue>
+It shalbe done. Syrs, your beds be made: 
+When it please you, you may go to bed.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Nedd, take thou the candell, and showe me light to the priuyes.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+When it please you Syr.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+Good euen Syr.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+God geue you good night: 
+But it were good for vs to pray before we go to bed.
+<pagebreak id="F4V" />
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+Let vs pray whe~ you please.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+O lord whiche art onely good, true and <comment type="compiler">SOURCE TEXT: aud</comment> gracious 
+and mercyfull, which commaundeth them that loue thy name, to cast all 
+feare, and care from them, and to cast it on thee promising most 
+mercyfully thy selfe to be their protector against all their enemies, 
+and their refuge in daungers: their gouernour in the day: their light 
+in darkenesse, and their watchman also on the 
+<pagebreak id="F5R" />
+night: Neuer to slip, but to watch continually for the preseruyng of 
+the faythfull: We beseeche thee of thy bounteous goodnesse, O Lord, to 
+forgiue vs, where in we haue offended thee this day, &amp; to receaue vs 
+in thy protection this night, that we may rest in quietnesse both of
+body, &amp; soule: Graunt our eyes sleepe: But let our hartes watch 
+perpetuallye vnto thee that the weknes of 
+<pagebreak id="F5V" />
+the flesh, cause vs not to offend thee: Lord, let vs at all times 
+feele thy goodnes toward vs, that we be at all tymes styrred to prayse 
+thee &amp; that late, early and at mid day thy praise be in our own 
+mouthes and at midnight: Lord instruct vs in thy iudgme~ts, that al 
+the dayes of our life beyng lead in holines, &amp; puritie, we may be
+co~ducted at late into the euerlastyng rest, which thou hast promised 
+by thy mercy to the~ that obey thy word: To thee O Lord, be honor, 
+prayse &amp; glory for euer.
+<pagebreak id="F6R" />
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+So be it.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+The peace of God, which passeth all vnderstandyng, keepe our hartes, 
+and myndes, in the knowledge and loue of God, and of his sonne Iesus 
+Christ our Lord: and the blessing of God all mightie: 
+The father, the Sonne, and the holy Ghost, be amongest vs, and remayne 
+with vs alwayes.
+   </dialogue><nonSpeech>The march.</nonSpeech><dialogue>
+So be it. 
+Now Syr, I byde you the good night.
+<pagebreak id="F6V" />
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+He that mayd the good nights Graunt to geue you foureten in stead of 
+foure.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+Syr, Is it not yet tyme to goe?
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+What is it of the clocke.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+It is almost fiue of the clocke.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Is it a fayre weather.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+Very fayre Syr.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Are you ready Syr? Let vs pray God?
+   </dialogue><nonSpeech>The mar.</nonSpeech><dialogue>
+Whe~ you please 
+<pagebreak id="F7R" />
+Syr.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+O LORD good God, eternall and almightie Father, whiche hast by thy 
+grace, guided and conducted vs vnder thy holy protection to the 
+begynnyng of this day, we most humbly beseeche thee, to keepe, and 
+susteine vs alwayes by thy vertue, that in the same we may fall into 
+no sinne: But direct vs rather to obey and serue thee accordyng to thy 
+holy will: Let all our thoughtes be wholly lifted vp 
+<pagebreak id="F7V" />
+vnto thee, and guide so our wordes, and our deedes, that we may say, 
+nor thinke, nor doe any thyng contrary to thy holy will: Here vs our 
+GOD, and Father, and so replenishe vs with thy graces, and mercy, that 
+we employ all this day in ioye, and that we may delite in singing of 
+thy prayses, through Iesus Christ thy sonne our Lord.
+   </dialogue><nonSpeech>The mar.</nonSpeech><dialogue>
+So be it. 
+Now it is tyme to goe.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+<pagebreak id="F8R" />
+When you will, I am ready: 
+I hope we shall haue a fayre weather to day.
+   </dialogue><nonSpeech>The mar.</nonSpeech><dialogue>
+God graunt it.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Nedd, bring my sword, my dagge, 
+My harkebuse. 
+Bring heather our horses. 
+My mowile. 
+Mine asse. 
+Mine oxe. 
+My hogge. 
+My dogge. 
+My grayhunde.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+Syr, here be your horses and all that you commaunded me. 
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Thou diddest 
+<pagebreak id="F8V" />
+forget my head peece.
+   </dialogue><nonSpeech>The ser.</nonSpeech><dialogue>
+I goe for it, Syr.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Myne host, let vs haue a reakenyng. 
+Let vs reaken. 
+Reaken with vs. And come for your monney.
+   </dialogue><nonSpeech>The inkeeper.</nonSpeech><dialogue>
+God saue you Syrs.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+And you also myne host.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+Syrs, you doe owe for you and for your men, and horses, foure 
+shillings and six pence: And you be well come.
+<pagebreak id="G1R" />
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+It is to much.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+Truely Syr, all is very deare now a dayes.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Hold your monney.
+   </dialogue><nonSpeech>The mar.</nonSpeech><dialogue>
+Are you pleased myne host.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+Yea, forsooth: I thanke you.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+I pray you myne host set vs on our right way to Rye.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+Folow on this path till you 
+<pagebreak id="G1V" />
+come to the high way. Then keepe alwayes on the left hand, leauyng on 
+the right hand, a high hedge the whiche you shall finde, about a myle 
+hence: 
+Doubtlesse that way will bryng you straight to Rye.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+How farre is to Rye?
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+There is about twenty myles.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Is it a fayre way?
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+Yea Syr very fayre.
+<pagebreak id="G2R" /> 
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+I thanke you myne host: 
+I commit you to God.
+   </dialogue><nonSpeech>The in.</nonSpeech><dialogue>
+God be your speede Syrs: 
+Fare you well, at your co~maundement.
+   </dialogue><nonSpeech>The gent.</nonSpeech><dialogue>
+Lord GOD, we beseeche thee most humbly to be our conductor in this our 
+voyage: So that (beyng by thy bountifull mercy, preserued in the same 
+from all daungers, and perils) we may returne in peace: 
+<pagebreak id="G2V" />
+Blesse vs good Lord, and bryng our affaires to a good ende. 
+Through Iesus Christ thy sonne our Lord. To whom be geuen all honor 
+and glory for euer. 
+So be it.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2CJONSO">
+  <dialogueHeader>
+
+    <filename>D2CJONSO</filename>
+
+    <identifier>2 COMEDY D2CJONSO</identifier>
+
+    <title>BARTHOLMEW FAYRE</title>
+
+    <author>JONSON BEN</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1631</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">JONSON, BEN.</attribution>
+      <frontMatter>BARTHOLMEW FAYRE:
+A COMEDIE, ACTED IN THE YEARE, 1614.
+BY THE LADY ELIZABETHS SERVANTS.
+AND THEN DEDICATED TO KING IAMES, OF MOST BLESSED MEMORIE;
+BY THE AUTHOR, BENIAMIN IOHNSON.
+(...)
+LONDON, PRINTED BY I. B. FOR ROBERT ALLOT, AND ARE TO BE SOLD AT THE 
+SIGNE OF THE BEARE, IN PAULS CHURCH-YARD. 
+1631.
+PP. 24.1 - 47.10
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">IN THE SOURCE TEXT ALL STAGE DIRECTIONS ARE IN THE MARGINS. HERE 
+THEY ARE PLACED SO THAT THEY PRECEDE THE UTTERANCE TO WHICH THEY ARE
+ADJACENT.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS NO ITALICS FOR THE LATTER PART OF THE COMPOUNDS 
+IN &quot;Bartholmew-&quot;, &quot;Bartholemew-&quot; OR &quot;Fayre-&quot;; HERE THE ITALICS CODE
+HAS BEEN EXTENDED TO COVER THESE WORDS.</comment>
+
+<comment type="compiler">SINGLE SQUARE BRACKETS OR WAVY BRACKETS USED IN SOURCE TEXT TO 
+INDICATE INTERRUPTIONS BY OTHER SPEAKERS ARE OMITTED.</comment>
+
+<comment type="compiler">SPACES ARE CONSISTENTLY USED BELOW BETWEEN A WORD ABBREVIATED WITH 
+A FINAL APOSTROPHE AND THE FOLLOWING WORD, SUCH AS &quot;o' the&quot; AND 
+&quot;i' your&quot;, IN ORDER TO FACILITATE WORD SEARCHES, IN CASES WHERE THERE 
+IS VARIATION IN SPACING IN THE SOURCE TEXT.</comment>
+
+<comment type="compiler">SOURCE TEXT HAS PAGE NUMBER 13 FOR 31. HERE AMENDED TO 31.</comment>
+
+<pagebreak id="24" />
+</dialogue> <head>ACT. II. SCENE. V.</head> 
+
+<nonSpeech>WIN-WIFE. QVARLOVS. <font>to them.</font> </nonSpeech><dialogue>
+<comment type="compiler">WAVY BRACKET PRECEDING to them OMITTED.</comment>
+
+Wee are heere before 'hem, me thinkes.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> All the better, we shall see 'hem come in now.
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> What doe you lacke, Gentlemen, what is't you lacke? a 
+fine Horse? a Lyon? a Bull? a Beare? a Dog, or a Cat? an 
+excellent fine <font>Bartholmew-bird</font> ? or an Instrument? what is't you
+lacke?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> S'lid! heere's <font>Orpheus</font> among the beasts, with his
+Fiddle, and all!
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Will you buy any comfortable bread, Gentlemen?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> And <font>Ceres</font> selling her daughters picture, in
+Ginger-worke!
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> That these people should be so ignorant to thinke vs
+chapmen for 'hem! doe wee looke as if wee would buy
+Ginger-bread? or Hobby-horses?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Why, they know no better ware then they haue, nor 
+better customers then come. And our very being here makes vs fit 
+to be demanded, as well as others. Would <font>Cokes</font> would come! 
+there were a true customer for 'hem.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> How much is't? thirty shillings? who's yonder! <font>Ned
+Winwife</font> ? and <font>Tom Quarlous</font> , I thinke! yes, (gi' me it all) (gi' 
+me it all) Master <font>Win-wife</font> ! Master <font>Quarlous</font> ! will you take a
+pipe 
+of tabacco with vs? do not discredit me now, <font>Zekiel</font> .
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Doe not see him! he is the roaring horse-courser, pray
+thee let's auoyd him: turne downe this way.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> S'lud, I'le see him, and roare with him, too, and hee
+roar'd as loud as <font>Neptune</font> , pray thee goe with me.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> You may draw me to as likely an inconuenience, when 
+you please, as this.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Goe to then, come along, we ha' nothing to doe, man, 
+but to see sights, now.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Welcome Master <font>Quarlous</font> , and Master <font>Winwife</font> !   
+will 
+you take any froth, and smoake with vs?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Yes, Sir, but you'l pardon vs, if we knew not of so much
+familiarity betweene vs afore.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> As what, Sir?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> To be so lightly inuited to smoake, and froth.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> A good vapour! will you sit downe, Sir? this is old
+<pagebreak id="25" />
+<font>Vrsla's</font> mansion, how like you her bower? heere you may ha' your
+Punque, and your Pigge in state, Sir, both piping hot.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> I had rather ha' my Punque, cold, Sir.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> There's for me, Punque! and Pigge!
+
+</dialogue><nonSpeech> <font>She calls within.</font> </nonSpeech>
+
+   <nonSpeech>VRS.</nonSpeech><dialogue> What <font>Moonecalfe</font> ? you Rogue.
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> By and by, the bottle is almost off Mistresse, here
+Master <font>Arthur</font> .   
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> I'le part you, and your play-fellow there, i' the garded
+coat, an' you sunder not the sooner.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Master <font>Win-wife</font> , you are proud (me thinkes) you doe 
+not 
+talke, nor drinke, are you proud?
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Not of the company I am in, Sir, nor the place, I assure
+you.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> You doe not except at the company! doe you? are you
+in vapours, Sir?
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> Nay, good Master <font>Dan: Knockhum</font> , respect my Mistris
+Bower, as you call it; for the honour of our Booth, none o' your
+vapours, heere.
+
+</dialogue><nonSpeech> <font>She comes out with a fire-brand.</font> </nonSpeech>
+
+   <nonSpeech>VRS.</nonSpeech><dialogue> Why, you thinne leane Polcat you, and they haue a 
+minde to be i' their vapours, must you hinder 'hem? what did you
+know Vermine, if they would ha' lost a cloake, or such a trifle?
+must you be drawing the ayre of pacification heere? while I am
+tormented, within, i' the fire, you Weasell?
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> Good Mistresse, 'twas in the behalfe of your Booth's
+credit, that I spoke.
+   </dialogue><nonSpeech>VRS,</nonSpeech><dialogue> Why? would my Booth ha' broake, if they had fal'ne 
+out in't? Sir? or would their heate ha' fir'd it? in, you Rogue, and
+wipe the pigges, and mend the fire, that they fall not, or I'le both 
+baste and roast you, till your eyes drop out, like 'hem. (Leaue the
+bottle behinde you, and be
+curst a while.)
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Body o' the <font>Fayre</font> ! what's this? mother o' the Bawds?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> No, she's mother o' the Pigs, Sir, mother o' the Pigs!
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Mother o' the <font>Furies</font> , I thinke, by her firebrand.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Nay, shee is too fat to be a <font>Fury</font> , sure, some      
+walking 
+Sow of tallow!
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> An inspir'd vessell of Kitchin-stuffe!
+
+</dialogue><nonSpeech> <font>She drinkes this while.</font> </nonSpeech>
+
+   <nonSpeech>QVAR.</nonSpeech><dialogue> She'll make excellent geere for the Coach-makers, here 
+in Smithfield, to anoynt wheeles and axell trees with.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> I, I, Gamesters, mocke a plaine plumpe soft wench o' 
+the Suburbs, doe, because she's iuicy and wholesome: you must 
+ha' your thinne pinch'd ware, pent vp i' the compasse of a
+dogge-collar, (or 'twill not do) that lookes like a long lac'd       
+<font>Conger</font> , set 
+vpright, and a greene feather, like fennell i' the Ioll on't.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Well said <font>Vrs</font> , my good <font>Vrs</font> ; to 'hem <font>Vrs</font> .
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Is shee your quagmire, <font>Dan: Knockhum</font> ? is this your
+Bogge?
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> We shall haue a quarrel presently.
+<pagebreak id="26" />
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> How? Bog? Quagmire? foule vapours! hum'h!
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Yes, hee that would venture for't, I assure him, might
+sinke into her, and be drown'd a weeke, ere any friend hee had, 
+could find where he were.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> And then he would be a fort'night weighing vp againe.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> 'Twere like falling into a whole <font>Shire</font> of butter:   
+they 
+had need be a teeme of <font>Dutchmen</font> , should draw him out.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Answer 'hem, <font>Vrs</font> , where's thy <font>Bartholmew-wit</font> ,  
+now? 
+<font>Vrs</font> , thy <font>Bartholmew-wit</font> ?
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Hang 'hem, rotten, roguy Cheaters, I hope to see 'hem
+plagu'd one day (pox'd they are already, I am sure) with leane 
+playhouse poultry, that has the boany rumpe, sticking out like the Ace
+of Spades, or the point of a Partizan, that euery rib of 'hem is like 
+the tooth of a Saw: and <comment type="compiler">SOURCE TEXT: aud</comment> will so grate 'hem with 
+their hips, &amp;
+shoulders, as (take 'hem altogether) they were as good lye with a    
+hurdle.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Out vpon her, how she drips! she's able to giue a man 
+the sweating Sicknesse, with looking on her.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Mary looke off, with a patch o' your face; and a dosen 
+i' your breech, though they be o' scarlet, Sir. I ha' seene as fine
+outsides, as either o' yours, bring lowsie linings to the Brokers, ere
+now, twice a weeke?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Doe you thinke there may be a fine new Cuckingstoole 
+i' the <font>Fayre</font> , to be purchas'd? one large inough, I meane. I know 
+there is a pond of capacity, for her.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> For your mother, you Rascall, out you Rogue, you hedge
+bird, you Pimpe, you pannier-mans bastard, you.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Ha, ha, ha.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Doe you sneere, you dogs-head, you <font>Trendle tayle</font> ! you
+looke as you were begotten a' top of a Cart in haruest-time, when 
+the whelp was hot and eager. Go, snuffe after your brothers bitch,
+M=rs= <font>Commodity</font> , that's the Liuory you weare, 'twill be out at  
+the 
+elbows, shortly. It's time you went to't, for the to'ther remnant.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Peace, <font>Vrs</font> , peace, <font>Vrs</font> , they'll kill the poore 
+Whale, and 
+make oyle of her. Pray thee goe in.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> I'le see 'hem pox'd first, and pil'd, and double pil'd.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Let's away, her language growes greasier then her Pigs.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Dos't so, snotty nose? good Lord! are you sniueling? 
+you were engendred on a she-begger, in a barne, when the bald
+Thrasher, your Sire, was scarce warme.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Pray thee, let's goe.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> No, faith: I'le stay the end of her, now: I know shee
+cannot last long; I finde by her <font>similes</font> , shee wanes a pace.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Do's shee so? I'le set you gone. Gi' mee my Pig-pan 
+hither a little. I'le scald you hence, and you will not goe.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Gentlemen, these are very strange vapours! and very
+idle vapours! I assure you.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> You are a very serious asse, wee assure you.
+<pagebreak id="27" />
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Humh! Asse? and serious? nay, then pardon mee my 
+vapour. I haue a foolish vapour, Gentlemen: any man that doe's 
+vapour me, the Asse, Master <font>Quarlous</font> -- 
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> What then, Master <font>Iordan</font> ?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> I doe vapour him the lye.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Faith, and to any man that vapours mee the lie, I doe
+vapour that. 
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Nay, then, vapours vpon vapours.
+
+</dialogue><nonSpeech>Vrsla <font>comes in, with the scalding-pan. They fight. Shee falls with
+it</font> .</nonSpeech>
+
+   <nonSpeech>EDG. NIG.</nonSpeech><dialogue> 'Ware the pan, the pan, the pan, shee comes with 
+the pan, Gentlemen. God blesse the woman.       
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Oh.                                                  
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> What's the matter?                                  
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Goodly woman!                                       
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> Mistresse!                                          
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Curse of hell, that euer I saw these Feinds, oh! I ha'
+scalded my leg, my leg, my leg, my leg. I ha' lost a limb in the     
+seruice! 
+run for some creame and sallad oyle, quickly. Are you 
+vnder-peering, you Baboun? rip off my hose, an' you be men, men, men.
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> Runne you for some creame, good mother <font>Ione</font> . I'le
+looke to your basket.
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> Best sit vp i' your chaire, <font>Vrsla</font> . Helpe, Gentlemen.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Be of a good cheere, <font>Vrs</font> , thou hast hindred me the
+currying of a couple of Stallions, here, that abus'd the good        
+<font>race-Bawd</font> <comment type="compiler">NO ITALICS FOR race IN SOURCE TEXT</comment>
+o' Smithfield; 'twas time for 'hem to goe.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> I faith, when the panne came, they had made you runne
+else. (this had beene a fine time for purchase, if you had 
+ventur'd.)
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Not a whit, these fellowes were too fine to carry
+money.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> <font>Nightingale</font> , get some helpe to carry her legge out  
+o' the 
+ayre; take off her shooes; body o' me, she has the Mallanders, the 
+scratches, the crowne scabbe, and the quitter bone, i' the 
+tother legge.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Oh! the poxe, why doe you put me in minde o' my leg, 
+thus, to make it prick, and shoot? would you ha' me i' the 
+Hospitall, afore my time?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Patience, <font>Vrs</font> , take a good heart, 'tis but a        
+blister, as 
+big as a Windgall; I'le take it away with the white of an egge, a 
+little honey, and hogs grease, ha' thy pasternes well rol'd, and thou
+shall't pase againe by to morrow. I'le tend thy Booth, and looke to 
+thy affaires, the while: thou shalt sit i' thy chaire, and giue
+directions, and shine <font>Vrsa maior</font> .
+<pagebreak id="28" />
+
+</dialogue> <head>ACT. II. SCENE. VI.</head>  
+
+<nonSpeech>IVSTICE. EDGEWORTH. 
+NIGHTINGALE. COKES. WASPE. Mistris
+OVERDOO. GRACE.</nonSpeech><dialogue>
+
+These are the fruites of the bottle-ale, and tabacco! the some of the
+one, and the fumes of the other! Stay young man, and despise 
+not the wisedome of these few hayres, that are growne gray in care 
+of thee.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> <font>Nightingale</font> , stay a little. Indeede I'le heare some 
+o' 
+this!
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Come, <font>Numps</font> , come, where are you? welcome into 
+the <font>Fayre</font> , Mistris <font>Grace</font> .
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> S'light, hee will call company, you shall see, and put vs 
+into doings presently.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Thirst not after that frothy liquor, Ale: for, who knowes,
+when hee openeth the stopple, what may be in the bottle? hath 
+not a Snaile, a Spider, yea, a Neuft bin found there? thirst not 
+after it, youth: thirst not after it.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> This is a braue fellow, <font>Numps</font> , let's heare him.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> S'blood, how braue is he? in a garded coate? you were 
+best trucke with him, e'en strip, and trucke presently, it will 
+become you, why will you heare him, because he is an Asse, and may 
+be a kinne <comment type="compiler">SOURCE TEXT: kinnne</comment> to the <font>Cokeses</font> ?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> O, good <font>Numps</font> !
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Neither doe thou lust after that tawney weede, tabacco.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Braue words!
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Whose complexion is like the Indians that vents it!
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Are they not braue words, Sister?
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> And who can tell, if, before the gathering, and making
+vp thereof, the <font>Alligarta</font> hath not piss'd thereon?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> 'Heart let 'hem be braue words, as braue as they will!
+and they were all the braue words in a Countrey, how then? will 
+you away yet? ha' you inough on him? Mistris <font>Grace</font> , come you
+away, I pray you, be not you accessary. If you doe lose your 
+Licence, or somewhat else, Sir, with listning to his fables: say,    
+<font>Numps</font> ,
+is a witch, with all my heart, doe, say so.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Avoyd i' your sattin doublet, <font>Numps</font> .
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> The creeping venome of which subtill serpent, as some 
+<pagebreak id="29" />
+late writers affirme; neither the cutting of the perrillous plant, 
+nor the drying of it, nor the lighting, or burning, can any way 
+perssway, or asswage.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Good, i' faith! is't not Sister?
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Hence it is, that the lungs of the Tabacconist are rotted,
+the Liuer spotted, the braine smoak'd like the backside of the
+Pig-womans Booth, here, and the whole body within, blacke, as her 
+Pan, you saw e'en now, without.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> A fine similitude, that, Sir! did you see the panne?
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Nay, the hole in the nose heere, of some tabacco-takers,
+or the third nostrill, (if I may so call it) which makes, that they  
+can 
+vent the tabacco out, like the Ace of clubs, or rather the
+Flower-de-lice, is caused from the tabacco, the meere tabacco! when  
+the 
+poore innocent pox, hauing nothing to doe there, is miserably, 
+and most vnconscionably slander'd.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Who would ha' mist this, Sister?
+   </dialogue><nonSpeech>OVER.</nonSpeech><dialogue> Not any body, but <font>Numps</font> .
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> He do's not vnderstand.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Nor you feele.
+
+</dialogue><nonSpeech> <font>Hee picketh his purse.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> What would you haue, Sister, of a fellow that knowes
+nothing but a basket-hilt, and an old Fox in't? the best musique 
+i' the <font>Fayre</font> , will not moue a logge.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> In, to <font>Vrsla, Nightingale</font> , and carry her comfort:   
+see it 
+told. This fellow was sent to vs by fortune, for our first fairing.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> But what speake I of the diseases of the body, children of 
+the <font>Fayre</font> ?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> That's to vs, Sister. Braue i' faith!
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Harke, O, you sonnes and daughters of Smithfield! and
+heare what mallady it doth the minde: It causeth swearing, it 
+causeth swaggering, it causeth snuffling, and snarling, and now and
+then a hurt.
+   </dialogue><nonSpeech>OVE.</nonSpeech><dialogue> He hath something of Master <font>Ouerdoo</font> , mee thinkes,
+brother.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> So mee thought, Sister, very much of my brother
+<font>Ouerdoo</font> : And 'tis, when he speakes.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Looke into any Angle o' the towne, (the Streights, or the
+<font>Bermuda's</font> where the quarrelling lesson is read, and how doe 
+they entertaine the time, but with bottle-ale, and tabacco? The
+Lecturer is o' one side, and his Pupils o' the other; But the seconds
+are still bottle-ale, and tabacco, for which the Lecturer reads, and
+the Nouices pay. Thirty pound a weeke in bottle-ale! forty in 
+tabacco! and ten more in Ale againe. Then for a sute to drinke in, 
+so much, and (that being slauer'd) so much for another sute, and 
+then a third sute, and a fourth sute! and still the bottle-ale
+slauereth, and the tabacco stinketh!
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Heart of a mad-man! are you rooted heere? will           
+<comment type="compiler">SOURCE TEXT: well</comment> you 
+<pagebreak id="30" />
+neuer away? what can any man finde out in this bawling fellow, 
+to grow heere for? hee is a full handfull higher, sin' he heard him,
+will you fix heere? and set vp a Booth? Sir?
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> I will conclude briefely --
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Hold your peace, you roaring Rascall, I'le runne 
+my head i' your chaps else. You were best build a Booth, and
+entertaine him, make your Will, and you say the word, and him your
+heyre! heart, I neuer knew one taken with a mouth of a pecke, 
+afore. By this light, I'le carry you away o' my backe, and you will
+not come.
+
+</dialogue><nonSpeech> <font>He gets him vp on pick-packe.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> Stay <font>Numpes</font> , stay, set mee downe: I ha' lost my     
+purse, 
+<font>Numpes</font> , O my purse! one o' my fine purses is gone.
+   </dialogue><nonSpeech>OVER.</nonSpeech><dialogue> Is't indeed, brother?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> I, as I am an honest man, would I were an errant Rogue,
+else! a plague of all roguy, damn'd cut-purses for me.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Blesse 'hem with all my heart, with all my heart, do you
+see! Now, as I am no Infidell, that I know of, I am glad on't. I 
+I am, (here's my witnesse!) doe you see, Sir? I did not tell you of
+his fables, I? no, no, I am a dull malt-horse, I, I know nothing. Are
+you not iustly seru'd i' your conscience now? speake i' your
+conscience. Much good doe you with all my heart, and his good heart
+that has it, with all my heart againe.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> This fellow is very charitable, would he had a purse too!
+but, I must not be too bold, all at a time.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Nay, <font>Numps</font> , it is not my best purse.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Not your best! death! why should it be your worst? 
+why should it be any, indeed, at all? answer me to that, gi' mee a
+reason from you, why it should be any?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Nor my gold, <font>Numps</font> ; I ha' that yet, looke heere else,
+Sister.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why so, there's all the feeling he has!
+   </dialogue><nonSpeech>OVER.</nonSpeech><dialogue> I pray you, haue a better care of that, brother.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Nay, so I will, I warrant you; let him catch this, that
+catch can. I would faine see him get this, looke you
+heere.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> So, so, so, so, so, so, so, so! Very good.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> I would ha' him come againe, now, and but offer at it.
+Sister, will you take notice of a good iest? I will put it iust where
+th'other was, and if we ha' good lucke, you shall see a delicate fine
+trap to catch the cutpurse, nibling.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Faith, and he'll trye ere you be out o' the <font>Fayre</font> .
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Come, Mistresse <font>Grace</font> , pre'thee be not melancholy for
+my mis-chance; sorrow wi' not keepe it, Sweet heart.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> I doe not thinke on't, Sir.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: COOK.</comment> 'Twas but a little scuruy white   
+money, hang it: it may 
+hang the cutpurse, one day. I ha' gold left to gi' thee a fayring,
+yet, as hard as the world goes: nothing angers me, but that 
+no body heere, look'd like a cutpurse, vnlesse 'twere <font>Numps</font> .
+<pagebreak id="31" />
+<comment type="compiler">THIS PAGE NUMBERED 13 IN SOURCE TEXT.</comment>
+   </dialogue><nonSpeech>WAS</nonSpeech><dialogue> How? I?  I looke like a cutpurse? death! your Sister's 
+a cutpurse! and your mother and father, and all your kinne were
+cutpurses! And here is a Rogue is the baud o' the cutpurses, whom 
+I will beat to begin with.
+
+</dialogue><nonSpeech> <font>They speake all together: and</font> Waspe <font>beats the</font> Iustice.</nonSpeech>
+
+   <nonSpeech>IVS.</nonSpeech><dialogue> Hold thy hand, childe                
+of wrath, and heyre of anger, 
+make it not Childermasse day                   
+in thy fury, or the feast of the 
+French <font>Bartholmew</font> , Parent of 
+the Massacre <comment type="compiler">SOURCE TEXT: Parent of the of the Massacre</comment> .
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> <font>Numps, Numps.</font>                   
+   </dialogue><nonSpeech>OVER.</nonSpeech><dialogue> Good M=r= <font>Humphrey</font> .
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> You are the <font>Patrico</font> !
+are you? the Patriarch of the
+cutpurses? you share, Sir, they
+say, let them share this with
+you. Are you i' your hot fit of preaching againe? I'le coole you.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Murther, murther, murther.
+
+</dialogue> <head>ACT. III. SCENE. I.</head> 
+
+<nonSpeech>WHIT. HAGGISE. BRISTLE. 
+LEATHER-HEAD. TRASH.</nonSpeech><dialogue>
+
+Nay, tish all gone, now! dish tish, phen 
+tou vilt not be phitin call, Master 
+Offisher, phat ish a man te better to lishen 
+out noyshes for tee, &amp; tou art in an oder 
+'orld, being very shuffishient noyshes 
+and gallantsh too, one o' their brabblesh 
+woud haue fed vsh all dish fortnight, but
+tou art so bushy about beggersh stil, tou 
+hast no leshure to intend shentlemen, 
+and't be.
+   </dialogue><nonSpeech>HAG.</nonSpeech><dialogue> Why, I told you, <font>Dauy Bristle</font> .
+   </dialogue><nonSpeech>BRI.</nonSpeech><dialogue> Come, come, you told mee a pudding, <font>Toby Haggise</font> ; A
+matter of nothing; I am sure it came to nothing! you said, let's 
+goe to <font>Vrsla's</font> , indeede; but then you met the man with the
+<pagebreak id="32" />
+monsters, and I could not get you from him. An old foole, not leaue
+seeing yet?
+   </dialogue><nonSpeech>HAG.</nonSpeech><dialogue> Why, who would ha' thought any body would ha'
+quarrell'd so earely? or that the ale o' the <font>Fayre</font> would ha' beene
+vp so soone?
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Phy? phat a clocke toest tou tinke it ish, man?
+   </dialogue><nonSpeech>HAG.</nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Tou art a vishe vatchman, i' te meane teeme.
+   </dialogue><nonSpeech>HAG.</nonSpeech><dialogue> Why? should the watch goe by the clocke, or the clock
+by the watch, I pray?
+   </dialogue><nonSpeech>BRI.</nonSpeech><dialogue> One should goe by another, if they did well.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Tou art right now! phen didst tou euer know, or heare 
+of a shuffishient vatchman, but he did tell the clocke, phat
+bushinesse soeuer he had?
+   </dialogue><nonSpeech>BRI.</nonSpeech><dialogue> Nay, that's most true, a sufficient watchman knowes 
+what a clocke it is.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Shleeping, or vaking! ash well as te clocke himshelfe, or
+te Iack dat shtrikes him!
+   </dialogue><nonSpeech>BRI.</nonSpeech><dialogue> Let's enquire of Master <font>Leatherhead</font> , or <font>Ione      
+Trash</font> heere. 
+Master <font>Leatherhead</font> , doe you heare, Master <font>Leatherhead</font> ?
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> If it be a Ledderhead, tish a very tick Ledderhead, tat
+sho mush noish vill not perish <comment type="compiler">SOURCE TEXT: peirsh</comment> him.
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> I haue a little businesse now, good friends doe not
+trouble me.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Phat? because o' ty wrought neet cap, and ty pheluet
+sherkin, Man? phy? I haue sheene tee in ty Ledder sherkin, ere now,
+Mashter o' de hobby-Horses, as bushy and as stately as tou 
+sheem'st to be.
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Why, what an' you haue, Captaine <font>Whit</font> ? hee has his
+choyce of Ierkins, you may see by that, and his caps too, I assure
+you, when hee pleases to be either sicke, or imploy'd.
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> God a mercy <font>Ione</font> , answer for me.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Away, be not sheen i' my company, here be shentlemen, 
+and men of vorship.
+
+</dialogue> <head>ACT. III. SCENE. II.</head> 
+
+<nonSpeech>QVARLOVS. WHIT. WIN-WIFE. BVSY. 
+IOHN. PVRE-CRAFT. WIN. 
+KNOK-HVM. MOON-CALFE. VRSLA.</nonSpeech><dialogue>
+
+Wee had wonderfull ill lucke, to misse this prologue o' the 
+purse, but the best is, we shall haue fiue <font>Acts</font> of him ere 
+night: hee'le be spectacle enough! I'le answer for't.
+<pagebreak id="33" />
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> O Creesh! Duke <font>Quarlous</font> , how dosht tou? tou dosht 
+not know me, I feare? I am te vishesht man, but Iustish              
+<font>Ouerdoo</font> , in 
+all <font>Bartholmew Fayre</font> , now. Gi' me tweluepence from tee, I vill  
+help 
+tee to a vife vorth forty marks for't, and't be.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Away, Rogue, Pimpe away.
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> And shee shew tee as fine cut o'rke fort't in her 
+shmock too, as tou cansht vishe i'faith; vilt tou haue her,
+vorshipfull <font>Vin uife</font> ? I vill helpe tee to her, heere, be an't   
+be, in te 
+pig-quarter, gi' me ty twelpence from tee,
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Why, there's twelpence, pray thee wilt thou be gone?
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> Tou art a vorthy man, and a vorshipfull man still.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Get you gone, Rascall. 
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> I doe meane it, man. Prinsh <font>Quarlous</font> if tou hasht need   
+on me, tou shalt finde me heere, at <font>Vrsla's</font> , I vill see phat    
+ale, and 
+punque ish i' te pigshty, for tee, blesse ty good vorship.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Looke! who comes heere! <font>Iohn Little-wit!</font>
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> And his wife, and my widdow, her mother: the whole
+family.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> 'Slight, you must gi' hem all fairings, now!
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Not I, I'le not see 'hem.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> They are going a feasting. What Schole-master's that 
+is with 'hem?
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> That's my Riuall, I beleeue, the Baker!
+   </dialogue><nonSpeech>BVS.</nonSpeech><dialogue> So, walke on in the middle way, fore-right, turne
+neyther to the right hand, nor to the left: let not your eyes be     
+drawne 
+aside with vanity, nor your eare with noyses.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> O, I know him by that start!
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> What do you lack? what do you buy, pretty Mistris! a fine
+Hobby-Horse, to make your sonne a Tilter? a Drum to make him
+a Souldier? a Fiddle, to make him a Reueller? What is't you lack?
+Little Dogs for your Daughters? or Babies, male, or female?
+   </dialogue><nonSpeech>BVS.</nonSpeech><dialogue> Look not toward them, harken not: the place is           
+<font>Smithfield</font> , 
+or the field of Smiths, the Groue of Hobbi-horses and trinkets, 
+the wares are the wares of diuels. And the whole <font>Fayre</font> is the shop
+of <font>Satan</font> ! They are hooks, and baites, very baites, that are     
+hung out 
+on euery side, to catch you, and to hold you as it were, by the gills;
+and by the nostrills, as the Fisher doth: therefore, you must not
+looke, nor turne toward them -- The Heathen man could stop his
+eares with wax, against the harlot o' the sea: Doe you the like, 
+with your fingers against the bells of the Beast.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> What flashes comes from him!
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> O, he has those of his ouen! a notable hot Baker 'twas,
+when hee ply'd the peele: hee is leading his flocke into the         
+<font>Fayre</font> , now.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Rather driuing 'hem to the Pens: for he will let 'hem
+looke vpon nothing.
+
+
+</dialogue><nonSpeech>Little-wit <font>is gazing at the signe; which is the Pigs-head with a 
+large writing vnder it</font> .</nonSpeech><dialogue> <comment type="compiler">THIS STAGE DIRECTION IS ON PAGE 34.</comment>
+
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Gentlewomen, the weather's hot! whither walke you?
+<pagebreak id="34" />
+Haue a care o' your fine veluet caps, the <font>Fayre</font> is dusty. Take a 
+sweet 
+delicate Booth, with boughs, here, i' the <comment type="compiler">SOURCE TEXT: ithe</comment> way, 
+and coole your selues 
+i' the shade: you and your friends. The best pig and bottle-ale i'
+the <font>Fayre</font> , Sir. Old <font>Vrsla</font> is Cooke, there you may read: the 
+pigges 
+head speakes it. Poore soule, shee has had a <font>Stringhalt</font>          
+<comment type="compiler">SOURCE TEXT: <font>Sringhalt</font> </comment> , the
+<font>Maryhinchco</font> : but shee's prettily amended.                     
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> A delicate show-pig, little Mistris, with shweet sauce,  
+and 
+crackling, like de bay-leafe i' de fire, la! Tou shalt ha' de cleane 
+side 
+o' de table-clot and di glass vash'd with phatersh of Dame <font>Annessh
+Cleare</font> .
+   </dialogue><nonSpeech>IOH.</nonSpeech><dialogue> This's fine, verily, here be the best pigs: and shee doe's
+roast 'hem as well as euer she did; the Pigs head sayes.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Excellent, excellent, Mistris, with fire o' <font>Iuniper</font>  
+and 
+<font>Rosemary</font> branches! The Oracle of the Pigs head, that, Sir.
+   </dialogue><nonSpeech>PVR.</nonSpeech><dialogue> Sonne, were you not warn'd of the vanity of the eye? haue
+you forgot the wholesome admonition, so soone?
+   </dialogue><nonSpeech>IOH.</nonSpeech><dialogue> Good mother, how shall we finde a pigge, if we doe not
+looke about for't? will it run off o' the spit, into our mouths      
+thinke 
+you? as in <font>Lubberland</font> ? and cry, <font>we, we</font> ?
+
+</dialogue><nonSpeech>Busy <font>sents after it like a Hound</font> .</nonSpeech>
+
+   <nonSpeech>BVS.</nonSpeech><dialogue> No, but your mother, religiously wise, conceiueth it may
+offer it selfe, by other meanes, to the sense, as by way of steeme,
+which I thinke it doth, here in this place (Huh, huh) yes, it doth.
+and it were a sinne of obstinacy, great obstinacy, high and 
+horrible obstinacy, to decline, or resist the good titillation of the
+famelick sense, which is the smell. Therefore be bold (huh, huh, 
+huh) follow the sent. Enter the Tents of the vncleane, for once, and
+satisfie your wiues frailty. Let your fraile wife be satisfied: your
+zealous mother, and my suffering selfe, will also be 
+satisfied. 
+   </dialogue><nonSpeech>IOH.</nonSpeech><dialogue> Come, <font>Win</font> , as good winny here, as goe farther, and
+see nothing.
+   </dialogue><nonSpeech>BVS.</nonSpeech><dialogue> Wee scape so much of the other vanities, by our earely
+entring.
+   </dialogue><nonSpeech>PVR.</nonSpeech><dialogue> It is an aedifying consideration.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> This is scuruy, that wee must come into the <font>Fayre</font> ,  
+and 
+not looke on't.
+   </dialogue><nonSpeech>IOH.</nonSpeech><dialogue> <font>Win</font> , haue patience, <font>Win</font> , I'le tell you more    
+anon.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> <font>Moone-calfe</font> , entertaine within there, the best pig  
+i' the 
+Booth; a Porklike pig. These are <font>Banbury-bloods</font> , o' the sincere
+stud, come a pigge-hunting. <font>Whit</font> , wait <font>Whit</font> , looke to your
+charge.
+   </dialogue><nonSpeech>BVS.</nonSpeech><dialogue> A pigge prepare, presently, let a pigge be prepared to 
+vs.
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> S'light, who be these?
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Is this the good seruice, <font>Iordan</font> , you'ld doe me?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Why, <font>Vrs</font> ? why, <font>Vrs</font> ? thou'lt ha' vapours i' thy 
+legge 
+againe presently, pray thee go in, 't may turne to the scratches else.
+<pagebreak id="35" />
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Hang your vapours, they are stale, and stinke like you,
+are these the guests o' the game, you promis'd to fill my pit
+withall, to day?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> I, what aile they <font>Vrs</font> ?
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Aile they? they are all sippers, sippers o' the City, they
+looke as they would not drinke off two penn'orth of bottle-ale 
+amongst 'hem.
+   </dialogue><nonSpeech>MOO.</nonSpeech><dialogue> A body may read that i' their small printed ruffes.
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Away, thou art a foole, <font>Vrs</font> , and thy                
+<font>Moone-calfe</font> too, 
+i' your ignorant vapours, now? hence, good guests, I say right
+hypocrites, good gluttons. In, and set a couple o' pigs o' the board,
+and halfe a dozen of the biggest bottles afore 'hem, and call        
+<font>Whit</font> , 
+I doe not loue to heare Innocents abus'd: Fine ambling 
+hypocrites! and a stone-puritane, with a sorrell head, and beard, good
+mouth'd gluttons: two to a pigge, away.
+   </dialogue><nonSpeech>VRS.</nonSpeech><dialogue> Are you sure they are such?
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> O' the right breed, thou shalt try 'hem by the teeth,    
+<font>Vrs</font> , 
+where's this <font>Whit</font> ?
+   </dialogue><nonSpeech>WHI.</nonSpeech><dialogue> <font>Behold, man and see, what a worthy man am ee!
+With the fury of my sword, and the shaking of my beard,
+I will make ten thousand men afeard.</font> 
+   </dialogue><nonSpeech>KNO.</nonSpeech><dialogue> Well said, braue <font>Whit</font> , in, and feare the ale out    
+o' the 
+bottles, into the bellies of the brethren, and the sisters drinke to 
+the 
+cause, and pure vapours.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> My Roarer is turn'd Tapster, mee thinks. Now were a 
+fine time for thee, <font>Win-wife</font> , to lay aboard thy widow, thou'lt
+neuer be Master of a better season, or place; shee that will venture
+her selfe into the <font>Fayre</font> , and a pig-boxe, will admit any        
+assault, be assur'd of that.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> I loue not enterprises of that suddennesse, though.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> I'le warrant thee, then, no wife out o' the widdowes
+Hundred: if I had but as much Title to her, as to haue breath'd 
+once on that streight stomacher of hers, I would now assure my 
+selfe to carry <comment type="compiler">SOURCE TEXT: carrry</comment> her, yet, ere she went out of 
+<font>Smithfield</font> . Or she should 
+carry me, which were the fitter sight, I confesse. But you are a
+modest vndertaker, by circumstances, and degrees; come, 'tis Disease
+in thee, not Iudgement, I should offer at all together. Looke, here's
+the poore foole, againe, that was stung by the waspe, ere while.
+<pagebreak id="36" />
+
+</dialogue> <head>ACT. III. SCENE. III.</head> 
+
+<nonSpeech>IVSTICE. WIN-WIFE. QVARLOUS.</nonSpeech><dialogue>
+
+I will make no more orations, shall draw on these tragicall
+conclusions. And I begin now to thinke, that by a spice of
+collaterall Iustice, <font>Adam Ouerdoo</font> , deseru'd this beating; for I 
+the said <font>Adam</font> , 
+was one cause (a by-cause) why the purse was lost: and my wiues
+brothers purse too, which they know not of yet. But I shall make
+very good mirth with it, at supper, (that will be the sport) and put
+my little friend, M=r= <font>Humphrey Wasp's</font> choler quite out of
+countenance. When, sitting at the vpper end o' my Table, as I vse, &amp;
+drinking to my brother <font>Cokes</font> , and M=rs=. <font>Alice Ouerdoo</font> , as 
+I wil, my wife, for 
+their good affectio~ to old <font>Bradley</font> , I deliuer to 'hem, it was  
+I, that was 
+cudgell'd, and shew 'hem the marks. To see what bad euents may 
+peepe out o' the taile of good purposes! the care I had of that ciuil
+yong man, I tooke fancy to this morning, (and haue not left it yet)
+drew me to that exhortation, which drew the company, indeede         
+<comment type="compiler">SOURCE TEXT: indeeede</comment> ,
+which drew the cut-purse; which drew the money; which drew 
+my brother <font>Cokes</font> his losse; which drew on <font>Wasp's</font> anger; which
+drew on my beating: a pretty gradation! And they shall ha' it 
+i' their dish, i' faith, at night for fruit: I loue to be merry at my
+Table. I had thought once, at one speciall blow he ga' me, to haue
+reuealed my selfe? but then (I thank thee fortitude) I remembred
+that a wise man (and who is euer so great a part, o' the 
+Common-wealth in himselfe) for no particular disaster ought to       
+abandon a
+publike good designe. The husbandman ought not for one
+vnthankful yeer, to forsake the plough; The Shepheard ought not, for
+one scabb'd sheep, to throw by his tar-boxe; The Pilot ought not 
+for one leake i' the poope, to quit the Helme; Nor the Alderman 
+ought not for one custerd more, at a meale, to giue vp his cloake; 
+The Constable ought not to breake his staffe, and forsweare the 
+watch, for one roaring night; Nor the Piper o' the Parish            
+<foreign> (Vt 
+paruis componere magna solebam) </foreign> to put vp his pipes, for one rainy
+Sunday. These are certaine knocking conclusions; out of which, 
+I am resolu'd, come what come can, come beating, come
+imprisonment, come infamy, come banishment, nay, come the rack, come
+the hurdle, (welcome all) I will not discouer who I am, till my 
+due time; and yet still, all shall be, as I said euer, in Iustice    
+name, 
+and the King's, and for the Common-wealth.
+<pagebreak id="37" />
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> What doe's he talke to himselfe, and act so seriously?
+poore foole!
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> No matter what. Here's fresher argument, intend that.
+
+</dialogue> <head>ACT. III. SCENE. IIIJ.</head> 
+
+<nonSpeech>COKES. LEATHERHEAD. VVASPE. Mistresse
+OVERDOO. WIN-WIFE. QVARLOVS.
+TRASH. GRACE.</nonSpeech><dialogue>
+
+Come, Mistresse <font>Grace</font> , come Sister, heere's more fine sights,
+yet, i' faith. Gods'lid where's <font>Numps</font> ?
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> What doe you lacke, Gentlemen? what is't you buy? 
+fine Rattles! Drummes? Babies? little Dogges? and Birds for 
+Ladies? What doe you lacke?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Good honest <font>Numpes</font> , keepe afore, I am so afraid     
+thou'lt 
+lose somewhat: my heart was at my mouth, when I mist thee.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> You were best buy a whip i' your hand to driue me.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Nay, doe not mistake, <font>Numps</font> , thou art so apt to
+mistake: I would but watch the goods. Looke you now, the treble
+fiddle, was e'en almost like to be lost.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Pray you take heede you lose not your selfe: your best
+way, were e'en get vp, and ride for more surety. Buy a tokens 
+worth of great pinnes, to fasten your selfe to my shoulder.
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> What doe you lacke, Gentlemen? fine purses, pouches,
+pincases, pipes? What is't you lacke? a paire o' smithes to wake 
+you i' the morning? or a fine whistling bird?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> <font>Numps</font> , here be finer things then any we ha' bought by
+oddes! and more delicate horses, a great deale! good <font>Numpes</font> ,
+stay, and come hither.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Will you scourse with him? you are in <font>Smithfield</font> , you
+may fit your selfe with a fine easy-going street-nag, for your 
+saddle again' <font>Michaelmasse-terme</font> , doe, has he ne'er a little    
+odde cart for 
+you, to make a Carroch on, i' the countrey, with foure pyed
+hobbyhorses? why the meazills, should you stand heere, with your
+traine, cheaping of Dogges, Birds, and Babies? you ha' no 
+children to bestow 'hem on? ha' you?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> No, but again' I ha' children, <font>Numps</font> , that's all one.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Do, do, do, do; how many shall you haue, think you? 
+an' I were as you, I'ld buy for all my Tenants, too, they are a kind
+o' ciuill Sauages, that wil part with their children for rattles,    
+pipes, 
+and kniues. You were best buy a hatchet, or two, &amp; truck with 'hem.
+<pagebreak id="38" />
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Good <font>Numps</font> , hold that little tongue o' thine, and   
+saue 
+it a labour. I am resolute <font>Bat</font> , thou know'st.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> A resolute foole, you are, I know, and a very sufficient
+Coxcombe; with all my heart; nay you haue it, Sir, and you be 
+angry, turd i' your teeth, twice: (if I said it not once afore) 
+and much good doe you.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Was there euer such a selfe-affliction? and so
+impertinent?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Alas! his care will goe neere to cracke him, let's in,
+and comfort him.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Would I had beene set i' the ground                      
+<comment type="compiler">SOURCE TEXT: gronnd</comment> , all but the head on
+me, and had my braines bowl'd at, or thresh'd out, when first I
+vnderwent this plague of a charge!
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> How now <font>Numps</font> ! almost tir'd i' your Protectorship?
+ouerparted? ouerparted?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why, I cannot tell, Sir, it may be I am, dos't grieue 
+you?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> No, I sweare dos't not, <font>Numps</font> : to satisfie you.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> <font>Numps?</font> S'blood, you are fine and familiar! how long
+ha' wee bin acquainted, I pray you?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> I thinke it may be remembred, <font>Numps</font> , that? 'twas
+since morning sure.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why, I hope I know't well enough, Sir, I did not aske 
+to be told.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> No? why then?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> It's no matter why, you see with your eyes, now, what
+I said to you to day? you'll beleeue me another time?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Are you remouing the <font>Fayre, Numps</font> ?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> A pretty question! and a very ciuill one! yes faith, I 
+ha' my lading you see; or shall haue anon, you may know whose 
+beast I am, by my burthen. If the pannier-mans Iacke were euer 
+better knowne by his loynes of mutton, I'le be flead, and feede 
+dogs for him, when his time comes.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> How melancholi' Mistresse <font>Grace</font> is yonder! pray thee
+let's goe enter our selues in <font>Grace</font> , with her.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Those sixe horses, friend I'le haue -- 
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> How!
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> And the three Iewes trumps; and halfe a dozen o' Birds, 
+and that Drum, (I haue one Drumme already) and your Smiths; 
+I like that deuice o' your smiths, very pretty well, and foure
+Halberts -- and (le' me see) that fine painted great Lady, and her   
+three
+women for state, I'le haue.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> No, the shop; buy the whole shop, it will be best, the
+shop, the shop!
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> If his worship please.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Yes, and keepe it during the <font>Fayre</font> , Bobchin.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Peace, <font>Numps</font> , friend, doe not meddle with him, an' 
+<pagebreak id="39" />
+you be wise, and would shew your head aboue board: hee will 
+sting thorow your wrought night-cap, beleeue me. A set of these
+Violines, I would buy too, for a delicate young noise I haue i' the
+countrey, that are euery one a size lesse then another, iust like your
+fiddles. I would faine haue a fine young Masque at my marriage,
+now I thinke on't: but I doe want such a number o' things. And
+<font>Numps</font> will not helpe me now, and I dare not speake to him.
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Will your worship buy any ginger-bread, very good 
+bread, comfortable bread?
+
+</dialogue><nonSpeech> <font>He runnes to her shop.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> Ginger-bread! yes, let's see.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> There's the tother sprindge?  
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> Is this well, goody <font>Ione</font> ? to interrupt my market?   
+in the 
+midst? and call away my customers? can you answer this, at the
+<font>Piepouldres</font> ?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Why? if his Master-ship haue a minde to buy, I hope 
+my ware lies as open as another's; I may shew my ware, as well 
+as you yours.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Hold your peace; I'le content you both: I'le buy vp 
+his shop, and thy basket.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Will you i' faith?
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> Why should you put him from it, friend?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Cry you mercy! you'ld be sold too, would you? what's 
+the price on you? Ierkin, and all as you stand? ha' you any 
+qualities?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Yes, good-man angry-man, you shall finde he has
+qualities, if you cheapen him.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> God's so, you ha' the selling of him! what are they? 
+will they be bought for loue, or money?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> No indeed, Sir.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> For what then? victualls?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> He scornes victuals, Sir, he has bread and butter at home,
+thanks be to God! and yet he will do more for a goode meale, if the
+toy take him i' the belly, mary then they must not set him at 
+lower end; if they do, he'll goe away, though he fast. But put him a
+top o' the Table, where his place is, and hee'll doe you forty fine
+things. Hee has not been sent for, and sought out for nothing, at
+your great citty-suppers, to put downe <font>Coriat</font> , and              
+<font>Cokeley</font> , and bin 
+laught at for his labour; he'll play you all the Puppets i' the towne
+ouer, and the Players, euery company, and his owne company too;
+he spares no body!
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> I' faith?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Hee was the first, Sir, that euer baited the fellow i' the
+beare's skin, an't like your worship: no dog euer came neer him,
+since. And for fine motions!
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Is hee good at those too? can hee set out a Masque, 
+trow?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> O Lord, Master! sought to farre, and neere, for his
+<pagebreak id="40" />
+inuentions: and hee engrosses all, hee makes all the Puppets i' the
+<font>Fayre</font> .
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Do'st thou (in troth) old veluet Ierkin? giue mee thy
+hand.
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Nay, Sir, you shall see him in his veluet Ierkin, and a
+scarfe, too, at night, when you heare him interpret Master
+<font>Little-wit's</font> Motion.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Speake no more, but shut vp shop presently, friend. 
+I'le buy both it, and thee too, to carry downe with me, and her
+hamper, beside. Thy shop shall furnish out the Masque, and hers
+the Banquet: I cannot goe lesse, to set out any thing with credit.
+what's the price, at a word, o' thy whole shop, case, and all as it
+stands?
+   </dialogue><nonSpeech>LEA.</nonSpeech><dialogue> Sir, it stands me in sixe and twenty shillings seuen     
+pence, 
+halfe-peny, besides three shillings for my ground.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Well, thirty shillings will doe all, then! And what
+comes yours too?
+   </dialogue><nonSpeech>TRA.</nonSpeech><dialogue> Foure shillings, and eleauen pence, Sir, ground, and all,
+an't like your worship.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Yes, it do's like my worship very well, poore woman,
+that's fiue shillings more, what a Masque shall I furnish out, for
+forty shillings? (twenty pound scotsh) and a Banquet of 
+Ginger-bread? there's a stately thing! <font>Numps?</font> Sister? and my     
+wedding 
+gloues too? (that I neuer thought on afore.) All my wedding 
+gloues, Ginger-bread? O me! what a deuice will there be? to 
+make 'hem eate their fingers ends! and delicate Brooches for
+the Bride-men! and all! and then I'le ha' this poesie put to 'hem:
+<font>For the best grace</font> , meaning Mistresse <font>Grace</font> , my wedding    
+poesie.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> I am beholden to you, Sir, and to your
+<font>Bartholmew-wit</font> .
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> You doe not meane this, doe you? is this your first
+purchase?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Yes faith, and I doe not thinke, <font>Numpes</font> , but thou'lt
+say, it was the wisest Act, that euer I did in my wardship.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Like inough! I shall say any thing. I!
+<pagebreak id="41" />
+
+</dialogue> <head>ACT. III. SCENE. V.</head> 
+
+<nonSpeech>IVSTICE. EDGVVORTH. NIGHTINGALE.</nonSpeech><dialogue>
+
+I Cannot beget a <font>Proiect</font> , with all my politicall braine, yet; my
+<font>Proiect</font> is how to fetch off this proper young man, from his
+debaucht company: I haue followed him all the <font>Fayre</font> ouer, and    
+still 
+I finde him with this songster: And I begin shrewdly to suspect 
+their familiarity; and the young man of a terrible taint, <font>Poetry</font> !
+with which idle disease, if he be infected, there's no hope of him, in
+a state-course. <font> <foreign>Actum est</foreign> </font> , of him for a                   
+common-wealths-man: if 
+hee goe to't in <font>Rime</font> , once.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Yonder he is buying o' Ginger-bread: set in quickly,
+before he part with too much on his money.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> <font>My masters and friends, and good people, draw          
+neere, &amp;c.</font>
+
+</dialogue><nonSpeech> <font>He runn's to the Ballad man.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> Ballads! harke, harke! pray thee, fellow, stay a little,
+good <font>Numpes</font> , looke to the goods. What Ballads hast thou? let 
+me see, let me see my selfe.                           
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why so! hee's flowne 'to another lime-bush, there he 
+will flutter as long more; till hee ha' ne'r a feather left. Is there
+a vexation like this, Gentlemen? will you beleeue mee now, 
+hereafter? shall I haue credit with you?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Yes faith, shalt thou, <font>Numps</font> , and thou art worthy  
+on't, 
+for thou sweatest for't. I neuer saw a young Pimpe errant, and his
+Squire better match'd.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Faith, the sister comes after 'hem, well, too.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Nay, if you saw the Iustice her husband, my Guardian,
+you were fitted for the Messe, hee is such a wise one his 
+way --
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> I wonder, wee see him not heere.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> O! hee is too serious for this place, and yet better sport
+then <comment type="compiler">SOURCE TEXT: then then</comment> the other three, I assure you,       
+Gentlemen: where ere he
+is, though't be o' the Bench.
+
+</dialogue><nonSpeech> <font>He show's his purse boastingly.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> How dost thou call it! <font>A caueat against cutpurses</font> ! a
+good iest, i' faith, I would faine see that <font>Daemon</font> , your        
+Cutpurse,
+you talke of, that delicate handed Diuell; they say he walkes
+hereabout; I would see him walke, now. Looke you sister, here, here,
+let him come, sister, and welcome. Ballad-man, do's any 
+cutpurses haunt hereabout? pray thee raise me one or two: beginne and
+shew me one.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> Sir, this is a spell against 'hem, spicke and span new;  
+and 
+'tis made as 'twere in mine owne person, and I sing it in mine owne 
+<pagebreak id="42" />
+defence. But 'twill cost a penny alone, if you buy it.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> No matter for the price, thou dost not know me, I see,
+I am an odd <font>Bartholmew</font> .
+   </dialogue><nonSpeech>OVE.</nonSpeech><dialogue> Has't a fine picture, Brother?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> O Sister, doe you remember the ballads ouer the
+Nursery-chimney at home o' my owne pasting vp, there be braue
+pictures. Other manner of pictures, than these, friend.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Yet these will serue to picke the pictures out o' your
+pockets, you shall see.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> So, I heard 'hem say. Pray thee mind him not, fellow:
+hee'll haue an oare in euery thing.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> It was intended Sir, as if a purse should chance to be cut
+in my presence, now, I may be blamelesse, though: as by the 
+sequell, will more plainely appeare.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> We shall find that i' the matter. Pray thee begin.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> To the tune of <font>Paggingtons Pound</font> , Sir.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> <font>Fa, la la la, la la la, fa la la la.</font> Nay, I'll put   
+thee in tune, 
+and all! mine owne country dance! Pray thee begin.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> It is a gentle admonition, you must know, Sir, both to 
+the purse-cutter, and the purse-bearer.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Not a word more, out o' the tune, an' thou lou'st mee:
+<font>Fa, la la la, la la la, fa la la la</font> . Come, when?
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue>  <font>My masters and friends, and good people draw neere,
+And looke to your purses, for that I doe say;</font>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Ha, ha, this chimes! good counsell at first dash.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> <font>And though little money, in them you doe beare.
+It cost more to get, then to lose in a day.</font>   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Good!
+<comment type="compiler">NIG. CONTINUES.</comment> <font>You oft haue beene told,
+Both the young and the old;
+And bidden beware of the cutpurse so bold:
+Then if you take heed not, free me from the curse,
+Who both giue you warning, for and, the cutpurse.
+Youth, youth, thou hadst better bin staru'd by thy Nurse,
+Then liue to be hanged for cutting a purse.</font>
+<comment type="compiler">IN SOURCE TEXT THE NEXT SPEECH IS ADJACENT TO THE PRECEDING VERSE.</comment>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Well
+said! hee were
+to blame that 
+wold not i' faith.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Good i' faith, how say you, <font>Numps</font> ? Is there any harme
+i' this?
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> <font>It hath bin vpbrayded to men of my trade,
+That ofte~ times we are the cause of this crime.
+Alacke and for pitty, why should it be said?
+As if they regarded or places, or time.</font>
+<comment type="compiler">IN SOURCE TEXT THE NEXT SPEECH IS ADJACENT TO THE PRECEDING VERSE.</comment>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> The 
+more coxco~bes
+they that did it,
+I wusse.
+<comment type="compiler">NIG. CONTINUES.</comment> <font>Examples haue been
+Of some that were seen,
+In Westminster Hall, yea the pleaders between,
+Then why should the Iudges be free from this curse,
+More then my poore selfe, for cutting the purse?
+Youth, youth, thou hadst better bin staru'd by thy Nurse,
+Then liue to be hanged for cutting a purse.</font>
+<comment type="compiler">IN SOURCE TEXT THE NEXT SPEECH IS ADJACENT TO THE PRECEDING VERSE.</comment>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> God a
+mercy for that! 
+why should they
+be more free
+indeede?
+<pagebreak id="43" />
+</dialogue><nonSpeech> <font>He sings the burden with him.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> That againe, good Ballad-man, that againe. O rare! I
+would faine rubbe mine elbow now, but I dare not pull out my
+hand. On, I pray thee, hee that made this ballad, shall be <font>Poet</font> to
+my <font>Masque</font> .
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> <font>At Worc'ter 'tis knowne well, and euen i' the Iayle,
+A Knight of good worship did there shew his face,
+Against the foule sinners, in zeale for to rayle,
+And lost</font> <foreign> (ipso facto) </foreign> <font>his purse in the place.
+Nay, once from the Seat
+Of Iudgement so great</font> ,
+<comment type="compiler">IN SOURCE TEXT THE NEXT SPEECH IS ADJACENT TO THE PRECEDING VERSE.</comment>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Is it
+possible?
+<comment type="compiler">NIG. CONTINUES.</comment> <font>A Iudge there did lose a faire pouch of        
+veluete.</font> </dialogue><nonSpeech>COK.</nonSpeech><dialogue> I' faith?
+<comment type="compiler">NIG. CONTINUES.</comment> <font>O Lord for thy mercy, how wicked or worse,
+Are those that so venture their necks for a purse! Youth, youth, &amp;c.</font>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> <font> Youth, youth, &amp;c</font> ? pray thee stay a little, friend, 
+yet,
+o' thy conscience, <font>Numps</font> , speake, is there any harme i' this?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> To tell you true, 'tis too good for you, lesse you had
+grace to follow it.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> It doth discouer enormitie, I'le marke it more: I ha' not
+lik'd a paltry piece of poetry, so well a good while.
+
+</dialogue><nonSpeech> <font>Hee shewes his purse.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> <font>Youth, youth, &amp;c</font> ! where's this youth, now? A man
+must call vpon him, for his owne good, and yet hee will not
+appeare: looke here, here's for him; handy-dandy, which hand will he
+haue? On, I pray thee, with the rest, I doe heare of him, but I
+cannot see him, this Master <font>Youth</font> , the cutpurse.
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> <font>At Playes and at Sermons, and at the Sessions,
+'Tis daily their practice such booty to make:
+Yea, vnder the Gallowes, at Executions,
+They sticke not the</font> Stare-abouts <font>purses to take.
+Nay one without grace,
+at a better place</font> ,
+<font>At</font> Court, <font>&amp; in</font> Christmas, <font>before the Kings face</font> ,
+<comment type="compiler">IN SOURCE TEXT THE NEXT SPEECH IS PARTLY ADJACENT TO THE PRECEDING 
+VERSE.</comment>
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> That was
+a fine fellow! I would
+haue him, now.
+<comment type="compiler">NIG. CONTINUES.</comment> <font>Alacke then for pitty must I beare the curse,
+That onely belongs to the cunning cutpurse?</font> 
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> But where's their cunning, now, when they should vse
+it? they are all chain'd now, I warrant you. <font>Youth, youth, thou    
+hadst 
+better, &amp;c.</font> The Rat-catchers charme, are all fooles and Asses to
+this! A poxe on 'hem, that they will not come! that a man should
+haue such a desire to a thing, and want it.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> 'Fore God, I'ld guie halfe the <font>Fayre</font> , and 'twere   
+mine, 
+for a cutpurse for him, to saue his longing.
+
+</dialogue><nonSpeech> <font>Hee shewes his purse againe.</font> </nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> Looke you Sister, heere, heere, where is't now? which
+pocket is't in? for a wager?                             
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> I beseech you leaue your wagers, and let him end his
+matter, an't may be.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> O, are you aedified <font>Numps</font> ?
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Indeed hee do's interrupt him, too much: There <font>Numps</font>
+spoke to purpose.
+<pagebreak id="44" />
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Sister, I am an Asse, I cannot keepe my purse: on, on; I
+pray thee, friend.
+
+</dialogue><nonSpeech>Edgworth <font>gets up to him, and tickles him in the eare with a straw
+twice to draw his hand out of his pocket</font> .</nonSpeech>
+
+   <nonSpeech>NIG.</nonSpeech><dialogue> <font>But O, you vile nation of cutpurses all,
+Relent and repent, and amend and be sound,
+And know that you ought not, by honest mens fall,
+Aduance your owne fortunes, to die aboue ground,
+And though you goe gay,
+In silkes as you may,
+It is not the high way to heauen, (as they say)
+Repent then, repent you, for better, for worse:
+And kisse not the Gallowes for cutting a purse.
+Youth, youth, thou hadst better bin steru'd by thy Nurse,
+Then liue to be hanged for cutting a purse.</font>
+<comment type="compiler">IN SOURCE TEXT THE FOLLOWING ELEVEN LINES ARE ADJACENT TO THE 
+PRECEDING VERSE.</comment>
+   </dialogue><nonSpeech>WINW.</nonSpeech><dialogue> Will
+you see sport?              
+looke, there's
+a fellow
+gathers vp to
+him, marke.                      
+   </dialogue><nonSpeech>QVA.</nonSpeech><dialogue> Good, i'
+faith! o` he has
+lighted on the
+wro~g pocket.       
+   </dialogue><nonSpeech>WINW.</nonSpeech><dialogue> He has it, 'fore
+God hee is a braue fellow; pitty hee should be detected.
+   </dialogue><nonSpeech>ALL</nonSpeech><dialogue> An excellent ballad! an excellent ballad!
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Friend, let mee ha' the first, let mee ha' the first, I  
+pray
+you.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Pardon mee, Sir. First come, first seru'd; and I'le buy
+the whole bundle too.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> That conueyance was better then all, did you see't? he
+has giuen the purse to the ballad-singer.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Has hee?
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Sir, I cry you mercy; I'le not hinder the poore mans
+profit: pray you mistake me not.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Sir, I take you for an honest Gentleman; if that be
+mistaking, I met you to day afore: ha! humh! O God! my purse is
+gone, my purse, my purse, &amp;c.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Come, doe not make a stirre, and cry your selfe an Asse,
+thorow the <font>Fayre</font> afore your time.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Why, hast thou it, <font>Numpes</font> ? good <font>Numpes</font> , how come
+you by it? I mar'le!
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> I pray you seeke some other gamster, to play the foole
+with: you may lose it time enough, for all your <font>Fayre-wit</font> .
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> By this good hand, gloue and all, I ha' lost it already, 
+if
+thou hast it not: feele else, and Mistris <font>Grace's</font> handkercher,   
+too, out
+o' the tother pocket.
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why, 'tis well; very well, exceeding pretty, and well.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Are you sure you ha' lost it, Sir?
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> O God! yes; as I am an honest man, I had it but e'en
+now, at <font>youth, youth</font> .
+   </dialogue><nonSpeech>NIG.</nonSpeech><dialogue> I hope you suspect not me, Sir.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Thee? that were a iest indeede! Dost thou thinke the
+Gentleman is foolish? where hadst thou hands, I pray thee? Away
+Asse, away.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> I shall be beaten againe, if I be spi'd.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Sir, I suspect an odde fellow, yonder, is stealing away.
+<pagebreak id="45" />
+   </dialogue><nonSpeech>OVE.</nonSpeech><dialogue> Brother, it is the preaching fellow! you shall suspect
+him. He was at your tother purse, you know! Nay, stay, Sir, and
+view the worke you ha' done, an' you be benefic'd at the Gallowes,
+and preach there, thanke your owne handy-worke. 
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Sir, you shall take no pride in your preferment: you shall
+be silenc'd quickly.
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> What doe you meane? sweet buds of gentility.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> To ha' my peneworths out on you: Bud. No lesse then
+two purses a day, serue you? I thought you a simple fellow, 
+when my man <font>Numpes</font> beate you, i' the morning, and pittied
+you --
+   </dialogue><nonSpeech>OVE.</nonSpeech><dialogue> So did I, I'le be sworne, brother; but now I see hee is
+a lewd, and pernicious Enormity: (as Master <font>Ouerdoo</font> calls
+him.) 
+   </dialogue><nonSpeech>IVS.</nonSpeech><dialogue> Mine owne words turn'd vpon mee, like swords.
+   </dialogue><nonSpeech>COK.</nonSpeech><dialogue> Cannot a man's purse be at quiet for you, i' the Masters
+pocket, but you must intice it forth, and debauch it?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Sir, Sir, keepe your debauch, and your fine
+<font>Bartholmew-termes</font> to your selfe; and make as much on 'hem as you 
+please. But
+gi' me this from you, i' the meane time: I beseech you, see if I can
+looke to this.     
+
+</dialogue><nonSpeech>Wasp <font>takes the Licence from him</font> .</nonSpeech>
+
+   <nonSpeech>COK.</nonSpeech><dialogue> Why, <font>Numps</font> ?
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Why? because you are an Asse, Sir, there's a reason
+the shortest way, and you will needs ha' it; now you ha' got the
+tricke of losing, you'ld lose your breech, an't 'twere loose. I know
+you, Sir, come, deliuer, you'll goe and cracke the vermine, you
+breed now, will you? 'tis very fine, will you ha' the truth on't?
+they are such <comment type="compiler">SOURCE TEXT: snch</comment> retchlesse flies as you are,     
+that blow cutpurses
+abroad in euery corner; your foolish hauing of money, makes 'hem.
+An' there were no wiser then I, Sir, the trade should lye open for
+you, Sir, it should i' faith, Sir. I would teach your wit to come to
+your head, Sir, as well as your land to come into your hand, I
+assure you, Sir.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> Alacke, good <font>Numps</font> .
+   </dialogue><nonSpeech>WAS.</nonSpeech><dialogue> Nay, Gentlemen, neuer pitty mee, I am not worth it:
+Lord send me at home once, to <font>Harrow</font> o' the <font>Hill</font> againe, if I
+trauell any more, call me <font>Coriat</font> ; with all my heart.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Stay, Sir, I must haue a word with you in priuate. Doe
+you heare?
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> With me, Sir? what's your pleasure? good Sir.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Doe not deny it. You are a cutpurse, Sir, this 
+Gentleman here, and I, saw you, nor doe we meane to detect you (though
+we can sufficiently informe our selues, toward the danger of
+concealing you) but you must doe vs a piece of seruice.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Good Gentlemen, doe not vndoe me; I am a ciuill 
+young man, and but a beginner, indeed.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Sir, your beginning shall bring on your ending, for vs. 
+<pagebreak id="46" />
+We are no Catchpoles nor Constables. That you are to vndertake,
+is this; you saw the old fellow, with the blacke boxe, here?
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> The little old Gouernour, Sir?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> That same: I see, you haue flowne him to a marke 
+already. I would ha' you get away that boxe from him, and bring
+it vs.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Would you ha' the boxe and all, Sir? or onely that,
+that is in't? I'le get you that, and leaue him the boxe, to play with
+still: (which will be the harder o' the two) because I would gaine
+your worships good opinion of me.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> He sayes well, 'tis the greater Mastry, and 'twill make
+the more sport when 'tis mist.
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> I, and 'twill be the longer a missing, to draw on the
+sport.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> But looke you doe it now, sirrah, and keepe your
+word: or --
+   </dialogue><nonSpeech>EDG.</nonSpeech><dialogue> Sir, if euer I breake my word, with a Gentleman, may I
+neuer read word at my need. Where shall I find you?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Some-where i' the <font>Fayre</font> , heereabouts. Dispatch it
+quickly. I would faine see the carefull foole deluded! of all Beasts,
+I loue the serious Asse. He that takes paines to be one, and playes
+the foole, with the greatest diligence that can be.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Then you would not chose, Sir, but loue my Guardian,
+Iustice <font>Ouerdoo</font> , who is answerable to that description, in euery
+haire of him.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> So I haue heard. But how came you, Mistris              
+<comment type="compiler">SOURCE TEXT: Mistis</comment> <font>Welborne</font> , 
+to be his Ward? or haue relation to him, at first?
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Faith, through a common calamity, he bought me, Sir;
+and now he will marry me to his wiues brother, this wise
+Gentleman, that you see, or else I must pay value o' my land
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> S'lid, is there no deuice of disparagement? or so? talke
+with some crafty fellow, some picklocke o' the Law! Would I had
+studied a yeere longer i' the Innes of Court, and't had beene but
+i' your case.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> I Master <font>Quarlous</font> , are you proffering?
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> You'ld bring but little ayde, Sir.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> (I'le looke to you i' faith, Gamester.) An vnfortunate
+foolish <font>Tribe</font> you are falne into, Lady, I wonder you can
+endure 'hem.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Sir, they cannot worke their fetters off; must weare
+'hem.
+   </dialogue><nonSpeech>WINW.</nonSpeech><dialogue> You see what care they haue on you, to leaue you thus.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Faith the same they haue of themselues, Sir. I cannot
+greatly complaine, if this were all the plea I had against 'hem.
+   </dialogue><nonSpeech>WIN.</nonSpeech><dialogue> 'Tis true! but will you please to withdraw with vs, a
+little, and make them thinke, they haue lost you. I hope our
+manners ha' beene such hitherto, and our language, as will giue
+<pagebreak id="47" />
+you no cause, to doubt your selfe, in our company.
+   </dialogue><nonSpeech>GRA.</nonSpeech><dialogue> Sir, I will giue my selfe, no cause; I am so secure of   
+mine
+owne manners, as I suspect not yours.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Looke where <font>Iohn Little-wit</font> comes.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Away, I'le not be seene, by him.
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> No, you were not best, hee'ld tell his mother, the
+widdow.
+   </dialogue><nonSpeech>WIN-W.</nonSpeech><dialogue> Heart <comment type="compiler">SOURCE TEXT: Heatt</comment> , what doe you meane?
+   </dialogue><nonSpeech>QVAR.</nonSpeech><dialogue> Cry you mercy, is the winde there? must not the
+widdow be nam'd?
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

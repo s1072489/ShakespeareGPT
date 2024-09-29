@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5FLENNO">
+  <dialogueHeader>
+
+    <filename>D5FLENNO</filename>
+
+    <identifier>5 FICTION D5FLENNO</identifier>
+
+    <title>THE FEMALE QUIXOTE</title>
+
+    <author>LENNOX CHARLOTTE</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1752</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">LENNOX, CHARLOTTE.</attribution>
+      <frontMatter>THE FEMALE QUIXOTE; OR, THE ADVENTURES OF ARABELLA.
+IN TWO VOLUMES. 
+VOL. I. 
+LONDON: PRINTED FOR A. MILLAR, OVER-AGAINST CATHARINE-STREET IN THE 
+STRAND. 
+M.DCC.LII.
+PP. 10.7 - 11.4   SAMPLE 1
+PP. 16.3 - 22.9   SAMPLE 2
+PP. 24.4 - 26.11  SAMPLE 3 
+PP. 30.8 - 34.26  SAMPLE 4
+PP. 37.17 - 39.11 SAMPLE 5
+PP. 41.5 - 47.16  SAMPLE 6
+PP. 49.28 - 59.30 SAMPLE 7
+PP. 61.18 - 64.27 SAMPLE 8
+PP. 67.1 - 79.19  SAMPLE 9
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="10" />
+<comment type="compiler">ARABELLA AND LUCY COME HOME FROM THE CHURCH.</comment>
+   Well, <font>Lucy</font> , </dialogue><nonSpeech>said she,</nonSpeech><dialogue> did you observe that
+Stranger who ey'd <font>us</font> so heedfully To-day at
+Church? <comment type="compiler">AN ASTERISK AFTER us REFERS TO AUTHOR'S FOOTNOTE: 
+The Heroines always speak of themselves in the Plural Number.</comment>
+   </dialogue><nonSpeech>This Girl, notwithstanding her
+Country-Simplicity, knew a Compliment was expected
+from her on this Occasion; and therefore
+replied, &quot;That she did not wonder at the
+Gentleman's staring at her; for she was sure he
+had never seen any body so handsome as her
+Ladyship before.&quot;</nonSpeech><dialogue>
+   I have not all the Beauty you attribute to me,
+</dialogue><nonSpeech>said <font>Arabella</font> , smiling a little:</nonSpeech><dialogue> And, with a very
+moderate Share of it, I might well fix the
+Attention of a Person who seemed to be not
+overmuch pleased with the Objects about him:
+However, </dialogue><nonSpeech>pursued she, assuming a more 
+serious Air,</nonSpeech><dialogue> if this Stranger be weak enough to
+entertain any Sentiments more than indifferent
+for me; I charge you, upon Pain of my
+Displeasure, do not be accessary to the Conveying
+his presumptuous Thoughts to me either by
+Letters or Messages; nor suffer him to corrupt
+your Fidelity with the Presents he will very
+probably offer you.
+   </dialogue><nonSpeech> <font>Lucy</font> , to whom this Speech first gave a Hint
+of what she ought to expect from her Lady's
+Lovers, finding herself of more Importance
+<pagebreak id="11" />
+than she imagined, was so pleased at the
+Prospect which opened to her, that it was with 
+some Hesitation she promised to obey her
+Orders.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="16" />
+<comment type="compiler">ARABELLA HAS RETURNED A LETTER FROM HERVEY (THE MAN IN THE CHURCH)
+AND SPEAKS TO LUCY, HERVEY'S MESSENGER.</comment>
+   </dialogue><nonSpeech> <font>Arabella</font> , who expected to hear, that the
+Return of his Letter would make her Lover
+commit some very extravagant Actions; and
+having impatiently waited for an Account of
+them from <font>Lucy</font> ; finding she seemed to
+have no Intention to begin a Discourse
+concerning him; asked her, at last, If she had
+executed her Commission, and returned the
+Letter to the insolent Unknown?</nonSpeech>
+   <nonSpeech>The Girl answered,</nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Which not being all that her Lady expected,</nonSpeech><dialogue>
+And how did he receive it? </dialogue><nonSpeech>resumed she,
+peevishly.</nonSpeech><dialogue>
+   Why Madam, </dialogue><nonSpeech>replied <font>Lucy</font> ,</nonSpeech><dialogue> I believe he
+thought your Ladyship had sent him an
+Answer; for he kissed the Letter several times.
+   Foolish Wench! </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> How can
+you imagine he had the Temerity to think I
+should answer his Letter? A Favour, which,
+though he had spent Years in my Service,
+would have been infinitely greater than he
+could have expected. No, <font>Lucy</font> , he kissed
+the Letter, either because he thought it had been
+touched at least by my Hands, or to shew the
+perfect Submission with which he received my
+Commands; and it is not to be doubted, but
+his Despair will force him to commit some
+desperate Outrage against himself, which I do
+not hate him enough to wish, though he has
+mortally offended me.
+   </dialogue><nonSpeech> <font>Arabella</font> was possessed of great Sensibility
+and Softness; and, being really persuaded, that
+her Lover would entertain some fatal Design,
+<pagebreak id="17" />
+seemed so much affected with the Thoughts of
+what might happen, that <font>Lucy</font> , who tenderly
+loved her, begged her not to be so much
+concerned for the Gentleman:</nonSpeech><dialogue> There is no Fear,
+</dialogue><nonSpeech>added she,</nonSpeech><dialogue> that he will do himself a Mischief;
+for when he discovered his Mistake, he laughed
+heartily, as well as myself.
+   How! </dialogue><nonSpeech>replied <font>Arabella</font> , extremely surprised,</nonSpeech><dialogue>
+Did he laugh!
+   </dialogue><nonSpeech>Which <font>Lucy</font> confirming,</nonSpeech><dialogue> Doubtless,
+</dialogue><nonSpeech>resumed she, having taken a little Time to
+consider of so strange a Phaenomenon,</nonSpeech><dialogue> he laughed,
+because his Reason was disturbed at the sudden
+Shock he received: Unhappy Man! his
+Presumption will be severely enough punished,
+though I do not add Anger to the Scorn which
+I have expressed for him: Therefore, <font>Lucy</font> ,
+you may tell him, if you please, that,
+notwithstanding the Offence he has been guilty
+of, I am not cruel enough to wish his Death;
+and that I command him to live, if he can
+live without Hope.
+<pagebreak id="18" />
+<comment type="compiler">LUCY GOES TO HER BROTHER WILLIAM AND FINDS
+HERVEY THERE ILL. SHE RETURNS TO ARABELLA WITH THE NEWS.</comment>
+   </dialogue><nonSpeech>This being no more than what <font>Arabella</font>
+expected, she discovered no Surprize; but only
+asked <font>Lucy</font> , If she had delivered her Message
+to him?</nonSpeech><dialogue>
+   Would you have me, Madam, </dialogue><nonSpeech>replied she,</nonSpeech><dialogue>
+go to his House? I am afraid the Marquis
+will hear of it.
+<pagebreak id="19" />
+   My Father, </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> can never be
+offended with me for doing a charitable
+Action.
+   Ah! Madam, </dialogue><nonSpeech>interrupted <font>Lucy</font> ,</nonSpeech><dialogue> let me go
+then immediately, for fear the poor
+Gentleman should grow worse.
+   If he be sick almost to Death, </dialogue><nonSpeech>resumed
+<font>Arabella</font> ,</nonSpeech><dialogue> he will recover, if I command him to do
+so: When did you hear of a Lover dying
+through Despair, when his Mistress let him
+know it was her Pleasure he should live? But
+as it will not be altogether so proper for you to
+go to his House, as it may be suspected you
+come from me; I'll write a few Lines, which
+you shall copy, and your Brother may carry
+them to him To-morrow, and I'll engage he
+shall be well in a few Hours.
+<pagebreak id="21" />
+<comment type="compiler">LUCY'S BROTHER BELIEVING THE LETTER TO BE FROM LUCY, HAS KEPT IT. 
+HERVEY, WHO WAS ONLY SUFFERING FROM A HEADACHE, IS NOW WELL. 
+LUCY ENTERS.</comment>
+   Well, </dialogue><nonSpeech>cried she, clasping her Hands
+together, with Surprize,</nonSpeech><dialogue> my Lady said, her Letter
+would cure him, if he was ever so sick; but I
+did not imagine he would have been well
+enough to come abroad so soon.
+   Your Lady! </dialogue><nonSpeech>interrupted <font>William</font> ,</nonSpeech><dialogue> why was
+it not yourself that wrote that Letter you gave
+to me?
+   No, truly, Brother, </dialogue><nonSpeech>resumed she:</nonSpeech><dialogue> How
+was it possible I should write so fine a Letter?
+My Lady <font>made</font> every Word of it, and I only
+wrote it after her.
+<comment type="compiler">WILLIAM DOES NOT MENTION HE HAS KEPT THE LETTER AND LUCY RETURNS
+TO ARABELLA.</comment>
+   </dialogue><nonSpeech> <font>Arabella</font> received the Account of her Lover's
+Recovery as a Thing she was absolutely sure
+of before; and thinking she had now done all
+that could be expected from her Compassion,
+resumed her usual Severity, and commanded
+<font>Lucy</font> to mention him no more.</nonSpeech><dialogue> If he loves
+me with that Purity he ought to do, </dialogue><nonSpeech>pursued
+<pagebreak id="22" />
+she,</nonSpeech><dialogue> he will cease to importune me any further:
+And though his Passion be ever so violent, his
+Respect and Submission to my Commands will
+oblige him to Silence. The Obedience he
+has already shewn, in recovering at the first
+Intimation I gave, that it was my Will he
+should do so, convinces me, I need not
+apprehend he will renew his Follies to displease
+me.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="24" />
+<comment type="compiler">ARABELLA IS OUT RIDING WHEN SHE MEETS HERVEY; SHE IS CONVINCED
+HERVEY WILL TRY TO SEIZE HER.</comment>
+   </dialogue><nonSpeech> <font>Arabella</font> , upon his coming close to her,
+redoubled her Cries.</nonSpeech><dialogue> If you have any Valour,
+said she to her Servants, defend your
+unfortunate Mistress, and rescue her from this
+unworthy Man.
+<comment type="compiler">ARABELLA'S SERVANTS FORCE HERVEY TO DISMOUNT.</comment>
+   Rascals! </dialogue><nonSpeech>cried he, when he was able to 
+speak,</nonSpeech><dialogue> what do you mean by using me in this 
+manner? Do you suppose I had any Intention
+to hurt the Lady? -- What do you take me
+for?
+   For a Villain, for a Ravisher, </dialogue><nonSpeech>interrupted
+<font>Arabella</font> ,</nonSpeech><dialogue> who, contrary to all Laws both
+human and divine, endeavour to possess yourself
+by Force of a Person whom you are not worthy
+to serve; and whose Charity and Compassion
+you have returned with the utmost Ingratitude.
+<pagebreak id="25" />
+   Upon my Word, Madam, </dialogue><nonSpeech>said Mr. <font>Hervey</font> ,</nonSpeech><dialogue>
+I don't understand one Word you say: You
+either mistake me for some other Person, or are
+pleased to divert yourself with the Surprize I am
+in: But I beseech you carry the Jest no farther,
+and order your Servants to let me go; or, by
+Heaven -- </dialogue><nonSpeech>cried he struggling to get loose,</nonSpeech><dialogue> if I
+can but free one of my Hands, I'll stab the
+Scoundrels before your Face.
+   It is not with Threats like these, </dialogue><nonSpeech>resumed
+<font>Arabella</font> with great Calmness,</nonSpeech><dialogue> that I can be
+moved. A little more Submission and Respect
+would become you better; you are now wholly
+in my Power; I may, if I please, carry you to
+my Father, and have you severely punished for
+your Attempt: But to shew you, that I am as
+generous as you are base and designing, I'll give
+you Freedom, provided you promise me never
+to appear before me again: But, in order to
+secure my own Safety, you must deliver up your
+Arms to my Servants, that I may be assured you
+will not have it in your Power to make a second
+Attempt upon my Liberty.
+<comment type="compiler">HERVEY DENIES ARABELLA'S ACCUSATIONS.</comment>
+<pagebreak id="26" />
+   Add not Falshood, </dialogue><nonSpeech>said <font>Arabella</font> sternly,</nonSpeech><dialogue> to a
+Crime already black enough; for tho', by an
+Effect of my Generosity, I have resolved not to
+deliver you up to the Resentment of my Father,
+yet nothing shall ever be able to make me
+pardon this Outrage. Go then, </dialogue><nonSpeech>pursued she,</nonSpeech><dialogue> go,
+base Man, unworthy of the Care I took of thy
+Safety; go to some distant Country, where I
+may never hear of thee more; and suffer me, if
+possible, to lose the Remembrance of thy
+Crimes, <comment type="compiler">THE LINE ENDS IN A COMMA.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<comment type="compiler">ARABELLA BELIEVES A GARDENER IS A DISGUISED GENTLEMAN WHO HAS
+ENTERED HER FATHER'S SERVICE OUT OF PASSION FOR HER.</comment>
+<pagebreak id="30" />
+   </dialogue><nonSpeech>These Thoughts perplexed her so much, that,
+hoping to find some Relief by unburdening her
+Mind to <font>Lucy</font> , she told her all her Uneasiness.</nonSpeech><dialogue>
+Ah! </dialogue><nonSpeech>said she to her, looking upon <font>Edward</font> ,
+who had just passed them,</nonSpeech><dialogue> how unfortunate do
+I think myself in being the Cause of that Passion
+which makes this illustrious Unknown wear
+away his Days in so shameful an Obscurity!
+Yes, <font>Lucy</font> , </dialogue><nonSpeech>pursued she,</nonSpeech><dialogue> that <font>Edward</font> , whom
+you regard as one of my Father's menial
+Servants, is a Person of <font>sublime Quality</font> , who
+submits to this Disguise only to have an
+Opportunity of seeing me every Day. But why do you
+seem so surprised? Is it possible, that you have
+not suspected him to be what he is? Has he
+never unwittingly made any Discovery of himself?
+Have you not surprised him in Discourse with
+his faithful 'Squire, who, certainly, lurks 
+hereabouts to receive his Commands, and is haply
+the Confident of his Passion? Has he never
+entertained you with any Conversation about me?
+Or have you never seen any valuable Jewels
+in his Possession by which you suspected him to
+be not what he appears?
+   Truly, Madam, </dialogue><nonSpeech>replied <font>Lucy</font> ,</nonSpeech><dialogue> I never took
+him for any body else but a simple Gardener;
+but now you open my Eyes, methinks I can
+find I have been strangely mistaken; for he does
+<pagebreak id="31" />
+not look like a Man of low Degree; and he
+talks quite in another Manner from our
+Servants. I never heard him indeed speak of your
+Ladyship, but once; and that was, when he
+first saw you walking in the Garden, he asked
+our <font>John</font> , If you was not the Marquis's 
+Daughter? And he said, You was as beautiful as an
+Angel. As for fine Jewels, I never saw any;
+and I believe he has none; but he has a Watch,
+and that looks as if he was something, Madam:
+Nor do I remember to have seen him talk with
+any Stranger that looked like a 'Squire.
+   </dialogue><nonSpeech> <font>Lucy</font> , having thus, with her usual Punctuality,
+answered every Question her Lady put to her,
+proceeded to ask her, What she should say, if
+he should beg her to give her a Letter, as the
+other Gentleman had done?</nonSpeech><dialogue>
+   You must by no means take it, </dialogue><nonSpeech>replied
+<font>Arabella</font> :</nonSpeech><dialogue> My Compassion had before like to have
+been fatal to me. If he discovers his Quality to
+me, I shall know in what manner to treat him.
+<comment type="compiler">ARABELLA AND LUCY SEE THE HEAD GARDENER BEAT EDWARD WITH A STICK.</comment>
+<pagebreak id="32" />
+   For what Crime, pray, </dialogue><nonSpeech>said <font>Arabella</font> , with
+a stern Aspect,</nonSpeech><dialogue> did you treat the Person I saw
+with you so cruelly? He whom you take such
+unbecoming Liberties with, may possibly -- But
+again I ask you, What has he done? You
+should make some Allowance for his want of
+Skill in the abject Employment he is in at
+present.
+   It is not for his want of Skill, Madam, </dialogue><nonSpeech>said the
+Gardener,</nonSpeech><dialogue> that I corrected him; he knows his
+Business very well, if he would mind it; but,
+Madam, I have discovered him --
+   Discovered him, do you say? </dialogue><nonSpeech>interrupted
+<font>Arabella</font> :</nonSpeech><dialogue> And has the Knowlege of his
+Condition not been able to prevent such Usage? or
+rather, Has it been the Occasion of his
+receiving it?
+   His Conditions are very bad, Madam,
+</dialogue><nonSpeech>returned the Gardener;</nonSpeech><dialogue> and I am afraid are such
+as will one Day prove the Ruin of Body and
+Soul too. I have for some time suspected he
+had bad Designs in his Head; and just now
+watched him to the Fish-pond, and prevented
+him from --
+   O dear! </dialogue><nonSpeech>interrupted <font>Lucy</font> , looking pitifully
+on her Lady, whose fair Bosom heaved with
+Compassion,</nonSpeech><dialogue> I warrant he was going to make
+away with himself.
+   No, </dialogue><nonSpeech>resumed the Gardener, smiling at the
+Mistake,</nonSpeech><dialogue> he was only going to make away with
+some of the Carp, which the Rogue had
+caught, and intended, I suppose, to sell; but
+I threw them into the Water again; and if
+your Ladyship had not forbid me, I would have
+drubbed him soundly for his Pains.
+<pagebreak id="33" />
+   Fye! fye! </dialogue><nonSpeech>interrupted <font>Arabella</font> , out of Breath
+with Shame and Vexation,</nonSpeech><dialogue> tell me no more of
+these idle Tales.
+<comment type="compiler">ARABELLA AND LUCY DISCUSS THE CARP-STEALING.</comment>
+   </dialogue><nonSpeech> <font>Arabella</font> , whose Confusion returned at that
+disagreeable Sound, charged her, in an angry
+Tone, never to mention so injurious a
+<pagebreak id="34" />
+Suspicion any more:</nonSpeech><dialogue> For, in fine, </dialogue><nonSpeech>said she to her,</nonSpeech><dialogue>
+do you imagine a Person of his Rank could be
+guilty of stealing Carp? Alas! </dialogue><nonSpeech>pursued she,
+sighing,</nonSpeech><dialogue> he had, indeed, some fatal Design;
+and, doubtless, would have executed it, had not
+this Fellow so luckily prevented him.
+   But Mr. <font>Woodbind</font> , Madam, </dialogue><nonSpeech>said <font>Lucy</font> ,</nonSpeech><dialogue> saw
+the Carp in his Hand: I wonder what he was
+going to do with them.
+   Still, </dialogue><nonSpeech>resumed <font>Arabella</font> , extremely chagrined,</nonSpeech><dialogue>
+still will you wound my Ears with that horrid
+Sound? I tell you, obstinate and foolish Wench,
+that this unhappy Man went thither to die; and
+if he really caught the Fish, it was to conceal
+his Design from <font>Woodbind</font> : His great Mind
+could not suggest to him, that it was possible he
+might be suspected of a Baseness like that this
+ignorant Fellow accused him of; therefore he
+took no Care about it, being wholly possessed
+by his despairing Thoughts.
+   However, Madam, </dialogue><nonSpeech>said <font>Lucy</font> ,</nonSpeech><dialogue> your
+Ladyship may prevent his going to the Fishpond again,
+by laying your Commands upon him to live.
+   I shall do all that I ought, </dialogue><nonSpeech>answered <font>Arabella</font> ;</nonSpeech><dialogue>
+but my Care for the Safety of other Persons must
+not make me forget what I owe to my own.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="37" />
+<comment type="compiler">THE MARQUIS WANTS ARABELLA TO MARRY HIS NEPHEW GLANVILLE; 
+ARABELLA DISCUSSES THE MATTER WITH LUCY.</comment>
+   It must be confessed, </dialogue><nonSpeech>said she to her Attendant,
+with a Smile,</nonSpeech><dialogue> that this Lover my Father has
+brought us, is no contemptible Person:
+Nevertheless I feel an invincible Repugnance in myself
+against receiving him in that Character.
+<comment type="compiler">ARABELLA MEETS GLANVILLE.</comment>
+<pagebreak id="38" />
+   Since the World is so degenerate in it's
+Customs from what it was formerly, </dialogue><nonSpeech>said <font>Arabella</font> ,
+with a Smile full of Contempt upon her Cousin,</nonSpeech><dialogue>
+I am extremely happy in having lived in a
+Solitude which has not yet exposed me to the
+Mortification of being a Witness to Manners I
+cannot approve; for if every Person I shall meet
+with for the future be so deficient in their
+Respects to Ladies, as my Cousin is, I shall not care
+how much I am secluded from Society.
+   But, dear Lady <font>Bella</font> , </dialogue><nonSpeech>interrupted Mr.
+<font>Glanville</font> gaily,</nonSpeech><dialogue> tell me, I beseech you, how I must
+behave to please you; for I should be extremely
+glad to be honoured with your good Opinion.
+   The Person, </dialogue><nonSpeech>resumed she,</nonSpeech><dialogue> whom I must
+teach how to acquire my good Opinion, will,
+I am afraid, hardly recompense me by his
+Docility in learning, for the Pains I should be at in
+instructing him.
+   But, </dialogue><nonSpeech>resumed <font>Glanville</font> ,</nonSpeech><dialogue> that I may avoid any
+more Occasions of offending you, only let me
+know how you would be approached for the
+future.
+   Since, </dialogue><nonSpeech>answered she,</nonSpeech><dialogue> there is no Necessity to
+renew the Ceremony of introducing you again
+<pagebreak id="39" />
+to me, I have no second Affront of that Kind
+to apprehend; but I pray tell me, If all Cavaliers
+are as presuming as yourself; and if a Relation
+of your Sex does not think a modest Embrace
+from a Lady a Welcome sufficiently tender?
+<comment type="compiler">AN ASTERISK AFTER tender REFERS TO AUTHOR'S LONG FOOTNOTE: 
+OMITTED HERE.</comment>
+   Nay, Cousin, </dialogue><nonSpeech>cried <font>Glanville</font> eagerly,</nonSpeech><dialogue> I am
+now persuaded you are in the Right; an
+Embrace is certainly to be preferred to a cold
+Salute. What would I give, that the Marquis
+would introduce me a second time, that I might
+be received with so delightful a Welcome?
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="41" />
+<comment type="compiler">ARABELLA AND LUCY DISCUSS GLANVILLE.</comment>
+<omission type="line" /> However, </dialogue><nonSpeech>added she,</nonSpeech><dialogue> I should
+be to blame to desire to be beloved by Mr.
+<font>Glanville</font> ; for I am persuaded that Passion would
+cause no Reformation in the Coarseness of his
+Manners to Ladies, which makes him so 
+disagreeable to me, and might possibly increase my
+Aversion.
+<comment type="compiler">GLANVILLE AND THE MARQUIS DISCUSS ARABELLA.</comment>
+   I am glad of it, my dear Nephew, </dialogue><nonSpeech>said the
+Marquis, embracing him:</nonSpeech><dialogue> I will allow you,
+</dialogue><nonSpeech>added he smiling,</nonSpeech><dialogue> but a few Weeks to court her:
+Gain her Heart as soon as you can, and when
+you bring me her Consent, your Marriage shall
+be solemnized immediately.
+   </dialogue><nonSpeech>Mr. <font>Glanville</font> needed not a Repetition of so
+agreeable a Command: He left his Uncle's
+<pagebreak id="42" />
+Closet, with his Heart filled with the Expectation of
+his approaching Happiness; and, understanding
+<font>Arabella</font> was in the Garden, he went to her
+with a Resolution to acquaint her with the
+Permission her Father had given him to make his
+Addresses to her.
+   He found his fair Cousin, as usual,
+accompanied with her Women; and, seeing that,
+notwithstanding his Approach, they still continued
+to walk with her, and impatient of the
+Restraint they laid him under,</nonSpeech><dialogue> I beseech you,
+Cousin, </dialogue><nonSpeech>said he,</nonSpeech><dialogue> let me have the Pleasure of
+walking with you alone: What Necessity is there for
+always having so many Witnesses of our
+Conversation? You may retire, </dialogue><nonSpeech>said he, speaking
+to <font>Lucy</font> , and the other Woman;</nonSpeech><dialogue> I have
+something to say to your Lady in private.
+   Stay, I command you, </dialogue><nonSpeech>said <font>Arabella</font> , blushing
+at an Insolence so uncommon,</nonSpeech><dialogue> and take Orders
+from no one but myself. -- I pray you, Sir, 
+</dialogue><nonSpeech>pursued she frowning,</nonSpeech><dialogue> What Intercourse of Secrets
+is there between you and me, that you expect
+I should favour you with a private Conversation?
+An Advantage which none of your Sex ever
+boasted to have gained from me; and which,
+haply, you should be the last upon whom I
+should bestow it.
+   You have the strangest Notions, </dialogue><nonSpeech>answered
+<font>Glanville</font> , smiling at the pretty Anger she
+discovered:</nonSpeech><dialogue> Certainly you may hold a private
+Conversation with any Gentleman, without giving
+Offence to Decorum; and I may plead a Right
+to this Happiness, above any other, since I have
+the Honour to be your Relation.
+<pagebreak id="43" />
+   It is not at all surprising, </dialogue><nonSpeech>resumed <font>Arabella</font>
+gravely,</nonSpeech><dialogue> that you and I should differ in Opinion
+upon this Occasion: I don't remember that ever
+we agreed in any thing; and, I am apt to
+believe, we never shall.
+   Ah! don't say so, Lady <font>Bella</font> , </dialogue><nonSpeech>interrupted
+he:</nonSpeech><dialogue> What a Prospect of Misery you lay before
+me! For, if we are always to be opposite to each
+other, it is necessary you must hate me as much
+as I admire and love you.
+<comment type="compiler">ARABELLA BECOMES ANGRY.</comment>
+<pagebreak id="44" />
+   If I do not express all the Resentment your
+Insolence has filled me with, </dialogue><nonSpeech>said she to him,
+affecting more Scorn than Anger,</nonSpeech><dialogue> 'tis because I
+hold you too mean for my Resentment; but
+never hope for my Pardon for your presumptuous
+Confession of a Passion I could almost despise
+myself for inspiring. If it be true that you love me,
+go and find your Punishment in that Absence to
+which I doom you; and never hope I will suffer
+a Person in my Presence, who has affronted me
+in the manner you have done.
+<comment type="compiler">GLANVILLE ENTERS ARABELLA'S APARTMENT; SHE RUNS INTO A CLOSET 
+AND LOCKS THE DOOR.</comment>
+<pagebreak id="46" />
+   </dialogue><nonSpeech>Mr. <font>Glanville</font> , still supposing her in Jest,
+intreated her to open the Door; but, finding she
+continued obstinate,</nonSpeech><dialogue> Well, </dialogue><nonSpeech>said he, going away,</nonSpeech><dialogue>
+I shall be revenged on you some time hence,
+and make you repent the Tricks you play me
+now.
+   </dialogue><nonSpeech> <font>Arabella</font> not being able to imagine any thing,
+by these Words he spoke in Raillery, but that
+he really, in the Spite and Anguish of his Heart,
+threatened her with executing some terrible
+Enterprize; she did not doubt, but he either
+intended to carry her away; or, thinking her
+Aversion to him proceeded from his having a
+Rival happy enough to be esteemed by her, those
+<pagebreak id="47" />
+mysterious Words he had uttered related to his
+Design of killing him; so that as she knew, he
+could discover no Rival to wreak his Revenge
+upon, she feared, that, at once to satisfy that
+Passion as well as his Love, he would make
+himself Master of her Liberty:</nonSpeech><dialogue> For, in fine, </dialogue><nonSpeech>said she
+to <font>Lucy</font> , to whom she communicated all her
+Thoughts,</nonSpeech><dialogue> have I not every thing to apprehend
+from a Man, who knows so little how to treat
+my Sex with the Respect which is our Due;
+and who, after having, contrary to the timorous
+Nature of that Passion, insulted me with a free
+Declaration of Love, treated my Commands
+with the utmost Contempt by appearing before
+me again; and even threatens me with the
+Revenge he is meditating at this Moment?
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="49" />
+<comment type="compiler">ARABELLA PLANS TO ESCAPE BUT HEARS THAT HER FATHER IS ILL; 
+ON HER WAY FROM HER FATHER'S CHAMBER SHE MEETS GLANVILLE.</comment>
+   Sure, Cousin, </dialogue><nonSpeech>said he, a little piqued,</nonSpeech><dialogue> you
+are not disposed to carry on your ill-natured Jest
+any further?
+   If you imagined I jested with you, </dialogue><nonSpeech>said 
+<font>Arabella</font> ,</nonSpeech><dialogue> I am rather to accuse the Slowness of your
+Understanding, for your persisting in treating
+me thus freely, than the Insolence I first
+imputed it to: But, whatever is the Cause of it,
+<pagebreak id="50" />
+I know tell you again, that you have extremely
+offended me; and, if my Father's Illness did
+not set Bounds to my Resentment at present, I
+would make you know, that I would not suffer
+the Injury you do me, so patiently.
+   Since you would have me to believe you are
+serious, </dialogue><nonSpeech>replied <font>Glanville</font> ,</nonSpeech><dialogue> be pleased to let me
+know what Offence it is you complain of; for
+I protest I am quite at a Loss to understand
+you.
+   Was it not enough, </dialogue><nonSpeech>resumed <font>Arabella</font> ,</nonSpeech><dialogue> to
+affront me with an insolent Declaration of your
+Passion, but you must also, in Contempt of my
+Commands to the contrary, appear before me
+again, pursue me to my Chamber, and use the
+most brutal Menaces to me?
+   Hold, pray, Madam, </dialogue><nonSpeech>interrupted <font>Glanville</font> ,</nonSpeech><dialogue>
+and suffer me to ask you, If it is my
+Presumption, in declaring myself your Admirer, that
+you are so extremely offended at? 
+   Doubtless it is, Sir, </dialogue><nonSpeech>answered <font>Arabella</font> ;</nonSpeech><dialogue> and
+such a Presumption, as, without the aggravating
+Circumstances you have since added to it, is
+sufficient to make me always your Enemy.
+   I beg Pardon, </dialogue><nonSpeech>returned Mr. <font>Glanville</font> gravely,</nonSpeech><dialogue>
+for that Offence; and also, for staying any
+longer in a House, which you have, so
+genteelly, turned me out of.
+   My Pardon, Mr. <font>Glanville</font> , </dialogue><nonSpeech>resumed she,</nonSpeech><dialogue> is
+not so easily gained: Time, and your
+Repentance, may, indeed, do much towards obtaining
+it.
+<comment type="compiler">GLANVILLE LEAVES THE CASTLE: THE MARQUIS RECEIVES A LETTER 
+FROM GLANVILLE AND MENTIONS THIS TO ARABELLA.</comment>
+<pagebreak id="52" />
+   </dialogue><nonSpeech>The Marquis casting his Eyes on the
+Direction, and knowing his Nephew's Hand,</nonSpeech><dialogue> Bless
+me, </dialogue><nonSpeech>cried he, extremely surprised,</nonSpeech><dialogue> What can
+this mean? <font>Bella</font> , </dialogue><nonSpeech>added he,</nonSpeech><dialogue> here's a Letter
+from your Cousin.
+   </dialogue><nonSpeech><font>Arabella</font> , at these Words, started up; and,
+preventing her Father, with a respectful Action,
+from opening it,</nonSpeech><dialogue> I beseech you, my Lord, </dialogue><nonSpeech>said
+she,</nonSpeech><dialogue> before you read this Letter, suffer me to
+assure you, that, if it contains any thing fatal,
+I am not at all accessary to it: 'Tis true I have
+banished my Cousin, as a Punishment for the
+Offence he was guilty of towards me; but,
+Heaven is my Witness, I did not design his Death;
+and if he has taken any violent Resolution against
+himself, he has greatly exceeded my 
+Commands.
+<comment type="compiler">THE MARQUIS READS GLANVILLE'S LETTER AND GOES TO ARABELLA.</comment>
+<pagebreak id="54" />
+   Alas! my Lord, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> I know you come
+prepared to load me with Reproaches, upon my
+Cousin's Account; but, I beseech your
+Lordship, do not aggravate my Sorrows: Tho' I
+banished Mr. <font>Glanville</font> , I did nor desire his Death;
+and, questionless, if he knew how I <font>resent</font> it,
+his Ghost would be satisfied with the Sacrifice
+I make him.
+   </dialogue><nonSpeech>The Marquis, not being able to help smiling
+at this Conceit, which he saw had so strongly
+possessed her Imagination, that she had no sort
+of Doubt but that her Cousin was dead, asked
+her, If she really believed Mr. <font>Glanville</font> loved
+her well enough to die with Grief at her ill Usage
+of him?</nonSpeech><dialogue>
+   If, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> he loves me not well enough to
+die for me, he certainly loves me but little; and
+I am the less obliged to him.
+   But I desire to know, </dialogue><nonSpeech>interrupted the
+Marquis,</nonSpeech><dialogue> For what Crime it was you took the
+Liberty to banish him from my House?
+   I banished him, my Lord, </dialogue><nonSpeech>resumed she,</nonSpeech><dialogue> for
+his Presumption in telling me he loved me.
+   That Presumption, as you call it, tho' I
+know not for what Reason, </dialogue><nonSpeech>said the Marquis,</nonSpeech><dialogue>
+was authorized by me: Therefore, know, <font>Bella</font> ,
+that I not only permit him to love you, but I
+also expect you should endeavour to return his
+Affection; and look upon him as the Man
+<pagebreak id="55" />
+whom I design for your Husband: There's his
+Letter, </dialogue><nonSpeech>pursued he, putting it into her Hand.</nonSpeech><dialogue>
+I blush for the Rudeness you have been guilty
+of; but endeavour to repair it, by a more
+obliging Behaviour for the future: I am going to
+send after him immediately to prevail upon to
+return: Therefore, write him an Apology, I
+charge you; and have it done by the Time my
+Messenger is ready to set out.
+   </dialogue><nonSpeech>Saying this, he went out of the Room; and
+<font>Arabella</font> eagerly opened the Letter; and, finding,
+it in a Style so different from what she expected,
+her Dislike of him returned with more Violence
+than ever.</nonSpeech><dialogue>
+   Ah! the Traitor! </dialogue><nonSpeech>said she aloud,</nonSpeech><dialogue> Is it thus
+that he endeavours to move my Compassion?
+How greatly did I over-rate his Affection, when
+I imagined his Despair was capable of killing
+him? Disloyal Man! </dialogue><nonSpeech>pursued she, walking
+about,</nonSpeech><dialogue> Is it by Complaints to my Father that
+thou expectest to succeed? And dost thou
+imagine the Heart of <font>Arabella</font> is to be won by
+Violence and Injustice?
+   </dialogue><nonSpeech>In this manner she wasted the Time allotted
+for her to write; and, when the Marquis sent
+for her Letter, having no Intention to comply,
+she went to his Chamber, conjuring him not to
+oblige her to a Condescension so unworthy of
+her.
+   The Marquis, being now excessively angry
+with her, rose up in a Fury, and, leading her
+to his Writing-Desk, ordered her, instantly, to
+write to her Cousin.</nonSpeech><dialogue>
+   If I must write, my Lord, </dialogue><nonSpeech>said she, sobbing,</nonSpeech><dialogue>
+pray be so good as to dictate what I must say.
+<pagebreak id="56" />
+   Apologize for your rude Behaviour, </dialogue><nonSpeech>said the
+Marquis;</nonSpeech><dialogue> and desire him, in the most obliging
+manner you can, to return.
+<comment type="compiler">ARABELLA WRITES THE LETTER.</comment>
+<omission type="sentence" /> And pray, </dialogue><nonSpeech>added he, smiling,</nonSpeech><dialogue> who taught
+you to superscribe your Letters thus, &quot;The
+unfortunate <font>Arabella</font> , to the most ungenerous
+<font>Glanville</font> ?&quot; Why, <font>Bella</font> , this Superscription is
+wholly calculated for the Bearer's Information:
+But come, alter it immediately; for I don't
+choose my Messenger should know, that you
+<pagebreak id="57" />
+are unfortunate, or that my Nephew is
+ungenerous.
+   Pray, my Lord, </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> content
+yourself with what I have already done in
+Obedience to your Commands, and suffer my Letter
+to remain as it is: Methinks it is but reasonable
+I should express some little Resentment at the
+Complaint my Cousin has been pleased to make
+to you against me; nor can I possibly make my
+Letter more obliging, without being guilty of
+an unpardonable Meanness.
+   You are a strange Girl, </dialogue><nonSpeech>replied the Marquis,
+taking the Letter, and inclosing it in one from
+himself; in which he earnestly intreated his
+Nephew to return, threatening him with his
+Displeasure, if he disobeyed; and assuring him,
+that his Daughter would receive him as well as
+he could possibly desire.</nonSpeech><dialogue>
+<comment type="compiler">GLANVILLE RECEIVES THE LETTERS FROM THE MARQUIS AND ARABELLA 
+AND DECIDES TO RETURN: ARABELLA AND THE MARQUIS SPEAK.</comment>
+<pagebreak id="58" />
+   </dialogue><nonSpeech> <font>Arabella</font> , during the time her Cousin was
+expected, appeared so melancholy and reserved,
+that the Marquis was extremely uneasy:</nonSpeech><dialogue> You
+have never, </dialogue><nonSpeech>said he to her,</nonSpeech><dialogue> disobeyed me in any
+one Action of your Life; and I may with reason
+expect you will conform to my Will in the Choice
+I have made of a Husband for you, since it is
+impossible to make any Objection either to his
+Person or Mind; and, being the Son of my
+Sister, he is certainly not unworthy of you, tho'
+he has not a Title.
+   My first Wish, my Lord, </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> is
+to live single, not being desirous of entering into
+any Engagement which may hinder my
+Solicitude and Cares, and lessen my Attendance, upon
+the best of Fathers, who, till now, has always
+most tenderly complied with my Inclinations
+in every thing: But if it is your absolute
+Command, that I should marry, give me not to one
+who, tho' he has the Honour to be allied to you,
+has neither merited your Esteem, or my Favour,
+by any Action worthy of his Birth, or the
+Passion he pretends to have for me; for, in fine,
+my Lord, by what Services has he deserved the
+Distinction with which you honour him? Has
+he ever delivered you from any considerable
+<pagebreak id="59" />
+Danger? Has he saved your Life, and hazarded
+his own, for you, upon any Occasion whatever?
+Has he merited my Esteem, by his Sufferings,
+Fidelity, and Respect: or, by any great and
+generous Action, given me a Testimony of his
+Love, which should oblige me to reward him
+with my Affection? Ah! my Lord, I beseech
+you, think not so unworthily of your Daughter,
+as to bestow her upon one who has done so
+little to deserve her: If my Happiness be dear
+to you, do not precipitate me into a State from
+whence you cannot recal me, with a Person
+whom I can never affect.
+   </dialogue><nonSpeech>She would have gone on, but the Marquis
+interrupted her sternly:</nonSpeech><dialogue> I'll hear no more, </dialogue><nonSpeech>said
+he,</nonSpeech><dialogue> of your foolish and ridiculous Objections:
+What Stuff is this you talk of? What Service
+am I to expect from my Nephew? And by
+what Sufferings is he to merit your Esteem?
+Assure yourself, <font>Arabella</font> , </dialogue><nonSpeech>continued he,</nonSpeech><dialogue> that
+I will never pardon you, if you presume to treat
+my Nephew in the Manner you have done: I
+perceive you have no real Objection to make to
+him; therefore I expect you will endeavour to
+obey me without Reluctance; for, since you
+seem to be so little acquainted with what will
+most conduce to your own Happiness, you must
+not think it strange, if I insist upon directing
+your Choice in the most important Business of
+your Life.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 8">
+<dialogue>
+<pagebreak id="61" />
+<comment type="compiler">ARABELLA AND GLANVILLE MEET AGAIN.</comment> 
+   Well, Cousin, </dialogue><nonSpeech>said <font>Glanville</font> ,</nonSpeech><dialogue> tho' you desire
+to have no Empire over so unworthy a Subject
+as myself, yet I hope you are not displeased at
+my returning, in Obedience to your Commands.
+   Since I am not allowed any Will of my own,
+</dialogue><nonSpeech>said she, sighing,</nonSpeech><dialogue> it matters not whether I am
+pleased, or displeased; nor is it of any
+Consequence to you to know.
+   Indeed but it is, Lady <font>Bella</font> , </dialogue><nonSpeech>interrupted he;</nonSpeech><dialogue>
+for if I knew how to please you, I would never,
+if I could help it, offend: Therefore, I beg you,
+tell me how I have disobliged you; for, certainly,
+you have treated me as harshly as if I had been
+guilty of some very terrible Offence.
+   You had the Boldness, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> to talk to
+me of Love; and you well know that Persons
+of my Sex and Quality are not permitted to
+<pagebreak id="62" />
+listen to such Discourses; and if, for that
+Offence, I banished you my Presence, I did no
+more than Decency required of me; and which
+I would yet do, were I Mistress of my own
+Actions.
+   But is it possible, Cousin, </dialogue><nonSpeech>said <font>Glanville</font> ,</nonSpeech><dialogue> that
+you can be angry with any one for loving you?
+Is that a Crime of so high a Nature as to merit
+an eternal Banishment from your Presence?
+   Without telling you, </dialogue><nonSpeech>said <font>Arabella</font> , blushing,</nonSpeech><dialogue>
+whether I am angry at being loved, 'tis sufficient
+you know, that I will not pardon the Man who
+shall have the Presumption to tell me he loves me.
+   But, Madam, </dialogue><nonSpeech>interrupted <font>Glanville</font> ,</nonSpeech><dialogue> if the
+Person who tells you he loves you, be of a
+Rank not beneath you, I conceive you are not
+at all injured by the favourable Sentiments he
+feels for you; and, tho' you are not disposed to
+make any Returns to his Passion, yet you are
+certainly obliged to him for his good Opinion.
+   Since Love is not voluntary, </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue>
+I am not obliged to any Person for loving me;
+for, questionless, if he could help it, he would.
+   If it is not a voluntary Favour, </dialogue><nonSpeech>interrupted
+<font>Glanville</font> ,</nonSpeech><dialogue> it is not a voluntary Offence; and, if
+you do not think yourself obliged by the one,
+neither are you at Liberty to be offended with
+the other.
+   The Question, </dialogue><nonSpeech>said <font>Arabella</font> ,</nonSpeech><dialogue> is not whether
+I ought to be offended at being loved, but
+whether it is not an Offence to be told I am so.
+   If there is nothing criminal in the Passion
+itself, Madam, </dialogue><nonSpeech>resumed <font>Glanville</font> ,</nonSpeech><dialogue> certainly there
+can be no Crime in declaring it.
+<pagebreak id="63" />
+   However specious your Arguments may appear,
+</dialogue><nonSpeech>interrupted <font>Arabella</font> ,</nonSpeech><dialogue> I am persuaded it is an
+unpardonable Crime to tell a Lady you love
+her; and, tho' I had nothing else to plead, yet
+the Authority of Custom is sufficient to prove it.
+   Custom, Lady <font>Bella</font> , </dialogue><nonSpeech>said <font>Glanville</font> , smiling,</nonSpeech><dialogue>
+is wholly on my Side; for the Ladies are so far
+from being displeased at the Addresses of their
+Lovers, that their chiefest Care is to gain them,
+and their greatest Triumph to hear them talk of
+their Passion: So, Madam, I hope you'll allow
+that Argument has no Force.
+   I don't know, </dialogue><nonSpeech>answered <font>Arabella</font> ,</nonSpeech><dialogue> what Sort
+of Ladies there are who allow such
+unbecoming Liberties, but I am certain, that <font>Statira,
+Parisatis, Clelia, Mandana</font> , and all the
+illustrious Heroines of Antiquity, whom it is a Glory
+to resemble, would never admit of such
+Discourses.
+   Ah for Heaven's sake, Cousin, </dialogue><nonSpeech>interrupted
+<font>Glanville</font> , endeavouring to stifle a Laugh,</nonSpeech><dialogue> do not
+suffer yourself to be governed by such antiquated
+Maxims! The World is quite different to what
+it was in those Days; and the Ladies in this
+Age would as soon follow the Fashions of the
+<font>Greek</font> and <font>Roman</font> Ladies, as mimick their
+Manners; and I believe they would become one
+as ill as the other.
+   I am sure, </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> the World is not
+more virtuous now than it was in their Days,
+and there is good Reason to believe it is not
+much wiser; and I don't see why the Manners
+of this Age are to be preferred to those of
+former ones, unless they are wiser and better:
+However, I cannot be persuaded, that Things
+<pagebreak id="64" />
+are as you say, and that when I am a little better
+acquainted with the World, I shall find as many
+Persons who resemble <font>Oroondates, Artaxerxes</font> ,
+and the illustrious Lovers of <font>Clelia</font> , as those
+who are like <font>Tiribases, Artaxes</font> , and the
+presuming and insolent <font>Glanville</font> .
+   By the Epithets you give me Madam, </dialogue><nonSpeech>said
+<font>Glanville</font> ,</nonSpeech><dialogue> I find you have placed me in very
+bad Company: But pray, Madam, if the
+illustrious Lover of <font>Clelia</font> had never discovered
+his Passion, how would the World have come
+to the Knowlege of it?
+   He did not discover his Passion, Sir, </dialogue><nonSpeech>resumed
+<font>Arabella</font> ,</nonSpeech><dialogue> till, by the Services he did the noble
+<font>Clelius</font> , and his incomparable Daughter, he
+could plead some Title to their Esteem: He
+several times preserved the Life of that renowned
+<font>Roman</font> ; delivered the beautiful <font>Clelia</font> when
+she was a Captive; and, in fine, conferred so
+many Obligations upon them, and all their
+Friends, as he might well expect to be
+pardoned by the divine <font>Clelia</font> for daring to love
+her. Nevertheless, she used him very harshly,
+when he first declared his Passion, and banished
+him also from her Presence; and it was a long
+time before she could prevail upon herself to
+compassionate his Sufferings.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+<dialogue>
+<pagebreak id="67" />
+<comment type="compiler">GLANVILLE TRIES TO CONFORM TO ARABELLA'S IDEAL.</comment>
+   When I reflect, </dialogue><nonSpeech>said she, laughing,</nonSpeech><dialogue> upon the
+Difference there was between us some Days
+ago, and the Familiarity in which we live at
+present, I cannot imagine by what means you
+have arrived to a good Fortune you had so little
+Reason to expect; for, in fine, you have given
+me no Signs of Repentance for the Fault you
+committed, which moved me to banish you;
+and I am not certain whether, in conversing
+with you in the manner I do, I give you not as
+much Reason to find Fault with my too great
+Easiness, as you did me to be displeased with
+your Presumption.
+   Since, </dialogue><nonSpeech>returned <font>Glanville</font> ,</nonSpeech><dialogue> I have not persisted
+on the Commission of those Faults which
+displeased you, what greater Signs of Repentance
+can you desire, than this Reformation in my
+Behaviour?
+   But Repentance ought to precede
+Reformation, </dialogue><nonSpeech>replied <font>Arabella</font> ;</nonSpeech><dialogue> otherwise, there is great
+room to suspect it is only feigned: And a sincere
+Repentance shews itself in such visible Marks,
+that one can hardly be deceived in that which is
+genuine. I have read of many indiscreet Lovers,
+who not succeeding in their Addresses, have
+pretended to repent, and acted as you do; that
+is, without giving any Signs of Contrition for
+the Fault they had committed, have eat and
+slept well, never lost their Colour, or grew one
+bit thinner, by their Sorrow; but contented
+themselves with saying they repented; and,
+without changing their <comment type="compiler">SOURCE TEXT: thetr</comment> Disposition to renew
+their Fault, only concealed their Intention, for
+fear of losing any favourable Opportunity of
+committing it again: But true Repentance, as
+<pagebreak id="68" />
+I was saying, not only produces Reformation,
+but the Person who is possessed of it voluntarily
+punishes himself for the Faults he has been
+guilty of. Thus <font>Mazares</font> , deeply repenting of
+the Crime his Passion for the divine <font>Mandana</font>
+had forced him to commit; as a Punishment,
+obliged himself to follow the Fortune of his
+glorious Rival; obey all his Commands; and,
+fighting under his Banners, assist him to gain
+the Possession of his adored Mistress. Such a
+glorious Instance of Self-denial was, indeed, a
+sufficient Proof of his Repentance; and
+infinitely more convincing than the Silence he
+imposed upon himself with respect to his Passion.
+   <font>Oroondates</font> , to punish himself for his
+Presumption, in daring to tell the admirable <font>Statira</font> ,
+that he loved her, resolved to die, to expiate
+his Crime; and, doubtless, would have done so,
+if his fair Mistress, at the Intreaty of her
+Brother, had not commanded him to live.
+   But pray, Lady <font>Bella</font> , </dialogue><nonSpeech>interrupted <font>Glanville</font> ,</nonSpeech><dialogue>
+were not these Gentlemen happy at last in the
+Possession of their Mistresses?
+   Doubtless they were, Sir, </dialogue><nonSpeech>resumed she;</nonSpeech><dialogue> but 
+it was not till after numberless Misfortunes,
+infinite Services, and many dangerous Adventures,
+in which their Fidelity was put to the strongest
+Trials imaginable.
+   I am glad, however, </dialogue><nonSpeech>said <font>Glanville</font> ,</nonSpeech><dialogue> that the
+Ladies were not insensible; for, since you do
+not disapprove of their Compassion for their
+Lovers, it is to be hoped you will not be always
+as inexorable as you are now.
+   When I shall be so fortunate, </dialogue><nonSpeech>interrupted she,</nonSpeech><dialogue>
+to meet with a Lover who shall have as pure
+<pagebreak id="69" />
+and perfect a Passion for me, as <font>Oroondates</font> had
+for <font>Statira</font> ; and give me as many glorious
+Proofs of his Constancy and Affection,
+doubtless I shall not be ungrateful. But, since I have
+not the Merits of <font>Statira</font> , I ought not to
+pretend to her good Fortune; and shall be very
+well contented if I escape the Persecutions which
+Persons of my Sex, who are not frightfully ugly,
+are always exposed to, without hoping to inspire
+such a Passion as that of <font>Oroondates</font> .
+   I should be glad to be better acquainted with
+the Actions of this happy Lover, Madam, </dialogue><nonSpeech>said
+<font>Glanville</font> ;</nonSpeech><dialogue> that, forming myself upon his
+Example, I may hope to please a Lady as worthy
+of my Regard as <font>Statira</font> was of his.
+   For Heaven's sake, Cousin, </dialogue><nonSpeech>resumed <font>Arabella</font> ,
+laughing,</nonSpeech><dialogue> how have you spent your Time;
+and to what Studies have you devoted all your
+Hours, that you could find none to spare for
+a Perusal of Books from which all useful
+Knowlege may be drawn; which give us the
+most shining Examples of Generosity, Courage,
+Virtue, and Love; which regulate our Actions,
+form our Manners, and inspire us with a noble
+Desire of emulating those great, heroic, and
+virtuous Actions, which made those Persons so
+glorious in their Age, and so worthy Imitation
+in ours? However, as it is never too late to
+improve, suffer me to recommend to you the
+reading of these Books, which will soon make
+you discover the Improprieties you have been
+guilty of; and will, probably, induce you to
+avoid them for the future.
+   I shall certainly read them, if you desire it,
+</dialogue><nonSpeech>said <font>Glanville</font> ;</nonSpeech><dialogue> and I have so great an
+<pagebreak id="70" />
+Inclination to be agreeable to you, that I shall
+embrace every Opportunity of becoming so; and
+will therefore take my Instructions from these
+Books, if you think proper, or from yourself;
+which, indeed, will be the quickest Method of
+teaching me.
+<comment type="compiler">ARABELLA SENDS FOR SOME OF HER BOOKS.</comment>
+   I have chosen out these few, </dialogue><nonSpeech>said <font>Arabella</font>
+(not observing his Consternation) </nonSpeech><dialogue> from a great
+many others, which compose the most valuable
+Part of my Library; and, by that time you
+have gone thro' these, I imagine you will be
+considerably improved.
+   Certainly, Madam, </dialogue><nonSpeech>replied <font>Glanville</font> , 
+turning over the Leaves in great Confusion,</nonSpeech><dialogue> one
+may, as you say, be greatly improved; for these
+Books contain a great deal: <omission type="sentence" />
+<pagebreak id="71" />
+<comment type="compiler">GLANVILLE READS A PASSAGE FROM ONE OF THE BOOKS.</comment>
+   Upon my Soul, </dialogue><nonSpeech>said <font>Glanville</font> , stifling a
+Laugh with great Difficulty,</nonSpeech><dialogue> I cannot help
+blaming the Lady this sorrowful Lover
+complains of, for her great Cruelty; for here he
+gives one Reason to suspect, that she will not
+even be contented with his dying in Obedience
+to her Commands, but will hate him after
+Death; an Impiety quite inexcusable in a
+Christian!
+   You condemn the illustrious Princess with
+very little Reason, </dialogue><nonSpeech>interrupted <font>Arabella</font> , smiling
+at his Mistake;</nonSpeech><dialogue> for, besides that she was not a
+Christian, and ignorant of those Divine Maxims
+of Charity and Forgiveness, which Christians,
+by their Profession, are obliged to practise, she
+was very far from desiring the Death of
+<font>Oroondates</font> ; for, if you will take the Pains to read
+the succeeding Passages, you will find that she
+expresses herself in the most obliging Manner in
+the World; for when <font>Oroondates</font> tells her he
+would live, if she would consent he should, the
+<pagebreak id="72" />
+Princess most sweetly replies, &quot;I not only
+consent, but also intreat it; and, if I have any
+Power, command it.&quot; However, lest you
+should fall into the other Extreme, and blame
+this great Princess for her Easiness (as you
+before condemned her for her Cruelty), 'tis
+necessary you should know how she was induced to
+this favourable Behaviour to her Lover:
+Therefore pray read the whole Transaction. Stay!
+here it begins, </dialogue><nonSpeech>continued she; turning over a
+good many Pages, and marking where he should
+begin to read.</nonSpeech><dialogue>
+<comment type="compiler">GLANVILLE PRETENDS TO READ ARABELLA'S BOOKS.</comment>
+<pagebreak id="73" />
+   </dialogue><nonSpeech> <font>Arabella</font> , clearing up a little, did not disdain
+to answer him upon her favourite Topic:</nonSpeech><dialogue> I
+knew, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> you would be ready to blame
+this Princess equally for her Rigour and her
+Kindness; but it must be remembred that,
+what she did in Favour of <font>Oroondates</font> , was
+wholly owing to the Generosity of <font>Artaxerxes</font> .
+   </dialogue><nonSpeech>Here she stopped, expecting <font>Glanville</font> to give
+his Opinion; who, strangely puzzled, replied
+at random,</nonSpeech><dialogue> To be sure, Madam, he was a very
+generous Rival.
+   Rival! </dialogue><nonSpeech>cried <font>Arabella</font> ; <font>Artaxerxes</font> </nonSpeech><dialogue> the Rival
+of <font>Oroondates</font> ! Why certainly you have lost your
+Wits: He was <font>Statira's</font> Brother; and it was to
+his Mediation that <font>Oroondates</font> , or <font>Orontes</font> , owed
+his Happiness.
+<pagebreak id="74" />
+   Certainly, Madam, </dialogue><nonSpeech>replied <font>Glanville</font> ,</nonSpeech><dialogue> it was
+very generous in <font>Artaxerxes</font> , as he was Brother
+to <font>Statira</font> , to interpose in the Behalf of an
+unfortunate Lover; and both <font>Oroondates</font> , and
+<font>Orontes</font> , were extremely obliged to him.
+   <font>Orontes</font> , </dialogue><nonSpeech>replied <font>Arabella</font> ,</nonSpeech><dialogue> was more obliged
+to him than <font>Oroondates</font> ; since the Quality of
+<font>Orontes</font> was infinitely below that of <font>Oroondates</font> .
+   But, Madam, </dialogue><nonSpeech>interrupted <font>Glanville</font>
+(extremely pleased at his having so well got over the
+Difficulty he had been in),</nonSpeech><dialogue> which of these two
+Lovers did <font>Statira</font> make happy?
+<comment type="compiler">ARABELLA DISCOVERS THAT GLANVILLE HAS NOT READ HER BOOKS AND
+BANISHES HIM AGAIN: GLANVILLE GOES TO THE MARQUIS.</comment>
+<pagebreak id="75" />
+   However, <font>Charles</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> though I shall do
+what I can to gain your Pardon from <font>Bella</font> , yet
+I shall not scruple to own you acted extremely
+wrong, in not reading what she desired you;
+for, besides losing an Opportunity of obliging
+her, you drew yourself into a terrible Dilemma;
+<pagebreak id="76" />
+for how was it possible for you to evade a
+Discovery of the Cheat you put upon her, when
+she began to talk with you upon those Passages
+she had desired you to read?
+   I acknowlege my Error, my Lord, </dialogue><nonSpeech>answered
+<font>Glanville</font> ;</nonSpeech><dialogue> but if you restore me to my Cousin's
+Favour again, I promise you to repair it by a
+different Behaviour for the future.
+<pagebreak id="77" />
+<comment type="compiler">THE MARQUIS GOES TO SEE ARABELLA.</comment>
+   Ah! my Lord, </dialogue><nonSpeech>interrupted <font>Arabella</font> ,</nonSpeech><dialogue> speak
+no more to me of that unworthy Man, who
+has so grosly abused my Favour, and the
+Privilege I allowed him: His Baseness and
+Ingratitude are but too manifest; and there is nothing
+I so much regret as my Weakness in restoring
+him to Part of my good Opinion, after he had
+once forfeited it, by an Insolence not to be
+paralleled.
+   Indeed, <font>Bella</font> , </dialogue><nonSpeech>said the Marquis, smiling,</nonSpeech><dialogue> you
+resent too deeply these slight Matters: I can't
+think my Nephew so guilty as you would have
+me believe he is; and you ought neither to be
+angry or surprised, that he preferred your
+Conversation before reading in a foolish old-fashioned
+Book that you put in his Hands.
+   If your Lordship had ever read these Books,
+</dialogue><nonSpeech>replied <font>Arabella</font> , reddening with Vexation,</nonSpeech><dialogue> 'tis
+probable you would have another Opinion of
+them; but, however that may be, my Cousin is
+not to be excused for the Contempt he shewed
+to my Commands; and for daring, by the Cheat
+he put on me, to expose me to the Shame of
+seeing myself so ridiculously imposed upon.
+   However, you must forgive him, </dialogue><nonSpeech>said the
+Marquis;</nonSpeech><dialogue> and I insist upon it, before I quit your
+Apartment, that you receive him into Favour.
+   Pardon me, my Lord, </dialogue><nonSpeech>replied <font>Arabella</font> ;</nonSpeech><dialogue> this
+is what I neither can, nor ought to do; and I
+<pagebreak id="78" />
+hope you will not wrong me so much as to
+continue to desire it.
+   Nay, <font>Bella</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> this is carrying Things
+too far, and making trifling Disputes of too
+great Consequence: I am surprised at your
+Treatment of a Man whom, after all, if ever
+you intend to obey me, you must consent to
+marry.
+   There is no Question, my Lord, </dialogue><nonSpeech>replied she,</nonSpeech><dialogue>
+but it would be my Glory to obey you in
+whatever is possible; but this you command me now
+to do, not being so, I conceive you will rather
+impute my Refusal to Necessity, than Choice.
+   How! </dialogue><nonSpeech>returned the Marquis,</nonSpeech><dialogue> will you
+endeavour to persuade me, that it is not possible
+Mr. <font>Glanville</font> should be your Husband?
+   'Tis impossible he should be so with my
+Consent, </dialogue><nonSpeech>resumed <font>Arabella</font> ;</nonSpeech><dialogue> and I cannot give it
+without wounding my own Quiet in a most
+sensible manner.
+   Come, come, <font>Bella</font> , </dialogue><nonSpeech>said the Marquis
+(fretting at her extreme Obstinacy),</nonSpeech><dialogue> this is too much:
+I am to blame to indulge your Foibles in this
+Manner: Your Cousin is worthy of your
+Affection, and you cannot refuse it to him
+without incurring my Displeasure.
+   Since my Affection is not in my own Power
+to bestow, </dialogue><nonSpeech>said <font>Arabella</font> , weeping,</nonSpeech><dialogue> I know not
+how to remove your Displeasure; but,
+questionless, I know how to die, to avoid the Effects
+of what would be to me the most terrible
+Misfortune in the World.
+   Foolish Girl! </dialogue><nonSpeech>interrupted the Marquis,</nonSpeech><dialogue> how
+strangely do you talk? Are the Thoughts of
+<pagebreak id="79" />
+Death become so familiar to you, that you speak
+of dying with so little Concern?
+   Since, my Lord, </dialogue><nonSpeech>resumed she, in an exalted
+Tone,</nonSpeech><dialogue> I do not yield, either in Virtue or Courage,
+to many others of my Sex, who, when
+persecuted like me, have fled to Death for Relief, I
+know not why I should be thought less capable
+of it than they; and if <font>Artimisa, Candace</font> , and
+the beautiful Daughter of <font>Cleopatra</font> , could brave
+the Terrors of Death for the sake of the Men
+they loved, there is no Question but I also could
+imitate their Courage, to avoid the Man I have
+so much Reason to hate.
+   The Girl is certainly distracted, </dialogue><nonSpeech>interrupted
+the Marquis, excessively enraged at the strange
+Speech she had uttered:</nonSpeech><dialogue> These foolish Books my
+Nephew talks of have turned her Brain! Where
+are they? </dialogue><nonSpeech>pursued he, going into her Chamber:</nonSpeech><dialogue>
+I'll burn all I can lay my Hands upon.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

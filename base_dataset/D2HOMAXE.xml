@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HOMAXE">
+  <dialogueHeader>
+
+    <filename>D2HOMAXE</filename>
+
+    <identifier>2 HANDB OTH D2HOMAXE</identifier>
+
+    <title>PLOWING AND SETTING</title>
+
+    <author>MAXEY EDWARD</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1601</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">MAXEY, EDWARD.</attribution>
+      <frontMatter>A NEW INSTVCTION OF PLOWING AND SETTING OF CORNE, HANDLED
+IN MANNER OF A DIALOGVE BETWEENE A PLOUGHMAN AND A SCHOLLER.
+WHEREIN IS PROUED PLAINELY THAT PLOWING AND SETTING, IS MUCH MORE
+PROFITABLE AND LESSE CHARGEABLE, THAN PLOWING AND SOWING.
+BY EDVVARD MAXEY. GENT.
+(...)
+IMPRINTED AT LONDON BY FELIX KYNGSTON, DWELLING IN PATER NOSTER ROWE,
+OUER AGAINST THE SIGNE OF THE CHECKER. 
+1601.
+PP. B1R.1 - C2V.5
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="B1R" />
+ <head>A NEW INSTRVCTION
+OF PLOWING AND SETTING
+OF CORNE, HANDLED IN
+MANNER OF A DIALOGUE BETWEENE A
+<font>PLOUGHMAN AND A SCHOLLER</font> .</head> 
+
+   <nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> 
+   Seeing I am appoynted to defend
+the profitable arte of setting of
+Corne, though in respect of
+learning very vnfit, yet because I haue
+professed and practized
+Husbandrie for the most part of thirtie
+yeeres, and that you, the author of
+the booke (called <font>God speede the
+Plough</font> say that husbandrie is no part of your profession,
+I may hope to maintaine against you by way of
+argument in plaine Husbandrie, that Plowing and Setting is
+much better and more profitable, than either Plowing
+and Sowing, or Digging and Setting.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> I maruell that my booke doth so much
+offend you, I thought to haue pleased you all
+Ploughmen, for so commending the olde fashion of Plowing
+and Sowing.
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> Surely sir you haue no otherwise
+offended me, than all other men that desire the good of their
+Countrie, and be sorie to see the simple abused and
+discouraged by your meanes, and how you please an other
+<pagebreak id="B1V" />
+sort of wilfull men, that will neither know what may be
+profitable for themselues, nor haue any such heartie loue
+to their Countrie and poore neighbours, as they ought
+to haue. As for your booke, howsoeuer you meant, it
+serues to so little good purpose (in my conceite) that it
+was the chiefe cause that moued me to take this worke in
+hand, to correct (if it were possible) the euill humors and
+preiudicate opinions against Corne-Setting, that it hath
+planted in mens heads and hearts.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> I am sorie that my booke should breede any
+euill humors in mens heads or hearts, and I pray you
+what faults doe you finde in my booke?
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> Sir there be faults too many, which being
+the fruites of your idle houres (as you say) be not much
+to be marueiled at, for seldome doth idlenes bring forth
+any profite in husbandrie. And it is not my purpose to
+expostulate with you vpon all particular faults; they are
+too many to trouble the reader with: but you shall heare
+mine opinion, like a man of my plaine profession, &amp; I will
+tell you my minde what I doe thinke in this argument, as
+well as I can. To passe ouer other matters, I will begin to
+defend our old fashion of Ploughes, against your strange
+Plough, that you say <font>might be so made and handled, that it
+may goe deeper by a foote more than ordinarie, proportioning the
+strength of the Teeme and Plough together</font> . Sir, if you can
+deuise a Plough that will goe deeper in all grounds (for
+you make no difference) a foote more than ordinarie, it
+were good you brought it forth; for surely it is likely to
+proue an implement of great force to our English
+Husbandrie: for with it you must be compelled to plowe
+land twentie inches deepe or thereabouts, and yet I must
+confesse to my remembrance, I neuer saw any Plough,
+though drawne with ten oxen, to goe aboue eight or ten
+<pagebreak id="B2R" />
+inches ordinarilie, and that with much a doe; and I pray
+you, how many Oxen or Horse will your Plough require
+to be drawne with? for in some places if you make it goe,
+we plaine countrie men will suspect you will Coniure:
+and in many places the qualitie of the mould will not
+permit our ten inches, much lesse your two and twentie.
+Againe, what vse I pray you shall the Common-wealth
+haue of such an implement, where either it cannot goe
+vnles the diuell draw it, or may not goe for the euill
+mould it will turne vp? and so your Plough in that
+place doth more harme, than your booke can doe good
+any where else.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> Not so sir, I will haue my Teeme and my
+Plough so made, that it shall goe well of that depth in
+such grounds, as I will chuse to set my Corne in.
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> It may be possible (if it please God to
+worke such wonders by your inuention) but we the
+poorer sort of Husbandmen, cannot make Ploughs, and
+prouide Teemes of that value and qualitie; neither haue
+we such change of Land, as to make choyse of apt
+grounds to beare the weight of such Plowes &amp; Teemes;
+but I doubt not by Gods helpe, to plowe and dresse ten
+Acres of Land, as well as you shall doe with your strange
+Plough, or any man shal do with a spade, except he digge
+it two spit deepe, &amp; so burie the first spit with the second,
+which wil be both extreme chargeable and impossible in
+most grounds; and yet where he may digge but one spit,
+there will remaine needes vnburied specially the Cooch,
+which I neuer saw destroyed, but with a sommer fallow,
+or burning the land, as the Deuonshire men doe: the
+which killing of weedes, howsoeuer it can be done, is the
+chiefe cause, that vpon extreame barren Land, those
+countrie people haue good Corne, which otherwise
+<pagebreak id="B2V" />
+should haue little or none: and I desire all good
+Husbands to consider how necessarie it is for them to destroy
+the weedes, before they sowe or set their Corne, that (if
+possiblie they can) they suffer not the weeds to sucke out
+the sappe of their grounds in the spring time, and all
+sommer, before they commit their seede to the ground,
+indangering it with such enemies, which they may doe (in
+my opinion) by one or two plowings more in their
+sommer fallow aboue ordinarie, if the weedie condition of
+the Land, or the season of the yeere doe require it.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> Well sir, admit you doe plowe your Land as
+well as the Spade can doe it, as deepe as your Plough
+will goe, yet as I say, you cannot plowe it deepe enough,
+nor lay it leuell and plaine for the setters to worke vpon.
+<comment type="compiler">PLOUGHMAN'S SPEECH OMITTED.</comment>
+<pagebreak id="B3V" />
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> Not so sir, these are not altogether so idle as
+you make them, but I pray you how will you make this
+barren Land rich enough, to haue such increase as will
+answere the charge of setting?
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> Indeede that is not altogether so idle as
+the other, but yet very easie to be answered, and very
+likelie to be compassed, euen in the barrenest Countries
+and places farre remoued from all meanes to enrich their
+Land. Here then I would aduise all good Husband-men
+that intend setting, to lay all their soile and foule doung
+that they vsed to scatter ouer thirty Acres or there abouts,
+(being their ordinarie season) I say, lay it vpon ten Acres.
+And by reason they leaue twentie Acres to rest, they shall
+keepe more store of Sheepe either of their own, or take to
+folde of other mens, and so keep them better, and by that
+meanes their folde will be much bigger, and their Land
+will be folded much better: and if there be any Marle
+of Chalke, or of other sort of good molde neere to be
+had by any meanes, they shall now haue leasure to fetch
+it, by reason they haue so little tillage to doe: or else doe
+this, follow the example of a Gentleman that made a
+great quantitie of soile, by the fodering of all his Cattell
+vpon a peece of exceeding ranke ground about an Acre,
+which being very good and restie Land neere his house,
+<pagebreak id="B4R" />
+he plowed vp in the end of Aprill, when his Cattell
+went to grasse, and with two or three plowings so mixed
+the restie ranke ground with the doung and fodder of
+his cattell, that he had ten loade for one of very good
+soile, (to the fatting of other grounds) then otherwise
+he should haue had; and also there is much dounge to be
+made with Ferne in places where it is neere: many good
+Husbands do prouide great store in summer, that in
+winter will serue for cattell to sit drie vpon, and make great
+store of soile, with little cost, hauing now so much leisure
+in this small Tillage. By these and diuers other good
+meanes very common and easie, when men haue little
+plowing, they may so inrich their land, that they shall not
+neede to doubt of a better increase (by Gods helpe)
+sufficient to pay the charge of setting liberally, with
+threefold increase at Haruest.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> Then you may fall into another
+inconuenience, that I warned you of in my booke, that is, to make
+your land too ranke, and then your Corne will ledge,
+and euery stalke will be slender and long, euery eare will
+be heauier and longer than ordinarie, and so the Corne
+will fall downe and ledge, and come to little good.
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> This inconuenience will easilie be
+helped. Wee had first neede to helpe our barren land, and
+make it hartie, and then for falling and ledging I will set
+it thin enough, as the qualitie of the ground requireth:
+for it is the thicke sowing of ranke land vpon euill tillage
+that causeth Corne to ledge. If the land be rich and the
+yeere wet, the Corne ranke, and the weedes many; then
+(as you say) it is like to ledge: few poore men in England
+complaine their land is too rich, or desire their Corne
+more thin, for then their purses would be more emptie. I
+could easilie teach them such tricks as well as you with all
+<pagebreak id="B4V" />
+your cunning: and as for the length and slendernes of
+the straw, I doubt not but it will be fit to beare the heauie
+eares, which God send me, and take you the light if you
+like them better.
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> Your reasons may proue good for sowing,
+but for setting, you will be set a ground presentlie. For
+where will you get people enow to set a Season fit for
+a Teeme to be kept on? All the labourers in the
+Countrie will scant serue you, and fiue or sixe such as you
+would be.
+<comment type="compiler">PLOUGHMAN'S SPEECH OMITTED.</comment>
+<pagebreak id="C1V" />
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> I must needes confesse, that your experience
+<pagebreak id="C2R" />
+hath taught you to say more in this matter than I
+conceiued of it before. But yet seeing you looke for no more
+increase than sixe or eight quarters vpon an Acre, it is
+not the admirable arte the first booke speakes of (which
+made me mislike and write as I did) for many men in
+diuers places haue had the like increase; neither doe I yet
+perceiue how the charges of setting will be answered,
+nor any matter worthie so great account as you make
+of it.
+   </dialogue><nonSpeech> <font>Ploughman.</font> </nonSpeech><dialogue> What you see I know not, or what the
+cause should be I cannot tell, that so many men should be
+so blinde or so vnwilling to see how to doe themselues
+and their neighbours so much good: but I feare me it is
+the iust punishment of God vpon vs the sinfull people of
+this good Land, that we hauing so great plentie of all
+good things, do consume with gluttonie and with
+drunkennesse so great blessings of God alreadie bestowed
+vpon vs: and if we should by this meanes or any other,
+expect a greater aboundance than yet we haue receiued, it
+is to be feared that the Lord that seeth how wickedlie we
+would consume it, will not permit such an vnthankfull
+people to receiue so exceeding great a benefit, but euen
+by our owne frowardnes will quite ouerthrow it. But yet
+let vs see if we can possiblie be brought to discerne any
+thing worthie account in this noueltie, as you tearme it:
+And for example, say that thirtie Acres by Rodde, will
+require three bushels of seede <font>Winchester</font> measure to
+euerie Acre, (for so you say it will) and so in most land it
+doth, which is eleuen quarters and two bushels of seede
+to thirtie Acres: What is the vsuall increase vpon an
+Acre in the common fields barren land?
+   </dialogue><nonSpeech> <font>Scholler.</font> </nonSpeech><dialogue> The increase of an Acre of such barren land,
+commonly is not aboue two quarters one yeere with
+<pagebreak id="C2V" />
+another, and one Acre with another, and when they so doe,
+there neede be no dearth in England; for where one hath
+aboue, three hath not so much: and therefore you will
+hardlie approue that your setting will be to any great
+purpose in those common fields, barren Land.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

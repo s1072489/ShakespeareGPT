@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3WYORK">
+  <dialogueHeader>
+
+    <filename>D3WYORK</filename>
+
+    <identifier>3 WITNESS D D3WYORK</identifier>
+
+    <title>CASTLE OF YORK 3</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1655-64/1861</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">RAINE, JAMES.</attribution>
+      <frontMatter>DEPOSITIONS FROM THE CASTLE OF YORK, RELATING TO OFFENCES
+COMMITTED IN THE NORTHERN COUNTIES IN THE SEVENTEENTH CENTURY.
+THE PUBLICATIONS OF THE SURTEES SOCIETY. (...) VOL. XL. FOR THE YEAR
+MDCCCLXI.
+PUBLISHED FOR THE SOCIETY BY FRANCIS ANDREWS, DURHAM; 
+WHITTAKER AND CO., 13, AVE MARIA LANE; T. AND W. BOONE, 29, NEW BOND
+STREET; BERNARD QUARITCH, 15, PICCADILLY, LONDON:
+BLACKWOOD AND SONS, EDINBURGH. 
+1861.
+PP. 71.1 - 80.24   SAMPLE 1
+PP. 82.6 - 97.4    SAMPLE 2
+PP. 98.29 - 101.11 SAMPLE 3
+PP. 112.15 - 119.7 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">CASE HEADINGS ARE FOR THE MOST PART PROVIDED BY THE SOURCE TEXT 
+EDITOR, AND THEREFORE CODED AS SUCH BELOW.</comment>
+
+<comment type="compiler">THE SOURCE TEXT EDITOR INTERFERES IN THE TRANSCRIPTION OF THE 
+DEPOSITION EXTRACTS BY PARAPHRASING, OR SUPPLYING CONTEXT WITHOUT 
+ALWAYS INDICATING THIS, E.G. BY THE USE OF EDITORIAL BRACKETS.</comment>
+
+<comment type="compiler">DIRECT SPEECH NOT ALWAYS DISTINGUISHABLE FROM INDIRECT SPEECH AND
+OTHER LEVELS OF DISCOURSE.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="71" />
+ <head> <comment type="editor">LXIX. CHRISTOPHER BRAMLEY. FOR BRAWLING IN A
+CHURCH.</comment> </head> 
+
+   <nonSpeech>March 28, 1655. Before Thomas Dickinson, Esq. <font>Josiah Hunter,
+minister of both Ouseburnes</font> , saith, that, upon the last Lord's    
+day,
+being 25th of March instant, one Christopher Bramley, of
+Whixley, came, as he had done severall Sundays before, to the 
+parish church of Litle Ouseburne at the time of morning service,
+when he said to the informant, passing by him into the church,</nonSpeech><dialogue>
+&quot;Thou art going into the throne of pride;&quot; </dialogue><nonSpeech>and afterwards,
+being in the church he, the said Christopher Bramley, most
+irreverently behaved himselfe, not moving his hat all the time of
+the first prayer and singing of psalmes before sermon, but sat in
+the porch and spake to diverse as they came in, to the disturbance 
+of them; and, after the informant had nominated his text, which
+was 119 Ps., 105, &quot;Thy word is a lampe unto my feete and a
+light unto my path,&quot; he the said Bramley standing up said, in
+the hearing of the informant and one William Peele, &quot;Where
+was the word? the word was not then written or but in writing;&quot;
+with much more that could not be distinctly heard by reason of
+the noise of the people, who, being greatly disturbed as well as
+the informant, rose up in their seates and turnd themselves
+towards him who made the disturbance. Immediately the
+churchwarden put him the said Bramley out of the porch and
+lockd the doore upon him, yet he came againe and cast in a 
+paper through a hole in the doore conteining much slanderous
+and reviling matter, which appears by the writing ready to be
+produced by the informer upon demand. The informant saith
+likewise that, about sixe weekes agoe, he the said Bramley came
+on the Lord's day in the afternoone into the parish-church of
+Great Ousburne in the time of sermon, when and where he did
+<pagebreak id="72" />
+likewise not a little disturb the informant preaching on that place,
+of Scripture 8 Luke, 18, &quot;Take heed how you heare,&quot; audiblye
+contradicting the informant with words to this purpose,</nonSpeech><dialogue> &quot;Thou
+hast noe such command or authoritye.&quot; </dialogue><nonSpeech>After sermon alsoe he
+stood in a daring manner in the time of prayer and singing part
+of a psalme and giving the blessing, and afterwards remained
+most of an houre in the churchyard, labouring still to cause more
+disturbance, and deteining many people about him, as if it had
+been a place of marketting, to the great abuse of the Lord's
+day &amp;c.</nonSpeech>
+
+ <head> <comment type="editor">LXX. CHARLES KIPLIN, CLERK. FOR TREASON.</comment> </head> 
+
+   <nonSpeech>Aug. 11, 1655. Before Edward Briggs, Esq. <font>Thomas
+Waller, of Brough</font> , saith, that one Charles Kilpin, of Crosbie
+Ravenside, clarke, hath beene an enimie against the 
+Commonwealth ever since the begininge of these unhappie distraccions;
+and he did confesse, in this informant's heareinge, that he was
+a private intelligencer by the State in the yeare 1648; and, a litle
+before this last insurrection, this informer heard him say in
+February last that the Lord Protector was a traitor, for he had taken
+away the King's life, and hoped in a litle time that the Lord
+Protector and all that tooke his parte would come to a shamefull
+end, and that they were but rogues and theeves that tooke his
+parte. And the said Charles Kilpin hath passed severall times
+to and from the toppe of Stainemore to meet his brother Tobie
+Kiplin, another grand enimie against the State, about a month or
+three weekes before the insurrection, with a resolution, as this
+informant verily believes, to know when the Yorkshire and
+Bishopricke men would rise.</nonSpeech>
+
+ <head> <comment type="editor">LXXI. JOHN LOFT. FOR BRAWLING IN CHURCH.</comment> </head> 
+
+   <nonSpeech>Aug. 12, 1655. On this present day, John Loft, of Whingate
+Wood, came into the church of Newton Kime, in the tyme of
+divine service, and duringe the tyme of praier before the sermon
+<pagebreak id="73" />
+preached by Mr. Thomas Clapham, minister there, stood up with
+his hatt on before him, and did three tymes interrupt him, sayinge
+the prayers of the wicked were an abomination to the Lord, and
+bad him cease. And, when the sermon begun, he further said he
+was an hyrelinge and preached for wages. He was carryed forth
+of the church by the constable and churchwardens there.</nonSpeech>
+
+ <head> <comment type="editor">LXXII. WM. AND JAMES RICHARDSON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Aug. 13, 1655. Before Edward Briggs, Esq. <font>Margaret
+Eubanke, of Stainemore, and Captain Thomas Eubanke, her
+husband</font> , say, that, on the 20th February last, beinge with
+Wm. Richardson, minister of Brough, and James Richardson,
+his brother, they said that both her husband and she would lose
+both life, lands, and goods, within a little time, and all the rest
+of the Parliament's party that have beene against the Kinge, the
+lawfull heire of this kingdome, unlesse they would revolt within
+three moneths time. They would be laid lower then ever yet,
+and they deserved death, and they and such like had beene
+suffered too longe.</nonSpeech>
+
+ <head> <comment type="editor">LXXIII. RICHARD BROWNE. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>March 26, 1656. Before Thomas Burton and Francis Sisson,
+Esqrs. <font>John Ardsey, clerke, and Robert Miller</font> , say, that they
+heard Richard Browne, of Cleaburne (co. Westmerland), say
+that the army were all plunderinge rogues and cowards, and that
+they had never comed to the passe they were at, but only that
+their army (meaninge the King's army which he was in) had
+some or other in it still to betray them, but he hoped to see an
+ill day for them all. And that he said the Lord Protector was a
+murtherer, and, if he and his states had their due deserts, they
+deserved all to be either hanged or headed, for they had both
+headed the Kinge, and hanged many gallant and better men than
+themselves, only for gettinge their estates, that they might live in
+pride, as now they did, and kept a company of rogues, excisemen,
+and, such like, to abuse the country still. And that he further
+sayd that if he did but know how to come privatly to the Lord
+Protector, and his states, that it might not be knowne, he did
+<pagebreak id="74" />
+sweare, God d--- him, body and soule, if he would not cutt all
+their throats; and againe he wished that he had them all in an
+hott burninge oven, he did sweare againe, God confound him, if
+he would not sett up the stone and burne them all to death. All
+which words were spoken by the said Browne, upon the 26th day
+of June, 1655.</nonSpeech>
+
+ <head> <comment type="editor">LXXIV. JENNET AND GEORGE BENTON. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>June 7, 1656. Before Jo. Warde. <font>Richard Jackson, of
+Wakefeild</font> , sayth, that, he beinge tennant to Mr. Stringer, of     
+Sharlston,
+for a farme called by the name of Bunny hall, nyare Wakefeild,
+one Jennett Benton, and George Benton, her sonn, pretended to
+have a high way thorough the grounds belonginge to the said
+farme; which one Daniell Craven, servant to the informant, and
+by his mayster's appoyntement, did indevor to hinder. Upon
+which the said George Benton did cast a stone at him, the said
+Craven, wherewith he cutt his overlipp, and broake two teeth out
+of his chaps. Soe, an action beinge brought against the said
+Benton for the trespass, which was submitted unto by him, and
+indevors used to end the difference, which was composed, and
+satisfaction given unto the said Craven. After which, the said
+Jennett Benton and her sonn did say that it should be a deare
+day's worke unto the said Rich. Jackson, to him or to his, before
+the yeare went about. Since which time his wife haith had her
+hearinge taken from her; a childe strangely taken with fitts in
+the night time; himselfe alsoe, beinge formerly of helthfull body,
+have beene sudenly taken without any probable reason to be given
+or naturall cause appearinge, beinge sometimes in such extremity
+that he conceived himselfe drawne in peices at the hart, backe,
+and shoulders. And, in the begininge of these fits, the first night,
+he heard a greate noyse of musicke and dancinge about him. The
+next night, about twelve of the clocke, he was taken with another
+fitt, and, in the midle of it, he conceved there was a noyse like
+ringinge of small bells, with singinge and dancinge, and sometimes
+both nights a noise of deepe groneing; upon which he called of
+<pagebreak id="75" />
+his wife and asked her if she heard it not, and soe of his man,
+who answered they did not. He asked them againe and againe
+if they heard it not; at last he, his wife, and servant, all heard it
+give three hevie groones; at that instant doggs did howle and
+yell at the windows, as though they would have puld them in
+peeces. He had also a great many swine which broake thorrow
+two barn dores. Also the dores in the howse at that time clapt
+to and fro; the boxes and trunkes, as they conceived, was removed;
+and severall aparitions like black doggs and catts was seene in the 
+house. And he saith that, since the time the said Jennet and
+George Benton threatned him, he hath lost 18 horses and meares.
+And he conceives he hath had all this loss by the use and practise
+of some witchcraft or sorcerie by the said Gennet and George
+Benton.</nonSpeech>
+   <nonSpeech> <font>Susanna, wife of Robert Maude, of Snow hill</font> , saith that   
+Jennet
+Benton came downe to her house to seeke her son George Benton,
+and asked him if hee would goe home with her. He answered,</nonSpeech><dialogue>
+&quot;Mother, which way shall I goe? You know I can goe thorrow
+the stone wall if yow would have me.&quot; </dialogue><nonSpeech>And further said, that
+either his father or the divell came to their house and tooke up 
+the iron tongues and strooke upon the iron range. And said that
+the thing which soe came to their house range soe all times of the 
+night. To which the said Gennet said,</nonSpeech><dialogue> &quot;Villaine, did it ever doe
+the any hurt? it will doe soe at the noone time.&quot;
+   </dialogue><nonSpeech>Two other witnesses testify to suspicious circumstances against
+them; the two accused deny all.</nonSpeech>
+
+ <head> <comment type="editor">LXXV. WILLIAM AND MARY WADE. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>July 12, 1656. Before Thomas Brathwaite, Esq. <font>Ann
+Duffeild and Mary Wilson, of Studley, spinsters</font> , say, that        
+Elizabeth
+Mallory, daughter of the Lady Mallory, of Studley hall, beinge
+<pagebreak id="76" />
+of the age of 14 yeares or thereabouts, hath layd these twelve
+weekes languishinge, haveing the use of her limbs taken from her;
+beinge not able to rise from her bed, but as she was helpt; and in
+that tyme holden with strange fitts, sometimes in her armes and
+leggs, and moste parts of her body. Now, of late, within thre
+dayes, in one of her fitts she cryed out and saied,</nonSpeech><dialogue> &quot;She comes,
+she comes.&quot; </dialogue><nonSpeech>And beinge asked who it was, she replied,</nonSpeech><dialogue> &quot;Mary,
+Mary.&quot; </dialogue><nonSpeech>And the said Ann Duffeild nameinge diverse Maryes
+with their sirnames, which she had formerly knowen, unto her,
+she did not any way alter in her carriage till she named one Mary
+Waide. And, upon that, she skreaked and cryed oute,</nonSpeech><dialogue> &quot;She
+comes! she comes! Nowe she sitts yonder in the windowe like
+a catt.&quot; </dialogue><nonSpeech>And once she said,</nonSpeech><dialogue> &quot;She is a tall woman att the bed's
+feete.&quot; </dialogue><nonSpeech>And since the tyme of the nameinge of the said Mary,
+she hath vomited severall strange things, as blottinge paper full
+of pins and thred tied about, and likewise a lumpe of towe with
+pins and thred tied aboute it, and a peice of wooll and pins in it,
+and likewise two feathers and a sticke. And when she was tolde 
+by the said Ann that she had vomited the feathers and sticke,
+she said she sawe them this morneinge in her hands. And
+beinge asked by the said Anne in whose hands; she said,</nonSpeech><dialogue> &quot;in
+Mary Waids:&quot; </dialogue><nonSpeech>and tolde what feathers they weere, though when
+she was oute of her fitts she could not tell that she was in any
+such fitt. And in her fitts she sayd and cryed oute that if she
+would confesse but in thre words that she had done her wronge,
+she should be well. Whereupon the said Mary was sente for
+and, after much intreatie, beinge perswaded to say she had done
+her wronge, and to aske her forgivenesse, which she did, the said
+Elizabeth stood upp on her feete, though imediately before her
+limbs were drawen upp that she could not stir, and sayd she was
+well, and walked upon the bed. But, presently after, the said
+Mary Waide denyed that she had done her wronge. 
+Whereupon the said Elizabeth sayd,</nonSpeech><dialogue> &quot;If she denyes it, I shall be ill
+againe:&quot; </dialogue><nonSpeech>and presently begun with her ill fitts as formerly. And
+in moste of her fitts since, she sayd she should never be well till
+she had confessed she had done her wronge, or was carryed before
+a justice and punished.</nonSpeech>
+   <nonSpeech> <font>Anne Duffeilde, re-examined</font> , on July 16, says, that       
+this day
+Mrs. Elizabeth Malory was in an exstreame fitt of sicknesse for
+the space of two howers. And this informer, with others, beeinge
+with her, demanded of hir what she see aboute hir in that fitt.
+<pagebreak id="77" />
+And the said Mrs. Elizabeth Mallory answered that shee see two
+catts, one blacke and one yellow catte. And they demaunded of
+hir what they weare, and she replyed</nonSpeech><dialogue> &quot;The women that sente them
+weare at Rippon, which yow well know.&quot; </dialogue><nonSpeech>And further shee said</nonSpeech><dialogue>
+&quot;William&quot; </dialogue><nonSpeech>once or twice. And this informant demaunded of
+hir</nonSpeech><dialogue> &quot;What William?&quot; </dialogue><nonSpeech>and she replyed she knew not, but onely
+trusted in God; and desired them to pray with hir; which the
+company did. And then she named William and Mary, but
+when they named William Wayde she was paste holdinge, her
+extreamaty was such, and cryed out</nonSpeech><dialogue> &quot;William Wade thou 
+terrifyer.&quot;
+   </dialogue><nonSpeech> <font>Mary Mealbancke, of Studley Magna</font> , informeth, that, aboute
+the first of January laste, she beinge in the dearry or milkhouse of
+Studley, Mary Wayde came in to the said house: and Mrs.
+Elizabeth Mallory beeinge present, and haveinge a peice of breade in
+hir haunde, the said Mary Wayde desired her to bestow the said
+peice of breade upon hir. This informer replyed that breade was
+noe novelty in Cristmas; whereupon the said Mary answered that</nonSpeech><dialogue>
+&quot;your breade is novelty at any tymes;&quot; </dialogue><nonSpeech>and pressinge still upon
+hir to bestowe upon hir, after she haid demaunded it three tymes
+the said Mrs. Elizabeth Malory gave it to hir. And she 
+thankefully received it, and tould hir that they weare very curteous 
+gentlewomen. And beinge demaunded of this informant whether 
+she conceived the said Mary Wayde was soe importunate for the 
+peice of breade for wante or noe, she saith that for divers yeares
+bypaste she haide beene there neighbour, but she coulde not
+perceive but that there house was furnished with breade and good
+breade. She further saith that the said Mrs. Elizabeth Malory,
+if she had beene reedeinge upon hir booke, or upon discourse at
+any tyme betweene hir fitts, she woulde have leaft of, and would
+have given notice to the company with hir that she was to have
+a fitt, and would have expressed directly whether it would have
+beene a great fitt or an easie one, and it would have happenned
+accordingly. She further saith that Mrs. Elizabeth Malory
+affirmed that after they weare both comitted to prisson, that is to
+say, the said Wm. Wayde and Mary his wife, shee should have
+noe more sore fitts. Which, accordingly, after she was assured
+certaynely that they weare both in holde, she was freede from
+hir fitts; and hath soe contynewed for above a fortnett. And
+before that tyme she haid them contynewally, very many every
+day for the moste parte. And this informer further saith that in
+the exstreamety of hir fitt she cryed out,</nonSpeech><dialogue> &quot;Now she comes, Mary
+Wayde, Mary Wayde, Mary Wayde!&quot;
+   </dialogue><nonSpeech> <font>William Wayde, of Studley</font> , saith that this day (July 16) he
+<pagebreak id="78" />
+was at worke, and was sent for to goe to the Ladye Mallorye
+aboute 12 or one of the clocke in the afternoone. And he went
+to the said Lady Mallorye, whoe desired him to aske hir daughter,
+whoe then lay sicke, forgivenesse, and to repeate some words aftir
+hir, or some other gentlemen which was then present, but he
+denied to do soe. He had noe pins in his hand. He saith that
+at that time that he was theire the Lady Mallorye gave order to
+shut two kats with a peice and he heard the peice goe of. And
+then the Ladye and others theire desired him to goe oute of the
+roome, which he did. He saith that Mrs. Elizabeth Mallorye, as
+he is fullye perswaded, is possesed with an evill spirit, which is
+the cause of hir presente mallady and sicknesse. And he is cleare
+of all and every accusation that now is laid against him bye the
+Ladye Mallorye or any other person whatsoever.</nonSpeech>
+
+ <head> <comment type="editor">LXXVI. AGNES WILKINSON. FOR BRAWLING IN CHURCH.</comment> </head> 
+
+   <nonSpeech>July 22, 1656. Before Roger Coats, Esq. <font>Thomas Danby, of
+Kighley, clarcke</font> , sayth, that yesterday, beeing the Lord's day,
+Agnes Wilkinson came into the church of Kighley, and at the
+closse of the exercisse, shee called him Antichrist, preest of Balle,
+flasse prophitt, with other revilleing languages.</nonSpeech>
+
+ <head> <comment type="editor">LXXVII. MATTHEW VASEY. FOR HIGH TREASON.</comment> </head> 
+
+   <nonSpeech>May 30, 1657. Before Luke Robinson, Esq., N. R. Y. <font>Robert
+Awderson, gentleman</font> , saith, that, about a fortnight before last
+<pagebreak id="79" />
+Christenmas, he was ryding forth upon a grey gelding, and
+Mathew Vasey, the elder, of the Marrishes, mett this informant
+in the said Vasey's ground. And this informant told Vasey that
+he had been to shew the said horse to one Mr. Kirby. And 
+Vasey replyed, hee was a very handsome horse, and, if he would
+give that horse to King Charles, it would bee five hundred pounds
+in his way another day. And the said Vasey did tell this
+informant there were three men who came from Bridlington-ward, the
+other day, over about that place where his, the said Vasey his
+dwelling is; and one of those men was thought to bee King
+Charles. And that the said men went to Allerston to a house
+there, which hee did then name; but this informant hath 
+forgotten the name of the house; and said the said men did lye
+downe on a bedd there, and gott some potchett eggs, and went
+before day northward upon horses, each of about ten pounds price.</nonSpeech>
+
+ <head> <comment type="editor">LXXVIII. THOMAS TAYLOR. FOR BRAWLING IN CHURCH.</comment> </head> 
+
+   <nonSpeech>Aug. 21, 1657. Thomas Tayler, at Appulby, did openly say
+to Francis Higginson, preacher there, in the publique place of
+meeting,</nonSpeech><dialogue> &quot;Come down, lyar, for thou speakes contrary to the
+doctrin of Christ, for Christ hath said, sweare not att all,&quot;
+</dialogue><nonSpeech>whereby hee did not only molest the said Francis Higginson, but
+alsoe did cause greate tumult and disturbance amongst the people
+then and there present.</nonSpeech>
+
+ <head> <comment type="editor">LXXIX. GEORGE HARRISON. FOR TREASON.</comment> </head> 
+
+   <nonSpeech>Sep. 24, 1657. Before Edward Briggs, Esq., J. P. co. 
+Westmerland. Whereas George Ottway did acciedenteley meate with
+one George Harieson, who by his simplisiteys did discover 
+himselfe to be one who was imployed either for the Poppe or for
+Charles Stuarde, to imbroyle this nacion in bloude, and to wage
+warr against his Heignes the Lord Protecter. And the suteltey
+of the divell havinge putt the said George Harieson into a
+<pagebreak id="80" />
+disguise of selinge tobacco in England, with an intencion to ingage
+severall percons of qualiety in this quariell, the aforesaid George
+Ottway, being by the worlde caled a madman, but then havinge
+his wittes about him, did discover that the foresaid Harieson was
+a comon rogge, and woulde have tempted him to his owne
+distruction, that is to say to have <comment type="editor">....</comment> him to have gone to     
+Charles
+Sturde; sainge that he had seine the faice of Charles Sturde aboute
+foure weekes agoe. Uppon which the said Ottway did repley
+that he had foure good geldings and woulde gladle have beine
+with Charles Sturde. Upon which the said Harieson tould me
+that he woulde carie me to him within 3 weekes time. And then
+the said Ottwey in his Heignes the Lorde Protector's name did
+appriehende the said partey upon heigh treason.</nonSpeech>
+   <nonSpeech> <font>Lassie Procter, of Treason feild, gen.</font> , saith, that       
+beinge in
+company with George Harrison in Sedbergh, he heard him say
+1. That the Lord Protecter is a traitor, and all that take his part
+are traitors. 2. That the dregs of a Papist was to good to make
+Protestant off. 3. That Fox (meaninge the grand Quaker),
+was one in religion with him.</nonSpeech>
+   <nonSpeech> <font>Gawen Mosse</font> , heard Harison say that he served a better
+maister then ever the Lord Protecter was. Further, that he came
+from beyond sea, and saw Charles Stuard within a month before,
+and, if Mr. Ottway would be pleased to goe, he would show him C.
+Stuard in a months time.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="82" />
+ <head> <comment type="editor">LXXXIV. ELIZABETH SIMPSON. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>Feb. 15, 1659-60. Before Luke Killingworth, Esq. <font>Michaell
+Mason, of Tynmouth, soldier</font> , saith, that, about the 20th of Jan.
+last, Elizabeth, wife of George Simpson, of Tynmouth, fisher,
+came into his house and asked a pott full of small beare from
+Frances Mason, daughter to this informer; and, she refusing, the
+said Elizabeth threatened to make her repent. He saith that upon
+the next day the said Frances lost the use of one of her leggs,
+and, within foure dayes after, the use of the other; whereupon
+she, becoming lame, was necessitated to keep her bed, where she
+lay miserably tormented, crying out that the said Elizabeth did
+pinch her heart and pull her in pieces; but, this informer getting
+blood from the said Elizabeth, she hath ever since continued
+quiett in her bed without any torture, but she doth not recover
+the use of her limmes, but pines away in a most lamentable
+manner.
+   The said Elizabeth is reported to be a charmer, and turnes the
+sive for money, and hath been reputed a witch.</nonSpeech>
+<pagebreak id="83" />
+ <head> <comment type="editor">LXXXV. MARGARET DIXON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against Margaret Dixon, of Newcastle, for saying,
+on May 13, 1660,</nonSpeech><dialogue> &quot;What! can they finde noe other man to
+bring in then a Scotsman? What! is there not some 
+Englishman more fit to make a King then a Scott? There is none that
+loves him but drunk whores and whoremongers. I hope hee will
+never come into England, for that hee will sett on fire the three
+kingdomes as his father before him has done. God's curse light
+on him. I hope to see his bones hanged at a horse tayle, and
+the doggs runn through his puddins.&quot;
+
+</dialogue> <head> <comment type="editor">LXXXVI. JOHN BOTT, CLERK. FOR A SEDITIOUS SERMON.</comment> </head> 
+
+   <nonSpeech>The Grand Jury find a true bill against John Botts of 
+Darfield, clerk, for saying in his sermon in Darfield church, on the
+13th of May, 1660,</nonSpeech><dialogue> &quot;The man wee had soe long desired and 
+expected, and that the Parliament were about to bring in, would
+bring in superstition and Popery, and that we must fall downe
+againe and worshipp stocks and images, the workes of men's
+hands. But, rather, let us shew ourselves men, and gird every 
+man his sword upon his thigh, and sheath it in his neighbour's
+bowell, for I doe beleive too many of us have Popes in our bellies.
+Let us feare the King of heaven and worship Him, and bee not so
+desireous of an earthly King, which will tend to the imbroileing
+of us againe in blood.&quot;
+<pagebreak id="84" />
+</dialogue> <head> <comment type="editor">LXXXVII. RICHARD ABBOT. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against Richard Abbott, of Brighton, for
+treasonable words, on May 20, 1660. Thomas Smith said,</nonSpeech><dialogue> &quot;I hope wee
+shall have a King.&quot; </dialogue><nonSpeech>On which Abbott replied,</nonSpeech><dialogue> &quot;A King! if I
+had but one batt in my belly, I would give it to keep the King
+out, for Cromwell ruled better than ever the King will.&quot;
+
+</dialogue> <head> <comment type="editor">LXXXVIII. JOHN CAREUTH. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>May 23, 1660. <font>Robert Allyson, of Shields, butcher</font> , saith,  
+that,
+about the begining of March last, John Careuth, of Tynmouth,
+gen., did say that the King was a son of a whore, and that the
+late King Charles poison'd his father, saying to this informer,</nonSpeech><dialogue>
+&quot;The rogue, your master, is comeing over into England, but he
+hath never a man that followes him that hath a principle of God
+in him except Sir Ralph Hopton.&quot; </dialogue><nonSpeech>And he said that General
+Monk was a traytor, and worse than Jezabel that was eaten by
+doggs.&quot;</nonSpeech>
+
+ <head> <comment type="editor">LXXXIX. SOME PERSONS UNKNOWN. FOR A BURGLARY.</comment> </head> 
+
+   <nonSpeech>June 6, 1660. <font>Jeremiah Nelson, minister of Ellesden</font> , saith,
+that on May the 7th, a litle before midnight, certain men broke
+into his house, and came with swords and pistolls into the said
+house, and shot off a pistoll, and did come into the lodging 
+parlour, where he and his wife lyes, and did threaten him often that
+if he would not give them his money presently they would kill
+him, and one of them said often,</nonSpeech><dialogue> &quot;Kill Baal's preist,&quot; </dialogue><nonSpeech>and they
+tooke away a purse and bag and money in it.</nonSpeech>
+<pagebreak id="85" />
+ <head> <comment type="editor">XC. THOMAS LUNN. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against Thomas Lunn, of Bootham, labourer, for
+saying, on June 10, 1660,</nonSpeech><dialogue> &quot;The King shall never bee crowned,
+and, if hee is crowned, hee shall never live long. His father's
+head was taken of with an axe, but a bill shall serve to take of his.&quot;
+
+</dialogue> <head> <comment type="editor">XCI. GILBERT ROWELL, CLERK. FOR SPEAKING AGAINST
+THE PRAYER BOOK.</comment> </head> 
+
+   <nonSpeech>A true bill against Gilbert Rowell, of Alnwick, clerk, for
+saying in Alnwick church, on Sep. 2, 1660,</nonSpeech><dialogue> &quot;The Common
+Prayer booke imposed and intruded upon the people is unlawfull
+<pagebreak id="86" />
+to be used, and it is not owned by God, nor hath any authority
+out of the word of God.&quot;
+
+</dialogue> <head> <comment type="editor">XCII. WILLIAM POOLE. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Nov. 15, 1660. Before Sir John Kay at Woodsome. <font>Thomas
+Gibson, of Almonbury, yeoman</font> , saith, that on the 14th of Nov.,
+beinge at South Crosland, William Poole, of Barkisland, said
+that &quot;the trained bands which are now rayseinge are to goe into
+Scotland, for Morgan and the Scotts does joyne, and these
+souldiers which are now disbanded does flye into Scotland and
+joyne with them against our Kinge, because that hee was sworne
+there for them, and now goes against his oath. And further sayd
+that the Kinge and Queene are now both come into England, and
+that wee should notheinge but Popery, as formerly hath beene, and
+that the Queene hath broughte a Pope with her from beyond sea.&quot;</nonSpeech>
+
+ <head> <comment type="editor">XCIII. CAPTAIN JOHN HODGSON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Jan. 14, 1660-1. <font>Daniel Lister, of Ovenden, yeoman</font> , sayth,
+that on the 10th he casually mett with John Hodgson, of Coley
+Hall, late a captaine against the Kinge. And the said informer,
+<pagebreak id="87" />
+out of his affection to his Ma=tie=, did say, that now the sunne did
+shine upon the righte side of the hedge. The said John Hodgeson
+asked him what he ment by the sunne. He tould him, he ment
+our Soveraign lord the Kinge. Then the sayd Hodgson answered</nonSpeech><dialogue>
+&quot;Your Kinge, your Kinge ere long will have notheinge left to
+sett his crowne upon.&quot;
+
+</dialogue> <head> <comment type="editor">XCIV. THOMAS TAYLOR, AND OTHERS. FOR REFUSING THE
+OATH OF ALLEGIANCE.</comment> </head> 
+
+   <nonSpeech>March 25, 1661. Committed to gaol at the York assizes for
+refusing the oath of allegiance. Tho. Taylor, Samuel Watson,
+Henry Jackson, John Smyth, Roger Hebden, Christofer Holyday,
+John Levens, George Watkinson, Peter Acklam, Isaac Linsley,
+<pagebreak id="88" />
+John Hall, Wm. Dewsbury, John Hick, Samuel Poole, Matthew
+Foster, John Blakeley, John Greene, Richard Blythman, 
+Christofer Gilburne, Nicholas Pawson, Andrew Hawkes, Christopher
+Bramley, Wm. Lotherton, Abraham Wadsworth, John Hodgson,
+Wm. Siddall, Chr. Chapman.</nonSpeech>
+
+ <head> <comment type="editor">XCV. WILLIAM LAWSON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against Wm. Lawson, of Leeds, labourer, for
+saying at Wike, on the 20th of May, 1661,</nonSpeech><dialogue> &quot;I hope the phanaticks
+will disperse his Majesties trained bands like the chafe before the
+wind. It was justly done that the late King was beheaded.&quot;
+
+</dialogue> <head> <comment type="editor">XCVI. MARY JOHNSON AND OTHERS. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>Aug. 8, 1661. Before John Emerson, Esq., Mayor of
+Newcastle. <font>Robert Phillip, of Newcastle, labourer</font> , saith, that, 
+about
+fourteene dayes before Christenmas last, he fell sicke, and was
+sore pained at his heart, and lying awake one night about nyne or
+tenne of the clocke, the doores being shutt, there appeared to him
+one Mary, wife of Wm. Johnson, of Sandgate, labourer, one
+Margaret Cotherwood, with another woman; and the said 
+<pagebreak id="89" />
+Margaret said to him,</nonSpeech><dialogue> &quot;Wype off that on thy forehead, for it burns
+me to death,&quot; </dialogue><nonSpeech> (this informant having anointed his head that night
+with an ointment for the headache which was given him.) This 
+inform=t= asking her what it was that burnt her, she answered</nonSpeech><dialogue>
+&quot;That ointment that is on thy brow,&quot; </dialogue><nonSpeech>and puft and blew and cryed</nonSpeech><dialogue>
+&quot;O, burnt to the heart.&quot; </dialogue><nonSpeech>Thereupon she stood a litle by, and
+this informer asking her if she beleeved in Jesus Christ she need 
+not feare that ointment; and still she cryed</nonSpeech><dialogue> &quot;O, burnt to the
+heart; burnt to the heart.&quot; </dialogue><nonSpeech>And the said Mary Johnson told him
+that she would be revenged of him before all men living; 
+whereupon this informant said he trusted in Christ, He was his rock in
+whom he trusted. And thereupon this informer heard a voice
+(from whence it came he knows not) saying</nonSpeech><dialogue> &quot;Whosoever trusted
+in that rock Christ Jesus shall never perrish;&quot; </dialogue><nonSpeech>and the voice bid
+them begon, whereupon they vanished away.</nonSpeech>
+
+ <head> <comment type="editor">XCVII. RALPH CONSTABLE, ESQ. AND OTHERS. FOR 
+MANSLAUGHTER.</comment> </head> 
+
+   <nonSpeech>Aug. 28, 1661. <font>William Vernon, of London, Esq. aged about</font> 
+36, says,</nonSpeech><dialogue> I saw Mr. Smith, his hand all bloodie: askeing the said
+Mr. Smith who stroke him, he answered mee, &quot;Some men in that 
+roome,&quot; pointing at it. Whereupon I went with him to the
+chamber doore to demand of them in that roome whie they soe
+assaulted him, but, after a litle discourse, with a sword or rapier
+one out of the said roome runn him into the face, upon which
+<pagebreak id="90" />
+thrust the said Smith cried out &quot;I am slayne.&quot; I beleive Mr. Smith
+was sober. I saw the said Smith strike with his hand Major
+Constable on the face before Smith received his seacond harm. I
+saw in the company of the said roome a drawen sword. After the
+said thrust, pricke, or stabb made, I went into the said roome,
+where Major Constable said to mee he had received much prejudice
+through the untrue testimony of Percyhay, and he had yet given 
+him noe satisfaccion, which he did expect then if it could bee, or
+soe soone as he could. Mr Sutherby said to mee that he and
+others had received many abuses from most in my company, and
+received noe satisfaccion from them. And he further tould mee 
+that they had beene grand traytors.
+   </dialogue><nonSpeech> <font>Arthur Jegon, of Lincolne Inn, gent.</font> , aged 26, saith,     
+that hee
+being at the house of Lancelot Thorp, of New Malton, upon
+Saturday night last, with others, did there see Mr. John Smyth
+of Old Malton, with his hand wounded, and cut over most (if
+not all) his fingers. And, further saith, that the said Mr. Smyth
+was at the staire head neare the doore of the chamber of Mr. 
+Constable, where there was severall swords drawne. Mr. Smyth did
+desire satisfaction for his wounds received; then did a certaine
+person in a gray coat and brownish haire, from behind Mr.
+Constable, with a sword or a rapier did wound the said Mr. Smyth in
+the face, and then Mr. Smyth fell against the wall.</nonSpeech>
+   <nonSpeech> <font>Chr. Percehay, of Ryton, gent.</font> , aged 24, saith, that hee  
+was att
+Lancelott Thorpe's upon Satterday last, with some other company,
+where Mr. Smith was cutt over the fingers. The informer heard
+Mr. Smith demaunding satisfacion of Mr. Constable for the wrong
+hee had received by himselfe or some of the company in the
+roome with the said Mr. Constable, whereupon one over Mr.
+Constable's shoulder, and out of his chamber, thrust Mr. Smith into
+his face with his sword, and hee fell downe and said hee was 
+wounded.</nonSpeech>
+   <nonSpeech> <font>James Strangwayes, of Pickering, gen.</font> aged 27, sayth, that
+following Capt. Smith and the last in company down the staires he
+see Mr. Constable, with others, on the staire heades, calling some
+&quot;Rouges.&quot; Mr. Smith replyed, &quot;By whome they ment?&quot; They 
+answered him, by such rouges as himself, and thereupon drew
+there swordes, and wounded him on his fingers, and one of them
+cryed for a pistoll to pistoll him, which presently was brought, and
+presented it at Smith, which was prevented by the informant.
+Mr. Smith afterwardes returned to the stair heades, and there
+demanded sattisfaction on Mr. Constable. Whereupon Constable
+replyed he knew nott who had done him the injury, and Smith
+answered, for anything he knew it was himselfe, and thereupon
+<pagebreak id="91" />
+gave Constable a blow on the face with his hand. Another
+standing behind Constable run at Smith with a drawne sword or
+raper in his hand, and wounded Smith in the face, whereupon
+Smith fell. Mr. Constable afterwardes reflecting upon perticular
+persons, Major Nary told him he did nott well to doe soe, for
+things were pardoned by the Act of Indemnity. Constable replyed
+he vallued not a fart the Act of Indemnity.</nonSpeech>
+   <nonSpeech> <font>Henry Sowthebie, of the Cittie of Yorke, gent.</font> , saith,    
+that he
+being att the house of Lancelott Thorpe, in Major Constable's
+lodgeing, John Narie, Chr. Perchey, John Smith, James
+Strangewaies, with others, about 8 of the clocke in the evening, did
+riotously attempt to enter into the lodgeing of the said Major
+Constable, which he perceiveing, hee, with the Major, did stand
+upon his guard, being altogether ignorant of what designe they
+had. And thereupon Major Constable haveing opened his chamber
+doore, did civillie demand what businesse they had there, and
+and wisht them to departe in civillitie, without anie further
+trouble; which the Major had scarce uttered, but Smith by a
+thrust hitt Major Constable on his left eye, in so much that
+blood issued out verie much by reason of the said thrust, which
+caused this informant to beleive that Major Constable was mortally
+wounded. The said Smith was drunke, and with extreame
+scurrilous language did abuse this informant and Major Constable.
+And he verilie beleives that the rest of the persons in Smith's
+companie were verie much intoxicated with drinke. John Narie
+said in a threatening manner</nonSpeech><dialogue> &quot;Sett your King asyde, wee will doe
+anie thing whatever with you, if you dare,&quot; </dialogue><nonSpeech>and that all the parties
+beforenamed doe frequently meet at Narie's house and elsewhere
+twice everie week, upon what occasion this informant knowes
+not, but is most certaine that all the said persons are disaffected,
+and apparently by all theire accions disloyall to his Majestie's
+interest.</nonSpeech>
+   <nonSpeech> <font>John Carre, of Skamston, husbandman</font> , haveing occasion to be
+with Mr. Suddeby, whoe was his attorney-at-lawe, was present
+when Mr. Smith was wounded, and he beleiveth that the said
+wound was given by Mr. Suddeby, but upon the bussell he saw
+Mr. Constable, Mr. Suddeby, and one Hawksworth have theire
+swordes drawne, and Mr. Constable and Mr. Suddeby threshing
+and striking with theire swordes. But Mr. Constable, after Smith
+was wounded, did blame Mr. Suddeby for being soe forward.
+And he heard Lancelot Thorp say,</nonSpeech><dialogue> &quot;O, Mr. Sudeby, fly, for you
+have slain a man!&quot;
+   </dialogue><nonSpeech> <font>Anne, wife of Lancelot Thorpe, of New Malton, yeoman</font> ,     
+saith,
+that she being in the roome with Mr. Ralph Constable, Mr. Henry
+<pagebreak id="92" />
+Sowtheby, Mr. Hawksworth, and John Carre, it being Mr.
+Constable's lodging, her husband came in with a message from
+Mr. Nary and Mr. Peircyhay to know whither Mr. Constable had
+any writt against Mr. Peircyhay or noe. Presently after his goeing
+out, Mr. Nary, and the rest of the gentlemen that were with him,
+came out of theire owne roome, and came to the chamber-doore,
+where these other gentlemen were, the doore being open.
+Thereupon Mr. Constable and the rest of the gentlemen rose up and
+demanded what they had to doe to come to their chamber, and
+after some words past amongst them they shutt their chamber
+doore, and some of the other gentlemen thrusting against it,
+Mr. Constable tooke up his pistoll, and bid them att their perill
+not to enter into his chamber for it was his castle, and thereupon
+laid downe his pistoll againe. But the other gentlemen comeing
+soe violently on there was swords drawne at the chamber doore,
+but she did not see any blowes or thrusts given, neither did she
+see Mr. Smyth att the doore, but after she saw him sitting on a
+bedside in the parlour, and his nose bled, and she gave him a
+napkin to wipe itt.</nonSpeech>
+
+ <head> <comment type="editor">XCVIII. JANE WATSON. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>Oct. 10, 1661. Before Sir John Marlay, mayor of 
+Newcastle-on-Tyne. <font>Winifrid Ogle, of Winlington White-house,       
+spinster</font> ,
+saith, that, aboute three of the clocke in the afternoone yesterday,
+she, heareing that two of the children of Mr. Jonas Cudworth
+was att the house of Mr. Thomas Sherburn, watchmaker, in
+great paine, being bewitched, she came to see them, and she
+found them in great extrimity; and one of the said children and
+one Jane Pattison who was then there cryed out they see the
+witch Jane Watson, and the child said the witch brought her an
+apple, and was very ernest to have it, and presently after the
+people of the house cryed</nonSpeech><dialogue> &quot;Fire, fire!&quot; </dialogue><nonSpeech>upon which this
+informant see something like a flash of fire on the farr side of the 
+roome,
+and she see a round thing like fire goe towards the chimney, and
+the said childe was severall tymes speechles, and in great torment
+and paine, and that halfe of the apple the child spoak of was
+found att the bedfoote.</nonSpeech>
+<pagebreak id="93" />
+   <nonSpeech> <font>Jane Patteson, spinster, servant to Mr. John Ogle of         
+Winlington
+White-house</font> , see some children of Mr. Jonas Cudworth in great
+paine, and much tormented, and in extrimity, and one of the
+said children said,</nonSpeech><dialogue> &quot;There is the witch, there is the witch, Jane
+Watson.&quot; </dialogue><nonSpeech>Upon which this informer said</nonSpeech><dialogue> &quot;I see the witch,&quot;
+</dialogue><nonSpeech>she then seeing a woman in a red waist coate and greene 
+petticoate, which woman was gon under the bed presently; upon
+which this informer's master, Mr. John Ogle, came with his
+rapier and thrust under the said bed therewith. And she further
+saith that some of the people in the house told her they heard
+something cry like a swyne upon the said thrust under the bed.</nonSpeech>
+   <nonSpeech> <font>Elizabeth, wife of Thomas Richardson, of Blaydon, yeoman</font> ,
+aboute 8 yeares since, living in Newcastle, and being very sick,
+and much tormented in her body, she sent for a medicer called
+Jane Watson, who came to her and tooke her by the hand, but
+doth not now remember what she said to her, but imediately
+after the paine left her, and a dogg which was in the said house
+presently dyed.</nonSpeech>
+
+ <head> <comment type="editor">XCIX. THOMAS HERBERT. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>March 23, 1661-2. Before Nicholas Cole, mayor of Newcastle.
+<font>Robert Wouldhave, sergeant-att-mace</font> , heard Thomas Herbert,
+weaver, say</nonSpeech><dialogue> &quot;Who would have thought that Lambert's armye
+would have been distroyed within three yeares tyme; </dialogue><nonSpeech>butt he
+hoped before other three yeares goe about he would see an
+alteration in this government.</nonSpeech><dialogue> I meane the present government that
+now is.&quot;
+<pagebreak id="94" />
+</dialogue> <head> <comment type="editor">C. GEORGE TAYLOR. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against George Taylor of Kirkby Kendall, for
+saying, on 9th Aprill, 1662,</nonSpeech><dialogue> &quot;It was a good day when the King's
+head was cutt off. There hath beene noe peace like as was in
+Oliver the Protector's time. It is a pitty but that all King's
+heads should bee cutt off.&quot;
+
+</dialogue> <head> <comment type="editor">CI. WALTER CROMPTON, GEN. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>May 28, 1662. Before Tho. Crompton, Esq. <font>Tristram
+Hewbanck, of Kilham, husbandman</font> , sayth, that a little while before
+the coronation of his Ma=tie= Charles the Second, who now is
+Kinge, hee heard Walter Crompton, of Sunderlandwick, gent.,
+say hee hoped the Kinge would never bee crowned, for hee was a
+bastard. And hee hath severall times seene him clap his hand
+on his horse buttocks and say,</nonSpeech><dialogue> &quot;Stand up, Charles the third by
+the grace of God,&quot; </dialogue><nonSpeech>which is an usuall expression of the said
+Walter Crompton's.</nonSpeech>
+
+ <head> <comment type="editor">CII. ROBERT ROBERSON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>July 28, 1662. Before Sir Patricius Curwen, Bt., Sir Wilfrid
+Lawson, Kt., and John Lamplugh, Esq. <font>Chr. Bruntinge, of
+Cockermouth</font> , saith, that on the 17th he heard Robert Roberson,
+of Loweswater, after some discourse of the act for hearthes and
+stones, say that before the said act went forward their was many
+in England would fight in blood to knees.</nonSpeech>
+<pagebreak id="95" />
+   
+ <head> <comment type="editor">CIII. COLUMBUS INGLEBY, GEN. FOR MURDER.</comment> </head> 
+
+   <nonSpeech>August 4, 1662. An inquest on Brian Redman, of Ingleton.
+On August 2, Columbus Inglebie, of Lawkland Hall, gen., shot
+him with a pistol.</nonSpeech>
+
+ <head> <comment type="editor">CIV. CHARLES NORTH, GEN. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Aug. 8, 1662. Before Godfrey Copley, Esq. <font>John Staunton,
+of Everton, co. Notts, gen.</font> , saith, that being in company on
+Saturday last with one Charles North, at widow Atkins' house
+in Blackstone, he heard him say that he was for those men that
+had murthered the last King, and he would be for them as long
+as he had life, and that they were honest men, and that the last
+King did deserve the death he had.</nonSpeech>
+   <nonSpeech> <font>Anthony Barton, of Blaxton, yeo.</font> , heard Mr. Charles North 
+say
+that King Charles was a traitor; whereupon the said Mr. Stenton
+tooke the said North a boxe of the eare. And the said North
+said that the ould King, when he was put to death, had but
+his due.</nonSpeech>
+
+ <head> <comment type="editor">CV. MICHAEL STUDHOLME, GEN. FOR MANSLAUGHTER.</comment> </head> 
+
+   <nonSpeech>Oct. 11, 1662. <font>Michaell Studholme, of Wigton</font> , sayeth, that
+he, being at Carlile, about 16 or 18 yeares since, accidently went
+<pagebreak id="96" />
+to the signe of the Sune, ther being severall captaines both for
+King and Parliament; which said captaines had some differences
+at the said inn, who did part them civilly. And the said ex=t=,
+with the said captaines for the King and Parliament, walkeing
+quietly in the market place, thos captaines for the King did pursue
+those captaines which were for King and Parliament with ther
+swords drawne, and calling them &quot;Parliament rogues,&quot; and said,</nonSpeech><dialogue>
+&quot;Downe with this Parliament;&quot; </dialogue><nonSpeech>and soe, with that, they fell upon
+them with their swordes drawne, and the defence of the said
+deponent with the captaines for saveing their lives did defend 
+theirselves with their sword drawne, and then rung the common bell
+of the said citty, and forced the said deponents with those captaines
+which were for King and Parliament into the guildhall; in which
+commotion one of either party was killed, to witt, Ensigne Hutton,
+who was then for King and Parliament, and Leonard Milborne,
+a citizen of the said citty.</nonSpeech>
+
+ <head> <comment type="editor">CVI. HENRY THOMPSON. FOR MURDER.</comment> </head> 
+
+   <nonSpeech>Jan. 19, 1662-3. At Rotherham, before Thomas Garnett,
+gent., coroner. <font>Anne Ashmore, of Rotherham, spinster</font> , sayth,
+that, upon the 30th of December, about eleaven of the clocke in
+the night, she beinge in her bed, in the almes-houses upon 
+Rotherham bridge, did heare one Henery Thompson, laborer, and then
+a dweller in the said almes-houses, very vyolently fall upon, beate
+and strike one Margarett Hill, a poore olde widdow, with a rod
+or staffe for almost an hower and a halfe together, in such a
+vyolent manner that the said Margarett Hill cryed lamentablie
+out, and said he would kill her; butt still he layed the more on
+her, callinge her wich, and said she had bewiched his mother,
+<pagebreak id="97" />
+and gave her not over untill he made (her) knell downe of her
+knees, and aske him forgivenes. All this while this informer
+durst not stirr out of her bed for feare the said Thompson should
+beat and strike her in the like manner.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="98" />
+
+ <head> <comment type="editor">CIX. CAPTAIN MASON. FOR HIGH TREASON.</comment> </head> 
+
+   <nonSpeech>July 27, 1663. <font>John Turner, of Thorne</font> , saith, that on June
+26th, hee being in company of Thomas Mayson, of Gansebrough,
+co. Lincolne, at Thorne, he heard him say that there would be
+warres shortly againe in England, and that there would be fouer
+<pagebreak id="99" />
+for one against the cavaliers. And they being talking of the
+Quakers, he said that he would goe into that towne, and could
+have the coppy of the act before it was signed by the King, for
+he had as good intelligence from London as any man that lived
+in Lincolnshire.</nonSpeech>
+
+ <head> <comment type="editor">CX. SARAH WALKER. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>July 28, 1663. Newcastle-on-Tyne. Before Robert Shaftoe,
+Esq. and Mark Milbank, Esq. <font>Sarah, wife of Oswald Walker,
+yeo.</font> , did say on the 13th of July these wordes (to witt):</nonSpeech><dialogue> &quot;There
+was never a King in England that was a chimney sweaper but
+this,&quot; </dialogue><nonSpeech>meaning his Ma=tie= that nowe is, and that she would
+petition and indeavour to gett and raise an army to fight against his
+Ma=tie= and all his officers that came to demand any such thing
+as the harth money.&quot;</nonSpeech>
+
+ <head> <comment type="editor">CXI. THOMAS LIGHTFOOT, ETC. FOR HIGHWAY ROBBERY.</comment> </head> 
+
+   <nonSpeech>August 15, 1663. Before John Tempest, Anthony Byerley,
+Samuell Davison, and Stephen Thomson, Esqrs. <font>John 
+Williamson, of Rawdon, clothier</font> , saith, that himselfe, with his   
+servant
+and daughter, were travailing from his house at Rawdon on the 
+5th instant towards Rippon about his profession of a clothier,
+and that, as he was going on Killinghall moore, they were
+overtaken by three persons, who did assault them, clapping a
+pistoll to his brest, and bade him deliver his money or he should
+dy for it. Whereupon he was forced to submitt to them, and
+one of them, who, as he now understands, calls himselfe John
+<pagebreak id="100" />
+Smyth, who likewise clapt the pistoll to his brest, did search his
+pocketts, and tooke out 14s. and one penny. Another of the 
+said persons did theareupon cutt the wametow and tooke off the
+pack cloaths which were upon a driven horse, and out of them
+took 40 <font>l.</font> which he gave to a person who, as he understands, calls
+himselfe by the name of Thomas Lightfoote. The said Thomas
+Lightfoot did search the informant's daughter Sarah in a very
+rude and uncivill fashion, and did take out of her pockett a little
+box, whearein theare was 1s. and three pence. It was about ten
+of the clocke in the fore noone.</nonSpeech>
+
+ <head> <comment type="editor">CXII. JONATHAN SHACKLETON. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Sep. 17, 1663. Before Sir John Armytage. <font>Tho. Shackleton,
+of Morton bankes, par Bingley</font> , sayeth, that, upon Sunday night
+last, he heard Jonathan Shackleton, of the same place, say</nonSpeech><dialogue>
+&quot;Am I a phenattick? Yow shall know yet before March wind
+be blowne that we phenatticks will looke all those in the face
+which now doe oppose us, for the Kinge is a bloudy Papist, or
+else he would never have give consent to the putting to death of
+soe many honest men as he hath.&quot;
+
+</dialogue> <head> <comment type="editor">CXIII. WM. MOULTHORPE. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Oct. 17, 1663. Before Wm. Wilkinson, Esq. Mayor of
+Pontefract. <font>Nicholas Myas, of Pontefract, labourer</font> , sayth, that,
+about the 14th of September last, one Wm. Moulthrope, laborer,
+came into his owne house at Pontefract, and told him hee had
+heard a pretty story that one George Marre was sworne never to
+bee a cavalier againe. Whereupon this informant replyed,</nonSpeech><dialogue>
+&quot;T'was a pitty but such rogues should be hanged that could not
+<pagebreak id="101" />
+let the Kinge alone, and meddle with their owne matters.&quot;
+</dialogue><nonSpeech>Unto which the sayd Moulthrope sayd,</nonSpeech><dialogue> &quot;What is the Kinge
+better than another man? for Robin Bulman, </dialogue><nonSpeech> (meaninge one
+Robert Bulman, of Pontefract, laborer,) </nonSpeech><dialogue> a seaventh sonne, can
+cure seaven evills, and the Kinge can but cure nine, soe that the
+Kinge is but two degrees better than Robin Bulman. Thou
+shalt see that before the moneth end as many will arise in England
+and Scotland as will cutt the throats of all those that were for
+the Kinge, and to bee sure thy throate will bee cutt for that
+thou hast beene soe long a cavalier, and now art in armes for the
+Kinge!&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="112" />
+ <head> <comment type="editor">CXVIII. DOROTHY STRANGER. FOR WITCHCRAFT.</comment> </head> 
+
+   <nonSpeech>Nov. 10, 1663. Before Sir James Clavering, Bart., Mayor of
+Newcastle. <font>Jane, wife of Wm. Milburne, of Newcastle</font> , sayth,
+that, aboute a month agoe, shee sent her maid to one Daniell
+Strangers, of this towne, cooper, to gett some caskes cooped; and,
+when her servant came there, Dorothy, his wife, did say to her,
+&quot;Whatt was the reason that your dame did not invite her to the
+weding supper?&quot; And further said, that she would make her
+repent itt, and deare to her. This informant sayth that Fryday
+gone a seaven night, aboute 8 o'clock att night, she being alone 
+and in chamber, there appeared to her something in the perfect
+similitude and shape of a catt. And the said catt did leape at her
+face, and did vocally speake with a very audible voyce, and said,
+that itt had gotten the life of one in this howse, and came for this
+informer life, and would have itt before Saturday night. To
+which she replyed,</nonSpeech><dialogue> &quot;I defye the, the devill and all his works.&quot;
+</dialogue><nonSpeech>Upon which the catt did vanish. And upon Saturday last, aboute
+8 of the clock in the morneing, she goeing downe to the seller for
+to draw a quart of beare, and opening the seller dore, which was
+locked, she visibly did see the said Dorothy Stranger standing in
+the seller, leaneing with her armes upon one of the hodgheads, and
+said then to this informer,</nonSpeech><dialogue> &quot;Theafe, art thow there yett? thy life
+I seeke, thy life I will have:&quot; </dialogue><nonSpeech>and had a small rope in her hand
+and did attemp to putt it over her head aboute her neck, but she
+<pagebreak id="113" />
+did hinder her with her hands. Further, she did take upp
+a quart pott, and demanded a drinke, butt she would give her 
+none. Whereupon the said Dorothy said that she would make
+her rue itt. To which this informer replyed that she defyed her
+and all her disciples. And Stranger answered againe,</nonSpeech><dialogue> &quot;Although
+thow be strong in faith, Ile overcome itt att the last.&quot; </dialogue><nonSpeech>Upon
+Sunday last aboute one of the clocke, this informer putting on
+her clothes in her chamber to goe to church, there did appeare to
+her a catt of the same shape as the formor, and did leape att her
+throat, and said,</nonSpeech><dialogue> &quot;Theafe, I'le not overcome ye as yett.&quot; </dialogue><nonSpeech>To 
+which this informer replyed,</nonSpeech><dialogue> &quot;I hope in God nor never shall.&quot;
+</dialogue><nonSpeech>And the said catt did bite her arme, and did hold itt very fast,
+and made a great impression in her arme with her teeth, and did
+lett her hold goe and disappeared. And yesterday, in the
+afternoone, aboute 2 of the clock, this informer comeing downe the
+stares, the said catt did violently leape aboute her neck and
+shoulders, and was soe ponderous that she was not able to support
+itt, but did bring her downe to the ground, and kept her downe 
+for the space of a quarter of an howre. And was soe infirme and
+disenabled that the power of both body and tongue were taken
+from her. And the last night, aboute 9 of the clock, this
+informer being in bedd with her husband, the said Dorothy did in
+her perfect forme appeare to her, and tooke hold of the bed
+clothes and endevored to powle them of, but could not. And
+then and there the said Stranger tooke hold of her arme and pulled
+her, and would have pulld her out of bed if her husband had not
+held her fast, and did nip and bite her armes very sore, and
+tormented her body soe intollerably that she could nott rest all the
+night, and was like to teare her very heart in peeces, and this
+morneing left her. And this informer veryly beleives that the
+said catt which appeared to her was Dorothy Stranger, and non
+else. And she haveing a desire to see her did this morneing send
+for the said Dorothy, butt she was very loth to come, and comeing
+to her she gott blood of her, at the said Stranger's desire, and
+since hath been pritye well.</nonSpeech>
+   <nonSpeech>8 Aug. 1664. <font>Re-examined.</font> She sayth, that after she had
+gotton blood she was in very good condicon, and was not molested
+for a quarter of one yeare. And aboute the 16th of January,
+being in bedd with her husband, aboute one of the clock in the
+morneing, the said Dorothy Stranger, in her owne shape,
+appeared to this informer in the roome where she was lyeing, the
+dores being all lock fast, and said to her,</nonSpeech><dialogue> &quot;Jane, Jane, art thou
+awaken?&quot; </dialogue><nonSpeech>She replyed,</nonSpeech><dialogue> &quot;Yes.&quot; </dialogue><nonSpeech>Upon which the said Stranger
+answered,</nonSpeech><dialogue> &quot;I am come here to aske of the forgiveness for the
+<pagebreak id="114" />
+wrong I have done the, and if thow will never troble me for
+whatt I have formerly done to the, I doe promisse never to molest
+or troble the as long thow lives.&quot; </dialogue><nonSpeech>Upon the speakeing of
+which words she did vanish away. Aboute a month before
+she appeared as aforesaid, this informer being sitting alone in
+her howse, in a roome two storey high, there did then violently
+come rushing in att one of the paines of the window a grey catt.
+And itt did transforme ittselfe into the shape of the said Dorothy
+Stranger, in the habitt and clothes she weares dayly, haveing an
+old black hatt upon her head, a greene waistcoate, and a brownish
+coloured petticoate. And she said,</nonSpeech><dialogue> &quot;Thou gott blood of me,
+but I will have blood of thee before I goe.&quot; </dialogue><nonSpeech>And she did flye
+violentlye upon this informer, and did cutt her over the joynts of
+the little finger of both her hands, and did scratch her and gott
+blood. And havinge a black handercheife aboute her necke, she
+did take itt away, and never see the same since, and did then
+vanish away.</nonSpeech>
+   <nonSpeech> <font>Eliz. Stranger</font> , widow, sayth, that, aboute six or seaven  
+yeares
+agoe, her daughter Jane, then wife to Oswald Milburne, baker and
+brewer, being in the Sandhill, did meete with Dorothy Stranger,
+who said to her,</nonSpeech><dialogue> &quot;Thou shalt never see the Sandhill againe.&quot;
+</dialogue><nonSpeech>And comeing home imediatly she fell sick and lanwished above
+1/2 a yeare and dyed. And in her sicknes tooke very sad and
+lamentable fitts, and did cry out most hydeously, saying,</nonSpeech><dialogue> &quot;Ah,
+that witch-theafe, my ant Dorithy, is like to pull out my heart.
+Doe not yow see her? Doe not yow see her, my ant Dorothy
+that witch?&quot; </dialogue><nonSpeech>And did to her very last howre cry out of the said
+Dorothy Stranger.</nonSpeech>
+
+ <head> <comment type="editor">CXIX. WILLIAM DAY. FOR TREASON.</comment> </head> 
+
+   <nonSpeech>Nov. 21, 1663. <font>George Knowles, of Skipton</font> , sayth, that, on
+29th October, cominge from Kighley in the way towards Skipton,
+he mett with one William Day, of Skipton, sometime a souldier
+against his Majestie, at Steeton brow foote. And the saide Daye,
+laughinge and jeeringe, said that he knew well such and such
+men weare plotters in the late plott, but he wold be hanged
+before he wold discover them.</nonSpeech>
+<pagebreak id="115" />
+
+ <head> <comment type="editor">CXX. HENRY HANSON. FOR HIGH TREASON.</comment> </head> 
+
+   <nonSpeech>Dec. 19, 1663. Before Cuthbert Wade, Esq. <font>Chr. Hodgson,
+of Gargrave, gentleman</font> , saith, that haveinge formerly lived in
+Broughton, where one Mr. Henry Hanson dwelleth, and beinge
+verie intimately acquainted with him, the said Hanson did 
+severall times acquaint this informant that there was a greate plott 
+or
+a designe on foote or in agitacion, and said that this designe was
+for the good of the Commonwealth, for the takeinge awaye of 
+excise, harth-money, and other taxes. And severall times did
+aske this informer if he would be or weare willinge to joyne with
+them (sayeinge himselfe was one had promised to make one in the
+same designe,) to take upp armes with them; and he never mett
+him betweene Midsomer and Michaelmas last past, but the said
+Hanson did aske him if he weare resolved to goe on with him in
+the said designe. And the said Hanson told him that one 
+Colonell Ludley was to heade that partie, or to be cheefe, and that
+one Atkinson, a stockiner, was cheefe intelligencer in these parts
+too and from the said Ludley, and that there was a partie in the
+dales to rise for the carrying on of the said plott, which Atkinson
+was to head, and one Iveson, his neighbor in Broughton, and
+formerly a servant to one quarter-maister Shrigley, wold be one, and
+he thought there wold be a very considerable partie in Craven
+willinge to joyne.</nonSpeech>
+   <nonSpeech> <font>Richard Allan</font> saith, that on the 13th of October last he
+inquired at Hanson's house whether he was at home or not, and
+his wife, cominge to the dore, said</nonSpeech><dialogue> &quot;What is your businesse with
+him?&quot; </dialogue><nonSpeech>This informent did answer, to knowe if they were all
+well, and then he demanded a delivery of what armes there were
+in the house. But she replyed she dirst not deliver them, and
+said that her husband had not beene at home of two nights before,
+and there were sixe score persons in number combined together,
+and she was affraid her husband was amongst them, and if he
+came home she desired that his master, Mr. Justice Drake, would 
+use some meanes to secure him.</nonSpeech>
+
+ <head> <comment type="editor">CXXI. JAMES PARKER. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>A true bill against James Parker, of Rodwell, yeo., for saying,
+<pagebreak id="116" />
+on Nov. 18, 1663,</nonSpeech><dialogue> &quot;I served Oliver seaven yeares as a souldier,
+and if any one will put up the finger on the accompt that Oliver
+did ingage, I will doe as much as I have done. As for the Kinge
+I am not beholdinge to him. I care not a fart for him.&quot;
+
+</dialogue> <head> <comment type="editor">CXXII. JEREMY BOOTH AND OTHERS. FOR TREASON.</comment> </head> 
+
+   <nonSpeech>Dec. 26, 1663. Before Walter Hawksworth, Esq. <font>Joshua
+Wilkes, of Bradford, blacksmith</font> , saith, that, on the 12 of October
+last, one Jeremy Booth, of Bradford, blacksmith, tould this ex=t=
+that that night there would bee a riseing, and that some persons
+weere to meet for that purpose in a close in Maningham called
+Tong lands, and that one John Lowcock, of Bradford, sadler,
+was to bee a leivetenant or some other officer, and that Henry
+Bradshaw, of Maningham, should bee a captain, and that Mr.
+Waterhowse, of Bradford, was to sett out a horse, and Richard
+Walker, of the same, was to sett out another.</nonSpeech>
+   <nonSpeech> <font>Jeremy Booth, of Bradford, blacksmith</font> , saith, that upon the
+12th of October last, one John Lowcock, of Bradford aforesaid,
+sadler, tould this ex=t= that there would bee that night a riseing in
+the country, and that severall persons fitted for that purpose weere
+to meet him in Maningham neare to Henry Bradshaw's howse
+there that night, and that the said Lowcock was to bee a quarter
+<pagebreak id="117" />
+master in that busines, and that the said Henry Bradshaw was to
+bee a captain; and that the said Lowcock had beene three
+nights ryding abroad about that busines, and that one William
+Swayne, smith, of Bradford, did lend him his mare for that
+service; and, further saith, that the said Lowcock further tould
+this ex=t= that Richard Walker, of Bradford, mercer, was to sett
+forth a horse for that service, and that one Dawson should ryde
+him, and Mr. Jonas Waterhouse another, and the said William
+Swayne another; and saith that this ex=t= askeing him, the said
+Lowcock, how they would doe for armes and amuniccon, hee answered 
+they should have enough, and the said Walker would furnish
+them with powder. And this ex=t= further saith that in the
+evening <comment type="editor">.....</comment> one John Wilkinson, of Bradford, cloathdresser,
+came to this ex=t=, and then tould him that hee had then beene at
+the howse of one Hugh Sawley, in Bradford, and that there hee
+had then beene with the said Henry Bradshaw, and that there
+was in company with him one John Kitchin, of Bradford, 
+commonly called trooper Kitchin, and his wife, and that the said
+Bradshaw then offered the said Wilkinson a horse to ryde, if hee
+would goe to the intended riseing, and at the same tyme, likewise,
+another upon the same tearmes to the said Kitchen; but the said
+Wilkinson then tould this ex=t= that the said Kitchin's wyfe replyed
+that her husband should not goe unles the said Bradshaw went
+himself, and further saith that at the tyme aforesaid the said
+Wilkinson further tould this ex=t= that the horses which weere soe
+offered by Bradshaw to Wilkinson and Kitchin weere then at the
+said Hugh Sawley's, and that the hostler, Christopher Bawden,
+there should helpe them to them; and the said Wilkinson did
+likewise tell this ex=t= that the said Bradshaw had said, that if hee
+had not had occacion to meet Major Gr<emendation>....</emendation>head hee would first
+have secured Mr. John Weddall, Mr. Tho. Wood, and Jeremy
+Bower, if they had beene then at home, and then have gone along
+with them, meaning the said Kitchin and Wilkinson.</nonSpeech>
+
+ <head> <comment type="editor">CXXIII. GEORGE PARKIN. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>Jan. 19, 1663-4. Before Sir Francis Fane, K. B., Sir Tho.
+Osburne, Bt., Sir Godfrey Copley, Bt., Sir John Dawney, Kt., Sir
+Ralph Knight, Kt., John Wentworth, Roger Portington, Wm.
+Adams, Thos. Yarbrough, and Wm. Spencer, Esqrs. at the
+Doncaster Sessions.</nonSpeech>
+   <nonSpeech> <font>William Jackson, of Attercliffe, joyner</font> , sayth, that, the
+Tuesday before Whitsunday last, John Dixon was leaneing in his
+<pagebreak id="118" />
+shopp window, and George Parkin, of Attercliffe, a knife-maker,
+came, and when Dixon saw him come, hee went away, and
+Parkin said,</nonSpeech><dialogue> &quot;John Dixon will not stay if hee see me come.&quot; </dialogue><nonSpeech>To
+whome the informer said,</nonSpeech><dialogue> &quot;You must bee civill, for hee is an
+honest poore man and the King's servant.&quot; </dialogue><nonSpeech>To whom Parkin
+answered,</nonSpeech><dialogue> &quot;A Kinge! wee were better without a King then with
+one, for though wee have a Kinge, the old block remaines still;
+for hee first sent to see what wee would give him, then hee sent for 
+money for our heades, and lastly, for sesements, soe hee intends to
+send soe long, till hee make us all beggers like to himselfe.&quot; </dialogue><nonSpeech>And
+upon Tuesday, being the 15th of October last, hee further said
+that there would come a change ere long, and then hee would
+bannish both the informer and all his like, kebbs as they were.
+And, on the first of October last, hee said,</nonSpeech><dialogue> &quot;Now the trayned
+bands are raysed; but before the twelve month's end wee shall see
+Kinge Charles his head in a pooke, as his father's was.&quot;
+
+</dialogue> <head> <comment type="editor">CXXIV. JOHN LYLEY. FOR SEDITIOUS WORDS.</comment> </head> 
+
+   <nonSpeech>March 21, 1663-4. Before Walter Calverley, Esq. <font>Rosamond,
+wife of Jeremy Bower, of Bradford, habberdasher</font> , says that, on
+the 16th of March, one John Lyley of Bradford came unto her
+house, and, after some discourse had with her about her husband's 
+carrying of him to Yorke before the last goale delivery, the said
+Lyley questioned her what authority her husband had to carry him
+to Yorke. To which the said Rosamond replyed that her husband
+had an order to show for what he did therein. And the said
+Lyley said to her, &quot;Your husband sought my life, or he would have
+my head upon the toll-booth of Bradford, but if his head went, more
+should go with it.&quot; And he said that he had had her husband's
+life forty tymes offered him, and he could have hanged him when
+he would. And she replyed, he would not have suffered unles he
+went contrary to the law and government, but some had suffered
+unjustly, for the late King had soe suffered. Whereupon he said,</nonSpeech><dialogue>
+&quot;Will you say soe? </dialogue><nonSpeech> (repeating the words 3 tymes) .</nonSpeech><dialogue> He suffered
+justly, and had a fair tryall, and just witnesses; but soe had not
+they,&quot; </dialogue><nonSpeech>meaning (as the informant conceived) the persons that
+<pagebreak id="119" />
+were condemned att the last goale delivery att Yorke; whome he
+had formerly called upon that discourse Martyres, and said foure
+tymes as much blood would be required att the hands of the
+unrighteous. And further said, &quot;Did not the late King and Earle
+of Strafford bring all this trouble upon the land? and wee were
+too hasty before, but within this halfe yeare they should see more
+then they had seene before.&quot;</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

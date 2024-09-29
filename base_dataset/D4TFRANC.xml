@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4TFRANC">
+  <dialogueHeader>
+
+    <filename>D4TFRANC</filename>
+
+    <identifier>4 TRIAL D4TFRANC</identifier>
+
+    <title>FRANCIS FRANCIA</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1716/1717</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL OF FRANCIS FRANCIA, FOR HIGH TREASON, AT THE 
+SESSIONS-HOUSE IN THE OLD-BAILY; ON TUESDAY JAN. 22. 1716.
+PERUSED BY THE RIGHT HONOURABLE THE LORD CHIEF-BARON BURY: AND ALSO
+BY THE COUNCIL FOR HIS MAJESTY, AND FOR THE PRISONER. 
+LONDON: PRINTED FOR D. MIDWINTER, AT THE THREE CROWNS IN ST. PAUL'S
+CHURCH-YARD. 
+M DCC XVII.
+PP. 11.39 - 23.15 SAMPLE 1
+PP. 29.58 - 31.42 SAMPLE 2
+PP. 45.36 - 47.37 SAMPLE 3
+PP. 49.1  - 56.62 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SQUARE BRACKETS USED FOR PARENTHETICAL COMMENTS BY NARRATOR ARE 
+RENDERED AS ROUND BRACKETS, AND THESE COMMENTS ARE RE-PLACED WHERE 
+NECESSARY FOR CLARITY.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="11" />
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> My Lord, We will call our Witnesses. Set  
+up Mr. <font>Smith</font> .
+</dialogue><nonSpeech> <font>Then</font> Joseph Smith <font>was sworn</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> You was sent, I think, as a Messenger to  
+<font>Francia's</font> House: Pray
+give an Account of every Thing that passed there. 
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> My Lord, I have the Honour to serve His       
+Majesty as one of His
+Messengers: I was appointed to attend the Secretaries Office that    
+Day, being
+my Day of waiting, which was <font>September</font> 19. 1715. I had a Warrant 
+delivered to
+me against Mr. <font>Francia</font> , but it being late I did not go to       
+execute it that Night. The
+next Day I went to his House, in <font>Plow-Yard</font> , in                                 
+<font>Fetter-Lane</font> ; Mr. <font>Wilcox</font> , another
+Messenger, went with me, and went into the House first; he went up   
+one Pair
+of Stairs and I staid below, and after he had been up a little Time, 
+he called me up,
+and told me there was the Prisoner: He was then in Bed, and there    
+was a Woman
+with him he called Wife: We told him, we had a Warrant against him   
+for High
+Treason, and bad him get up. I asked him if he had any Closet?        
+And looking
+about, I saw one by the Fire-Place: I opened it, and the first Thing 
+I observed
+over against the Closet-Door, upon a Shelf, was a Parcel of Letters  
+lying open
+in <font>Folio</font> ; I saw they were in <font>French</font> , and directed to the   
+Prisoner, and upon the
+Desk there lay a Paper-Book.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Look upon this Book; Is this the Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> This is the Book; it lay upon the Desk, and I 
+looked into it,
+and observed this Writing at the one End of it: He said it was his   
+Son's Writing,
+and then I shut it again. I opened the Desk, and looked over the     
+Papers; I
+<pagebreak id="12" />
+found there several other Papers and Letters folded up: I took them  
+out, and laid
+them upon the Desk by the others. Then I searcht the other Parts of  
+the
+Closet, and laid all the Papers by the other Letters. I desired then 
+to go up Stairs, and I
+did so: And a Person I saw just now in Court, his Son, went with me; 
+and I
+searched the Rooms and Boxes, and found several other Papers, and    
+brought
+them down into the Chamber where the Prisoner was, with Mr.          
+<font>Wilcox</font> ; I put
+up all the Papers together, and said I had taken all Things that I   
+thought
+necessary, and desired to be going. The Prisoner desired to stay and 
+drink some
+Coffee; we did so, and then brought him down to a House at           
+<font>Westminster</font> . We
+carried the Papers to the Office, and delivered them to Mr.          
+<font>Horatio Walpole</font> . When
+I was in the Chamber with him, he seemed to be under a Concern when  
+I put
+up the Book; and I asked him what that Book was? He said it was the  
+Book of
+his Correspondence abroad.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Is this the Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You say you saw several Letters there, did 
+you look into
+them?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> I saw they were directed to <font>Francia</font> :     
+There was a Parcel that lay
+open in <font>Folio</font> ; and others that lay folded up in the Desk.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What became of the Book and Papers after   
+you had them?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> We went with them and the Prisoner, and       
+delivered the Prisoner
+into a House at <font>Westminster</font> ; and then went to the Office, and   
+staid till Mr.
+<font>Walpole</font> came, and then delivered the Book and Papers to him.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you deliver any Papers to him but what 
+were seized there?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What is become of Mr. <font>Wilcox</font> ?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> He is Dead.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> What was it that the Prisoner said about the 
+Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> He said, That is my Copy-Book of my           
+Correspondence abroad,
+it signifies nothing. I afterwards observed some more Concern than   
+ordinary in
+him; and he said to me again, the Copy-Book of my Letters signifies  
+nothing.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> How long had you the Book and Letters in your  
+Custody?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> I received them about Six or Seven a-Clock,   
+and I delivered them
+the same Day to Mr. <font>Horatio Walpole</font> .
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> How can you be sure this is the Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> Because I never parted with it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Was it not out of your Possession when   
+you delivered it into
+the Office?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> Yes then it was.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you set any Mark upon the Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did he say that which was wrote in it,   
+was wrote in it by him?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> He said, this is my Copy-Book of my Letters   
+to my
+Correspondents abroad.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> But how can you be sure this is the same 
+Book?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> I made a Remark of this Writing as he sat     
+dressing himself. <comment type="compiler">FOOTNOTE IN SOURCE TEXT EXPLAINS &quot;this Writing&quot; 
+TO BE &quot;George Francia's Name in large Church Text, at the End of the
+Book&quot;.</comment> 
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Who was it that carried the Book and Papers   
+to the Office, you or
+<font>Wilcox</font> ?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> I my self.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I know that to be false. How soon did you go  
+out of Town after
+you had lodged me?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> In a Day or Two.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you not go that Moment?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> No: Not that Day.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> To whom did you deliver them?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> To Mr. <font>Horatio Walpole</font> .
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you take no more Books?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> There were several Books in your House, but I 
+don't remember
+that I carried any of them away but this. 
+<pagebreak id="13" />
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did the Prisoner own to you, that the    
+Letters wrote in that
+Book were wrote by him?
+   </dialogue><nonSpeech>Mr. <font>Smith.</font> </nonSpeech><dialogue> He said, that is the Copy-Book of my Letter   
+to my
+Correspondents abroad.
+</dialogue><nonSpeech>Then Mr. <font>Horatio Walpole</font> was sworn.</nonSpeech>
+   <nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> Pray Sir, will you give the Court and    
+the Jury an Account of this
+Book and those Letters; and how, and when they were brought to you?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I remember the Warrant for Seising the      
+Prisoner was dated the 19th 
+of <font>Sept.</font> and that the Day after Mr. <font>Smith</font> and Mr.            
+<font>Wilcocks</font> came into my Room,
+and deliver'd to me a Copy-book and a Parcel of Letters, which they  
+said they
+took at <font>Francia's</font> House. I took them and kept them by            
+themselves, to be
+produc'd when my Lord <font>Townshend</font> should call for them. I          
+remember that Night Mr.
+<font>Buckley</font> came into my Room, and I desir'd him to sit down and     
+look them over with
+me, and accordingly, he and I look'd into them. The next Day my Lord
+<font>Townshend</font> sent for the Prisoner, and I carry'd in the same Book  
+and Letters, and laid
+them upon the Table, and particularly the Letters, they were laid    
+open, and my
+Lord examin'd the Prisoner about them. They were wrote in            
+<font>French</font> , and directed
+to the Prisoner. My Lord ask'd him whether he knew the Hand of those 
+Letters,
+and turn'd them all over, and shew'd him the Directions, saying, Are 
+these directed
+to you? He own'd it. He own'd that he receiv'd them. My Lord ask'd him  
+again, Is this your Book? He answer'd, It is; some of the Letters    
+are enter'd by
+me, and some by my Son.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> Were they all the same Letters that were 
+brought to you by
+Mr. <font>Smith.</font> ? 
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> The same.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> Pray look upon this Book; Is this the    
+same Book?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I am sure this is the Book: This is the     
+same Book that <font>Smith</font>
+deliver'd to me, and said he took it at <font>Francia's</font> House.
+</dialogue><nonSpeech>Then several Letters were shewn to Mr. <font>Walpole</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I remember all these Letters to be the same 
+that I receiv'd from <font>Smith</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> After the Prisoner had been examin'd, what 
+became of the Letters?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I took them back again. I kept them under   
+Lock and Key, till my
+Lord <font>Townshend</font> had occasion to use them, which was the same      
+Night that my Lord
+examin'd the Prisoner; then I took them back, and I constantly kept  
+them till I
+went to <font>Holland</font> for the <font>Dutch</font> Troops, and then I deliver'd   
+them to Mr. <font>Buckley</font> .
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> And you can swear these are the same Letters  
+that were deliver'd to you.
+By what Mark? You swear very home. What mark did you put upon those
+Letters, that you can swear to them?
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Pray Sir, when they were in your Custody, Are  
+you sure they were
+never deliver'd out?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I am sure.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Do you remember one <font>Jones</font> the Gun-maker on 
+the other side the
+Water, when he was under Examination? Are you sure they were not     
+deliver'd
+out by Mistake to him?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I don't know that they were.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you put any Mark on those Letters?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> No, I put no Mark on them.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Then how can you know them to be the same?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> I perus'd them several times. I remember    
+the Hand, and Dates,
+and Directions.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Then probably you remember the Number too?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> No, I don't remember the Number.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Are you sure these are all the Letters that    
+were brought to you?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> No, there are not all the Letters.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> We will now call Mr. <font>Buckley</font> .
+</dialogue><nonSpeech>Then Mr. <font>Buckley</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray Mr. <font>Buckley</font> look upon this Book   
+and these Letters, and
+acquaint the Court what you know of them?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> My Lord, the Day the Prisoner was seiz'd, I 
+came into Mr. <font>Walpole's</font>
+Room. He told me he had receiv'd that Book and those Letters that    
+were seis'd at
+the Prisoner's House, and desir'd me to sit down and read them with  
+him. I did so.
+Afterwards, when Mr. <font>Walpole</font> went to fetch the <font>Dutch</font> Troops, 
+he deliver'd this
+Book and these Letters into my Hand. Afterwards my Lord              
+<font>Townshend</font> directed me
+<pagebreak id="14" />
+to look into them, and see which contain'd Passages most Criminal,   
+and to extract
+such Passages, which I did accordingly out of several of them. I     
+will look over
+them again, and then I can tell you whether they are the same.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> By what Mark?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I can tell you by that which is stronger    
+than any Mark, I copy'd
+Passages out of several of them.
+</dialogue><nonSpeech>Then he look'd over the Letters one by one.</nonSpeech><dialogue>
+   I had every one of these Letters from Mr. <font>Walpole</font> , and I     
+know it certainly; for
+that from every one of these, I extracted some Passages.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Was you present at any time when the         
+Prisoner was examin'd?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I was.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Were this Book and these Letters produced to 
+him at the time of
+his Examination?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> He was examin'd by my Lord <font>Townshend</font>    
+and Mr. Secretary <font>Stanhope</font> ,
+and I was call'd in to take his Examination in Writing, accordingly  
+I did.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Were the Book and Letters at the time of his 
+Examination 
+produc'd to him?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I can't say that, for I was intent on my    
+Paper, writing the
+Examination, and looking upon the Prisoner, and hearing what he      
+said. When I had
+written down what is in my Hand, </dialogue><nonSpeech> <font> (holding out the Original     
+Examination.) </font> </nonSpeech><dialogue> I read
+it over to him distinctly and audibly; and he being ask'd whether he 
+was willing
+to swear to it, and answering, Yes, I offer'd him his Oath: And I    
+offer'd him a
+<font>New Testament</font> to swear on. He said he could not swear on that    
+Book. But he took
+another Book out of his Pocket, and I swore him on that. I ask'd him 
+whether this
+was true: He said it was. Then he sign'd it; and afterwards my Lord  
+<font>Townshend</font>
+sign'd it.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Is the Subscription of his Hand-Writing?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> It is.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> You say I took an Oath? On what Book was it?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> Indeed I don't know, I believe it was an   
+<font>Hebrew</font> Book; Mr.
+<font>Secretary Stanhope</font> look'd upon it.
+   </dialogue><nonSpeech> <font>Mr. Denton.</font> </nonSpeech><dialogue> Was he examin'd at any time after?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Mr. Denton.</font> </nonSpeech><dialogue> Was you present then?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> How long were they in your Custody?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> From the time that Mr. <font>Walpole</font> went    
+abroad, till he came back
+again, and then I deliver'd them back to him.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> Were they in your Custody when Mr. <font>Jones</font>  
+was under Examination?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> I can't tell; but I never did show them to 
+him.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> Were they not deliver'd out on that Occasion?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No, they were not deliver'd out by me.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> You say you read the Examination to him. Did  
+not he desire to
+read it himself?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I don't remember it.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> Was he not refused to read it?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No, upon my Soul.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> Was you with the <font>Prisoner</font> in <font>Newgate</font> ?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> I was with him at his own Desire;          
+otherwise I had not gone to him.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> Do you remember the Days?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> How often was you with him there?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> Twice.
+   </dialogue><nonSpeech> <font>Mr. Hungerford.</font> </nonSpeech><dialogue> Were there any Offers made by you to him?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> I desire you would explain yourself.
+   </dialogue><nonSpeech> <font>Mr. Hungerford.</font> </nonSpeech><dialogue> Did you make him any Offers, that upon  
+his signing any
+Paper, he should have his Liberty?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Mr. Hungerford.</font> </nonSpeech><dialogue> Did you not mention to him his giving   
+Evidence against any
+other Person?
+   </dialogue><nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> No, upon my Soul.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> These Questions ought not to be ask'd. It 
+is an Iniquity to
+tamper with any Man; and therefore such Questions ought not to be    
+put. If you
+have any Witnesses, you may examine them.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>Mr. Hungerford.</font> </nonSpeech><dialogue> Then we will examine to it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Is that the Book I swore upon? </dialogue><nonSpeech> <font> (shewing 
+a Book he had in his Hand.) </font> </nonSpeech>
+    <nonSpeech> <font>Mr. Buckley.</font> </nonSpeech><dialogue> I don't know indeed; it was such a sort   
+of Book.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> I don't take that to be material, if it   
+were the <font>Alchoran</font> . He had
+it in his Pocket. But it is not his Oath, but his Confession that is 
+material.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech> <nonSpeech>Taking the Book into his Hands.</nonSpeech><dialogue> I    
+understand a little <font>Hebrew</font> .
+This is a Book to pray by, not swear by. It is a Collection of some  
+<font>Jewish</font>
+Prayers and Rituals; I believe, taken out of <font>Maimonides</font> . You    
+had best send it the
+Learned <font>Monfalcon</font> in <font>Paris</font> , he is compiling some critical   
+Observation upon the
+<font>Eastern</font> Languages.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Did you put any Mark on any of those Letters?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I did on some of them.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Where are the Extracts you made out of   
+them?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I have some of them here, </dialogue><nonSpeech> <font> (holding    
+out some Papers.) </font> </nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What did you do with the Letters, after  
+you had made those
+Extracts?
+   </dialogue><nonSpeech>Mr. <font>Just. Pratt.</font> </nonSpeech><dialogue> He tells you that he kept them till Mr. 
+<font>Walpole</font> came back again,
+and then deliver'd them to him.
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> Here is my Name on some of them. The two    
+initial Letters of my
+Name.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> When was that Mark made upon them?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I don't justly remember.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> That might be done yesterday, or since they   
+were deliver'd out of his
+Custody.
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I did it while they were in my Possession,  
+and before I deliver'd them
+back again to Mr. <font>Walpole</font> .
+</dialogue><nonSpeech>Then the Lord <font>Townshend</font> was sworn.</nonSpeech>
+   <nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> We must desire your Lordship to inform   
+the Court, what your
+Lordship knows in relation to the Prisoner at the Bar, as to the      
+issuing out the
+Warrant against him, and what happen'd afterwards.
+   </dialogue><nonSpeech>Lord <font>Townshend.</font> </nonSpeech><dialogue> My Lord, having receiv'd Information     
+that there was a
+Treasonable Correspondence carry'd on between the late Duke of       
+<font>Ormond</font> , Duke 
+<font>D'Aumont</font> , <font>Coulange</font> and Mr. <font>Harvey</font> , in which the        
+Prisoner was concern'd, and was the
+Channel in which the Correspondence was convey'd; and that the       
+Pretence of it
+was a Law-Suit, but that the Design of it was in Favour of the       
+Pretender; and
+that when they talk'd of the Party, the Pretender was meant; and     
+that they
+expected him to be soon here. Having reason to rely on this          
+Information, I drew a
+Warrant to seise the Prisoner and his Papers. I had indeed before    
+sent an Order to stop
+all Letters that came from <font>France</font> , directed to <font>Francia</font> , by 
+which I receiv'd a
+Confirmation of the Intelligence which had been before given me.     
+Upon the issuing
+out the Warrant, the Prisoner was seis'd, and his Letters were       
+brought to <font>Mr. Walpole</font> .
+   The next Day I sent for the Prisoner to be examin'd, and order'd  
+<font>Mr. Walpole</font> to
+bring me the Papers, and sent for the Prisoner in. The Letters that  
+<font>Mr. Walpole</font>
+brought in, were laid open upon the Table, and the Book lay by them. 
+I ask'd
+him whether he knew the Hand, and whether those Letters were not for 
+him? He
+own'd the Letters, but said he could not help what was in those      
+Letters, and that
+what others wrote to him, could not make him guilty. As for what I   
+have wrote
+(said he) I appeal to my Book. That is my Book, I appeal to that for 
+my
+Innocency. He did not appear obstinate, and I remanded him; and at   
+night I sent for
+him again, and Mr. Secretary <font>Stanhope</font> was with me; I had in that 
+time look'd
+into more of the Letters, I saw several initial Letters of Peoples   
+Names, I ask'd
+him the Meaning of them; and he gave me the Account contain'd in this 
+Examination. <comment type="compiler">A NOTE IN THE MARGIN: Referring to the Original       
+Examination.</comment> He seem'd in a Disposition to tell me all he knew; he 
+gave me an Account 
+how this Correspondence began, and was carry'd on; and then he came  
+to explain
+the initial Letters that were in those Letters that were taken upon  
+him, and in
+several other Letters that I had intercepted. I remanded him again   
+that Night,
+having taken this Examination in my Hand.
+   A second Examination was taken upon Mr. <font>Harvey's</font> Letter:      
+</dialogue><nonSpeech> <font> (which 
+Examination and the Letter thereto annex'd was shewn to his          
+Lordship.) </font> </nonSpeech><dialogue>
+   This is the very Letter on which I examin'd him; he own'd to me   
+how he
+came to stop the Letter, and not to forward it, and explain'd all    
+those Figures
+to me very distinctly. He protested that he knew no more, and made   
+solemn
+Protestations that he had said all he knew, and I was almost         
+convinc'd he had; but in
+<pagebreak id="16" />
+the Consequence, I had reason to think he had not. But these two     
+Examinations
+were taken before me, one I sign'd alone, and the other Mr.          
+Secretary <font>Stanhope</font>
+sign'd with me. As to the First, I believe Mr. Secretary             
+<font>Stanhope</font> was gone out of
+the Room before it was sign'd.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> I desire to ask your Lordship whether    
+all the Letters that were
+brought by Mr. <font>Walpole</font> , were laid upon the Table at the time of 
+the Prisoner's
+Examination.
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> All that Mr. <font>Walpole</font> brought me were  
+laid there, and I saw him
+take them back again.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> I desire to ask your Lordship whether you      
+heard that Declaration
+read over to him?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> I dare say I did.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Did he not endeavour to excuse himself from    
+signing it, till he had
+read it himself?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> I don't remember that, I don't know that  
+he made any Difficulty
+of signing it; but I am sure it could not be because he was refus'd  
+to read it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was not there any Reluctancy in me to sign it?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> What do you mean? Have not I answer'd     
+that already?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you offer me some Money to sign it?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> I hope you can't say a thing of so much   
+Infamy. After he had
+been examin'd, he complain'd to me of the Misery he was reduc'd to,  
+that his Wife
+and Family must starve, and represented himself as if he were at     
+loss for a Supper:
+I told him he had nothing to hope for, or any room to expect any     
+Favour, but by
+making a clear Confession. He went on begging, and said that his     
+Wife was starving;
+I do not certainly know whether it was the very Night that he sign'd 
+his Confession
+or not; but I am sure it was not for that, but in pure Alms, and     
+because he begg'd
+so hard, I put my Hand in my Pocket, and gave him three, four, or    
+five Guineas,
+I know not which, in Charity; and it was what I never could refuse   
+any Man that
+apply'd to me in that manner, and begg'd so hard. He said his        
+Brother would not
+look upon him, because he was taken up for High Treason, and he      
+desir'd me to
+give him something in Charity, which I did.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire to ask you whether you ever bestow'd 
+on any body else the like
+Charity? Pray my Lord, name the Man under your Examination, you ever 
+gave
+five Guineas to before? </dialogue><nonSpeech> <font> (At which there being a Laugh round    
+the Court.) </font> </nonSpeech>
+   <nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I must not be laugh'd out of my Life, you did 
+not answer me.
+   </dialogue><nonSpeech> <font>Lord Ch. Baron.</font> </nonSpeech><dialogue> Propose your Question to the Court?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire to know who he ever gave five        
+Guineas to besides me?
+   </dialogue><nonSpeech> <font>L. Ch. Baron.</font> </nonSpeech><dialogue> My Lord says it was out of Charity.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> And that he never refus'd any body under his  
+Examination the Sum of
+five Guineas?
+   </dialogue><nonSpeech> <font>L. Ch. Baron.</font> </nonSpeech><dialogue> He don't say so; he says, he never could  
+refuse his Charity to
+People that begg'd as you did.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I had less Need to beg than some others.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> I have but one Question more to trouble your   
+Lordship with, which
+my Instructions lead me to; and that is, whether at the time when    
+this
+Examination was sign'd by the Prisoner, he was not told of its being 
+for some
+particular Purpose, but that it should not be binding to him?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> He did desire that it might not be made   
+use of against him; I
+told him that depended on his Behaviour, if he was Ingenuous, if he  
+dealt
+frankly and fairly, and declar'd all the Truth, I would do all in my 
+Power that he should
+have Mercy; I don't know whether it is proper to give my Reasons why 
+I am
+convinc'd he did not deal candidly; but on the perusal of the        
+Letters, I found he was
+not a bare Conveyer of them, or came by Chance to the Knowledge of   
+what he
+explain'd in them, but that he was wrote to, as one of the Managers: 
+On that I
+sent to him again, and told him plainly, he must know more of it. He 
+stood it
+out that he did not, and then I sent him to <font>Newgate</font> : Soon after 
+he was
+committed, his Wife came, as Mr. <font>Buckley</font> inform'd me, and        
+acquainted him that she was
+perswaded, if she could see her Husband, that she could prevail with 
+him to
+discover the whole: On that I gave Directions to put him into the    
+Messenger's Hands
+again, which was done; about a Morning or two after, one             
+<font>Curtis</font> , who was in the
+same Messenger's House, brought a Letter to the Office, which he had 
+found drop'd
+by his Man's Bed-side. It was directed to his Wife, and the Subject  
+was to bid
+her not afflict herself, for he found better Company in <font>Newgate</font>  
+than he expected,
+that the better Half of them were in upon the Government Account;    
+that he had
+<pagebreak id="17" />
+said nothing of Mr. <font>Harvey</font> that could hurt him, nor could he;    
+that the
+Government had nothing against Mr. <font>Harvey</font> , but a general        
+Suspicion that he was against
+the Government, which three Parts in four of the Nation were; and    
+that he
+himself laugh'd at any thing the Government could do against him the 
+Prisoner:
+When I found a Man write in his Stile, I could not but think he had  
+not dealt 
+ingenuously.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I would propose to the Judgment of the   
+Court, whether it is
+proper to give Evidence of the Substance of a Letter without         
+offering the Letter
+it self.
+   </dialogue><nonSpeech>Mr. <font>Just. Pratt.</font> </nonSpeech><dialogue> This comes in Answer to Mr. <font>Ward's</font>  
+Question. He ask'd my
+Ld. <font>Townshend</font> , whether there was not some Promise that this     
+Confession should not
+be made use of against the Prisoner? His Lordship gives this         
+Account, and 
+justifies himself, how he came to make use of it, and gives this as  
+the Reason.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> But to give an Account of the Substance  
+of a Letter without
+producing it, I apprehend, is not according to the Rules of Evidence.
+   </dialogue><nonSpeech> <font>S. J. Jekyll.</font> </nonSpeech><dialogue> If the Councel for the Prisoner desire    
+the Letter to be read, it shall be read.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you insist upon the Reading of it?
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> If you will read it in the proper time you may.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> If in the Course of the Evidence the     
+Letter is not read. I don't press it.
+</dialogue><nonSpeech>Then Mr. <font>Horat. Walpole</font> was call'd again, and the Letter was   
+shewed to him.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray Sir, will you give an Account what    
+you know of this Letter,
+and how it came to your Hands?
+   </dialogue><nonSpeech>Mr. <font>Walpole.</font> </nonSpeech><dialogue> This Letter <font>Curtis</font> brought to me, and I 
+made this Mark on it: <comment type="compiler">A NOTE IN THE MARGIN: Showing a Mark upon    
+the Letter.</comment> He
+told me it was found in <font>Francia's</font> Chamber near his Bed-side, and 
+this is the Letter.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> There is nothing prov'd yet of its being the   
+Prisoner's Hand, its
+being found by his Bed-side will not affect him.
+</dialogue><nonSpeech>Then Mr. <font>Buckley</font> was call'd again, and the Letter was shew'd   
+to him.</nonSpeech> 
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Pray look upon this Paper, and tell us    
+whose Hand-writing you
+take it to be?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I never did see the Prisoner write but      
+once, and that was upon my
+being sent to him to take a Confession he seem'd willing to make,    
+and then I sat
+by him while he was Writing.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> How long did he write then?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> About an Hour, and I read it over.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Do you believe this to be his             
+Hand-writing?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I not only saw him write then, but I have   
+read a great deal in this
+Book, which Mr. <font>Walpole</font> told me, was taken at the Prisoner's     
+House; therefore
+being used to the Writing in this Book, and to what I saw him write, 
+for those
+Reasons, and no other, I believe this Paper to be his Writing.
+   </dialogue><nonSpeech>Mr. <font>Denton.</font> </nonSpeech><dialogue> Are not the Letters of your Name on this     
+Letter?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> Yes. When Mr. <font>Walpole</font> put into my       
+Hands all the Letters, my
+Lord bid me single out those that were fit to be extracted, and I    
+did mark them
+that were extracted, and I always kept them in my Hands, till Mr.    
+<font>Walpole</font> return'd,
+and then I deliver'd them to him: Those Letters that I extracted, I  
+mark'd; some
+other Letters that were intercepted by my Lord <font>Townshend</font> , I did 
+not mark, because
+they came to me at other times.
+   </dialogue><nonSpeech>Mr. <font>Denton.</font> </nonSpeech><dialogue> Did you mark that Letter?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Can you be positive that it is the Prisoner's  
+Hand?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Do you rely on the Writing in the Book?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> By that, and by what I did see him write,   
+from thence it is that
+I conclude this to be his Hand.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> He attempts to prove his Hand by two     
+Inducements, one that
+he saw him write, and the other is the Book; therefore let him fix   
+on those Parts
+of the Book, that he takes to be the Prisoner's Hand, and to be      
+like this Letter.
+   </dialogue><nonSpeech> <font>L. Ch. Baron.</font> </nonSpeech><dialogue> The Book is not material; it is enough    
+for a Man to say, that he
+saw another write for an Hour together, and then that he believes    
+this to be his Hand.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> If that was the single Foundation, it    
+was something; but he
+makes another Foundation also.
+   </dialogue><nonSpeech>Mr. Just. <font>Pratt.</font> </nonSpeech><dialogue> We are going out of the way, the        
+Question is, Whether this
+shall be read? In order to that, the Method is to prove, that the    
+Witness is
+acquainted with the Prisoner's Hand-writing, and believes this to be 
+his Writing. He
+tells you he saw him write for an Hour. He gives you a further       
+Reason, that it is
+<pagebreak id="18" />
+like some Letters in the Book. If that were laid out of the Case,    
+the other would
+be sufficient without it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> A Man makes two Things the Foundation    
+of his Judgment
+his Seeing him write, and the Similitude of Hands in the Book; the   
+most conclusive
+Evidence would be, the Similitude of the Hand in the Book, which     
+others may
+judge of as well as himself.
+   </dialogue><nonSpeech> <font>L. Ch. Baron.</font> </nonSpeech><dialogue> That is no Evidence at all; Similitude of 
+Hands in no Evidence.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I am far from thinking it is, or that    
+there is as yet any Evidence
+at all. Do you believe this to be his Hand, only from your having    
+seen him write,
+or from what you have observ'd in the Book also?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> I say that from my having seen him write,   
+and my having seen the
+Entries in the Book, I believe this to be his Hand.
+   </dialogue><nonSpeech>Mr. Just. <font>Pratt.</font> </nonSpeech><dialogue> If you had never seen the Book, but had 
+seen him write for an
+Hour; Could you collect from thence that this was his Hand?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> No, I would not affirm it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Then it is with us, and makes it         
+necessary to look into the Book.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How come you to apprehend any one Part of  
+the Book to be
+<font>Francia's</font> Writing more than the other?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> By my Eye-sight, and comparing it with this 
+Letter.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Is it from your Knowledge of seeing him    
+write?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> Yes, and this Writing being like this Book.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> I desire this Matter may be consider'd   
+how it stands, my Ld.
+<font>Townshend</font> is examin'd touching the Confession of the Prisoner,   
+and was ask'd whether
+there was not hopes of Mercy given him, my Lord said there were,     
+upon his
+making a frank Discovery; but he tells you the Prisoner was not      
+entituled to Mercy,
+because he had not made such a Discovery, and then gives an Account  
+of this
+Letter: I thought the Councel for the Prisoner appeal'd to that      
+Letter, and would have
+had it produc'd, to check the Evidence given by my Lord.
+   </dialogue><nonSpeech>Mr. J. <font>Pratt.</font> </nonSpeech><dialogue> Since it is gone thus far, I think it      
+would be proper to clear this Matter.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire to know where Mr. <font>Buckley</font> saw me 
+write for an Hour together?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> It was in the Messenger's House.
+   </dialogue><nonSpeech>Mr. Just. <font>Tracy.</font> </nonSpeech><dialogue> My Ld. <font>Townshend</font> was giving an      
+Account in Answer to a 
+Question propos'd by the Prisoner's Councel, and gave his Reason     
+why he did not think
+the Prisoner was frank. I did not think so (says he) because of a    
+Letter which
+was found by his Bed-side. Says Mr. <font>Hungerford</font> , then that       
+Letter ought to be produc'd.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> If the Account is no more than that my   
+Lord observ'd so upon
+that Letter, there is no great Harm in reading it: But I am still in 
+your Judgment,
+Whether, when the Contents of a Letter is insisted upon, and         
+repeated, and that
+upon Memory only, the Letter it self ought not to be produc'd?
+</dialogue><nonSpeech>Then -- <font>Curtis</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Look upon that Letter, Whose              
+Hand-writing is it?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> I believe it is Mr. <font>Francia's</font> .
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Have you seen him write?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> And do you believe it to be his Writing?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> How long have you been acquainted with the     
+Prisoner?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> While he was in the Messenger's Hands.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> How often did you see him write?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> Several times.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Was you in Custody at the same time when he was?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Where did you find this Letter?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> In his Chamber by his Bed-side.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I don't hear that he gives an Account,    
+whether he is so well
+acquainted with his Writing, that he can distinguish it from any     
+others?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> He told me it was a Letter that he had wrote to 
+his Wife.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> The Letter is in <font>French</font> ; we have a    
+Translation of it; we must
+desire that the Interpreters who translated it, may be sworn.
+</dialogue><nonSpeech>Then Mr. <font>Boyer</font> , and Mr. <font>Ozell</font> , were both sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Did you translate the Letter?
+   </dialogue><nonSpeech>Mr. <font>Boyer.</font> </nonSpeech><dialogue> I did, and afterwards I compar'd it with Mr.  
+<font>Ozell</font> .
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Is that a true Translation of the original   
+Letter?
+   </dialogue><nonSpeech>Mr. <font>Boyer.</font> </nonSpeech><dialogue> I did make a true Genuine Translation of it,  
+allowing for the
+difference of Language and Stile.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Was it the best and most exact Translation   
+you was able to make?
+   </dialogue><nonSpeech>Mr. <font>Boyer.</font> </nonSpeech><dialogue> Yes.
+<pagebreak id="19" />
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Mr. <font>Ozell</font> , Have you compar'd this       
+Translation with the Original?
+   </dialogue><nonSpeech>Mr. <font>Ozell</font> </nonSpeech><dialogue> Yes, and I believe it to be a true Translation.
+   </dialogue><nonSpeech> <font>Note.</font> That the Original Letter was deliver'd into the      
+Prisoner's Hand, during
+the time that the Translation was Reading; and Mr. <font>Flint</font> , who   
+was permitted to
+stand in the Bar near the Prisoner, assisted him in Comparing the    
+Original with the
+Translation. The like Method was observ'd, when the Translations of  
+the Letters
+receiv'd by the Prisoner, were read; and when the Letters wrote by   
+him were read
+out of the Copy-Book, the Copy-Book was shown to him.</nonSpeech>
+   <nonSpeech>Clerk reads.</nonSpeech><dialogue> <comment type="compiler">LETTER OMITTED.</comment>
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Pray let me have the Letter; I have a    
+little <font>French</font> , and I
+would willingly see how they would render the Word <font>Tories</font> .
+   </dialogue><nonSpeech>Mr. J. <font>Pratt.</font> </nonSpeech><dialogue> When did you find this Letter?
+   </dialogue><nonSpeech> <font>Curtis.</font> </nonSpeech><dialogue> Upon the <font>27th</font> Day of <font>November</font> .
+<comment type="compiler">NO ITALICS FOR 27 IN SOURCE TEXT.</comment>
+   </dialogue><nonSpeech> <font>Mr. Soll. Gen.</font> </nonSpeech><dialogue> My Lord <font>Townshend</font> , Pray be pleas'd  
+to give an Account of the
+Occasion that this Confession was not sign'd by both the Secretaries?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> I suppose Mr. Secretary <font>Stanhope</font>      
+might be gone out of the Room.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I would not willingly trouble my Ld.     
+<font>Townshend</font> at any other
+time, and therefore would take this Opportunity: I think your        
+Lordship said, that
+the Letters that were stop'd at the <font>Post-Office</font> , were laid on   
+the Table with the
+other Letters, when the Prisoner was examin'd?
+   </dialogue><nonSpeech>Ld. <font>Townshend.</font> </nonSpeech><dialogue> I did not say that. The Letters that were 
+intercepted, I did first lay
+them before the King, and then put them into the same Hands with the 
+other Letters.
+</dialogue><nonSpeech>Then Mr. Secretary <font>Stanhope</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mr. Secretary <font>Stanhope</font> , we must       
+desire you to inform the Jury what
+you know about the Examinations of the Prisoner, and the Confession  
+he made?
+   </dialogue><nonSpeech>Mr. <font>Secret. Stanhope.</font> </nonSpeech><dialogue> I have here two Examinations; one  
+sign'd by my Ld.
+<font>Townshend</font> , the <font>21st.</font> of <font>Sept.</font> and the other dated the   
+<font>22d.</font> of <font>Sept.</font> sign'd by my Ld.
+<font>Townshend</font> and myself. <comment type="compiler">NO ITALICS FOR 21 OR 22 IN SOURCE        
+TEXT.</comment> I was present at both the Examinations: There has been an
+Account given of the First, which is perfectly Agreeable to what     
+pass'd there, and my
+Name is to the Second.
+   There is annex'd to this Second a Letter, which we take to be Mr. 
+<font>Harvey's</font> : I
+remember the Letter; the Hand is particular, and there are Figures   
+by way of Cyphers.
+I remember very well this Letter. It has been before the Cabinet     
+Council. It was
+shown to Mr. <font>Harvey</font> at the Council-Table; he did not deny it,    
+but shew'd the
+utmost Consternation when it was shown to him; and desir'd that he   
+might withdraw,
+and have the Liberty to speak to one particular Lord. The manner of  
+his
+Behaviour was such, as to induce the Lords of the Council to be of   
+Opinion, that he was
+inclin'd to confess what he knew; therefore they thought fit to let  
+him withdraw,
+and go to the Messenger's House; but his Agonies were such, that he  
+stabb'd
+himself that Night, or the next Morning.
+   I believe at twice we spent about two Hours in the Examination of 
+the Prisoner,
+and these Examinations were taken from his own Mouth; and I can be   
+positive
+there is not a Passage in them, that he did not repeat more than     
+once or twice. The
+reason why my Name is to one, and not to the other, may be, because  
+the Room
+where he was examin'd was next to the Room where the Council used to 
+meet; and
+I believe I might be going in and out between the two Rooms, and     
+might not be there
+when he sign'd it; and therefore I might not think it proper to set  
+my Name to what
+I did not see sign'd: But I saw him sign that to which my Hand is    
+set; and I don't
+remember that he had any Reluctancy to sign it. I read the first     
+Examination more
+than once or twice to him, and did my self examine him to all the    
+Particulars of it.
+<pagebreak id="20" />
+   After the first Night's Examination, it is certain he behav'd     
+himself like a Man
+not worth a Groat, intimating as if he did not know how to get a     
+Supper: He
+represented himself in a pitiful Condition, and it was at his going  
+out of the Room,
+that my Lord put his Hand in his Pocket, and gave him something,     
+what it was, I
+don't know, but it was after he had sign'd his Examination; for      
+after it, there was
+a good deal of Conversation pass'd between him and me. I ask'd him   
+several
+Questions, as to his being in <font>France</font> , and about the Countries   
+he came from; and ask'd
+him as to several <font>Spanish</font> Letters that were in the Book, and     
+other things of that Nature.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Did he not desire to read over the             
+Examinations before he sign'd them?
+   </dialogue><nonSpeech>Mr. Sec. <font>Stanhope.</font> </nonSpeech><dialogue> I don't remember that he did; but     
+they were read over to him,
+and he was ask'd to every Particular by myself, some one Particular  
+might slip; but
+I did examine him, I think, to every Particular, in order to have it 
+alter'd, if he
+objected to it, and he did not express the least Reluctancy. I saw   
+him set his Hand
+to one of them; as to the other, I can't say, because the Room was   
+next to the
+Room where the Council was sitting, and I don't know but that I      
+might be there.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Do you remember any thing particular that was  
+said to him, that those
+Examinations should only be laid before his Majesty, and no other    
+use made of 'em?
+   </dialogue><nonSpeech>Mr. Secretary <font>Stanhope.</font> </nonSpeech><dialogue> I don't remember any such thing.
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> If he had desir'd to have read these      
+Examinations, would you
+have refused it?
+   </dialogue><nonSpeech>Mr. <font>Secret. Stanhope.</font> </nonSpeech><dialogue> It never was deny'd to any Man to  
+read his Examination
+before he sign'd it, where I was present.
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> Nor you would not have refus'd him, if he 
+had desir'd it?
+   </dialogue><nonSpeech>Mr. <font>Secretary Stanhope.</font> </nonSpeech><dialogue> No, God forbid.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I am inform'd that the Prisoner wrote    
+some Letters to my Ld.
+<font>Townshend</font> , complaining of some other use being made of his      
+Examinations, than was design'd?
+   </dialogue><nonSpeech>Mr. <font>Sec. Stanhope.</font> </nonSpeech><dialogue> I receiv'd some Letters from the      
+Prisoner, but none that I
+thought were of any sort of avail.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did he complain of his not being         
+suffer'd to read them?
+   </dialogue><nonSpeech>Mr. <font>Sec. Stanhope.</font> </nonSpeech><dialogue> I don't remember it; but I am sure it 
+was not so. If he did
+complain, it was without any ground.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire a Sight of the Original Letter,      
+which <font>Curtis</font>
+said I own'd. </dialogue><nonSpeech> <font>Which was shewn him accordingly.</font> </nonSpeech><dialogue> I never     
+wrote one Word of it; it is forg'd since:
+Any body will say it; it is not like my Hand.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Before the Examinations are read, I desire   
+the Gentlemen of the
+Jury would take an Account in Writing of the Initial Letters and     
+Figures they will
+hear read, and then will observe who are the Persons meant and       
+intended by them,
+according to the Prisoner's Explanation, when he was examin'd.       
+Gentlemen, it is
+necessary you should understand, who are the Persons that are        
+intended by the Letters
+and Numbers. If you take them down, all the Letters will read to the 
+Purpose.
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> <font>Gentlemen</font> , They desire you will take 
+Notice of the Letters and
+Numbers, that are explain'd in this Examination, because you will    
+the better
+understand the Letters that will be read to you: That is what they   
+desire, and it will
+be for your Satisfaction.
+<comment type="compiler">THE EXAMINATION OF FRANCIS FRANCIA OMITTED.</comment>
+<pagebreak id="22" />
+   </dialogue><nonSpeech> <font>Sir J. Jekyll.</font> </nonSpeech><dialogue> Now we will read Mr. <font>Harvey's</font> Letter.
+
+   </dialogue><nonSpeech> <font>Mr. Ward.</font> </nonSpeech><dialogue> You cannot read that Letter against the       
+Prisoner.
+
+   </dialogue><nonSpeech> <font>Sir. J. Jekyll.</font> </nonSpeech><dialogue> He hath made it part of his Examination.
+
+   </dialogue><nonSpeech> <font> (Clerk Reads.) </font> </nonSpeech><dialogue>
+<comment type="compiler">LETTER OMITTED.</comment>
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Mr. Attorney-General.</font> </nonSpeech><dialogue> We will now show the Nature of    
+this Correspondence,
+by their sending Letters to and again, and show when he came into it
+himself.
+
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Are you a going to offer any Letters?
+
+   </dialogue><nonSpeech>Mr. <font>Attor. Gen.</font> </nonSpeech><dialogue> Yes, out of his own Book.
+ 
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="29" />
+   <nonSpeech>Mr. <font>Attor. General.</font> </nonSpeech><dialogue> We will read our Letters as they are 
+in Time, and shew
+the Nature of the Correspondence.
+<pagebreak id="30" />
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> I am inform'd there are different Hands in     
+that Book: Now
+whether your Lordship will admit them to read it under a general     
+Proof of his
+owning it to be his Copy-Book, or whether you will not expect that   
+that which is
+his Writing should be prov'd, and what is wrote by any other, to be  
+wrote by
+his direction, or privity; for a small Variance in the Expression,   
+may turn a
+Man out of his Life.
+
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> All that the Witnesses said was. That    
+the Prisoner said it was
+his Copy-Book. Now whether he is to be affected by every Word in that
+Volume, is what we must submit to your Lordship; and whether they    
+ought not
+to single out which were wrote by him, and which not; for his        
+saying that is
+his Book, that is, the Volume is his, the Cover is his, and the      
+Paper is his, but
+it will not imply that he is the Author of all those Letters.
+
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> My Lord, when they objected to our        
+reading the Copy-Book,
+they ought to have made all their Objections together; but this      
+being in the
+Case of Life, I won't stand upon that. 
+   It is plain, it ought to be read; for you observe the Letters, of 
+which these
+are Copies, are suppos'd to be sent to <font>France</font> ; and it is        
+impossible to have
+them; then what Certainties have we touching these Letters? We have  
+the
+taking the Book in the Custody of the Prisoner, and if there had     
+been no more
+then it's being found in his Custody, I apprehend we might have      
+been let in to
+read 'em. But it goes a great way farther; for several of the        
+Witnesses Swear
+that he own'd it was his Copy-Book of his Letters.
+   Let's consider how this Evidence would have been, if it had been  
+given to
+every Letter in particular. If we had produc'd one single Copy of a  
+Letter,
+and he own'd that was a Copy of a Letter wrote by him, will any one  
+doubt
+but that it might be read? No, the Evidence say that he own'd this   
+to be the
+Copy-Book of his Letters.
+
+   </dialogue><nonSpeech>Mr. <font>Just. Tracy.</font> </nonSpeech><dialogue> Where the Court is in no doubt, we      
+must not spend our Time
+in arguing Points that have nothing in them.
+
+   </dialogue><nonSpeech> <font>Ld. C. Baron.</font> </nonSpeech><dialogue> It is no matter whether any of them are   
+of his Hand-writing
+or not, I think they may be read.
+
+</dialogue><nonSpeech>Then the Original Letters and the Translations were shewn to Mr.   
+<font>Boyer</font> ,
+and to Mr. <font>Ozell</font> , who prov'd them to be true Translations.</nonSpeech>
+   <nonSpeech> <font> (Clerk reads.) </font> </nonSpeech><dialogue> This is directed to                     
+<font>Francis Francia</font> , and dated <font>Paris Feb.</font> 26.
+1715.
+
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> This is dated at <font>Paris, Feb.</font> 1715,    
+but that is in our Stile 1714.
+ 
+   </dialogue><nonSpeech> <font> (Clerk reads.) </font> </nonSpeech><dialogue>
+<comment type="compiler">LETTER OMITTED.</comment>
+<pagebreak id="31" />
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> We read this only for the sake of the     
+Postscript, which we will
+read presently.
+
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> This is not a True Translation.
+
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> What is your Objection to the Translation?
+
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> There is not one word true in it.
+
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> Who do you depend on to Translate it for  
+you?
+
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Upon Mr. <font>Flint</font> .
+
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> Tell us your Objection to the             
+Translation; tell us in any one
+material Part wherein the Translation don't agree with the Original.
+
+   </dialogue><nonSpeech> <font>Flint.</font> </nonSpeech><dialogue> One can't carry it in ones Head.
+
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I hope you will not take it for a True        
+Translation when it is False.
+
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> We shall if you don't shew wherein it is  
+False.
+
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> We will read the Postscript, let them    
+show any Mistake in that.
+
+   </dialogue><nonSpeech> <font> (Clerk Reads.) </font> </nonSpeech><dialogue>
+
+   <font>As I have Reasons of Private Concern to know what passes in the 
+Country you live in, you
+will sensibly oblige me in informing me of it now and then. Be       
+perswaded of my Direction,
+and that the State is no ways concern'd in my Curiosity; nothing     
+raises it but the Concerns
+of my Wife and her Family, who is Irish.</font>
+
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> That is wrong Translated.
+
+   </dialogue><nonSpeech>Ld. <font>Ch. Baron.</font> </nonSpeech><dialogue> How do you Translate it?
+
+   </dialogue><nonSpeech> <font>Flint.</font> </nonSpeech><dialogue> You will oblige me sensibly to inform me of the  
+same. Be perswaded of
+my Discretion, and that the State has nothing in my Curiosity: The   
+Interest
+of my Wife, who is Irish excites me.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="45" />
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> We shall leave it here, and submit it to   
+your Lordship and the
+Jury, upon the Evidence we have offer'd.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> May it please your Lordship, and you Gentlemen 
+of the Jury, I
+am Council for the Prisoner, and what I shall humbly offer to your   
+Lordship before
+we go into our Evidence, is a single Point, we shall lay before you  
+and insist upon;
+a particular Circumstance in the Indictment, which is such, that     
+considering the
+Circumstance of my Client, it is impossible as the Law stands, that  
+he should be
+guilty in such manner as is charged in the Indictment.
+   The Prisoner happens to be an Alien born, he was born at          
+<font>Bordeaux</font> in <font>France</font> ;
+he came from thence into <font>England</font> , and never was Naturaliz'd. He 
+owes therefore
+no natural Allegiance, nor can be guilty of any Treason against the  
+King as his
+natural Leige Lord, as its laid in this Indictment.
+   There is a Distinction of a double Allegiance, one that is due    
+from a natural
+born Subject, and the other that is due from an Alien. The latter    
+owes only a
+local Obedience with respect to his Protection, whereas the former   
+owes it in respect
+of his Birth. This is a Distinction well known in <font>Calvin's</font> Case. 
+It appears, that
+if an Indictment for Treason be against an Alien, it must be charged 
+to be against
+his Allegiance in general, but not against his natural Allegiance.   
+This is taken
+notice of in a great many Cases. In the Reports of my Lord           
+<font>Hobart</font> , <font>Vaughan</font> , and 
+<font>Keyling</font> , there are several Cases which show this Distinction.
+   In my Lord Chief Justice <font>Holts</font> time, in the Trial of          
+<font>Cranborn</font> , and <font>Lowick</font> ,
+<font>April</font> 22. 1696. an Exception was taken to the Indictment; that   
+it was not said
+<font> <foreign>Contra Naturalem Ligeantiam</foreign> </font> ; and in that Case,            
+<font>Calvin's</font> Case was agreed to be Law.
+<pagebreak id="46" />
+It was held, that in case of an Alien, he ow'd only a general        
+Allegiance, and it was
+agreed, that in case of an Alien, it must not be <font> <foreign>Contra         
+naturalem ligeantiam</foreign> </font> ; and my
+Lord Cheif Justice <font>Holt</font> says, if it were so, it would be ill.    
+And it may be given
+in Evidence, that he is an Alien, in order to acquit him of a Crime, 
+charg'd to be
+against his natural Allegiance; there is none such due.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> My Lord, The Objection is founded on a   
+Fact. If the Fact is
+admitted, we will argue upon it; if not, we will call some Witnesses 
+to prove it.
+</dialogue><nonSpeech>Then <font>Simon Francia</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Pray give an Account what you know of    
+the Prisoner, what
+Country Man he is, and where he was born?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> He is my Brother, he was born in         
+<font>France</font> at <font>Bourdeaux</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Are you Elder or Younger than he?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> I am Four Years Elder.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How then can you remember what was done    
+when you was Four
+Years old?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> I can't remember the Day of his Birth,   
+but I was bred up with
+him at <font>Bourdeaux</font> , we were all born in the same House.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What Age was you of when you first       
+remember him?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> I remember him when I was about Six      
+Years old.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> And you don't remember that your Father  
+and Mother came
+to <font>England</font> in that time?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did your Father and Mother live at       
+<font>Bourdeaux</font> when you was
+about Six Years old?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> Yes.
+</dialogue><nonSpeech> <font>Then</font> Jaques Gonsales <font>was sworn on the Books of</font> Moses.
+<font>And an Interpreter was sworn, because the Witness spoke</font>
+English <font>very imperfectly</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Pray give an Account what Countryman the 
+Prisoner is, and
+where he was born?
+   </dialogue><nonSpeech> <font>Gonsales.</font> </nonSpeech><dialogue> The Prisoner is the Son of <font>George           
+Francia</font> , and <font>Mary Gonsales</font> my
+Sister. He was born at <font>Bourdeaux</font> the 26th of <font>March, New        
+Stile</font> 1675.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyl.</font> </nonSpeech><dialogue> How do you know he was born there?
+   </dialogue><nonSpeech> <font>Gonsales.</font> </nonSpeech><dialogue> Because I was present when he was born. My    
+House was over-against
+my Sister's, who was the Prisoners Mother; afterwards he was         
+baptized in the
+Church of St. <font>Andrew</font> .
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> We have two or three Witnesses more, his 
+Godfather and
+Godmother; but I think it plainly prov'd by these Witnesses, so that 
+we need not
+go any further. Mr. <font>Attorney</font> , do you admit it, or shall we      
+examine more Witnesses?
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Prove what you can.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Then Mr. <font>Attorney</font> , you admit what   
+we contend for. I am
+sure if he be a good <font>Englishman</font> , he cannot be a false Traytor.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> He speaks good <font>English</font> .
+</dialogue><nonSpeech> <font>Then</font> Emes Lamira <font>was sworn</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Give an Account whether you know where   
+the Prisoner was
+born?
+   </dialogue><nonSpeech> <font>Lamira.</font> </nonSpeech><dialogue> He was born at <font>Bourdeaux</font> , I liv'd there    
+when he was born.
+</dialogue><nonSpeech>Then <font>Jaques Gonsales</font> was call'd again.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How long hath the Prisoner liv'd in        
+<font>England</font> ?
+   </dialogue><nonSpeech> <font>Gonsales.</font> </nonSpeech><dialogue> I can't tell positively.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> As near as you can?
+   </dialogue><nonSpeech> <font>Gonsales.</font> </nonSpeech><dialogue> I can't tell, for he has liv'd at one part of 
+the Town, and I at the other.
+</dialogue><nonSpeech>Then <font>Simon Francia</font> was call'd again.</nonSpeech>
+   <nonSpeech> <font>L. C. Baron.</font> </nonSpeech><dialogue> How long ago did your Brother come into    
+<font>England</font> ?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> He hath been here twice. He was here     
+about Twenty Years ago,
+and this last time, he hath been here about Six or Seven Years.
+   </dialogue><nonSpeech> <font>L. C. Baron.</font> </nonSpeech><dialogue> How long did he stay when he first came?
+   </dialogue><nonSpeech> <font>Simon Francia.</font> </nonSpeech><dialogue> About Eight or Nine Years.
+<pagebreak id="47" />
+</dialogue><nonSpeech> <font>Then</font> Cecilia Ceres <font>was sworn</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you know of the Prisoner? What   
+Country Man is he?
+   </dialogue><nonSpeech> <font>Ceres.</font> </nonSpeech><dialogue> I went to School with him at <font>Bourdeaux</font> .
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Where was he reputed to be born?
+   </dialogue><nonSpeech> <font>Ceres.</font> </nonSpeech><dialogue> At <font>Bourdeaux</font> , in the same Street where I was.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> How Old was he when you knew him first?
+   </dialogue><nonSpeech> <font>Ceres.</font> </nonSpeech><dialogue> We were both Children.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I think the Place of a Man's Birth can't 
+be better prov'd, it
+is prov'd by some that were in the Room at his Birth, some that went 
+to School
+with him, and some that knew him there a Child.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> If the Jury should be satisfied with this  
+Evidence, it will not
+acquit the Defendant, the Opinion in <font>Cranborn's</font> Case being, that 
+the Word
+<font>Naturalem</font> was not necessary to be in the Indictment; and adding  
+an immaterial Word
+will not therefore make the Indictment bad. If this does not satisfy 
+the
+Defendant's Council, I shall insist that this Point be found         
+specially.
+   </dialogue><nonSpeech>Mr. <font>Just. Pratt.</font> </nonSpeech><dialogue> If you insist that you have given a     
+sufficient Evidence to satisfy
+the Jury, and indeed it is a strong Evidence, Mr. <font>Attorney</font> says, 
+if the Evidence
+is to the Satisfaction of the Jury, he is willing to find it         
+specially. Therefore are
+you willing to leave it to the Jury on that single Issue?
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> That is giving up all the rest. I would  
+a little enforce and
+apply this Evidence.
+   </dialogue><nonSpeech>Mr. <font>Just. Pratt.</font> </nonSpeech><dialogue> I believe, if Mr. <font>Attorney General</font>  
+desires it to be found
+specially, it was never known to be denied.
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> I desire it may be found specially.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I will be bold to say, this Objection is 
+in all the Authorities
+which we have in the Law touching this Matter, held good: A Man who  
+is not a
+natural born Subject cannot owe a natural Allegiance: And it is very 
+hard, that
+without offering any Reason, to raise a Doubt, but upon bare asking  
+to have a
+Matter found specially, it must be so.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> If you have a mind to it we will debate it 
+with you now.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> With all my Heart, I am ready to speak   
+to it now.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> If we were to expect the Judgment of the 
+Court upon it now,
+I would debate this Matter now, and I should not doubt but to be     
+able to satisfy
+the Court that the Indictment is well fram'd against the Prisoner,   
+notwithstanding
+he is an Alien born.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I would be glad to hear one Authority to 
+support Sir <font>Joseph's</font>
+Opinion.
+  
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="49" />
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> My Lord, I shall take up but a very      
+little of your Time
+till we have gone through our Evidence, and then shall apply my self 
+to
+make some Remarks upon it. But in general, the Accusation contained in
+this Indictment is, That this Man has conspir'd to take away the     
+Life of the
+King; the Overt Acts laid are, That he conspired to levy War, and 
+endeavoured to engage Assistance from abroad, and wrote Letters, and 
+sent them
+to divers Persons beyond Seas for that Purpose.
+   Gentlemen of the Jury, I am sure you must observe, that as to a   
+direct
+Proof of his intending to take away the truly precious Life of the   
+King, there
+is none, but what is endeavour'd to be inferr'd from these Letters.  
+If there
+were, I am sure I should not, and, I believe, none of my Profession  
+would
+have spoke one Word for him. But all that is said arises from        
+himself. There
+is no Consultation appears, but that this Man consulted with himself 
+and his
+Compting-House to take away the Life of the King. As to any of those
+Letters, there is nothing in them that looks that Way. And as to     
+what is
+contained in the Letters received from <font>France</font> , they cannot      
+affect him. All
+that can be inferr'd from them is, that he was privy to what was     
+contained
+in those Letters: And if that were High-Treason, yet it can only     
+amount
+to Misprision of Treason in the Prisoner. You who live in this great
+Trading City, the most eminent for Trade and Commerce in the World,  
+in
+which, I believe, you are very much concerned, know that a great     
+Part of
+the Commerce is carried on by Letters, and all or most of them are   
+entred
+in Books; you must have a due Apprehension of the Consequences of    
+such
+a Transaction as this is. To have a Man living in his House in Peace,
+under the Protection of the King's Laws, to have his Books and       
+Papers taken
+from him, and those Books and Papers turn'd against him, to the
+Destruction of him and his Family.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> I desire you would forbear inveighing  
+in this Manner.
+This is not a proper Manner of proceeding.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyl.</font> </nonSpeech><dialogue> You have had an Account that an           
+Information was given
+to the Secretary of State, of a treasonable Correspondence carried   
+on by this
+Man, and here is an Harangue complaining that his Person and Papers  
+are
+seiz'd. You know if there had been an Information given to the meanest
+Officer in the Kingdom, he could not have justified himself, without 
+doing
+the same Thing.
+   </dialogue><nonSpeech> <font>Lord. C. Baron.</font> </nonSpeech><dialogue> You are not to arraign those Proceedings.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I don't doubt but that noble Lord had    
+Grounds for what
+he did, but what Grounds he had doth not appear: And surely I have a
+Right to observe, that all the Evidence that appears against the     
+Prisoner,
+arises from those Letters and Books that were taken away from him.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Pray Mr. <font>Hungerford</font> act within the 
+Bounds of your
+Profession.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Mr. Attorney, I am to be corrected by    
+the Court, and
+not by you. I owe Duty to my Lords the Judges, and I shall always    
+pay it.
+   </dialogue><nonSpeech>Mr. <font>Just. Tracy.</font> </nonSpeech><dialogue> You ought not to reflect on that        
+Matter, of seizing the
+Papers.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I am not understood. I say all that is   
+offer'd against
+him is from the Papers found in his Custody.
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> If that was all that you had said you    
+ought not to have been
+interrupted, but I never knew in my Life, but what was done in this  
+Case
+was ordinarily done in the like Cases, and ought to be done, and you 
+ought
+not to go on with Invectives to the Jury, complaining that his       
+Papers are
+seiz'd, and then that those Papers are turn'd against him. When a
+Correspondence is carried on by Letters, ought they not to be        
+seized, and if they
+appear to be treasonable, ought they not to be kept, and made Use of 
+against
+him. We must not sit here to hear Invectives against Magistrates of  
+the
+highest Quality, for doing that, which if they had not done, they    
+had failed
+in their Duty.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I have not said any Thing to impeach the 
+Legality of
+what was done. All I said, and do say, is, that the Evidence is from 
+the
+Papers found in his own Custody.
+<pagebreak id="50" />
+   You have heard the Letters read, and you observe, That great Part 
+of
+them is about Dogs and Horses, and a Summ of 130 <font>l.</font> 4 <font>s.</font> and 
+about a Suit
+that was carrying on in the Court of Chancery. As to the Book, I shall
+touch no more upon it now, but I believe we shall be able to offer   
+Proof
+that there is not any Part of it wrote by himself. How that will     
+agree with
+the Evidence already given, we must submit. We shall likewise give   
+some
+Account of some Discourses that have been had with the Man himself.  
+And,
+I believe, I need not observe to Gentlemen of your Figure and
+Circumstances, That the Mr. <font>Harvey</font> , who is represented by the   
+King's Council, to
+be the first Promoter of, and carried on this treasonable            
+Correspondence, is
+at Liberty, even without a Trial; and what the Law hath done for him
+without a Trial, I hope shall, by your Justice, be done for the      
+Prisoner, now
+upon his Trial, that is, that he shall be acquitted.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Though it is difficult for us to be put to     
+explain any of those
+Letters, yet we will call some Witnesses to explain one, which       
+mentions
+Persons of 50 or 60 Thousand Crowns a Year, and shew that it was meant
+of one that was concerned in the Revenue in <font>France</font> , and         
+suffered by it.
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> If you are going to explain that Letter, 
+it will be
+necessary to read it again to the Jury.
+</dialogue><nonSpeech> <font>Which was done accordingly.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We will shew it was meant of one <font>George      
+Francia</font> , who had
+been concern'd in the Revenues in <font>France</font> .
+</dialogue><nonSpeech> <font>Simon Francia</font> being sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you know <font>George Francia</font> ?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Was he concerned in the Revenue in       
+<font>France</font> , and had he
+any Loss there?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> Yes, he lost all he had.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> By what Occasion was it?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I don't know.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Was it by his own Management, or         
+depending on others?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I don't know, but I know he had an Estate   
+and lost it all.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We offer this only as a Sample for the rest.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> What was this Man worth?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I computed him to be worth Eight or Ten     
+Thousand Pounds.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Doth he answer the Description in the  
+Letter of a
+Person of Fifty or Sixty Thousand Crowns a Year?
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> Had he any Estate in Land?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> No, only in Money.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Do you know of any Offers that have been 
+made, or
+Threats used to the Prisoner?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I know of some.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> By whom.
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> By Mr. <font>Buckley</font> . That if he would swear 
+against Mr. <font>Harvey</font>
+of <font>Comb</font> , he should have a good Reward.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Do you know of any other?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> Yes, my Lord <font>Townshend</font> told me he had   
+given my Brother
+five Guineas, and he would give him more if he would swear against
+Mr. <font>Harvey</font> .
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Where did he tell you so?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> In the Office at the Cockpit.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Do you know any Thing of two Warrants    
+that Mr.
+<font>Buckley</font> brought, one for his Releasment, and the other for his
+Confinement?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I don't know any Thing of that.
+<pagebreak id="51" />
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> How came this Discourse between my     
+Lord <font>Townshend</font>
+and you?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I was several Times with him at the Office  
+about my Brother.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> I hope it will be proper at this Time  
+that my Lord
+<font>Townshend</font> and Mr. <font>Buckley</font> , may be ask'd to this Matter.
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> I suppose you was present when this past 
+between Mr.
+<font>Buckley</font> and the Prisoner.
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> It was between my Lord <font>Townshend</font> and    
+me, and Mr. <font>Buckley</font>
+and me.
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> Who else was by, besides Mr. <font>Buckley</font>  
+and you?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> No Body else?
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> Who was by, when that which you          
+mention'd, past
+between my Lord <font>Townshend</font> and you?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> No Body else. The first Time I applied to   
+my Lord <font>Townshend</font> ,
+I think there was another Secretary there.
+   </dialogue><nonSpeech>Mr. <font>Just. Prat.</font> </nonSpeech><dialogue> But at that Time that you say this Offer 
+was made,
+was any Body present?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> Indeed I don't remember that there was.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> I think you say, the first Time you was with 
+my Lord
+<font>Townshend</font> , there was the other Secretary there?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> Yes, there was.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Where was this, in what Room?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> In the Cockpit.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> What is your Relation to the Prisoner?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I am his Brother.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> You say there was another Secretary by,  
+Was it the
+other Secretary of State?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I know not who it was, there was another    
+Gentleman.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> He said another Secretary of State.
+   </dialogue><nonSpeech> <font>Lord C. Baron.</font> </nonSpeech><dialogue> What did my Lord <font>Townshend</font> say to you?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> He said he had given my Brother five        
+Guineas, and he would
+give him more, if he would swear against Mr. <font>Harvey</font> .
+   </dialogue><nonSpeech> <font>Lord Chief Baron.</font> </nonSpeech><dialogue> You say at that Time there was        
+another Secretary?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> No, no, not at the Time of that Discourse.
+   </dialogue><nonSpeech> <font>Lord C. Baron.</font> </nonSpeech><dialogue> Nor there was no Body with you and Mr.   
+<font>Buckley</font> ?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> No.
+</dialogue><nonSpeech>Then <font>Lucy White</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Was you by, or in hearing, when any      
+Offers were
+made to the Prisoner.
+   </dialogue><nonSpeech> <font>White.</font> </nonSpeech><dialogue> Upon the Seventh of <font>September</font> I went to see  
+the Prisoner in
+<font>Newgate</font> . He told me Mr. <font>Buckley</font> was to be there with him,   
+and desired me to
+conceal my self in the Room, that I might hear what past, and I did  
+so.
+When Mr. <font>Buckley</font> came he spoke about one <font>Flint</font> ; and         
+afterwards Mr.
+<font>Buckley</font> ask'd him several Questions about Mr. <font>Harvey</font> . He    
+said he knew nothing
+but that he was innocent. Mr. <font>Buckley</font> told him he must swear     
+right or
+wrong for the Government; if he would not, he himself would swear    
+High
+Treason against the Prisoner; for he had taken Money of my Lord
+<font>Townshend</font> , and done nothing for it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you see any Thing of two Warrants    
+Mr. <font>Buckley</font>
+had at that Time?
+   </dialogue><nonSpeech> <font>White.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did Mr. <font>Buckley</font> see you?
+   </dialogue><nonSpeech> <font>White.</font> </nonSpeech><dialogue> No, I conceal'd my self under the Feet of the Bed.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> You say this was the Seventh of        
+<font>September</font> . What Year?
+   </dialogue><nonSpeech> <font>White.</font> </nonSpeech><dialogue> In the Year 1716.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Where was he then?
+   </dialogue><nonSpeech> <font>White.</font> </nonSpeech><dialogue> In <font>Newgate</font> .
+<pagebreak id="52" />
+</dialogue><nonSpeech>Then <font>Mary Meggison</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Do you know of any Offers that were made 
+to the 
+Prisoner, and by whom?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> Upon the Twenty Eighth of <font>September</font> last  
+I was in Mr.
+<font>Francia's</font> Room, and Mr. <font>Buckley</font> came in and told him he      
+should be tryed
+suddenly, and there were a great many Witnesses against him; and he
+would swear against him, because, says he, you have cheated my Master
+of Five Guineas, and won't swear against Mr. <font>Harvey</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Was you in the Room then?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> I sat upon a little Box at the Bed's Feet,    
+and it was so dark
+he could not see me.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> How came you to <font>Newgate</font> .
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> I have been a great many times in <font>Newgate</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> You dwell there sometimes, don't you?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> No, I never did.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Are you a married Woman?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> What is your Husband?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> A Dealer, but he is not in <font>England</font> now.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What Room was I in?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> A little dark Room.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What do they call it?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> The Lions Den.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Every Body knows that Room is a dark Room,    
+that People
+can't easily be seen in it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you hear Mr. <font>Buckley</font> say any     
+thing more?
+   </dialogue><nonSpeech> <font>Meggison.</font> </nonSpeech><dialogue> Nothing, but that he would bring my Lord      
+<font>Townshend</font> into
+Court, on purpose to influence the Jury by his presence.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> As to these two Witnesses, we have       
+several to speak to
+their Reputations; but I believe you have no doubt as to that.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> I dare say no one Person in Court        
+believes a Word they say.
+</dialogue><nonSpeech>Then Mr. <font>Buckley</font> was called again.</nonSpeech>
+   <nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire to know whether you was not with me  
+in the Lions Den.
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> My Lord, the Prisoner sent to me by         
+<font>Revell</font> the Turnkey,
+and desired to speak with me; when I came to him, he spoke to me first
+about <font>Flint</font> , and desired he might be released from his strait   
+Confinement; 
+and then about his own Affairs. He thank'd me for my Humanity in
+coming to talk with him, so we parted immediately. I told my Lord    
+<font>Townshend</font>
+what had past; <font>Flint</font> had the Benefit of it. He had been confined 
+close, but
+<font>Francia</font> speaking on his behalf, he was released from that        
+Confinement; and
+that was the Business I went about. The Room is a little dark Room,  
+but
+if any Body had been at the foot of the Bed, I believe I might have  
+seen
+them.
+   </dialogue><nonSpeech> <font>Lord C. Baron.</font> </nonSpeech><dialogue> Did you say those Words?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> No my Lord, it is impossible I should.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Not impossible surely?
+   </dialogue><nonSpeech>Mr. <font>Buckley.</font> </nonSpeech><dialogue> Yes, impossible, I appeal to my Character:  
+I entirely and
+utterly deny it. I desire that <font>Revell</font> may be called.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We are now in our Evidence.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> If the Prisoner calls a Witness that   
+has been called
+before, and he to make his Evidence entire, appeals to <font>Revell</font> ,  
+we ought to call
+him now, for it would have been improper before.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> If it be nothing but that he was sent    
+for Mr. <font>Buckley</font> ,
+there is no great Harm in it. Otherwise we are in the Course of our
+Evidence.
+<pagebreak id="53" />
+</dialogue><nonSpeech>Then <font>Revel</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Do you know the Occasion of Mr.        
+<font>Buckley's</font> coming
+to <font>Francia</font> in <font>Newgate</font> ; Give an Account of what you know of  
+it.
+   </dialogue><nonSpeech> <font>Revell.</font> </nonSpeech><dialogue> My Lord, Mr. <font>Francia</font> , called to me one     
+Day, and I think it
+was when I was in the Chappel, and told me, I believe I can do a Piece
+of Service to the Government; I believe I can suppress the           
+publishing of the
+<font>Shift shifted</font> , I am sure I can: Pray let me speak with Mr.      
+<font>Buckley</font> . Says I,
+if you would have me, I will go to him, and desire him to come. When
+would you speak with him? At any time, says he; then I believe the
+Morning is the best to meet with him; and the next Morning I went    
+to him.
+   </dialogue><nonSpeech>Sir. <font>J. Jekyll.</font> </nonSpeech><dialogue> Did you tell him the Occasion of         
+<font>Francia's</font> desiring to speak
+with him.
+   </dialogue><nonSpeech> <font>Revell.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> Was you in the Room with them?
+   </dialogue><nonSpeech> <font>Revell.</font> </nonSpeech><dialogue> No, but afterwards he said to me, I think I     
+have done the
+Government some Service, you don't hear it come out as it us'd to do.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I desire to know whether Mr. <font>Buckley</font> was  
+not angry with you
+that you did not stand at the Door.
+   </dialogue><nonSpeech> <font>Revell.</font> </nonSpeech><dialogue> He order'd me to be about the Door, but there   
+came some
+Workmen to survey the Chappel, I was obliged to go with them, and he 
+came
+out and was angry that I was not there; and after that I stood there 
+till they
+had done, but I did not hear what Discourse past.
+</dialogue><nonSpeech>Then the Lord <font>Townshend</font> stood up.</nonSpeech>
+   <nonSpeech>Lord <font>Townshend.</font> </nonSpeech><dialogue> My Lord, Mr. <font>Buckley</font> came to me, and 
+told me of the
+Message he had receiv'd from the Prisoner about the <font>Shift          
+Shifted</font> , a 
+scandalous Paper that was sent about the Kingdom. He ask'd me if he  
+should go:
+I told him I thought it was right to go, but I told him he must be   
+cautious,
+for I did not doubt but that the Prisoner was capable of that        
+Villany I now
+find he is. He came back to me, and told me what he has now said;    
+and I
+believe it to be all that past between them, for I have always found 
+him
+faithful and honest. I thought it was a Service to put a stop to     
+that Paper;
+and I did give some ease to that Man that is named.
+   I am amazed how there can be such Villany as in the Brother. He   
+came
+to the Office two or three Times with Petitions. I never said any    
+thing
+more, than that it was not in my Power to do any thing; that he must
+deal ingenuously, tell all that he knew, and shew that he would      
+speak all 
+the Truth; that that was the Way to recommend him to the King's Mercy;
+that I could not do any thing without it. And I believe the manner I
+treated Mr. <font>Harvey</font> will justifie me, with all that know any      
+thing of it,
+from the Suspicion of such Intentions against him. All that I did    
+was in
+regard to the Prisoners wretched Circumstances, and before Mr.       
+<font>Stanhope</font> ;
+and I never desir'd any thing of him, but to tell the Truth, and the 
+whole
+Truth.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> You told me I should be hang'd, drawn, and    
+quartered; and
+your Lordship told me many a time, Damn you, you Dog, now I have got
+Mr. <font>Harvey</font> in my Clutches, and you will let him go from me. If   
+there
+was no particular Animosity against me, why should I be              
+distinguish'd, for
+none were put in Irons for Treasonable Practices, but me.
+   </dialogue><nonSpeech>Lord <font>Townshend.</font> </nonSpeech><dialogue> I would not take up your Lordship's      
+time, but only to
+say, that the Warrant for Irons, and to be kept without Pen, Ink, and
+Paper, was after that Letter had been deliver'd to me, the Contents  
+of which
+will sufficiently justifie the Precautions used in that Warrant. I   
+was sorry
+to see the ill Use he made of the Liberty that I had before given    
+him, and I
+did issue that Warrant in that manner. Treasonable Practices were    
+then no
+more bailable than Treason; and it's no new thing to fetter          
+State-Prisoners
+under such an Accusation.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> I beg leave to ask your Lordship one Question, 
+whether you
+apprehend that <font>Curtis</font> deserv'd any Credit?
+<pagebreak id="54" />
+   </dialogue><nonSpeech>Lord <font>Townshend.</font> </nonSpeech><dialogue> I can say no more, than that he made     
+some Discoveries,
+and there was no Prosecution against him. I knew nothing of the Man
+before, and I know nothing more of him now.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Did those Informations appear to be true?
+   </dialogue><nonSpeech>Lord <font>Townshend.</font> </nonSpeech><dialogue> A great part did, by the Confession of   
+one of the Persons
+he accused.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> As to the two Women that were examined   
+just now, there
+was a Remark made, that their Testimony was extraordinary; I have    
+five or
+six People to speak to their Reputation, if it sticks with Mr.       
+<font>Attorney</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Perhaps such as themselves; but        
+however call them.
+</dialogue><nonSpeech>Then Mr. <font>Everall</font> was called.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you know of <font>White</font> or         
+<font>Meggison</font> ?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> I know nothing of them.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Do you know where the Prisoner's Foreign       
+Letters used to
+be left?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> His Letter always came to my House.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Was he usually watchful for the coming in of   
+his Letters, as if
+there was any Thing of Concern in them?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> No, they often used to lye some time before he 
+call'd for them.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> How long did they use to lye?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> Sometimes three or four Days.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Were they kept up close till he called for them?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> No, they lay in a publick Room, so that any    
+one might see them.
+</dialogue><nonSpeech>Then Mrs. <font>Everall</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you know of any Letters directed 
+for Mr.
+<font>Francia</font> ; where were they left?
+   </dialogue><nonSpeech>Mrs. <font>Everall.</font> </nonSpeech><dialogue> They used to be brought to our House, and  
+they have lain
+two or three Days together on a publick Table before they have been  
+fetch'd
+away.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> How long ago was that?
+   </dialogue><nonSpeech>Mrs. <font>Everall.</font> </nonSpeech><dialogue> About seven Years ago.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> Have any been directed to your House of late?
+   </dialogue><nonSpeech>Mrs. <font>Everall.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We shall now examine some Witnesses to the     
+Copy-Book, to
+prove that it is not of his Hand-Writing; and I don't doubt but that 
+will have
+its weight.
+   </dialogue><nonSpeech> <font>Lord Chief Baron.</font> </nonSpeech><dialogue> He own'd it to be his Copy-Book of    
+his Letters to his
+Correspondents.
+   </dialogue><nonSpeech>Mr. <font>Cowper.</font> </nonSpeech><dialogue> We lay the stress upon this, that he said it 
+was his Copy-Book
+of his Letters to his Correspondents Abroad.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> But you know Mr. <font>Buckley</font> laid a stress     
+upon its being his
+Hand-Writing.
+</dialogue><nonSpeech>Then one <font>Rafter</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Show him the Copy-Book, look upon it,    
+are you
+acquainted with the Prisoner's Hand-Writing?
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Is any part of that Book his             
+Hand-Writing?
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> No, I take it to be his Son's, <font>George         
+Francia's</font> : The Prisoner writes
+a smaller Hand. I take no part of it to be his Hand so far as I have 
+gone.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I believe it may be of use for all the   
+Witnesses to look it
+over; we have four or five to this Point; and if I am rightly        
+instructed, there
+is not one Word in that Book wrote by the Prisoner.
+   </dialogue><nonSpeech>Mr. Justice <font>Pratt.</font> </nonSpeech><dialogue> If it is not his Writing, whose do    
+you take it to be?
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> I don't take it to be his.
+   </dialogue><nonSpeech>Mr. Justice <font>Pratt.</font> </nonSpeech><dialogue> Whose do you take it to be? Are you   
+acquainted with
+his Son's Hand?
+<pagebreak id="55" />
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> I don't know whether it is his Son's or not.
+   </dialogue><nonSpeech>Mr. Justice <font>Pratt.</font> </nonSpeech><dialogue> Are there any other Persons that      
+write for him?
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> He had sometimes.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Here is a Letter of his own writing;   
+pray let him look on
+that, and see whether that is his Hand; do you believe that to be    
+his writing.
+   </dialogue><nonSpeech> <font>Rafter.</font> </nonSpeech><dialogue> No, I don't think it is.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> <font>Curtis</font> has prov'd that he own'd    
+that Letter.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What Letter did I own?
+</dialogue><nonSpeech>Then <font>Simon Francia</font> was called again.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you say to that Book?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> There is not one Syllable of his Writing in 
+this Book; I have
+known his Hand-Writing about twenty Years.
+</dialogue><nonSpeech>Then <font>Barwell</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Are you acquainted with the Prisoner's   
+Hand-Writing?
+Is any of that Book of his writing?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> None of it is his writing.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Do you know what Condition of Health he  
+was in about
+the latter end of the Year 1714, and 1715?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> He was sick.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> For a Year before he was taken, what     
+Condition was
+he in? Was he able to write Letters?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> He was sick.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did he use to write Letters in that time?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> I don't know.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Whose Hand do you take it to be?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> How do I know that?
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Are you acquainted with his Son's Hand?
+   </dialogue><nonSpeech> <font>Barwell.</font> </nonSpeech><dialogue> No, not at all.
+</dialogue><nonSpeech>Then <font>Simon Francia</font> was called again.</nonSpeech>
+   <nonSpeech>mr. <font>Att. General.</font> </nonSpeech><dialogue> You have look'd upon the Book; whose   
+Hand-Writing do
+you take it to be?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I don't know.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Do you know his Son's Hand-Writing?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I never had any Correspondence, or great    
+Acquaintance with
+him.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Did you ever see him write?
+   </dialogue><nonSpeech> <font>S. Francia.</font> </nonSpeech><dialogue> I don't remember that I did.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We will trouble you with but one piece of      
+Evidence more; we
+will call Dr. <font>Cade</font> , who attended him in his Sickness. We have     
+offer'd
+Evidence, that no part of that Book is his writing; we will now      
+offer some
+Proof that he was not capable of writing at that time.
+</dialogue><nonSpeech>Then Dr. <font>Cade</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Pray Doctor, did you attend the Prisoner as    
+his Physician at
+any time?
+   </dialogue><nonSpeech>Dr. <font>Cade.</font> </nonSpeech><dialogue> My Lord, I was sent for to him on the second   
+Day of 
+<font>November</font> , 1714. I attended him till the 18th of the same Month, 
+and within that
+time I visited him nine Times, I found him in a great deal of Pain,  
+and he
+was lame in his Hand; sometime after my coming he grew better.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Was he confin'd to his Bed?
+   </dialogue><nonSpeech>Dr. <font>Cade.</font> </nonSpeech><dialogue> Sometimes he kept his Bed, and sometimes he    
+sate up.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> You say he was in Pain, and lame in his Hand;  
+which Hand
+was it?
+   </dialogue><nonSpeech>Dr. <font>Cade.</font> </nonSpeech><dialogue> I don't remember which; nor do I know any      
+thing of him,
+only at that time.
+   </dialogue><nonSpeech>Sir <font>J. Jekyll.</font> </nonSpeech><dialogue> Every one of the Letters were wrote after 
+that time.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What Condition did you leave me in?
+   </dialogue><nonSpeech>Dr. <font>Cade.</font> </nonSpeech><dialogue> In a very bad Condition.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you not hear of the Condition I was in    
+afterwards?
+   </dialogue><nonSpeech>Dr. <font>Cade.</font> </nonSpeech><dialogue> I don't remember that I heard any Thing of you 
+after that.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> We will call a few Witnesses to prove what     
+Circumstances
+he was in, and that he was well affected to the Government.
+<pagebreak id="56" />
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> By my Instructions he appears to be a    
+Foreigner, and so
+disinterested in those unfortunate Divisions that are among us: And
+accordingly there is nothing of Whig or Tory in his Letters.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> Don't you remember when he came to     
+<font>Newgate</font> he
+wrote he liked his Company, for he found them all Tories.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> We shall show you that he was zealous    
+for the Good of
+the Kingdom, and was against all that was disadvantageous to Trade   
+in the
+late Treaty of Peace. That he never went into any publick Places,    
+except
+to the <font>Grecian</font> Coffee-house, which is a Place sure not tainted   
+with Sedition.
+</dialogue><nonSpeech>Then Mr. <font>Everall</font> was called again.</nonSpeech>
+   <nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> How long have you known the Prisoner?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> Several Years.
+   </dialogue><nonSpeech>Mr. <font>Ward.</font> </nonSpeech><dialogue> Has he been peaceable, and easy in his         
+Conversation, with
+Respect to the Government?
+   </dialogue><nonSpeech> <font>Everall.</font> </nonSpeech><dialogue> I remember at the proclaiming the Peace he     
+said, he thought
+the Nation was ruin'd, for he thought it a scandalous Peace.
+   </dialogue><nonSpeech>Mr. <font>Att. General.</font> </nonSpeech><dialogue> That is much; for you make him a       
+<font>Frenchman</font> , sure
+he might have approved it.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> This is not what I have in my Brief, but 
+perhaps he
+may recommend himself to your Esteem by it: He doth not to mine.
+    My Lord, I will take up your Time only with this Remark: The great
+Foundation of this Evidence is the Confession made by the Man himself.
+Without the Key made by him, this had been applicable to no Body. I
+remember Sir <font>Joseph Jekyll</font> was pleas'd to say, he would not      
+excite the
+Passions of the Jury, but rather appeal to their Judgments, so will  
+I. Great
+Part of this Correspondence <comment type="compiler">SOURCE TEXT: Correspendence</comment> relates  
+to Mr. <font>Harvey</font> , and one would have
+thought they had something extraordinary to have charged on him, 
+considering the Length of his Restraint; but I need not observe to   
+the Jury
+that he is at large. He was under Restraint, nothing could be        
+imputed to
+him, and he is discharged.
+   </dialogue><nonSpeech> <font>Lord C. Baron.</font> </nonSpeech><dialogue> <font>Francia</font> , Have you any Thing more to 
+say?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> As for my Nativity I have more Witnesses. I   
+have more
+Witnesses as to my Character. I have more Witnesses to prove that I  
+was a
+quiet Man, and never disaffected to the Government.
+</dialogue><nonSpeech>Then Mr. <font>John Slater</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you know of the Prisoner's       
+Behaviour?
+   </dialogue><nonSpeech>Mr. <font>Slater.</font> </nonSpeech><dialogue> I have known him about four or five Years.   
+There being a
+Commission of Bankrupcy against him, I was recommended to assist him
+in that Commission. I did give him the best Assistance I could, and I
+several Times met him, sometimes at the <font>Grecian</font> Coffee-house,    
+and sometimes
+at my own House. I took him for a <font>Frenchman</font> , he used very much  
+to espouse
+the Interest of the King of <font>France</font> , which I used to chide him   
+for. As for
+Parties here, I had some Discourse with him, and he used to think we 
+were
+a strange People to fall out among our selves.
+</dialogue><nonSpeech>Then <font>Thomas Richardson</font> was sworn.</nonSpeech>
+   <nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What do you know of the Prisoner and his 
+Behaviour?
+   </dialogue><nonSpeech> <font>Richardson.</font> </nonSpeech><dialogue> I have known him five or six Years, and I   
+believe I have taken
+five or six Pounds of his Money. When he was sick he took a Liking to
+me, and would not be quiet unless I came often to see him, and I used
+often to sit with him in the Evening and bear him Company, and it    
+was a great
+Surprize to me when I heard he was taken up, for he used often to    
+drink a
+Health to King <font>George</font> , and hoped he should get up to see him,   
+and hoped
+this would be a quiet Nation again. He was then so weak that he could
+not stir Hand or Foot. But he used to call me <font>Vulcan</font> , and bid   
+me drink
+King <font>George's</font> Health.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> How long is it since he was so weak that 
+he could not
+stir Hand or Foot.
+   </dialogue><nonSpeech> <font>Richardson.</font> </nonSpeech><dialogue> About a Year and five or six Months. And    
+when he got
+abroad, I then was forced to follow him for what he owed me, and I   
+have
+gone after him several Times to the <font>Grecian</font> Coffee-house.
+   </dialogue><nonSpeech> <font>Lord C. Baron.</font> </nonSpeech><dialogue> Have you any Thing more to offer.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> No. 
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

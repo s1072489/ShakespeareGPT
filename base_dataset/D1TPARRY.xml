@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1TPARRY">
+  <dialogueHeader>
+
+    <filename>D1TPARRY</filename>
+
+    <identifier>1 TRIAL D1TPARRY</identifier>
+
+    <title>WILLIAM PARRY</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1584/1585</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A TRVE AND PLAINE DECLARATION OF THE HORRIBLE TREASONS, 
+PRACTISED BY WILLIAM PARRY THE TRAITOR, AGAINST THE QUEENES MAIESTIE. 
+THE MANER OF HIS ARRAIGNMENT, CONUICTION AND EXECUTION, TOGETHER WITH
+THE COPIES OF SUNDRY LETTERS OF HIS AND OTHERS, TENDING TO DIUERS 
+PURPOSES, FOR THE PROOFES OF HIS TREASONS. 
+(...)
+AT LONDON BY C. B. CUM PRIUILEGIO.
+(1585)
+PP. 27.1 - 37.1
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="27" />
+ <head>THE MANER OF THE ARRAIGNEMENT OF <font>WILLIAM PARRIE</font> THE
+XXV. OF FEBRUARIE, 1584. AT WESTMINSTER, IN THE PLACE 
+WHERE THE COURTE COMMONLY CALLED THE KINGS BENCH,
+IS VSUALLY KEPT BY VERTUE OF HER MAIESTIES COMMISSION
+OF OYER &amp; TERMINER, BEFORE <font>HENRIE L. HUNSDON</font>
+GOUERNOUR OF BARWICKE, <font>SIR FRANCIS KNOLLES</font> KNIGHT, 
+TREASORER OF THE QUEENES MAIESTIES HOUSHOLDE, <font>SIR IAMES
+CROFT</font> KNIGHT, COMPTROLLER OF THE SAME HOUSHOLD, <font>SIR
+CHRISTOPHER HATTON</font> KNIGHT, VICECHAMBERLAINE TO HER
+MAIESTIE, <font>SIR CHRISTOPHER WRAY</font> KNIGHT, CHIEFE IUSTICE
+OF ENGLANDE, <font>SIR GILBERTE GERRARD</font> KNIGHT, MASTER
+OF THE ROLLES, <font>SIR EDMUND ANDERSON</font> KNIGHT, CHIEFE
+IUSTICE OF THE COMMON PLEES, <font>SIR ROGER MANWOOD</font>
+KNIGHT, CHIEFE BARRON OF THE ESCHEQUER, AND <font>SIR
+THOMAS HENNAGE</font> KNIGHT, TREASORER OF THE CHAMBER.</head> 
+
+<nonSpeech>First, three Proclamations for
+silence were made according to
+the vsuall course in such cases.
+Then the Lieutenant was
+commaunded to returne his precept,
+which did so, and brought the
+prysoner to the Barre, to whom
+<font>Miles Sandes</font> Esquire, Clerke
+of the Crowne sayde,</nonSpeech><dialogue> <font>William
+Parrie</font> , hold vp thy hand, </dialogue><nonSpeech>and he did so. Then said y=e= Clerke
+of the crowne,</nonSpeech><dialogue> Thou art here indicted by the othes of xii.
+good and lawful men of the Countie of Middlesex, before
+<font>Sir Christopher Wray</font> Knight, and others which tooke the
+Indictment by the name of <font>William Parry</font> late of
+London Gentleman, otherwise called <font>William Parry</font> , late of
+London Doctor of the lawe, for y=t= thou as a false traitor
+against the most noble and Christian Prince, Queene
+Elizabeth thy most gracious Soueraigne and liege
+Ladie, not hauing the feare of God before thine eyes, nor
+regarding thy due allegiance, but being seduced by the
+<pagebreak id="28" />
+instigation of the deuill, and intending to withdrawe and
+extinguish the heartie loue and due obedience, which true
+and faithfull Subiectes shoulde heare vnto the same our
+Soueraigne Ladie, diddest at Westminster in the
+Countie of Middlesex on the first day of Februarie, in the xxvi.
+yeere of her Highnesse raigne, and at diuers other times
+and places in the same Countie, maliciously, and
+trayterously conspire and compasse, not onely to depriue and
+depose the same our Soueraigne Ladie of her Royall
+estate, title and dignitie, but also to bring her highnesse to
+death and finall destruction, and sedition in the Realme
+to make, and the gouernement thereof to subuert, and the
+sincere religion of God established in her highnesse
+dominions to alter &amp; subuert. And that, whereas thou <font>William
+Parry</font> , by thy letters sent vnto <font>Gregorie</font> Bishoppe of
+Rome, diddest signifie vnto the the same Bishoppe thy
+purposes and intentions aforesayde, and thereby diddest pray
+and require the same Bishoppe to giue thee absolution,
+that thou afterwards, that is to say, the last day of March
+in the xxvi. yeere aforesayde, diddest trayterously receiue
+letters fro~ one called <font>Cardinall de Como</font> , directed vnto thee
+<font>William Parry</font> , whereby the same Cardinall did signifie
+vnto thee, that the Bishoppe of Rome had perused thy
+letters, and allowed of thine intent, and that to that ende
+hee had absolued thee of all thy sinnes, and by the same
+letter did animate and stirre thee to proceede with thine
+enterprise, and that thereupon, thou, the last day of August
+in the xxvi. yeere aforesaide, at Saint Giles in the fieldes,
+in y=e= same Countie of Middlesex, diddest trayterously
+conferre with one <font>Edmunde Neuill</font> Esquire, vttering to him
+all thy wicked and trayterous deuises, and then and there
+diddest moue him to assist thee therin, &amp; to ioyne with thee
+in those wicked treasons aforesayd, against y=e= peace of our
+sayd Soueraigne Ladie the Queene, her Crowne &amp;
+dignity: What sayest thou <font>William Parry</font> , art thou guilty of
+these treasons whereof thou standest here indicted, or not
+<pagebreak id="29" />
+guiltie?
+   </dialogue><nonSpeech>Then <font>Parry</font> sayde,</nonSpeech><dialogue> Before I pleade not guiltie, or
+confesse my selfe guiltie, I pray you giue me leaue to speake
+a fewe words: </dialogue><nonSpeech>and with humbling himselfe, began in this
+maner.</nonSpeech><dialogue> God saue the Queene Elizabeth, and God sende mee
+grace to discharge my duetie to her, and send you home
+in charitie. But touching the matters that I am indicted
+of, some were in one place, and some in another, and done
+so secretely, as none can see into them, except y=t= they had
+eyes like vnto God, wherefore I will not lay my blood
+vpon the Jurie, but doe minde to confesse the indictment.
+It containeth but the parts that haue bene openly redde,
+I pray you tel me? </dialogue><nonSpeech>Whereunto it was answered, that the
+Indictment conteined the partes he had heard redde, and
+no other: whereupon the Clarke of the Crowne saide
+vnto <font>Parry</font> ,</nonSpeech><dialogue> <font>Parry</font> , thou must answere directly to the
+indictment, whether thou be guiltie or not.
+   </dialogue><nonSpeech>Then sayde <font>Parry</font> ,</nonSpeech><dialogue> I doe confesse that I am guiltie
+of al that is therein co~tained: And further too, I desire not
+life, but desire to die. </dialogue><nonSpeech>Unto which the clarke of y=e= Crowne
+sayd,</nonSpeech><dialogue> If you confesse it, you must confesse it in maner and
+fourme as it is comprised in the Indictment. </dialogue><nonSpeech>Whereunto
+he sayd,</nonSpeech><dialogue> I doe confesse it in maner and fourme as the same
+is set downe, and all the circumstances thereof. </dialogue><nonSpeech>Then the
+confession being recorded, the Queenes learned counsel
+being readie to pray iudgement vpon the same confession,
+Master Uicechamberlaine sayde,</nonSpeech><dialogue> These matters
+contained in this indictment, and confessed by this man, are of
+great importance: they touch the person of the Queenes
+most excellent Maiestie in the highest degree, the very
+state and weldoing of the whole common wealth, and the
+trueth of Gods worde established in these her Maiesties
+dominions, and the open demonstration of that
+capitall enuie of the man of Rome, that hath set him selfe
+against God and all godlinesse, all good Princes and good
+gouernment, and against good men. Wherefore, I pray
+<pagebreak id="30" />
+you, for the satisfaction of this great multitude, let the
+whole matter appeare, that euery one may see that the
+matter of it selfe is as bad as y=e= indictment purposeth, &amp;
+as he hath confessed. Wherto in respect y=t= the Justice of y=e=
+Realme hath bin of late very impude~tly slau~dered, al
+yeelded as a thing necessarie to satisfie the world in particular,
+of y=t= which was but summarily comprised in y=e= indictme~t,
+though in the lawe, his confession serued sufficiently to
+haue proceeded thereupon vnto iudgement. </dialogue><nonSpeech>Whereupon
+the Lordes and others the Commissioners, her Maiesties
+learned Counsel, and <font>Parry</font> him self agreed, that <font>Parrys</font>
+confession (taken the xi. and xiii. of Februarie 1584.
+before the Lord of <font>Hunsdon</font> , master Uicechamberlaine, and
+master Secretarie,) and Cardinall <font>de Como</font> his letters,
+and <font>Parrys</font> letters to the Lord Treasourer and Lorde
+Stewarde, should be openly read.
+   And <font>Parry</font> , for the better satisfying of the people and
+standers by, offered to reade them him selfe: but being
+tolde that the order was, the Clerke of the Crowne should
+reade them, it was so resolued of all partes. And then
+master Uicechamberlaine caused to be shewed to <font>Parry</font>
+his sayde confession, the Cardinals letter, and his owne
+letter aforesayde, which after hee had particularly viewed
+euery leafe thereof, he confessed, and sayde openly they
+were the same.
+   Then sayde master Uicechamberlaine,</nonSpeech><dialogue> Before we
+proceede to shewe what he hath confessed, what say you, </dialogue><nonSpeech>sayd
+he to <font>Parry</font> ,</nonSpeech><dialogue> is that which you haue confessed here true,
+and did you confesse it freely and willingly of your selfe,
+or was then any extort meanes vsed to drawe it from
+you?
+   Surely </dialogue><nonSpeech>sayde <font>Parry</font> ,</nonSpeech><dialogue> I made that confession freely
+without any constraint, and that is all true, and more too:
+for there is no treason that hath bene sithens the first yeere
+of the Queene any way touching religion, sauing receipt
+of <font> <foreign>Agnus dei</foreign> </font> , and perswading of others, wherein I haue
+<pagebreak id="31" />
+not much dealt, but I haue offended in it. And I haue
+also deliuered mine opinion in writing, who ought to bee
+successor to the crowne, </dialogue><nonSpeech>which he sayde to be treason also.
+   Then his confession of the eleuenth and thirteenth of
+Februarie, all of his owne hand writing, &amp; before
+particularly sette downe, was openly, and distinctly red by the
+Clarke of the crowne. And y=t= done, y=e= Cardinall <font>de Como</font>
+his letter in Italian was deliuered vnto <font>Parrys</font> hande, by
+the direction of Master Uicechamberlayne, which <font>Parry</font>
+there perused, and openly affirmed to bee wholy of y=e=
+Cardinals owne hand writing, and the seale to bee his owne
+also, and to bee with a Cardinals hat on it: And himselfe
+did openly read it in Italian, as before is set downe. And
+the wordes bearing sence as it were written to a Bishop
+or to a man of such degree, it was demaunded of him by
+Master Uicechamberlayne, whether he had not taken the
+degree of a Bishoppe: He said,</nonSpeech><dialogue> No: </dialogue><nonSpeech>But said at first, those
+termes were proper to the degree hee had taken: and
+after saide that the Cardinall did vouchsafe as of a fauour
+to write so to him. Then the coppie of that letter in
+English as before is also set downe, was in like maner openly
+red by the Clarke of the Crowne, which <font>Parry</font> then
+acknowledged to be truely translated.
+   And thereupon was shewed vnto <font>Parry</font> his letter of y=e=
+xviii. of Februarie, written to the Lord Treasorer, and the
+Lord Steward: which he confessed to bee all of his owne
+hand writing and was as before is set downe.
+   These matters being redde openly for manifestation
+of the matter, <font>Parry</font> prayed leaue to speake: whereto
+Master Uicechamberlayne sayde,</nonSpeech><dialogue> If you will say any thing
+for the better opening to the worlde of those your foule &amp;
+horrible facts, speake on: but if you meane to make any
+excuse of that which you haue confessed, which els would
+haue bene and do stand proued against you, for my part, I
+will not sit to heare you.
+   </dialogue><nonSpeech>Then her Maiesties Attourney general stood vp &amp; said,</nonSpeech><dialogue>
+<pagebreak id="32" />
+It appeareth before you my Lords, y=t= this man hath bene
+indicted &amp; arraigned of seuerall most haynous and
+horrible treasons, and hath confessed them, which is before you
+of recorde: wherefore there resteth no more to be done, but
+for the Court to giue iudgement accordingly, which here
+I require in the behalfe of the Queenes Maiestie.
+   </dialogue><nonSpeech>Then said <font>Parry</font> ,</nonSpeech><dialogue> I pray you heare me for discharging
+of my conscience. I will not goe about to excuse my selfe,
+not to seeke to saue my life, I care not for it, you haue my
+confession of recorde, that is enough for my life: And I
+meane to vtter more, for which I were worthie to die. </dialogue><nonSpeech>And
+sayde,</nonSpeech><dialogue> I pray you heere mee, in that I am to speake to
+discharge my conscience.
+   </dialogue><nonSpeech>Then said Master Uicechamberlayne,</nonSpeech><dialogue> <font>Parry</font> , then doe
+thy duetie according to conscience, and vtter all that thou
+canst say concerning those thy most wicked facts.
+   </dialogue><nonSpeech>Then said <font>Parry</font> ,</nonSpeech><dialogue> My cause is rare, singular &amp;
+vnnaturall, conceyued at <font>Venice</font> , presented in generall wordes
+to the Pope, vndertaken at <font>Paris</font> , commended &amp; allowed
+of by his Holines, and was to haue bene executed in
+England, if it had not bene preuented. Yea, I haue committed
+many treasons, for I haue committed treason in being
+reconciled, and treason in taking absolution. There hath
+bene no Treason sithens the first yeere of the Queenes
+reigne touching religion, but that I am guiltie of (except
+for receiuing of <font> <foreign>Agnus Dei</foreign> </font> , and perswading as I haue
+said:) And yet neuer intended to kil Queene <font>Elizabeth</font> . I
+appeale to her owne knowledge and to my Lorde
+Treasorers and Master Secretaries.
+   </dialogue><nonSpeech>Then said my Lord <font>Hunsdon</font> ,</nonSpeech><dialogue> Hast thou acknowledged
+it so often, and so plainly in writing vnder thy hande, and
+heere of recorde: and nowe, when thou shouldest haue thy
+iudgement according to that which thou hast confessed
+thy selfe guiltie of, doest thou goe backe againe, and deny
+the effect of all? Howe can wee beleeue that thou nowe
+sayest?
+<pagebreak id="33" />
+   </dialogue><nonSpeech>Then said Master Vicechamberlaine,</nonSpeech><dialogue> This is absurd.
+Thou hast not onely confessed generally, that thou wert
+guilty according to the inditeme~t, which summarily, and
+yet in expresse woordes doeth conteyne that thou haddest
+trayterously compassed &amp; intended the death and
+destruction of her Maiestie: but thou also saydest particularly
+that thou wert guilty of euery of the Treasons conteined
+therein, whereof the same was one in playne and expresse
+letter set downe, and red vnto thee. Yea, thou saydest that
+thou wert guilty of moe Treasons too besides these. And
+diddest thou not vpon thy examination voluntaryly 
+confesse, howe thou wast moued first thereunto by mislike of
+thy state after thy departure out of the Realme, And that
+thou diddest mislike her Maiestie for that shee had done
+nothing for thee, Howe by wicked Papistes and Popish
+bookes, thou wert perswaded that it was lawfull to kill
+her Maiestie, Howe thou wert by reconciliation become
+one of that wicked sort, that helde her Maiestie for
+neyther lawfull Queene, nor Christian, And y=t= it was
+meritorious to kill her? And diddest thou not signifie that thy
+purpose to the Pope by letters, and receiuedst letters fro~
+the Cardinall, howe he allowed of thyne intent, &amp; excited
+thee to perfourme it, and thereupon diddest receiue
+absolution? And diddest thou not conceyue it, promise it, vow
+it, sweare it, and receyue the Sacrament that thou 
+wouldest doe it? And diddest not thou thereupon affirme, that
+thy vowes were in heauen, and thy letters and promyses 
+on earth to bynde thee to doe it? And that whatsoeuer her
+Maiestie would haue done for thee, coulde not haue 
+remoued thee from that intention or purpose, vnlesse she would
+haue desisted from dealing as shee hath done with the
+Catholiques, as thou callest them? All this thou hast plainely
+confessed: and I protest before this great assembly, thou
+hast confessed it more playnely and in better sort, then my
+memory will serue me to vtter: And sayest thou now, that
+thou neuer mentest it?
+<pagebreak id="34" />
+   Ah </dialogue><nonSpeech>sayde <font>Parry</font> ,</nonSpeech><dialogue> your honours knowe, howe my
+Confession vpon myne examination was extorted.
+   </dialogue><nonSpeech>Then both the Lord <font>Hunsdon</font> and Master
+Uicechamberlayne affirmed, that there was no torture or threatning
+wordes offered him.
+   But <font>Parry</font> then sayde, that they tolde him, that if hee
+would not confesse willingly, he should haue torture:
+wherunto their honours answered, that they vsed not any spech
+or worde of torture to him.</nonSpeech><dialogue>
+   You sayde, </dialogue><nonSpeech>sayd <font>Parry</font> ,</nonSpeech><dialogue> that you would proceede with
+rigour against me, if I would not confesse it of my selfe.
+   </dialogue><nonSpeech>But their honours expresly affirmed, that they vsed no
+such words.</nonSpeech><dialogue> But I will tell thee, </dialogue><nonSpeech>sayd Master
+Uicechamberlayne,</nonSpeech><dialogue> what we saide. I spake these words, If you will
+willingly vtter the truth of your selfe, it may do you good,
+and I wish you to doe so: If you will not, wee must then
+proceede in ordinary course to take your examination.
+Whereunto you answered, that you would tell the trueth
+of your selfe. Was not this true? </dialogue><nonSpeech>which then hee yeelded
+vnto.
+   And hereunto, her Maiesties Attourney generall put
+<font>Parry</font> in remembraunce what speeches hee vsed to the
+Lieutenant of the Tower, the Queenes Maiesties
+Seriant at Lawe, Master <font>Gaudie</font> , and the same Attourney
+on Satterday y=e= twentieth of February last, at y=e= Tower,
+vpon that hee was by them then examined by order from
+y=e= Lords: which was, that he acknowledged he was most
+myldely and fauourably dealt with, in all his
+examinations, which he also at the Barre then acknowledged to be
+true.
+   Then Master Uicechamberlayne sayde, that</nonSpeech><dialogue> it was
+wonder to see the magnanymitie of her Maiestie, which
+after that thou haddest opened those trayterous practises
+in sort as thou hast layd it downe in thy confession, was
+neuerthelesse such, and so farre from all feare, as that shee
+woulde not so much as acquaint any one of her highnes
+<pagebreak id="35" />
+priuie Counsel with it, to his knowledge, no not vntil
+after this thine enterprise discouered &amp; made manifest. And 
+besides that which thou hast set downe vnder thine owne
+hande, thou diddest confesse, that thou haddest prepared
+two Scottish Daggers, fit for such a purpose: and those
+being disposed away by thee, thou diddest say that an
+other would serue thy turne. And with all, <font>Parry</font> , diddest
+thou not also confesse before vs howe wonderfully thou
+wert appauled and perplexed vpon a suddaine at the
+presence of her Maiestie at Hampton Court this last
+Sommer, saying that thou diddest thinke thou then sawest in
+her, the very likenes &amp; image of king Henry the seuenth?
+And that therewith, and vpon some speeches vsed by her
+Maiestie, thou diddest turne about and weepe bitterly to
+thy selfe? And yet diddest call to mynde that thy vowes
+were in heauen, thy letters and promises on earth, and
+that therefore thou diddest say with thy selfe, that there
+was no remedy but to do it? diddest thou not confesse this?
+</dialogue><nonSpeech>the which he acknowledged.
+   Then saide the lorde <font>Hunsdon</font> ,</nonSpeech><dialogue> Sayest thou nowe, that
+thou diddest neuer meane to kill the Queene? diddest thou
+not confesse, that when thou diddest vtter this practise of
+trecherie to her Maiestie, that thou diddest couer it with al
+the skill thou haddest, and that it was done by thee, rather
+to get credite and accesse thereby, then for any regard thou
+haddest of her person? but in trueth thou diddest it, that
+thereby thou mightest haue better oportunitie to performe
+thy wicked enterprise. And wouldest thou haue runne into
+such feare as thou diddest confesse that thou wert in, when
+thou diddest vtter it, if thou haddest neuer meant it? what
+reason canst thou shewe for my thy selfe? </dialogue><nonSpeech>With that he cryed
+out in a furious maner,</nonSpeech><dialogue> I neuer meant to kill her: I will
+lay my blood vpon Queene <font>Elizabeth</font> and you, before God
+and the worlde: </dialogue><nonSpeech>and thereupon fell into a rage and euill
+wordes with the Queenes Maiesties Attourney generall.
+   Then said the lord <font>Hunsdon</font> ,</nonSpeech><dialogue> This is but thy popish pride
+<pagebreak id="36" />
+and ostentation, which thou wouldest haue to be told to thy
+fellowes of that faction, to make them belieue that thou
+diest for poperie, when thou diest for most horrible and
+dangerous treasons against her Maiestie, and thy whole
+countrey. For thy laying of thy blood, it must lye on thine owne
+head, as a iust reward of thy wickednesse. The lawes of the
+Realme most iustly condemne thee to die out of thine
+owne mouth, for the conspiring the destruction both of her
+Maiestie, and of vs all: therefore thy blood be vpon thee,
+neither her Maiestie, nor we at any time sought it, thy selfe
+hast spilt it.
+   </dialogue><nonSpeech>Then he was asked what he coulde say, why iudgeme~t
+of death ought not to be awarded against him.
+   Whereto he said, he did see that he must die, because he
+was not setled.</nonSpeech><dialogue>
+   What meanest thou by that, </dialogue><nonSpeech>said master
+Uicechamberlaine.</nonSpeech> <nonSpeech>Said he,</nonSpeech><dialogue> looke into your studie, and into    
+your newe
+bookes, and you shall finde what I meane.
+   I protest </dialogue><nonSpeech> (said his honour) </nonSpeech><dialogue> I knowe not what thou
+meanest: thou doest not well to vse such darke speaches,
+vnlesse thou wouldest plainely vtter what thou meanest
+thereby. </dialogue><nonSpeech>But he saide, he cared not for death, and that hee
+would laye his blood amongst them.</nonSpeech>
+   <nonSpeech>Then spake the lorde chiefe Justice of England, being
+required to giue the iudgement, and saide,</nonSpeech><dialogue> <font>Parry</font> , you haue
+bene much heard, and what you meane by being setled, I
+knowe not, but I see you are so setled in poperie, that you
+cannot settle your selfe to be a good subiect. But touching
+that you should say to stay iudgement from being giuen
+against you, your speaches must be of one of these kindes,
+either to proue the Inditement (which you haue confessed
+to be true) to be insufficient in lawe, or els to pleade
+somewhat touching her Maiesties mercie, why Justice should
+not be done of you. All other speaches wherein you haue
+vsed great libertie, is more then by lawe you can aske.
+These be the matters you must looke to, what say you to
+<pagebreak id="37" />
+them? </dialogue><nonSpeech>whereto he said nothing.</nonSpeech><dialogue>
+<comment type="compiler">THE FINAL, LONG SPEECH, THAT OF LORD CHIEF JUSTICE (ENDING IN 
+SENTENCE OF DEATH) OMITTED.</comment>
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

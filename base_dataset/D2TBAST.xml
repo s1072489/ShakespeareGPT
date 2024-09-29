@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2TBAST">
+  <dialogueHeader>
+
+    <filename>D2TBAST</filename>
+
+    <identifier>2 TRIAL D2TBAST</identifier>
+
+    <title>DR. BASTWICKE</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1637/1638</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A BREIFE RELATION OF CERTAINE SPECIALL, AND MOST MATERIALL
+PASSAGES, AND SPEECHES IN THE STARRE-CHAMBER, OCCASIONED AND DELIVERED
+IUNE THE 14TH. 1637. AT THE CENSURE OF THOSE THREE WORTHY GENTLEMEN, 
+DR. BASTWICKE, MR. BURTON, AND MR. PRYNNE, AS IT HATH BEENE TRUELY AND
+FAITHFULLY GATHERED FROM THEIR OWNE MOUTHES BY ONE PRESENT AT THE SAID 
+CENSURE. 
+(AMSTERDAM: RICHT RIGHT PRESS).
+PRINTED IN THE YEARE 1638.
+PP. 3.7 - 14.30
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SPEAKER IDENTIFICATION GIVEN IN MARGIN IN SOURCE TEXT.</comment>
+
+<pagebreak id="3" />
+</dialogue><nonSpeech>Betweene eight and nine a clocke in the
+morning (the 14. of Iune) the Lords being sett in 
+their places in the said Court of 
+Starre-chamber, and casting their eyes upon the Prisoners,
+then at the Barr, S. Iohn Finch (chiefe Justice
+of the Common Pleas) began to speake after
+this manner.</nonSpeech>
+   <nonSpeech> <font>Sr. John Finch.</font> </nonSpeech><dialogue> I had thought Mr. Prynne had had no     
+eares, but me thinkes hee
+hath eares; </dialogue><nonSpeech>which caused many of the Lords to take the stricter 
+view of him; and for their better satisfaction, the Usher of the 
+Court was commaunded to turne up his haire, and shew his eares: 
+Upon the sight whereof the Lords were displeased they had beene
+formerly no more cutt off; and cast out some disgracefull words of 
+him.</nonSpeech>
+   <nonSpeech> <font>M. Pryn.</font> </nonSpeech> <nonSpeech>To which Mr. Prynne replied;</nonSpeech><dialogue> My Lords,     
+there is never a one of 
+your Honours, but would be sorry to have your eares as mine 
+are.
+<pagebreak id="4" />
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech> <nonSpeech>The Lord Keeper replied againe;</nonSpeech><dialogue> In good   
+faith hee is somewhat 
+sawcy.
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> J hope </dialogue><nonSpeech> (said Mr. Prynne) </nonSpeech><dialogue> your Honours    
+will not be offended, I
+pray God give you eares to heare.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> The busines of the day </dialogue><nonSpeech> (said the Lord      
+Keeper) </nonSpeech><dialogue> is to proceed 
+on the Prisoners at the Barr.
+   </dialogue><nonSpeech>M. <font>Pryn.</font> </nonSpeech> <nonSpeech>Mr. Prynne then humbly desired the Court to    
+give him leave to 
+make a motion or two, which being graunted, he mooves.
+   First, that their Honours would be pleased to accept of a crosse 
+Bill against the Prelates, signed with their owne hands, being that
+which stands with the Iustice of the Court, which he humbly 
+craved, and so tendred it.</nonSpeech>
+   <nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> As for your crosse Bill, it is not the        
+busines of the day; Hereafter 
+if the Court shall see just cause, and that it favours not of        
+Libelling,
+wee may accept of it; for my part I have not seene it, but have 
+heard somewhat of it.
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> I hope your Honours will not refuse it, being   
+it is on his 
+Majesties behalfe; wee are his Majesties Subjects, and therefore     
+require 
+the Iustice of the Court.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> But this is not the busines of the day.
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> VVhy then, My Lords, I have a second motion,   
+which I humbly 
+pray your Honours to graunt; which is, That your Lordships will 
+be pleased to dismisse the Prelates, here now sitting from having 
+any voyce in the censure of this cause, (being generally knowne 
+to be Adversaries) as being no way agreeable with equity or 
+reason, that they who are our Adversaries, should bee our Iudges: 
+Therefore wee humbly crave they may be expunged out of the 
+Court.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> In good faith its a sweet motion, is't not?   
+Herein you are 
+become Libellous. And if you should thus Libell all the Lords and
+Reverend Iudges, as you doe the most Reverend Prelates, by this 
+your Plea, you would have none to passe sentence upon you for 
+your Libelling, because they are parties.
+   </dialogue><nonSpeech>Mr. <font>Pryn.</font> </nonSpeech><dialogue> Under correction (My Lord) this doth not hold; 
+Your Honour 
+need not putt that for a certainty, which is an uncertainty; we have
+nothing to say to any of your Honours, but onely to the
+Prelates.
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Well, proceed to the busines of the day; Read 
+the Information.
+</dialogue><nonSpeech>Which was read, being very large; and these five Bookes annexed
+thereunto (viz.) a Booke of Dr. Bastwicks written in Latin.
+   The second, a little Booke, intituled, Newes from Ipswich. The
+third intitled, A Divine Tragedy, recording Gods fearefull
+judgements on Sabbath breakers. The fourth Mr. Burtons Booke,
+intituled, An Apology of an Appeale to the Kings most Excellent
+Majesty, with two Sermons for God and the King, preached on the fifth
+of November last. The fifth and last Dr. Bastwickes Letany.
+   The Kings Counsell (being five) tooke each of them a severall
+Booke, and descanted there at the Barre upon them according
+to their pleasure.</nonSpeech><dialogue>
+<comment type="compiler">THE COMMENTS ON THE BOOKS BY THE FIVE MEMBERS OF THE KING'S COUNCIL 
+OMITTED.</comment>
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Lord Keeper.</font> </nonSpeech><dialogue> You heare Gentlemen wherewith you are      
+charged; and now,
+least you should say, you cannot have liberty to speake for your
+selves, the Court gives you leave to speake what you can, with
+these conditions:
+   First, that you speake within the bounds of modesty.
+   Secondly, that your speeches be not Libellous.
+   </dialogue><nonSpeech>Prisoners.</nonSpeech> <nonSpeech>They all three answered, they hoped so to order  
+their speech as
+to be free from any immodest or Libellous speaking.</nonSpeech>
+   <nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Then speake a Gods name, and shew cause why   
+the Court should
+not proceed in Censure (as taking the cause <font> <foreign>pro confesso</foreign> </font> ) 
+against you.
+<pagebreak id="7" />
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> My Honourable good Lords, such a day of the    
+moneth there came
+a Subpoena from your Honours, to enter my appearance in this
+Court; which being entred, I tooke forth a coppy of the
+Information, which being taken, J was to draw my Answer, which I
+endeavoured to doe, but being shutt up close prisoner, I was deserted
+of all meanes, by which I should have done it; for I was no sooner
+served with the Subpoena, but I was shortly after shutt up close
+prisoner, with suspention of pen, inke and paper; which close
+imprisonment did eate up such a deale of my time, that I was hindred
+the bringing in of my Answer: You did assigne me Counsell, 'tis
+true, but they neglected to come to me, and I could not come to
+them, being under lock and key: Then upon motion in Court, yee
+gave me liberty to goe to them; but then presently after that
+motion (J know not for what cause, nor upon whose commaund) I
+was shutt up againe: And then I could not compell my Counsell
+to come to me, and my time was short, and I had neither pen nor
+inke, nor Servant to do any thing for me, for my Servant was then
+also kept close prisoner under a Pursevants hands; This was to put
+impossibilities upon mee. Then upon a second motion for pen and
+inke (which was graunted me) I drew up some Instructions, and
+in a fortnight time sent 40 sheetes to my Counsell; suddainly after
+I drew up 40 sheetes more, and sent to them; My Lord, I did
+nothing but by the advise of my Counsell, by whom I was ruled in the
+drawing up of all my answer, and payd him twice for drawing it,
+and some of my Counsell would have set their hands to it. Here is
+my Answer, I tender it upon my oath, which your Lordships
+cannot deny with the Iustice of the Court.
+   </dialogue><nonSpeech> <font>L Keeper</font> </nonSpeech><dialogue> Wee can give you a President, that this Court  
+hath proceeded
+&amp; undertake~ a cause <font> <foreign>pro confesso</foreign> </font> for not putting in an    
+Answer in six
+dayes; you have had a great deale of favour shewed in affording
+you longer time, and therefore the Court is free from all calumny
+or aspersion, for rejecting your Answer not signed with the
+Counsels hands.
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> But one word or two, my Lords, I desire your   
+Honours to heare
+me; I put a case in law, that is often pleaded before your Lordships,
+one man is bound to bring in two witnesses; if both or one of them
+faile, that hee cannot bring them in, doth the Law (my Lords)
+<pagebreak id="8" />
+make it the mans act? You assigned me two Counsellors; one of
+them fayled, I cannot compell him; Here he is now before you, let
+him speake, if I have not used all my endeavours to have had him
+signed it (which my other Counsell would have done, if this
+would have set his hand to it with him) and to have put in long
+since.
+   </dialogue><nonSpeech> <font>Counsell.</font> </nonSpeech><dialogue> My Lord, there was so long time spent ere I   
+could doe any thing, 
+after I was assigned his Counsell, that it was impossible his Answer 
+could be drawne up in so short a time as was allotted; for after long 
+expectation, seeing he came not to mee, I went to him, where I 
+found him shut up close prisoner, so that I could not have accesse 
+to him; Whereupon I motioned to the Lieftenant of the Tower, to 
+have free liberty of speech with him co~cerning his answer, vvhich 
+being graunted me, I found him very vvilling and desirous to 
+have it dravvne up, vvhereupon J did moove in this Court for pen 
+&amp; paper, vvhich vvas graunted, the vvhich he no sooner had gotte~, 
+but he set himself to dravv up Instructions, and in a short time, sent
+me 40 sheetes; and soone after I received 40 more; but I found the 
+Ansvver so long, and of such a nature, that J durst not set my hand 
+to it, for feare of giving your Honours distast.
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> My Lords, I did nothing, but according to the  
+direction of my 
+Counsel, only I spake mine ovvne vvords; my ansvver vvas dravvne 
+up by his consent, it vvas his ovvne act, and hee did approove of it; 
+and if he vvill be so base a Covvard, to doe that in private vvhich 
+he dares not acknovvledge in publick, I vvill not such a sinne lye 
+on my conscience, let it rest vvith him. Here is my Ansvver, vvhich 
+though it be not signed vvith their hands, yet here I tender it upon 
+my oath, vvhich you cannot in Iustice deny.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> But Mr. Prynne, the Court desires no such     
+long Ansvver; Are you
+guilty or not guilty?
+   </dialogue><nonSpeech> <font>M. Pryn.</font> </nonSpeech><dialogue> My good Lord, I am to ansvver in a defensive   
+vvay, Is here any
+one, that can vvitnes any thing against me? Let him come in. The
+Law of God standeth thus; that a man is not to be condemned, but
+under the mouth of two or three witnesses. Here is no witnesse
+comes in against me, my Lord, neither is there in all the Informatio~
+one clause that doth particularly fall on me, but onely in generall,
+there is no Booke laid to my charge. And shall I be condemned
+<pagebreak id="9" />
+for a particular act, when no occusation of any particular act can be
+brought against me? This were most unjust and wicked. Here I
+tender my answere to the Information upon my oath; My Lord,
+you did impose impossibilities upon me, I could doe no more then
+I was able.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Well hold your peace, your answer comes too   
+late. Speake you
+Dr. Bastwicke.
+<comment type="compiler">DR. BASTWICK'S LONG SPEECH OMITTED. HE ASKS TO HAVE HIS LONG  
+ANSWER READ.</comment>
+<pagebreak id="10" />
+   </dialogue><nonSpeech> <font>Lord Keeper.</font> </nonSpeech><dialogue> But this is not the busines of the day;    
+VVhy brought you not in
+your Answer in due time?
+   </dialogue><nonSpeech> <font>Dr. Bastwike.</font> </nonSpeech><dialogue> My Lord, a long time since I tendred it   
+to your Honour, I
+failed not in any one particular: And if my Counsell be so base and
+cowardly, that they dare not signe it for feare of the Prelates (as I
+can make it appeare) therefore have I no Answer? My Lord, here
+is my Answer, which though my Counsell out of a base spirit, dare
+not set their hands unto, yet J tender it upon my oath.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> But Mr. Dr. you should have beene briefe; you 
+tendred in too
+large an Answer, which (as J heard) is as Libellous as your Bookes.
+   </dialogue><nonSpeech> <font>D. Bastw.</font> </nonSpeech><dialogue> No, my Lord, it is not Libellous though       
+large, J have none to
+answer for me but my selfe, and being left to my selfe, I must plead
+my conscience in answer to every circumstance of the
+information.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> What say you Mr. Dr. are you guilty, or not   
+guilty? Answer yea
+or no, you needed not to have troubled your self so much about so
+large an Answer.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>D. Bastwicke.</font> </nonSpeech><dialogue> I know, none of your Honours have read my 
+Booke; And can
+you with the Iustice of the court, condemne me before you know
+what is writen in my bookes?
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> What say you to that was read to you even now?
+   </dialogue><nonSpeech> <font>D. Bast.</font> </nonSpeech><dialogue> My Lord, he that read it did so murther the    
+sence of it, that had
+I not knowne, what <font>I</font> had writen, I could not tell what to have
+made of it.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> What say you to the other sentence read to you?
+   </dialogue><nonSpeech> <font>D. Bast.</font> </nonSpeech><dialogue> That was none of mine, I will not father that  
+which was none
+of my owne.
+   </dialogue><nonSpeech> <font>L. Dorset.</font> </nonSpeech><dialogue> Did not you send that booke, as now it is,   
+to a Noble mans
+house together with a Letter directed to him?
+   </dialogue><nonSpeech> <font>D. Bast.</font> </nonSpeech><dialogue> Yea my Lord, I did so, but withall you may see 
+in my Epistle set
+before the booke, I did at first disclaime what was not mine; I sent
+my Booke over by a Dutch Merchant, who it was that wrote the
+addition I doe not know, but my Epistle set to my Booke, made
+manifest what was mine, and what was not; and I cannot justly
+suffer for what was none of mine.
+   </dialogue><nonSpeech> <font>L. Arund</font> </nonSpeech><dialogue> My Lord, you heare by his owne speech, the     
+cause is taken <font> <foreign>pro
+confesso</foreign> </font> .
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Yea, you say true my Lord.
+   </dialogue><nonSpeech> <font>D. Bast.</font> </nonSpeech><dialogue> My noble Lord of Arundell, I know you are a    
+noble Prince in
+Israel, &amp; a great Peere of this Realme; There are some honourable
+Lords in this Court, that have beene forced out as combatants in a
+single duell; it is betweene the Prelates and us, at this time as
+betweene two that have appointed the feild. The one being a coward
+goes to the Magistrate, &amp; by vertue of his Authority disarmes the
+other of his weapons, &amp; gives him a Bullrush, and then challenges
+him to fight. If this be not base cowardice, I know not what
+belongs to a Souldier. This is the case betweene the Prelates and us,
+they take away our weapons (our Answers) by vertue of your
+Authority, by which we should defend our selves, and yet they bidd
+us fight. My Lord, doth not this savour of a base cowardly spirit?
+I know, my Lord, there is a Decree gone forth (for my Sentence
+was passed long since, to cut of our eares.
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Lord Keeper.</font> </nonSpeech><dialogue> Who shall knovv our Censure, before the    
+Court passe it? Doe
+you prophesy of your selves?
+<comment type="compiler">DR. BASTWICK'S LONG SPEECH OMITTED. AGAIN HE ASKS THE COURT TO READ 
+HIS ANSWER, AND NOT CENSURE HIM BEFORE STUDYING THE CASE, OR ELSE HE 
+SAYS HE WILL TELL THE WORLD OF THEIR INJUSTICE TOWARDS HIM.</comment>
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Mr. Dr. I thought you would be angrie.
+   </dialogue><nonSpeech> <font>Dr. Bast.</font> </nonSpeech><dialogue> No my Lord, you are mis-taken, I am not       
+angrie nor passionate,
+all that I doe presse is, that you would be pleased to peruse my
+Answer.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Well, hold your peace. Mr. Burton, what say   
+you?
+   </dialogue><nonSpeech> <font>Mr. Burton.</font> </nonSpeech><dialogue> My good Lords, your Honours (it should      
+seeme) doe determine
+to Censure us, and take our cause <font> <foreign>pro confesso</foreign> </font> , although  
+we have
+laboured to give your Honours satisfaction in all things: My Lords,
+what you have to say against my Booke, I confesse I did write it,
+yet did I not any thing out of intent of Commotion or Sedition: I
+delivered nothing, but what my Text ledd me too, being chosen to
+suite with the day, namely the fifth of November; the words were
+these, &amp;c.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Mr. Burton, I pray stand not naming Texts of  
+Scripture now,
+we doe not send for you to preach, but to answer to those things
+that are objected against you.
+   </dialogue><nonSpeech> <font>M. Burt.</font> </nonSpeech><dialogue> My Lord, I have drawne up my Answer to my      
+great paines and
+charges, which Answer was signed with my Counsels hands, and
+received into the Court, according to the rule and Order thereof.
+And I did not thinke to have beene called this day to a Censure,
+but have had a legall proceeding by way of Bill and Answer.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Your Answer was impertinent.
+   </dialogue><nonSpeech> <font>M. Burt.</font> </nonSpeech><dialogue> My Answer (after it was entred into the Court) 
+was referred to
+the Judges, but by what meanes I doe not know, vvhither it be
+impertinent, and what cause your Lordships had to cast it out, I     
+knovv
+not. But after it vvas approoved of, and received, it vvas cast out
+as an impertinent Ansvver.
+<pagebreak id="14" />
+   </dialogue><nonSpeech> <font>L. Finch.</font> </nonSpeech><dialogue> The Judges did you a good turne to make it    
+impertinent, for it
+was as Libellous as your Booke, so that your Answer deserved a
+Censure alone.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> VVhat say you Mr. Burton, are you guilty, or  
+not?
+   </dialogue><nonSpeech> <font>M. Burton.</font> </nonSpeech><dialogue> My Lord, I desire you not onely to peruse my 
+Booke, here and
+there but every passage of it.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> Mr. Burton, time is short, are you guilty, or 
+not guilty? VVhat
+say you to that which was read? Doth it become a Minister to
+deliver himself in such a rayling and scandalous way?
+   </dialogue><nonSpeech> <font>M. Burton.</font> </nonSpeech><dialogue> In my judgement, and as I can proove it, it  
+was neither rayling
+nor scandalous, J conceive that a Minister hath a larger liberty the~
+alwayes to goe in a milde straine: I being the Pastor of my people,
+whom I had in charge, and was to instruct, J supposed it was my
+duety to informe them of those innovations that are crept into the
+Church, as likewise of the danger and ill consequence of them: As
+for my Answer, yee blotted out what yee would, and then the rest
+which made best for your owne ends, you would have to stand;
+And now for mee to tender onely what will serve for your owne
+turnes, and renounce the rest, were to desert my cause, which
+before I will doe, or desert my conscience, I will rather desert my
+body, and deliver it up to your Lordships to doe with it, what you
+will.
+   </dialogue><nonSpeech> <font>L. Keeper</font> </nonSpeech><dialogue> This is a place where you should crave mercy  
+and favour, Mr.
+Burton, and not stand upon such termes as you doe.
+   </dialogue><nonSpeech> <font>M. Burt.</font> </nonSpeech><dialogue> There wherein I have offended through humane   
+frailty, I crave
+of God and Man pardon: And I pray God, that in your Sentence,
+you may so Censure us, that you may not sinne against the Lord.
+
+   </dialogue><nonSpeech>Thus the prisoners desiring to speake a little more for
+themselves, were commaunded to silence. And so the Lords proceeded
+to Censure. <comment type="compiler">SOURCE TEXT: Censnre</comment> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

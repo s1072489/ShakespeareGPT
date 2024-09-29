@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1WDURHA">
+  <dialogueHeader>
+
+    <filename>D1WDURHA</filename>
+
+    <identifier>1 WITNESS D D1WDURHA</identifier>
+
+    <title>COURTS OF DURHAM</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1560-88/1845</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">RAINE, JAMES.</attribution>
+      <frontMatter>DEPOSITIONS AND OTHER ECCLESIASTICAL PROCEEDINGS FROM THE 
+COURTS OF DURHAM, EXTENDING FROM 1311 TO THE REIGN OF ELIZABETH.
+LONDON: J. B. NICHOLS AND SON, PARLIAMENT STREET;
+WILLIAM PICKERING, PICCADILLY;
+EDINBURGH: LAING AND FORBES.
+THE PUBLICATIONS OF THE SURTEES SOCIETY 
+ESTABLISHED IN THE YEAR M.DCCC.XXXIV.
+M.DCCC.XLV.
+PP. 62.13 - 63.18   SAMPLE 1
+PP. 66.18 - 68.26   SAMPLE 2
+PP. 88.16 - 88.29   SAMPLE 3
+PP. 88.30 - 89.9    SAMPLE 4
+PP. 90.1 - 91.3     SAMPLE 5
+PP. 102.17 - 103.16 SAMPLE 6
+PP. 103.17 - 103.36 SAMPLE 7
+PP. 104.1 - 104.12  SAMPLE 8
+PP. 108.24 - 110.3  SAMPLE 9
+PP. 120.9 - 121.9   SAMPLE 10
+PP. 121.10 - 124.38 SAMPLE 11
+PP. 212.26 - 215.7  SAMPLE 12
+PP. 252.29 - 253.34 SAMPLE 13
+PP. 258.11 - 261.32 SAMPLE 14
+PP. 261.33 - 263.22 SAMPLE 15
+PP. 286.18 - 292.35 SAMPLE 16
+PP. 314.25 - 316.24 SAMPLE 17
+PP. 316.25 - 317.32 SAMPLE 18
+PP. 320.1 - 320.19  SAMPLE 19
+PP. 322.1 - 322.14  SAMPLE 20
+PP. 330.25 - 332.11 SAMPLE 21
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>  
+
+<comment type="compiler">MANUSCRIPT REFERENCES GIVEN BY THE SOURCE TEXT EDITOR 
+AT THE END OF EACH CASE HEADING: SEE THE CORPUS GUIDE FOR EXPLANATION 
+OF THE REFERENCES.</comment>
+
+<comment type="compiler">CASE HEADINGS ARE FOR THE MOST PART PROVIDED BY THE SOURCE TEXT 
+EDITOR, AND THEREFORE CODED AS SUCH BELOW.</comment>
+
+<comment type="compiler">SQUARE BRACKETS IN SOURCE TEXT RENDERED AS ROUND BRACKETS BELOW.</comment>
+
+<comment type="compiler">DIRECT SPEECH NOT ALWAYS DISTINGUISHABLE FROM INDIRECT SPEECH AND
+OTHER LEVELS OF DISCOURSE.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="62" />
+ <head> <comment type="editor">LXI. DEFAMATION. <foreign>TESTES PRODUCTI EX OFFICIO 
+ADVERSUS ANTONIUM RATCLIF, ARMIGERUM.</foreign> (A) </comment> </head> 
+
+   <nonSpeech>CHRISTOFER EGLESTON, of Hunstonworth, yoman, aged
+40 years.</nonSpeech>
+   <nonSpeech>He saith that about the tyme <foreign>libellat</foreign> the sayd Mr. Antony,
+comming out of the church of Hunstanworth, caulde for one
+Roger Doon, which at last came to hym, to whome the said
+Antony said,</nonSpeech><dialogue> &quot;Dyd not thou promess me that thou wold tell 
+me and the parson of Hunstonworth who stole George 
+Whitfeld sheip?&quot; </dialogue><nonSpeech>and Don annswerd and said,</nonSpeech><dialogue> &quot;I neid not unless I 
+woll.&quot; </dialogue><nonSpeech>Mr. Ratcliff said then to Donn,</nonSpeech><dialogue> &quot;Thou breaks 
+promess.&quot; </dialogue><nonSpeech>And Done answerd that he wold not.</nonSpeech><dialogue> &quot;You will 
+know yt soon enowgh, for your man, Nicoll Dixson, stole them, 
+that ther stands, upon Thursday bifore Christenmas then last 
+past,&quot; </dialogue><nonSpeech>saing the words was spoke about Michelmas last past
+bitwixt the said Antony and Doon. And the said Doon said 
+further, at that tyme, that the said Nycoll shud dryve the said
+stoln sheip to one William Dixson of Hexamshier, his brother, 
+and ther remaned unto the sonday next after, and then the
+said Nicoll rode to his said brother William Dixson's, and 
+brought away the caise of one of the said sheip to his owne
+<pagebreak id="63" />
+house at Newkton, and dyd his use therwith. Then Mr. 
+Ratclif cauld upon on Robson, and said to hym,</nonSpeech><dialogue> &quot;Dyd not thou tell
+me that Donn had the 40 <font>s.</font> to sell the said 4 sheip of Dixon,
+my man?&quot; </dialogue><nonSpeech>And the said Robson said that Done bad hym byd
+ytt; and Donn, yett then present, said,</nonSpeech><dialogue> &quot;What maid matter of
+that? for the poore man that aught the said shepe, then also
+present, had 40 <font>s.</font> to have 
+<comment type="compiler">TEXT OMITTED IN EDITION</comment>
+other things then yt.&quot; </dialogue><nonSpeech>And Doon said that he shuld never be
+able to prove hym a theif,</nonSpeech><dialogue> &quot;for although ye be a gent., and I a
+poore man, my honestye shalbe as good as yours.&quot; &quot;What
+saith thou?&quot; </dialogue><nonSpeech>said Mr. Ratcliff then,</nonSpeech><dialogue> &quot;liknes thou thy honestye
+to myn?&quot; </dialogue><nonSpeech>And then Mr. Ratcliff, being then in the church
+yard after servic, liftyd up his hand at Doon, which gave back;
+but to this examinat's knowledge the said Mr. Anthony dyd not
+then touch the said Doon, neither with his hand nor with any
+kinde of wepon, nor no wepon was then drawne, by virtue of
+his ooth. +</nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="66" />
+ <head> <comment type="editor">LXIV. WILL OF ELIZABETH BLITHMAN, LATE WIFE AND
+RELICT OF JAMES BLITHMAN, OF NEWCASTLE, BUTCHER,
+2 MAY 1562. (B) </comment> </head> 
+
+   <nonSpeech>WILLIAM WILDE of Newcastle, bower, aged about 60 years.</nonSpeech>
+   <nonSpeech>Examined whither she was of perfect reason and memorye at
+the tyme of hir will makinge, he saith, upon a May daye last
+past, after eavonsong, the said Elizabeth had bein sore sick
+and in a swone, and recovered again veri well. At what tyme
+this deponent and his wife wentt in, to se as she dyd. And
+at that tyme the said Elizabeth axsyd &quot;who was that?&quot; And hir
+keper tolde hir. And then they tow talked familiarly to gither.
+And in ther communicacion the said deponent said to hir,</nonSpeech><dialogue> &quot;I
+<pagebreak id="67" />
+trust ye shall doo well how ever ye doo.&quot; </dialogue><nonSpeech>And axsed hir, yf God
+toke hir, at that tyme, who should have hir goods? She
+answered,</nonSpeech><dialogue> &quot;Who shulde have my good nor thes 2 wenshes,
+which haith done more for me then all my kyn haith doon?&quot;
+</dialogue><nonSpeech>And cried fye of hir kyn, and said non of them wolde loke upon
+hir less or more. -- At 5 of the cloke upon May day aforesaid.
+Examined of her aidge, he saith he can not certainly say, but of
+great aidg, and hath had 4 husbands. +</nonSpeech>
+
+   <nonSpeech>JANET WYELD, wife of William aforesaid, aged about 50
+years.</nonSpeech>
+   <nonSpeech>She saith that, upon May day last past, this deponent, about
+fyve of the cloke at night, went to se the said E. Blitheman,
+which had bein sore craised; and in her going thither she mett
+her husband W. Wield in the doore comyng furth of the said
+E. Blithman's house. And she, this deponent, comme to the
+said E. hir neighbour, and asked hir as she dyd? And she
+answerd,</nonSpeech><dialogue> &quot;I thank God I doo well,&quot; </dialogue><nonSpeech>being sore seike. And
+in other communicacion this deponent askied hir, and said,</nonSpeech><dialogue>
+&quot;Commother, yf it shall pleas God to take you to his mercye,
+whome intend you shall have your goods?&quot; </dialogue><nonSpeech>And she said,</nonSpeech><dialogue>
+&quot;None but thes 2 wenshes, my husbands doughter, which is
+most worthye, </dialogue><nonSpeech>for they have done more for hir</nonSpeech><dialogue> and all my
+fends cam never to gyve me a pott of drink, when I was in
+mysyrye; </dialogue><nonSpeech>and that hir frend had hir good,&quot; nameing one Crags,
+which her husband lett hym have for a sheip, and could not
+gett yt againe, but, yf my Lord President cam in to the
+countrye, she doubted not but to have ytt. -- Mallye Shafftoo
+and Isabell Jackson and the 2 wenshes harde thes wordes --</nonSpeech>
+
+   <nonSpeech>ISABELL JACKSON, wife of Simon Jackson, shomaker, of the
+aidg of towerd 50 yere.</nonSpeech>
+   <nonSpeech>She saith, as for the said Elizabeth she haith knowne hir
+<pagebreak id="68" />
+this 20 yeres, being hir poore neighbour. As forthe th'other
+that came into the courte of hir freinds, Newcome and Hew
+Carlell, she haith knowne this foure or fyve yeares, and as
+concerning the matter she saith she some tyme was hir 
+servannt, and was often cominge to hir to se as she dyd, and,
+upon May day last past, about fyve of the clok at night, this
+deponent cam to se as she dyd, and found ther William Wyled
+and his wif; and the said Elizabeth hard this deponent 
+speaking to hir, and she answerd,</nonSpeech><dialogue> &quot;Ysabell, I know thy tounge.&quot;
+</dialogue><nonSpeech>And after sondry communicacions, this deponent hard Wylde's
+wyf say to hir,</nonSpeech><dialogue> &quot;Commother, how do you?&quot; </dialogue><nonSpeech>and she answerd
+that she was very sicke. And the said Wylds wyf demannded
+of hir an she wold have the priest? And she annswerd,</nonSpeech><dialogue> &quot;I
+neid not, I trust, I am fytt for God, and the worlde I have no
+goods to make a wyll upon.&quot; </dialogue><nonSpeech>And the said Wylde's wife said
+again to her,</nonSpeech><dialogue> &quot;Commother, for God's sake tell us who shall
+have your goods, yf God shuld call you to his marcye.&quot; </dialogue><nonSpeech>The
+said Elizabeth said then she had no goods to gyve to no leving
+soule, but to thes 2 wenshes, Beylye and Nellye. And, the
+morrow next after, this said deponent came also to se hir dame,
+and she knew her also again by her speich, and caulde hir by hir
+name, and said then she wolde not have the priest, when this
+deponent moved hir therto, for she trusted to put over this. -- 
+Her said dame continued still in the same mynde, that the said
+wenshes shulde have hir goods. -- She was then of perfect
+memorye.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="88" />
+ <head> <comment type="editor">CIX. JANET COOKE, WIFE OF JOHN COOKE, AGAINST 
+ISABELL, WIFE OF EDWARD HEDLEY, <foreign>IN CAUSA 
+DIFFAMACIONIS. CIRCA 1569</foreign> . (B) </comment> </head> 
+
+   <nonSpeech>ELIZABETH ELSDEN, of Newcastle, late wife of John Elsden,
+deceased, aged 20 years.</nonSpeech>
+   <nonSpeech>She saithe that, about Candlemasse last past, this examinate
+and Isabell Hedley being in the howse of one Elinor Hall, this
+examinat's mother, the said Isabell said to this examinat that</nonSpeech><dialogue>
+&quot;Jenett Cooke had not beine so riche, had not the stolne purse
+beine, which she dyd steill at John Newton's.&quot; </dialogue><nonSpeech>Unto whom
+this examinat said,</nonSpeech><dialogue> &quot;Had she a stolne purse?&quot; </dialogue><nonSpeech>Unto whom
+the said Isabell annswered and said,</nonSpeech><dialogue> &quot;Ye, marye, had she, and
+was caried to the New Yaite for the same.&quot; </dialogue><nonSpeech>-- No mo was 
+present +</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+
+ <head> <comment type="editor">CX. WAULES AGAINST BROWELL. (B) </comment> </head> 
+
+   <nonSpeech>MATHEW WILDE, of Winlerton, aged 30 years.</nonSpeech>
+   <nonSpeech>He saith that, about Candlemas last, this examinat goinge
+furthe of Newcastle frome markett with Richarde Flatte and
+the said John Waules, this examinat, seinge George Browell,
+<pagebreak id="89" />
+said unto the said Flatt and Waules,</nonSpeech><dialogue> &quot;Yonder is he that would
+be lord of Bradley hall.&quot; </dialogue><nonSpeech>And the said Waules answered,</nonSpeech><dialogue>
+&quot;Let hym take yt whan he can get it;&quot; </dialogue><nonSpeech>whiche wordes the
+said Browell heringe, said unto the said Waules,</nonSpeech><dialogue> &quot;Such 
+maynsworn harlotts as thou art kepes me from it.&quot;
+   </dialogue><nonSpeech>RICHARD FLATTE, of Winlerton, butcher, aged about 34
+years.</nonSpeech><dialogue>
+   -- &quot;I will prove the and all thy partakers maynsworne 
+harlotts.&quot; +
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="90" />
+ <head> <comment type="editor">CXVII. KATHERINE REID AGAINST ISABELL HYNDE, <foreign>IN
+CAUSA DIFFAMACIONIS. CIRC. 1569</foreign> . (B) </comment> </head> 
+
+   <nonSpeech>AGNES DODS, late wife of Edward Dods of Newcastle,
+shipwright, aged 23 years.</nonSpeech>
+   <nonSpeech>She saith that, the weik byfore Easter last past, one George
+Dawson and the said Isabell was in this examinate's house,
+what other certain day this deponent cannott depose, at what
+time the said Isabell spoke to a baster litle boy of the said
+Isabell, which the said Georg bygatt of hir and put to this 
+examinat to boor, thes words,</nonSpeech><dialogue> &quot;Thow shall not caule Katherine
+Reid mother, for she caul me hoor, and I never maid fault but
+for this christen soull, and they wyll nott dytt ther mowethes
+with a bowell of wheit that wold say she had bore a barne in
+Chirton.&quot; </dialogue><nonSpeech>-- She said the said Dawson, that shulde mary the
+said Katherin, was present.</nonSpeech>
+   <nonSpeech>HELINOR REID, wife of John Reid of Newcastle, merchannt,         
+aged 26 years.</nonSpeech>
+   <nonSpeech>She saith that the said Katherine haith been sick thes 2 last
+yeres, and for the most part this twelmonth haith bein in house
+with this examinat, hir brother's wyf. And that the said 
+Kathren toke on very hevylye for that she had gotton knowled that
+the said Isabell had slandered hir, and that she had borne a
+barne in Chirton. Whereupon this deponent said</nonSpeech><dialogue> &quot;Suster
+Kathren, be of good cheir, and cast not your self downe again
+for any such talk; And, for ease of your myend, I wyll myself
+goo and question hir of hir words.&quot; </dialogue><nonSpeech>And therupon this 
+examinat went to M=r= Th. Clibborn house, and the wench Isabell was
+out a doores. And to she came yn this deponent was 
+opening the matter to hir dame. And at last the said Isabell came
+in, to whome hir dame Clibborn's wyfe said,</nonSpeech><dialogue> &quot;Thou hast brought
+thyself in troble with this good wife's suster,&quot; </dialogue><nonSpeech>pointing to this
+examinat then present, and said,</nonSpeech><dialogue> &quot;Thy M=r= will not be in troble    
+therwith.&quot; </dialogue><nonSpeech>And the said Isabell maid answer,</nonSpeech><dialogue> &quot;What, 
+Katherine Reid?&quot; &quot;Yea,&quot; </dialogue><nonSpeech>saith this examinat,</nonSpeech><dialogue> &quot;she will have you to
+answer the sklander that ye have maid upon hir, which was that
+<pagebreak id="91" />
+she had borne a barne in Chirton.&quot; </dialogue><nonSpeech>And the said Isabell 
+annswered, after many folish words, that that which she had sayd
+she wold say ytt again, for that she had one wytnes for hir. +</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="102" />
+ <head> <comment type="editor">CXXXVII. <foreign>TESTES PRODUCTI EX PARTE ELIZABETHAE
+FRISSELL</foreign> , SINGLEWOMAN, <foreign>CONTRA HENRICUM SMITH, IN CAUSA
+MATRIMONIALI</foreign> . (C. f. 70.) </comment> </head> 
+
+   <nonSpeech>HENRY SHEILL, of Newcastle-upon-Tyne, blacksmith, aged
+50 years.</nonSpeech>
+   <nonSpeech>He saith that, about the time <foreign>libellat</foreign> , he, this examinate,
+being and working about the Commissaryes court, the said
+Henry and Elizabethe was brought before the said Commissary
+to be corrected for their incontinent living. And when their
+penance was enjoned to them thei agreed betwen themselves to
+mary, and so came into the M=r= Vicar of Newcastle's house, in
+the parlour, and there in the presence of Christopher Smithe
+and John Smithe, Henrie Smithe's brother, Edward Garbut,
+Georg Grey, prest, John Walles, the somnour, and clerk of S=t=
+John's churche, after talke of agreiment the said Henry and
+<pagebreak id="103" />
+Elizabeth wer contented ther in their presences to be handfested,
+which was done by Thomas Kingston, the said Henry Smith
+saying after Thomas Kingston,</nonSpeech><dialogue> &quot;Here I, Henry Smith, take you,
+Elizabeth Frisell, to my wedded wyfe, &amp;c. and thereto I plight
+the my trowth,&quot; </dialogue><nonSpeech>and</nonSpeech><dialogue> &quot;I, Elizabeth Frisell, take you, Henry
+Smith, to my wedded husband, &amp;c. and thereunto I plight the
+my trowth,&quot; </dialogue><nonSpeech>drawing handes and drinking either to other. And
+the above named Walles, spiyng Henry Smith to loke down,
+said to him,</nonSpeech><dialogue> &quot;Whi lokest thou down? If thou meane not to
+do it in dede, but does to avoid the penance, it is not well.&quot;
+</dialogue><nonSpeech>Wherunto Henry Smith answered that he ment truly, as he 
+afterward spake. Examined whi thei staied so long from marying,
+he saith that at the time of ther hanfesteng Henry Smith was
+in prentiship a yeir after, and that he taketh to be the cause of
+their staying.
+<foreign>Signum + HENRICI SHEILE.</foreign> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 7">
+
+ <head> <comment type="editor">CXXXVIII. JANET PENTLAND <foreign>ADV.</foreign> DAVID PENTLAND.
+(C. f. 76.) </comment> </head> 
+
+   <nonSpeech>JANET WHIP, wife of Matthew Whip, of Newcastle, aged
+40 yrs.</nonSpeech>
+   <nonSpeech>She saith that, the night byfor John Pentland was bured,
+which was father of both parties, the said David cauld Thomas
+Pentland, his brother, and the said Janett, his suster, into the
+entry, after whom this examinate and her husband went as
+frends; in whose presenc David said unto his suster Jane after
+this sort,</nonSpeech><dialogue> &quot;Janette, will ye beir the third part of our father's
+buriall, and ye shall have the third part of his moveable goods?&quot;
+</dialogue><nonSpeech>When she answered and said that she wold doo with good will.
+And when they had talk of ringing the bells for their fayther,
+David said then to hir,</nonSpeech><dialogue> &quot;What yf your husband be not content
+that ye beir the 3=d= part?&quot; &quot;Mary,&quot; </dialogue><nonSpeech>sath she,</nonSpeech><dialogue> &quot;when ye 
+delyver the third part, ye shall then stay as moch in your own
+hand.&quot; </dialogue><nonSpeech>And she well remembreth that afterward the said 
+David said in her husband workhouses, how so ever his brother
+Thomas wold use the said Janet, for and concerning the third
+of ther father goods, he wold doo the lyk. +</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="104" />
+ <head> <comment type="editor">CXXXIX. JANET STEILLING <foreign>CON.</foreign> MARGARET BULMAN.
+(C. 79.) </comment> </head> 
+   
+   <nonSpeech>AGNES WHEITLEY, wife of Robert Wheitley, of Segefield,
+aged 33 years.</nonSpeech>
+   <nonSpeech>As this examinate was commyng forth with her skeill she
+hard Bullman's wyffe caul Styllynge &quot;noughtie pak;&quot; who
+answered,</nonSpeech><dialogue> &quot;What nowtynes know you by me? I am neyther
+goossteler nor steg steiler, I would you knew ytt.&quot; </dialogue><nonSpeech>And then
+Bullman's wyff said</nonSpeech><dialogue> &quot;What, noughty hoore, caull thou me goose
+steiler?&quot; &quot;Nay, mayry, I know thee for no such&quot; </dialogue><nonSpeech>saith Stillinge
+wyffe,</nonSpeech><dialogue> &quot;but I thank you for your good reporte, whills you and
+I talk further.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="108" />   
+ <head> <comment type="editor">CXLV. THOMAS ROBSON AG=T= RALPH WILSON. (C. 125.) </comment> </head> 
+
+   <nonSpeech>AGNES BLENKINSOP, of Durham, single woman, maid 
+servannt of Hugh Frennde, aged about 22 years.</nonSpeech>
+   <nonSpeech>At that tyme articulate she, this examinate, was the said
+Thomas servannt, and upon a hollyday at night she, this 
+deponent, was sittinge at hir said M=r= doore with Isabell his       
+daughter,
+and the said Raffe Wilson was goinge thereby in the streyt,
+<pagebreak id="109" />
+and by comme one Janett Percivall, a young woman, and said
+to the aforesaid Isabell,</nonSpeech><dialogue> &quot;Yonder goith your good man,&quot;
+</dialogue><nonSpeech>meaninge the said Raffe. And Isabell annswered,</nonSpeech><dialogue> &quot;Our good is
+to well wonne to comme emongest thers.&quot; </dialogue><nonSpeech>Which wordes the
+said Raiff hard and said,</nonSpeech><dialogue> &quot;Thou giglott, thou knowest best
+whither your goods be well woon or noo.&quot; </dialogue><nonSpeech>And the said Isabell
+annswerde and said,</nonSpeech><dialogue> &quot;Aither you or some of yours so reports.&quot;
+</dialogue><nonSpeech>And then spoke the said Raiffe and said,</nonSpeech><dialogue> &quot;I will thou know
+that yf I had stolne 2 yawdes, as thi father dyd, I wold nott
+have thought that good well woon.&quot; </dialogue><nonSpeech>And further, &amp;c.
+<foreign>Signum + dictae AGNETIS.</foreign> </nonSpeech>
+   <nonSpeech>JOHN TOMPSON, of Gilligatt in Durham, weiver, aged 30
+years.</nonSpeech>
+   <nonSpeech>He saith that he knew never any thinge to Thomas Robson
+but an honest man, but that he was in a frall blonder about 2
+meirs that he toke in steid of his owne, when he drove horse in
+the south contree.</nonSpeech>
+   <nonSpeech>He saith that, as he one evening stand at Robson doore, with
+his dowghter and his maid, and the maid sainge to his daughter
+upon Wilson,</nonSpeech><dialogue> &quot;Yonder was some tyme one of your lovers.&quot;
+</dialogue><nonSpeech>And his dowghter sayd</nonSpeech><dialogue> &quot;Nay, his mother, Wilson's wyffe said
+that our evill gotten good shulde not comme emongst their
+well gotten good,&quot; </dialogue><nonSpeech>to the which Raiff annswered that</nonSpeech><dialogue> &quot;yf the
+father had been attached when he toke 2 other men's yards 
+insteid of his owne, thou wold not have bein so stowtt.&quot;
+</dialogue><nonSpeech>+ <foreign>Signum JOHANNIS TOMPSON.</foreign> </nonSpeech>
+   <nonSpeech>GEORGE COLSON, of Gilligait, tayler, aged 17.</nonSpeech>
+   <nonSpeech>He saith, that in the fore ende of harvest Isabell Robson was
+fettinge a cruse of drinke out of the aile house, and one of
+Hudspeith sones said to hir that she wold be a pretty roper's
+wyfe. And she annswered and said that she dyd not passe yf
+all ropers wer hanged; and the said Raiff, being in his father's
+loft, boune to bed, hering thois words, praied that better might
+behapp then hanginge, and said,</nonSpeech><dialogue> &quot;Yf they had been hanged
+that toke one yawd in wethe of ther owen, they had not bein
+syttinge were they were syttinge at that tyme.&quot; </dialogue><nonSpeech>Examined
+<pagebreak id="110" />
+whither Willson named the said Robson at that tyme, or at any
+other, to be a yawd steiller, ye or no, <foreign>respondit negative</foreign> .
++ <foreign>Signum GEORGII COLSON.</foreign> </nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 10">
+
+<pagebreak id="120" />
+ <head> <comment type="editor">CLVII. EXTRACTS FROM A LIBEL AGAINST ROBERT
+WAUGH AND JOHN RAWE. (SWIFT'S BOOK, f. 109.) </comment> </head> <dialogue>
+
+<comment type="compiler">LATIN OMITTED.</comment> 
+&quot;Nowe, 
+we are glade, Horsfall, that we have got the hear: thou hast
+done our kinswoman Isabell Hinde a displeasure, and we will
+make thi skinne make her amendes; and, by God's woundes,            
+rather then thou use her thus thou shall beare me thy backfull
+of strockes;&quot; </dialogue><nonSpeech>holding and shaking his staffe at the said Horsfall.
+At which wordes one Robert Waughe came there also, 
+grinninge and shakinge a lance staff, and sware</nonSpeech><dialogue> &quot;by Gode's blode,
+that shalt thou do.&quot; </dialogue><nonSpeech>And throwing his staff downe drewe
+out his dagger, stroke at him and cawght the said Horsfall
+by the right sholder, holding the dager at his hart, and said,</nonSpeech><dialogue>
+&quot;Yea, by God's harte, thou shall ether make her amendes, or
+this dagger shalbe thi deathe.&quot; </dialogue><nonSpeech>Wherat the said Horsfall,
+<pagebreak id="121" />
+being a mased, said,</nonSpeech><dialogue> &quot;S=rs=, I have no money.&quot; &quot;Yes,&quot; </dialogue><nonSpeech>quod
+Wawghe,</nonSpeech><dialogue> &quot;that hast thou, theffe, and let me se it.&quot; </dialogue><nonSpeech>Wherupon
+the said Horsfall purse being opened, ther was found in it 7=s=,
+whiche the said Wawghe toke then and their, and, as Isabell
+Hind cofessed in this court, gave afterward to hir 5=s=, and kept
+2=s= to himselve. Which thing being done, thei caused the said
+Horsfall ther to sit down, and to make a bill of £3 debt of his
+hand-writing sealed. And the 7=s= was ther tolde into Rawes
+handes, who then paid it to Wawghe, which also had the bill.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 11">
+
+ <head> <comment type="editor">CLVIII. THE WILL OF SIR ROBERT BRANDLING. (ACT BOOK,
+f. 122. b.) </comment> </head> 
+
+   <nonSpeech>The personal answer of HENRY BRANDLINGE to positions
+and articles, &amp;c., on the part of the sisters of Sir Robert
+Brandling, Knight, deceased. March, 1568-9.</nonSpeech>
+   <nonSpeech>He, this examinate, was in the towne (of Newcastle) that
+same day, and was with S=r=. Roberte Brandlinge that same night
+that he departed.</nonSpeech>
+   <nonSpeech>Sir Roberte Brandlinge haithe contynually kept house and
+dwelt in the house he died in the space of 30 yeres and more
+next byfore his deathe.</nonSpeech>
+   <nonSpeech>The will whiche this respondent and W. Brandling did 
+exhibite in the consistorie courte of Duresme berithe the dait
+1 Jan. A. D. 1562.</nonSpeech>
+   <nonSpeech>Upon Trinitie Sonday last at afternoyne, be about 4 of the
+clock, this examinate and lait S=r= Robert Bradling were talkyng
+togithers in the said S=r= Roberte dwellinge house; at which
+tyme the said S=r= Roberte axed this examinate what M=r= Tankerd
+said, and when he wold comme over to hym, to conferre with
+hym towchinge the makinge of his will, (for this examinate,
+having otherwaies occasion to be at Yorke, was requested by
+the said S=r= Robert, his brother, to desyer M=r= Tankerd to
+know when he might have hym at most leisure, either he to go
+to hym or he to come unto hym, for the makinge of his will,)
+and this examinate said that M=r= Tankerd did saye he wold be
+glad to mete hym when he wold, for he thought that Sir Robert
+<pagebreak id="122" />
+did dryve it to longe; at which tyme also this examinate talked
+with M=r= Gerard Salvayn to the same effecte. After that this
+examinate, then movyng his brother Sir Roberte to make his
+will, for the staye of his frendes, and to be good to his susters,
+(for that childringe who were in debt, if he shuld geve them
+a pece of money, the creditours wold call for it, and they shuld
+be nothing the better); and therefor he moved hym to geive
+every of his susters one anuitie of £20 duringe there lyves, and
+so his name shulde florische after hym, as he had lyved
+worshipfully all his lyfe. And this examinate said further, that
+if it pleased God to put in the said Sir Robert mynde to put
+this examinate in trust, he wold not doubt to kepe all the
+chikens together, meninge his susters and frendes, in the same
+sorte as he did, notwithstandinge that the susters might have
+anuities as aforsaid. The said S=r= Roberte answered agayn thus,</nonSpeech><dialogue>
+&quot;What shuld I doo? I have been bablinge and doinge thes
+4 or 5 yeres about it,&quot; </dialogue><nonSpeech>swering, by God's soull,</nonSpeech><dialogue> &quot;I can not yet
+tell where to begyn, for we ar so many, and we ar all beggers,
+for there is not one emongst us hable to lyve upon hymself,
+saif George Dent, and Edward Tailour; for I thought my
+suster Katherine had been the best, and we thincke she is as
+bare as any of theim.&quot; </dialogue><nonSpeech> -- And then this examinate said agayn,</nonSpeech><dialogue>
+&quot;it was most fyt to regarde them, for they had born the best
+contenance of honestie; and it were petie that they shuld
+lack in their age: but, S=r= Robert, they saye you wold have
+maid your will if it were not for one thinge, which I wold speke
+but for angringe of you.&quot; </dialogue><nonSpeech>And he said agayn,</nonSpeech><dialogue> &quot;Speke on,
+herdely.&quot; </dialogue><nonSpeech>And then this examinate said,</nonSpeech><dialogue> &quot;They saye, in this
+town, if you had not so many bastardes you would have maid
+your will or now.&quot; </dialogue><nonSpeech>And he answered,</nonSpeech><dialogue> &quot;If I have any I am
+hable to fynd them.&quot; </dialogue><nonSpeech>At whiche word his preiste Sir Thomas
+Keye, syttinge by upon a fourme, did ryse and cam to the
+forsaid S=r= Roberte his m=r= and said,</nonSpeech><dialogue> &quot;S=r=, you bid me speak to
+mastres Brandlinge to take one of the wenches called Jayn;&quot;
+</dialogue><nonSpeech>and S=r= Robert said,</nonSpeech><dialogue> &quot;Did you speke to hyr?&quot; </dialogue><nonSpeech>And he said</nonSpeech><dialogue>
+&quot;Ye, and she saithe she shalbe welcom.&quot; </dialogue><nonSpeech>And then he willed
+<pagebreak id="123" />
+S=r= Thomas to put the wenche to hir. And at that tyme the
+forsaid S=r= Robert declared to this examinat of the unkinde
+doings of William Brandlinge, who was sodenly upon a 
+displeasor departed into Flanders. And at thes wordes cam in
+M=res= Brandlinge aforsaid, this examinate's wyfe, who required
+Sir Roberte to take good order byttwyxt hir husband, this
+examinate, and the forsaid William,</nonSpeech><dialogue> &quot;for he that woll not geive
+his unkle a good daye (you beinge a lyve) woll moche lesse
+esteme hym when you ar deade.&quot; </dialogue><nonSpeech>And he took hir by the
+hand, sainge,</nonSpeech><dialogue> &quot;I shall make hym, I warrand you, fayn to seke
+your husband all the daye on his lyfe.&quot; </dialogue><nonSpeech>And further &amp;c.</nonSpeech>
+   <nonSpeech>He saith that about 10 or 12 dayes or therabout, about
+Whitsondaye last, this examinate spacke to Mr. Tankerd and
+Mr. Salvayn, at the said S=r= Roberte appoyntmente, as he haithe
+said; and on the Frydaye, the same daye that S=r= Robert dyed,
+this examinate, at the request of the said S=r= Robert, spake to
+Christofer Chaitour, upon the Sandhil, to comme to S=r= 
+Robert dynner, althoughe he said hym naye byfore. And upon
+the same he cam to Christofer Chaitour, and he had promesed
+to dyne other where, and denyed to comme except Sr Robert
+had somme speciall matter. Wherupon this examinate cam to hym
+agayn, and said that S=r= Robert wold have hym after dynner to
+have drawen a draught of his will, for after the Playes he wold
+send for his consell and make it up. Wherupon the said
+Christopher Chaitour said he must ryde that night towardes
+Darlington, for markyn of horses there to be sold in the fair,
+by the Conselles commandmente; and promesed to comme to
+hym agayn within a weke after. And further, &amp;c.</nonSpeech>
+   <nonSpeech>The forsaid S=r= Roberte Brandling said he thought that this
+examinate wold not lyve so longe tyme as he, nether that his
+<pagebreak id="124" />
+brother Thomas wold comme agayn to dwell in England; and
+that his son William was verey untowardes.</nonSpeech>
+   <nonSpeech>He saithe he, this examinate, Mr. Hodgeson (as he 
+remembrethe,) George Hely, George Dent, and William Ryddell,
+were then present at the openinge of the cownting house doore.</nonSpeech>
+   <nonSpeech>Billes and obligacions of debts were locked in a cascat, in
+whiche were the keis of a stele chist where his money laye; and
+the evidences of his landes and other wrytinges of weght were
+in a chist in the cowntinge house, and the rest in a cownter in
+the hall.</nonSpeech>
+   <nonSpeech>This examinate, at diverse tymes byfore worshipfull and
+others of this towne of Newcastle, said that the writinge fownde
+in his cowntinge howse was not S=r= Robert's last and perfyte
+wyll; for causses expressed by hym in his saings to the first
+article.</nonSpeech>
+   <nonSpeech>TO ADDITIONAL POSITIONS. The paper or will fownde
+in the said S=r= Roberte cownting house was in diverse places
+stricken out with a pen and enterlyned, and many blankes
+therein or void places, insomoche that byfore they went into the
+cowntinge house, Mr. Hogeson asked if any of them did knowe
+of any will of S=r= Roberte, and Mr. Helye said,</nonSpeech><dialogue> &quot;Alas! I fere
+me that we shall fynd none but a sorte of notes in papire, but
+not the thinge we looke for;&quot; </dialogue><nonSpeech>and that S=r= Roberte had many
+tymes required hym and Benet Chertsye to come down to
+hym, to talke with hym on suche things, but they cam not, nor
+it was there hap so to doo. And at the openinge, fyndinge, and
+redinge of the same paper or will, the said Mr. Hogeson did
+saye thes or like wordes,</nonSpeech><dialogue> &quot;Now, wo is me, to see this daye,
+that so wyse a man shuld make suche an ende, for this is no
+will; but, if ye wol be conselled by me, ye shuld syt down
+togethers and make a will emongest you, and agre, and that
+shalbe most quietnes to you.&quot; </dialogue><nonSpeech>And Mr. Hely said,</nonSpeech><dialogue> &quot;This
+can be no will, for the susters haithe as good righte in this as
+the brether haithe.&quot; </dialogue><nonSpeech>And ther were then present Mr. 
+Hodgeson, Mr. Wm. Dent, aldermen, and other byfore named --</nonSpeech>
+   <nonSpeech>Not so much void place as half a shete of paper, and that
+whiche was void was ruled with leade.
+HENRY BRANDLYNG.</nonSpeech><dialogue>
+<pagebreak id="125" />
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 12">
+
+<pagebreak id="212" />
+ <head> <comment type="editor">CCLXXXIII. <foreign>EXAMINACIO TESTIUM SUPER FACTIONE ET
+VERITATE TESTAMENTI NUPER WILLIELMI KIRKUS DE
+MERINGTON, DEFUNCTI, 10 FEB. 1570.</foreign> (C. f. 204.) </comment> </head> 
+
+   <nonSpeech>WILLIAM MELMERBYE, priest, vicar of Merrington, aged 64
+years.</nonSpeech>
+   <nonSpeech>He saith that, tochinge the will of William Kirkus, which
+was lately exhibited in this courte by Elizabeth Kirkus, lait
+wyfe, -- it is of this deponent's own hande writinge, which will
+also berith the dait 27th of Octobre last -- this deponent and
+William Heighington therein the onlye wyttnesses.</nonSpeech>
+<pagebreak id="213" />
+<nonSpeech> <foreign>Super interrog.</foreign> He saith that the will wherof he, this
+deponent, haith testified, was maid the 27th of Octobre, being
+Fryday, and the evon of Symon and Jude's daye, byfore noone,
+about 9 or 10 of the cloke.</nonSpeech>
+   <nonSpeech>He saith that William Kirkus declared his said will by worde
+of mouth, about 9 or 10 of cloke aforesaid, which this 
+examinate wrote at afternoone, in his chamber, alone, the said day.</nonSpeech>
+   <nonSpeech>He saith that when he, this examinate, had written the will
+in his chamber, as is aforesaid, after the hering of yt he
+brought yt the next day at night, after evening praier, and the
+Sonday next also after evoning praier, to the said William
+Kirkus; to whome when he, this examinate, had redd it, and the
+said William Kirkus had acknowledged the same to be his will,
+in the presenc of this examinate only, at that tyme this 
+examinate then moved the said William Kirkus to send for 
+neighbours, to be wytness to here ytt. And when Elizabeth Kirkus,
+his wyffe, after his this examinate tarying ther an hower for
+wytnesses commyng, said that she had sent for John Todd and
+John Richerdson, which came nott; and the said William
+Kirkus then said,</nonSpeech><dialogue> &quot;Yf they will not belyve you,&quot; </dialogue><nonSpeech>naming this
+examinate,</nonSpeech><dialogue> &quot;and the clarke,&quot; </dialogue><nonSpeech>viz. William Heighington 
+above-named,</nonSpeech><dialogue> &quot;lett them mend them wher thei cane.&quot; </dialogue><nonSpeech>And this
+thyng was doon upon the Sonday at night; for, upon the
+Satterday at night next before, a blast of sickness took the
+testator, William Kirkus, in this examinate's presence, by 
+occasion wherof no wyttnesses was cauld for that night.</nonSpeech>
+   <nonSpeech>He saith that he moved the said testator to make his will,
+according to his deuty prescribed in the Quene's booke, and at
+no other procurement; saing also that Elizabeth, his wyfe 
+aforesaid, moved the said William, hir husband, to make his will.</nonSpeech>
+   <nonSpeech>He saith that he, this examinate, and William Heighington,
+was sent for by a wench of William Kirkus, whose name he
+cannott tell, for she, the said wenche, left worde for this 
+examinate to goo thither.</nonSpeech>
+   <nonSpeech>He saith that, byfore noone, upon Monday next after the
+Friday, Satterday, and Sunday, byfore by hym deposed, he, this
+examinate, was present with William Kirkus when John
+Watson, Myell Whit, and, as he remembrith, John Tod, moved
+<pagebreak id="214" />
+the said William Kirkus to make his will, to whome the said
+William Kirkus answered,</nonSpeech><dialogue> &quot;Heere is Mr. Vicar, which wuld
+have me to make a will with great circumstanc; and many
+maks a will that he repentith all the daies of his life.&quot;
+</dialogue><nonSpeech>WILLIAM MELMERBY.</nonSpeech>
+   <nonSpeech>WILLIAM HEIGHINGTON of Kirkmerington, yoman, <font> <foreign>alias</foreign> </font>
+parish clerke, aged 34 years.</nonSpeech>
+   <nonSpeech>He saith that he remembrith well that, upon the Friday
+sennett next byfore the said William died, this examinate,
+being clark of Merrington, and warned the night byfore by one
+of William Kirkus wenches to provyd bread and wyn for a 
+communyon, about 8th of the cloke in the morning this examinate
+and the vicar William Mellerbye came to the said William
+Kirkus house; at which tyme the said vicar asked the said
+Kirkus of his welfair, who aunswered saing,</nonSpeech><dialogue> &quot;I thank God, never
+worse, for I am trobled in all partes of my body;&quot; </dialogue><nonSpeech>to whom the
+vicar said then,</nonSpeech><dialogue> &quot;Will ye make a will?&quot; </dialogue><nonSpeech>and he, the said
+testator, aunswered and said,</nonSpeech><dialogue> &quot;Ye, I will make a will.&quot; &quot;And
+what will ye gyve to the poore man box?&quot; </dialogue><nonSpeech>qooth the vicar; and
+he, the said Kirkus, aunswered and said,</nonSpeech><dialogue> &quot;I gyve dayly to the
+poore, as other neighbours doith; and therefore I will nothing
+to the poore man box.&quot; </dialogue><nonSpeech>And then the said vicar asked the
+said Kirkus to whom he wold gyve his goods, and the said
+William Kirkus aunswered to his wyff, trusting that she wold
+be as good to his childe as to hir owne.</nonSpeech><dialogue> &quot;And who shalbe
+yoer executour?&quot; </dialogue><nonSpeech>said the aforesaid vicar; and the said testator
+aunswered,</nonSpeech><dialogue> &quot;Who but thei that have my goods.&quot; </dialogue><nonSpeech>And then the
+said William's wyfe besought the said testator, hir husband, to
+sende for his frends, and make his will, and mak all things
+streight;</nonSpeech><dialogue> &quot;for I will never be against yt.&quot; </dialogue><nonSpeech>Att which tyme a
+pange of his sicknes toke the said testator, and then the said
+vicar said,</nonSpeech><dialogue> &quot;Lett us goo to the communion, and lett my hoost
+advise hym what he wold say or doo afterwarde. </dialogue><nonSpeech>And so, after
+the communion, the said William Kirkus gave this examinate
+the cupe to drinke; and so he, this examinate, departyd, leving
+the vicar and testator and the said wyf at the table drinkinge
+together, and hard no more concerning the said William, aither
+afore or after, unto Sonday then next follow, that the said vicar
+<pagebreak id="215" />
+tolde this deponent in the church of Merrington, that he, the
+said vicar, had put thois wordes in writinge that this examinate
+and the said vicar upon the Friday last byfore hard the said
+William Kirkus speake, concerning his testament and last will,
+which will he, this examinate, saw nott unto the Friday next
+byfore yt cam to be proved.
+WILLIAM HEGHINGTON.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 13">
+
+<pagebreak id="252" />
+ <head> <comment type="editor">CCCIII. DEFAMATION. HELEN JOHNSON, WIFE OF SIMON
+JOHNSON, AGAINST GEORGE ALLENSON. (C. f. 401.) </comment> </head> 
+   
+   <nonSpeech>JOHN HUNTER, of Medomsley, husbandman, aged 50 years;
+<foreign>partes bene novit a suis cunabulis</foreign> . Upon his consciens he
+beliveth that the said Elinour is a veri honest woman, and so
+named and reportyd within the towne and parish of Medomsley
+of all the inhabitors there, saving hir owne husband, who,
+<pagebreak id="253" />
+beinge very suspecious man, haith some tyme audiently caulde
+the said Elinor &quot;Skott's hore.&quot;</nonSpeech>
+   <nonSpeech>He saith, upon his oothe, that he never harde the said 
+Allenson say at any tyme any suche wordes as is articulate. Mary,
+he saith, that, about St. Elenmas last past, to this examinate's
+remembrance, the said Helen Johnson, by report, satt downe of
+hir knees in the church porche of Medomsley, upon a sonday
+or hallydaye, after servic, when many people was assembled
+in the church yarde; at what tyme the said George Allenson
+came to this examinat, being then talking with one John 
+Stevenson, of Bierssyde, and requierd this examinate and one
+Androo Hunter to here what he, the said Allenson, wold say,
+and examon the said Helen upon which had satt down in the
+kirke porch, and asked a vengeance of hym, the said George.
+At whose request this examinate and the said Androo went
+with the said George to the aforesaid Helyn Johnson, and
+in the presence of 30 persons moo, then, this examinate and
+Andro Hunter questioned and examoned the said Helene, what
+fault he had maid hir or hir husband to ax a vengeaunce upon
+hym, the said George Allenson? to whome the said Helyn
+answerd and said then,</nonSpeech><dialogue> &quot;whye dids thowe caule me --  
+hoore?&quot; </dialogue><nonSpeech>and then the said Georg aunswerd hir, the said Helyn,
+and said,</nonSpeech><dialogue> &quot;Thou knowist best whither thou art a hore or noo:
+thou was never my hoore.&quot; </dialogue><nonSpeech>And she, the said Helyn, still
+said that the said George had cauld hir so. And then the said
+Allenson offerd to make amends yf she culd bring in aither
+honest man or woman that wolde prove thoise wordes.</nonSpeech><dialogue> &quot;Yeis,&quot;
+</dialogue><nonSpeech>quodth the said Symon,</nonSpeech><dialogue> &quot;Thou caulde hir hoore to my face at
+the well grein.&quot; </dialogue><nonSpeech>And then aunswerd the said George and said,</nonSpeech><dialogue>
+&quot;Loke, what I caulde hir afore, that will I caull hir againe;&quot;
+</dialogue><nonSpeech>and so the parties departyd. Examined whither he, this
+examinate, haith harde the said George caule the aforesaid
+Symon cookhold or noo, he aunswerethe negatively.
+<foreign>Signum + JOHANNIS HUNTER.</foreign> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 14">
+
+<pagebreak id="258" />
+ <head> <comment type="editor">CCCVI. QUARRELLING AND FIGHTING IN THE CHURCH
+AND CHURCHYARD OF STANNINGTON. (C. f. 435 b.) </comment> </head> <dialogue>
+
+<comment type="compiler">LATIN OMITTED.</comment>
+   </dialogue><nonSpeech>CHRISTOPHER THOROBYE, clerk, vicar of the parish church
+of Stanington, aged 32 years.</nonSpeech>
+   <nonSpeech>The day and yere abovesaid, the said Raff Ogle, John Rosse,
+and this examinate, was all personally present in the church of
+Stanington.</nonSpeech>
+   <nonSpeech>He saith that, the day and yere articulate, Matthew Ogle and
+his sonne, the said Raiff Ogle, caulde this examinate to the
+queir ende of Stanington, and asked hym what he thought of
+the reast that one Toppyn had maid of the Egiptien's goods,
+at the said Mathew suit; and this deponent, consydering the
+day and tyme, moved the said Mathew to lett that matter
+cease to another tyme. And so as well this examinate as booth
+the said Ogles cam into the church to servic. And after the
+communion that day, the said Mathew Ogle asked the 
+aforesaid Topping whi he wold not delyver to hym the gereie that
+he had strened for hym. And the said Topping, being then in
+the queir of Stanington, denied and refused to delyver any
+such geir as Mathew demandyd, unless he wold fynd hym 2
+suirtiess. To whom then answerd the said Mathew, and said,
+he wold have the same geir that was arrestyd, or ellis, yf ever
+<pagebreak id="259" />
+he toke hym, the said Toppinge, where he haith had him, he
+shuld make his feit to be better to hym then two pair of hands.
+Upon which wordes John Rosse, the said Toppinge's sonne in
+lawe, said to the aforesaid Topping,</nonSpeech><dialogue> &quot;Father, come away: what
+doo you stand their, and they brabling with you?&quot; </dialogue><nonSpeech>Then said
+Raiff Ogle to the said Rosse,</nonSpeech><dialogue> &quot;What saith you, slave?&quot; </dialogue><nonSpeech>Rosse
+then sayd to the said Raiff,</nonSpeech><dialogue> &quot;Howe be your selffe?&quot; </dialogue><nonSpeech>Att the
+which words the said Raiffe, beinge then also in the said queir,
+drew his dagger at the said Rosse; and then this examinate,
+feringe evill to grow therupon, stept to the said Raiffe, and
+one Stephen Morton with this examinate also, being the parish
+clark, and bair the said Raiff bakward out of the queir doore,
+so that therupon ther was no hurt doon. Examined whither
+the said Rosse, Mathew Ogle, or Toppinge dyd then draw any
+wepon or mislest them sells, he saith, upon his othe, that ther
+was no further dissorder then this examinate haith deposed,
+upon of any of the above named, aither in worde or deide,
+for upon the deponent persuasion they skailde awaye; <foreign>ac 
+ultra, &amp;c.</foreign> CHRISTOFORE THOREBE.</nonSpeech>
+   <nonSpeech>RAIF OGLE, of Sawthike, <foreign>generos.</foreign> aged 22 years.</nonSpeech>
+   <nonSpeech>He saith that his father, Mathew Ogle, reasoned with one
+Thomas Thoppinge, the baliff of Shotton, in the said churche,
+for such geir as he had restyd of the Egipcians concerning the
+corsinge of a horse; and when as the said Toppinge said
+directlye that he wold not delyver the said geir, this examinate
+aunswered and said, yt war his best to delyver the same.
+Wherupon John Rosse, being then present, said to the said
+Topping,</nonSpeech><dialogue> &quot;Father, come away; lett them alone, for they shall
+not have yt.&quot; </dialogue><nonSpeech>To whom this examinate aunswered and said,</nonSpeech><dialogue>
+&quot;I trowe the cowsterin be mad to meddle wher he neid nott.&quot;
+</dialogue><nonSpeech>And then the said Rosse cauld this examinate &quot;Coustran of all
+coustrans.&quot; And upon this communication one Stephen
+Morton, the parish clerke, toke this examinate by the shulders,
+and put this examinate out of the queir door, and said they
+wyst nott what they dyd, beinge within church. As for his
+dagger, he laid not his hand thereof and drew yt nott out.
+Mary, yt shott out of the sheithe by yt selff. When the said
+<pagebreak id="260" />
+Steven sawe this examinate angrie, he then put this examinate
+out of the church. RAUFFE OGLE.</nonSpeech>
+   <nonSpeech>JOHN ROSSE, of Shotton, laborer, aged about 24 years.</nonSpeech>
+   <nonSpeech>He saith that, upon Neweyers day in the morning last past,
+when Mathew Ogle and Thomas Topping, this deponent's 
+stepfather, were talkinge together in the queir of Stanington, and
+agreid not upon the delyvery upon certain goods arreisted, this
+examinate said to the said Thomas, his stepfather,</nonSpeech><dialogue> &quot;Come away,
+for ther words and brawling ys known well enough;&quot; </dialogue><nonSpeech>to whome
+Raiff Ogle aunswered,</nonSpeech><dialogue> &quot;What, slave, what is that thou saith?&quot;
+</dialogue><nonSpeech>And this examinate said,</nonSpeech><dialogue> &quot;What, man, by your self?&quot; </dialogue><nonSpeech>and ther
+upon the said Rawf plukett out his dager, and had yt above his
+head to have smytten at this examinate. And then, dyvers
+staundinge bye the vicar and the clarke, one Stephen Murton,
+put the said Raiffe out of the queir doore.
+JOHANNES + ROSSE.</nonSpeech>
+   <nonSpeech> <foreign>6 Junii, 1573.</foreign> MATHEW OGLE, of Saultwick, gent., father
+of the aforesaid Ralph, aged about 60 years.</nonSpeech><dialogue>
+   He was in the churche yarde the tyme the said Raiff and
+Rosse in the church, and so harde nothing spoken bitwixt
+them 2. Mary, afterward this examinate hard yt reportyd
+byfore my Lord Ogle that the one of them cauld the other
+&quot;lowne&quot; in the said church the tyme articulate.
+</dialogue><nonSpeech> <foreign>Signum + MATHEI OGLE.</foreign> </nonSpeech>
+   <nonSpeech>THOMAS TOPPINGE, of Shotton, aged <comment type="compiler">TEXT OMITTED IN EDITION</comment> </nonSpeech>
+   <nonSpeech>He saith that, the day and yer articulate, this examinate
+being in the church of Stanington, and having arrested certain
+goods of the Egipcions, which Mathew Ogle requierd to have
+at this examinate's hande; and when he refused so to doo
+without lawfull pledg, the said Mathew and Rauffe gave this
+examinate crewell words, thretening that yf he use to walk
+wher he had wont to doo, the said Rauffe wold mak this 
+deponent feit to be worth 2 pair of hands. Wherupon John Rosse,
+this examinate's wife sonne, came into the quere wher this
+examinate was, and said,</nonSpeech><dialogue> &quot;Father, what doo ye, sittinge here and
+se them brag you as they doo?&quot; </dialogue><nonSpeech>and at that worde the said
+Rauff said to the said Rosse,</nonSpeech><dialogue> &quot;What saith you, slave?&quot; </dialogue><nonSpeech>to whome
+<pagebreak id="261" />
+Rosse aunswered,</nonSpeech><dialogue> &quot;S=r=, what by your self?&quot; </dialogue><nonSpeech>and then the said
+Raff laid his hand upon his dagger and reached with his left
+hand to the said Rosse in great anger, wherupon one Stephen
+Morton, the parish clerke ther, toke the said Raiffe in his armes
+and bair hym out into the church yarde, wher the said Mathew
+and Raff chodd and tretened this examinate and Rosse a long
+while. <foreign>Signum</foreign> + THO. TOPPING.</nonSpeech>
+   <nonSpeech>STEPHEN MURTON of Stanington, husbandman, aged about
+30 years.</nonSpeech>
+   <nonSpeech>He saith that, being the parish clerke of the church of 
+Stanington, this deponent, being personally present in the queir of
+Stanington, wher the said Raiff Ogle and John Rosse was also
+both present, he, this examinate, hard the said Rauffe caule the
+said Rosse &quot;slave&quot; in greiff; to whome the said Rosse 
+aunswered and said,</nonSpeech><dialogue> &quot;And how by your self?&quot; </dialogue><nonSpeech>the which worde
+Rauff Ogle had his dagger drawen in his hand, and this deponent
+therupon fering evill therof, this deponent fearing that the said
+Rauf wold have striken with it, toke the said Raiffe by the
+arme and carried owt of the chancell doore; and further, &amp;c.
+STEPHEN MORTON.</nonSpeech>
+   <nonSpeech>ROBERT BULLOCK <comment type="compiler">TEXT OMITTED IN EDITION</comment> </nonSpeech>
+   <nonSpeech>The said John Rosse said to Thomas Toppyng, his 
+stepfather,</nonSpeech><dialogue> &quot;Come away, and make not all that of yt, for ther is
+right to gett as well for the poore as for the riche.&quot; </dialogue><nonSpeech>Then
+spake the said Rayff to the said John Rosse verie angrely,</nonSpeech><dialogue>
+&quot;Slave, what is that thou saies?&quot; &quot;And how slave by your
+self?&quot; </dialogue><nonSpeech>said Rosse then. The said Raffe drewe not his dagger at
+all; but when the said clerke shott the said Rauff to the doore,
+takyng hym by the arme, then the said Rauffe dager fell out.</nonSpeech>
+   <nonSpeech>JAMES LANGE of Shotton, laborer, aged about 22 years.</nonSpeech>
+   <nonSpeech>The said Rauff had his dager drawen above his head most
+lyke great angre.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 15">
+
+ <head> <comment type="editor">CCCVII. QUARRELLING IN THE CHURCH YARD OF 
+STANNINGTON. 1573. (C. f. 440.) </comment> </head> 
+
+   <nonSpeech>THOMAS GOFTON, of Stanington, laborer, aged 24 years.</nonSpeech>
+   <nonSpeech>He saith that upon a Sonday, halfe a yere ago, of any other
+<pagebreak id="262" />
+certain tyme this examinate cannott depose, the said Hudspeith
+and Tompson was standing in the church yard in Stanington,
+bytwixt the morning praier and communion, and in that very
+tyme ther dyd two of the Huspeiths ryde throwghe the town of
+Stanington, which they two both sawe and loked at them.
+And Patrix, a Skotisman, asked what two men thei were? and
+the said Tompson said that they wer two of the Hudspeiths;</nonSpeech><dialogue>
+&quot;Mary,&quot; </dialogue><nonSpeech>said the afforesaid Patrike,</nonSpeech><dialogue> &quot;I know them very well; they
+ar very honest men.&quot; &quot;Yea,&quot; </dialogue><nonSpeech>said the said Tompson,</nonSpeech><dialogue> &quot;that
+they ar, and as moch forborne for ther evill as good.&quot; </dialogue><nonSpeech>Then
+spoke William Hudspeith to the said Tompson, and said,</nonSpeech><dialogue>
+&quot;What, loowne, what saith thou? what knoweth thou to them
+but honest men? Had I the out of the kirkeyarde I shuld make
+thee to knowe them for honest men.&quot; </dialogue><nonSpeech>And with that the said
+William Hudspeith stroke awkwardly at the said Tompson, and
+hatt hym on the breste with his hande. Examined, whither
+the said Tompson then smote again at the said William, or
+noo, this examinate aunswerith and saith he dyd not to byde
+upon. <foreign>Signum + THOMAE GOFTON.</foreign> </nonSpeech>
+   <nonSpeech>HENRY TROMBLE, of Stanington, laborer, and hynd to 
+William Ray, of his farmehold in Stanington, aged 26 years.</nonSpeech>
+   <nonSpeech>He saith that William Hudspeith this deponent haith known
+3 yere last past, and Tompson only this last yere, being the
+vicar servaunt.</nonSpeech>
+   <nonSpeech>He saith that, before Michelmes last paste in somer, what
+other daye this examinate cannott depose, bitwixt the morning
+praier and the communion tyme, upon a Sonday, ther came
+two men ryding through the town of Stanington. At what
+tyme this examinate and many moo, being in the church yard
+at Stanington, wher also the said William Hudspeth and Thomas
+Thompson standing emongest other, one which this examinate
+cannot remember asked what two men they were that rood bye?
+and one Patrick, a Skotts man, sayd &quot;they were two honest
+gent. of the Hudspethes;&quot; and the said Tomson then answered
+and said, &quot;that they were but broukell men, and</nonSpeech><dialogue> they ar more
+forborne for ther evill then for their good.&quot; </dialogue><nonSpeech>And then spoke
+the said William Hudspeith to the said Tompson, and said,</nonSpeech><dialogue>
+&quot;What reprooffe gyves you my frends?&quot; </dialogue><nonSpeech>and with that gave the
+<pagebreak id="263" />
+said Tompson a shut backe with his hand upon the breste,
+being in greiffe; and further he cannott depose in the premisses,
+saing that the same Tompson, being but a cryetour, gave no
+moo words. <foreign>Signum HENRICI + TROMBLE.</foreign> </nonSpeech>
+   <nonSpeech>6 June, 1573. MATHEW OGLE, of Saultwik, <foreign>gen.</foreign> , aged about
+60 years.</nonSpeech>
+   <nonSpeech>He saith, being one of the 24 of the parish that had the
+examinacion of the matter by wyttnesses, culde fynd no fray by
+weapon or stroks; but that ther was certain chiding words that
+past bytwixt them. <foreign>Signum + dicti MATHEI.</foreign> </nonSpeech>
+   <nonSpeech>THOMAS TOPPINGE, of Shotton.</nonSpeech>
+   <nonSpeech>He saith that he hard not the said Thomson or Hudspeith
+speak or doo any thing as is articulate; but that ther was of
+great chiding words bitwixt them, wherupon the said Thomas
+Tompson, the vicar's man, was set in the stoks at after noon
+the same day. <foreign>Signum THOMAE + TOPPING.</foreign> </nonSpeech>
+   <nonSpeech> <foreign>23 Maii</foreign> . The personal answer of WILLIAM HUDSPETH.</nonSpeech>
+   <nonSpeech>He saith that one Thomas Thompson and this examinate dyd
+chyde to gither in the church yard of Stanington, and the said
+Tompson cauld this examinate &quot;knave,&quot; and this examinate
+cauld hym the said Tomson &quot;lymber;&quot; but they dyd not smyt
+the one at the other, not drew no wepon.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 16">
+
+<pagebreak id="286" />
+ <head> <comment type="editor">CCCXIV. PROCEEDINGS AGAINST JAMES WALTON FOR
+LAYING VIOLENT HANDS UPON THE CURATE OF 
+LANCHESTER IN THE CHURCHYARD. (D. f. 55.) </comment> </head> <dialogue>
+
+<comment type="compiler">NINE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="291" />
+   </dialogue><nonSpeech>THOMAS ROBINSON, servant of Mr. William Hodgson, of
+Maner House, yoman, <foreign>alias</foreign> servingman, aged about 32 years.</nonSpeech>
+   <nonSpeech>He saith that, about the tyme articulate, this examinate and
+James was syttinge togither at the Deanry yaitts of Lanchester,
+communinge of sondry matters, and anon this examinate dyd
+see the said Sir Richerd, one Meborn, and certain women, thre
+or 4, cominge from George Herrison's, and this examinate rose
+and came to the said S=r= Richerd, which was going to the 
+evening praier; and after thir communicacion the said S=r= Richerd
+requierd this examinate to go bake with hym to his chambre, he
+must neids speake with this deponent to send a messaidge with
+hym to his m=r=; and therupon this examinate came with the
+said S=r= Richerd, who told this deponent that he had bein about
+to order a matter bitwixt John Haswell and William Grinwell,
+which were and <comment type="editor">? at</comment> troble, but he trusted yf he culd speak
+with this examinate's m=r=, master Hodgson, to bring the matter
+to some good ende. And then this examinate, comming with
+the said S=r= Richerd towerds his chambre, the said James
+Wawton and Thomas Wawton, sytting togither att the 
+gaittshead, neigh the said preist's chambre, the said James said,</nonSpeech><dialogue>
+&quot;What maks you so hye, S=r= Richerd?&quot; </dialogue><nonSpeech>Who aunswerd that
+he had bein about a grement, and declared again the matter as
+he had said immediatly byfore to this examinate. Then said
+the said James,</nonSpeech><dialogue> &quot;What have ye adoo with that?&quot; &quot;Yeis, I
+have to do therwith, bycause they ar my parishioners.&quot; </dialogue><nonSpeech>Then
+the said Wawton replied still to the contrary, for that one of
+the parties was boundon to peac, and swore by God's name yf
+yt wer his matter, he, the said Sir Richerd, shuld have nothing
+to doo therein.</nonSpeech><dialogue> &quot;Yees,&quot; </dialogue><nonSpeech>saith the said S=r= Richerd,</nonSpeech><dialogue> &quot;yf the
+<pagebreak id="292" />
+partie greved sought to me, I wold have to doo therein by the
+auctorite I have under my Lord of Durham, to bringe them to
+good order and quietness.&quot; &quot;Wawd <comment type="editor">would</comment> thou,&quot; </dialogue><nonSpeech>saith the
+said James,</nonSpeech><dialogue> &quot;thou droucken horemonger preist?&quot; </dialogue><nonSpeech>to whom the
+said Sir Richerd answerd and said,</nonSpeech><dialogue> &quot;James, I have bein
+punished for my hordom, and the part I dyd; saing yee ar my
+neighbours, a good fellow and nowe an honest man, I pray yow
+to leave such talke.&quot; </dialogue><nonSpeech>And still the said James contynewed in his
+raidge, bragging and swerynge, and said that he wold &quot;whapp
+his coott,&quot; and willed the said Sir Richerd to appoint the plac,
+and he wold meit hym in any place he durste.</nonSpeech><dialogue> &quot;Nay,&quot; </dialogue><nonSpeech>saith
+the said S=r= Richerd,</nonSpeech><dialogue> &quot;I am a man of peace.&quot; </dialogue><nonSpeech>This deponent,
+being wery of such talk, moved the said Sir Richerd to goo to
+the church to the praier and reason no more with hym, the said
+James. At whose mocion the said Sir Richerd went into the
+church yarde, and with that came one Anthonye Lonsdaill, this
+examinate's fellow in houshold, and asked what grief <comment type="compiler">TEXT OMITTED  
+IN EDITION</comment>
+that thei maid? And James Wawton answerd,</nonSpeech><dialogue> &quot;This drouken
+horem=r= preist, that is busye in every man's matter.&quot; </dialogue><nonSpeech>Then said
+Sir Richerd,</nonSpeech><dialogue> &quot;Goo thy way, thou art an evill man.&quot; &quot;Yee,&quot;
+</dialogue><nonSpeech>saith the said Wawton,</nonSpeech><dialogue> &quot;thou drouken villan, come again, if
+thou dare, and feight with me yf thou darr.&quot; &quot;Nay,&quot; </dialogue><nonSpeech>quoth
+the said Sir Richerd,</nonSpeech><dialogue> &quot;I am a man of peace; but I will come
+to the, perchance, when thou art in a better mynd.&quot; </dialogue><nonSpeech>And the
+said S=r= Richerd, comming towerd the said Wawton, he the
+said James drewe his dagger.</nonSpeech><dialogue> &quot;Nay,&quot; </dialogue><nonSpeech>said the said Lonsdaill,</nonSpeech><dialogue>
+&quot;ye shall not feight.&quot; </dialogue><nonSpeech>And, at the sight of Waton dagger, the
+said Sir Richerd began to drawe also his dagger, and had the
+same half out; and this examinate toke hold of his Sir Richerd
+arme, and badd hym be contente and go to his servic. At
+whose mocion the said Sir Richerd was staid and went into the
+church, the said James still raling and saing that he was not
+in Englond that wold feight with hym, the said James, in the
+said Sir Richard quarrell. And further this examinate cannott
+depose for any matter betwixt them. THOMAS ROBINSON.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 17">
+
+<pagebreak id="314" />
+ <head> <comment type="editor">CCCXXIX. MARGARET KEY AGAINST KATHERINE 
+WHITTINGHAM, <foreign>IN CAUSA DEFAMATIONIS</foreign> . 13 DEC. 1583.
+(E. f. 124 b.) </comment> </head> <dialogue>
+
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="316" />
+   </dialogue><nonSpeech>31 Jan. 1588, 9. ANNE EWBANKE, of the city of Durham,
+aged about 23 years.</nonSpeech>
+   <nonSpeech>She saith that, about Michaellmas last past, the said
+Margaret Key and Katherine Whittingham, beinge together in
+Mr. Deane's garden in Durham, this examinate and Mrs. Anne
+Hethe, and others, being present; and, emongest other talk and
+speches, the said Margarett Key said unto the said Katherine
+Whittingham, that she hadd to speak with hir, whereupon she
+said these words:</nonSpeech><dialogue> &quot;Mrs. Whittingham, you have reported that
+I have had a child before I was maried. I trust you will
+bringe forth the father for yt.&quot; </dialogue><nonSpeech>The said Mrs. 
+Whittingham maid aunswer,</nonSpeech><dialogue> &quot;I doe not saie that you hadd anie
+child before you were maried; but I saie that I have
+herd that you had a child before you wer maried, but I
+will not saie that it is trew. Doe your worst, I will not
+flie the countrie.&quot; </dialogue><nonSpeech>Whereupon the said Margaret Key said,</nonSpeech><dialogue>
+&quot;I defie you, and all that can so saie.&quot; </dialogue><nonSpeech>Then Mrs. Whittingham
+said,</nonSpeech><dialogue> &quot;Doe you not know one Maddock?&quot; Yes, that I doe,&quot; </dialogue><nonSpeech>said
+the said Margarett;</nonSpeech><dialogue> &quot;and that I may rew, for he shold have
+ben myn husbande. I dwelt with him, but I did never know
+any dishonestie with him.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 18">
+
+ <head> <comment type="editor">CCCXXX. LEONARD HARLE AGAINST AGNES RIPLEY, <foreign>ALIAS</foreign>
+BROWN, WIDOW, AND ADMINISTRATRIX OF THE GOODS OF
+ROBERT RIPLEY, LATE OF NEWCASTLE, HER HUSBAND.
+(E.f. 118 b.) </comment> </head> 
+
+   <nonSpeech>LEONARD DIGGLES of Gateshed, aged about 38 years.</nonSpeech>
+   <nonSpeech>He saith that, about fower or fyve daies before the said
+Robert Rypley died, this examinate, beinge commed to see
+him, did heare the said Agnes saie to him,</nonSpeech><dialogue> &quot;Bullie, thow hast
+geven thy silver whistle and chaine unto Leonard Harle, but
+<pagebreak id="317" />
+I trust thou shalt lyve to weare yt thy self;&quot; </dialogue><nonSpeech>whereunto the
+said Robert did not reply or gain say, being at that tyme verie
+sicke.</nonSpeech>
+   <nonSpeech>He saith that the whistle, which the said Robert Ryplie did
+usuallie weare, was worth 5 <font>l.</font> 10 <font>s.</font> or there about, as this 
+examinate thinketh. Per me, LEONARD DIGGLES.</nonSpeech>
+   <nonSpeech>JOHN ARMIRER of Newcastle, marinar, aged about 30 years.</nonSpeech>
+   <nonSpeech>He saith that, about 4 or 5 daies before the said Robert died,
+this examinat did goe to his howse, beinge accompanied with
+Alan Gibson, Robert Ashe, Leonard Harle articulate, Robert
+Chicken, Thomas Blirthorne, and others, and, beinge comed to
+his said howse, the said Leonard Harle did goe into the howse
+first of that companie, and beinge there in the hall howse,
+where the said Robert lay sick in his bedd, the said Agnes
+Ripley said to Leonard Harle,</nonSpeech><dialogue> &quot;You ar welcom.&quot; &quot;I thank
+you,&quot; </dialogue><nonSpeech>said Leonard,</nonSpeech><dialogue> &quot;and shall see that by your gyfts.&quot;
+&quot;Whie,&quot; </dialogue><nonSpeech>said she,</nonSpeech><dialogue> &quot;my husband hath geven you somewhat.&quot;
+&quot;What,&quot; </dialogue><nonSpeech>said Leonard Harle,</nonSpeech><dialogue> &quot;hath he given me?&quot; </dialogue><nonSpeech>Then
+she said</nonSpeech><dialogue> he hath given you his whissell and his chaine. </dialogue><nonSpeech>And
+afterward the said Leonard, goinge to his bedd wher he laye,
+asked him how he did, calling him mate. He aunswered,</nonSpeech><dialogue>
+&quot;I thanke you moch.&quot; </dialogue><nonSpeech>Then said the said Robert Ryplie,</nonSpeech><dialogue>
+&quot;I have geven you a gyft, that is, my whistle and chaine,
+which I weare by sea.&quot; </dialogue><nonSpeech>He gave him thanks and said he
+trusted to se him lyve and weare yt himself. But the said
+Robert maid aunswere that he thought he could not lyve, by
+reason of his sicknes.</nonSpeech>
+   <nonSpeech>He saith that the said Agnes was present when her
+husband Robert Ripley did geve the chaine and whistle unto the
+said Leonard, and did heare him speake the said words.</nonSpeech>
+   <nonSpeech>He verilie thinketh that the said whistle and chaine was well
+worth 6 <font>l.</font> 13 <font>s.</font> 4 <font>d.</font> or thereabout. JOHN ARMERER.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 19">
+
+<pagebreak id="320" />
+ <head> <comment type="editor">CCCXXXIII. ELIZABETH DOBSON AGAINST JANET 
+PERESON <foreign>IN CAUSA DEFAMATIONIS</foreign> , 29 JUL. 1586. (E. f. 54.) </comment> </head> 
+
+   <nonSpeech>WILLIAM JACKSON, of Whickham, laborer, aged about 50
+years.</nonSpeech>
+   <nonSpeech>About Whitsondaye last this examinate, being at his work at
+a coole pitt in Dunston, nigh Whickham, did see the said
+Janet comeing towards him; whereupon she, beinge nigh him,
+he called hir to him, and asked hir where she had bene. She
+answered and said,</nonSpeech><dialogue> &quot;I would God that eyther you or any
+honest man had been with me, where I have bene.&quot; </dialogue><nonSpeech>This
+examinate answered,</nonSpeech><dialogue> &quot;Why, where have you bene?&quot; </dialogue><nonSpeech>She said,</nonSpeech><dialogue>
+&quot;I have bene yonder in the lighes, and there I cam by a whinne
+bushe, and I found Dobson's maiden standing, and a flacket
+standing besid hir; and so sone as she saw me, she smiled and
+lewgh at me; and a little peece beyond was my good man and
+Dobson's wife standeing togither, and hard by was my good
+man's horse fest at a whinne roote by the bridle reine; and I
+went to the horse, and my good man toke the horse from
+me.&quot; +
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 20">
+
+<pagebreak id="322" />
+
+ <head> <comment type="editor">CCCXXXVI. -- ISABELL ROTHWELL, WIFE OF RICHARD
+ROTHWELL, OF THE CITY OF DURHAM, AGAINST GEORGE
+SMITH, <foreign>IN CAUSA DEFAMATIONIS</foreign> . 1 APR. 1587. (E..) </comment> </head> 
+
+   <nonSpeech>ANNE WALTON, of Warmouth, spinster, aged about 30
+years.</nonSpeech>
+   <nonSpeech>She saith that, a little before Christenmas, comeing up the
+streat by George Smith his shopp, in the company of the said
+Isabell, Lawrence Thompson and Jenet Dickeson, the said
+Smith said unto Lawrence Thompson,</nonSpeech><dialogue> &quot;Will you presume to
+goe in a ladie's companie?&quot; </dialogue><nonSpeech>Whereupon the said Isabell made
+aunswer,</nonSpeech><dialogue> &quot;I may as tite be a ladye as thou a lord, as thou,
+pricklouse that thou arte.&quot; </dialogue><nonSpeech>Wherunto the said George
+made aunswere,</nonSpeech><dialogue> &quot;Thou art a tantarband and a tantarbawde
+whore.&quot;
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 21">
+
+<pagebreak id="330" />
+ <head> <comment type="editor">CCCXLII. WILLIAM WHITMORE, <foreign>GEN.</foreign> AGAINST PETER
+TAILER, <foreign>IN CAUSA DEFAMATIONIS</foreign> . 1588. (E..) </comment> </head> 
+
+   <nonSpeech>LEONARD RIPLEY of Auckland S=t=. Helen, yoman, aged about
+51 years.</nonSpeech>
+   <nonSpeech>He saith that, aboute Magdalene day last past, this 
+examinate being at Mr. Whitmore his dore, in St. Helene Aickland
+aforesaid, about three or foure of the clocke in the afternone,
+the said Sir Peter Tayler came to the said Mr. Whitmore his
+wif, and asked her who went to Brauncepeth the morowe?
+She aunswerd,</nonSpeech><dialogue> &quot;This examinate shall goe.&quot; &quot;He had neede be
+war for givinge a true note of the furniture,&quot; </dialogue><nonSpeech>said Sir Peter;
+<pagebreak id="331" />
+wherupon she aunswerd him, the said S=r=. Peter,</nonSpeech><dialogue> &quot;What have
+you to doe with yt?&quot; </dialogue><nonSpeech>Then the said S=r=. Peter, seminge to be
+verie angrie, said unto her, the said Mr. Whitmore his wif,</nonSpeech><dialogue>
+&quot;Your husband is an undewtifull subject to his Prince; and you
+and he&quot; </dialogue><nonSpeech> (meaning, as this examinate thinketh, the said Mr.
+Whitmore and his wif),</nonSpeech><dialogue> &quot;loks for the day of popery                 
+<comment type="compiler">TEXT OMITTED IN EDITION</comment> but
+you wil be deceyved.&quot; </dialogue><nonSpeech>And therupon the said Sir Peter,
+taking a book which he had in his hand up, holding yt up said,</nonSpeech><dialogue>
+&quot;By this book I will be at S=r=. William Bowes to-morrow befor
+10 of the clok, to compleyn of you both.&quot;
+</dialogue><nonSpeech>LEONARD REAPLEY.</nonSpeech>
+   <nonSpeech>ANNA WILLIAMSON of Aickland S=t=. Helen, aged about 18
+years.</nonSpeech>
+   <nonSpeech>She saith that, about Magdalemasse last, this examinate being
+at Mr. Whitmor her father his dore with her mother, Leonard
+Ripley her contest, and divers others, in St. Helen Aickland
+aforesaid, about sune sett of the same day, the said Sir Peter
+Tailer came to them where they were sitting, and said to Mr.
+Whitmor his wif,</nonSpeech><dialogue> &quot;Who goeth to the muster?&quot; </dialogue><nonSpeech>Wherupon
+she aunswered,</nonSpeech><dialogue> &quot;Leonard Ripley,&quot; </dialogue><nonSpeech>this examinate her contest;
+whereupon he, the said Peter Tailer, said,</nonSpeech><dialogue> &quot;Trewlie, Leonard,
+you had need to take heed, for all the sweight will lie on you.&quot;
+</dialogue><nonSpeech>So the said S=r=. Peter Tayler, growinge angrie, upon what 
+occasion this examinate knoweth not, said to Mrs. Whitmore,</nonSpeech><dialogue>
+&quot;Your husband,&quot; </dialogue><nonSpeech>meaninge Mr. Whitmore, said he,</nonSpeech><dialogue> &quot;is an
+unduetifull and an unlawful subject, </dialogue><nonSpeech>and that he was rune
+awaie when he should serve his Prince;&quot; and said, that the
+day was at hand which she and her husband had longe loked
+for, yet they wold be deceyved. And therupon took a book
+and said, by God's grace he would compleane of them, 
+meaning Mr. Whitmore and his wife, to S=r=. William Bowes before
+10 of the clock. +</nonSpeech>
+   <nonSpeech>ELIZABETH PARKIN of Aickland St Helen's, spinster, aged
+21 years.</nonSpeech><dialogue>
+   -- &quot;your husband is an unduetifull and unlawfull subject;
+and that the daye of ther trumpere poperie was comed which
+they loked for.&quot; -- +
+<pagebreak id="332" />
+   </dialogue><nonSpeech>THOMAS SWAINSTON of Aickland St. Helen, husbandman,
+aged 50 years.</nonSpeech>
+   <nonSpeech>This examinate, coming from the markett, the said Sir Peter
+Tailer told this examinate that Mr. Whitmore was about to
+place another in his place; and, seminge to be angrie, said
+that Mr. Whitmore was an unduetifull subject, and that a sherif
+balif was to seeke him, but he would not be spoken with; and
+that he was gone awaie because he would not serve his Prince</nonSpeech><dialogue>
+&quot;and loket for&quot; </dialogue><nonSpeech> (meaning Mr. Whitmore) </nonSpeech><dialogue> &quot;rotten poperie, but
+he will be deceaved.&quot; </dialogue><nonSpeech>And moreover said he woulde compleane
+to Mr. Colmore of him. <foreign>Signum THOMAE + SWANSTON.</foreign> </nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

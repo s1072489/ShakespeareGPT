@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TCIBBE">
+  <dialogueHeader>
+
+    <filename>D5TCIBBE</filename>
+
+    <identifier>5 TRIAL D5TCIBBE</identifier>
+
+    <title>THEOPHILUS CIBBER</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1738/1740</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYALS OF TWO CAUSES, BETWEEN THEOPHILUS CIBBER, GENT.
+PLAINTIFF, AND WILLIAM SLOPER, ESQ; DEFENDANT. 
+THE FIRST FOR CRIMINAL CONVERSATION. 
+THE SECOND, FOR DETAINING THE PLAINTIFF'S WIFE. 
+LONDON: PRINTED FOR T. TROTT, IN FLEETSTREET. 
+1740.
+PP. 7.19 - 18.20  SAMPLE 1
+PP. 25.20 - 30.24 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">IN THE SOURCE TEXT, THE TRIAL FOR DETAINING THE PLAINTIFF'S WIFE 
+(DATED 4TH DECEMBER 1739), PAGES 1-12, PRECEDES THE TRIAL FOR 
+CRIMINAL CONVERSATION (DATED 5TH DECEMBER 1738) WHICH IS SAMPLED 
+BELOW. THE LATTER TRIAL HAS SEPARATE PAGINATION: 1-32.</comment> 
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="7" />
+<comment type="compiler">THE CASE HAVING BEEN STATED, THE PLAINTIFF'S COUNCIL CALL THEIR 
+WITNESSES TO PROVE THE MARRIAGE BETWEEN THE PLAINTIFF AND HIS WIFE.</comment> 
+</dialogue><nonSpeech> <font>The Plaintiff's Attorney then named Mr</font>
+Cibber, <font>the Plaintiff's Father, who being
+present in Court, was sworn. His Evidence was
+in Substance as follows</font> :</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Do you know of the Plaintiff's being
+married to his present Wife?
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> I was not at the Marriage, but
+I am as well convinced that they were married,
+as that I my self was married. I was against
+the Match.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Why were you against the Match?
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> Because She had no Fortune.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did they at first live happily together?
+<pagebreak id="8" />
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> They did live happy, very
+happy, much happier than I expected; for I was
+averse to the Match.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How long did they live thus happily
+together.
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> About three Years; within that
+Time they had two Children, which are both
+dead.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr <font>Cibber</font> , the Plaintiff, during that
+time support her well and liberally, as became
+an affectionate Husband.
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> He did, even to Profusion. I
+often admonished him about it; and advised
+him to retrench his Expences; for I thought
+them a good deal too large for his Condition,
+or what he was able to afford. He made her
+several valuable Presents of Rings and Jewels.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is not Mrs. <font>Cibber</font> a good Actress? and
+how did she become so.
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> When they married She was a
+Singer, but there were better Voices. I thought
+her Voice not the best; and if not best 'tis
+nothing. I thought it might possibly do
+better for speaking. I asked her Husband if he
+had ever heard her attempt to speak a Part?
+he said he had; and that she did it very
+prettily. I tried her, and was much surprized to
+find her do it so very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did not her Husband take Pains to
+instruct her?
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> I believe I was the Person who
+chiefly instructed her; I spent a good deal of
+<pagebreak id="9" />
+Time, and took great Delight in it: for she was
+very capable of receiving Instruction. In Forty
+Years Experience that I have known the Stage,
+I never knew a Woman at the beginning so
+capable of the Business, or improve so fast.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When did you first here of any
+Disagreement in the Family?
+   </dialogue><nonSpeech>Mr <font>Cibber.</font> </nonSpeech><dialogue> Soon after he came from <font>France</font> ;
+about last <font>April</font> .
+
+</dialogue><nonSpeech> <font>Mr</font> Fleetwood, <font>Master of</font> Drury-lane
+<font>Play-house was sworn</font> .</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Sir, Do you know the Plaintiff's Wife?
+Is she a good Player.
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> Yes, Sir, I think her a good
+Player for her Time.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What Salary did you give her? What
+Advantages did she bring to her Husband?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> She played three Seasons:
+For the first, her Salary was an hundred Pounds,
+and she had a Benefit.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What was that Benefit worth?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> I can't be particular, because
+I have not looked into the Accounts on this
+Occasion. If I had known I should have been
+examined to this, I could have been particular.
+I believe it might be about a hundred Pound.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Well, Sir, the second Year?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> The second Year, Sir, I gave
+her two hundred Pounds Salary, and she had a
+Benefit.
+<pagebreak id="10" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What was that Benefit worth?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> That must have been a good
+deal better than an hundred Pound.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Then the third Year?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> Her Salary the third Year was
+two hundred Pound, and she had a Benefit.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What was that worth?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> I believe it must have been
+worth an hundred and fifty Pound; for she
+grew much in the Favour of the Town, and
+'twas a very good Benefit.
+
+</dialogue><nonSpeech>Note, <font>The Examination to these Matters
+was at first opposed by the Defendant's
+Council, as not being supported by the
+Declaration; but the Plaintiff's Council
+insisted, that it being laid in the
+Declaration, that by the Means there alledged
+the Plaintiff</font> had lost the Assistance of
+his Wife, <font>he had a Right to prove the
+Loss he sustained by the Defendant's
+taking her off the Stage, and the</font>
+Quantum <font>of that Loss. And of that Opinion
+was the Court: so Mr</font> Fleetwood <font>was 
+examined as above. The Defendant's
+Council insisted that nothing here
+appeared that the Defendant had taken her off
+the Stage, and they Cross-Examined
+Mr</font> Fleetwood.</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Sir, how comes it that Mrs <font>Cibber</font> does
+not play this Season?
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> Because we could not agree
+upon the Terms. I would not come up to her
+Terms.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What were her Terms?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> She insisted to have as good
+Salary as any Woman in the House; and the
+first Benefit.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Perhaps she deserves as much; is she not
+as good a Player as any in the House?
+   </dialogue><nonSpeech> <font>Mr Fleetwood.</font> </nonSpeech><dialogue> I can't say that, I can't
+pretend to determine that. I have got more
+Money by Mrs <font>Clive</font> .
+   </dialogue><nonSpeech> <font>Mr</font> Quin, <font>Mr</font> Johnson, <font>and some others
+were called for this Purpose; but the Court was
+of Opinion 'twas now proper for the Plaintiff's
+Council to establish their principal Fact</font> .</nonSpeech>
+
+<nonSpeech> <font>Mrs</font> Hayes <font>was sworn</font> .</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Mrs <font>Hayes</font> , pray give my Lord and the
+Jury an Account of the Defendant's and Mrs
+<font>Cibber's</font> coming to your House. Do you know
+Mrs <font>Hopson</font> ?
+   </dialogue><nonSpeech> <font>Mrs Hayes.</font> </nonSpeech><dialogue> Yes, Sir, it was just this Day
+Twelve-month, the fifth of <font>December</font> , that
+Mrs <font>Hopson</font> came into my Lodgings. I live in
+<font>Blue-cross-street, Leicester-fields</font> ; on the
+<font>Saturday</font> Mrs <font>Hopson</font> came to my House and took
+my Lodgings; she beat them down as low as
+she could, for she said she was a single
+Woman, and should give but very little Trouble,
+and had no body to come after her but a
+<pagebreak id="12" />
+Gentleman and Gentlewoman <comment type="compiler">SOURCE TEXT: Gantlewoman</comment> that would    
+come
+to see her sometimes. She had the Lodgings
+for seven Shillings a Week; two Rooms on the
+first Floor; there was a Bed in each of them;
+one of the Beds was a Turn-up Bed. She was
+to come in on <font>Sunday</font> , but she sent me Word
+that she should not come in 'till <font>Monday</font> , and
+on <font>Monday</font> , the fifth of <font>December</font> , she came in
+a Hackney-Coach, and some Boxes and Things
+with her. On <font>Sunday</font> in the Evening a young
+Gentleman, whom I afterwards knew to be
+Mr <font>Sloper</font> , called and asked if Mrs <font>Hopson</font> had
+not taken the Lodgings, and whether she
+was come: We told him she had taken the 
+Lodgings, but that she had sent Word that she
+should not come till <font>Monday</font> . She lay there on
+<font>Monday</font> Night. Neither Mrs <font>Cibber</font> nor Mr
+<font>Sloper</font> came that Day, but they came soon
+after, I think 'twas on <font>Tuesday</font> , and they supped
+together, and went away between eleven and
+twelve o'Clock; Mrs <font>Hopson</font> sat up, and let
+them out, and locked the Door after them.
+They often came in the Space of six Weeks
+that Mrs <font>Hopson</font> had the Lodgings: I believe
+near Twenty Times. They did not come
+together, but dropping in one after the other.
+They sometimes dined, but most commonly
+supped there. Mrs <font>Hopson</font> used to leave them
+together every Time they came; sometimes an
+Hour, sometimes two or three Hours at a time.
+She often made Errants to go out to buy 
+something; and sometimes sat two Hours at a time
+<pagebreak id="13" />
+below Stairs with me, while they were above
+together. They stay'd sometimes till One or
+Two o'Clock in the Morning; and how they
+went away I cannot tell, for I was in Bed at
+these Times, but I believe they usually went
+in Chairs or Coaches.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When they were thus left alone, did
+they use to fasten the Door?
+   </dialogue><nonSpeech> <font>Mrs Hayes.</font> </nonSpeech><dialogue> Yes, the Door used to be fast?
+Mrs <font>Hopson</font> used to go and knock at it, and
+they let her in; and sometimes she could not
+get in, and use to come down Stairs again.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How did you know they were Mr <font>Sloper</font>
+and Mrs <font>Cibber</font> ?
+   </dialogue><nonSpeech> <font>Mrs Hayes.</font> </nonSpeech><dialogue> There was an Acquaintance of
+mine at my House one Day, when Mrs
+<font>Hopson</font> came down Stairs to me; one Mr <font>Rowe</font> ,
+and he knew Mrs <font>Hopson</font> ; <font>How do you do
+Mrs Hopson</font> ? said he. So after she was gone,
+I asked him who Mrs <font>Hopson</font> was, and he told
+me she was Mrs <font>Cibber's</font> Maid; so I gave
+her Warning, and let my Lodgings to another;
+for I did not like their coming. Mrs <font>Hopson</font> did
+not usually lye there o'Nights, except when they
+had been there in the Evening; but on those
+Nights she did lie there. One Day after I
+gave Warning, Mr <font>Sloper</font> was in a great
+Passion above Stairs at something, and Mrs <font>Hopson</font>
+came to me, <font>You have made a fine Kettle of
+Fish of it</font> , says she. I did not know what she
+meant by her Kettle of Fish. <font>What Fish do you
+mean</font> ? says I. <font>Why there</font> , says she <font>you have been
+<pagebreak id="14" />
+talking of Matters, and he's stark mad at it
+above Stairs</font> . She would have kept the
+Lodgings; but I chose not. I let them to another,
+and so they went away.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr <font>Cibber</font> ever call at your House,
+and talk with you about them?
+   </dialogue><nonSpeech>Mrs <font>Hayes.</font> </nonSpeech><dialogue> Yes, about five or six Months
+ago, he came and asked me, if Mrs <font>Hopson's</font> had
+not lodged there? I told him she had. He
+asked who came to see her, and I described
+them, both by their Clothes and their Persons;
+so he said no more, and went away.
+
+</dialogue><nonSpeech> <font>Mr</font> Hayes <font>sworn</font> .</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Sir, give an Account of Mrs <font>Hopson's</font>
+lodging at your House, and who came to see
+her, and what happened, <font>&amp;c.</font>
+   </dialogue><nonSpeech> <font>Mr Hayes.</font> </nonSpeech><dialogue> When Mrs <font>Hopson</font> had my
+Lodgings, Mr <font>Sloper</font> and Mrs <font>Cibber</font> used to
+come often to her, and she used to leave them
+together two or three Hours at a Time. They
+used to go away at one, two, or three o'Clock
+in the Morning, in Coaches or in Chairs. I
+have a Closet on the same Floor, adjoining
+to the Room where they used to sit; I bored
+Holes through the Wainscoat, and could see
+them very plain. He used to kiss her, and take
+her on his Lap. On the 22d Day of
+<font>December</font> I was looking through; he took her on his
+Knee, lifted up her Clothes, and took down
+his Breeches, and took his privy Member and
+<pagebreak id="15" />
+put it in his Hand, and put it between her
+Legs. On the 12th Day of <font>January</font> , I was
+lock'd up in the Closet at one o'Clock in the
+Afternoon; and he came first, and he was
+angry, because she was not come, and he sent
+Mrs <font>Hopson</font> for her. In about two Hours she
+came. Mrs <font>Hopson</font> went away, and left them
+alone: So he spoke something to her in an angry
+way about Mr <font>Fleetwood</font> ; she said she would
+take away her Brother from his House, and
+that she did not value Mr <font>Fleetwood</font> . He and
+she grew Friends again; they made it up, and
+he took her upon his Lap, took up her Clothes,
+took down his Breeches, and put his
+privy Member between her Legs. I stayed there
+longer. Between five and six in the Evening
+he let down the Turn-up Bed softly, she laid
+herself upon it, upon her Back, and pulled up
+her Clothes; her Body was bare. He
+unbuttoned his Clothes, hung his Bag-wig upon a
+Sconce, let down his Breeches, took his privy
+Member in his Hand, and lay down upon her.
+   </dialogue><nonSpeech>Hereupon some further Questions offered as
+the Fact, his Lordship interposed to this
+Effect; <font>there is no occasion to be more particular;
+we are not trying a Rape</font> . However the 
+Witness did say there was a Criminal Conversation,
+and being a Foreigner, he express'd himself as
+much by Gestures, as by Words.</nonSpeech> 
+   <nonSpeech>Q.</nonSpeech><dialogue> Was their Chamber Lock'd?
+<pagebreak id="16" />
+   </dialogue><nonSpeech> <font>Mr Hayes.</font> </nonSpeech><dialogue> No, it was fastened with a
+Screw. The Holes are there to be seen in the
+Wainscoat and the Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who did that Screw belong to?
+   </dialogue><nonSpeech> <font>Mr Hayes.</font> </nonSpeech><dialogue> I believe it was Mrs <font>Hopson's</font> .
+I have seen it lying in the Chamber Window.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How did you know who they were?
+   </dialogue><nonSpeech> <font>Mr Hayes.</font> </nonSpeech><dialogue> Mr <font>Rowe</font> was one Day at our
+House, and he spoke to Mrs <font>Hopson</font> ; and
+afterwards he said, she was Mrs <font>Cibber's</font> Maid.
+Besides I dogged them both Home in their
+Chairs: Her Chair carried her to Mr <font>Cibber's</font>
+House, Number 12, in little <font>Wild-Court</font> , and
+his Chair went to his Father's House in St
+<font>James's Place</font> . After he was gone into the
+House, I ask'd the Chairmen <font>whose House
+that was</font> ? and they told me <font>old Mr Sloper's</font> .
+I had often seen him at the <font>Tennis-Court</font> , and
+knew his Name there.
+
+</dialogue><nonSpeech> <font>Mr</font> Rowe <font>was sworn</font> .</nonSpeech><dialogue>
+
+   I was one Day at Mr <font>Hayes's</font> , and Mrs
+<font>Hopson</font> came in, I asked how she did? I had
+known her for a good many Years before; and
+the last time I had seen her, I had been told
+she lived with Mr <font>Cibber</font> . I believe I told Mr
+<font>Hayes</font> so.
+   </dialogue><nonSpeech> <font>Juryman.</font> </nonSpeech><dialogue> My Lord we would beg Leave
+to call back the last Witness <font>Mr Hayes</font> to
+ask him this Question? Why he took the
+Pains to Dog Mr <font>Sloper's</font> Chair, at that time
+<pagebreak id="17" />
+of Night, to learn who he was, when he had
+known him before at the <font>Tennis-Court</font> ?
+   </dialogue><nonSpeech> <font>Mr Hayes</font> being called in again, and the
+Question put to him; he answered to this
+Purpose?</nonSpeech><dialogue>
+   As Mr <font>Sloper</font> and Mrs <font>Cibber</font> came into my
+House, I knew them both, because I had
+seen him at the <font>Tennis-Court</font> , and her on the
+Stage; but to be the more certain, I went and
+followed their Chairs, as I told you.
+
+   </dialogue><nonSpeech> <font>Mr</font> Carter <font>was sworn</font> .</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Give an Account of Mr <font>Cibber</font> and Mrs
+<font>Cibber's</font> Lodging at your House in <font>March</font> last,
+and whether Mr <font>Sloper</font> resorted there.
+   </dialogue><nonSpeech> <font>Mr Carter.</font> </nonSpeech><dialogue> Yes Sir, on the Second of <font>March</font>
+Mrs <font>Cibber</font> took the Lodgings, I believe for
+them all; there were three Beds.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you remember any thing of Mr
+<font>Cibber's</font> going to <font>France</font> , and whether Mr <font>Sloper</font>
+came there during his Abscence.
+   </dialogue><nonSpeech> <font>Mr Carter.</font> </nonSpeech><dialogue> Yes, Mr <font>Cibber</font> went to <font>France</font> soon
+after, and Mr <font>Sloper</font> did lodge there part of the
+time while he was abscent; and he lodged there
+again soon after Mr <font>Cibber</font> came back; and there
+was a Lodging taken for Mr <font>Cibber</font> , at <font>Blue-Green</font> ,
+about a Mile and a Half from <font>Kensington</font> , and
+after Mr <font>Cibber</font> , Mrs <font>Cibber</font> , and Mr <font>Sloper</font> had
+supped together, Mr <font>Cibber</font> had a Man with a
+Lanthorn and Candle, between Nine and Ten
+o'Clock at Night, to light him to <font>Blue-Green</font> .
+<pagebreak id="18" />
+He came back to Breakfast next Morning, and
+every Morning; and they Dined and
+sometimes Supped together; and he went to
+<font>Blue-Green</font> at Night; and Mr <font>Sloper</font> , and Mrs
+<font>Cibber</font> lay at my House, but I do not know
+what Beds they lay in. When Mr <font>Sloper</font> went
+away from my House, back to <font>London</font> , Mrs
+<font>Cibber</font> left <font>Blue-Green</font> , and came and lay at
+my House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who bore the Expences of their
+Housekeeping.
+   </dialogue><nonSpeech> <font>Mr Carter.</font> </nonSpeech><dialogue> Mr <font>Sloper</font> did. Sometimes he
+gave my Wife Money to lay out; at other
+times, my Wife laid out what was necessary,
+and made a Bill of it, and Mr <font>Sloper</font> paid it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr <font>Cibber</font> know this?
+   </dialogue><nonSpeech> <font>Mr Carter.</font> </nonSpeech><dialogue> Yes Sir, it was very often
+before his Face.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did he offer to pay any thing?
+   </dialogue><nonSpeech> <font>Mr Carter.</font> </nonSpeech><dialogue> No Sir.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="25" />
+<nonSpeech>Anne Hopson <font>was sworn</font> </nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Did you lodge at Mr <font>Hayes's</font> about this
+time Twelve-month?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, Sir, I was then out of
+Service. I had left Mr <font>Cibber's</font> ; and intended
+to follow the Business of Mantua-making: I
+was bred to it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr <font>Sloper</font> and Mrs <font>Cibber</font> 
+sometimes meet at your Lodgings?
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, they came to see me
+pretty often. They desired they might come there,
+and usually had a bit of something for Supper.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> For what Purpose did they meet?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> As they were Acquaintance,
+to converse together.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you use to go out, and leave them
+alone together?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, I often had occasion to
+go and buy something for Supper, or some Tea
+and Sugar; and I had occasion to be below
+Stairs to get Supper ready.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you came up Stairs did you use to 
+find the Chamber-door fast?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Sometimes it was so; and Mr
+<font>Sloper</font> used to open it to me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray what could you believe was the
+Occasion of these private Meetings.
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> I will tell you all I know of
+the Matter. I do not fear my Character; there
+are enough in Court that will give me a very
+good Character. It was about <font>March</font> was
+Twelve-month that Mr <font>Sloper</font> used first to
+come to our House to Mr <font>Cibber's</font> : The
+Servants did not know who he was; but my
+Master called him Mr <font>Benefit</font> , and used to
+say he was a <font>Romp</font> , and a <font>good-natured Boy</font> . Mr
+<font>Cibber</font> was then very bare of Money, and afraid
+of his Creditors. I was very sorry for it; for
+he owed me a good deal of Money, and does
+so still. But one Day he told me: <font>Anne</font> , says
+he, I shall have a good deal of Money soon,
+<pagebreak id="27" />
+and you shall have some. And I know he
+soon after had a good deal of Money, and he
+paid me five Guineas. That Summer we went
+to lodge at <font>Kingston</font> , and Mr <font>Sloper</font> with us.
+My Master used often to leave Mr <font>Sloper</font> and
+my Mistress at Home, and go a Riding or
+Abroad, some where or other. The rest of the
+Servants wondered at it as well as I; but I
+knew no Harm. They did not know Mr
+<font>Sloper's</font> Name. My Master called him his Cousin
+<font>Thompson</font> . Afterwards when they came to 
+Town, I left the Service, and took that
+Lodging. In last Spring, about <font>March</font> last, I lived
+with them again. My Master took me aside,
+and made me promise Secrecy concerning
+something he was about to say to me. He told me
+he was going to <font>France</font> : That there was an
+Affair between Mr <font>Sloper</font> and his Wife: That
+he was ruined for ever if it should be publickly
+known. And he made me promise to live with
+her till he should come back, that the rest of
+the Servants might not know any thing of the
+Matter. I promised him. They took
+Lodgings at <font>Kensington</font> , and my Master went to
+<font>France</font> in <font>March</font> or <font>April</font> . He was some
+Weeks gone, and in his Abscence Mr <font>Sloper</font>
+was commonly at the Lodgings at <font>Kensington</font> .
+When my Master came back he was at a
+Bagnio in <font>Goodman's Fields</font> , and sent Word to my
+Mistress. Mr <font>Sloper</font> was not then at 
+<font>Kensington</font> . My Mistress and I went to <font>Goodman's
+Fields</font> in a Hackney Coach, and he came back
+<pagebreak id="28" />
+with us to <font>Kensington</font> . In our Return we
+changed our Coach two or three times by the
+Way, that he might not be discovered. She
+told him, she expected Mr <font>Sloper</font> in a Day or
+two. My Master said he would take a
+Lodging when Mr <font>Sloper</font> came; or if there was no
+time for that, he would go lie at some Inn in
+the Town. Within two or three Days Mr 
+<font>Sloper</font> came; and then Mr <font>Cibber</font> sent and took a
+Lodging at <font>Blue-Green</font> , and after Supper about
+nine or ten o'Clock he went there, with a Man
+carrying a Lanthorn and Candle, and left Mrs
+<font>Cibber</font> and Mr <font>Sloper</font> at the Lodgings at
+<font>Kensington</font> . He came back to Breakfast next
+morning, and dined, and I believe supped; and
+so he did several Days, till Mr <font>Sloper</font> went
+away; and then Mr <font>Cibber</font> paid off the
+Lodgings at <font>Blue-Green</font> , and came to the
+Lodgings in <font>Kensington</font> to his Wife.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was you at <font>Burnham</font> with Mr <font>Cibber</font>
+and his Wife, and Mr <font>Sloper</font> ?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, last Summer it was. They
+three and I looked over the House; that they
+might contrive in what Rooms to lie, and the
+rest of the Servants know nothing of the Affair.
+It was a large House, seven Rooms on a Floor.
+Mr <font>Cibber's</font> Bedchamber and Mr <font>Sloper's</font> had a
+Door opened between them. Mrs <font>Cibber</font> used
+to undress herself in my Master's Room, and
+leave her Clothes there, and put on a 
+Bedgown, and take away one of the Pillows from
+my Master's Bed, and go away to Mr <font>Sloper's</font>
+<pagebreak id="29" />
+Room; my Master used to shut the Door
+after her, and say, <font>Good Night my Dear</font> ; and
+sometimes he used to knock at their Door in a
+morning, to call them up to Breakfast, and at
+other Times he sent me to call them; and the
+Pillow was brought back again; for my
+Master's Bed was always made with the two
+Pillows.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see Mrs <font>Cibber</font> the Day she was
+rescued, and where?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, I saw her at her Mother's,
+Mrs <font>Arne's</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was Mr <font>Sloper</font> there?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> He was there.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What became of Mrs <font>Cibber</font> ?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> I do not know. She went
+away somewhere. I did not see her till two
+or three Days afterwards.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you go down into the Country with
+her afterwards?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> Yes, we went to <font>Reading</font> .
+Mr <font>Sloper</font> met us at <font>Slough</font> , and there we
+went into the <font>Reading</font> Coach, Mr <font>Sloper</font>
+walked out some time before us, and the
+Coach took him up.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where was Mrs <font>Cibber</font> afterwards?
+   </dialogue><nonSpeech> <font>Anne Hopson.</font> </nonSpeech><dialogue> At <font>Reading</font> with Mr <font>Sloper</font> ,
+till she came to Town about five Weeks ago?
+<pagebreak id="30" />
+</dialogue><nonSpeech> <font>Mrs</font> Carter, <font> (the Wife of a former Witness) was sworn</font> .</nonSpeech>
+
+   <nonSpeech>She gave in Substance the same Evidence
+that her Husband did before; and that Mr
+<font>Sloper</font> used to pay her the Money for
+Housekeeping. That when the Lodging was taken
+at <font>Blue-Green</font> , and upon her asking the
+meaning of it, she had for Answer, 'twas because
+Mr <font>Cibber</font> was a mean spirited Dog.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Why would you keep such a House?
+   </dialogue><nonSpeech>Mrs <font>Carter.</font> </nonSpeech><dialogue> I thought it no Business of mine
+if the Husband consented, and was satisfied.
+
+   </dialogue><nonSpeech>Jane Phillips <font>was sworn</font> .</nonSpeech>
+
+   <nonSpeech>Q.</nonSpeech><dialogue> Give the Court, <font>&amp;c.</font>
+   </dialogue><nonSpeech> <font>Jane Philips.</font> </nonSpeech><dialogue> I lived at <font>Burnham</font> , and
+used to make the Beds. Mr <font>Cibber</font> and Mr 
+<font>Sloper's</font> Beds. There were two Pillows on
+Mr <font>Cibber's</font> Bed, and only one Pillow on
+Mr <font>Sloper's</font> ; but there was the mark of only
+one Person having lain in Mr <font>Cibber's</font> Bed
+and of two in Mr <font>Sloper's</font> . The
+Bed-chambers opened into each other: I never saw Mr
+<font>Cibber</font> undress; nor do not know who brought
+back the Pillow every morning.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

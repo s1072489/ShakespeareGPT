@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TTURNE">
+  <dialogueHeader>
+
+    <filename>D3TTURNE</filename>
+
+    <identifier>3 TRIAL D3TTURNE</identifier>
+
+    <title>COL. IAMES TURNER</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1663</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A TRUE AND IMPARTIAL ACCOUNT OF THE ARRAIGNMENT, TRYAL, 
+EXAMINATION, CONFESSION AND CONDEMNATION OF COL. IAMES TURNER 
+FOR BREAKING OPEN THE HOUSE OF FRANCIS TRYON MERCHANT IN LIMESTREET 
+LONDON.
+WITH THE SEVERAL TRYALS AND EXAMINATIONS OF JOHN TURNER, WILLIAM 
+TURNER, MARY TURNER, AND ELY TURNER, CONFEDERATES.
+AT JUSTICE-HALL IN THE OLD-BAILEY, LOND. THE 15. 16. AND 19. OF 
+JANUARY, 1663.
+LICENSED BY ROGER L'ESTRANGE.
+LONDON, PRINTED BY WILLIAM GODBID FOR NATH. BROOK AT THE ANGEL IN
+CORNHILL, AND HENRY MARSH AT THE PRINCES ARMS IN CHANCERY-LANE. 
+1663.
+PP. 21.32 - 29.33 SAMPLE 1
+PP. 32.1 - 35.6   SAMPLE 2
+PP. 40.21 - 44.8  SAMPLE 3
+PP. 63.25 - 68.22 SAMPLE 4
+PP. 72.7 - 75.26  SAMPLE 5
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">SOURCE TEXT HAS SOME VARIATION IN USE OF ITALICS FOR WORDS SUCH AS 
+THE PRONOUN &quot;I&quot;.</comment>
+
+<comment type="compiler">THE OCCASIONAL USE OF ITALICS FOR SINGLE LETTERS WITHIN A WORD (FOR 
+EXAMPLE &quot;Mr.&quot; AND &quot;Mrs.&quot;) IS NOT REPRODUCED.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="21" />
+   <nonSpeech> <font>L. Ch. J. Bridgman.</font> </nonSpeech><dialogue> What day were the Jewels delivered?
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> Saturday.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Thursday was the Robbery, Friday he was
+Examined, Saturday the Money was removed, and that night
+the Jewels were brought and he committed.
+<pagebreak id="22" /> 
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> If I have said any thing that he is not        
+satisfied,
+wherein I have not true spoken, let him ask me, I shall not do
+him the least wrong.
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT HAS TWO FULL STOPS TO  
+FOLLOW Hide</comment> Do so Mr. <font>Turner</font> .
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Do your Honours understand of Sir <font>Thomas</font> the
+time the Robbery was committed? I shall ask him some 
+Questions.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> I have only one word more to say to you, that
+before he went to the <font>Hoop</font> Tavern. Nay (said I) Coll. <font>Turner</font> 
+be
+ingenious whether this was not Mr. <font>Tryan's</font> money that he
+removed, and he confessed it was.
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> That money was removed from his own
+house.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> Yes, but his Wife, Children, and Maid,
+denyed it.
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> Mr. <font>Turner</font> , will you ask him any
+Questions? what are they?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I would ask all this back again, you are upon   
+your
+Oath, Mr. Alderman.
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> You need not tell him that he is     
+Sworn,
+the Court and Jury understand it so.
+
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Go on Mr. <font>Turner</font> , ask your Questions.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> My Lord I demand of Sir <font>Thomas Aleyn</font> ,      
+whether
+I did not tell him at the first, there was a wicked young man
+had belyed my house and Family, saying that he supped there
+that night, when he had not supped at my house these Twelve
+Moneths.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> I think I have done him that right already, he
+desired me to Examine that young man, who said he supped at
+Coll. <font>Turner's</font> , but I found he had been nor was not there.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Upon <font>Friday</font> night when the Alderman         
+pressed me
+concerning the thing I told him, I had some suspition of some
+persons, who formerly should have robbed Mr. <font>Tryan</font> a year
+agoe, and I employed <font>Mosely</font> the Constable and Mr. <font>Tryan's</font>
+man to go to <font>Ratcliff</font> , and I went another way.
+<pagebreak id="23" />
+Pray ask Sir <font>Thomas</font> whether I did not promise him to do all
+I could.
+   </dialogue><nonSpeech>Sir <font>Tho. Aleyn.</font> </nonSpeech><dialogue> I pressed him hard, he said he would
+endevour it.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Whether did not I tell him that that money was
+carryed there on purpose to gain the other Fellowes that had
+the Jewels. Said I, if this money be taken away, he that hath
+the Jewels will not bring them, and the remainder of the
+Money; but that this Money must bring him to it that they
+might share it.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> There was not one word of this, his
+Examination was contrary; he told me 400 <font>l.</font> was received of a
+Goldsmith, he knew not his name, and 200 <font>l.</font> was in his owne
+house, and that he removed it for two or three dayes till this
+foolery was over; he said it was his own money, I said an
+honest man need not thus remove his own money.
+   One thing I have omitted, when I was examining of him in the
+<font>Minories</font> , word was brought me his Son was fled away at the
+back dore; I bid them run after him, but they said they saw him
+leap over a great Ditch; he was not heard of till Yesterday,
+though I sent out my Warrants for him.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Your self (as Sir <font>Thomas Alleyn</font>     
+sweares)
+said you knew not of whom you had part of the money, but the
+other was your own, and yet afterwards that the money was
+<font>Tryan's</font> ; why did you say so?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I will tell you the reason, I would not have my
+businesse spoiled, and did feign those answers. My Lord, I do
+demand of him whether Mr. <font>Tryan</font> and I had not made a
+Bargain in the morning, whether or no if he might have his Goods
+the person should be free, and that he had agreed no blood
+should be spilt, that he had rather lose all his money and Jewels
+then to forfeit such an asseveration which the Theif had bound
+me, that I should swear to him, that by the blood of Jesus Christ
+that was shed for him and all Sinners, his life should
+be free.
+<pagebreak id="24" />
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> You are beside the businesse.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> My Lord, I ask Alderman <font>Alleyn</font> whether I    
+did not
+tell him this.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> I told your Lordships two souls were pawned, as
+he said before.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Do not spend your time thus, the        
+question's
+short, whether you are Guilty of Robbing, or breaking the house
+of Mr. <font>Tryan</font> , or no.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I am as free as any man here.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> They will not beleive your own words.
+   </dialogue><nonSpeech>Sir <font>T. A.</font> </nonSpeech><dialogue> I think I have done him no wrong by this
+Evidence.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I hope, my Lord, I shall have the benefit to    
+call him
+again for a Witnesse for me.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> You may ask him now.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> No, when I come to my defence.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Yes, yes.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Oh your Honours most humble Servant, I am very
+sorry I have put him to this trouble.
+
+</dialogue><nonSpeech>Mr. <font>Tryan</font> , his Servant, and Mr. <font>Garnet</font> Sworn.</nonSpeech>
+
+   <nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Mr. <font>Tryan</font> pray (as you are able)    
+give an
+accompt of this businesse.
+<comment type="compiler">TRYON'S ACCOUNT OMITTED. HE RELATES HOW HE WAS ATTACKED IN HIS BED, 
+BUT MANAGED TO CRY FOR HELP AFTER THE ROBBERS, WHO KNEW WHERE THE KEY 
+TO THE CASH-BOX WAS, HAD STOLEN C. £1000.</comment>
+<pagebreak id="25" />
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> How came they by the Jewels?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> I forgot something concerning some Jewels,
+these Jewels were in a drawer under my Table in the
+Compting-house, he was privy to that, because he did frequent
+my house very long, and was very familiar.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Who was privy to all this?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> James Turner.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Mr. <font>Turner</font> , would you ask Mr.      
+<font>Tryon</font>
+any Questions?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> By and by when I come upon my proof.
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>William Hill</font> , Mr. <font>Tryon's</font> man sworn.</nonSpeech><dialogue>
+
+   All that I can say is this; when <font>I</font> went out I locked the 
+door double, and those things were there then.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> About what time?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Seven or eight of the Clock.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Was he a bed then?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes my Lord; when I came home again, I found
+all these things gone; going down into the
+Compting-house we found some Jewels gone and some left, and those
+were inconsiderable to those that were gone; the best were
+cull'd and gone: on Saturday Collonel <font>Turner</font> was
+Arrested with two Serjeants, and sent the boy at the Hoop
+Tavern for me; I took two friends with me, Mr. <font>Gvrney</font> and
+Mr. <font>Pilkinton</font> , he prayed me to speak to my Master that
+he would give Bond for him that the Serjeants might
+discharge him, and he hast about his business, or else it would
+be spoyled; proceeding into some discourse, <font>I</font> was saying
+to him, it was a great providence that <font>I</font> and the maid was
+not then at home, for if we had we should have been killed;
+he answered, saith he, no, they would onely have bound
+you and the maid: <font>I</font> asked him how it was possible to get
+in? he answered, one went through the Entry in the day
+time, and there lay till night, went up staires, found a
+candle, light it, went up to his Chamber, took the Key
+and went down and let in others.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> This story I was informed <font>I</font> told him.
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> I asked him how he came to know it, he said he
+examined them.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Did he never tamper with you about
+making Mr. <font>Tryon's</font> Will?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes my Lord, he came to me about a year ago,
+I went with him to the <font>Cock</font> behind the Exchange, it was
+in a morning, he took me privately aside, told me the old
+Gentleman your Master is very sickly, cannot live long,
+had a good Estate, or to that purpose, and it was pity he
+would never make a Will, and such an Estate should go
+<pagebreak id="27" />
+to the Building of <font>Pauls</font> ; saith he, I have prest him
+several times touching making his Will, he said he had done
+it, when we both knew he had not, and I believe he will
+not make one. He told of one that could Counterfeit a
+hand.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> Was it not <font>Grainger</font> ?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes my Lord, that that man could Counterfeit
+a Will, and I and Mr. <font>Garret</font> , and another good fellow
+should be the three Executors, and a third person
+Overseer, and that would please the old man; I answered, I
+would not have to do in such an unjust thing for all the
+world.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Did you go to <font>Turners</font> to Supper that
+night this Robbery was committed?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> No my Lord, to Mr. <font>Starkey's</font> in               
+<font>Fanchurch-street</font> ,
+the Maid went along with me.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> One question more, you said you came in and
+found the doors open, did you come in before the 
+Neighbours?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> No my Lord, I had not known of it but that one
+Gentleman at Supper went home with a Gentlewoman in
+<font>Leaden-hall-street</font> <comment type="compiler">NO ITALICS FOR street IN SOURCE TEXT</comment> ,    
+and hearing there was such a Robbery
+in <font>Lime-street</font> <comment type="compiler">NO ITALICS FOR street IN SOURCE TEXT</comment> , <font>I</font>  
+run with a great fright, came in and
+found the doors open, and found the Neighbours within.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> The thing understood touching the Will hath
+another face; his Uncle was an acquaintance of Mr.
+<font>Grainger</font> , his Uncle that bound him Apprentice that lived in
+<font>Cripplegate</font> , now in <font>Cornhill</font> . This <font>Grainger</font> had
+counterfeited a Will touching my Lord <font>Gerrard</font> , and some body
+else about an Estate; said I to this young man, you have
+an Uncle acquainted with a notable fellow, one <font>Grainger</font> ,
+and your Master making no Will (speaking merrily) this
+fellow is able to make it for him. Ask him if I did not tell
+him his Uncle was acquainted with such a person.
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> You told me so indeed.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> <font>Hill</font> , by the Oath you have taken, did  
+he
+not perswade you to endeavour that you and he and
+<font>Grainger</font> should counterfeit a Will.
+<pagebreak id="28" />
+<comment type="compiler">LAST LINE OF PAGE 27 REPEATED.</comment>
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> He did my Lord; he told me, That I, Mr.           
+<font>Garret</font> ,
+and another good Fellow, should be the three 
+Excecutors, and another person Overseer, and that this <font>Grainger</font>
+could do it undesernably; I answered him, I would not
+meddle with it for all the world.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Go, go, go, this is malice, for it was meer
+jesting with him.
+
+</dialogue><nonSpeech> <font>Elizabeth Fry</font> sworn.</nonSpeech><dialogue> 
+
+   Mrs. <font>Turner</font> came to my house on Saturday morning
+last, at six a clock in the morning; she knocked me out of
+my bed, <font>I</font> asked who was there, she said, A friend; who
+are you said I? Come and see, sayes she; I said, who, Mrs.
+<font>Turner</font> ? she said, yes; I went and dressed me, and let her
+in; she said, there was a Friend of hers, a Merchant newly
+broak, he had a Wife, and seven or eight children; they
+desired to secure the money till they had taken their Oaths
+the money was not in their house. She said, her Husband
+and her Son <font>Ely</font> was coming with it. I went and lighted a
+Candle, there was she and her Son <font>Ely</font> with the money;
+she asked me, If I had a spare chest; I said, Yes, there
+was one within; she went in, opened the Chest, and she
+put in the wallets of money, I know not how much, my
+Lord. I asked her if there was any more to come, she
+said, Yes, her Husband was coming with more; she went
+to the door and let it in, but I know not who brought
+that.
+   </dialogue><nonSpeech> <font>Justice Bridgman.</font> </nonSpeech><dialogue> Did not Mr. <font>Turner</font> come in?
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> Yes, my Lord, he opened the bags, and asked his
+Wife touching the Seals; She said, the Gentlewoman that
+owed the money, had desired me to pull them off. They
+offered me twenty shillings for my kindness in it, told me,
+they had power to give it from the Gentlewoman; desired
+me if my sister or any should ask about it, bid me conceal
+it, because the discovery would ruin the poor
+<pagebreak id="29" /> 
+Gentlewoman and her Children, but rather to say, that they
+desired me to let some linnen lie there.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Were the bags sealed?
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> I see none sealed.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> How many wallets were in the shop?
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> I saw but three, and they put one into a Chest in
+the shop, and two in the kitchin.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> At that time when the mony was brought,
+was there any discourse of a 1100. pound?
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> To my best remembrance it was so.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Not a word of the sum.
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> There was five wallets brought into my house, three
+in the shop, two in the kitching.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Had they bags at each end?
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> Yes, my Lord?
+   </dialogue><nonSpeech>Sir <font>T. Aleyn.</font> </nonSpeech><dialogue> You hear what the wench sayes, she sayes,
+there was five wallets, three in the shop, two in the
+kitchin; <font>I</font> took two in the shop, and only one in the kitchin.
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> My Lord, <font>I</font> have two apprentices little girles, 
+when
+all the people were in the shop, said out aloud, that they
+saw Mrs. <font>Turner</font> go out of the shop with something in her
+Apron, covered with a red cloth, while <font>I</font> was above, my
+Lord.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Who should convey it away?
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Your Son was there.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Pray my Lord, ask her, which is <font>Ely</font> .
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> That is, </dialogue><nonSpeech>pointing to <font>Ely</font> .</nonSpeech>
+   <nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> It was false, this <font>Ely</font> carried none, the      
+Boy knew
+nothing of it; both my Sons are dear to me, and if either
+more then the other, it must be my eldest, and yet <font>I</font> must
+say, it was <font>John</font> my eldest Son that carried the money,
+this Boy was at home; She hath forsworn her self.
+   </dialogue><nonSpeech> <font>Fry.</font> </nonSpeech><dialogue> Your wife told me that <font>Ely</font> was to bring some.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="32" />
+<nonSpeech>Mr. <font>Hanson</font> the Goldsmith sworn.</nonSpeech>
+   <nonSpeech>The bag sealed was shewn him.</nonSpeech>
+   <nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Have you seen the Letter?
+   </dialogue><nonSpeech> <font>Hanson.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Doth that Seal and the Seal of the bag     
+agree?
+   </dialogue><nonSpeech> <font>Hanson.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Mr. <font>Tryon</font> , whose letter was that?
+   </dialogue><nonSpeech>Mr. <font>Tryon.</font> </nonSpeech><dialogue> Dr. <font>Henry Kings</font> Bishop of <font>Chichester</font> .
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Open the Letter, and see whether that be
+the Letter you received from the Bishop of <font>Chichester</font> . 
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> Shall <font>I</font> read it?
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> It is his Hand and Seal.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> Shew the bag and letter to the Foreman of
+the Jury; </dialogue><nonSpeech>which was done, and most of the Jury viewed it.</nonSpeech>
+   <nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> You observe this evidence; this was one of
+the bags that was taken in the <font>Minories</font> , that Collonel 
+<font>Turner</font> was then removing: Mr. <font>Tryon</font> had 600. pounds of the
+Bishop of <font>Chichesters</font> in bags sealed; it appears by the
+Letter to be his seal, and these gentlemen sware this was one
+of the bags then pulled out of the wallet, and Sir <font>T. A.</font>
+has had it in his custody since.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> One thing more observe, he asked his Wife
+when the mony was brought into this womans house, have
+you taken off the Seals? his Wife said, The Gentlewoman
+directed her to take them off.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Some were taken off, but it seems this was
+left on.
+
+</dialogue><nonSpeech> <font>Here</font> Turner <font>spoke somewhat to the Jury</font> .</nonSpeech>
+   <nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Pray Mr. <font>Turner</font> discourse not with  
+the Jury,
+your whispering will do you little good, though <font>I</font> think
+they are honest men, and will not be guided by you, yet
+we expect the same carriage from you, as from other
+Prisoners; you shall have all the justice that may be.
+<pagebreak id="33" />
+
+</dialogue><nonSpeech> <font>Cole</font> the Serjeant sworn.</nonSpeech>
+
+   <nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Speak your knowledge.
+   </dialogue><nonSpeech> <font>Cole.</font> </nonSpeech><dialogue> On <font>Saturday</font> in the afternoon about three a    
+Clock,
+my brother and I arrested Collonel <font>Turner</font> in an Action
+of seven hundred pounds.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> At whose suit?
+   </dialogue><nonSpeech> <font>Cole.</font> </nonSpeech><dialogue> At the suit of <font>Thomas Lyon</font> , who with others  
+was
+bail for him.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> It was only hearing of this foolery that caused 
+it.
+   </dialogue><nonSpeech> <font>Cole.</font> </nonSpeech><dialogue> My Lord, we went to the Hoop Tavern, he sent for
+Mr <font>Tryons</font> man, that he should engage for this account, 
+that he might have his liberty to look after master <font>Tryons</font>
+business; soon after came the Constable, and he charged
+us to assist him to go before Sir <font>Thomas Aleyn</font> ; by and by
+<font>I</font> was saying, Collonel <font>Turner</font> , how could this house be
+Rob'd, and none of the doors broke? O said he, I
+took a man in the <font>Minories</font> , who has discovered it me; he
+told me that one going into the Cellar in the Day-time,
+lay there till night, then went up Stairs, found a Candle
+and light it, went up to the Old Gentleman's Chamber,
+took the Key from his bed-side, and went down, and let
+all the rest of the Thieves in; the young man being there,
+said, it was well the maid and I was not at home, we
+should have been killed; no sayes he, you would not have
+been killed, only bound.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> As the Fellow told me.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Did he not say nothing touching Mr.
+<font>Tryons</font> tooth?
+   </dialogue><nonSpeech> <font>Cole.</font> </nonSpeech><dialogue> He said that the Fellow putting his finger in his
+mouth to gagg him, the Old Gentleman bit him; and he
+strugling to get out his finger, pul'd out his tooth.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> You are very perfect at it Mr.          
+<font>Turner</font> ,
+every way.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> <font>I</font> my Lord, <font>I</font> examined him every way.
+<pagebreak id="34" />
+</dialogue><nonSpeech> <font>Cole</font> the Yeoman sworn.</nonSpeech><dialogue>
+   My Lord, <font>I</font> can say only what my Brother said before.
+<comment type="compiler">SPEAKER NAME OMITTED.</comment> Tell it. <comment type="compiler">COLE SPEAKS:</comment> <font>I</font> arrested   
+him, </dialogue><nonSpeech> <font>&amp;c.</font> And so related in the same 
+manner his Brother did.</nonSpeech>
+   <nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> , what do you know about      
+breaking
+your own Desk?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> My Desk was safe locked, and the Key in my
+Pocket, <font>I</font> lost out of that Desk about fourty five pound of my
+own.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Where did it stand?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Upon a Table in the Ware-house; the Jewels were
+in a Drawer under the Table in the Counting-house.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> How did you leave Mr. <font>Tryons</font> door?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Double locked.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> Who had the Key?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> <font>I</font> had.
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Was there more then one Key?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Alwayes two.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> Who had the other?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> The other Key was in my Masters Chamber.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> Mr. <font>Tryon</font> , how was your own door opened?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> <font>I</font> called some of my Neighbours, and Mr.
+<font>Vander Anchor</font> came up to me, it seems they had forced open
+the door with a Crow of Iron.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> The door of your Chamber do you mean?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> No, the Street-door.
+   </dialogue><nonSpeech>L. <font>Bridgman.</font> </nonSpeech><dialogue> How was your Chamber door opened?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> <font>I</font> never lock my Chamber door, but pull it too.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> , the Counting-house where  
+the
+Jewels were, was that lockt?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes, and the Drawer <font>I</font> think was lockt,        
+sometimes
+he does, and sometimes he does not lock it.
+   </dialogue><nonSpeech>L. Ch. J. <font>Hide.</font> </nonSpeech><dialogue> Was the House doors open, or no?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Before <font>I</font> came, the Neighbours had broke open  
+the
+Door.
+   </dialogue><nonSpeech>L. Ch. J. <font>Hide.</font> </nonSpeech><dialogue> Mr. <font>Tryon</font> , were your Counting-house
+and Till, where the Jewels lay, lockt?
+<pagebreak id="35" />
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> Ever my Lord.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> That night?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> Yes my Lord.
+   </dialogue><nonSpeech>L. <font>Ch. J. Hide.</font> </nonSpeech><dialogue> Was it opened with a key, or broken open?
+   </dialogue><nonSpeech> <font>Tryon.</font> </nonSpeech><dialogue> <font>I</font> know not how it was opened, my key was among
+a bunch of keys.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="40" />
+   <nonSpeech> <font>L. Mayor.</font> </nonSpeech><dialogue> Pray repeat one part of your Evidence
+again; that was, that some body came to Mr. <font>Tryons</font> house,
+from the house in the <font>Minories</font> , charging Mrs. <font>Turner</font> to
+have been at that house.
+   </dialogue><nonSpeech>Sir <font>T. Chamb.</font> </nonSpeech><dialogue> <font>I</font> said, that before <font>Turner</font> came in 
+with the
+Jewels, Sir <font>Thomas Aleyn</font> had received a little note,
+wherein was affirmed, that <font>Turner</font> and his Wife had been there;
+with which she was acquainted, and swore and took on, she
+was a Whore for she was not there.
+   </dialogue><nonSpeech> <font>S. T. Aleyn.</font> </nonSpeech><dialogue> When <font>I</font> examined Mrs. <font>Turner</font> , she  
+would
+own nothing. Why said <font>I</font> , will you deny this which is so
+apparent? that you were there (the maid told you so now)
+you denyed it when I charged you with it.
+   </dialogue><nonSpeech>Mrs. <font>Turner.</font> </nonSpeech><dialogue> I did not, it's false, what did --
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Prethee be patient dear <font>Mal</font> , come sit thee 
+down. 
+   </dialogue><nonSpeech> <font>S. T. Aleyn.</font> </nonSpeech><dialogue> I asked Mrs. <font>Turner</font> whether she knew of
+any money carried to the <font>Minories</font> that day; she said, she
+knew of no money at all; and said she was a whore that
+that said it.
+<pagebreak id="41" />
+   </dialogue><nonSpeech>Mrs. <font>Turner.</font> </nonSpeech><dialogue> They put it to me that I knew who brought
+the money to my house, and that a Woman acquainted them
+so; I said she was a lying Whore that said so.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> , what time of night  
+did you
+go out that night?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> It was 7 or 8 a Clock.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Was the dore locked?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes. 
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Did you carry the Key with you?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Was there any more Keys?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> There was another above in the Chamber by my
+Master's bed.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Did you find that other Key when
+you came back?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> In the same place?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> I know not that.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Mr. <font>Hill</font> , you have been       
+acquainted
+with some Transactions between Mr. <font>Tryon</font> and <font>Turner</font> ; was
+he not employed about a Mortgage?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> Two or three.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Was not the Names of some persons
+given to you to that purpose?
+   </dialogue><nonSpeech> <font>Hill.</font> </nonSpeech><dialogue> We have two or three Mortgages my Master lent
+him so much money upon: We heard of one man, but
+whether he gave Order to Mr. <font>Turner</font> to take so much money
+upon the Land, we know not.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Mr <font>Tryon</font> , have you inquired   
+after
+the persons?
+   </dialogue><nonSpeech> <font>Tryan.</font> </nonSpeech><dialogue> No my Lord; I did beleeve all was true.
+   </dialogue><nonSpeech> <font>Garret.</font> </nonSpeech><dialogue> I have enquired after Sir <font>Theophilus          
+Gilpin</font> , but
+cannot find that he has any Estate in <font>England</font> .
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> My Lord, <font>Gilpin</font> onely assignes a Judgement of
+<font>Wescott's</font> .
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Then if <font>Wescott</font> be good, it is
+sufficient; you should inquire after him.
+<pagebreak id="42" />
+   </dialogue><nonSpeech>Sir <font>Thomas Aleyn.</font> </nonSpeech><dialogue> My Lord; <font>John Turner</font> his Son there,
+fled away from me, when I came to the House in the 
+<font>Minories</font> .
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Why did you flie away?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> I did not, Sir.
+   </dialogue><nonSpeech>Sir <font>Thomas Aleyn.</font> </nonSpeech><dialogue> No! You ran away as fast as you could;
+you got over a ditch.
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> My Lord, a Woman cryed out, Get away and
+save your life; and I not knowing what the matter was, I went
+away.
+   </dialogue><nonSpeech>Coll. <font>Turner.</font> </nonSpeech><dialogue> Poor Boy; he thought Thieves had been
+coming, and affrighted him.
+   </dialogue><nonSpeech>Sir <font>Thomas Aleyn.</font> </nonSpeech><dialogue> As to <font>Ely Turner</font> , I examined him
+upon the Sunday, the day after his Father was committed, he
+would not confesse the carrying of any Money; and the Maid
+swearing it, I committed him also.
+   </dialogue><nonSpeech>Coll. <font>Turner.</font> </nonSpeech><dialogue> What's that of <font>Ely</font> ? Upon my Soul, the 
+Boy
+carried none.
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> I carried vvhat vvas carried.
+   </dialogue><nonSpeech>Coll. <font>Turner.</font> </nonSpeech><dialogue> My Lord, one Son is as dear to me as the 
+other, but if either be more, it must be my eldest; but yet
+I must say, it vvas <font>John</font> my eldest Son that carried the
+money.
+   </dialogue><nonSpeech>Sir <font>Tho. Aleyn.</font> </nonSpeech><dialogue> My Lord, <font>William Turner</font> vvas brought
+before me on Tuesday or Wednesday; Sir <font>Rich. Brown</font> sent out
+his Warrant for him, being a person of evil name, and likely to
+do such a fact: Being taken, he vvas brought before me. My
+Lord, vvhen Mr. <font>Tryon</font> looked upon him he suspected him;
+I examined him vvhen he savv Coll. <font>Turner</font> ; he said, not these
+three years, not to speak to him; and yet one at the <font>Cock</font>
+behind the <font>Exchange</font> said, this <font>William Turner</font> staid for Coll.
+<font>Turner</font> at his house tvvo hours; that Coll. <font>Turner</font> came in,
+paid for the Pot of drink, and for ought he knevv they both
+vvent together; thereupon I committed him.
+   In the Afternoon I ordered this person to send his Servant;
+one came and made Oath that he came in, and inquired for
+Coll. <font>Turner</font> , asked for him, staid tvvo hours for him; that
+<pagebreak id="43" />
+they vvent both out of the house together; and this vvas on
+the Wednesday, the day before the Robbery.
+
+</dialogue><nonSpeech> <font>William Dawes</font> sworn.</nonSpeech><dialogue>
+
+   All that I can say is this; <font>William Turner</font> was at my house on
+Wednesday was seven-night last; comes in, and called for a
+Flaggon of Beer; there comes in a Customer of mine, sayes
+he to me, What do you with such a Fellow in your house? have
+a care of him, he is a dangerous fellow; presently after Col.
+<font>Turner</font> came in and paid for a Flaggon of Beer, and went
+away.
+   </dialogue><nonSpeech>Col. <font>Turner.</font> </nonSpeech><dialogue> I drank not with him, did I?
+   </dialogue><nonSpeech> <font>Dawes.</font> </nonSpeech><dialogue> Not that I saw.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Sir <font>Tho. Aleyn</font> , Did not this     
+<font>William
+Turner</font> deny that he had seen Col. <font>Turner</font> lately.
+   </dialogue><nonSpeech>Sir <font>Tho. Aleyn.</font> </nonSpeech><dialogue> He said positively he had not seen       
+him these
+Three years so as to speak to him; said, he was grown too
+high for him.
+</dialogue><nonSpeech> <font>John Rowse</font> ( <font>Dawes</font> Servant) sworn.</nonSpeech>
+
+   <nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Do you remember when <font>Will.       
+Turner</font>
+was at your Masters house? which is he?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> That's he </dialogue><nonSpeech>pointing to <font>William</font> </nonSpeech><dialogue> he was    
+there upon
+Wednesday the 6 of this month.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Did <font>James</font> (called Col.) <font>Turner</font>  
+come 
+there then?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> He came, and said he staid for the Col. and by and
+by the Collonel came?
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> When he came, what did they?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> He went to the Bar and paid the reckoning.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> What time of the day?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> About 12. or 1. a Clock.
+   </dialogue><nonSpeech> <font>L. Ch. J. Bridgeman.</font> </nonSpeech><dialogue> Did you ever see them both there
+before?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> No, I never see them together before, but several
+others have inquired for Col. <font>Turner</font> at our house.
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> By the Oath you have taken, Did <font>William
+Turner</font> say he staid for Col. <font>Turner</font> , and that after Col.      
+<font>Turner</font>
+came, he paid for the Drink, and they both went away
+together, and this on the Wednesday?
+   </dialogue><nonSpeech> <font>Rowse.</font> </nonSpeech><dialogue> Yes Sir, it was so.
+   </dialogue><nonSpeech>Col. <font>Turner.</font> </nonSpeech><dialogue> My Lord, I left him there; he followed me
+to the Exchange about his Arrears, as Twenty poor Gentlemen
+doe.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="63" />
+   <nonSpeech> <font>L. Bridgman,</font> </nonSpeech><dialogue> I will tell you what you have done; you
+have made a very long story, and have taken up the time
+of the Court these two hours in a Narrative, and when all
+is done, answer me, Have you any Witnesse to prove all this
+Discourse between you and <font>Wilde</font> .
+<pagebreak id="64" />
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I have by Witnesses to prove, I said this, that
+there was such Discourses between us.
+
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> No doubt of it, and so will many a man
+at <font>New-gate</font> frame such a story as this.
+
+   </dialogue><nonSpeech> <font>L. C. J. Hide.</font> </nonSpeech><dialogue> You have told a long story about         
+<font>Wilde</font> ,
+that you took him by the Throat, and that you were alone, 
+what Weapons had you?
+
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> None my Lord.
+
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> Had you a Lanthern with you?
+
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> No my Lord.
+
+   </dialogue><nonSpeech> <font>L. Bridgman.</font> </nonSpeech><dialogue> What time of the Night was it?
+
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Twelve a Clock my Lord.
+
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> You staid till foure, so they were foure
+houres a bringing of the money.
+
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Yes, my Lord.
+<pagebreak id="65" />
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> You took a man in the dark by the
+throat, that man that was guilty of such a thing, as when
+that you did let him go to call his Companions, to bring
+the money, bring fellows to you single; I would be glad to
+know whether in this case they would not have knocked 
+you on the head, and killed you?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> My Lord, <font>Wild</font> had engaged his soul, and I my
+soul to him, that if I would not discover him him I should
+go away free.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Great security indeed.
+   </dialogue><nonSpeech>Col. <font>Turner</font> called several Witnesses, <font> <foreign> (viz.) </foreign> </font> Mr.
+<font>Vandeput</font> , Mr. <font>Covel</font> , Mr. <font>Legoose</font> Mr. <font>Snow</font> , and    
+Mr. <font>Mosely</font> the
+Constable.</nonSpeech><dialogue> <comment type="compiler">TURNER SPEAKS:</comment> I desire my maid may be called; pray 
+ask Sir 
+<font>Thomas Allein</font> what he hath done with my Maid, he took
+her up with Sir <font>Richard Brown</font> and two Marshals men (pray
+Gentlemen make not a laughing business of this) Sir 
+<font>Thomas</font> pray where is my Maid.
+   </dialogue><nonSpeech>Sir <font>Thomas Allein,</font> </nonSpeech><dialogue> I had this maid upon examination, I
+finde cause of further Examination, and thereupon
+directed an Officer to take her, and she is now in the
+Garden.
+
+</dialogue><nonSpeech>Mr. <font>Mosely</font> the Constable examined.</nonSpeech><dialogue>
+
+   When I came first to Mr. <font>Tryons</font> , at Mr. <font>Tryons</font> house, he
+was bound, then he asked where his Man and Maid was,
+he said he could not tell, by and by the man came in, and
+being asked where he was, he answered he was at Coll.
+<font>Turners</font> at Supper, presently after we went to Colonel
+<font>Turners</font> , he came to the Window, his Wife and two Sons
+were in bed.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Did Mr. <font>Tryon</font> give you order to come to
+him?
+   </dialogue><nonSpeech> <font>Mosely.</font> </nonSpeech><dialogue> Yes my Lord, he did.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide,</font> </nonSpeech><dialogue> <font>Mosely</font> you were Constable were you  
+not?
+what discourse had you with Mr. <font>Turner</font> about a dangerous
+place that you did suspect where some people may be to do
+such a feat?
+<pagebreak id="66" />
+   </dialogue><nonSpeech> <font>Mosely.</font> </nonSpeech><dialogue> I never heard of any such thing spoken.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> You say Mr. <font>Tryon</font> he wished you to call
+<font>Turner</font> to him; did he give you any order or direction to
+search his house? who wished you to go up to the house to
+see whether his Sons and Daughters were in bed?
+   </dialogue><nonSpeech> <font>Mosely.</font> </nonSpeech><dialogue> Mr. <font>Turner</font> did my Lord.
+   </dialogue><nonSpeech> <font>Turner,</font> </nonSpeech><dialogue> He doth not say true my Lord; pray ask him
+when he came to my door and I opened it, whether Mr.
+<font>Tryons</font> servant were there at Supper that night; I said no. Is 
+your sons within said he? I said I. Pray let me see them.
+   </dialogue><nonSpeech> <font>Mosely.</font> </nonSpeech><dialogue> I came to Mr. <font>Turners</font> house and knocked at  
+the
+door with some others with me, at last the Col. came out
+of his bed. I suppose he came out of his bed, being partly
+naked, he came down to the door, I asked him where are
+your sons; they are in bed says he; said I Mr. <font>Tryon</font> is
+robbed, he would have you come to him.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Did he desire you to go up?
+   </dialogue><nonSpeech> <font>Mosely.</font> </nonSpeech><dialogue> No my Lord, but I asking him whether his sons
+were in bed, he said, I prethee go up and see.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> My Lord, I would prove where my sons were on
+Thursday night at ten a clock.
+
+</dialogue><nonSpeech> <font>Lord Marquis of</font> Dorchesters <font>servant examined</font> .</nonSpeech><dialogue>
+
+   My Lord, till nine a clock they were with me at my Lord
+Marquesses house.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> What time came they thither?
+   </dialogue><nonSpeech> <font>M. Servant.</font> </nonSpeech><dialogue> Between seven and eight at night.
+
+</dialogue><nonSpeech> <font>Col.</font> Turners <font>Maid examined</font> .</nonSpeech>
+
+   <nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Come Maiden pray tell my Lord and the Court
+when my sons came home this night.
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Between nine and ten a clock.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Were your Master and his Sons in bed all
+Friday night or no?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes my Lord they were.
+<pagebreak id="67" /> 
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Did your Master go forth on Friday night?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> No, he was at home and in bed all that night till
+eight a clock in the morning, and Thursday night before.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> A silly soul, she knows not what she says.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> I will ask you again, was your Master at
+home on Friday night?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> No I think he was not.
+   </dialogue><nonSpeech> <font>L. Ch. J. Hide.</font> </nonSpeech><dialogue> Why did you say so before?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> I cannot remember Sir.
+   </dialogue><nonSpeech> <font>L Bridgm.</font> </nonSpeech><dialogue> She knows her Masters mind.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> No upon my soul, my Lord.
+   </dialogue><nonSpeech> <font>L. Bridgem.</font> </nonSpeech><dialogue> My Masters of the Jury, this is the use that
+is made of this Maids testimony; she will say any thing,
+she is no fit witness, no trust to be given to her either one
+way or other.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Pray call Mr. <font>Cowel</font> , Mr. <font>Legoose</font> , Mr. 
+<font>Cook</font> the
+Goldsmith.
+   </dialogue><nonSpeech> <font>L. Bridgem.</font> </nonSpeech><dialogue> What do you call these for?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> To prove my Condition, my Credit and 
+Reputation.
+   </dialogue><nonSpeech> <font>L. Bridgm.</font> </nonSpeech><dialogue> The Jury knows that already.
+   </dialogue><nonSpeech>Mr. <font>Cook,</font> </nonSpeech><dialogue> Thus much I can say, that I have known him
+some twenty years, I have had dealing with him to the
+value of several 100 <font>li.</font> I have trusted him, and have found
+him very faithful. I have seen in his possession Jewels to the
+value of eight or ten thousand pounds; by which I suppose
+if he had been such a person he might have done himself a
+kindness by breaking.
+   </dialogue><nonSpeech>Mr. <font>Legoose.</font> </nonSpeech><dialogue> All I can say is I have an acquaintance with
+this person, he was a Solliciter, dealt honestly and
+faithfully in a business wherein I was concerned, he hath lived
+very well.
+   </dialogue><nonSpeech>Sir <font>Richard Brown.</font> </nonSpeech><dialogue> Where you have heard one              
+<comment type="compiler">SOURCE TEXT: on</comment> man say
+he is an honest man, have you not heard a hundred say
+otherwise.
+   </dialogue><nonSpeech>Mr. <font>Legoose.</font> </nonSpeech><dialogue> There hath been an ill report that he hath
+been a person that lived high.
+<pagebreak id="68" />
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> Sir <font>Richard Brown</font> , no man in <font>England</font>   
+can say
+black is my eye.
+   </dialogue><nonSpeech>Sir <font>Rich. Brown,</font> </nonSpeech><dialogue> Mr. <font>Turner</font> , you say you were upon
+<font>Tower-Hill</font> all Friday night, whether went you in the
+morning.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I came home between four and five in the
+morning.
+   </dialogue><nonSpeech>Sir <font>R. Brown.</font> </nonSpeech><dialogue> Your maid offered to depose even now, that
+you did not rise all that morning before eight of the Clock.
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> <font> <foreign>Lapsis Linguae</foreign> </font> ; If the Girle be      
+mistaken.
+   </dialogue><nonSpeech>L. <font>Bridgeman.</font> </nonSpeech><dialogue> Do not trouble your self with that, her
+evidence is of no force.
+   </dialogue><nonSpeech>Mr. <font>Jeffories.</font> </nonSpeech><dialogue> Col. <font>Turner</font> , I cannot say any thing  
+that
+will be advantageous to you, My Lord, and Gentlemen
+of the Jury; I have heard Mr. <font>Tryon</font> hath trusted him with
+Jewels to a good value, and that Mr. <font>Tryon</font> had a very
+good repute of him.
+   </dialogue><nonSpeech>Sir <font>Rich. Brown.</font> </nonSpeech><dialogue> Pray what report hath he upon the 
+Exchange?
+   </dialogue><nonSpeech> <font>Turner.</font> </nonSpeech><dialogue> I owe nothing there Sir <font>Richard</font> , nor none  
+there
+can lay any thing to my charge, except it be that I am a
+Cavalier.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="72" />
+   <nonSpeech>Lord Chief Justice <font>Hyde.</font> </nonSpeech><dialogue> <font>William Turner</font> , what say   
+you?
+you see what is laid to your charge; first, you are a person
+of loose life, there were two at his Bed-side, he beleives
+you to be the person that gagged him, and helped to bind
+him.
+   </dialogue><nonSpeech> <font>William Turner.</font> </nonSpeech><dialogue> I was never in his house in my life, til
+with Sir <font>Thomas Alleyn</font> .
+   </dialogue><nonSpeech>Lo. Ch. Ju. <font>Hyde.</font> </nonSpeech><dialogue> Where were you?
+   </dialogue><nonSpeech> <font>Will. Turner.</font> </nonSpeech><dialogue> At home.
+   </dialogue><nonSpeech>L. C. J. <font>Hyde.</font> </nonSpeech><dialogue> Make that appear.
+   </dialogue><nonSpeech> <font>Wil. Turner.</font> </nonSpeech><dialogue> I have none here.
+   </dialogue><nonSpeech>L. C. J. <font>Hyde.</font> </nonSpeech><dialogue> He saith it was a man as like you as can
+be.
+   </dialogue><nonSpeech> <font>Will. Turner.</font> </nonSpeech><dialogue> And I am as innocent as may be.
+   </dialogue><nonSpeech>L. C. J. <font>Hyde.</font> </nonSpeech><dialogue> <font>John Turner</font> , that which is against   
+you is
+this, you on Saturday morning very early, was busie with
+your Father and Mother in the removing the money, and
+then when you had notice <comment type="compiler">SOURCE TEXT: notive</comment> that you would be
+apprehended, you got away.
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Sir, I did not know who it was that was
+come, whether to apprehend, or upon any other score, but
+the woman speaking to me, flee for your life, or such
+expressions, made me go away I know not how.
+   </dialogue><nonSpeech>Lord Chief Justice <font>Hyde.</font> </nonSpeech><dialogue> Did not you bring some
+mony?
+   </dialogue><nonSpeech> <font>John Turner:</font> </nonSpeech><dialogue> I Did my Lord.
+   </dialogue><nonSpeech>Lord Chief Justice <font>Hyde.</font> </nonSpeech><dialogue> How much was brought at
+that time?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> I carried away two Bags to <font>Wild</font> .
+<pagebreak id="73" />
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> Did you know him?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> Did you carry these to <font>Weild</font> on
+Saturday-morning? Did not you carry them to <font>Fryes</font> house?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> We took them afterwards from the house
+where <font>Weild</font> appointed us to meet.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> At what time of the day did you carry
+them back to <font>Weild</font> ?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Before Sir <font>Thomas Allen</font> came that day, 
+I
+was coming for more.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> To what place?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> At <font>Tower-Ditch</font> .
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> At what house?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> No house, but I delivered them at 
+<font>Tower-Ditch</font> .
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> At what time of the day?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> It was before Sir <font>Tho. Allen</font> came,     
+about 8
+or 9 of the clock in the Fore-noon.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Was there no people there? who was
+there?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> I cannot tell; I saw several other
+persons.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Did <font>Weild</font> stand in the street?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> How came you to know him?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> By my Fathers direction; and I had seen
+the man at our house that morning when he brought in the
+money.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Whereabouts? was it near the
+Quest-house? that is, the great house that stands in the middle of
+way?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> It was hard by the signe of <font>Noah's</font> Ark.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> This is a likely story to be believed, that
+you should in the day-time between eight and nine in the
+morning, meet in the <font>Tower-Ditch</font> that man that was a noted
+Thief, that had been in <font>Newgate</font> ; that you should tarry for
+this man to receive two Bags of money: see how it hangs
+together!
+<pagebreak id="74" />
+   </dialogue><nonSpeech> <font>L. Ch. Just. Hide.</font> </nonSpeech><dialogue> How often did you go?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Twice.
+   </dialogue><nonSpeech> <font>Hide.</font> </nonSpeech><dialogue> How much at a time?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> A single Bag.
+   </dialogue><nonSpeech> <font>Hide.</font> </nonSpeech><dialogue> Had you a Coat or Cloak?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Just as I am now.
+   </dialogue><nonSpeech> <font>Hide.</font> </nonSpeech><dialogue> Had <font>Weild</font> a great Black Coat? and what did he 
+do 
+with the money?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> I know not; but I delivered one in the
+street, and then went and fetched another, and he staid
+ready for it.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> Was this all the money that was brought in
+the morning, save that that Sir <font>Tho Allen</font> brought away?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> It was all, to my knowledge.
+   </dialogue><nonSpeech> <font>Sir Tho. Allen.</font> </nonSpeech><dialogue> Colonel <font>Turner</font> confessed to me on
+<font>Thursday-morning</font> <comment type="compiler">NO ITALICS FOR morning IN SOURCE TEXT</comment> that  
+more came unto his house, but that Rogue
+<font>Weild</font> took it away. 
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> How much?
+   </dialogue><nonSpeech> <font>Sir Tho. Allen.</font> </nonSpeech><dialogue> About 200 <font>l.</font>
+   </dialogue><nonSpeech> <font>L. Mayor.</font> </nonSpeech><dialogue> How many turns did you make when the
+money was carryed from your Fathers house to the
+<font>Mynories</font> .
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> Twice.
+   </dialogue><nonSpeech> <font>L. Mayor.</font> </nonSpeech><dialogue> Who went first?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> We went both together.
+   </dialogue><nonSpeech> <font>L. Mayor.</font> </nonSpeech><dialogue> How much was carryed between you both?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> The first time I carryed 200 <font>l.</font> as I can
+judge.
+   </dialogue><nonSpeech> <font>L. Mayor.</font> </nonSpeech><dialogue> Who carryed any more?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> My Father.
+   </dialogue><nonSpeech> <font>Sir O. Bridgeman.</font> </nonSpeech><dialogue> What did you bring the second time?
+   </dialogue><nonSpeech> <font>John Turner.</font> </nonSpeech><dialogue> 300 <font>l.</font>
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> <font>William</font> , one thing more: What was the
+occasion of meeting you and <font>James Turner</font> at the
+Ale-house?
+   </dialogue><nonSpeech> <font>VVill. Turner.</font> </nonSpeech><dialogue> I did not meet him, my Lord.
+   </dialogue><nonSpeech> <font>L. Bridgeman.</font> </nonSpeech><dialogue> You came thither, and called for a Pot
+<pagebreak id="75" />
+of Ale, and said you staid for Colonel <font>Turner</font> .
+   </dialogue><nonSpeech> <font>W. Turner.</font> </nonSpeech><dialogue> It is not right; I onely asked if Col.       
+<font>Turner</font>
+used the Horse; by and by he came and paid for the pot.
+   </dialogue><nonSpeech>L. <font>Bridgeman.</font> </nonSpeech><dialogue> You two went together; what was the
+occasion of your meeting together.
+   </dialogue><nonSpeech>Col. <font>Turner.</font> </nonSpeech><dialogue> Finding him there, I said I could not drink
+with him, and so we parted.
+   </dialogue><nonSpeech> <font>W. Turner.</font> </nonSpeech><dialogue> I called for a pot of drink, and having no
+money to pay for it, Colonel <font>Turner</font> coming by, I called him in,
+and desired him to pay for it, which he did.
+   </dialogue><nonSpeech>L. <font>Bridgeman.</font> </nonSpeech><dialogue> The Boy swore you said you staid for Col.
+<font>Turner</font> ; can you justifie you were at home, or in any other
+place? it is a great suspition <comment type="compiler">SOURCE TEXT: supition</comment> ; the old   
+Gentleman charged you
+to be very like the man, and you can give no account where
+you were, and <font>Turner</font> and you met together the day
+before.
+   </dialogue><nonSpeech> <font>W. Turner.</font> </nonSpeech><dialogue> I was at home.
+   </dialogue><nonSpeech>L. <font>Mayor.</font> </nonSpeech><dialogue> <font>William Turner</font> , when did you shave your
+Beard last?
+   </dialogue><nonSpeech> <font>W. Turner.</font> </nonSpeech><dialogue> Before <font>Christmass</font> .
+   </dialogue><nonSpeech>L. <font>Mayor.</font> </nonSpeech><dialogue> Who shaved it for you?
+   </dialogue><nonSpeech> <font>W. Turner.</font> </nonSpeech><dialogue> A Barber in <font>Golding-Lane</font> .
+   </dialogue><nonSpeech>L. <font>Mayor.</font> </nonSpeech><dialogue> When his hair is shaved off his chin, the other
+man whose Name is <font>Christmass</font> , being a smooth-chinn'd man,
+it's very possible that might beget the mistake in Mr.
+<font>Tryan</font> .
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

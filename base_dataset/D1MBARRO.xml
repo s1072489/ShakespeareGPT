@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1MBARRO">
+  <dialogueHeader>
+
+    <filename>D1MBARRO</filename>
+
+    <identifier>1 MISC D1MBARRO</identifier>
+
+    <title>EXAMINATIONS</title>
+
+    <author>BARROWE HENRY ET AL</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1586/1593?</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="MISCELLANEOUS">Miscellaneous text types</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BARROWE, HENRY, ET AL.</attribution>
+      <frontMatter>THE EXAMINATIONS OF HENRY BARROWE IOHN GRENEWOOD AND IOHN 
+PENRIE / BEFORE THE HIGH COMMISSIONERS / AND LORDES OF THE COUNSEL.
+PENNED BY THE PRISONERS THEMSELUES BEFORE THEIR DEATHES.
+(...)
+(DORTMUND? 1593?)
+PP. A2R.1 - B1R.34 SAMPLE 1
+PP. B3V.1 - C3R.19 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">PLACE AND YEAR OF PUBLICATION SUGGESTED BY BRITISH LIBRARY 
+CATALOGUE.</comment>
+
+<comment type="compiler">FOR CLARITY, LINEATION BELOW DEVIATES FROM THAT OF SOURCE TEXT.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A2R" />
+ <head>A BRIEF OF THE EXAMINATION OF ME 
+HENRY BARROWE THE 19. OF NOUEMBER. 1586. BEFORE THE
+ARCH B. ARCH D. AND DR. CUSSINS: AS NEERE AS MY MEMORIE
+COULD CARY: BEING AT LAMBETH.</head> <dialogue>
+<comment type="compiler">INTRODUCTORY REMARKS OMITTED.</comment>
+</dialogue><nonSpeech>Arch B.</nonSpeech><dialogue> Barrowe / is your name Barrowe?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> It is told me / that yow refuse to receiue or obey our 
+letter / know yow what yow doe? it is from the high commissioners / 
+and this man a pursuvant.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I refused to receive or obey that letter at that time.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why so?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Because I was vnder arrest / and imprisoned without warrant /
+and against law: and there fore now it was too late to bring the
+letter.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why / may not a Counsellor commit to prison by his bare
+commandement? </dialogue><nonSpeech> (alledging how the Aldermen of London doe daily.) </nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> That is not the question / what a counsellor may doe: but
+whither this man may doe it without warrant / by the law of the land:
+</dialogue><nonSpeech> (pointing to the keeper of the Clinke.) </nonSpeech>
+<nonSpeech>A.</nonSpeech><dialogue> Know yow the law of the land?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Very litle / yet was I of Grayes Inne some yeares. </dialogue><nonSpeech> (Then his
+two Doctours and he / derided mine vnskilfulnes.) </nonSpeech><dialogue> Let this passe: I
+look for litle help by
+<pagebreak id="A2V" />
+law against yow: I pray yow why haue yow imprisoned me / and after 
+this manner sent for me?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> That yow shal know vpon yowr oath: wil yow sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I hold it lawful to sweare / so it be done with due order and
+circumstances. 
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Reach a book / hold it him.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> What shal we doe with this?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Lay your hand vpon it man.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> To what purpose?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> To sweare.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I Vse to sweare by no bookes.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yow shal not sweare by the book / but by God onely.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> So I purpose when I sweare.
+</dialogue><nonSpeech>Cus.</nonSpeech><dialogue> Did yow neuer take an oath at an Assise before the Iudges
+there?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>Cus.</nonSpeech><dialogue> But would yow refuse there to lay yowr hand on a book and
+sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Then would your testimonie not be taken.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why man the book is no part of the oath / it is but a
+cerimonie.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> A needlesse and wicked ceremonie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why know yow what yow say? know yow what book it is? it is the
+Bible.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I wil sweare by no Bible.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Scismaticks are clamorous alwayes. it is a perpetual note
+to know them by.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Mr. Dr. Cussins saith true / such were the Donatistes alwayes
+in the counsels / and such art thow and al other scismatiks such as 
+thow art.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Say yowr pleasure / God forgiue yow: I am neither scismatike
+nor clamourous: I answer but yowr demandes / if yow wil I wil be
+silent.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wel wil yow lay your hand on the Bible and take an oath.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I vse to ioyne no creatures to the name of God in an oath.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Neither shal yow / this is but a custome commanded by law.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> The law ought not to commannd a wicked custome.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why / is it not lawful to lay your hand on a book?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yes / but not in an oath.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wil yow lay your hand in my hand, and sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wil yow lay your hand on y=e= table and sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wil yow hold your hand towards heauen and sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> That is not amisse: but I wil use my libertie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why yow hold it lawful to lay your hand on the table and
+sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea, so it be not commanded and made of necessitie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why, the booke is y=s= like: it is nothing of the oath but
+a thing indifferent.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> If it be nothing of the othe / why doe yow so peremptorilie
+inioyne it? and if it be indifferent as yow say it is / then doe I wel
+in not vsing it.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Nay / yow doe not wel in refusing it / for therin yow shew
+yowr self disobedient to the higher powers set over yow by God.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Euen now yow said it was a thing indifferent: if it be so /
+ther is no power can bring me in bondage to my libertie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Where finde yow that?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> In S Paul. 1. Cor. </dialogue><nonSpeech> <font>The Arch B. Archd.</font> Dr. Cussins / al 
+denied it. I affirmed it. a litle testament in greek and latine was 
+brought me / and a Bible I looked for <comment type="compiler">SOURCE TEXT: foe</comment> the place 
+but could not finde it: great fault was in my memorie / ffor I looked 
+in the 10. chapter / neither in deed could I bethinke me where to 
+finde it / they so interrupted me.</nonSpeech>
+<pagebreak id="A3R" />
+<nonSpeech>A.</nonSpeech><dialogue> Your devinitie is like yowr law.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> The word of God is not the worse for my il memorie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yow speak not as yow thinck / for yow are prowd.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I haue smal cause to be prowd of my memorie / yow see y=e=
+default of it: but the Apostle saith it. </dialogue><nonSpeech>Againe they al denyed
+it.</nonSpeech><dialogue> Yow then haue no cause to condemne my memorie / seing yow al 
+haue vtterly forgotten this sayeng. </dialogue><nonSpeech>Then repeated I the words: Al
+thinges are lawful for me / but I wil not be brought in bondage to my
+libertie. Then they recited. Rom. 14. and 1. Corint. 8. al thinges are
+lawful for me / but al thinges are not expedient. I said I meant not
+that place.</nonSpeech>
+<nonSpeech>A.</nonSpeech><dialogue> I would like it wel if yow cited your place in Greek or
+Latine.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Why yow vnderstand English: is not the word of God in English?
+</dialogue><nonSpeech>Then Cussin began to speak of <foreign>indefinita propositio</foreign> , but
+whervpon I can not cal to remembranc: i <comment type="compiler">SO IN SOURCE TEXT 
+AT LINE BREAK</comment> I told him we were now about the new Testament / 
+it might be if he had asked me that question when I knew him in 
+Cambridge / I should then haue answered him he forthwith called to 
+remembrance of what howse I was.</nonSpeech>
+<nonSpeech>A.</nonSpeech><dialogue> Were yow then of Cambridge?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea / I knew yow there. </dialogue><nonSpeech>He said he was there before I was
+borne. I said it might be. Then he entred into discourse of his 
+antiquitie. Then he asked me if I had read books / as Calvin / Beza 
+etc. I answered that I had read more then ynough: But yet I know not
+why I am emprisoned.</nonSpeech>
+<nonSpeech>A.</nonSpeech><dialogue> It is reported that yow come not to church / are disobedeent to
+her maiestie / and say that ther is not a true church in England / 
+what say yow / haue yow at any time said thus?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> These are reportes. when yow produce yowr testimonie 
+<comment type="compiler">SOURCE TEXT: testtmonie</comment> I wil answer.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> But I wil better beleeue yow / upon yowr oath / then them: how
+say yow / wil yow sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I wil know what I sweare to / before I sweare.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> ffirst sweare: and then if any thing be vnlawfully demaunded /
+yow shal not answer.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I haue not learned so to sweare / I wil first know and consider
+of the matter before I take an oath. </dialogue><nonSpeech>Thus many thinges being 
+alleaged to and fro by vs, the Arch B. commaunded Cussin to recorde / 
+that I refused to sweare vpon a book.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> yea / and set downe also / that I wil not sweare thus at random 
+<comment type="compiler">SOURCE TEXT: randon</comment> / but first I wil know and consider of the 
+thinges I sweare vnto / whither they require an oath.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wel / when were yow at church?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> That is nothing to yow.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yow are a scismatick / a recusant / a seditious person / </dialogue><nonSpeech>etc.
+with many such like.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> Say what yow list of me / I freelie forgiue yow.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I care not for yowr forgiuenes.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> But if yow offend me / yow ought to seek it / while yow are in
+the way with me.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> When were yow at church?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I haue answered that in an other place / it belongeth not to
+yow.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Why / are yow indited?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I am.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yet belongeth it to vs <comment type="compiler">SOURCE TEXT: ys</comment> . I wil not onely 
+medle with yow / but arraigne yow as an heretick before me.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yow
+<pagebreak id="A3V" />
+shal doe no more then God wil: Erre I may / but hereticke wil I never
+be.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wil yow come to church hereafter?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> ffuture thinges are in the Lords handes: if I doe not / yow
+haue a law.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Haue yow spoken these wordes of the church of England?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> When yow produce your witnesse I wil answer.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> But vpon your oath I wil beleeue yow.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> But I wil not accuse my self. </dialogue><nonSpeech>Then began he againe to charge
+me with scisme / sedition / heresie.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> Yow are lawlesse: I had rather yow produced yowr witnesse.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Of what occupation are yow?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> A christian.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> So are we al.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I deny that.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> But are yow a minister?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> A scholemaister?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> What then / of no trade of life?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> In your letter / yow know my trade in the superscription.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yow are then a gentleman.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> After the manner of our conntrie a gentleman.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Serue yow any man?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No I am Gods freeman.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Haue yow landes?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No / nor fees.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> How liue yow?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> By Gods goodnes / and my freinds
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Haue yow a father aliue?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wher dwelleth he / in Norffolke?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wher dwel yow / in London?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Wel can yow finde sufficient suretie for your good behaviour?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yea / as sufficient as yow can take.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> What / yow cannot haue the Queene?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Neither can yow take her / she is the iudge of her law: yet for
+my good behauiour / I suppose I could get her word.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Doth she know yow then?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I know her.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Els were it pitie of your life.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Not so.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Can yow haue any of these that came with yow / to be bound for
+yow?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I know not / I thinke I can.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> What know yow them not?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I know one of them.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> What is he?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> A gentleman of Graies ynne.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> What cal yow him?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Lacie.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> But know yow what band yow should enter / yow are bound hereby
+to frequent our churches.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I vnderstand yow of my good behauiour.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> And in it is this conteyned: and so yow had forfeyted your
+bond at the first.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Wel now I know yowr minde / I wil enter no such bande.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Then I wil send yow to prison. </dialogue><nonSpeech>Then called he Watson the
+pursuva~t / and D. Cussins a part into a windowe / where he made a
+warrant to send me to prison.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> Yow shal not touch one haire of my head / without the wil of my
+heauenly father.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Nay I wil doe this to rectifie yow.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Consider what yow doe / yow shal one day answer it.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yow wil not sweare: yow wil not enter bond for your 
+appearance <comment type="compiler">SOURCE TEXT: appcarance</comment> .
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I wil put in band for my baile in the prison / and for my true
+imprisonment.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Nay / that wil not serue the turne / Mr. Doctor / enter these
+thinges. </dialogue><nonSpeech>Then Cussins wrote that I refused to sweare / and enter
+bond.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> I wil send some to yow to conferre. 
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> That were more requisite
+before my imprisonment. <omission type="line" />
+<comment type="compiler">EXAMINATION OF BARROWE CONTINUES 8 DAYS LATER, AGAIN BEFORE THE 
+ARCHBISHOP OF CANTERBURY.</comment>
+<pagebreak id="A4R" />
+<omission type="line" />
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Wil yow then now sweare?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I must first know to what.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> So yow shal afterward.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I wil not sweare vnlesse I know before.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Wel I wil thus far satisfie your humour. </dialogue><nonSpeech>London bega~ to
+interrupt / but Cant / cut him of / and produced a paper of 
+obiections against me / which he delivered to one Beadle to read.</nonSpeech><dialogue>
+<comment type="compiler">BARROWE'S SUMMARY OF THE PAPER OMITTED.</comment>
+<pagebreak id="A4V" />
+<omission type="line" />
+</dialogue><nonSpeech>L.</nonSpeech><dialogue> How say yow Mr. Deane of Pauls / here is for yow / yow haue
+written a catechism /
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> This fellow deales indifferently / he makes vs al alike.
+Thus far haue I satisfied yow: now yow know what yow shal sweare
+vnto: how say yow / wil yow sweare now?
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> My Lordes grace doth not shew this favour to many.
+</dialogue><nonSpeech>Can.</nonSpeech><dialogue> ffetch a book.
+</dialogue><nonSpeech>Bar.</nonSpeech><dialogue> It is needles.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Why / wil yow not sweare now.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> An oath is a matter of great importance / and requireth great
+consideration. But I wil answer yow truly / Much of the matter of
+this bil is true / but the forme is false.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Goe to sirra / answer directlie / wil yow sweare? reach him a
+book.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Ther is more cause to sweare mine accuser: I wil not sweare.
+</dialogue><nonSpeech>C.</nonSpeech><dialogue> Where is his keeper? yow shal not prattle here. Away with him:
+clap him vp close / close / let no man come at him: I wil make him tel
+an other tale / yer I haue done with him.
+<comment type="compiler">EXAMINATION OF BARROWE CONTINUES SEVERAL MONTHS LATER. HE IS
+COMMANDED TO LAY HIS HAND ON THE BIBLE.</comment>
+<pagebreak id="B1R" />
+</dialogue><nonSpeech>Bar.</nonSpeech><dialogue> To what ende?
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> To sweare.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I haue not learned to sweare by any creatures.
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> This is the word of God / the Bible.
+</dialogue><nonSpeech>B. I began to open the book / and meant in deed to haue asked him / 
+if the Apocrypha scripture / and notes which were in it / were the 
+word of God: but Cant. belike suspecting some such matter would not
+suffer me to look into it / to whom then I answered that that booke 
+was not the eternal Word of God / that eternal God himselfe / by whom
+onely I must sweare / and not by any bookes or Bibles.</nonSpeech>
+<nonSpeech>Cant.</nonSpeech><dialogue> So yow shal sweare by God.
+</dialogue><nonSpeech>Bar.</nonSpeech><dialogue> To what purpose then is this booke vrged? I may sweare by
+nothing besides him / nor by nothing with him.
+</dialogue><nonSpeech>Winch.</nonSpeech><dialogue> How proue yow that?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> It is so commanded in the book of the law. <font>Deut.</font> 6. and
+10. Chapt. so expounded by sundrie of the prophets / by Christ
+himselfe and his Apostles.
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> Wel wil yow sweare that yow wil answer nothing but the
+truth / and the whole truth / to such Interr. as we shal demaund of
+yow?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I haue learned to know the matter before I either sweare or
+answer.
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> Set downe that he wil not sweare.
+</dialogue><nonSpeech>L. C. Iustice.</nonSpeech><dialogue> Yow shal onely sweare to answer the truth: if 
+any vnlawful thing be demaunded of yow / yow need not answere.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> My Lord / euery truth requireth not an oath / ther must great
+regard and reuerence be vsed in an oath / and an oath for
+confirmation ought to be the ende of al strife: My Lo. if I should
+erre / and deliuer it vpon mine oath for truth / it were a double
+sinne / likewise if I should eyther not know / not remember / or not
+vtter the whole truth / I were by such a rash oath forsworne: But by
+Gods grace I wil answer nothing but the truth.
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> A Christian mans word ought to be as true as his oath / we
+wil proceed with yow without your oath / </dialogue><nonSpeech> (and taking a paper of
+Interr. in his hand / said / ) </nonSpeech><dialogue> what say yow to this. Is it lawful 
+to say the Pater noster publickly in the church / or priuatly, as a
+prayer or no?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I know not what yow meane by your Pater noster / vnlesse
+peradventure that forme for prayer which our sauiour Christ taught
+his disciples / commonly called the Lordes prayer.
+</dialogue><nonSpeech>Cant.</nonSpeech><dialogue> I so meane. <omission type="line" />
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="B3V" />
+<comment type="compiler">EXAMINATION OF BARROWE CONTINUES AT A LATER DATE.</comment>
+</dialogue><nonSpeech>L. Treas.</nonSpeech><dialogue> Why are yow in prison Barrowe?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I am in prison my Lo. vpon the statute made for recusantes.
+</dialogue><nonSpeech>L. Treas.</nonSpeech><dialogue> Why wil yow not goe to church?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> My whole desire is to come to the church of God.
+</dialogue><nonSpeech>L. Tre.</nonSpeech><dialogue> Thow art a fantastical fellow I see / but why not to our
+churches?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> My Lo. the causes are great and many / it were too long to
+shew them in particuler: but breifly my Lo. I can not come to your 
+church / because al the profane and wicked of the lande are receiued 
+into the body of your church / 2. Yow haue a false and Antichristian 
+ministery set ouer your church. 3. Neither worship yow God aright / 
+but after an jdolatrous and superstitious ma~ner: 4. and your church 
+is not gouerned by Christes Testament / but by the Romish courtes and 
+canons / etc.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Here is matter ynough in deed: I perceiue thow takest
+delight to be an author of this new religion. </dialogue><nonSpeech>The L. Chanc. said he
+neuer heard such stuffe before in al his life.</nonSpeech>
+<nonSpeech>B. As I was about to shew that neither I was an author of this
+religio~ / and that it was not new as they supposed: the B. of Lo.
+interrupted me / and asked me wherin their worship was jdolatrous?
+The L. Treas. also demaunded the same question.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> Ther is nothing els in that book of your common prayer:
+</dialogue><nonSpeech>being demaunded some particulers / I shewed that their saintes
+daies / eues / fastes / idol feastes / etc.</nonSpeech>
+<nonSpeech>Lond.</nonSpeech><dialogue> Stay there: why / is it not lawful to keep a memorial of
+the Saintes in the church?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Not after your manner: it is jdolatrie.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> How proue yow that?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> By the 1. commaundement.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> Why / that is / thow shalt haue no other Gods but me. What
+of that?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> The word is / Thow shalt haue no other Gods before my face. We
+are therfore forbidden to giue any part of Gods worship to any
+creature.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> Why / neither doe we.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Yes / yow celebrate a day / and sanctifie an eaue / and cal 
+them by their names / yow make a feast / and deuise a worship vnto 
+them.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Why / may we not cal the day after their names? is not that
+in our libertie?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No my Lord.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> How proue yow that?
+</dialogue><nonSpeech>B</nonSpeech><dialogue> In the beginning of the booke it is written that God himselfe
+named al the dayes / the first the second / etc.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Why then we may not cal them Sunday / Monday etc.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> We are otherwise taught to cal them in the booke of God.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Why thow they selfe selfe callest it the Lordes day.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> And so the holy Ghost calleth it in the 1. of the Reuelation.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> We haue nothing in our saintes dayes / but that which is
+taken forth of the Scriptures.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> In that yow say true / for yow finde no Saintes dayes in the
+Scriptures.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> We finde their Histories and deedes in the Scripture.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> But not their dayes and festiuals in the Scripture. </dialogue><nonSpeech>The
+Lo. Buckh. then said / I was a proud spirit. The L. Treas. said I had
+a hotte braine: and taking into his hande a book of common prayer /
+which lay on the boord / read certaine of the collectes for the
+<pagebreak id="B4R" />
+Saintes / and shewed that the Epistles and Gospels were part of the
+Scripture: and asked me what I could mislike therin?</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> I mislike al / for we ought not so to vse Scriptures or 
+prayers.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> May we not make commemoration of the saintes liues in the
+church.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Not after yowr manner / to giue peculier dayes / eues / 
+fastes / worship / feastes vnto them.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> But what is there jdolatrous?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Al / for we ought not so to vse the Scriptures.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> What not in commemoration of the Saintes?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> As I haue said / not after yowr manner.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> But what is euil here?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> All my Lo. for by abusing the Scripture we may make it an
+jdol The circumstances make euil thinges / of themselues good / as in
+the massebook from whence this stuffe is fetched there are sundry 
+good collectes and places of scripture / which their superstitious 
+abuse make abhominable and euil. Likewise coniurers make many good 
+prayers which the circumstances also make euil. </dialogue><nonSpeech>Here the Lo. Buckh. 
+said I was out of my wittes.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> No my Lo. I speak the wordes of sobernes and truth / as I 
+could make plaine if I might be suffered.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Here we pray / that our liues may be such as theirs was
+void of couetousnes.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> So ought we to doe / and not to reade or haue any parte of the
+scripture without fruite / and to follow and flee that which we finde
+praised and discommended in them: yet ought we not to vse the
+scriptures in this manner to dayes and times / neither to be thus
+restreyned or stinted in our prayers / as to be tied to this forme of
+wordes / place / time / manner / kneele / stand etc.
+</dialogue><nonSpeech>L. Buckh.</nonSpeech><dialogue> This fellow delighteth to heare himselfe speake.
+</dialogue><nonSpeech> (The L. Chanc. also spake some what at that time / which I cannot
+cal to remembrance as yet) Then the Arch B. also spake many thinges
+against me / of smal effect / which I haue also forgotten / onely this 
+I remember he said / I was a strower of errors / and that therfore he
+committed me.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> In deed yow committed me halfe a yeare close prisoner in the
+Gatehowse / and I neuer vntil now vnderstood the cause why / neither
+as yet know I what errors they be / shew them therfore I pray yow.
+</dialogue><nonSpeech>The L. Buckh. againe said I was a presumtuous spirit.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> My Lo. al spirits must be tried and iudged by the word of
+God: but if I erre my Lo. it is meet I should be shewed wherin.
+</dialogue><nonSpeech>L. Chanc.</nonSpeech><dialogue> Ther must be streighter lawes made for such fellowes.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Would to God ther were my Lo. our iourny should be the shorter.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Yow complained to vs of iniustice / wherin haue yow wrong?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> My Lo. in that we are thus imprisoned without due trial.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Why / yow said yow were condemned vpon the statute.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Vniustly / my Lo. that statute was not made for vs.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Ther must be streighter lawes made for yow.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> O my Lo. speak more comfortablie / we haue sorrowes ynough.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> In deed thow lookest as if thow hadst a troubled
+conscience.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No I praise God for
+<pagebreak id="B4V" />
+it: but it is a woeful thing that our Princes sworde should thus be
+drawen against her faithful subiectes.
+</dialogue><nonSpeech>The L. Tr. answered that the Queenes sword was not as yet drawen
+against vs. Then in a word or two I complayning of the misery and
+lingring close imprisonment which we suffer: the L. Tr: demaunded if
+we had had no conference. The B. of Lond. answered that sundrie had
+bene with vs as D. Some / Grauiat and others / but we mocked them that
+came vnto vs.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> That is not true / the Lord knoweth: we mock no creature.
+Neither doe I know / or haue euer seene / to my remembrance / that
+Grauiat yow speak of. But miserable phisitians are yow al / for Mr.
+Some he indeed was with me / but neuer would enter disputation: he
+said / he came not therefore / but in reasoning manner to know some 
+what of my minde more cleerly. <omission type="line" />
+<comment type="compiler">THIRD PERSON NARRATIVE OMITTED.</comment>
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> The Lord knoweth I am ignorant / I haue no learning to boast
+of: but this I know / that yow are voide of al true learning and
+godlines.
+</dialogue><nonSpeech>L. Buckh.</nonSpeech><dialogue> See the spirit of this man.
+</dialogue><nonSpeech>Then requested I conference againe / and that in writing: which was
+againe by Cant. very peremtorilie denyed. He said that he had matter
+to cal me before him for an hereticke.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> That shal yow neuer doe: yow know my former answer to that
+matter: wel erre I may / but hereticke / by the grace of God wil I
+neuer be.
+</dialogue><nonSpeech>L. Buckh.</nonSpeech><dialogue> That is wel said.
+</dialogue><nonSpeech>The L. Tr: then taking vp a paper of <font>Somes</font> abstract questions /
+which lay among the Bs euidence against me / read this: That I held
+it vnlawful to enacte a law that the ministers shal liue by tithes /
+or the people pay them: and demaunded of me / whither I held tithes
+vnlawful?</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> My Lo. they are abrogated and vnlawful.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Why / thow wouldest <comment type="compiler">wouldest IS CATCHWORD, BUT IS NOT 
+REPEATED ON FOLLOWING PAGE.</comment>
+<pagebreak id="C1R" />
+haue the minister liue of somewhat / wherof should he liue?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> <foreign>Ex pura eleemosyna,</foreign> of clere almes as Christ in his
+TestamenT hath ordeyned / and as he and his Apostles.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> But how if the people wil not giue?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Such are not the people of God.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> But what shal the ministers doe in the meane time?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Not stand a minister to such / neither take the goods of the
+prophane.
+</dialogue><nonSpeech>L. Tr.</nonSpeech><dialogue> Where canst thow shew me now in the Scriptures that the
+ministers now ought not to liue vpon tithes? <omission type="line" />
+<comment type="compiler">BARROWE'S REFERENCE TO BIBLE TEXTS OMITTED.</comment>
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Why / the wordes of the text are these: If the preisthod be
+changed / then of necessitie must ther be a change of the law: and
+yow cannot deny but that tithes were a part of that law: </dialogue><nonSpeech>alleging /
+<font>Num. 18.</font> </nonSpeech>
+<nonSpeech>L. Tr.</nonSpeech><dialogue> What / wouldst thow haue him to haue al my goodes?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No my Lo. but I would haue yow to withhold none of your goodes
+from helping him: neither rich nor pore are exemted from this duty.
+</dialogue><nonSpeech>ffurder I shewed / that if the minister had thinges necessarie / as
+food and rayment / he ought to hold him self contented: neither ought
+the church to giue him more. Then had we some talke concerning the
+word Preist: the L. Tr. said that the ministers now were not to be
+called preistes.</nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> If they receiue tithes they are preistes. Moreouer they be
+called preistes in the law.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> Why / what is the word presbyter / I pray yow?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> An elder.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> What in age onely?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> No / Timothie was a yong man.
+</dialogue><nonSpeech>Lond.</nonSpeech><dialogue> Presbyter is latine for a preist.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> It is no latine word / but deriued / and signifieth the same
+which the greek word doth / which is an Elder.
+</dialogue><nonSpeech>Lon.</nonSpeech><dialogue> What makest thow a preist?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> Him that doth offer sacrifices / for so it is written euery
+where in the law. 
+</dialogue><nonSpeech>As we were thus reasoning / the L. Chanc. asked me if I knew
+not those two men (pointing to Cant. and Lond.) </nonSpeech>
+<nonSpeech>B.</nonSpeech><dialogue> Yes my Lo. I haue cause to know them.
+</dialogue><nonSpeech>L. Chanc.</nonSpeech><dialogue> But what is not this the Bp. of London?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> I know him for no Bishop my Lo.
+</dialogue><nonSpeech>L. Ch.</nonSpeech><dialogue> What is he then?
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> His name is Elmar my Lo. </dialogue><nonSpeech> (The Lord pardon my fault / that
+I laid him not open for a wolfe / a bloody persecutor and Apostata.
+But by this time / the Wardens man plucked me vp.) </nonSpeech>
+<nonSpeech>L. Chanc.</nonSpeech><dialogue> What is that man? </dialogue><nonSpeech> (pointing to Cant.) </nonSpeech>
+<nonSpeech>B.</nonSpeech> <nonSpeech>The Lord gaue me the spirit of boldnes / so that I
+answered:</nonSpeech><dialogue> He is a monster / a miserable compound / I know not what 
+to make him: he is neither Ecclesiastical nor ciuil / euen that second
+Beast spoken of in the Reuelation.
+</dialogue><nonSpeech>L. Treas.</nonSpeech><dialogue> Wher is that place / shew it.
+<comment type="compiler">BARROWE QUOTES THE BIBLE.</comment>
+<pagebreak id="C1V" />
+<comment type="compiler">REMAINDER OF THE THIRD PERSON NARRATIVE BY BARROWE OMITTED.</comment>
+</dialogue> <head>THE ANSWERS OF JOHN GRENEWOOD</head> <dialogue>
+<comment type="compiler">REMAINDER OF HEADING OMITTED.</comment>
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What is your name?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> John. Grenewood.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Lay yowr hand vpen the book / yow must take an oath.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I wil sweare by the name of God if ther be any need / but not
+by or vpon a book.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> We wil then examine yow without an oath. Are yow a minister?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / I was one after your orders.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who disgraded yow?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I disgraded my self through Gods mercy by repentance.
+</dialogue><nonSpeech> (then after many wordes / they brought forth a paper conteyning
+certaine articles in manner of questions as foloweth) </nonSpeech>
+<nonSpeech>Q.</nonSpeech><dialogue> Is it lawful to vse the Lordes prayer publickly or privatly as
+a prayer / or no?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> It is a doctrine to direct al our prayers by: but seing it
+conteyneth the doctrine of the holy Scripture / no man can vse the
+same as a private or publick prayer / because he hath not present
+need to aske al the peticions therin conteyned / at one time: neither
+can comprehend them with feeling and faith.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it lawful or no? I wil heare no pratling.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> It is not lawful for any thing I can see by the Scripture / for
+ther is no commaundement to say the very wordes ouer: and Christ and
+his Apostles prayed in other wordes according to their present
+necessitie.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it lawful to vse any stinted prayers either publickly or
+privatly in prayer?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> They are Apocrypha / and may not be vsed in the publick
+assemblie: the word / and the graces of Gods spirit / are onely to be
+vsed there.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Answer directly / is it lawful to vse them publickly or
+privatly?
+<pagebreak id="C2R" />
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Paul saith in Rom. 8. the spirit of God maketh request for
+vs / and that we know not what to aske / but the spirit helpeth our
+infirmities
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Answer directly.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> It is not lawful to vse stinted prayers invented by man /
+either publickly or privatly for any thing I can see by the
+Scriptures.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow then to the book of common prayer / is it
+superstitious popish and jdolatrous / yea or no?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I beseech yow that I may not be vrged by your law: I haue
+thus long bene close prisoner / and therfore desire yow to shew me
+wherfore / and not now to entangle me by your law.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it not yowr law now as wel as ours: it is the Queenes law:
+Yow are a good subiect.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I am obedient as a true subiect. But I took it we had
+reasoned of your popish canons.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is not the common prayer booke / established by the Queenes
+law?
+</dialogue><nonSpeech>L. Cheif Iust.</nonSpeech><dialogue> Tel vs what yow thinke of the book of common
+prayer / yow shal haue libertie to cal back what yow wil againe.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> If it were in free conference / as it hath bene often desired
+by vs I would so doe.
+</dialogue><nonSpeech>Winch.</nonSpeech><dialogue> Haue yow not vsed these wordes a yeare a goe / that it
+was popish superstitious and idolatrous?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yes I thinck I haue: for it was taken out of the Popes
+portuis.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Why would yow not answer so before?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Because I see yow goe about to bring me within the compasse
+of the law.
+</dialogue><nonSpeech>I. Anderson.</nonSpeech><dialogue> What say yow now to it?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> That ther ar many errors in it / and the forme therof is
+disagreeable to the Scriptures.
+</dialogue><nonSpeech>Arch B.</nonSpeech><dialogue> Is it contrary to the Scriptures.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> It must needs be contrary if it be disagreable.
+</dialogue><nonSpeech>Winch.</nonSpeech><dialogue> Whither hold yow it idolatrous / superstitious and popish?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I haue answered what I thinke of it: I hold it ful of errors /
+and the forme therof disagreable to the Scriptures.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow for mariage: did not yow marie one Boman and his
+wife / in the Fleet?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / neither is mariage a part of the ministers office.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who did vse prayer?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I thinke / I did at that time vse prayer.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who ioyned their handes togither?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I know no such thing / they did publickly acknowledge their
+consent before the assemblie.
+</dialogue><nonSpeech>Stanup.</nonSpeech><dialogue> I wil make them doe penance for it.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Ther be some had more need shew open repe~tance then they.
+</dialogue><nonSpeech>B.</nonSpeech><dialogue> They may make such mariages vnder a hedge / and it hath bene a 
+long receiued order to be maried by the minister.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / ther were many faithful witnesses of their consentes:
+and if it were not lawful / we haue many examples of the ancient
+fathers / who by your iudgement did amisse.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow to the church of England / is it a true
+established church of God?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> The whole common wealth is not a church.
+</dialogue><nonSpeech>J. Anders.</nonSpeech><dialogue> But doe yow know any true established church in the
+land?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> If I did / I would not accuse them vnto yow.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> But what say yow / is not the whole land as it standeth now
+ordered / a true established church?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / not as the assemblies are generally ordered / if it please
+yow / I
+<pagebreak id="C2V" />
+wil shew yow the reasons.
+</dialogue><nonSpeech>L. C. Iust.</nonSpeech><dialogue> No / yow shal haue ynough hereafter to shew the
+reasons / it is not now to be stood upon.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What doe yow say to the church of England as it is now guided
+by Bbs. is it Antichristian?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> By such Bs. and lawes as it is now guided / it is not
+according to the Scriptures.
+</dialogue><nonSpeech>Winch.</nonSpeech><dialogue> Thow hast Scriptures often in thy mouth: is it then
+Antichristian.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea / I hold it contrarie to Christes word.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow to the Sacramentes then / are they true
+Sacramentes?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / they are neither rightly administred according to Christes
+institution / neither haue promise of grace / because yow keep not the
+covenant.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Speak plainly / are they true Sacramentes or no?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / if yow haue no true church yow can haue no true
+Sacramentes.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> How say yow / are we baptised?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea / yow haue the outward signe which is the washing / but no
+true Sacrament.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> How can that be?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Very wel. </dialogue><nonSpeech> (then I thought to haue shewed reasons / but I
+could not be suffred.) </nonSpeech>
+<nonSpeech>Q.</nonSpeech><dialogue> Is it lawful Baptisme?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Need we then to be baptised againe if we had that ministerie
+and gouerment yow speak of?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Should we be baptised at al?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea / or els if we contemne it / we deny the profession of
+grace.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Doe yow hold it lawful to baptise children?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea / I am no Anabaptist I thanke God.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far differ yow?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> So far as truth from errors.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Yow haue a boy vnbaptised / how old is he?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> A yeare and a halfe.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What is his name?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Abel.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who gaue him that name?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> My self / being father.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Why hath he not bene baptised?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Because that I haue bene in prison / and cannot tel where to
+goe to a reformed church / wher I might haue him baptised according
+to Gods ordinance.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Wil yow goe to church to S=t=. Brides?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> I know no such church.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Wil yow goe to Pauls?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Doe yow not hold a parish / the church?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> If al the people were faithful / hauing Gods law and ordnances
+practised amongst them / I doe.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Then yow hold that the parish / doe not make it the church?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / but the profession which the people make.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Doe yow hold that the church ought to be governed by a
+Presbyterie?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Yea, euery congregation of Christ ought to be gouerned by
+that Presbyterie which Christ hath appointed.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What are those officers?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Pastor / Teacher / Elder / etc.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> And by no other?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / by no other then Christ hath appointed.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> May this people and presbyterie reforme such thinges as be
+amisse / without the Prince?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> They ought to practise Gods lawes / and correct vice by the
+censure of the word.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What if the Prince forbid them?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> They must doe that which God commaundeth neuerthelesse.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> If the Prince doe offende / whither may the presbyterie
+excommunicate the Prince or no?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> The whole <comment type="compiler">SOURCE TEXT: wole</comment> church may excommunicate any 
+member of that congregation / if the partie continue obstinate in open 
+transgression.
+<pagebreak id="C3R" />
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Whither may the Prince be excommunicate?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> Ther is no exception of person: and I doubt not but her
+maiestie would be ruled by the word / for it is not the men / but the
+word of God which bindeth and looseth sinne.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Whither may the Prince make lawes in the gouerment of the 
+church / or no?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> The Scripture hath set downe sufficient lawes for the worship
+of God / and gouerment of the church / to which no man may adde or
+diminish.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow to the Princes supremacie / is her maiestie
+supreme head of the church: ouer al causes / as wel ecclesiastical as
+temporal?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> A supreme magistrate ouer al persons to punish the euil and
+defend the good.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> Ouer al causes? </dialogue><nonSpeech>etc.</nonSpeech>
+<nonSpeech>A.</nonSpeech><dialogue> No / Christ is onely head of his church / and his lawes may no
+man alter.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> The pope giueth thus much to the Prince.
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> No / that he doth not / he setteth himself aboue Princes
+and exempteth his preisthod from the magestrates sword.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> What say yow to the oath of the Queenes supremacie / wil yow
+answer to it?
+</dialogue><nonSpeech>A.</nonSpeech><dialogue> <comment type="compiler">NO SPEAKER IDENTIFICATION IN SOURCE TEXT.</comment> If these 
+ecclesiastical orders be meant such as be agreeable unto the 
+scriptures / I wil / for I deny al forreigne power.
+</dialogue><nonSpeech>Q.</nonSpeech><dialogue> It is meant / the order and goverment with
+al the lawes in the church as it is now established.
+</dialogue><nonSpeech>A</nonSpeech><dialogue> Then I wil not answer to approue therof.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

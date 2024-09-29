@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4HOTREA">
+  <dialogueHeader>
+
+    <filename>D4HOTREA</filename>
+
+    <identifier>4 HANDB OTH D4HOTREA</identifier>
+
+    <title>TREASON</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1681</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>TREASON MADE MANIFEST; OR, A DISCOURSE BY WAY OF DIALOGUE
+BETWEEN RICHARD AND WILLIAM: IN RELATION TO THE TRYALS AND 
+CONVICTIONS OF THE TWO ARCH-TRAYTORS, VIZ. EDWARD FITZ-HARRIS, AND
+OLIVER PLUNKET, TITULAR ARCH-BISHOP OF DUBLIN IN IRELAND.
+(LONDON?)
+PRINTED FOR F. COLES, T. VERE, J. WRIGHT, J. CLARKE, W. THACKERAY, AND
+T. PASSINGER. 
+1681.
+PP. 1.1 - 12.29
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">IN SOURCE TEXT, &quot;RICHARD&quot; TELLS ABOUT THE TREASON, WHILE &quot;WILLIAM&quot;
+ASKS ABOUT IT. IN SOURCE TEXT BOTH THE LAST UTTERANCE ON PAGE 8 AND 
+FIRST ON PAGE 9 ARE ERRONEOUSLY ATTRIBUTED TO THE SAME SPEAKER 
+(RICHARD). THE ENSUING UTTERANCES ARE WRONGLY LABELLED UNTIL PAGE 10 
+WHERE A CHANGE IN SPEAKER OCCURS BUT IS NOT INDICATED. THEREAFTER 
+THE UTTERANCES ARE INDICATED CORRECTLY. BELOW THIS MIX-UP IS 
+HIGHLIGHTED BOTH WHERE IT BEGINS AND WHERE IT ENDS, BUT WITHOUT 
+EMENDATION.</comment>
+
+<comment type="compiler">BLACK LETTER TREATED AS REGULAR FONT BELOW.</comment>
+
+<pagebreak id="1" />
+</dialogue> <head> <font>TREASON MADE MANIFEST;
+OR,
+A DISCOURSE BY WAY OF DIALOGUE
+BETWEEN
+RICHARD AND WILLIAM, &amp;C.</font> </head> 
+
+   <nonSpeech> <font>Richard.</font> </nonSpeech><dialogue> Ha Neighbour <font>Will</font> , and
+where are you going in
+all this haste, if a Man
+may be so bold as to ask you the question?
+   </dialogue><nonSpeech> <font>William.</font> </nonSpeech><dialogue> <font>Why Neighbor is it possible that
+you should not know where I am going?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, it is possible, for as yet I
+know not.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Then in good faith sit down upon
+this Ale-Bench, and I'le tell ye.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Be quick then, for I have but a 
+little while to stay.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>As quick as you will, good
+Neighbor, for if I overstay my Market, I shall buy
+but bad Pennyworths.</font>
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVhy, are you going to Market
+then, pray what de'y design to buy that
+you fear to come too late?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Buy Neighbour, why News, new
+Minted News, what do you think I intend
+to buy, that's the greatest Chaffer now
+adays.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> But pray where is it to be sold?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Why every where, there is few or
+no Markets but what yields little or much,
+but at this I am going to they sell it by
+Sackfull, setting it up by way of Auction, so that
+at the burning of an inch of Candle, and
+Two-pence price, a Man may purchase as
+much as his Head can bear.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVell, but all the News now
+is about <font>Fitz-Harris</font> , who as 'tis said on
+the <font>9th</font> of <font>June</font> was Tryed at the 
+<font>Kings-Bench</font> , for the Highest of Treason that
+witty Mischief could invent.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>'Tis true Neighbour, and there he
+was Cast for his Life, being fairly convicted
+of his Treasons.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> 'Tis but just he should, and
+condemned too, nay, after that Drawn,
+Hanged and Quartered, who dare
+attempt the Deposing and Murthering of
+his sacred Majesty, who is the Breath
+of our Nostrils, as a worthy Judge was
+<pagebreak id="3" />
+once pleased to say upon the Bench; and
+not only his, but to destroy all our lives
+and Liberties, by raising Rebellion and
+bring in a <font>French</font> Power, thereby to
+enslave us to the Tyranny of the <font>Pope</font> .
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Could this be proved against him
+upon his Tryal?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Proved, yes, under his own
+Hand, and by several witness of candid
+Reputations, who swore it positively.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But in what manner, or by what
+means, did he design to accomplish such his 
+wicked designs?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> By Libelling the King, to render
+him odious to his subjects, by Charging
+him with such things as no good Man
+can express without horror and
+detestation; by endeavouring to set all in a
+Flame, or Combustion of Civil VVar,
+which should be Carryed on under the
+name of the <font>Non-Conformists</font> , so that the
+Father should have been against the Son,
+and the Son against the Father, to have
+sheath'd their swords in each others
+bowels, till all had been weakned and ruin'd,
+when as the <font>Popish</font> Army was to be
+raised here, and the powers of <font>France</font> was to
+have broken in upon us, and so to have
+born down all before them.
+<pagebreak id="4" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>That had been sad indeed, for then
+our lives had been like Chaff before a
+Torrent fire.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, this had been our case had
+this Instrument of <font>Rome</font> and Hell set on
+and mannaged by the art and cunning of
+the Jesuitick Policies succeeded.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But pray how did he go about to
+perfect this Design, I have here the measures
+he took, but it was so imperfectly related,
+that I could make nothing on't.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVhy, he haveing some small
+acquaintance with one Mr. <font>Everard</font> ,
+being the Gentleman that was kept so long
+in the Tower, he came about the <font>21th</font> of
+<font>Febr.</font> last to his Chamber, and there
+falling into discourse with him about
+several matters, began to commiserate him
+for the hard usage he had suffered, since
+his adhearing to the Protestant Intrest,
+telling, him if he would forsake it, and
+cleave to the Popish Party, he should
+not onely meet with great Rewards, but
+likewise be put into places of trust.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And did the Gentleman believe or
+give credit to what he said?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, he seemed so to do, but it
+was onely to find what he would be at,
+for he knew him to be a great Villain.
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, and how did he proceed, had
+they any farther discourse?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVhy then he began to open his
+mind, and proposed to him the Indicting
+of so venomous and Treasonable a
+Libell, that I think no Age e're heard the
+like, as for me, my hair stood an end when
+I heard it read in Court.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Why, what might it contain that it
+struck you with such horror.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Nay, it contained what I will
+not presume to repeat; nor can I liken it
+to any thing, unless the Box which
+<font>Pandora</font> sent to <font>Epimetheus</font> , full fraught with
+Plagues and dire destruction.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But how come this to be discovered?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVhy the honest Gentleman,
+for so I may well call him for detecting
+so horrid a Villany, disclosed the business
+to several worthy persons.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But did he let Fitz-Harris know he
+did so?</font> <comment type="compiler">SOURCE TEXT: Fitz-Harris IN ITALICS.</comment>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> No I'le warrant ye, but gave
+the more countenance to proceed, and
+promised to take his Instructions for
+drawing up the Papers, and Appointed
+him a time to come for them, when as he
+had placed a Gentleman to over-hear the
+discourse that passed betwixt them.
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And did he come according to
+Appointment?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, he did, and uttered many
+Treasonable words, promising the
+Gentleman that he should have four Guinnys
+from the <font>French</font> Embassadors Confessor,
+and that he should be entred a Pensioner
+to the <font>French</font> King, and have several
+Thousand Crowns.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And how did the Gentleman like
+this proffer?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Not at all, for he boggled at it,
+saying it was a Treasonable Design,
+and that he knew not what to think on't;
+Think on't (said <font>Fitz-Harris</font> ) why the
+more Treason the better, am not I
+deeper concerned in it then you? have not
+you my hand for it, and is there not
+many great Persons concerned in it, or
+words to this effect.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, and what was to have been
+done with those Papers you speak of just
+now, how should they have been disposed of?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> VVhy several Thousands
+Coppies were to have been dispersed amongst
+the People in Penny-Post Letters, and
+many put into Gentlemens pockets, and
+they apprehended with them about 'um,
+so that it could not chuse but blow up a
+<pagebreak id="7" />
+flame of horrid mischief, for all the Kings
+good subjects were to have been brought
+into the Plot, and to be taxed for
+endeavouring to raise Rebellion and
+Insurrection, so that the Popes Agents thought
+themselves Cock-sure of prevailing 
+against us, this being their last, but most
+dangerous shift, and shew'd it self to be
+the very Spawn of the Jesuits, but
+Heaven that has hitherto blasted their
+Designs, prevented it, and broke the
+Cockatrices Egg e're it could be hatched.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And was this Sworn against him at
+Tryal.</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> It was, and much more then
+I can remember; but stay, I had forgot
+one passage that was very material,
+which was, That one of the Gentlemen
+that gave Evidence against him (whose
+known Fidelity renders him of
+unspotted Reputation) because he would not be
+mistaken, marked the Papers that Mr.
+<font>Everard</font> brought to him, and whilst he
+looked through a Crevice, he saw
+<font>Fitz-Harris</font> make several alterations,
+crossing out some and putting in other some,
+and after he was departed, found those
+Papers to be the same he had set his
+private Mark upon, and that at the takeing
+them up, the Ink was wet.
+<pagebreak id="8" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And did not they apprehend him at
+that time?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> No, but some days after, and
+carrying him before a Magistrate, he
+confess'd a Treasonable Paper to be his
+own hand-writing.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, but what answer did he make
+to what was sworn against him:</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Truly little or nothing to the
+purpose, for he rather strove to Justifie
+what he had done, then any ways to deny
+or detest against such wicked designs,
+insisting that he had been Impeached by the
+Commons, and that his cause lay before
+them.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, and how then, was he ever
+the better for that Allegation?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> No, nor could he, for the Court
+before had over-ruled that Plea, and all
+the Judges of <font>England</font> given their
+opinions, it was in the power of the Court to
+Try him.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But did he produce no Witnesses to
+testifie for him?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, several, and many of them
+persons of Quality.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And what could they say in his
+behalf?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Why truly very little or nothing
+<pagebreak id="9" />
+that would avoid his Cause, for it was
+so foul that no good Subject could any
+ways countenance it, but rather their
+Evidence tended to his prejudice.
+<comment type="compiler">NEXT UTTERANCE SHOULD BE THAT OF WILLIAM, NOT RICHARD. THIS
+ERRONEOUS SWITCH IN SPEAKER NAMES CONTINUES ONTO PAGE 10.</comment>
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> <font>Why did he call them, seeing their
+Testimonies availed him nothing, and he had
+better been without 'um.</font>
+   </dialogue><nonSpeech> <font>W.</font> </nonSpeech><dialogue> Why, to prove that he had been
+with them from the King about business
+of importance.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> <font>And did they agree he had:</font>
+   </dialogue><nonSpeech> <font>W.</font> </nonSpeech><dialogue> Yes, they agreed that he had been
+with them, but they did no ways believe
+his Majesty sent him.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> <font>Was that all?</font>
+   </dialogue><nonSpeech> <font>W.</font> </nonSpeech><dialogue> No, no, he called several to testifie
+that he had received Moneys by his
+Majesties Order, the which he would have
+put an evil Construction on.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> <font>And was it proved?</font>
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Yes, that he had received about 200 l.
+but that it was given him out of Charity, his
+own Petition being produced, so that you
+may see what a Monster he is.</font> <comment type="compiler">SOURCE TEXT: &quot;l.&quot; IN ITALICS.</comment>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Well, but how came he off at last?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Why, when about fourteen
+Witnesses had been heard, the Kings Council
+summed up their Evidence to the Jury,
+laying open to them the nature of the Crime in
+<pagebreak id="10" />
+all its horrid Circumstances,; <comment type="compiler">SO IN SOURCE TEXT</comment> and when they
+had done, Fitz-Harris addressed himself to
+them in a threatning way, bidding them
+beware what they did, for his Cause lay before
+the Parliament, and that if they found him
+Guilty <comment type="compiler">SOURCE TEXT: Guily</comment> his Blood would lye at their           
+doors, and
+that he doubted not but that it would be
+revenged.</font> <comment type="compiler">SOURCE TEXT: Fitz-Harris IN ITALICS.</comment>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> And do you think they believed
+him?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Nay, I cannot tell as to that, but after
+the Court had given in their Charge, they
+made some scruples, and seemed not well
+satisfied till the Court had given them farther
+Instructions; <comment type="compiler">THIS LAST UTTERANCE SHOULD BE ATTRIBUTED TO          
+RICHARD. NOW WILLIAM SPEAKS:</comment> and what did they do then?</font>
+<comment type="compiler">HENCEFORTH SPEAKER NAMES ARE INDICATED CORRECTLY IN THE SOURCE     
+TEXT.</comment>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Why then they went out, and
+staying near an hour, they returned, and
+gave in their Verdict, That he was
+Guilty of the High Treason for which
+he stood Indicted; which Verdict was
+accordingly taken and Recorded: the
+Court telling them they had found a
+very good Verdict.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And did the People seem pleased
+with it?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, and gave such a Hura
+as made the Hall ring again.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, I wish all Traytors the like
+success: but Neighbour, 'tis reported that
+<pagebreak id="11" />
+one Oliver Plunket another Irish Traytor,
+and Titular Arch-Bishop of Dublin, was
+Tryed the day before, Pray what became of
+him?</font> <comment type="compiler">SOURCE TEXT: Oliver Plunket, Irish AND Dublin
+IN ITALICS.</comment>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Why he was found Guilty of
+High Treason.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>In what Nature? or where
+Committed?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> For the most part in <font>Ireland</font> , and
+the Evidence Sworn against him in
+Court, was to this purpose, That he
+held Correspondence with the <font>French</font>
+King, and that he was to deliver up
+certain Towns upon the Sea-Coast
+to the <font>French</font> , that they might Land
+an Army: and farther, that in order to
+the leavying War in that Kingdom, he
+had made several Collections of monies,
+and that he had endeavour'd to compass
+the Death of His Majesty, and enslave
+that Kingdom to <font>Popery</font> , and the
+Insulting Tyranny of the <font>French</font> Power.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And was all this prov'd against him
+in Court?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, and much more, even by
+his own Country-men.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Pray what could he say for himself in
+this case?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Why truly little or nothing, for
+<pagebreak id="12" />
+Treason is always attended with a
+guilty Conscience, only he objected against
+the Insufficiency of the Witnesses,
+alledging he stood Convicted upon record.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>And did he produce those Records
+in Court?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> No, but being asked why he had
+not done it, his answer was, That he
+had not time nor opportunity enough to
+procure them.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>But had he no Witnesses to testifie
+in his behalf?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> Yes, one or two, I think, but
+their Evidence was not any thing
+material for his advantage.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Why? did not they speak to the
+purpose?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> No, but only endeavour'd to
+degrade some of the Kings Evidence, but
+could give no grounds for what they
+said, it being altogether groundless.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> <font>Well, and why did not he send over
+for his Witnesses, as he said he would the last
+Term, seeing he had time enough allowed
+him?</font>
+   </dialogue><nonSpeech> <font>Rich.</font> </nonSpeech><dialogue> It's true, he might have done
+it; nay, he said he did, but that they
+being for the most part Priests, they durst
+not come over without His Majesties
+special <omission type="sentence" /> <comment type="compiler">UTTERANCE INCOMPLETE
+AS SOURCE TEXT LACKS THE REMAINING PAGES.</comment>
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

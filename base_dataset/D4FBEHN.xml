@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4FBEHN">
+  <dialogueHeader>
+
+    <filename>D4FBEHN</filename>
+
+    <identifier>4 FICTION D4FBEHN</identifier>
+
+    <title>THE LUCKY MISTAKE</title>
+
+    <author>BEHN APHRA</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1689</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BEHN, APHRA.</attribution>
+      <frontMatter>THE LUCKY MISTAKE: A NEW NOVEL.
+WRITTEN BY MRS. A. BEHN.
+LONDON, PRINTED FOR R. BENTLEY AT THE POST-HOUSE IN RUSSEL-STREET IN
+COVENT GARDEN.
+1689.
+PP. 20.3 - 37.19   SAMPLE 1 
+PP. 47.13 - 56.15  SAMPLE 2 
+PP. 62.14 - 67.9   SAMPLE 3 
+PP. 71.21 - 74.26  SAMPLE 4
+PP. 84.11 - 86.23  SAMPLE 5
+PP. 89.10 - 92.5   SAMPLE 6
+PP. 99.12 - 112.13 SAMPLE 7
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+<dialogue>
+<pagebreak id="20" />
+<comment type="compiler">RINALDO WANTS TO SPEAK TO ATLANTE, WHO HAS JUST LEFT CHURCH WITH 
+HER SISTER CHARLOT.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>but
+he no sooner advanc'd a step or
+two towards 'em, to that purpose
+(for he followed them) but his
+Heart fail'd, and a certain awe
+and reverence, or rather the fears
+and tremblings of a Lover, 
+prevented him, but when he
+consider'd that possibly he might
+never have so favourable an
+opportunity again, he resolv'd 
+anew, and call'd up so much
+Courage to his Heart as to speak
+to <font>Atlante</font> , but before he did so,
+<font>Charlot</font> looking behind her, saw
+<font>Rinaldo</font> very near to 'em, and
+cry'd out with a voice of Joy:</nonSpeech><dialogue>
+Oh! Sister, Sister, look where the
+handsom <font>Monsieur</font> , is just behind
+us, sure he is some body of Quality,
+for see he has two Foot-men that
+follow him in just such Liveries,
+and so Rich, as those of our
+Neighbour <font>Monsieur Bellyaurd</font> : </dialogue><nonSpeech>at
+<pagebreak id="21" />
+this <font>Atlante</font> could not forbear,
+but before she was aware of it,
+turn'd her Head and look't on
+<font>Rinaldo</font> , which incourag'd him
+to advance, and putting off his
+Hat, which he clapt under his
+Arm, with a low Bow, said,</nonSpeech><dialogue>
+Ladies you are so slenderly attended,
+and so many Accidents arrive to
+the fair in the rude Streets, that
+I humbly implore you will permit
+me, whose Duty it is, as a
+Neighbour, to wait on you to your
+Door, Sir, </dialogue><nonSpeech>said <font>Atlante</font> blushing,</nonSpeech><dialogue>
+we fear no insolence, and need no
+Protector, or if we did we should
+not be so rude to take you out of
+your way to serve us; Madam
+</dialogue><nonSpeech>said he,</nonSpeech><dialogue> my way lyes yours, I live
+at the next door and am Son to
+<font>Bellyaurd</font> your Neighbour; but
+Madam </dialogue><nonSpeech>added he,</nonSpeech><dialogue> if I were to 
+go all my Life out of the way to
+do you Service, I should take it
+for the greatest Happiness, that
+could arrive to me, but Madam,
+<pagebreak id="22" />
+sure a Man can never be out of
+his way, who has the Honour of
+so Charming Company, </dialogue><nonSpeech> <font>Atlante</font>
+made no reply at this, but blusht
+and bow'd, but <font>Charlot</font> said,</nonSpeech><dialogue> Nay
+Sir, if you are our Neighbour we
+will give you leave to Conduct
+us home; but pray Sir, how came
+you to know we are your 
+Neighbours, for we never saw you
+before to our knowledge. My
+pretty <font>Mis</font> , </dialogue><nonSpeech>reply'd <font>Rinaldo</font> ,</nonSpeech><dialogue>
+I knew it from the transcendent
+Beauty that appear'd in your Faces
+and fine Shapes, for I have heard
+there was no Beauty in the World
+like that of <font>Atlante's</font> , and I no
+sooner saw her but my Heart told
+me it was she; Heart, </dialogue><nonSpeech>said <font>Charlot</font> ,
+Laughing,</nonSpeech><dialogue> why does Heart use to
+speak; the most intelligibly of
+any thing, </dialogue><nonSpeech>reply'd <font>Rinaldo</font> ,</nonSpeech><dialogue> when
+'tis tenderly toucht, when 'tis
+charm'd and transported, </dialogue><nonSpeech>at these
+words he sight, and <font>Atlante</font> to
+his extream satisfaction blusht;</nonSpeech><dialogue>
+<pagebreak id="23" />
+toucht, charm'd and transported,
+</dialogue><nonSpeech>said <font>Charlot</font> ,</nonSpeech><dialogue> what's that? and how
+do you do to have it be all these
+things? for I would give any thing
+in the World to have my Heart
+speak: Oh! </dialogue><nonSpeech>said <font>Rinaldo</font> ,</nonSpeech><dialogue> your
+Heart is too young, it is not yet
+arriv'd to the Years of speaking,
+about thirteen or fourteen it may
+possibly be saying a thousand soft
+things to you, but it must first be
+inspir'd by some Noble Object,
+whose Idea it must retain; what
+</dialogue><nonSpeech>reply'd, this pretty Pratler,</nonSpeech><dialogue> I'le
+warrant I must be in Love? Yes,
+</dialogue><nonSpeech>said <font>Rinaldo</font> ,</nonSpeech><dialogue> most passionately, or
+you will have but little
+Conversation with your Heart, Oh! </dialogue><nonSpeech>reply'd
+she,</nonSpeech><dialogue> I am afraid the pleasure of
+such a Conversation will not 
+make me amends for the Pain that
+Love will give me, that, </dialogue><nonSpeech>said
+<font>Rinaldo</font> ,</nonSpeech><dialogue> is according as the Object
+is kind, and as you hope, if he
+Love, and you hope you will
+have a double Pleasure, and in
+<pagebreak id="24" />
+this how great an advantage have
+you fair Ladies above us Men:
+'tis almost impossible for you to
+Love in vain, you have your
+choice of a thousand Hearts which
+you have subdu'd, and may not
+only chuse your Slaves but be
+assur'd of 'em; without speaking
+you are belov'd, it needs not cost
+you a sigh or tear; but unhappy
+Man is often destin'd to give his
+Heart, where it is not regarded, to
+sigh, to weep and languish without
+any hope of Pitty. You speak
+so feelingly, Sir </dialogue><nonSpeech>said <font>Charlot</font> ,</nonSpeech><dialogue> that
+I am afraid this is your Case;
+Yes, Madam, </dialogue><nonSpeech>reply'd <font>Rinaldo</font> ,
+sighing,</nonSpeech><dialogue> I am that unhappy Man; 
+indeed 'tis pitty </dialogue><nonSpeech>said she,</nonSpeech><dialogue> pray how
+long have you been so? ever
+since I heard of the charming
+<font>Atlante</font> , </dialogue><nonSpeech>reply'd he, sighing again,</nonSpeech><dialogue>
+I ador'd her Character, but now
+I have seen her, I dye for her; for
+me, Sir, </dialogue><nonSpeech>said <font>Atlante</font> (who had not
+yet spoke,</nonSpeech><dialogue> this is the common
+<pagebreak id="25" />
+compliment of all the young Men,
+who pretend to be Lovers, and
+if one should pitty all those
+sighers, we shou'd have but very 
+littel left for our selves; I believe, </dialogue><nonSpeech>said
+<font>Rinaldo</font> ,</nonSpeech><dialogue> there are none that tell
+you so, who do not mean as they 
+say, yet among all those adorers
+and those that say they will dye
+for you, you will find none will be
+so good as their words as <font>Rinaldo</font> ,
+perhaps </dialogue><nonSpeech>said <font>Atlante</font> ,</nonSpeech><dialogue> of all those
+who tell me of dying, there are
+none that tell it with so little
+reason as <font>Rinaldo</font> , if that be your
+Name Sir; <font>Madam</font> it is, </dialogue><nonSpeech>said he,</nonSpeech><dialogue> and
+who am Transported with an
+unspeakable joy, to hear those
+last words from your fair mouth,
+and let me Oh! Lovely <font>Atlante</font> ,
+assure you that what I have said,
+are not words of Course, but
+proceed from a heart that has
+vow'd it self, eternally yours,
+even before, I had the happiness
+to behold this Divine Person, but
+<pagebreak id="26" />
+now that my Eyes have made
+good all my heart before 
+imagin'd, and did but hope, I swear
+I will dye a Thousand deaths,
+rather then violate what I have
+said to you, that I adore you,
+that my Soul and all my 
+faculties are charm'd with your 
+Beauty and Innocence, and that my 
+Life and Fortune, not 
+inconsiderable, shall be laid at your 
+Feet: </dialogue><nonSpeech>this he spoke with a
+fervency of passion, that left her 
+no doubt of what he had 
+said; yet she blush't for shame, 
+and a little angry at her self, 
+for suffering him to say so much 
+to her, the very first time she saw 
+him, and accused her self for 
+giving him any incouragement: 
+and in this confusion she reply'd,</nonSpeech><dialogue>
+Sir, you have said too much to 
+be believ'd, and I cannot imagin 
+so short an acquaintance can 
+make so considerable an 
+Impression, of which confession I 
+<pagebreak id="27" />
+accuse my self much more than 
+you, in that I did not only harken 
+to what you said, without 
+forbiding you to entertain me at 
+that rate, but for unheedily 
+speaking something, that has 
+incourag'd this boldness; for so must I
+call it in a Man, so great a 
+stranger to me: <font>Madam</font> , </dialogue><nonSpeech>said he,</nonSpeech><dialogue> if I 
+have offended by the suddainess 
+of my presumptious discovery, I 
+beseech you to consider my 
+reasons for it, the few opportunities 
+I am like to have, and the
+impossibility of waiting on you, 
+both from the severity of your 
+Father and mine; who 'ere I 
+saw you, warn'd me of my Fate, 
+as if he foresaw, I should fall in 
+Love as soon as I should chance 
+to see you; and for that reason 
+has kept me closer to my Studies, 
+than hitherto I have been, 
+and from that time I began to 
+feel a Flame, which was kindled 
+by report alone, and the 
+<pagebreak id="28" />
+Description my Father gave of your 
+wonderous and dangerous 
+Beauty: therefore <font>Madam</font> , I have 
+not suddainly told you of my 
+passion, I have been long your 
+Lover, and have long Languisht
+without telling of my Pain, and 
+you ought to Pardon it now, 
+since it is done with all the 
+respect and Religious Awe, that 
+'tis possible for a heart to deliver 
+and unload it self in; therefore 
+<font>Madam</font> , if you have by chance 
+uttered any thing, that I have 
+taken advantage or hope from, 
+I assure you 'tis so small, that 
+you have no reason to repent it; 
+but rather if you wou'd have 
+me live, send me not from you, 
+without a confirmation of that 
+little hope; see <font>Madam</font> , </dialogue><nonSpeech>said he, 
+more earnestly and trembling,</nonSpeech><dialogue> 
+see we are almost arriv'd at our 
+homes, send me not to mine in 
+a despair, that I cannot support 
+with Life, but tell me I shall be 
+<pagebreak id="29" />
+blest with your Sight sometimes 
+in your Balcony, which is very 
+near to a jetting Window in our
+House, from whence I have sent 
+many a longing look towards 
+yours, in hope to have seen my 
+Souls Tormenter; I shall be very 
+unwilling, </dialogue><nonSpeech>said she,</nonSpeech><dialogue> to enter into 
+an intreague of Love, or 
+Friendship with a Man, whose Parents
+will be averse to my happiness, 
+and possibly mine as refractory, 
+though he cannot but know such 
+an Alliance wou'd be very 
+considerable; my Fortune being not  
+suitable to yours, I tell you this, 
+that you may withdraw in time
+from a Engagement, in which I find 
+there will be a great many 
+Obstacles Oh! <font>Madam</font> </dialogue><nonSpeech>reply'd <font>Rinaldo</font> ,
+sighing,</nonSpeech><dialogue> if my Person be not 
+disagreeable to you; you will have no
+cause to fear the rest, 'tis that I 
+dread, and that which is all my fear, 
+</dialogue><nonSpeech>he sighing beheld her with a 
+Languishing look, that told her, he 
+<pagebreak id="30" />
+expected her answer, when she
+reply'd,</nonSpeech><dialogue> Sir, if that will be 
+Satisfaction enough for you at this 
+time, I do assure you, I have no 
+aversion for your Person, in which 
+I find more to be vallu'd than 
+in any I have yet seen, and if 
+what you say be real, and 
+proceed from a heart truly affected, 
+I find in spight of me, you will 
+oblige me to give you hope.
+<comment type="compiler">THE NEXT DAY, RINALDO SEES CHARLOT AT A WINDOW.</comment>
+<pagebreak id="36" />
+<omission type="sentence" /> </dialogue><nonSpeech>he call'd to her (for 
+the Window was so near her, he 
+could easily be heard by her) and 
+told her he was infinitely indebted 
+to her Bounty, for giving him an 
+opportunity yesterday of falling 
+on that discourse, which had made 
+him the happiest Man in the
+World, he said, if she had not 
+by her agreeable Conversation 
+incourag'd him, and drawn him 
+from one word to another, he 
+should never have had the 
+confidence to have told <font>Atlante</font> , how 
+much he ador'd her;</nonSpeech><dialogue> I am very 
+glad, </dialogue><nonSpeech>reply'd <font>Charlot</font> ,</nonSpeech><dialogue> that I was 
+the occasion of the beginning of 
+an Amour which was displeasing 
+to neither one nor to the other, 
+for I assure you for your comfort, 
+my Sister nothing but thinks on 
+you, we lye together and you 
+<pagebreak id="37" />
+have taught her already to sigh 
+so, that I could not sleep for her; 
+</dialogue><nonSpeech>at this his Face was covered 
+over with a rising Joy which his 
+Heart could not contain, and 
+after some more discourse in which 
+this innocent Girl discover'd 
+more then <font>Atlante</font> wisht she should, 
+he besought her to become his 
+Advocate, and since she had no 
+Brother, to give him leave to 
+assume that Honour, and call her 
+Sister, thus by degrees he 
+flattered her into a consent of
+carrying a Letter from him to <font>Atlante</font> , 
+which she who believ'd all as 
+innocent as her self, and being not 
+forbid to do so, immediately 
+consented to,</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="47" />
+<omission type="sentence" /> <nonSpeech>as soon as they were 
+come into the Pleasure Boat,
+unseen of any, he kneel'd at the 
+Feet of <font>Atlante</font> , and there utter'd 
+so many passionate and tender 
+things to her, with a voice so 
+trembling and soft, with Eyes so 
+Languishing, and a Fervency and 
+Fire so sincere, that her young 
+Heart wholly uncapable of 
+Artifice, could no longer resist such 
+Language, and such Looks of 
+Love, she grows tender, and he 
+perceives it in her fine Eyes, who 
+<pagebreak id="48" />
+could not dissemble, he reads her 
+Heart in her Looks, and found it
+yielding apace, and therefore 
+Assaults it anew, with fresh forces 
+of Sighs and Tears, he implores 
+she would assure him of her 
+Heart, which she could no other 
+way do then by yeilding to 
+Marry him; he would carry her to 
+the next Village, there 
+consummate that Happiness, without 
+which he was able to live no 
+longer, for he had a thousand 
+Fears, that some other Lover was, 
+or would, suddainly be provided 
+for her, and therefore he would 
+make sure of her, while he had 
+this opportunity; and to that 
+end he answered all the 
+Objections, she would make, to the 
+contrary: but ever when he nam'd 
+Marriage, she trembled with fear of 
+doing something that she fancy'd 
+she ought not to do without the 
+Consent of her Father, she was 
+sensible of the Advantage, but 
+<pagebreak id="49" />
+had been so us'd to a strict 
+Obedience, that she could not 
+without Horror think of Violating it,
+and therefore besought him, as 
+he valu'd her Repose, not to 
+urge her to that, and told him 
+further that if he fear'd any Rival, 
+she would give him what other 
+Assurance and Satisfaction he 
+pleas'd, but that of Marriage, 
+which she could not consent to, 
+till she knew such an Aliance
+would not be Fatal to him; for 
+she fear'd as passionately as he 
+lov'd her, when he should find 
+she had occasion'd him the loss 
+of his Fortune, or his Fathers 
+Affection, he would grow to hate 
+her; tho' he answered to this, all
+that a fond Lover could urge, 
+yet she was resolv'd, and he was
+forc'd to content himself with 
+obliging her by his Prayers and 
+Protestations, his Sighs and his
+showers of Tears to a Contract, 
+which they solemnly made each 
+<pagebreak id="50" />
+other, vowing on either side, that 
+they would never Marry any 
+other,</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">ATLANTE MENTIONS COUNT VERNOLE IN PASSING.</comment>
+<pagebreak id="51" /> 
+<omission type="sentence" /> </dialogue><nonSpeech>At the Name of this 
+Count, <font>Rinaldo</font> chang'd colour,
+fearing he might be some Rival, 
+and asked <font>Atlante</font> , if this <font>Vernole</font> 
+was akin to her, she answered No; 
+but was a very great Friend to her 
+Father, and one who from their 
+Infancy, had had a particular 
+<pagebreak id="52" />
+concern for their breeding, and was 
+her Master for <font>Philosophy</font> .</nonSpeech><dialogue> Ah! 
+</dialogue><nonSpeech>reply'd <font>Rinaldo</font> sighing, this Man's 
+concern must proceed from
+something more than Friendship for 
+her Father, and therefore
+conjured her to tell him, whether he 
+was not a Lover?</nonSpeech><dialogue> A Lover 
+</dialogue><nonSpeech>reply'd <font>Atlante</font> ;</nonSpeech><dialogue> I assure <comment type="compiler">SOURCE TEXT: aslure</comment> you, he is 
+a perfect <font>Antidote</font> against that 
+Passion; </dialogue><nonSpeech>and tho' she suffered his
+Ugly Presence now, she should 
+loath and hate him, should he 
+name but Love to her.</nonSpeech>
+   <nonSpeech>She said, she believ'd she need 
+not fear any such Persecution, since 
+he was a Man, who was not at 
+all Amorous, that he had too 
+much of the <font>Satyr</font> in his Humour 
+to harbour any softness there: and 
+Nature had form'd his Body to 
+his Mind, wholly unfit for Love; 
+and that he might set his Heart 
+absolutely at rest, she assur'd him 
+her Father had never yet propos'd 
+any marriage to her, tho' many 
+<pagebreak id="53" />
+advantagious ones are offer'd him 
+every day.</nonSpeech><dialogue>
+<comment type="compiler">THEY REACH HOME LATE.</comment>
+<omission type="line" /> </dialogue><nonSpeech>The first Person they 
+met withal was the Footman, 
+who open'd the Door, and began 
+to cry out, how long he had
+waited in the Church, and how 
+in Vain; without giving them 
+<pagebreak id="54" />
+time to reply, <font>De Pais</font> came 
+towards 'em, and with a Frowning 
+Look, demanded where they had 
+been? <font>Atlante</font> who was not 
+accustomed to Excuses and Untruth, 
+was a while at a stand; when 
+<font>Charlot</font> with a Voice of Joy cryed out,</nonSpeech><dialogue>
+Oh Sir we have been a Board of a 
+fine little Ship: </dialogue><nonSpeech>At this <font>Atlante</font> 
+blusht fearing she would tell the 
+Truth. But she proceeded on, 
+and said; that they had not been
+above a Quarter of an Hour at 
+Church, when the <font>Lady</font> -- with some 
+other <font>Ladies</font> and <font>Cavaliers</font> , were 
+going out of the Church, and that 
+spying them, they wou'd needs have
+them go with 'em;</nonSpeech><dialogue> my Sister Sir, 
+</dialogue><nonSpeech>continued she,</nonSpeech><dialogue> was very loath to go, for 
+fear you should be angry, but my 
+<font>Lady</font> -- was so importunate with 
+her on one side, and I on the 
+other; because I never saw a little 
+Ship in my Life, that at last we 
+prevailed with her, therefore
+good Sir, be not angry. </dialogue><nonSpeech>He 
+<pagebreak id="55" />
+promised them he was not, and 
+when they came in, they found 
+Count <font>Vernole</font> , who had been 
+inspiring <font>De Pais</font> with Severity, 
+and councel'd him to chide the 
+Young <font>Ladies</font> , for being too long 
+Absent, under Pretence of going
+to their Devotion, nor was it 
+enough for him to set the Father 
+on, but himself with a Gravity, 
+where Concern and <font>Malice</font> were 
+both apparent, reproacht 
+<font>Atlante</font> with Levity, and told her, he 
+believ'd she had some other
+Motive, then the Invitation of a 
+<font>Lady</font> , to go on Ship-board, and that 
+she had too many Lovers, not 
+to make them doubt that this was 
+a Design'd thing, and that she 
+had heard Love from some one, 
+for whom it was designed: To 
+this she made him but a short 
+reply, that if it was so, she had no
+reason to conceal it, since she had 
+Sense enough to look after herself, 
+and if any Body had made Love 
+<pagebreak id="56" />
+to her, he might be assur'd it was 
+some one, whose Quality and 
+Merit deserv'd to be heard; and 
+with a Look of Scorn, she past 
+on to another Room, and left 
+him silently raging within with 
+Jealousie. Which if before she 
+tormented him, this Declaration 
+increas'd it to a Pitch not to be
+conceal'd. And this Day he said 
+so much to the Father, that he 
+resolv'd forthwith to send <font>Charlot</font> 
+to a <font>Nunery</font> , and accordingly 
+the next Day, he bid her prepare 
+to go:</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="62" />
+<comment type="compiler">RINALDO IS ABOUT TO GO TO PARIS AT HIS FATHER'S COMMAND.</comment>
+   </dialogue><nonSpeech>The Night that finisht this 
+fatal day, he goes again to his 
+wonted Station, the Window; 
+where he had not sight very long, 
+but he saw <font>Atlante</font> enter the 
+Balcony, he was not able a great 
+while to speak to her, or to utter
+one word, the Night was light 
+enough to see him at the wonted 
+place, and she admires at his 
+silence, and demands the reason 
+in such obliging Terms, as adds 
+to his grief; and he with a deep 
+<pagebreak id="63" />
+sigh reply'd,</nonSpeech><dialogue> urge me not my fair 
+<font>Atlante</font> to speak, least by 
+obeying you, I give you more 
+cause of grief, then my silence is 
+capable of doing, </dialogue><nonSpeech>and then 
+sighing again, he held his peace and 
+gave her leave to ask the cause 
+of these last words, but when he 
+made no reply, but by sighing, 
+she imagin'd it much worse then 
+indeed it was, and with a 
+trembling and fainting voice she 
+cry'd;</nonSpeech><dialogue> Oh! <font>Rinaldo</font> , give me 
+leave to Divine that cruel news, 
+you are so unwilling to tell me;
+'tis so, </dialogue><nonSpeech>added she,</nonSpeech><dialogue> you are 
+destin'd to some more Fortunate 
+Maid than <font>Atlante</font> , </dialogue><nonSpeech>at this Tears 
+stopt her Speech, and she could 
+utter no more,</nonSpeech><dialogue> no my dearest 
+charmer, </dialogue><nonSpeech>reply'd <font>Rinaldo</font> , 
+(Elavating his voice) </nonSpeech><dialogue> if that were all, 
+you should see with what 
+fortitude I would dye, rather than
+obey any such commands; I am 
+vow'd yours to the last
+<pagebreak id="64" />
+moment of my Life, and will be 
+yours in spight of all the
+opposition in the World, that cruelty 
+I could evade, but cannot this 
+that threatens me; Ah! </dialogue><nonSpeech>cry'd 
+<font>Atlante</font> ,</nonSpeech><dialogue> let Fate do her worst, so she 
+still continue <font>Rinaldo</font> mine, and
+keep that Faith he has sworn to 
+me intire; what can she do 
+besides that, can afflict me? she can 
+seperate me, </dialogue><nonSpeech>cry'd he,</nonSpeech><dialogue> for some 
+time from <font>Atlante</font> . Oh! </dialogue><nonSpeech>reply'd 
+she,</nonSpeech><dialogue> all misfortunes fall so below 
+that, which I first imagin'd, that 
+methinks, I do not resent this, as 
+I shou'd otherwise have done; 
+but I know when I have a little 
+more consider'd it, I shall even 
+dye with the grief of it, absence
+being so great an Enemy to Love, 
+and makes us soon forget the 
+Object belov'd, this though I 
+never Experienced, I have heard 
+and fear it may be my fate,
+</dialogue><nonSpeech>he then convinc'd her fear with a 
+thousand new vows, and a 
+<pagebreak id="65" />
+thousand imprecations of constancy; 
+she then asked him, if their Loves 
+were discover'd, that he was 
+with such hast to depart, he told 
+her nothing of that was the cause, 
+and he cou'd almost wish it 
+were discover'd since he could 
+resolutely then refuse to go, but it 
+was only to cultivate his Mind, 
+more effectually than he cou'd do 
+here, 'twas the care of his Father to 
+accomplish him the more, and 
+therefore he cou'd not 
+contradict it,</nonSpeech><dialogue> but, </dialogue><nonSpeech>said he,</nonSpeech><dialogue> I am not sent 
+where Seas shall part us, nor vast 
+distances of Earth, but to <font>Paris</font> , 
+</dialogue><nonSpeech>from whence he might come in 
+two days to see her again, and 
+that he wou'd expect from that
+Balcony, that had given him so 
+many happy moments, many 
+more, when he should come to 
+see her, he besought her to send 
+him away, with all the 
+satisfaction she cou'd, which she could 
+no otherwise do, than by giving 
+<pagebreak id="66" />
+him new assurances, that she 
+wou'd never give away that 
+right he had in her, to any 
+other Lover, she vows this with
+innumerable Tears; and is almost 
+angry with him for questioning 
+her Faith; he tells her then he 
+has but one Night more to stay, 
+and his grief will be 
+unspeakable, if he shou'd not be able to 
+take a better leave of her than 
+at a Window, and that if she 
+wou'd give him leave, he wou'd
+by a Rope or two, ty'd together, 
+so as it may serve for steps, 
+ascend her Balcony; he not 
+having time to provide a Ladder 
+of Ropes: she tells him, she has 
+so great a confidence in his 
+vertue and Love, that she will 
+refuse him nothing, though it will 
+be a very bold venture for a 
+Maid, to trust her self with a 
+passionate young Man, in silence 
+of Night; and though she did 
+not exert a vow from him to 
+<pagebreak id="67" />
+secure her, she expected he wou'd 
+have a care of her Honour, he 
+swore to her, his Love was too 
+Religious for so base an attempt, 
+there needed not many vows to 
+confirm her Faith, and it was 
+agreed on between 'em, that he 
+should come the next Night into 
+her Chamber.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+<dialogue>
+<pagebreak id="71" />
+<comment type="compiler">RINALDO COMES TO ATLANTE'S BEDCHAMBER; 
+HE HAS BARELY GONE WHEN VERNOLE COMES 
+TO SEE ATLANTE.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>he told 
+her the care of her Honour, had 
+brought him thither, and then 
+rolling his small Eyes round the 
+Chamber, to see if he cou'd 
+discover any Body, he proceeded 
+<pagebreak id="72" />
+and cry'd</nonSpeech><dialogue> <font>Madam</font> , if I had no
+other motive than your being 
+up at this time of Night, or 
+rather of Day, I cou'd easily guess 
+how you have been entertain'd,
+what insolence is this, </dialogue><nonSpeech>said she, all 
+in a rage,</nonSpeech><dialogue> when to cover your 
+boldness, of approaching my 
+Chamber at this hour, you wou'd 
+question how I have been 
+entertained, either explain your 
+self, or quit my Chamber, for I 
+do not use to see such terrible 
+Objects here; possibly those you do 
+see, </dialogue><nonSpeech>said the <font>Count</font> ,</nonSpeech><dialogue> are indeed 
+more agreeable, but I am afraid 
+have not that regard to your
+Honour, as I have, </dialogue><nonSpeech>and at that 
+word, he stept to the Balcony, 
+open'd it, and look out, but seeing 
+no Body, he shut it too again, 
+this inrag'd <font>Atlante</font> beyond all
+patience, and snatching the 
+Pistol out of his hand, she told him, 
+he deserved to have it aim'd at 
+his head, for having the 
+<pagebreak id="73" />
+impudence to question her Honour, 
+or her conduct, and commanded 
+him to avoid her Chamber as
+he lov'd his Life; which she 
+believ'd he was fonder of than of 
+her Honour,</nonSpeech><dialogue> <omission type="sentence" />
+<comment type="compiler">VERNOLE IS FRIGHTENED.</comment>
+<pagebreak id="74" />
+<omission type="sentence" /> </dialogue><nonSpeech>he therefore fell 
+on his Knees, and besought her to 
+hold her fair hand, and not to 
+suffer that, which was the 
+greatest mark of his respect to be the 
+cause of her hate or indignation, 
+the pittyful Faces he made, and
+the signs of mortal fear in him, 
+had almost made her Laugh, at 
+least it allay'd her anger, and she 
+bid him rise and play the Fool 
+hereafter somewhere else, and 
+not in her presence, yet for once 
+she would deign to give him this
+satisfaction, that she was got 
+into a Book, which had many
+moving Stories very well writ, 
+and that she found her self so 
+well entertain'd, she had forgot 
+how the Night past; he most 
+humbly thankt her for this 
+satisfaction and retir'd, perhaps not so 
+well satisfy'd as he pretended.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+<dialogue>
+<pagebreak id="84" />
+<comment type="compiler">VERNOLE ASKS ATLANTE'S FATHER IF HE CAN MARRY HER. ATLANTE 
+SUMMONS RINALDO TO HELP HER AND HE RETURNS FROM FRANCE.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>they 
+discourst, and said all they had to 
+say, from thence, she tells him of 
+the <font>Counts</font> passions, of her 
+Fathers Resolution and her own,
+which was rather to dye his 
+than live any bodies else, and at 
+last as their last refuge, they 
+resolve to discover the whole 
+Matter, she to her Father, and he to 
+his, to see what Accommodation 
+they could make, if not to dye 
+together: They parted at this 
+resolve, for she would not permit him 
+longer to stay in the Street 
+after such a sickness; so he 
+<pagebreak id="85" />
+went home to Bed but not to 
+sleep.</nonSpeech>
+   <nonSpeech>The next day at Dinner 
+<font>Monsigniore Bellyuard</font> believing his 
+Son absolutely cur'd by absence 
+of his passion, and speaking of 
+all the News of the Town, 
+among the rest, told him he was 
+come in good time to Dance at 
+the Wedding of <font>Count Vernole</font> 
+with <font>Atlante</font> , the Match being
+agreed on:</nonSpeech><dialogue> No Sir, </dialogue><nonSpeech>reply'd 
+<font>Rinaldo</font> ,</nonSpeech><dialogue> I shall never Dance at the 
+Marriage of Count <font>Vernole</font> with 
+<font>Atlante</font> , and you will see in 
+<font>Monsieur De Pays</font> House a 
+Funeral sooner than a Wedding, </dialogue><nonSpeech>and 
+thereupon he told his Father all
+his passion, for that lovely Maid: 
+and assur'd him if he would not 
+see him laid in his Grave, he must 
+consent to this Match: <font>Bellyuard</font> 
+rose in a fury, and told him he
+had rather see him in the Grave 
+then in the Arms of <font>Atlante</font> ,</nonSpeech><dialogue> not 
+</dialogue><nonSpeech>continued he,</nonSpeech><dialogue> so much for any 
+<pagebreak id="86" />
+dislike I have to the Young Lady, 
+or the smallness of her Fortune, 
+but because I have so long 
+warn'd you from such a passion, 
+and have with such care 
+endeavour'd by your absence to 
+prevent it, </dialogue><nonSpeech>he traverst the Room very 
+fast, still protesting against this 
+Aliance, and was deaf to all
+<font>Rinaldo</font> could say, on the other 
+side, the day being come 
+wherein <font>Atlante</font> was to give her final 
+Answer to her Father, 
+concerning her Marriage with <font>Count 
+Vernole</font> , she assum'd all the Courage 
+and Resolution she could to
+withstand the Storm, that 
+threaten'd a Denial; and her 
+Father came to her, and 
+demanding her Answer; she told
+him, she could not be the Wife 
+of <font>Vernole</font> , since she was Wife 
+to <font>Rinaldo</font> , only Son to <font>Bellyuard</font> :</nonSpeech>
+<omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="89" />
+<comment type="compiler">VERNOLE HIRES SOLDIERS TO ATTEND HIM; 
+ONE ATTACKS RINALDO.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>but he 
+found himself incompast with 
+<font>Vernoles</font> Bravoes; and himself 
+standing at a distance, cry'd out,</nonSpeech><dialogue>
+that is he: </dialogue><nonSpeech>with that they all
+drew on both sides, and <font>Rinaldo</font> 
+receiv'd a Wound in his Arm, 
+<font>Atlante</font> heard this, and ran crying 
+out that <font>Rinaldo</font> prest by 
+numbers would be kill'd.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">DE PAIS FIGHTS OFF THE SOLDIERS; RINALDO'S 
+WOUNDS ARE TENDED BY ATLANTE.</comment>
+<pagebreak id="90" />
+<omission type="sentence" /> </dialogue><nonSpeech>and <font>Atlante</font> with her
+Maids binding up his Wound,
+to whom <font>De Pays</font> said,</nonSpeech><dialogue> this 
+Charity <font>Atlante</font> very well becomes you, 
+and is what I can allow you; 
+and I could wish you had no 
+other Motive for this Action: 
+</dialogue><nonSpeech> <font>Rinaldo</font> by degrees recovered of 
+his Fainting, and as well as his 
+weakness would permit him, he 
+got up and made a low 
+Reverence to <font>De Pays</font> , telling him, he
+had now a double Obligation to 
+pay him all the respect in the 
+World, first for his being the 
+Father of <font>Atlante</font> , and secondly, for 
+being the Preserver of his Life, two
+tyes that should eternally oblige 
+him to Love and Honour him, 
+as his own Parent; <font>De Pays</font> 
+<pagebreak id="91" />
+reply'd, he had done nothing but 
+what common Humanity 
+compelled him too: but if he would make 
+good that respect he profest
+towards him, it must be in 
+quitting all hopes of <font>Atlante</font> , whom 
+he had destin'd to another, or 
+to an eternal inclosure in a 
+Monastery, he had another 
+Daughter, whom if he would think 
+worthy of his regard, he should 
+take his Aliance as a very great 
+Honour, but his Word and
+Reputation, nay his Vows, were 
+past to give <font>Atlante</font> to <font>Count
+Vernole</font> ; <font>Rinaldo</font> , who before he 
+spoke, took measure from 
+<font>Atlantes</font> Eyes, which told him, her 
+Heart was his; return'd this 
+Answer to <font>De Pays</font> : that he was 
+infinitely glad to find by the 
+generosity of his Offer, that he had 
+no Aversion to his being his 
+Son-in-Law, and that next to <font>Atlante</font> ,
+the greatest Happiness he could 
+wish would be, his receiving 
+<pagebreak id="92" />
+<font>Charlot</font> from his hands, but that 
+he could not think of quitting 
+<font>Atlante</font> , how necessary soever it
+would be for her Glory and his 
+-- (the further) Repose:</nonSpeech> <omission type="sentence" />
+
+
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="99" />
+<comment type="compiler">RINALDO VISITS CHARLOT.</comment>
+<omission type="sentence" />
+</dialogue><nonSpeech>sometimes he would talk to 
+<font>Charlot</font> of her own Affairs, asking her, 
+if she resolv'd to become a <font>Nun</font> : 
+to which she would sigh and say, 
+if she must, it wou'd be extreamly 
+against her Inclinations; and if it 
+pleas'd her Father, she had rather
+begin the World with any 
+Tollerable Match.</nonSpeech>
+   <nonSpeech>Things past thus for some Days, 
+in which our Lovers were happy, 
+and <font>Vernole</font> assur'd he should have 
+<font>Atlante</font> . But at last <font>De Pais</font> came 
+to visit <font>Charlot</font> , who ask'd her if 
+she had seen <font>Rinaldo</font> , she answer'd, 
+<pagebreak id="100" />
+she had,</nonSpeech><dialogue> and how does he 
+entertain you, </dialogue><nonSpeech>replyed <font>De Pais</font> ?</nonSpeech><dialogue> have 
+you receiv'd him as a Husband? 
+and has he behav'd himself like
+one? </dialogue><nonSpeech>at this a suddain Joy seized 
+the Heart of <font>Charlot</font> , and loath 
+to confess what she had done for 
+him to her Sister; she hung down 
+her Blushing Face to study for an 
+Answer: <font>De Pais</font> continu'd, and 
+told her the Agreement between
+<font>Bellyaurd</font> and him, for the saving 
+of Bloodshed: She who blest the 
+Cause, whatever it was, having
+always a very great Friendship 
+and Tenderness for <font>Rinaldo</font> , gave 
+her Father a Thousand Thanks, 
+for his Care, and assur'd him, since 
+she was commanded by him, she 
+would receive him as her 
+Husband: and the next Day when 
+<font>Rinaldo</font> came to visit her, as he 
+us'd to do, and bringing a Letter 
+with him, wherein he propos'd 
+the Sight of <font>Atlante</font> , he found a 
+Coldness in <font>Charlot</font> , as soon as he 
+<pagebreak id="101" />
+told her his Design; and desired 
+her to carry the Letter, he ask'd 
+the Reason of this Change, she 
+tells him, she was inform'd of the 
+Agreement between their two 
+Fathers, and that she lookt upon her
+self as his Wife, and would act 
+no more as a Confident, that she 
+had ever a Violent Inclination of 
+Friendship for him, which she
+would soon improve into 
+something more Soft. He could not 
+deny the Agreement nor his 
+Promise, but it was in vain to tell 
+Her, he did it only to get a
+Correspondence with <font>Atlante</font> ; she 
+is Obstinate, and he as pressing 
+with all the Tenderness of 
+Perswasion, he vows he can never be 
+any but <font>Atlantes</font> , and she may see
+him die, but never break his Vows; 
+she urges her Claim in Vain, so 
+that at last she was overcome, and 
+promis'd she would carry the 
+Letter, which was to have her make
+her Escape that Night; he waits 
+<pagebreak id="103" />
+<comment type="compiler">NO PAGE 102 IN SOURCE TEXT</comment>
+at the Grate for her Answer, and 
+<font>Charlot</font> returns with one that 
+pleased him very well, that was, that 
+Night her Sister would make her 
+escape, and that he must stand in 
+such a Place of the <font>Nunery</font> Wall, 
+and she would come out to him:
+after this she upbraids him with 
+his false promise to her, and of her 
+Goodness to serve him after such 
+a Disappointment. He receives 
+her Reproaches with a thousand
+Sighs, and bemoans his 
+Misfortune in not being capable of more 
+than Friendship for her, and 
+vows, that next <font>Atlante</font> he Esteems 
+her of all Womenkind: She seems 
+to be obliged by this and assur'd 
+him, she would hasten the Flight 
+of <font>Atlante</font> , and taking leave, he 
+went Home to order a Coach, 
+and some Servants to assist him.</nonSpeech><dialogue>
+<comment type="compiler">ATLANTE REFUSES TO SEE VERNOLE, WHO ORGANISES AN ATTACK 
+ON RINALDO.</comment>
+<pagebreak id="104B" />
+<comment type="compiler">THIS IS THE SECOND OF TWO PAGES NUMBERED PAGE 104.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech> <font>Vernole</font>
+being now all rage, cry'd to his 
+<font>Assassinate</font> ,</nonSpeech><dialogue> fall on and kill the Ravisher, 
+<pagebreak id="105" />
+</dialogue><nonSpeech>and immediately they all fell on; 
+<font>Rinaldo</font> , who had only his two 
+Footmen on his side, he was 
+forced to let go the Lady, who would 
+have run into the Garden again, 
+but the door fell too and lockt; 
+so that while <font>Rinaldo</font> was fighting, 
+and beaten back by the <font>Bravoes</font> , 
+one of which he laid dead at his 
+<font>Feet</font> ; <font>Vernole</font> came up to the 
+frighted Lady, and taking her by the 
+hand, cry'd,</nonSpeech><dialogue> come my fair <font>Fugitive</font> , 
+you must along with me; <omission type="sentence" />
+<comment type="compiler">OUT OF FEAR, ATLANTE IS TAKEN AWAY BY VERNOLE. 
+BY THE BETTER LIGHT OF HER FATHER'S HOUSE 
+IT TURNS OUT THAT IT IS CHARLOT, NOT ATLANTE.</comment>
+<comment type="compiler">NO PAGE 106 IN SOURCE TEXT.</comment>
+<pagebreak id="107" />
+<omission type="line" /> </dialogue><nonSpeech>Her Father demanded 
+of her, why she was running 
+away with a Man, who was 
+designed her by consent,</nonSpeech><dialogue> yes, </dialogue><nonSpeech>said 
+<font>Charlot</font> ,</nonSpeech><dialogue> you had his Consent Sir, and 
+that of his Father, but I was far 
+from getting it, I found he 
+resolv'd to die rather then quit 
+<font>Atlante</font> , and promising him my 
+Assistance in his <font>Amour</font> , since he
+could never be mine, he got me 
+to carry a Letter to <font>Atlante</font> , which 
+was to desire her to fly away with 
+him, instead of carrying her this 
+Letter, I told her he was design'd 
+for me, and had cancell'd all his 
+Vows to her, she swoonded at 
+this News, and being recover'd a 
+little, I left her in the Hands of 
+the <font>Nuns</font> to perswade her to live: 
+which she resolves not to do 
+without <font>Rinaldo</font> , tho' they press'd me, 
+<pagebreak id="108" />
+yet I resolv'd to persue my 
+Design, which was to tell <font>Rinaldo</font> , 
+she would obey his kind 
+Summons, he waited for her, but I 
+put my self into his Hands in lieu 
+of <font>Atlante</font> , and had not the Count 
+received me, we had been 
+marry'd by this time, by some false 
+Light that could not have 
+discover'd me: But I am satisfied 
+if I had, he would never have 
+liv'd with me longer than the 
+Cheat had been undiscovered, for 
+I find them both resolv'd to die 
+rather then change; and for my 
+Part, Sir, I was not so much in 
+Love with <font>Rinaldo</font> , as I was out 
+of Love with a <font>Nunnery</font> ; and 
+took any Opportunity to quit a 
+Life Absolutely contrary to my 
+Humours. </dialogue><nonSpeech>She spoke this with
+a Gayety so brisk, and an Air so 
+agreeable, that <font>Vernole</font> found it 
+toucht his Heart; and the rather 
+because he found <font>Atlante</font> would 
+never be his, or if she were, he
+<pagebreak id="108B" />
+<comment type="compiler">THIS IS THE SECOND OF TWO PAGES NUMBERED PAGE 108</comment>
+should be still in Danger from the 
+Resentment of <font>Rinaldo</font> ; he 
+therefore bowing to <font>Charlot</font> , and taking 
+her by the Hand cry'd,</nonSpeech><dialogue> <font>Madam</font> ; 
+since Fortune has dispos'd you
+thus Luckily for me, in my 
+Possession, I humbly implore you 
+would Consent, she should make 
+me intirely Happy, and give 
+me the Price for which I fought, 
+and have conquered by my Sword;
+my <font>Lord</font> , </dialogue><nonSpeech>reply'd <font>Charlot</font> , with a 
+Modest Air:</nonSpeech><dialogue> I am Superstitious 
+enough to believe, that since 
+Fortune, so contrary to all our 
+Designs, has given me into your 
+Hands, that she from the 
+Beginning Destined me to the Honour, 
+which with my Fathers Consent, 
+I shall receive as becomes me: <omission type="sentence" />
+<comment type="compiler">VERNOLE MARRIES CHARLOT. RINALDO THINKS THAT SHE 
+WAS ATLANTE AND COLLAPSES.</comment>
+<pagebreak id="111" />
+<omission type="sentence" /> </dialogue><nonSpeech>he asked for his Father with 
+a faint voice, for he desired to see him 
+before he dy'd, it was told him he was 
+gone to Count <font>Vernoles</font> Wedding, where 
+there was a perfect peace agreed on 
+between them, and all animosities laid 
+aside; at this News <font>Rinaldo</font> fainted 
+again, and his Servants called his 
+Father home, and told him in what
+condition they had brought home 
+their Master, recounting to him all that 
+was past: he hasted to <font>Rinaldo</font> , whom
+he found just recover'd of his 
+Swooning, who putting his hand out to 
+his Father, all cold and trembling, 
+cry'd</nonSpeech><dialogue> well Sir, now you are satisfy'd, 
+since you have seen <font>Atlante</font> Marry'd 
+to Count <font>Vernole</font> , I hope now you will
+give your unfortunate Son leave to dye, 
+as you wisht he should rather then give 
+him to the Arms of <font>Atlante</font> : </dialogue><nonSpeech>here his 
+Speech fail'd, and he fell again in a fit 
+of swonding, his Father ready to dye 
+with fear of his Sons death, kneel'd down 
+by his Bed side, and after having
+<pagebreak id="112" />
+recover'd him a little, he said to him,</nonSpeech><dialogue> my 
+dear Son, I have indeed been at the 
+Wedding of Count <font>Vernole</font> , but 'tis not
+<font>Atlante</font> to whom he is Marry'd, but 
+<font>Charlot</font> , who was the Person, you were 
+bearing from the Monastery instead of 
+<font>Atlante</font> , who is still reserv'd for you, 
+and who is dying till she hear you are 
+reserv'd for her, therefore as you
+regard her Life, make much of your own, 
+and make your self fit to receive her, for 
+her Father and I have agreed the 
+Marriage already; <omission type="sentence" />
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

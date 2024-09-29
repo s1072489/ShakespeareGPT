@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOTJ">
+  <dialogueHeader>
+
+    <filename>D3HOTJ</filename>
+
+    <identifier>3 HANDB OTH D3HOTJ</identifier>
+
+    <title>VPRIGHT</title>
+
+    <author>T. J.</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1640</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">T. J.</attribution>
+      <frontMatter>A DISCOURSE, BETWEENE VPRIGHT THE SHOOMAKER AND MASTER PATTENT,
+THE SMITH. BOTH MEETING ON THE HORSE EXCHANGE IN SMITHFIELD, ON THE 
+20. DAY OF APRILL. 1639. 
+(...)
+BY T. J.
+LONDON, PRINTED BY B. ALSOP, AND T. F. FOR FRANCIS GROVES DWELLING 
+ON SNOW-HILL NEARE THE SARAZENS HEAD. 
+1640.
+PP. A1V.1 - B4V.27
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A1V" />
+ <head>VPRIGHT.
+AND
+PATTENT.</head> 
+   <nonSpeech> <font>Pattent</font> </nonSpeech><dialogue>
+Whether in such hast Mr. <font>Upright</font> ; you
+looke as if you did not know me.
+   </dialogue><nonSpeech> <font>Upright.</font> </nonSpeech><dialogue> 
+I doe indeed Sir, yet I am perswaded I have
+seene you; and now I thinke ont, 'twas at the
+Sessions house.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> 
+Right Sir, my name is <font>Pattent</font> ; I endited
+<font>Mr. Chambergaine</font> for receiving of Inmates:
+   </dialogue><nonSpeech> <font>Upright.</font> </nonSpeech><dialogue> 
+I perfectly remember you good <font>Mr. Pattent</font> ;
+how go's <comment type="compiler">SOURCE TEXT: go,s</comment> trading with you now, I am afraid wee
+shall have a dead time on't, you have little to doe
+I thinke; when <font>Summer</font> comes Pattents grow
+out of date.
+<pagebreak id="A2R" />
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> You are in the right sir, and which is
+worse, the City had rather goe wetshod then
+have them brought vp againe
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> Say you so, troth I cannot much blame
+them, for to say truth, you have not made them
+serviceable for the Common wealth, you have
+onely a respect to your private gaine Master
+Pattent, you got sweetly for the time they 
+lasted.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> By your favour Master <font>Vpright</font> , now
+you talke of deceit in Trading, I must tell you
+your owne too: did you never vent Calves
+Leather for Neate, and oftentimes for Spanish to
+some ignorant Customers: nay now you tell me
+of vnserviceable ware, how many of the Kings
+Subjects have you put in the stockes without
+authority not vagrants and Beggars, but
+Gentlemen, Marchants, Citizens, with their wives and
+aughters.
+
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> I vnderstand your wit: you meane
+that I have made their shooes too little for them.
+
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Yes sir,
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> They had better be in the Shoomakers
+stacks, then be so gauled by Pattents as they
+have beene.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I doe not thinke but you have dranke your
+<pagebreak id="A2V" />
+Mornings draught in Wormewood Beere Mr.
+<font>Vpright</font> .
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> Why?
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> You fall so bitter vpon me:
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I shall be bitterer ere we part Master
+Pattent.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Doe thy worst Shoomaker.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> No no no, not the worst neither:
+The best I have to tell you will make you madd
+enough, doe you remember when you were
+Constable Master <font>Pattent</font> , when you tooke me in
+your watch on Crispine and Crispianus Night,
+and carried me to the Counter.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Ha ha ha, yes I doe, I doe.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Doe you laugh at it.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Yes faith, I remember you went
+beyond your Last then.
+   </dialogue><nonSpeech> <font>Vpright:</font> </nonSpeech><dialogue> 
+I remember thou wer't the troublesom'st
+tyrannicall Constable that ever knock'd down
+iniquity with a painted staffe: Thou would'st have
+a finger in every mans businesse, thy very name
+was hatefull, if they did but heare of <font>Pattent</font> they
+were danted, thou hast had a pernicious wit, or
+else thou could'st never overcome Scriveners
+and Brokers, they have curst thee sufficiently,
+the low Country Butter-boxes wished tenne
+<pagebreak id="A3R" />
+hundred thousand tunne of Devill take thee,
+because they were forced to waight for Butter till
+you brought the transporters to composition:
+And what had your Loggerhead to doe with Mr.
+<font>Logwood</font> the <font>Dyer</font> ; thou wilt vndertake to teach
+people to dye well, and thy selfe could'st never
+live well.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> Very good.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Not very bad sir, 'tis you I am talking off,
+doe you heare <font>Pattent</font> , the <font>Spanish</font> Marchant
+<font>Don tobacco</font> vowes a revenge vpon thee, and I
+much feare he will take thy life: for he sayes he
+will send his two Faetors, <font>Verinus</font> and 
+<font>Mandungus</font> to stifle thee.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> The devill he will, they are from him
+already man he hath put them to boord in blind
+Ale-houses.
+   </dialogue><nonSpeech> <font>Upright.</font> </nonSpeech><dialogue> No matter, ther's more wayes to
+kill a Dog then hanging of him.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> A Dogge you Dunstable.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> 
+Yes you paper Kite, and now I talke of
+hanging, there could not be so much as the hangmans
+office to sell but Tyburne, and the rest of his
+kindred must allow you a pention for it.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> So, so, so, can Saint <font>Hugh</font> and his 
+bones protect you to talke thus liberally 
+Shoomaker.
+<pagebreak id="A3V" />
+   </dialogue><nonSpeech> <font>Upright.</font> </nonSpeech><dialogue> Oh yes, yes, yes, thou giv'st me
+authority, I know I may talke freely by patent my
+friend:
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> It was Master <font>Patent</font> .
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> I that was when you traded in
+sheepskins and Lambskins oh thou wer't a
+precious Woolfe in Lambskinne.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> You will answer all this, will you
+not.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> No, I scorne it, I beleeve I have
+spoke more then thou canst answer.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> But heark ye goodman Shoomaker.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> Goodman Shoomaker, I deny and
+defie the title. I am a Gentleman, my gentility
+is of Antiquity, thou art an Upstart; Shooes
+were made when thy villanous Pattents were
+not thought on.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Well I may chance shortly brew a little
+Wormewood for you.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Brew say you, you have brewed for vs
+already I thanke you, all the Gentlemen
+Cordwayners in St. Martins doe wish but to have 
+the drowning of thee for abusing the Brewers:
+which hath made them abuse vs and send vs
+inchanted small Beere in stead of strong, before
+you had a hand in the Brewhouse we could have
+old <font>English</font> beere would makes all madde before
+Munday noone, now tis so small we can scarce
+<pagebreak id="A4R" />
+get drunke by <font>Tuesday</font> Night, a whole tunne of
+our beere will scarce for a <font>Dutchman</font> ; this you
+have done good Master Pattent.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Shall I be blam'd for this, I thinke I did
+the Common wealth a great deale of good to
+keepe it sober.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I thou art a necessary member for in
+keeping of them from being drunke, thou mak'st
+them mad, as I am a Shoomaker and free of the
+Cordwainers, every prentize I had came home
+sober last <font>Shrovetuesday</font> night: It was not so I
+am sure when I was a Lad:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Hay, hay?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Yes and straw to, you put me well in mind
+on't, the horses that had been well bred and
+pamper'd in the Country, and had their allowance of 
+hay freely, and lay at racke and manger, eat what
+they would; now they are stinted: how many
+pound of hay is there in a Load Mr. Pattent.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I cannot tell?
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> Wee must buy hay for our horses as we
+buy figs by the pound, doe you beleeve when you
+waighed Hay that Iustice held the Scales.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I see you will have License?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Not from you Iack straw, vnlesse you
+were in office againe?
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Iacke straw?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I prethee answer me to one question and
+<pagebreak id="A4V" />
+be just with me to a strawes breadth?
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Declare your wit?
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> How many ounces of straw goes to the
+littering of a Mad man a yeare in <font>Bedlam</font> .
+
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> 'Tis a madde question?
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> I that's true, I know who I speake
+to.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> Why doe you count me for a Mad
+man.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> No for a wise man: and a man that hath had
+experience ith mistery, this is no question for a
+Mad man to answer:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> It seemes your conversation is altogether
+with wise acres: was it not you that asked the
+silly question once; whether Red-herrings came
+out of the red Sea or no.
+
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> No but it was you that made men pay as
+deare for them, as if they came from thence, I
+wonder you had nothing to doe with dainty blote
+herring, blote, blote, or dryed Sprats; I beleeve
+you had something to doe with Gudgeons, though
+thy selfe art as miserable now as poore <font>Iohn</font>
+was, is it not you that one Lent endited a poore
+man of Felony for frying of Bacon.
+
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> Of Fellony?
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> Yes of Fellony, and you would needs
+justifie it with an Act of Parliament, which when
+one looked on it which had better eyes, it was
+not frying of Bacon, but fiering a Beacon.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> Ha ha ha.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> Doest thou laugh at thy owne
+ignorance, doe you heare <font>Patent</font> , did I never know
+you a Dunghill Raker.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I a Dunghill raker, ye Pantoffle.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I cry you mercy Sir, you did onely rake
+them that raked Dunghills, looke too't, for there
+is an army comming against thee, whose
+weapons are strong yron hookes; the Captaine of
+them is <font>Tattardemalion Tagragg</font> : those that be
+vnder his command I shall nominate to thee.
+<font>Britch bottome out,
+Ralph Patch and stitch,
+Will worke and fast,
+Hadge Leather Scrap,
+Sam Scrape and take,
+Daniell Dunghill Worke.</font>
+And a great many more out of my memory at
+this time that have made vp a ragged Regiment
+and vow no more to be obedient to thy authority
+Moreover the Hop-Marchants have an 
+intention <comment type="compiler">SOURCE TEXT: intent.on AT LINE BREAK</comment> to marry all the  
+female Bonelace makers, and
+get Children to fortifie themselves against thee
+<pagebreak id="B1V" />
+they say if thou dost but come amongst their hops 
+againe, they will scarce leave thee a leg to hop
+away vpon, and the Bonelace-makers have taken
+such spirit against thee, that in stead of 
+Bone-Lace thou shalt returne with laced bones, and
+take my word <font>Pattent</font> , thou hadst better be in the
+middle of <font>English</font> pikes, then amongst their
+<font>Spanish</font> needles.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Doe you hold any confedrase with this
+lawlesse faction Mr. <font>Vpright</font> that you can so well
+tell the manner of the revenges they will execute
+vpon me.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I promise thee I doe not thinke but they
+will burne thee when all comes to all, and ther's                    
+<comment type="compiler">SOURCE TEXT: ther s</comment>
+an end of <font>Pattent</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> It must be some of your female
+Bonelacemakers then, I care not a button for the rest
+of the Rebellions.
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> Don't you care a button? Master <font>Panyer</font>
+in <font>Hoope Ally</font> will make you care a button, why
+thou Iack in a boxe, could'st not thou be content
+to gaine Authority amongst the Buttonmakers
+of <font>Amsterdam</font> , where the sisterhood might have
+payed thee tribute; besides Buttons for thy
+breeches.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Yes when their breeches make buttons,
+have I lived after that rate to goe secured among
+Precisions you vagrants.
+<pagebreak id="B2R" />
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Among Precisians you puppie, what need
+you confine your selfe to one Sect when there is
+so much division amongst them.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> That's all one, they hold the greatest sway
+who care no more for knocking a mans braines
+out in zeale, or for the good of the common cause:
+then I for philiping a flie to death, I would not be
+within y=e= jurisdiction of new <font>England</font> for a million.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Nay I thinke thou hadst better be in the
+great <font>Maguls</font> Countrie:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Or have been Page to Sir <font>John 
+Mandevill</font> , I should hope to returne with more security.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Well, but now we have been in 
+<font>Amsterdam</font> , <font>New England</font> , and <font>Magoll</font> ; let vs returne
+to old <font>England</font> againe, where there is many
+honest men will welcome you home, one Mr. <font>Cipres</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Oh, the Hatband maker.
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> Then theres another one Mr <font>Kitling</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> A fiddlestring maker?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Master <font>Clay</font> :
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> A Tobackopipe maker?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Master Glasse <font>Eyes</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> A Spectacle maker?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Master <font>Curry</font> :
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> A Combmaker?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Doe you heare Pattent cannot you vance
+all trades, how many Halls have you been free of:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Whats that to thee?
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>V.</font> </nonSpeech><dialogue> That is a question all men aske when they
+are ashamed to give an answer.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Ashamed?
+   </dialogue><nonSpeech> <font>vp.</font> </nonSpeech><dialogue> Did I say thou wert ashamed:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> 'Twas your pleasure?
+   </dialogue><nonSpeech> <font>vp.</font> </nonSpeech><dialogue> Give me thy hand I am sorry for it, I cry
+thee mercy I tooke my markes amisse: Ile give
+thee thy due for that efaith I thinke thou wert
+ever shamelesse, have I hit the Naile on the head
+now Smith, are you pleased:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> You have spoken all?
+   </dialogue><nonSpeech> <font>vp.</font> </nonSpeech><dialogue> Not all, but I am drawing to an end?
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Would thou hadst spoke thy last once?
+   </dialogue><nonSpeech> <font>vp.</font> </nonSpeech><dialogue> I shall vexe thy soule first Sirrah,
+vnlesse thou canst come off with good Language,
+thou wilt suffer many Deaths in one, the
+Hatband maker will choake thee or strangle thee
+with <font>Cipres</font> , the Gutstring maker will make
+strings of thy Guts which will cozen the
+Fidlers most abhominably, for they will never
+stand in Tune, the Tobackopipe makers,
+Spectacle makers, and Combe makers, will
+compound with the Dicemakers for thy bones
+to make falce Dice with, and that's a way
+to make thee as mischievous in thy Death
+as thou wer't in thy lifetime, and if thy Bones
+prove so deceitfull, we may very well turne the
+tother end of an old Proverb, what was bred in
+thy flesh will never out of thy bones.
+<pagebreak id="B3R" />
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I have heard you, and doubt not the worst
+their mallice aymes to inflict vpon me, I have
+ere this my tragedy be brought to passe, contriv'd
+a meanes to worke revenge on them.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Declare, I shall be glad to heare it, I always
+had an itching desire to mischiefe as well as thou:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Thus then, I will bring up a fashion
+amongst some of our temporising gallants to
+forsake the wearing of hatbonds, we will have all
+our fiddle strings from <font>Rome</font> and <font>Venice</font> , and as
+I am a Smith, I have a conceit to make yron 
+tobacko pipes and steele Combes, and our old men
+when they once grow dimme sighted, shall have
+their writings read to them.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> I this is prety well, but not in your power
+to perfect, this is a harder project vpon them, then
+the first you had, it will be a hard matter to draw
+the humours of the whole Kingdome to these
+fashions: besides your yron worke will doe no
+good, for we have many phantastike Company
+keepers that onely take Tobacko to breake the
+pipes, and shall we be beholding to other Nations
+for fiddle strings or combe our heads with Horse
+Combes. Besides ther's a strange conceit indeed
+that all old men should have their writings read
+to them, 'tis enough to vndoe halfe the old men in
+the Kingdome, their Mistresses shall not send to
+them letters of commendation, or places of new
+<pagebreak id="B3V" />
+meeting, but they must be enforc'd to have their
+wives to read them, and what inconveniency that
+would bring, doe but judge: No no, this will not
+doe Mr. <font>Pattent</font> , I am a little in hast, I thinke it
+be dinner time, I will onely give you one item
+more and then I'le leave you to your owne
+direction, were you never acquainted with one Mr.
+<font>Fortune</font> . </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Yes, yes, a Horner.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Ware horns, take heed of him are you mari'd.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> What of that?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Take heed of him, that is all; I speake
+as a Friend.
+   </dialogue><nonSpeech> <font>Pattent.</font> </nonSpeech><dialogue> Friendly councell.
+   </dialogue><nonSpeech> <font>Vpright.</font> </nonSpeech><dialogue> It is so, then doe not you know
+Mr. Kill Cow.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Yes the Butcher.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> The very same, he hath a great many friends
+abroad, so hath <font>Ball</font> his Dog, be sure you goe not
+through field lane, Newgate market, Butcher
+row, St. <font>Nicholas</font> shambles, East Cheape, or
+<font>Southwark</font> , there is wait laid for thee in all these
+places, and if they meet thee thou wilt be stucke
+fuller of Skuers then a Surloyne of roast beefe
+at <font>Christmas</font> is stucke with Rosemary: And by
+all meanes come not neare the Beare garden for
+beares and Dogs are friends and all agree, on
+thee to act a bloody Tragedy.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Well sirrah, you are a railing fellow, I'le
+talke no more to you?
+<pagebreak id="B4R" />
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> One cold word more good Master <font>Pattent</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> But sirrah why doth these things trouble
+you so much?
+   </dialogue><nonSpeech> <font>Up.</font> </nonSpeech><dialogue> I tell thee my name is <font>vpright</font> my nature
+is like vnto my name, and I defie such juggling
+in a Common-wealth, it makes my honest
+countrymen beg in a land of plentie; I have somthing
+to say to you (now I consider <font>Christmas</font> is so
+neare) concerning Cards. What new game have
+you set a foot, that the knave of Dyamonds doth
+cozen the king of Hearts and all his Subjects to
+the very Ace, y'are a sure Card sirrah, when 
+<font>Pattent</font> deales, all the rest doe but hold Cards.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Why not, why I tell thee I will cozen
+my Father at Cards.
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> Prethee doe not sweare I'le beleeve thee,
+the Father quoth he, I the Father of thy
+Country -- you are going now, you doe not love to
+heare of your faults, I have onely one thing more
+to say to thee, &amp; then fire or y=e= Iakes consume thee.
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> I thanke you sir, spit out your spleene, what
+is your next venome?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> No venome vpon my credit, now I have
+laid open thy soule inside, I will give thee a purge
+that is with Soape:
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> With Soape?
+   </dialogue><nonSpeech> <font>Vp.</font> </nonSpeech><dialogue> With Sope, I with Sope, that was a purge
+deere enough as you order'd it, all the good
+<pagebreak id="B4V" />
+Huswives in <font>London</font> , and those that take a pride in
+cleane linnen, have an intention to wash thee
+cleere from all thy former villanies; but I am 
+afraid they will doe no good vpon thee, they will be
+enforced at last to hang thee vp for the signe of y=e=
+Labour in vaine, which is the end I bequeath thee
+too, and though I am no Barbar good Mr. <font>Pattent</font> ,
+I must leave you ith suds at this time, for I have
+talk'd my selfe weary, my shop Iournimen and
+prentises expect me, if you have any thing to say
+to me, you know St. <font>Martins</font> , I will not change
+my house now the world is in hope of
+reformation. So good even sweet Master <font>Pattent</font> .
+   </dialogue><nonSpeech> <font>Pat.</font> </nonSpeech><dialogue> Farewell sir?
+And though these things I can no longer 
+thrive by,
+Hang him that wants, who hath all Trades
+to live by.
+<font>And so Master Patten,
+Pray learne this mattin,
+The seat which you sat in,
+In your furs and your satten
+Must now be forsaken,
+Your knavery is taken,
+And toth Devill removed,
+Your dearly beloved.</font>
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

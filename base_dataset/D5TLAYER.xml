@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TLAYER">
+  <dialogueHeader>
+
+    <filename>D5TLAYER</filename>
+
+    <identifier>5 TRIAL D5TLAYER</identifier>
+
+    <title>CHRISTOPHER LAYER</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1722</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE WHOLE PROCEEDING UPON THE ARRAIGNMENT, TRYAL, CONVICTION
+AND ATTAINDER OF CHRISTOPHER LAYER, ESQ; FOR HIGH TREASON, IN 
+COMPASSING AND IMAGINING THE DEATH OF THE KING. 
+IN THE COURT OF KING'S-BENCH AT WESTMINSTER, IN MICHAELMAS TERM; IN 
+THE NINTH YEAR OF THE REIGN OF OUR SOVERAIGN LORD GEORGE, BY THE GRACE
+OF GOD, KING OF GREAT BRITAIN FRANCE AND IRELAND: ANNOQ; DOMINI 1722.
+(...)
+LONDON: PRINTED BY S. BUCKLEY IN AMEN-CORNER. 
+1722.
+PP. 47.4 - 52.63  SAMPLE 1
+PP. 54.8 - 56.56  SAMPLE 2
+PP. 60.1 - 62.55  SAMPLE 3
+PP. 65.22 - 69.25 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="47" />
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Whose Lodgings did you go to?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> The Lodgings of Mr. <font>Layer</font> : Mr. <font>Layer</font>    
+was at home, and desir'd us to
+go to the <font>Gryffin</font> Tavern in <font>Holborn</font> and he would meet us     
+there; we went, and in
+a little while Mr. <font>Layer</font> came to us, and then Dr. <font>Murphey</font>    
+told him that I was
+the Gentleman he had spoke to him of. Mr. <font>Layer</font> was glad of my   
+Acquaintance,
+and told me that he had had such a strong Recommendation of me, that 
+he
+was fully satisfyed in me; and then he held a Discourse about a      
+Rising that was
+to be in the Kingdom in favour of the Pretender, and that it would   
+be back'd by a
+great many of the Army and the Guards, and several other Gentlemen.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> The Overt Act is laid in <font>Essex</font> , and 
+here is an Evidence given
+of an Overt Act in <font>Middlesex</font> ; with Submission they can give no  
+Evidence of an
+Overt Act in another County, till they give Evidence of an Overt Act 
+in <font>Essex</font> ,
+where the Indictment is laid.
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> All they say of Matters in the County of   
+<font>Middlesex</font> , unless they
+give Evidence of Overt Acts in the County of <font>Essex</font> , it          
+signifies nothing.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> My Lord, with Submission they ought not  
+to be suffer'd to
+give Evidence of any Overt Act in <font>Middlesex</font> , before they give   
+Evidence of some
+Overt Act in <font>Essex</font> ; for the proving some Overt Act in <font>Essex</font> 
+is the only Thing
+which can entitle them to prove any Overt Act elsewhere. For by the  
+Method
+they would go on in, the Jury may be captivated with a Story of the  
+<font>Gryffin</font>
+Tavern, and of Mr. <font>Layer's</font> other Assignations and Actions in     
+<font>Middlesex</font> , which
+cannot be imputed to him upon this Indictment until some Treason be  
+proved in <font>Essex</font> :
+I hope therefore the King's Counsel shall receive your Lordship's    
+Directions to go
+on regularly, to begin to give an Account of the Overt Acts in       
+<font>Essex</font> , before they
+go into another County.
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> Mr. <font>Hungerford</font> , you must give them    
+leave to go on in their own
+Method, of that that first happen'd in <font>Middlesex</font> , and           
+afterwards of what
+happen'd in <font>Essex</font> ; and if you dare not trust them and us, but   
+will have your own
+Method, it would be to put us into Confusion.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> My Lord, we insist upon it in point of    
+Law, that we are intitled
+to give Evidence of Overt Acts of the same Species of Treason laid   
+in the
+Indictment, though done in any County in <font>England</font> , provided we   
+also prove an Overt
+Act in the County of <font>Essex</font> ; which we must do, otherwise this    
+will pass for 
+nothing. Mr <font>Lynch</font> , go on, and give my Lord and the Jury an      
+Account of what
+Mr. <font>Layer</font> said, when you were together at the <font>Griffin</font> Tavern.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> The first thing he told me was, that he was very 
+glad to meet me, that
+he had had a good Recommendation of me from Dr. <font>Murphey</font> , as     
+being a Man he
+could confide in; and beginning his Discourse of an Insurrection in  
+the Kingdom,
+he told me, that they were back'd with a great many of the Army and  
+the Guards,
+that there was a great many of the Nobility and Gentry of the        
+Country that
+would come in to 'em: He told me then, that he wanted a Man of       
+Resolution that
+would take upon him the seizing of some Person of Note, as a         
+General, or some
+other great Man. The Discourse run all upon the same thing.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Recollect as well as you can, the         
+Particulars Mr. <font>Layer</font> told you
+relating to this Design.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me the general Design of the Revolution  
+in the Kingdom, in
+favour of the Pretender, and that they were back'd by a great many   
+of the Army,
+and a great many of the Nobility and Gentry; and then he told me he  
+wanted a
+Man of Resolution, to undertake with some others, to seize a great   
+Man, as a
+General or some other great Man: At that Time I took upon my self to 
+do it, so
+at that time we discours'd no more.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> How long were you together?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> About half an Hour.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> When had you the next Meeting?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> A Day or two afterwards.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> At what Place?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> At the same Tavern, the <font>Griffin</font> Tavern; when 
+I came there I sent a
+Boy for Mr. <font>Layer</font> , as he had ordered me to do when I wanted to  
+see him.
+<pagebreak id="48" />
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> When was your first Meeting?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> About the Month of <font>June</font> .
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> And the 2=d= Meeting was two or three Days 
+after the first?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> At your parting after the first      
+Meeting, what did Mr. <font>Layer</font>
+say to you?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Mr. <font>Layer</font> told me, if I had occasion to      
+speak to him that I shou'd not
+come to his Lodgings, but go to a Tavern and send for him, which I   
+did; I sent
+a Boy for him, and he came to me. Then talking over a Glass of Wine, 
+he
+told me that he had pitched upon me to seize the Earl of             
+<font>Cadogan</font> , and that I
+shou'd chuse as many Persons as I thought fit who wou'd answer the   
+same
+Design; and he being the principal Man in the Army, it wou'd         
+discourage the
+King's Party, and animate the Pretender's Party; which as I said     
+before, I agreed
+to undertake, and to do the utmost of my Endeavours to do it.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Was you to do it alone, or was you   
+to have any
+Assistance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, I was to have Assistance.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> What Assistance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Such that I shou'd chuse, such People that I     
+cou'd confide in.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Did you undertake it?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, I did undertake it, and to pitch upon such  
+Persons as shou'd be
+proper to assist me in it.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Was any thing said at that time relating  
+to any Person, who
+was to have the Conduct of the Design?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me that there was some great Man that    
+did not want Wit,
+Courage or Resolution, and was at the head of this Affair, who wou'd 
+at a proper
+time give me an Order to effect something further about it.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Had you any more Discourse with the       
+Prisoner about this
+Affair?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, we had several Discourses about it.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Tell my Lord and the Jury what more        
+Discourse you had, if
+you can remember.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> The chief Part I was to act was to seize the     
+Earl of <font>Cadogan</font> , with such
+Gentlemen as I should think proper to answer the end of seizing him.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Was there any other Meeting, and     
+when and how long
+after?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> After that I came to a Tavern in <font>Holbourn</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> How long after?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Some few Days; it was at the <font>Castle</font> Tavern   
+in <font>Holbourn</font> .
+   </dialogue><nonSpeech>Mr. <font>Att.Gen.</font> </nonSpeech><dialogue> Who was with you at that Tavern?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I came to the Tavern and sent for Mr. <font>Layer</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did he come to you?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, he came to me.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What Discourse had you with him at that    
+time? 
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> We had no particular Discourse, but in general   
+we talk'd about the
+Uneasiness of the Nation, and the fair Opportunity there was to rise.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray give an Account of what else pass'd.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I say, the same Discourse that we had had at two 
+Meetings before, he
+repeated, and said, now is a fair Opportunity, the Uneasiness of the 
+People being
+such, to bring about a Revolution, since they would be back'd by the 
+Army and
+the Guards, and several other People. Soon after that we parted.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> When had you any other Meeting?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Some Meetings we had at Mr. <font>Layer's</font> House in 
+<font>Southampton-Buildings</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> How long after?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> A few Days only.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> At the several Meetings at his       
+House, what was the Subject
+of your Discourse?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> It was always upon the same, about the Rising    
+and Uneasiness of the
+People, and the fair Opportunity of bringing about a Revolution, of  
+the
+Disposition of the Army and the Guards.
+<pagebreak id="49" />
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Did he give you any Encouragement?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> After I met him at his House in                  
+<font>Southampton-buildings</font> , I told him of
+my Uneasiness, because he had told me at the beginning, that these   
+Things would
+be soon put in Execution: I told him, if they were delayed, I was    
+afraid they
+wou'd not succeed. He then animated me, by telling me that there was 
+no fear
+of its succeeding; and that I should not be discouraged, for there   
+was a Great
+Man, a Man of Wit and Conduct, that was at the Helm, and that had the
+Management of the Scheme: That I should always keep a good Heart;    
+and that
+Things went on very well.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> Did he tell you in whose Favour this was to be?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes; in Favour of the Pretender. He mentioned    
+him by the Name
+of King.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Do you know any thing about his      
+going into the
+Country?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> After I met him at his House, he went into the   
+Country, and staid
+sixteen or seventeen Days; at his Return, I went to see him, and     
+expressing how
+uneasy I was about the Delay.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> About what Time was this?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I believe it was in <font>July</font> . And then I told   
+him again how uneasy I was
+at the Delay. To which he answer'd, Keep a good Heart, all Things go 
+on
+very well.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Had you any Apprehensions that all   
+was to be done at
+home, or that you was to have any foreign Assistance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> In my Discourse to him of the Uneasiness I was   
+under at the Delay,
+I asked him if he had any Promise of any Succour from any Power      
+Abroad? He
+told me, if we once made a Beginning, we should not want them: But   
+did
+insinuate, that we should not want Encouragement from the Court of   
+<font>France</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> When you expressed your Uneasiness at the  
+Delay, what did
+he say to encourage you?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> The reason he told me was, that Things went on   
+very well, and would
+very soon be put in Execution.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> In what manner did you express your        
+Uneasiness?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Nothing but that I was uneasy, and I was afraid  
+that Things did go
+wrong.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> What did you say, did you say any thing   
+relating to your own
+Circumstances?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> In the Beginning I told Dr. <font>Murphey</font> ,        
+because it would be a long
+while, some five or six Weeks, before I was to be introduced to Mr.  
+<font>Layer's</font>
+Company, that I came on my own particular Business, and my           
+Circumstances
+would not permit me to be long here at my own Expence. At the        
+meeting with
+Mr. <font>Layer</font> , when I first made this Complaint to him, Mr.         
+<font>Layer</font> told me I should
+not want for a small Matter, to maintain me in <font>England</font> .         
+Accordingly Mr. <font>Layer</font>
+gave me some Money.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you remember how much that was?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I cannot remember.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did he give you Money at any other Time?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Mr. <font>Layer</font> gave me some Money the first Time, 
+and afterwards he sent
+me some Money by Dr. <font>Murphey</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Did he give you any Money at any     
+other Time?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, the last Time I was with him I had more.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How many Times had you Money of him?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Five or six Times.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you know what the Sums did amount to    
+together?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I can't recollect; but I believe about eight or  
+ten Guineas.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What was it given you for?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> To keep me in <font>England</font> , and to assist in the 
+intended Design of a
+Revolution.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> After you went to him, upon his      
+Return out of the 
+Country, do you remember the Discourse that pass'd between you then?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes: After I came to his House, I expressed my   
+Uneasiness at the
+Delay: Upon which he encouraged me, giving me to hope that Things    
+went on
+very well, and our Design would effectually take Place.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Did you ask him any thing about the  
+Army?
+<pagebreak id="50" />
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I asked him if he had any Encouragement from the 
+Guards and the
+Army? He told me, Yes, he had; that a great many of the Officers     
+would not
+engage themselves now, being well paid; but he said he had spoke     
+with several
+Officers of the Guards, who had assured him, that most of the common 
+Soldiers
+would come in, as soon as we made a Beginning.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Did he mention any thing of the Time?
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> When you asked him if he had any          
+Encouragement from the
+Army, what did he say?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me, That he had Encouragement from a     
+great many of the
+Officers of the Army: That he had discoursed with several Serjeants  
+of the
+Guards, who told him that the common Soldiers would be glad, after   
+they had
+made a Beginning, to come in to 'em.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Did he give you any Reason for this?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Mr. <font>Layer</font> told me, the Serjeants told him so 
+before they were
+encamped, and complained of their ill Usage, and hard Usage from the 
+subaltern
+Officers.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Was you acquainted with any Time, or 
+Day that was
+fixed?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> There was no fix'd Time: Mr. <font>Layer</font> told me,  
+it was to be on the
+rising of the Camp; because they could not talk with the Soldiers so 
+well, while
+they were encamped, as they could afterwards, when they were in their
+Quarters.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Was there any Consultation of        
+viewing any one's House?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Afterwards, in Discourse he told me, that it was 
+fit to go and view
+the Earl of <font>Cadogan's</font> House; in case it was necessary to seize   
+the said Lord in his
+House.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Where is his House?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> In <font>Pickadilly</font> . Accordingly we appointed a   
+Day to go; and I came
+to his Lodgings, and we took Coach, and away we went; and talking to 
+him
+about it, he told me, he was very well acquainted with my Lord       
+<font>Cadogan</font> , and
+had some Business with him, about an estate which his Lordship was   
+about buying:
+We went to his House, but my Lord was not to be spoke with, or was   
+not within, I
+don't remember which, but we were conducted into his House; we       
+view'd the
+inner Part of the House, afterwards we went into the Garden, we      
+viewed the
+lower Part of the Garden, then we went out in the Yard, and took a   
+View of
+the Avenues round about the House. I don't remember exactly the      
+Time, but
+it was that Day that a Soldier should have been shot in              
+<font>Hyde-Park</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Had you any Discourse about the      
+Feasibleness of it?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, that it was easy to be done; if we had but  
+some resolute
+Gentlemen to stand by us, that it was very feasible to be done.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Had you any Talk at that Time        
+relating to the <font>Tower</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me, the <font>Tower</font> would be immediately   
+surrender'd to the Party;
+on the Day the Plot was to be put in Execution, a certain Officer of 
+the Guards
+would take upon him to mount the Guards there, who would facilitate  
+the
+Delivery of the <font>Tower</font> to them.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Was there any Talk of the Mint?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, afterwards: He said there would be no doubt 
+of the Mint; they
+would be glad to take the Opportunity to shake off their             
+Confinement: And that
+they would put Arms into their Hands, according as they repaired to  
+their 
+Party.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> When did you see the Prisoner next after   
+the Time that you
+speak of, of viewing my Lord <font>Cadogan's</font> House?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I saw him at his own House, and at several       
+Taverns in the City; and
+once he wrote to me, desiring me to come to his Lodging;             
+accordingly I went,
+and when I came to his House, I met with a little Paper that was     
+left for me,
+directing me to go to the <font>Queen's-head</font> Tavern in                 
+<font>Great Queen's-street</font> , near
+<font>Lincoln's-Inn-Fields</font> , and to enquire there for one Mr.          
+<font>Wilson</font> ; which I did, and I
+was conducted into a Room where they said Mr. <font>Wilson</font> was, with   
+Mr. <font>Layer</font> ,
+and another Man, who seem'd, by his Clothes, to be a Serjeant of the 
+Guards.
+I do not know the Man.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What pass'd then?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> We staid a little while there, we talk'd over    
+the Business, and drank
+good Success to the Enterprize.
+<pagebreak id="51" />
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Your Lordship will please to take    
+notice, That when he
+went to Mr. <font>Layer's</font> Lodging, he found a Letter there, directing  
+him to go to the
+<font>Queen's-Head-Tavern</font> , and enquire for one <font>Wilson</font> ; that when 
+he came there,
+<font>Wilson</font> was there, and Mr. <font>Layer</font> and another Man.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> What passed at that Time?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Nothing material.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You talk'd about drinking good Success to  
+the Enterprize:
+Who drank that?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> We all drank that.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did the Prisoner at the Bar drink it?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, he did. I told the Prisoner, when he went   
+out, that I was
+mighty uneasy at the Delay of this Affair. He told me, I need not be 
+uneasy, for
+every Thing went on well; and they had a Nobleman at the Helm, who had
+Authority from the Pretender, and would lose no Opportunity when a   
+fit Time
+offered.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> What did he call the Pretender?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He called him the King. I was uneasy at the      
+Delay, for fear of being
+discover'd.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> What Reason did he give you, why you      
+should not be
+uneasy?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Because their Designs were quickly to be put in  
+Execution; and there
+was a Nobleman at the Helm who would put the Design in Execution, as
+having full Power and Authority from the King to act as he thought   
+proper.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Did you ask who that Nobleman was?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes; but he never told me his Name, but said,    
+that I should, in a
+proper Time, be presented to him, and receive my Commission and      
+Orders from him
+to seize my Lord <font>Cadogan</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> My Lord, we shall now gratify the    
+Prisoner's Counsel,
+with an Account of what happened in <font>Essex</font> ; I hope they will not 
+be impatient
+to hear that: Therefore, pray acquaint my Lord, and the Jury, when   
+you went
+out of Town with Mr. <font>Layer</font> .
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> My Lord, I was at Mr. <font>Layer's</font> House the Day  
+when the Bishop of
+<font>Rochester</font> was sent to the <font>Tower</font> ; he ask'd me, if I would    
+ride abroad with him
+the next Day to take the Air; I consented to it, and came the next   
+Morning to
+his House; and Mr. <font>Layer</font> asked me, if I mounted with Furniture:  
+I told him
+no; but that I had a double Barrel Fowling-piece, which if his       
+Servant would
+carry, would do as well. He then desired me to go and stay for him   
+without
+<font>Aldgate</font> , and get my Gun ready loaden, for he had that about him 
+which he would
+not lose for any thing in the World. I went and staid till about ten 
+or eleven a
+Clock, when Mr. <font>Layer</font> met me, and gave the Gun to his Servant to 
+carry. On
+the Road he told me, we were going to my Lord <font>North</font> and          
+<font>Gray's</font> , whom he was
+very well acquainted with, and that he would recommend me to him as  
+a Friend
+of his. When we got to the <font>Green Man</font> , he told me, we had better 
+go in and
+dine there, because Dinner-time would be over before we could get to 
+my Lord
+<font>North</font> and <font>Gray's</font> . Whilst Dinner was getting ready, we had   
+several Discourses
+on the same Subject, of the Uneasiness of the Nation, and its        
+Inclination to a
+Revolution, and how to bring it about; upon which, he pulled a Paper 
+out of
+his Pocket, and gave it me to read the latter Part of it.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Can you remember what it contained?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I remember some Lines of it; which was, in       
+general, to invite the
+Nation to an Insurrection, and to shake off the Calamities and       
+Miseries they
+endured under the present Ministry. And it was mentioned in the said 
+Paper, that
+the Earl of <font>Cadogan</font> was actually in their Custody; thereby       
+encouraging the Army
+to revolt, with an Offer of three Guineas to every Horseman and      
+Serjeant, and
+two Guineas to every Corporal, and one Guinea to every common        
+Soldier, to be
+paid immediately on their joining the Party, and a Promise of farther
+Preferment.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did you read this?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I did, out of the Paper in Mr. <font>Layer's</font> Hand.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you know whose Hand-writing it was?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> According to our Discourse, I thought it might   
+be his writing.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> But he produced it?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, my Lord, he produced it.
+<pagebreak id="52" />
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> You say you imagine, from some Discourse  
+between you, that it
+was his Hand-writing; what Reason was there, in all his Discourse,   
+that
+induced you to think so?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He talk'd of it as being of his own making;      
+besides, there were several
+Interliniations, Dashings-out, and Interliniations afterwards. He    
+was very well
+satisfied and easy as to me, and said, he could wish that he could   
+bring Matters about
+so, as that I could have the sole Direction of seizing some of the   
+Ministry, and
+namely, my Lord <font>Townshend</font> , my Lord <font>Carterett</font> , and Mr.      
+<font>Walpole</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Was there any Discourse about seizing the  
+King?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He said, when the Design was put in Execution,   
+the Army would
+declare in their Favour, and they would send a strong Guard to take  
+care of the
+King's Person.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How to take care of the King's Person?     
+What was you to do?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Nothing but to secure the King's Person; by what 
+he told me, it was
+for the Publick Good of the Kingdom; that they did not mean, nor had 
+they
+any Design on the King's Person, but only to keep him in Security    
+from any
+Insult.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What more passed at that Time?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Nothing more in particular.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Had you any talk relating to the Army?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I said before what related to the Army.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Was there any Discourse about a      
+Scheme or Plan?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me there was a Scheme laid on that Foot, 
+of which I told you
+the first Step was to seize the Earl of <font>Cadogan</font> , and then,      
+according as the Army
+came over, to take care and seize the King's Person; and he thought  
+the proper
+Time to put this in Execution, would be at the Rising of the Camp in
+<font>Hyde-Park</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Was there any Objection made to this?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No; I made no Objection, only shew'd my          
+Uneasiness at the long
+Delay.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> When you so express'd your           
+Uneasiness, what did he say? 
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He told me, if I could think or propose any      
+Thing more proper, that
+I should do it. After that we rode toward <font>Epping</font> , and went to   
+my Lord <font>North</font> and
+<font>Gray's</font> ; and there Mr. <font>Layer</font> introduced me as his Friend. We 
+staid there all
+Night, and dined there the next Day. In the Evening we came away in
+Company with another Gentleman that I did not know; but we talk'd on 
+the Road about
+the Situation of my Lord's House; and Mr. <font>Layer</font> told me, he had
+recommended me to his Lordship, as his particular Friend, and ask'd  
+me how I liked him.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Did he ask you any Questions? Do you 
+remember what he
+called his Lordship?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I don't remember any other Name but <font>My Lord</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> When he ask'd your Opinion of him,   
+and how you liked
+him, did he describe him in any other manner, or only called him     
+<font>My Lord</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> He only called him my Lord <font>North</font> and         
+<font>Gray</font> ; he only ask'd me how I
+liked my Lord <font>North</font> and <font>Gray</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Liked his Lordship, for what?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> That was all.
+   </dialogue><nonSpeech>Mr. <font>Reeve.</font> </nonSpeech><dialogue> Had you any Talk with him about the Person    
+that was to have the
+chief Command?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes; but he never named the Person.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> Had you never any Discourse who was to command 
+the Party that
+was to seize my Lord <font>Cadogan</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I was to command that Party.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> Was you any other time at my Lord <font>North</font>    
+and <font>Gray's</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes; another time I went to my Lord <font>North</font>    
+and <font>Gray's</font> , where I found
+Mr. <font>Layer</font> , and express'd to Mr. <font>Layer</font> the Uneasiness I was  
+in at the long Delay,
+and that I was afraid our Hopes would vanish; and told him, if       
+things were not
+soon put in Execution, I would withdraw myself. Mr. <font>Layer</font> bid me 
+not be
+uneasy, Things might perhaps be sooner put in Execution than I       
+imagined.
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue>  Where was this?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> At <font>Epping</font> , at my Lord <font>North</font> and         
+<font>Gray's</font> .
+   </dialogue><nonSpeech>Mr. <font>West.</font> </nonSpeech><dialogue> Did you come home together?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No; I came home that Night: Mr. <font>Layer</font>        
+remained there.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="54" />
+   <nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I don't know whether your Lordship will    
+indulge us to ask the
+Witness a Question or two now.
+   </dialogue><nonSpeech> <font>L. Ch. Jus.</font> </nonSpeech><dialogue> Propose your Questions, and we will tell you.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Whether he hath any Offer of Pardon        
+propos'd to him to induce
+him to give Evidence against the Prisoner at the Bar; which if he    
+hath, we
+apprehend will invalidate his Evidence
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No, Sir; I have no Promise of Pardon at all: I   
+only do this out of
+Justice, to make what Reparation I can, and to save the Blood of many
+People.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I beg Leave to ask him a few more          
+Questions. I think you say
+the first time you were introduced into this Gentleman's Company,    
+the Prisoner
+at the Bar was at the <font>Griffin-Tavern</font> in <font>Holborn</font> , and that   
+he then told you he had
+great Designs in hand; and that there was an Insurrection design'd,  
+and they
+wanted a Person of Resolution to seize a General: This, you say, was 
+the first
+Time that ever you saw the Prisoner at the Bar. How came you to have 
+that
+Share of Confidence in a Man that you never saw before?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I told you I was in Discourse with Dr.           
+<font>Murphey</font> a great many Days and
+Weeks before I saw Mr. <font>Layer</font> ; I told you how every Day I saw    
+him, and always
+discours'd about the Insurrection, and how he told me then that he   
+would
+recommend me to a Man that had the Management of the greatest Part   
+in this
+Affair; and I ask'd every Day when I should be introduced to him: He 
+told me,
+the Time was not come yet; but when it was a proper time, he would   
+introduce
+me.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I think you give that for a Reason, why    
+you had that 
+Confidence in him, because you had been recommended by one Dr.       
+<font>Murphey</font> . How
+came you to have that mighty Dependance on Dr. <font>Murphey</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Because Dr. <font>Murphey</font> and I had been           
+acquainted several Years ago.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I hope you was not in any wicked Design    
+with Dr. <font>Murphey</font> ,
+and so much acquainted, as to recommend you in a Case of Treason.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> There was a common Friendship between us.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How came he to trust you? Would you have   
+trusted him in a
+Business of Treason?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> We have been concerned in Affairs together.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How long was you at the <font>Green Man</font> with 
+Mr. <font>Layer</font> ?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I can't say exactly the Time.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I don't ask you exactly to a Minute or     
+two; but was you there
+an Hour, or two, or three Hours?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I can't say whether we were there an Hour or     
+two; but we had
+something dress'd for Dinner, and the Matter was discours'd of by us 
+before
+Dinner.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> When you first alighted from your Horses,  
+what Room was
+you shewn into?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> We were shewn into a Room up one Pair of Stairs  
+on the right-hand,
+the first Room?
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Was it towards the Street, or backwards?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> It look'd into the common Road.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did you look out of the Window and see a   
+Person of your
+Acquaintance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I saw two Gentlemen, but did not know them.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did not you look out of the Window, and    
+say, you saw a
+Gentleman of your Acquaintance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I said I saw two Gentlemen that I thought I had  
+seen before.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did not you go down to those Gentlemen?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No; I did not go down to them.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did not you go down to them?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No. 
+<pagebreak id="55" />
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did not you say so to Mr. <font>Layer</font> , in   
+the Drawer's Presence?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you tell me that those Gentlemen were 
+your Acquaintance?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I told you, those two Gentlemen I had seen before.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> How long were we together at the 
+<font>Green-Man</font> ? Were the Horses
+put up, or not?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I can't tell.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was there any thing dress'd for our Dinner    
+but a Beef-stake?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No, nothing else.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you go down Stairs, pretending you    
+went to those
+Gentlemen?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No, I did not tell you I went to those Gentlemen.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you not go down Stairs?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, I did; and came up again immediately.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was not Dinner on Table when you came up again?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I went down twice before Dinner.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Then you must consequently leave me in the    
+Room.
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I went down to make Water.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What did you go down the second time for?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Out of Curiosity.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> How long did you stay?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Not both times above two Minutes.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I was then alone, when you went down?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was this Discourse before or after Dinner?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> It was before Dinner.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> When you came up the second Time, was not     
+Dinner on the 
+Table?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> It was come up.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> And yet the Discourse we had was before Dinner?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Yes, it was before Dinner.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> How much Time might we spend before Dinner,   
+half an Hour, or
+an Hour?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I don't remember; but it was a good while.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was not the double Barrel Gun in the Room?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I don't know whether it was there, or whether    
+your Servant had it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> At the Time of Dinner, was my Servant, or     
+Drawer, in the
+Room?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> Neither of them was in the Room.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> You say we were a good while, you and I,      
+alone; pray, how
+long?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> I cannot say positively how long.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Have you any Copy of that Part of the    
+Paper he gave you
+to read, and which you read?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Was the Whole of it of any Length?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> To the best of my Remembrance, it was a common   
+Sheet of Paper.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Did you read the Whole?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No: He doubled it down, and gave me the latter   
+Part of it to read.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Some Things you seem to remember, and some 
+Things you don't
+remember: Was it printed, or written?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> It was written.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did he not mention it to be the Prince of  
+<font>Orange's</font>
+Declaration?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> No, he did not.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was not the Paper blotted?
+   </dialogue><nonSpeech> <font>Lynch.</font> </nonSpeech><dialogue> In that I saw there were two or three Places     
+interlined.  
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> My Lord, I think the Gentlemen did say   
+they had not done
+with their Evidence, with relation to an Overt-Act in <font>Essex</font> ; if 
+they have not,
+they will do well to go on now: But we hope they shall not go into   
+Overt-Acts
+committed in any other County, till they make the whole of their     
+Proofs of an
+Overt-Act in <font>Essex</font> .
+   </dialogue><nonSpeech> <font>L. Ch. Jus.</font> </nonSpeech><dialogue> You have been told, they should proceed in  
+their own Method,
+<pagebreak id="56" />
+and when they have done, you may make what Observations may be of    
+Service to
+your Client.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Relations of Fact arising in another     
+County, which have no
+Relation to the Fact arising in <font>Essex</font> , we hope they shall not   
+go into, to amuse
+or captivate the Jury, the Court, and the Auditory.
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> Sure never any Thing was like this! It is  
+our Province to give
+Directions, and we think it not proper to interrupt the King's       
+Counsel, but that
+they should proceed in their own Method: You shall be heard as long  
+as you
+please, when you come to make your Observations.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> The Prisoner hath a Right to say any      
+thing that is proper, to
+the Court and the Jury, in his Defence, but he must say it openly;   
+he is not to
+talk privately with the Jury; though I am sure they are Gentlemen    
+of so great
+Worth and Honour, as not to be influenced.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> I dare say the Jury won't be influenced;   
+but he talks to his
+Counsel so loud, that the Jury may easily hear every Word he says.
+   </dialogue><nonSpeech> <font>L. Ch. Jus.</font> </nonSpeech><dialogue> He must not speak so loud.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> I just now heard him say, It was strange   
+to go on with
+Evidence that would not be to the Purpose. I heard him, as I sate    
+here; let him
+deny it if he can.
+   </dialogue><nonSpeech> <font>L. Ch. Jus.</font> </nonSpeech><dialogue> I hope you will not offer any thing of that 
+Kind, Mr. <font>Layer</font> :
+You have a Right to discourse with your Counsel, but you must do it  
+in such a
+Manner as the Jury may not hear.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Indeed, my Lord, he shall have no             
+Encouragement from us
+for any such Conduct.
+</dialogue><nonSpeech> <font>Matthew Plunkett</font> sworn.</nonSpeech> 
+   <nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Tell my Lord and the Jury, whether   
+you know the
+Prisoner at the Bar.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes, I do know him.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Will you tell my Lord and the Jury,  
+upon what Account,
+and by whose Means, you first became acquainted?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> One Major <font>Barnewell</font> brought me first      
+acquainted with Mr. <font>Layer</font> ;
+he had an Execution in his House in <font>Great Queen's-street</font> , and   
+this Major <font>Barnewell</font>
+came to me, and desired me to get a Couple of Grenadiers. I brought  
+him two;
+we went to Mr. <font>Layer's</font> House, and his Clerk let us in at the     
+Back-door, and the
+Grenadiers turned the Officers out, and Mr. <font>Layer</font> gave them a    
+Crown, and a
+Glass of Brandy.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> As near as I can guess, it is going on of     
+five Years.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Tell my Lord and the Jury, what      
+Month in this last
+Year you renewed the Acquaintance, and who brought you to him?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> The next Acquaintance I had afterwards, was   
+by Major <font>Barnewell</font> ,
+who was arrested, and he sent me with a Letter to his House, to      
+desire him to
+relieve him.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Do you know any thing of one <font>James 
+Plunkett</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes: He came to me from Mr. <font>Layer</font> , in    
+<font>July</font> last, to desire me to
+meet him; but how this Counsellor <font>Layer</font> and this <font>James         
+Plunkett</font> came
+acquainted I don't know.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> What was he?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I don't know what he is; he is acquainted     
+with Mr. <font>Layer</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> What Profession is he of?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I don't know; nor how he lives, or gets his   
+Bread.
+   </dialogue><nonSpeech> <font>L. Ch. Jus.</font> </nonSpeech><dialogue> Go on.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Mr. <font>Layer</font> paid the Charges for Major      
+<font>Barnewell</font> , and brought him
+out of the <font>Marshalsea</font> .
+   </dialogue><nonSpeech>Mr. <font>Reeve.</font> </nonSpeech><dialogue> How long was this ago?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> To the best of my Knowledge, four Years ago.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="60" />
+   <nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> For what Purpose was <font>Child</font>       
+recommended to Mr. <font>Layer</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I recommended him as an honest Man, as one    
+that was 
+well-affected, as he desired me.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Upon what Account did you recommend  
+him?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Upon the Account to be a Pretender's Man.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Did you ever receive any Money to    
+give to Mr. <font>Child</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I receiv'd half a Guinea from Mr. <font>Layer</font>   
+to give to Mr. <font>Child</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> For what Purpose was it?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> For to encourage him in the Service, to be    
+trusty to him, and to be
+a Pretender's Man.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> By what Name did he call the         
+Pretender?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He called him the King.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Had you any Talk with him any other  
+Time?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> The <font>Sunday</font> before he was taken up I was   
+with him, and he was
+talking and saying the King was as fine a Shooter as any in          
+<font>Europe</font> .
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Whom did he mean by the King?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> The Pretender, that he was as fine a Shooter  
+as any in <font>Europe</font> ; he
+shot nineteen out of twenty. I said, that was fine shooting.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Where was this Discourse?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> In his own Parlour.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Can you recollect any other Discourse      
+there was at that Time,
+besides that of shooting?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes, there was; we talk'd of those Men that   
+would do Service. I
+ask'd him what Rewards those Men, that would do Service for their    
+King and
+Country, should have; he told me, that they, and their Families,     
+were to be
+for ever taken Care of.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Was there any other Promise made to  
+you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> There was no Promise; only he was the Man who 
+said, if I would
+follow his Directions, he would promote me; that he would engage to  
+do great
+Matters for me; and what I suffer'd in the Army, he would make me    
+Amends for.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Had you any Discourse about the      
+Disposition of the Nation?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He said, that most of the Nation was tir'd    
+with the present
+Government; and he said, that King <font>George</font> was for ruining of the 
+Nation.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Had you any Talk of any Persons at   
+Court?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes; he said, what signified the Government;  
+there were but only
+eight or nine Upstarts that belong'd to King <font>George's</font> Court;     
+that the ancient
+Peers of the Realm would not be run down; for they should be made    
+Slaves, if
+they did not prevent it.
+   </dialogue><nonSpeech>Mr. <font>Serj. Pengelly.</font> </nonSpeech><dialogue> Had you any Discourse any other Time 
+about the
+<font>Dutch</font> or the <font>French</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes; I do remember that he said, here is a    
+<font>Dutch</font> Army come in
+upon this Nation, and then the <font>French</font> Army will come in, and     
+take our Rights and
+Liberties from us: You will keep a <font>Dutch</font> Army, and it will be to 
+make a War
+among our selves.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> What would he have to cure all this?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He told me, that when the Insurrection was,   
+there would be a great
+many Half-pay-Officers as I knew that would be on the Pretender's    
+Side, and 
+especially those of the Names of <font>Fitzgerald</font> ; but I never knew   
+any <font>Fitzgerald</font> 
+Abroad.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> We have done examinining this Witness.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> You say your first Acquaintance with me was   
+in <font>Queen's-street</font> , and
+that Major <font>Barnwell</font> desir'd you to assist me, there being an     
+Execution in my
+House; was it not so?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> At the same Time you called me Counsellor     
+<font>Layer</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes; I came to your House.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did I employ you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Major <font>Barnwell</font> sent me to get a Couple of 
+Grenadiers, and you
+ordered your Clerk to let them in at the Back-door; and the two      
+Grenadiers,
+which were confin'd in the <font>Savoy</font> afterwards for it, drove the    
+Officers out.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Was it the Landlord of the House's Goods, or  
+my Goods?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I cannot tell; how should I know whether they 
+were yours, or
+his? they were in your House.
+<pagebreak id="61" />
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> You said it was about Five Years before I saw 
+you in
+<font>Lincolns-Inn-Fields</font> .
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> It was when the Army was broke; and I came    
+over from <font>Ireland</font> .
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Well, you say, Five Years afterwards I met    
+you in 
+<font>Lincolns-Inn-Fields</font> ,
+and gave you Half-a-Crown to drink. I told you my Lord <font>North</font> and
+<font>Grey</font> was to be General: That my Lord <font>Strafford</font> was concern'd 
+in it.  
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No; you told me they were Promoters of it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Promoters of what?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Of this Conspiracy.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> So you did not know me; nor I did not know you.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes, you knew me; therefore, Sir, said I, you 
+have an Advantage
+against me; for I don't know you. Afterwards we met one another by
+Accident. Says you, Don't tell <font>Plunkett</font> you met me.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What <font>Plunkett</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> <font>James Plunkett.</font> 
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Where lives <font>James Plunkett</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I don't know: However, that's not material.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you come to my House some time after  
+this; and desire  
+me to lend you 13 <font>s.</font> upon Account of being Bail in an Action in  
+the <font>Marshal's</font>
+Court?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> That was Two Months after: There was a        
+Soldier which was
+arrested by a <font>Marshal's-Court</font> Writ. 
+<comment type="compiler">NO ITALICS FOR Court IN SOURCE TEXT.</comment> 
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> And I lent you 13 <font>s.</font> in order to          
+discharge him?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes, you did.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you afterwards ask me for some Money  
+on Account of Sir
+<font>Daniel Carroll</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you make a Demand on Sir <font>Daniel</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No: I told you my Affairs with Sir            
+<font>Daniel</font> . You said you would
+not meddle your self, but you would write to him.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you not bring a Paper, and say, Sir       
+<font>Daniel</font> had agreed to pay
+you <font>20l.</font> <comment type="compiler">NO ITALICS FOR 20 IN SOURCE TEXT</comment> when he receiv'd   
+his Pay?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No; I brought no Papers to you.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did not you tell me, it would be the greatest 
+Kindness in the World
+to you to advance 20 <font>s.</font> for you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I never ask'd you in the Course of my Life.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you never borrow any Money of me?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No; I never borrowed any Money of you,        
+otherwise that to get
+Men lifted for the Pretender.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> I shall shew that you are a little mistaken   
+by and by.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> You said, you was decoy'd to Church?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Decoy'd! I said it was out of my Way, when my 
+own Parish
+Church was nearer.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> What, do you use to go to Church?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> You say, the first Time you saw this       
+<font>James Plunkett</font> , he came
+to you when your Wife was in the Room?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> The first Time I saw him, was, when Mr.       
+<font>Layer</font> releas'd Major
+<font>Barnewell</font> out of the <font>Marshalsea</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> When <font>James Plunkett</font> came to your       
+House, he took you by the
+Arm, and told you, he came from Mr. <font>Layer</font> ; Did he tell you that 
+first Time,
+he came from Mr. <font>Layer</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Upon my Oath he did.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> What Discourse had you the first Time? Did 
+he only ask you
+to go and meet Mr. <font>Layer</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He came to me, and desired me to meet Mr.     
+<font>Layer</font> at the <font>Italian</font>
+Coffee-House in <font>Russel-Court</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did <font>James Plunkett</font> talk to you about   
+lifting Men for the
+Pretender the first Time he saw you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No; he only was sent on an Errand from Mr.    
+<font>Layer</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> And then you came to the Nonjuring Parson: 
+The Unjuring
+Parson, as you call him. What Discourse had you with him?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> The same Discourse pass'd between us about    
+lifting Men.
+<pagebreak id="62" />
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> What, the first Time you saw <font>James       
+Plunkett</font> , and the first
+Time you saw the Nonjuring Parson?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Because he came from Mr. <font>Layer</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> So you trusted both of 'em at first Sight, 
+and talked to 'em
+about lifting Men for the Pretender.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Yes, both talked to me.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How many times had this Unjuring Parson    
+been with you,
+before you knew his Name?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He had been with me two or three times; he    
+told me his Name was
+<font>Jeffreys</font> , but did not tell me his Christian Name.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Did he tell you his Name was <font>Jeffreys</font> 
+the first time?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> He told me his Name was <font>Jeffreys</font> .
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> How long after was it that this Letter    
+was sent to you by
+Mr. <font>Jeffreys</font> ?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> It was the Time when Mr. <font>Layer</font> came from  
+the Country.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> How long ago was that?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I believe about ten Months ago: I mean ten    
+Weeks ago.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I wou'd not surprize you; I wou'd have you 
+consider you are
+upon your Oath: Is it ten Months, or ten Weeks?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Ten Weeks.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How come you to remember the Contents of   
+the Letter so
+exactly?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I heard it repeated over.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Pray repeat it over again.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Mr. <font>Plunkett</font> , Mr. <font>Layer</font> is come to   
+Town; I shou'd be very glad to
+see you: So I rest your humble Servant, <font>William Jeffreys</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Where is that Letter?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I don't know; the Letter is lost.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Do you remember how long 'tis since this   
+Letter was lost?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> Why, I miss'd it about two Months ago, or more.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Two Months ago, or more. How long was      
+it after you receiv'd
+it that you miss'd it?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I kept the Letter in my Pocket some time.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How long?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I believe I had it three Weeks.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> So that 'tis ten Weeks since you receiv'd  
+this Letter, two Months
+since you lost it; you kept it in your Pocket three Weeks: You can   
+read
+Writing?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No, I cannot.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> What, not read Writing?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> No, Sir.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> How can you be so particular as to the     
+Writing?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I have heard it read often enough.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Who read it to you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> <font>John Child</font> read it over to me two or      
+three times.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Why, this is mere Romance, that at twice   
+hearing it read, you
+can remember it, the very Words.
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> I can remember those Words, to the best of my 
+Knowledge.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> How can he tell, when he cannot read at  
+all? There is
+nothing in it. If one was to ask him, whether can you recite the     
+Articles of the
+Creed, I believe he cou'd not do it; and yet is so exact in          
+repeating the Words of
+this Letter.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> What Countryman are you?
+   </dialogue><nonSpeech> <font>Plunkett.</font> </nonSpeech><dialogue> An <font>Irishman</font> : You knew that long ago; you 
+need not ask me that
+Question now.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="65" />
+<nonSpeech> <font>Mrs.</font> Elizabeth Mason <font>sworn</font> .</nonSpeech>
+   <nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Mason</font> , Give an Account of what   
+you know of these
+Papers?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Mr. <font>Layer</font> left two Parcels of Papers     
+with me: He told me they
+were of the Value of 500 <font>l.</font> He afterwards took them away from    
+me; and 
+afterwards brought them to me again.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> You say, he deliver'd two Bundles    
+first?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No; he deliver'd only one, and that was the  
+largest Bundle: 
+He told me it was of the Value of <font>500l.</font>                          
+<comment type="compiler">NO ITALICS FOR 500 IN SOURCE TEXT</comment> and desir'd me to take care of 
+it, and
+lock it up.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> When was the lesser Bundle deliver'd 
+to you?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Some time after; and after than, he took     
+them away from me;
+and in four or five Days time he brought them to me again: He took   
+them away,
+and brought them to me again, and told me they were a few            
+Love-Letters; and
+begg'd of me not to let Mrs. <font>Cook</font> know it, for she would make a  
+Disturbance,
+and tell his Wife.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> When had you the lesser Bundle?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I had that some time after.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> What Directions had you with the     
+little Bundle?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> He desired me to take the same Care of that, 
+as of the other.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Was that seal'd up?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> They were both seal'd.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Where did you put them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I put them into my Trunk.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> After this; you know when the        
+Messengers came?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Before that, he came one Day in the          
+Afternoon to our House,
+and ask'd where I was. It was the Beginning of                       
+<font>Bartholomew-tide</font> . I was not at
+home: He left a Message for me, that I shou'd bring those Writings   
+home. I
+carry'd them home.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Home! what do you mean by home?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Mr. <font>Layer's</font> own House: He left word,     
+that he wou'd be at home
+by Eight a-Clock that Night. I was there about Eight a-Clock: I      
+asked the
+Maid where he was? She said he was in the Back-Parlour. I asked her  
+if any
+body was with him? She said there were two Gentlemen. Said I, Tell   
+your
+Master that I am here.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> You say, the great Bundle was taken from  
+you again, and
+afterwards he brought the lesser Bundle; and after this you receiv'd 
+a Message, or
+Intimation, that you shou'd bring home that Bundle?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> My Lord, I had Two Bundles. He left word,    
+that I should
+bring his Papers Home; for he stay'd at Home till Eight-a-Clock that 
+Night. I
+went to his House: And when I knock'd at the Door, the Maid came to  
+the Door.
+I ask'd her, if her Master was within? she told me, Yes; he was in   
+the back
+<pagebreak id="66" />
+Parlour; and that there was a Gentleman or Two with him. I desir'd   
+her to go
+and tell her Master that I was there. And he came out to me; and I   
+gave him
+the Writings; and he desired me to come again the next Morning; which
+was on a <font>Saturday</font> , about Eleven-a-Clock, for he was going out of
+Town: And that I would come and take those Writings again. Which
+accordingly I did. It was in the Morning, at the Time that the Bell  
+was ringing
+at <font>Lincolns-Inn</font> Chapel, when I went to him, and he deliver'd me  
+the Papers again.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Can you recollect the Day that he left    
+Word for you to come
+to him?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It was the Beginning of <font>Bartholomew-tide</font> .
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> What Day of the Week was it?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It was on a <font>Friday</font> Night that I went and 
+carried them to his House.    
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> And when was it that he desired you would 
+come and call for
+them again?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It was the next Morning at Eleven-a-Clock,   
+or near the Matter,
+that I went to his House; and he gave me the Writings again, and     
+charged me
+to take Care of them.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> What was you to do with them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> To take care of them.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Did you meddle with them, or open    
+them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, Sir; I put them in my Trunk: They lay    
+there all the time.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Were they there when the Officers    
+came?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Was you there when the Bundles were  
+opened?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I was there.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Did you mark the Papers your self?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Look upon the Papers, and see if you 
+find your Mark on
+those Papers?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, this is my Mark.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Mr. <font>Speare</font> , you was present at  
+the opening of them?
+   </dialogue><nonSpeech>Mr. <font>Speare.</font> </nonSpeech><dialogue> I was. They were sealed up when I opened them.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Did you put your Name on them?
+   </dialogue><nonSpeech>Mr. <font>Speare.</font> </nonSpeech><dialogue> I did put my Name on them.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Were they out of your Custody before 
+you put your Name
+on them?
+   </dialogue><nonSpeech>Mr. <font>Speare.</font> </nonSpeech><dialogue> No; they were not.
+   </dialogue><nonSpeech>Mr. <font>Serj. Cheshyre.</font> </nonSpeech><dialogue> Did Mr. <font>Turner</font> put his Name to   
+them?
+   </dialogue><nonSpeech>Mr. <font>Speare.</font> </nonSpeech><dialogue> He put his Name to them, before ever they    
+were out of my Custody.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You have mark'd all those Papers. You are  
+sure those are the
+Papers you took out of the Trunk in Mrs. <font>Mason's</font> Lodging?
+   </dialogue><nonSpeech>Mr. <font>Speare.</font> </nonSpeech><dialogue> I am sure they are.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Shew them to Mrs. <font>Mason</font> . Mrs.         
+<font>Mason</font> , were those Papers in
+the Bundles that were deliver'd to you by Mr. <font>Layer</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, Sir; they were.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You have mark'd those Papers, have you not?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, I have.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> You said, you gave the Bundles back to    
+Mr. <font>Layer</font> on a <font>Friday</font> ,   
+about the Beginning of <font>Bartholomew-tide</font> . Do you remember        
+whether it was
+upon <font>Bartholomew-Day</font> <comment type="compiler">NO ITALICS FOR Day IN SOURCE TEXT</comment> or not?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Indeed I don't know.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> What did Mr. <font>Layer</font> say, when you      
+brought them to him again?   
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> He only thank'd me; and desired me to come   
+the next Day and
+take them from him again: Which I did.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Did he mention then, that he was going    
+out of Town?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes: And it was about Eleven-a-Clock on a    
+<font>Saturday</font> Morning
+that I went to him, and he deliver'd the Papers to me again. 
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Can you write?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No. 
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Have you made the same Mark on all those 
+Papers?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I was so frightned at that time, that I      
+hardly knew what Mark I made.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> If you was frightned at that time, and   
+did not know what
+Mark you made, how can you be sure you know your Mark again?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, I can tell it very well.
+<pagebreak id="67" />
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> When you say you was so frighted you did 
+not know what
+Mark you made?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes, sure I do.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Upon the Oath you have taken, hath any   
+Body seen those
+Papers before they were taken by the Messengers; whether Sir <font>John  
+Meeres</font> , or
+his Man <font>Thomas</font> hath seen them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Nor his Man <font>Thomas</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, nor his Man <font>Thomas</font> .
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I ask you, Can you write or can you read   
+Writing?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I told you I can't.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> You only can make your Mark?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Do you only make but one Mark, or use      
+several Marks?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I make but one Mark.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Pray make the Mark you generally use? With 
+Submission, my
+Lord, I desire she may have a Pen and Ink to see if she can make the 
+same Mark
+again.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> Surely we are regular in desiring that?
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> What you desire is proper. She says she   
+knows them to be the
+same Papers, because she hath set her Mark upon them; they doubt     
+whether she
+may mistake in her Mark, and desire she may make her Mark again.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> My Lord, we desire that she may make her   
+Mark again.
+   </dialogue><nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> We desire she may have a convenient Place 
+to do it in, and
+that she may sit down while she writes?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, I can do it without. </dialogue><nonSpeech> ( <font>A Pen and    
+Ink and Paper is given to her, 
+and she sets her Mark an</font> E <font>and an</font> M.) </nonSpeech>
+   <nonSpeech>Mr. <font>Soll. Gen.</font> </nonSpeech><dialogue> Here are the Letters <font>E</font> and <font>M</font> set  
+to the Papers produc'd; and
+tho' in this Confusion she should not make her Letters exactly like  
+those, yet I
+apprehend that would weigh very little.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, I can't tell what they mean; this 
+doth not
+depend --
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> My Lord, I desire to go on with our        
+Questions. <comment type="compiler">SOURCE TEXT: Question.s</comment> I ask you --
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech> <nonSpeech> ( <font>Having compared the Letters made   
+by Mrs.</font> Mason <font>in Court, with
+those on the Papers</font> ) </nonSpeech><dialogue> The Character which she now writes is     
+like what she writ on
+those Papers, and so confirms her Evidence.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> After the delivery of those Bundles to you 
+by Mr. <font>Layer</font> , I ask
+you whether Sir <font>John Meeres's</font> Man <font>Thomas</font> ever saw those      
+Bundles open'd?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, he never was up in my Room; there was no 
+such
+Familiarity between us.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did one <font>Wilson</font> ever see them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did ever you produce them to one <font>Binks</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> No? Nor did Sir <font>John Meeres's</font> Man         
+<font>Thomas</font> never see them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, never upon my Oath.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Did you ever produce them sealed up? Did   
+you ever let <font>Thomas</font>
+or <font>William</font> , <comment type="compiler">SOURCE TEXT HAS TWO COMMAS</comment> or Sir               
+<font>John Meeres</font> himself see either of those Bundles as they were
+sealed up?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, they were in my Trunk: I always kept     
+them in my
+Trunk; perhaps as I open'd my Trunk, they might see them lie in my   
+Trunk.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Do you know one Mrs. <font>Buda</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No. I don't know the Name. I don't know one  
+Mrs. <font>Buda</font> .
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you ever know one Mrs. <font>Herbert</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> I know many of that Name.
+   [</dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you ever go by that Name?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you ever go by the Name of <font>Corbet</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you ever go by the Name of <font>Bevan</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, I never did go by the Name of <font>Bevan</font> .
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Mr. <font>Ketelbey</font> , I don't know what the  
+Meaning of this
+Examination is; when it appears beyond Contradiction, that this      
+Woman was an
+Acquaintance of your Client's.
+<pagebreak id="68" />
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> My Lord, if we prove her to be an ill      
+Woman, I hope it will
+take off her Credit so that her Evidence will not weigh with your    
+Lordship, or
+the Jury.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> At the Time when these Bundles were       
+seized, had they
+Mr. <font>Layer's</font> Seal upon them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes. The Seal of Mr. <font>Layer</font> was upon them.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> What says the Messenger? At the Time that 
+you seized these Two
+Bundles of Papers, was there any Seal upon them?
+   </dialogue><nonSpeech> <font>Messenger.</font> </nonSpeech><dialogue> There were Three Seals upon one, and some    
+Seals upon the other;
+the Seal was something of a small Head.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> What is Mr. <font>Layer's</font> Seal?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Something of a Head, but I can't tell what   
+Head.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Do you know Mr. <font>Layer's</font> Seal?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes. It is something of a Head.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Was it the Representation of a Man's Head, 
+or the Head of
+a Beast?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It is a Head, with something of a Ruff about 
+it.
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> Mrs. <font>Mason</font> , look upon the Head. Is    
+that Head the Seal of
+Mr. <font>Layer</font> .
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Yes. Upon my Oath it is.
+   </dialogue><nonSpeech> <font>Ld. Ch. Jus.</font> </nonSpeech><dialogue> What says the Messenger. Was that Seal of  
+a Head upon them,
+when you seized them?
+   </dialogue><nonSpeech> <font>Messenger.</font> </nonSpeech><dialogue> Yes, It was.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> Before that Time that the Two Messengers   
+came, Mr. <font>Turner</font>
+and Mr. <font>Speare</font> , and seiz'd the Papers, and afterwards one of    
+them went for
+Mr. <font>Stanyan</font> ; I ask you, Whether you had shown those Bundles to  
+any Body
+before that Time?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No; I had shown them to no Body.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> She hath said so Two or Three Times before.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Indeed, Mr. <font>Ketelbey</font> , we must direct 
+you not to spend the Time    
+of the Court so. You have ask'd her that Question Two or Three Times 
+over.
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> My Lord, I would very fain have the Truth  
+come out.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I will ask you a Question or Two. What   
+Trade or Business
+do you follow? What is your Trade or Occupation.
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> What is that to you? I have no Trade.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> I should have ask'd you another Question 
+before; Have you
+not a Promise of Reward for the Service you do here, in giving this  
+Evidence?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, I have not.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Nor you have received none?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No. You are an unjust Man.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Are you promised any Reward! Why don't    
+you ask her whether
+she is to swear for Hire? Is that a proper Question to ask a Witness?
+   </dialogue><nonSpeech>Mr. <font>Ketelbey.</font> </nonSpeech><dialogue> I submit it to your Lordship, whether it   
+is not proper to ask
+her this Question; Whether she hath not told any Person, and whom,   
+that she
+was to have a Reward for coming hither?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> The Question is, Whether she hath never owned 
+and confessed to
+any Body, that these Papers were opened before a Friend of hers,     
+before the
+Messenger seized them?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No, my Lord, I never did. I never opened     
+them before any Body.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> They have ask'd you what Names you went    
+by; Do you know
+what Names the Prisoner at the Bar has gone by?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> He had once given me Orders, that if any     
+Letter came directed in
+the Name of <font>Fountaine</font> , that I should take it in, accordingly in 
+Two or Three
+Days Time, there came a Letter, directed to Mr. <font>Fountaine</font> , and  
+I took it in;
+and when he came I gave it to him, and he opened it, and read it.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Where is your House?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> Where! where you left the Writings.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> How can you tell how that Letter was          
+directed, which you took in
+since you say you cannot Read?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It was directed to Mr. <font>Fountaine</font> .
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you read the Superscription?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No. Mrs. <font>Cook</font> did. 
+<pagebreak id="69" />
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> You say you was desired by Mr.            
+<font>Layer</font> , when any Letter came
+directed to Mr. <font>Fountaine</font> , to take it in; and that a Letter     
+came directed to
+Mr. <font>Fountaine</font> , and you took it in. The Question is asked you,   
+since you cannot
+read, how could you tell it was directed to Mr. <font>Fountaine</font> ?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> My Landlady told me it was for Mr.           
+<font>Fountaine</font> , and she knew he
+went by the Name of <font>Fountaine</font> sometimes.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> She said she read it.
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> No. I said I gave it to you, and you open'd  
+it, and you read it.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> The Occasion of this Question is, that    
+this <font>Misnomer</font> was
+approved of by you. She says that you order'd her, that if any       
+Letter came directed
+to Mr. <font>Fountaine</font> , she should take it in; a Letter did come      
+directed so, she took it
+in, and then deliver'd it to you; and you receiv'd it from her, and  
+open'd and
+read it; but how, say they, cou'd you know this Letter was directed  
+to Mr.
+<font>Fountaine</font> , when you can neither write nor read? She having      
+receiv'd such an Order,
+when there was a Letter come, it was natural enough, that she that   
+cou'd not
+read, should ask her Landlady the Directions of the Letter, and it   
+was directed
+for <font>Fountaine</font> ; it was natural enough for her to take it in, and 
+give it to you.
+   Who brought the Letter?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> A Porter.
+   </dialogue><nonSpeech> <font>Ld. Ch. Just.</font> </nonSpeech><dialogue> Did he say from whence he came?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> He told me he came from the <font>Ditch-Side</font> , 
+and ask'd me if
+Mr. <font>Fountaine</font> lodg'd there.
+   </dialogue><nonSpeech>Mr. <font>Hungerford.</font> </nonSpeech><dialogue> This Trunk that the Papers were in, did  
+it use to be kept
+open, or was it lock'd up?
+   </dialogue><nonSpeech>Mrs. <font>Mason.</font> </nonSpeech><dialogue> It was always lock'd up.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

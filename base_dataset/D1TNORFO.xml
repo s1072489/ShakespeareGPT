@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1TNORFO">
+  <dialogueHeader>
+
+    <filename>D1TNORFO</filename>
+
+    <identifier>1 TRIAL D1TNORFO</identifier>
+
+    <title>DUKE OF NORFOLK</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1571/1730</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">EMLYN, SOLLOM.</attribution>
+      <frontMatter>VII. THE TRIAL OF THOMAS HOWARD DUKE OF NORFOLK, AT WESTMINSTER
+FOR HIGH-TREASON, JANUARY 16. 1571. 14 ELIZ.
+IN: A COMPLETE COLLECTION OF STATE-TRIALS, AND PROCEEDINGS FOR 
+HIGH-TREASON, AND OTHER CRIMES AND MISDEMEANOURS; FROM THE REIGN OF 
+KING RICHARD II. TO THE END OF THE REIGN OF KING GEORGE I.
+IN SIX VOLUMES.
+WITH TWO ALPHABETICAL TABLES TO THE WHOLE.
+THE SECOND EDITION, WITH GREAT ADDITIONS.
+LONDON: PRINTED FOR J. WALTHOE SEN. (...), 
+M.DCC.XXX.
+(VOL. I)
+PP. 86.71C1 - 87.38C1   SAMPLE 1
+PP. 89.32C1 - 95.68C1   SAMPLE 2
+PP. 96.57C1 - 96.54C2   SAMPLE 3
+PP. 98.46C1 - 101.42C2  SAMPLE 4
+PP. 104.39C2 - 106.72C1 SAMPLE 5
+PP. 107.16C2 - 114.4C2  SAMPLE 6
+PP. 115.22C1 - 115.33C2 SAMPLE 7
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="86C1" />
+   <nonSpeech>After the reading of the Indictment, the Clerk
+of the Crown said to the Duke;</nonSpeech><dialogue> How say'st thou,
+<pagebreak id="86C2" />
+<font>Thomas</font> Duke of <font>Norfolk</font> , art thou guilty of these
+Treasons whereof thou art indicted, in manner and
+form as thou art thereof indicted, Yea or No?
+   </dialogue><nonSpeech>Thereupon the Duke began, and said to this
+effect:</nonSpeech><dialogue>
+   May it please your Grace and you the rest of
+my Lords here, The hearing of this Indictment
+giveth me occasion to enter into the making of a
+Suit, which I meant not to have done before my
+coming hither: I beseech you, If the Law will
+permit it, that I may have Counsel allow'd me for
+the answering of this Indictment.
+   </dialogue><nonSpeech>The Lord Chief Justice answer'd, That in case
+of High-Treason he cannot have Counsel allow'd:
+And that he was to answer to his own Fact only,
+which himself best knew, and might without
+Counsel sufficiently answer.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> That you may understand that I speak it
+not without some ground, these be the Causes that
+move me to make this Suit: I was told before I
+came here, that I was indicted upon the Statute of
+the 25th of <font>Edward</font> III. I have had very short
+warning to provide to answer so great a matter;
+I have not had fourteen Hours in all, both day
+and night, and now I neither hear the same
+Statute alleg'd, and yet I am put at once to the
+whole Herd of Laws, not knowing which
+Particularity to answer unto. The Indictment
+containeth sundry Points and Matters to touch me by
+Circumstance, and so to draw me into matter of
+Treason, which are not Treasons themselves:
+Therefore with Reverence and humble Submission
+I am led to think I may have Counsel. And this
+I shew, that you may think I move not this Suit
+without any ground. I am hardly handled, I have
+had short warning, and no Books; neither Book
+of Statutes, nor so much as the Breviate of
+Statutes. I am brought to fight without a Weapon:
+yet I remember one Case in Law, I think it is
+in the first Year of King <font>Henry</font> VII. It is the
+Case of one <font>Humphrey Stafford</font> , which was
+indicted of High Treason, and had Counsel
+allowed him: If the Precedent of this Case be such, as
+it may extend to me, I require it at your hands,
+that I may have it allow'd: I shew you my ground
+why I crave it, I refer me to your Opinions therein.
+   </dialogue><nonSpeech>Then Sir <font>James Dyer</font> , Lord Chief Justice of the
+Common-Pleas, said;</nonSpeech><dialogue> My Lord, That Case of
+<font>Humphrey Stafford</font> in <font> <foreign>primo</foreign> </font> of <font>Henry</font> VII. was about
+pleading of Sanctuary, for that he was taken out of
+Sanctuary at <font>Culneham</font> , which belong'd to the
+Abbot of <font>Abingdon</font> : So the Question was whether he
+should be allow'd Sanctuary in that Case, and with
+that Form of Pleading, which was Matter of
+Law: In which Case he had Counsel, and not
+upon the Point of Fact of High-Treason; but
+only for the Allowance of Sanctuary, and whether
+it might be allow'd, being claim'd by Prescription
+and without shewing any former Allowances in
+<font>Eier</font> , and such like Matters; but all our Books
+do forbid allowing of Counsel in the Point of
+Treason; but only it is to be answer'd Guilty, or
+Not Guilty.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Humphrey Stafford's</font> Case was
+High-Treason, and he had Counsel. I must submit my self
+to your Opinions: I beseech you, weigh what
+Case I stand in. I stand here before you for my
+Life, Lands and Goods, my Children and my
+Posterity, and that which I esteem most of all, for my
+Honesty; I forbear to speak of my Honour. I am
+unlearn'd: if I ask any thing, and not in such
+Words as I ought, I beseech you bear with me, and
+let me have that Favour that the Law allows me.
+<pagebreak id="87C1" />
+If the Law do not allow me Counsel, I must
+submit me to your Opinions. I beseech you, consider 
+of me; my Blood will ask Vengeance, if I be
+unjustly condemn'd: I honour your Learnings and
+your Gravities: I beseech you, have Consideration
+of me, and grant me what the Law will permit
+me. I am now to make another Suit to you, my
+Lords the Judges: I beseech you, tell me, if my
+Indictment be perfect and sufficient in Law; and
+whether in Whole, or in the Parts, and in which
+Parts, that I may know to what I should answer.
+   </dialogue><nonSpeech>Lord Chief Justice <font>Catlin.</font> The Lord Ch. Justice
+said,</nonSpeech><dialogue> For the Sufficiency of your Indictment, it
+hath been well debated and consider'd by us all;
+and we have all, with one Assent, resolv'd, and so
+do certify you, that if the Causes in the
+Indictment express'd, be true in Fact, the Indictment is
+wholly and in every Part sufficient.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Be all the Points Treasons?
+   </dialogue><nonSpeech>L. Ch. Just. <font>Catlin.</font> </nonSpeech><dialogue> All be Treasons, if the
+Truth of the Case be so in Fact.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I will tell you what moveth me to ask you
+this: I have heard of the Case of the Lord <font>Scroope</font> ;
+it was in the time of <font>Henry</font> the IVth </dialogue><nonSpeech> <font> (the Judges
+said Henry the Vth) </font> </nonSpeech><dialogue> he confess'd the Indictment,
+and yet travers'd that the Points thereof were no
+Treasons.
+   </dialogue><nonSpeech>L. Ch. Just. <font>Catlin.</font> </nonSpeech><dialogue> My Lord, he had his
+Judgment for Treason upon that Indictment, and was
+executed.
+   </dialogue><nonSpeech>Then the Clerk of the Crown said again,</nonSpeech><dialogue> How
+sayest thou, <font>Thomas</font> Duke of <font>Norfolk</font> , art thou
+guilty of the Treasons whereof thou art here indicted,
+in Manner and Form as thou art indicted, Yea,
+or No?
+   </dialogue><nonSpeech>The Duke answer'd,</nonSpeech><dialogue> Not Guilty.
+   </dialogue><nonSpeech>The Clerk said,</nonSpeech><dialogue> By whom wilt thou be try'd?
+   </dialogue><nonSpeech>The Duke said,</nonSpeech><dialogue> By God and my Peers.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="89C1" />
+   <nonSpeech> <font>Duke.</font> Then the Duke ask'd, if all the Treasons
+contain'd in his Indictment were upon the Statute
+of King <font>Edward</font> III. and it was answered by Mr.
+<font>Serjeant</font> and Mr. <font>Attorney-General</font> , that they were
+grounded upon the same Statute only. Then the
+Duke began thus:</nonSpeech><dialogue>
+   Here the Matters that Mr. <font>Serjeant</font> hath prov'd
+against me stand in two Points; by which he
+chargeth me with imagining the Deprivation and
+Death of the Queen's Majesty, and with indirect
+and untrue Dealing in the <font>Scotish</font> Queen's Cause;
+and therein he burdeneth me with Perjury. The
+<font>Scotish</font> Cause hath divers Pleas, and therefore
+bear with me, I pray you, if I cast back again to
+rehearse my Doing therein, for my Memory is not
+good: As for my Dealing therein, God is my
+Witness, that I have done uprightly.
+   </dialogue><nonSpeech> <font>Serj.</font> Then Mr. <font>Serjeant</font> urged him to confess if
+he had knowledge that the <font>Scotish</font> Queen pretended
+Title to the present Possession of the Crown of
+<font>England</font> ; offering, if the Duke would deny it, to
+make proof of it.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> The Duke said,</nonSpeech><dialogue> I will make mine own
+Confession; I pray you teach me not how to
+answer or confess, because it is the first ground that
+you build upon against me: and because I know
+not whether my Peers do all know it or no, I will
+make a short Declaration of my Doings in that
+Matter with the <font>Scotish</font> Queen.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> First we pray your Grace </dialogue><nonSpeech> (speaking to the
+Lord High Steward) </nonSpeech><dialogue> that he may directly
+answer, whether he knew that the <font>Scotish</font> Queen so
+claim'd or no; if he say no, we will prove it.
+   </dialogue><nonSpeech> <font>Duke.</font> Then being ruled over by the Lord High
+Steward, that he should answer directly to that
+Question, he answer'd, that indeed he knew that
+she had so claim'd, but with Circumstance.</nonSpeech>
+   <nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Say plainly, Did you know it or no? for
+if you say nay, we can prove it.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> You handle me hardly, you would so trap
+me by Circumstance, and infer upon me that she
+<pagebreak id="89C2" />
+was the Queen's Enemy, and so make me a
+Traitor. I will answer directly to the whole Matter
+of my Dealing with her.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Answer to the parts as they fall out. Did
+you know that she claim'd the present Possession of
+the Crown? That she usurp'd the Arms and Royal
+Style of this Realm? And that she made no
+Renunciation of that usurp'd Pretence? If you say you 
+knew it not, we will prove every part of it.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I did not know it in such sort as is
+alledg'd; I know that Renunciation of that Claim
+was offer'd, and upon certain Causes respited.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> It is well known, and your self then knew
+it, That the <font>Scotish</font> Queen claim'd the present
+Possession of the Crown of <font>England</font> , quarter'd the
+Arms of <font>England</font> with the Arms of <font>Scotland</font> , and
+usurp'd the Style of this Realm; and that there
+was a <font>French</font> Power sent to prosecute it, by
+invading this Land by the way of <font>Scotland</font> : your self
+was made the Queen's Majesty's Lieutenant, and
+levy'd and Army to expulse them. Afterward the
+Queen's Majesty sent her Embassadors, which
+met with the <font>French</font> Lords and <font>Scotish</font> Queen's
+Commissioners at <font>Edinburgh</font> , and agreed upon a
+Treaty of Peace; in which one special Article
+was, that the <font>Scotish</font> Queen should acknowledge
+her Error, and should renounce her pretended
+Claim to the present Possession of the Crown of
+this Realm. It was not done, nor yet is done.
+My Lord of <font>Norfolk</font> was at this Treaty; and
+when this last Commission went out, when the
+Commissioners sat at <font>York</font> about the Matter
+between the <font>Scotish</font> Queen, her Son, and the
+Nobilty of <font>Scotland</font> , wherein were Commissioners the
+Duke of <font>Norfolk</font> , the Earl of <font>Sussex</font> , and Mr.
+<font>Chancellor</font> of the Dutchy; one special Instruction was
+for the <font>Scotish</font> Queen's Recognition of her unjust
+Claim, and to require that she should ratify the
+said former Treaty of Peace. The Duke knoweth
+well it was not done.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> What is this to me? I need not enter to
+defend her Doings, I like them not. It is not my
+Case, but that you make it my Case; else I would
+not meddle with it, answer it who would for me.
+Indeed I have heard, that being Covert-Baron
+then, marry'd to the <font>French</font> King, in her Husband's
+Life she made Claim to the Crown of <font>England</font> ,
+and quarter'd the Arms of <font>England</font> with the Arms
+of <font>Scotland</font> . I have heard also, That Sir <font>Nicholas
+Throckmorton</font> made Complaint thereof, and mov'd
+for Redress, and thereupon it was laid down. I
+have heard that she hath been requested to make
+Renunciation of that Claim when the Peace was
+concluded, when <font>Montmorancy</font> came over, and time
+was taken for it. After this there grew Amity
+between the Queen's Majesty and the <font>Scotish</font> Queen;
+the Queen took her for her Friend, sent Embassadors
+unto her, and christned her Child; all this excluded
+Enmity. And when my Lord of <font>Bedford</font> was there,
+and mov'd her for ratifying of the Treaty, and for
+the Renunciation, she refus'd not; but said, she
+would send to shew Causes why she did it not
+presently. And then it was refused not absolutely, but
+upon certain Words, and the treating thereof
+committed to my Lord <font>Burleigh</font> and Mr. <font>Wotton</font> . As
+for our Commission at <font>York</font> , it took no end; the
+Matter was brought up hither, and here was sat
+upon at <font>Westminster</font> in the Parliament-Chamber.
+And this is my understanding, that she claim'd the
+Crown, and I have not otherwise known it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Thus have you confess'd far enough, That
+you knew that she did pretend Title to the
+<pagebreak id="90C1" />
+present Possession of the Crown; That she quarter'd the
+Arms, and usurp'd the Royal Style of this Realm.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> It was in her Husband's time, when she
+was Covert-Baron.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You knew also, how since her Husband's
+Time, she hath not renounc'd that Claim; and you
+had, in special, Instruction to require it when you
+were Commissioner.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> A full Renunciation was offer'd when the
+Lord <font>Burleigh</font> was with her, and our Commission
+was ended, and the Matter brought up hither.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> But what was the Cause why it took no
+end by your Commission: Your self was the Cause
+that the Commission broke up, because you dealt
+indirectly; you set out your own Affection and
+Partiality, and behav'd your self partially, without
+regard to the Queen's Majesty's special
+Commandment, without regard of your Oath, then specially
+taken for that Commission, or of your Oath as a
+Counsellor: you utter'd your Partiality, you
+disclos'd to the other side aforehand the Queen's
+Secrets: you devis'd with the one side, and gave
+them Counsel how to deal for stay of the Matter:
+you did prevaricate the Queen's Intention; and
+when you were by your Commission to examine the
+<font>Scotish</font> Queen's Adulteries, and her Murdering of
+her Husband, you practis'd with those that were
+Dealers for the <font>Scotish</font> Queen, and you told them,
+by way of Advice, That if these Matters went
+forwards to Hearing, the Earl <font>Murray</font> , and his
+Side, would disclose all the foul Matter that they
+could, both by her Letters and other Evidences,
+to her Dishonour; and that the Queen's Majesty
+had some such Counsellors about her, as if these
+things were once produc'd, she would cause them to
+be publish'd, that all foreign Princes should
+understand them, to the <font>Scotish</font> Queen's great Infamy,
+and to move foreign Princes to proceed no
+further suing for her. And this was the Cause of the
+Breach and Dissolution of your Commission.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> You said you would prove that I knew
+of the <font>Scotish</font> Queen's claiming the present
+Possession of the Crown.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Your self have confessed it; for you know
+there was yet no Renunciation made, and you
+were special Commissioner for that purpose; and
+tho your Commission took no effect, yet by that,
+that the requiring of the Renunciation was matter
+of your Instructions, and the same not done, it is
+plain that you knew sufficiently of her former unjust
+claiming of the present Possession of the Crown:
+And now will we by good Evidence prove your
+partial and indirect dealing in that Commission.
+Here I will produce Matter of your own Conference
+at <font>York</font> with <font>Ledington</font> and the Bishop of <font>Rosse</font> , and
+how your self told them, that you understood at
+<font>Lyth</font> , that rigorous Matter would be set out by the
+Earl <font>Murray</font> and the rest of that Side, against the
+<font>Scotish</font> Queen, touching her Whoredom and the
+Murder of her Husband. You gave Advice to stay
+the Earl of <font>Murray</font> from so doing; you told the
+<font>Scotish</font> Queen's Ministers, how the Queen of
+<font>England</font> had some Counsellors that could cause her to
+publish all those Matters to the <font>Scotish</font> Queen's
+Infamy; you practis'd with them to devise to qualify
+the Matter; you told the Way that you thought
+best to do it; you advis'd them to deal with the
+Earl of <font>Murray</font> , that the Matter might be
+compounded, or else so to handle it, that it might
+take no end.
+   </dialogue><nonSpeech> <font>Duke.</font> Here the Duke took advantage of that
+Mr. Serjeant had said, That the Duke understood
+<pagebreak id="90C2" />
+at <font>Lyth</font> ; for the Duke then protested, that at that
+time he had never been at <font>Lyth</font> . Whereupon the
+Lord <font>Burleigh</font> dissolv'd that Knot, and said on the
+Duke's behalf to Mr. Serjeant:</nonSpeech>
+   <nonSpeech> <font>Burleigh.</font> </nonSpeech><dialogue> You were best proceed with your
+Evidence; you may mistake: my Lord <font>Norfolk</font> had
+not then been at <font>Lyth</font> , otherwise than he and I were
+there once secretly in a Morning. The Cause of
+this Error rose thus: In one <font>Scotish</font> Paper produc'd
+for that Matter, was contain'd, how the Duke
+understood at <font>Lyth</font> , which in <font>Scotch</font> is as much as at
+<font>length</font> ; which Mr. Serjeant, in perusing the
+Matters for Evidence deliver'd unto him, took for <font>Lyth</font> ,
+as the Clerk of the Crown also afterwards did in
+reading the same Paper.
+<comment type="compiler">DEPOSITION OF THE BISHOP OF ROSSE OMITTED.</comment>
+<pagebreak id="91C2" />
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The Effect of all, is the Duke's partial
+and untrue Dealing; for that before the Bishop
+of <font>Rosse's</font> going to <font>York</font> , the <font>Scotish</font> Queen
+declar'd to the Bishop of <font>Rosse</font> , That she doubted
+not of the Favour of the Duke of <font>Norfolk</font> ; for
+she told him that my Lady <font>Scroope</font> had by
+Motions and Means assur'd her of his good Will,
+and she doubted not of my Lord of <font>Sussex's</font> ,
+for the great Friendship and tender Love he bare
+to the Duke; and she made account that Mr.
+<font>Sadler</font> would be friendly, for that he alone would
+not stand to them both. It appeareth also
+for further proof of his partial Dealing, that tho
+he were sworn, both as a Counsellor to the
+Queen's Majesty, and also specially for the
+Matter of this Commission; yet he
+indirectly, secretly, and underhand, dealt with
+<font>Ledington</font> , and told him, how that the Earl of <font>Murray</font>
+and his Side intended to utter sharp Matter
+against the <font>Scotish</font> Queen. The Duke gave his
+Advice how to stay it, and so dealt partially,
+and against the Queen's Majesty's special Trust
+and Commandment, and against his own Oath
+and Promise. Next after that, in Conference
+<pagebreak id="92C1" />
+had with the Duke of <font>Norfolk</font> on the <font>Scotish</font> Queen's
+part, the Duke declar'd his good Will that he
+bare to the <font>Scotish</font> Queen: He shewed how, that
+if the same matter of Evidence against her, were
+once utter'd by the Earl of <font>Murray</font> , some of the
+Queen's Majesty's Counsellors of <font>England</font> would
+procure her Majesty to publish them. He
+advised that the matter should be compounded with the
+Earl of <font>Murray</font> ; and that he should not stick,
+being here in <font>England</font> , and not at her own liberty,
+for the present time, to be content to ratify the
+Dimission of the Crown of <font>Scotland</font> , which she
+made at <font>Lochlevin</font> ; and so she might be restor'd
+into her own Country, and then she might undo
+all again at her pleasure: and upon pretence of
+Constraint and Fear, as well revoke that which she
+should do in <font>England</font> , as she before revoked that
+which she had done at <font>Lochlevin</font> in <font>Scotland</font> . Also
+the Duke at that time was privy to the Device,
+that <font>Ledington</font> accompany'd the Earl <font>Murray</font> only
+to understand his Secrets, and to betray him; and
+that <font>Ledington</font> stole away the Letters, and kept
+them one Night, and caus'd his Wife to write them
+out. Howbeit, the same were but Copies
+translated out of <font>French</font> into <font>Scotch</font> ; which, when
+<font>Ledington's</font> Wife had written out, he caus'd them
+to be sent to the <font>Scotish</font> Queen: She labour'd to
+translate them again into <font>French</font> , as near as she
+could to the Originals wherein she wrote them;
+but that was not possible to do, but there was
+some Variance in the Phrase; by which Variance,
+as God would, the Subtilty of that Practice came
+to light.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> What if all this be true? What is this
+to the Matter? Any dealing of mine with the
+<font>Scotish</font> Queen by my Sister <font>Scroope's</font> Means, I
+utterly deny. As for <font>Ledington</font> , and the Bishop of
+<font>Rosse</font> , what their Speeches were to me, I care not;
+I am to answer but for mine own Speeches.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The Bishop of <font>Rosse</font> accuseth you of your
+own Speeches, and this he doth, being examin'd
+freely, and without Compulsion.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> He is a <font>Scot</font> .
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> A <font>Scot</font> is a Christian Man.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> At my being at <font>York</font> in Commission,
+<font>Ledington</font> broke with me himself to have the
+Matter compounded between the <font>Scotish</font> Queen and
+the Earl of <font>Murray</font> . I told him that our
+Commission was only to hear indifferently what should
+be alledg'd on both parts, and thereof truly to
+make report. What hurt is this? The Bishop of
+<font>Rosse</font> afterwards sent for me, that he might speak
+with me: when we met, he moved me for the
+compounding of the Matter, as <font>Ledington</font> had done.
+I told him, that our Commission was but to hear
+and report, as I had told <font>Ledington</font> before; and
+therefore if they would fall to compounding, I will'd
+them to devise the Means themselves, and to make
+Offers; and thereupon we would advertise the
+Queen's Majesty thereof, as we would of all the
+Matters alledg'd. If it be otherwise, and as you
+say, let my Letters be look'd on, and see if they
+contain any such Matter. If the Bishop of <font>Rosse</font> ,
+for Fear or for Malice, have said untruly; if being
+a <font>Scot</font> , he care not how many <font>English</font> Men, by his
+false Testimony, he bring to destruction; I beseech
+you let not that hurt me.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You made the first Motion of
+compounding the Matter to <font>Ledington</font> your self; and another
+time to the Bishop of <font>Rosse</font> , you offer'd to further
+it all that you could.
+<pagebreak id="92C2" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I never saw the Bishop of <font>Rosse</font> before
+I came to <font>York</font> ; and would I, think you, deal so
+dangerously with a <font>Scot</font> that I never saw before?
+Also, I did by my Letters signify to the Queen's
+Majesty our Proceeding, and my misliking of the
+<font>Scotish</font> Queen's part: Let that Letter be seen;
+which Letter was written after my Talk with
+<font>Ledington</font> . I wrote it when I went from <font>York</font> , and I
+never saw the Bishop of <font>Rosse</font> afterward, till I came
+to <font>London</font> .
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The writing of your Letters to the Queen's
+Majesty, wherein you advertis'd against the <font>Scotish</font>
+Queen, and tho the same were written after your
+Conference with <font>Ledington</font> and the Bishop of <font>Rosse</font> ,
+is no proof but that you dealt partially for the
+<font>Scotish</font> Queen; for those Letters were written by
+other, as well as your self, namely, by my Lord
+of <font>Sussex</font> , and Mr. Chancellor of the Dutchy:
+and you could not otherwise do, but to signify,
+notwithstanding your partial secret Dealing; for
+else you should have too openly bewray'd your
+Intention.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> When <font>Ledington</font> mov'd me of the
+Marriage of the <font>Scotish</font> Queen, I utterly refus'd it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> That is not so: And for proof, as well of
+your partial Dealing in the Commission as for the
+Marriage, there shall be brought forth sufficient
+Evidence.
+   </dialogue><nonSpeech>Here was alledg'd how a Letter had been
+written to the Earl of <font>Murray</font> , requiring to be
+advertis'd by him of so much as he knew concerning
+the Doings of the Duke of <font>Norfolk</font> , both for the 
+Matter of the Commission, and the Practice of his
+Marriage with the <font>Scotish</font> Queen: And the Earl
+<font>Murray's</font> Answer to the same Letter was produc'd,
+and read, as followeth.</nonSpeech><dialogue>
+<comment type="compiler">LETTER FROM THE EARL OF MURRAY OMITTED.</comment>
+<pagebreak id="94C1" />
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Thus appeareth it, That the Duke of
+<font>Norfolk</font> first travell'd with <font>Ledington</font> for stay and
+compounding the matter, and afterward likewise with
+the Bishop of <font>Rosse</font> , and at both times first moved
+it of himself: so now the Earl of <font>Murray</font> also by
+his Letters doth testify, that in Conference with
+him, it came first of the Duke to move the stay
+of the Contention, and to what end the Duke
+did it, namely, for that he aspired to the
+Marriage of the <font>Scotish</font> Queen, and therein made
+account of her Respect to the Crown of <font>England</font> ;
+and that without the Queen's Majesty's Assent or
+Knowledge. Now shall you also see, for further
+proof thereof, the Bishop of <font>Rosse's</font> Letter to the
+<font>Scotish</font> Queen: For the Bishop of <font>Rosse</font> went from
+<font>York</font> to <font>Bolton</font> , as you have before heard in this
+Examination. On the way, before he came to <font>Bolton</font>
+to the <font>Scotish</font> Queen, from his Lodging he wrote
+a Letter to her, which Letter was lost, by his
+Servant; but as good hap was, he reserv'd a Copy
+thereof, and negligently left it behind him in his
+Lodging at <font>Newcastle</font> , where the Earl of <font>Murray</font>
+half a year after being lodg'd in the same
+Chamber, found it, and sent it to the Queen's Majesty's
+Council; and here it is all written with the
+Bishop's own Hand, as himself, being examin'd
+thereof, hath confess'd. Here he setteth out the
+Conference between the Duke of <font>Norfolk</font> , and
+<font>Ledington</font> , and himself. He sheweth the Duke of
+<font>Norfolk's</font> Advice to the <font>Scotish</font> Queen, for a Letter
+by her to be written to the Queen's Majesty; and
+also he openeth the Duke's Advice, how to work
+for the <font>Scotish</font> Queen, with disclosing the Queen's
+Majesty's Secrets.
+<comment type="compiler">BISHOP OF ROSSE'S LETTER TO MARY, QUEEN OF SCOTS, OMITTED.</comment>
+<pagebreak id="94C2" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Here be many things and many parts
+very hard for me to remember; and here be 
+produced three Witnesses against me, <font>Ledington</font> , the
+Bishop of <font>Rosse</font> , and the Earl of <font>Murray</font> .
+Hereunto I will answer, as my Memory will serve me:
+<font>Ledington</font> , because he and I were acquainted at
+<font>Lyth</font> , came to me and practised to search at my
+hands, and to feel how the Queen's Majesty was
+satisfy'd. I told him, that till I heard what the
+Queen's Majesty would resolve, I could tell him
+nothing: And so time spent away. And in the
+mean season, upon a <font>Saturday</font> , I being at Dinner
+with the Lord of <font>Sussex</font> , <font>Ledington</font> came in; and
+after Dinner talking with me, he brake more
+earnestly for me with the <font>Scotish</font> Queen, and for a
+Marriage between her and me, which I utterly
+refus'd, as by my Letters from <font>York</font> to the Queen's
+Majesty it may appear; wherein I signify'd my
+Opinion of the <font>Scotish</font> Queen, or else she must
+be maintain'd by the Queen of <font>England</font> . I said
+to him again, that the Queen's Majesty sought
+the Quietness of that Realm: but for any Advice
+of restoring the <font>Scotish</font> Queen into her Country,
+I could not see how it might be consider'd: and
+so I advis'd him to submit the whole Matter to
+the Queen's Majesty's Judgment. Otherwise he
+and I never talk'd. Of those other doings,
+between <font>Ledington</font> and the <font>Scotish</font> Queen, I know
+nothing. The Bishop of <font>Rosse</font> shortly after said
+to me, and intreated to have my help for
+compounding of the Matter, as you know well he can
+speak fair. I told him I could do nothing
+without my Fellows, and only in such manner as was
+prescrib'd by our Commission. I told him also,
+that we were but to hear and certify; and for
+the Matter of compounding, they were best to
+<pagebreak id="95C1" />
+make Offers themselves; for we were but to
+receive such Devices as they should chuse, and to
+give Advertisement of the same. To what end
+should I need to utter the Matters of the Earl of
+<font>Murray's</font> part to the other side, when <font>Ledington</font>
+himself was present, and privy to all? I spake
+not with the Bishop of <font>Rosse</font> , but at that time
+only. And as for that Advice, to avoid the
+discovering of those rigorous Matters by the Earl,
+and the publishing thereof to the Queen's Majesty,
+to the <font>Scotish</font> Queen's infamy; I never disclos'd
+any such Secrets, nor gave any such Advice:
+Only I did advise the Bishop of <font>Rosse</font> , that he
+and that side should hold themselves contented with
+the Queen's Majesty's dealing, and with the
+Determination taken at <font>Hampton-Court</font> , which was
+such as might content them, and such as my Lord
+<font>Burleigh</font> then mislik'd. As for the Earl <font>Murray</font> ,
+he began with me, and not I with him: He came
+to me at <font>Cawood</font> , and pray'd me to tell him what
+end would come of the Matter. I said, I knew
+not; for it must come from the Queen's Majesty:
+We knew not of the differing of the Commission
+at that time, nor till such time as Mr. <font>Sadler</font> was
+sent for. How could I tell him, and knew it not
+my self? I never yielded to the Marriage between
+the <font>Scotish</font> Queen and me: I cannot gather such
+Matter of Looks alone, and I never dealt more
+therein, but only that <font>Ledington</font> broke it. Have
+I not answer'd all these Matters? If I have not,
+put me in any thing I have omitted, and I will
+answer it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Your Answer is but only Denial;
+<font>Ledington</font> and the rest write otherwise, that you made the
+first Motion to them: and therefore <font>Ledington</font> , by
+Practice between you and him, sent the Earl of
+<font>Murray</font> to you, under pretence of searching to
+learn the State of their own Cause, to be mov'd by
+you for the Marriage; upon your Answer, it is
+but yea and nay between you. If you meant
+directly, then needed you not to have dealt so
+secretly in Conference with <font>Ledington</font> , without the
+rest of the Commissioners; and besides <font>Ledington's</font>
+Conference with you, both the Bishop of <font>Rosse</font>
+and the Earl <font>Murray</font> affirm your practising with
+them to the same intent: which is sufficient Proof
+against your own bare Denial.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> The Earl <font>Murray</font> sought my Life, the
+other are not of Credit; yet all these prove not
+that I dealt in the matter of the Marriage with
+the <font>Scotish</font> Queen, in any respect of her Claim to
+the Crown of <font>England</font> . If the Bishop of <font>Rosse</font> ,
+or any other, can say otherwise, let them be brought
+before me face to face: I have often so desir'd it,
+but I could not obtain it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The Bishop of <font>Rosse</font> confesseth it; this is
+his own hand; and here you shall have, by
+Witnesses, prov'd the Duke's Assent to the Marriage
+with the <font>Scotish</font> Queen: and to practise the
+furtherance thereof, you shall see how that afterwards
+he was privy to a Device, that the Earl <font>Murray</font>
+should have been murder'd at <font>Northallerton</font> , in his
+way homeward, by the <font>Nortons</font> , <font>Markenfield</font> , and
+other Rebels; and afterwards, being satisfy'd at
+the Earl <font>Murray's</font> hands, a Letter was written to
+stay that Device: containing also a Device of
+compounding the Matter, and how the Earl
+<font>Murray</font> had assented to the Marriage.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="96C1" />
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> All these are Letters, and answer'd two
+years ago, when Mr. <font>Sadler</font> and Mr. <font>Attorney</font> were
+sent to examine me upon Interrogatories. Indeed
+I must confess my Folly; it is an ill Cook that
+cannot lick his own Fingers. The Bishop of <font>Rosse</font>
+wrote the Letter, and he lick'd his own Fingers.
+The Earl of <font>Murray</font> wrote to me very humbly,
+and that he was at my Commandment, with such
+like words. I having no leisure to write Answer
+to him, drew Articles to give him thanks: but
+that the Noblemen lik'd of that Marriage, and
+that I wish'd no Man's Friendship more than his
+<pagebreak id="96C2" />
+in it, the Bishop of <font>Rosse</font> added of his own, and
+put it in Cypher in this Form, which Cypher I
+had not then.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> This is the very Copy of your own Letter.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> See my Answer made in my first
+Troubles, two years past.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The Queen's Majesty understanding the
+Duke's Intention to marry with the <font>Scotish</font> Queen,
+the Duke himself, by way of Prevention,
+complain'd to her Majesty of the Rumour that was
+spread against him, That he sought the <font>Scotish</font>
+Queen's Marriage, and pray'd it might be
+examin'd. In which her complaint, as I have heard
+her Majesty her self declare it, and some here of
+my Lords have likewise heard it, he said, among
+other things, To what end should I seek to marry
+her, being so wicked a Woman, such a notorious
+Adulteress and Murderer? I love to sleep upon a
+safe Pillow: I account my self, to your Majesty's
+good Favour, as good a Prince at home in my
+Bowling-Alley at <font>Norwick</font> , as she is, tho she were
+in the middle of her Kingdom. The Revenues of
+the Crown of <font>Scotland</font> (all the ordinary Charges
+deducted) about the necessary Affairs of the
+Realm, are not comparable to mine own that I
+enjoy by your Goodness, as I have heard of the
+chief Officers of that Realm; considering also
+that her Kingdom is not in her hand, but
+possess'd by another; if I should seek to match with
+her, knowing, as I do know, that she pretendeth
+a Title to the present possession of your Crown,
+your Majesty might justly charge me with
+seeking your own Crown from your Head. This the
+Duke spake to the Queen's Majesty, in his Excuse,
+when the Fame went of his Marriage with the
+<font>Scotish</font> Queen, when yet, beside that time, he
+had dealt earnestly in it.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I may not nor will not stand against her
+Majesty's Testimony, I must give place unto it;
+but hereof I was examin'd two years ago, and
+then I declar'd, as I now do, that at that time I
+intended not the Marriage. And true it is, that
+I have at sundry times, some at one time, and
+some at another, us'd some of those kinds of
+Speeches; but at that time I dealt not with that
+Marriage, nor minded it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Your own Confession is otherwise; for your
+self have since confess'd that you conceal'd from
+the Queen your Conferences with <font>Ledington</font> and
+<font>Rosse</font> about the Marriage, both the Conferences
+had at <font>York</font> and at <font>Hampton-Court</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I never consented to the Marriage at those
+times of their Conferences, and so I might well
+use their Speeches.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="98C1" />
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This maketh for me; for this proveth
+that I so much misliking her, and signifying by
+my Letter so much against her, dealt not on that
+side when I was at <font>York</font> , where this Letter was
+written.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> There were others joind'd with you in the
+Letter, so that you could not otherwise write,
+however you otherwise dealt: but this maketh
+much against you, for it prov'd you had an evil
+Opinion of her, and so could not seek the
+Marriage in respect of her Person, but only in respect
+of her false Title; and that not to the Kingdom
+of <font>Scotland</font> , which she had not, and which you
+despis'd, but to the Crown of <font>England</font> . Now you
+shall, to the same end, hear your own Report
+against her to <font>Bannister</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Bannister</font> was shrewdly cramp'd, when
+he told that Tale. I beseech you, let me have him
+brought Face to Face.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> No more than you were.
+
+   </dialogue><nonSpeech>Then was read <font>Bannister's</font> Confession, in <font>October,
+12 Eliz.</font> </nonSpeech><dialogue>
+This sheweth that you had an evil Opinion
+of her, and so no Affection to the Person;
+<pagebreak id="98C2" />
+therefore your seeking of that Marriage was for
+another Respect; and therefore <font>Ledington</font> , <font>Rosse</font> , and
+you practis'd the Matter at <font>York</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> They broke it to me. What is this to
+me? Did I consent?
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You consented.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> They say plainly, that you practis'd to
+withdraw the things that might charge her.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> You have said, that the Bishop of
+<font>Rosse</font> hath accus'd you of Malice; but you
+answer nothing to that which the Bishop of <font>Rosse</font>
+wrote to his Mistress, the <font>Scotish</font> Queen, in
+Secrecy, wherein could be no Malice.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Ledington</font> broke it to me, and the Earl
+<font>Murray</font> broke it to me. I pray you, let them be
+brought face to face to me: I have oft requir'd
+it, and the Law I trust is so.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> The Law was so for a time, in some
+Cases of Treason: but, since, the Law hath been
+found too hard and dangerous for the Prince,
+and it hath been repeal'd. You intended to
+have proceeded with the Marriage by Force; and
+for proof thereof, you have heard of the Device
+for taking of the <font>Tower</font> . Now to prove further
+your Purpose to pursue your Enterprize by Force,
+let be read the Confession of the Bishop of <font>Rosse</font>
+to the second Article.
+<comment type="compiler">DEPOSITION OF THE BISHOP OF ROSSE OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> All is false, saving that the Bishop of
+<font>Rosse</font> once spake with me; and then
+understanding him to be a suspected Man, I desir'd him
+to forbear to come to me; nevertheless, by his
+great Earnestness and Importunity, that I would
+but once admit him to come to me, at length
+he came, and then he mov'd me for certain
+<pagebreak id="99C1" />
+Money of the <font>Scotish</font> Queen's, about 2000 <font>l.</font>
+remaining in my keeping: One Letter he brought
+me, and no more Letters, till after my first
+Trouble. As for my going into <font>Norfolk</font> , I can
+bring good Witness, that I meant not to go into
+<font>Norfolk</font> , four Hours before I went, and that I
+spake not with him in two days before. It is of
+good ground that I have prayed to have the Bishop
+of <font>Rosse</font> brought to me in private Examination face
+to face, whereby I might have put him in
+remembrance of Truth; but I have not had him
+face to face, nor have been suffer'd to bring
+forth Witnesses, Proofs, and Arguments, as 
+might have made for my Purgation. As for
+sending of Letters to my Lord of <font>Northumberland</font> ,
+or my Brother of <font>Westmoreland</font> , all is false; I
+never receiv'd Letters from them in all my time.
+If ever I sent to them, or receiv'd from them any
+Letters in three Quarters of a Year before, let me
+never be credited.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You shall have Proofs that the Bishop of
+<font>Rosse</font> hath said it. You stand much upon your
+own Credit: Now therefore to your Credit, I will
+say somewhat against your Oath specially taken,
+when you were appointed Commissioner for the
+Matter at <font>York</font> ; and against your Oath of a
+Counsellor to the Queen's Majesty, you dealt
+indirectly and partially; you deceiv'd the Queen's
+Majesty's Trust, and disclos'd her Secrets.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I deny it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> It is well prov'd that at <font>Hampton-Court</font> ,
+being examined of the Matter by the Queen's Majesty,
+you dissembled it: Being examin'd of Money lent
+by you to the <font>Scotish</font> Queen, you deny'd it: Being
+charg'd upon your Allegiance, you promis'd not
+to proceed further in the Matter.
+Notwithstanding that express Commandment of her Majesty:
+yet, against your Duty, against your Promise and
+Faith, you still proceeded.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I confess this was mine Error; but I have
+already made humble Petition to my Peers, not
+to confound my Faults together, nor to mingle
+my inferior Offences with this great Cause.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Sithence the Commandment given to you
+at <font>Titchfield</font> , not to proceed in Dealing with
+the <font>Scotish</font> Queen in any wise, you have
+continually dealt with her: You have lent her
+Money; you have maintain'd <font>Liggons</font> , your Man
+and your Solicitor, continually to advertise you,
+from the Bishop of <font>Glasgow</font> , and the Pope's
+Nuncio; and you have advertis'd him from hence.
+He hath had Money of you, and you have
+receiv'd Letters from him four times in Coffers.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Liggons</font> is not my Sollicitor.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> He is your Sollicitor, and so your self
+have expounded him; for where the <font>Scotish</font>
+Queen, in her Letters, speaketh of your
+Sollicitor, being ask'd whom she meant thereby, you
+have answer'd, <font>Liggons</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> At the first indeed she so called him; but
+Sollicitor is no Name of use. He hath not been
+so since my first Trouble; and so for her calling
+it is no matter, she once called me <font>Legista</font> .
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> He is your Sollicitor; for she so taketh him,
+and your self do so expound it.
+   </dialogue><nonSpeech>Then was read his own Confession, of Money
+lent 2000 <font>l.</font> and receiv'd, <font>&amp;c.</font>
+   The Duke confess'd this Receiving and
+Lending of Money.
+   Then was read the Bishop of <font>Rosse's</font>
+Confession, concerning Money sent by <font>Barthwick</font> , and
+of Money deliver'd to <font>Francis Bishop</font> .</nonSpeech>
+<pagebreak id="99C2" />
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This I deny not.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> <font>Francis Bishop</font> was a Traitor
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I knew him not.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Now for the matter of taking the <font>Tower</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I deny it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Was it not mention'd unto you in the
+way, when you came from <font>Titchfield</font> , by one that
+came to you, and moved you a Device between
+you and another, for taking the <font>Tower</font> ?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I have confess'd that such a Motion was
+made to me, but I never assented to it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You concealed it: And to what end should
+you have taken the <font>Tower</font> , but to have kept it
+against the Queen by Force? But you say you
+lik'd not the Motion, you ask'd advice of it.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Indeed I told one of it: <font>Owen</font> met me
+by the way from <font>Titchfield</font> , and told me how we
+were all in danger; and said, That some of our
+Friends thought it was best to take the <font>Tower</font> ,
+I refus'd to do it, and said, Take the <font>Tower</font> !
+that were a proper Device indeed! And thence
+I went to my Lord of <font>Pembroke's</font> , and there din'd;
+and then I told my Lord of <font>Pembroke</font> of that
+Device; whereunto he answer'd, We are well,
+and safe enough: Let them that be faulty take
+the <font>Tower</font> , if they will. And to what end should
+I have taken the <font>Tower</font> ?
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> To maintain by Force that which you
+had practis'd against the Queen's Majesty's
+Commandment, which was the Marriage with the
+<font>Scotish</font> Queen.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I had not then dealt with it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> It is well prov'd that you had; and
+afterward, at your House at <font>Charter-house</font> , you receiv'd
+Letters, Messages, and Tokens from the <font>Scotish</font>
+Queen; you receiv'd from her a Brooch, with a
+Hand cutting down a Vine, and this Posy upon it,
+<font> <foreign>Virescit vulnere Virtus</foreign> </font> . But my Lord, do green
+Vines grow when they be cut? and a green Vine
+it was.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> My Lord, you still say you dealt not
+at this time, or that time, against her Majesty's
+Commandment; I pray you at what time, since
+her Majesty's Commandment upon your
+Allegiance, did you forbear to deal with the <font>Scotish</font>
+Queen?
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Beside this, you have given Advice as a
+Counsellor to the <font>Scotish</font> Queen, against the Queen's
+Majesty: namely, when in Treaty between the
+Queen's Majesty and her, there were three
+Articles propounded on the Queen's Majesty part;
+the one for the Delivery of her Son into the
+Queen's Majesty's Custody; the other for
+delivering the <font>English</font> Rebels that were fled into <font>Scotland</font> ;
+the third for delivering of certain Holds in
+<font>Scotland</font> into <font>English</font> Mens Possession: He gave Advice
+herein as a Counsellor, against the Queen his
+Sovereign Lady. The Articles were expresly sent
+to the Duke to have his Advice, before that the
+<font>Scotish</font> Queen would resolve of any Answer; and
+she respited her Answer to be made according to
+his Direction. He gave Advice, that she should
+in no wise deliver her Son, for it was against her
+own Safety, not knowing whether she deliver'd
+him into her Friends hands or no. As for the
+Rebels, she should in no wise deliver them, for it
+were against her Honour: And as for the Holds,
+she should not deliver any; for it were against the
+Safety of her Friends in <font>Scotland</font> .
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> For advising not to deliver the Rebels, I
+deny that ever I gave any such Advice. As for
+Delivery of her Son, I advis'd her no otherwise
+<pagebreak id="100C1" />
+but thus, that I wish'd her to bestow him there,
+where she might have sure Friends.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Thus, contrary to your Oath, Allegiance,
+and Fidelity, and against the Credit that you would
+fain be thought of, you became, by your own
+Confession, a Counsellor to a foreign Prince
+against your own Sovereign Lady.
+   </dialogue><nonSpeech> <font>Burleigh.</font> </nonSpeech><dialogue> My Lord, did you ever desire to have
+any Proofs or Witnesses produc'd for your part, to
+prove any thing that might make for you? And
+were you deny'd?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I have divers times pray'd, that if any
+thing were deny'd to be true which I said, I might
+be driven to my Proof of it.
+   </dialogue><nonSpeech> <font>Burleigh.</font> </nonSpeech><dialogue> I ask it, because I have not heard it
+reported to her Majesty that you made any such
+Request, to have any special Witnesses examin'd,
+or Proofs heard, on your part.
+   </dialogue><nonSpeech>Here was produc'd and read the Confession of
+<font>Hickford</font> to the 3rd Article.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I advis'd her, touching her Son, that she
+should first be well assur'd that he should be
+bestow'd among her Friends. For her Castles, I
+advis'd her, that she should in any wise take heed,
+that they might not after come into the hands of
+her Enemies; for so if she deliver'd
+<font>Edinburgh-Castle</font> , she should not be safe in <font>Holyrood-House</font> .
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> How standeth this with the Duty and
+Oath of a Counsellor, to give Advice to a
+foreign Prince against the Queen's Majesty?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I excuse it not, herein I confess my
+Error; I beseech you call not these my inferiour
+Faults, which I have confess'd, among the greater
+wherewith I am charg'd.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Thus appeareth how he hath given Advice
+against the Queen to the <font>Scotish</font> Queen. Now it
+shall be further prov'd unto you, that where the
+<font>Scotish</font> Queen is here in Custody as the Queen's
+Prisoner, he hath also been privy to Devices for
+conveying her away.
+   </dialogue><nonSpeech>Here was produc'd the Confession of <font>Barker</font> ,
+<font>October</font> 5. 1571. Article 13.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This is not true, saving that indeed
+Advice was broken to me of conveying her away at a
+Window, at a Gallery's-end, in one of my Lord of
+<font>Shrewsbury's</font> Houses, of the which Window the
+Bishop of <font>Rosse</font> had taken a measure; but this
+Device was overthrown at such time as it was told me.
+As for that which <font>Barker</font> hath here confess'd, it is
+utterly false.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Now shall you hear the Duke's own
+Confession.
+
+   </dialogue><nonSpeech>Here was read the Duke's Examination, 13
+<font>Octobris</font> .</nonSpeech>
+   <nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Besides this, the Duke being in Prison in
+the <font>Tower</font> , made a Submission to the Queen's
+Majesty, confess'd his Error in dealing with the
+<font>Scotish</font> Queen, and promis'd, upon his Faith and
+Allegiance, never to deal with that Marriage, nor
+with any other Matter touching the <font>Scotish</font> Queen.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I confess I did so.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Before his subscribing his said Submission,
+he first made the <font>Scotish</font> Queen privy to it, and
+sent her a Double of it.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I sent it to the Bishop of <font>Rosse</font> .
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> All is one.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I confess it.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> What should move my Lord of <font>Norfolk</font>
+now so earnestly still to pursue this Marriage?
+<pagebreak id="100C2" />
+You see he lik'd not the Person, she was not of
+good Fame, he so signify'd to the Queen, he so
+reported to <font>Bannister</font> . The Kingdom of <font>Scotland</font> he
+esteem'd not, and also it was out of her possession,
+in the hands of the King her Son, by her own
+Dimission ratify'd by Parliament. Forsooth he had an old
+blind Prophecy lying by him: <font> <foreign>In exaltatione Luna
+Leo succumbet, &amp; Leo cum Leone conjungetur, &amp;
+catuli eorum regnabunt</foreign> </font> ; which belike is thus to be
+expounded, <font>At the Exaltation of the Moon</font> (which was
+the Rising of the Earl of <font>Northumberland</font> , that 
+giveth the Moon) the <font>Lion</font> (which is the Queen's
+Majesty) <font>shall be overthrown; then shall the Lion be
+join'd with a Lion</font> (which is the Duke of <font>Norfolk</font>
+with the <font>Scotish</font> Queen, for they both bear Lions in
+their Arms) <font>and their Whelps shall reign</font> , (that is,
+their Posterity shall have the Kingdom.) 
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I do not remember any such Prophecy.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> It was in your own keeping.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> What should I do with it?
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Such blind Prophecies have oft deceiv'd
+Noblemen.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This is nothing to the purpose; I kept it
+not to any such end.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> You utter'd it to your Servant <font>Hickford</font> .
+
+   </dialogue><nonSpeech>Here was produc'd and read <font>Hickford's</font> Testimony.</nonSpeech>
+
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> A Toy! You see I call it a foolish Prophecy.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Where had you it?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I remember it not.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Hitherto have you heard the Evidence to 
+prove the Duke's Imagination, Compassing, and
+Conspiracy, to deprive the Queen's Majesty of
+the Crown and her Royal Estate, and so to bring
+her Highness to Death and Destruction. For
+proving this his Intent, you have heard those Matters
+prov'd, his Practice to join himself in Marriage
+with the <font>Scotish</font> Queen, whom he then well knew
+falsly to claim and pretend Title to the present
+possession of the Crown of <font>England</font> : also his
+prosecuting the same Marriage without the Queen's
+Majesty's Knowledge, against her Highness's
+express Commandment upon his Allegiance, against
+his Faith, Promise, and Submission; yea, and to
+pursue that with force, and to use the Advice and
+Strength of his Friends, to maintain the same force
+against the Queen; his hearkening to blind
+Prophecies, Mony by him lent to the <font>Scotish</font> Queen, and
+against the Queen his Sovereign Lady. If then his
+Purpose so were to pursue it with force, it must
+needs follow, that the same must be of Intent,
+Imagination, and Compassing, to deprive and
+depose the Queen's Majesty from her Crown, Royal
+Estate, and Dignity, and to advance and maintain
+that false and usurp'd Title of the <font>Scotish</font> Queen unto
+the present possession of the Crown of <font>England</font> , and
+so consequently, for maintenance of his
+Imagination and Purpose, to compass the Queen's Majesty's
+Death and Destruction. Now shall you further
+hear Proof of his own words, declaring the same
+intent to pursue the Marriage by force, and rather
+to lose his Life than to give it over.
+<comment type="compiler">DEPOSITION OF CAVENDISH OMITTED.</comment>
+<pagebreak id="101C1" />
+   </dialogue><nonSpeech> <font>Duke.</font> The Duke looking upon <font>Cavendish</font> with a 
+scornful and smiling Countenance, said,</nonSpeech><dialogue> <font>You are an
+honest Man</font> ! That which he saith of the Talk
+between him and me at <font>Southampton</font> , is utterly false:
+At that time you were most earnest on my part,
+and came to me as for Succour, for that as you
+said your Cousin <font>Christmas</font> was fallen out with you.
+When we rode to my Lord of <font>Pembroke's</font> , you
+came to me and told me, my Lord <font>Burleigh</font> findeth
+me well, I will ride with him and find his
+Humour, and I will face that Fellow thorowly; so
+from <font>Salisbury</font> you said you would ride to <font>Leicester</font> ,
+so and home with my Lord <font>Burleigh</font> , and you
+doubted not to bring me such word from him as
+should satisfy me. You told me how my Lord of
+<font>Leicester</font> was firm, and Sir <font>Nicholas Throckmorton</font> my
+sure Friend, and that they would both join to deal
+with the Queen for me; and how Sir <font>Nicholas 
+Throckmorton</font> sent me word, That he doubted not
+the Queen would take order to my Contentation
+at her next Coming to a staid House. Then came
+you to <font>London</font> , and tho I had no great Liking of
+you, yet because you were loth to lie at <font>Arundels's</font> ,
+and were somewhat ill at Ease, I let you lie in my
+House. I never made great account of you; my
+Lord of <font>Leicester</font> made us first acquainted, your
+Brother you know was not my Friend, I then
+took you as I now find you. While you could
+hold on, you shew'd your Letters that you did
+write on my behalf; then you came to me and
+said, you had need, and borrow'd Mony of me;
+I had none at that time, but I sent it you by <font>Bowes</font> .
+I was warn'd by divers of my Friends to take
+heed of you; you dealt with <font>Dier</font> and with <font>Straunge</font>
+very maliciously. As for the Speech at 
+<font>Remming-Hall</font> , that you speak of me, it is untrue; I dealt
+not with you there about any such matter; I left
+you at <font>London</font> , I look'd not for you; when you
+came, I was glad to be rid of you; you said you
+were going to <font>Norwich</font> , and I was glad you were
+going, and will'd you to look at my House at
+<font>Norwich</font> and tell me how you liked it: Out of the
+<font>North</font> I heard nothing in six Weeks before. You
+suddenly slipp'd away from me, and then came I
+up to <font>London</font> ward; you are an honest Man
+indeed, it is all false that he hath said.
+<pagebreak id="101C2" />
+   </dialogue><nonSpeech>Then <font>Cavendish</font> began to report and justify
+what he had said, and to put the Duke in
+remembrance, when the Duke gave him reproachful
+words of Discredit.</nonSpeech>
+   <nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> He is sworn, there needeth no more 
+proving; you sent <font>Havers</font> to the Earl of <font>Westmoreland</font> .
+   </dialogue><nonSpeech>Then was alledg'd the Examination of one
+<font>Haveling</font> touching <font>Havers</font> , whom the Duke sent to the
+Earl of <font>Northumberland</font> , with this Message, <font>That if
+the two Earls should rise, he were undone</font> .</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This may be seen of two years old, and
+by me fully declar'd and answer'd.
+
+   </dialogue><nonSpeech>Then was read the Confession of <font>Havers</font> .</nonSpeech>
+
+   <nonSpeech>Then was alledg'd a Letter of the <font>Scotish</font>
+Queen's in Cypher to the Duke, containing, that
+the Lord of <font>Shrewsbury</font> had told her, that the Earl
+of <font>Northumberland</font> was deliver'd to the Earl of
+<font>Sussex</font> ; for which she was very sorrowful three
+days together, for fear of cumbring of Friends if
+he were taken.</nonSpeech>
+   <nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> What Friends was she so careful for, that
+she wrote to the Duke, unless she thought it should
+light upon the Duke himself?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> That Letter never came to my hands.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> It was found in the Bag which you will'd
+to be burn'd.
+
+   </dialogue><nonSpeech>Then the said Letter was read.</nonSpeech>
+
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> All this is nothing to me.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> This proveth in you a Practice to the
+Rebellion; for all her Sorrow of the yielding of the
+Earl of <font>Northumberland</font> was, for fear he should
+bewray and cumber her Friends.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> That toucheth not me; for I am sure the
+Earl of <font>Northumberland</font> hath been sought for me,
+and yet he cannot accuse me.
+   </dialogue><nonSpeech> <font>Serj.</font> </nonSpeech><dialogue> Had it not concern'd you, it had not been
+written to you.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Some Letters never came to my hands:
+sometime they came to the Bishop of <font>Rosse</font> ,
+sometime to <font>Bannister</font> , sometime not all decipher'd; as
+<font>Straunge</font> and <font>Bowes</font> , and other that have been
+Messengers for me, can tell.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="104C2" />  
+   <nonSpeech>Here was read the Letter of the <font>Scotish</font> Queen
+to the Bishop of <font>Rosse</font> .</nonSpeech>
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> By this Letter appeareth, how the
+<font>Scotish</font> Queen hath set out the whole Plot of
+the Treason: A Message should be sent for Aid
+from foreign parts; <font>Rodolph</font> the fittest Man to be
+the Messenger; and that <font>Rodolph</font> should be
+dispatch'd to go about it, when the Duke of
+<font>Norfolk</font> would. The Device was to move King
+<font>Philip</font> for Aid, upon a Consideration of her State
+here, to enter into Deliberation of the Time and
+Opportunities to set her Friends to Field, and to
+seize themselves of her. This is confess'd by
+<font>Hickford</font> ; and this Letter is also confess'd by the Duke
+himself, that he receiv'd it about <font>January</font> was
+Twelve-month, and it was hid under the Matts.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I bid that the Letter should be burnt.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> God would not have it so; but that
+it should remain for disclosing the Matter.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> As touching <font>Rodolph</font> , what manner of
+Man he was, is no matter to me: I know of no
+more, nor am to be charg'd with no more than
+I my self am privy to. I never dealt with him
+about any Cause of mine. I receiv'd no such
+Letter, but that which <font>Barker</font> said came from him,
+which was not that <font>January</font> that you speak of,
+about two Years ago; and as for Instructions and
+Letters about that <font>January</font> was Twelve-month,
+I receiv'd none.
+   </dialogue><nonSpeech> <font>Burleigh.</font> Here the Lord <font>Burleigh</font> said to Mr.
+Attorney,</nonSpeech><dialogue> You may mistake, it was this time 
+<pagebreak id="105C1" />
+Twelve-Month, for now we are in <font>January</font> . </dialogue><nonSpeech>And so Mr.
+Attorney remembring this present Month to be
+<font>January</font> , referr'd the Letter to <font>January</font> now a Year
+past; and said,</nonSpeech><dialogue> This Letter that I now charg'd
+you with, came to your hands at this <font>January</font>
+was Twelve-month: It came first to the <font>Scotish</font>
+Queen's hand; she took occasion upon
+considering her own Case here in <font>England</font> , in <font>France</font> , and
+in her own Country, that it was best for her to
+cleave unto <font>Spain</font> . She wrote to the Bishop of
+<font>Rosse</font> her Discourse to that end: She counted
+<font>Rodolph</font> the fittest Messenger; Matter was devis'd
+for his Instructions; she referr'd the Dispatch
+wholly to the Duke of <font>Norfolk</font> : the Duke dealt
+in it, his Message appeareth. And thus it
+continued till <font>March</font> ; and then, according to the Plot
+before laid, <font>Rodolph</font> was dispatch'd, and went over
+indeed.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> What was deliver'd to <font>Barker</font> , I know
+not; that is nothing to me: I am sure they will
+not say they deliver'd it me, nor that I receiv'd
+any such Letters or Instructions. Thus I say, the
+Bishop sent me a Letter of the <font>Scotish</font> Queen's,
+together with a Letter of his own: In her
+Letter she complaineth of her own Subjects, and
+saith, she will seek other Means for her Relief.
+This Letter was decypher'd; I mislik'd the
+Device, and bad that the Letter should be burn'd;
+so the Letter in Cypher was burn'd, and the
+Alphabet was sav'd. I sent word that I mislik'd all
+those Devices, and I advis'd the <font>Scotish</font> Queen to
+depend only upon the Queen's Majesty, or else,
+if she would take any other Cause, both I, and
+all other her Friends in <font>England</font> , would give her
+over; and hereupon it was that I said, that the
+Queen, if she fell to such Practices, would
+publish her Letters and Doings to her Infamy. Upon
+which my Words, the Bishop of <font>Rosse</font> excus'd
+himself, and laid all this Matter, of this new Device,
+to <font>Beyton</font> and <font>Rewley</font> . It is not true that <font>Barker</font>
+made me privy to any such Message or
+Instructions, as hath been alledg'd. Also he is not to be
+allow'd for a Witness against me, for he hath
+confess'd Treason against himself; and Persons
+outlaw'd, or attained of Treason, are not sufficient
+Witnesses.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> My Lord, there is none of those
+Witnesses, that have declar'd Matter against you, outlaw'd,
+or attained of Treason, or yet indicted.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> They are worse; for they have confess'd
+Treason.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> The Bishop of <font>Rosse</font> , at this time, was
+in Custody, and these Men also that have
+confess'd against you, were also kept in Custody, kept
+asunder in several Places, and severally examin'd,
+agreed all in one, and your own Confessions agree
+with them: How can this be imagin'd and false?
+All these do testify it with one Consent. The
+Bishop of <font>Rosse</font> , when he first came to the City,
+was examin'd of these things, he deny'd all, he
+stood in it earnestly; when Questions were asked
+him, he said, He was an Embassador, and not so
+to be dealt with, but to be referr'd to his own
+Mistress the <font>Scotish</font> Queen. When he was
+committed to the <font>Tower</font> , and there again examin'd,
+seeing things confess'd already; and by the
+manner of the Questions that were ask'd, perceiving
+some Light that the Truth was known; then he
+confessed also, and in his Confessions doth agree
+fully with <font>Barker</font> and the rest: which Consent
+could not possibly be, if the Matter were not true;
+besides that, he hath in his Confession touch'd
+himself.
+<pagebreak id="105C2" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> They have not agreed in Confession
+against me, that I told them any such thing; but
+one of them told another, and so from hand to
+hand it went among them.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Well you see what is confess'd, and
+with what Consent we are at Issue; here is but
+your Lordship's Denial; I leave it to my Lords
+here to consider of the Proofs. If you had been
+a good Subject, being then a Prisoner in your own
+House, when such dangerous Matter came to
+your Understanding, you would have open'd it,
+that the Queen's Majesty and her Council might
+have provided to withstand them, but you did it
+not. The Duke of <font>Norfolk</font> found flat Treason in
+intended; <font>Rodolph</font> was the Messenger that
+procured it; the Duke knew it; <font>Rodolph</font> was referr'd
+to the Duke's Dispatch, upon the Conference of 
+the Bishop of <font>Rosse</font> and <font>Rodolph</font> about the Matter,
+and the <font>Scotish</font> Queen's Willingness to have him
+sent about the Matter. Thus it proceeded: It was
+agreed that <font>Rodolph</font> should have his Message in
+Writing; and at the same Conference, <font>Barker</font>
+being also among them, it was agreed, and set
+down in his Instructions, that his Message should 
+be this: He should go to the Pope and the King 
+of <font>Spain</font> , in the Name of the <font>Scotish</font> Queen and of
+the Duke of <font>Norfolk</font> , to require of them Money
+and Men for the Enterprize. <font>Rodolph</font> requir'd to
+speak with the Duke: <font>Barker</font> brought him to the
+Duke at <font>Howard-House</font> ; there they talk'd together,
+the Duke and <font>Rodolph</font> a whole Hour, till it was
+nine of the Clock at Night. After this Talk,
+the Duke deliver'd to <font>Barker</font> a Paper, saying,
+that <font>Rodolph</font> left it with him; which Paper
+contain'd the Sum of the Treason, and therein was
+also a Paper of the Names of divers Noblemen,
+Knights, and Gentlemen in Cypher, whom they
+counted that they would take the Duke's part,
+but they counted without their Host; so that
+there was for every Name a Cypher, of the which
+40 was for the Duke, and 30 for the Lord <font>Lumley</font> .
+<font>Barker</font> receiv'd it of the Duke, and deliver'd it
+again to <font>Rodolph</font> . Upon this Cypher of 40, fell
+out the understanding of the Treason.
+
+   </dialogue><nonSpeech>Here was read <font>Barker's</font> Deposition, 10 <font>October</font> ,
+Interr. 8.
+   <font>Item</font> , <font>Barker</font> to the 22 Interr.</nonSpeech>
+
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> In this Bill the Duke is proved to be
+40, the Duke himself hath also confess'd that 40
+standeth for his own Name. <font>Barker</font> brought
+<font>Rodolph</font> to the Duke, which the Duke also
+confess'd, and that <font>Barker</font> brought him Instructions
+for <font>Rodolph's</font> Money.
+   </dialogue><nonSpeech>Here Mr. Treasurer and Mr. Chancellor of the
+Exchequer, sworn, did testify that <font>Barker</font> made all
+these Confessions freely, without Compulsion.
+   Also Mr. <font>Wilson</font> , sworn, did testify the same;
+and that <font>Barker</font> was never offer'd Torture, nor
+was once in the Prison where the Rack was: but
+the Duke said <font>Barker</font> saw where his Fellow had
+been.</nonSpeech>
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Did not <font>Barker</font> bring <font>Rodolph</font> to you
+at nine of the Clock at Night? Did he not leave
+with you Instructions in <font>French</font> ?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I confess it.
+
+   </dialogue><nonSpeech>Then was read <font>Barker</font> to the 16th.</nonSpeech>
+
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> <font>Rodolph</font> came also the second time
+to the Duke; after he was come from the Duke,
+he said to <font>Barker</font> , That the Duke and he were
+<pagebreak id="106C1" />
+agreed of his Journey, and that the Duke pray'd
+him to depart with speed.
+   This Message was to procure Men and Money
+for the Enterprize of the Treason; and on this
+Message the Duke dispatch'd him.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Touching <font>Rodolph's</font> coming, I have
+indeed confess'd that he came to me. I was in
+Summer was Twelve-Month bound in
+Recognizance for 1800 <font>l.</font> to <font>Rodolph</font> , for my Lord of
+<font>Arundel</font> , and my Brother <font>Lumley</font> ; the Day was
+pass'd whereby I stood in danger of my
+Recognizance. I sent to <font>Rodolph</font> to intreat him to
+cancel my Recognizance, and I offer'd to give him
+twenty Yards of Velvet; <font>Rodolph</font> would not be 
+persuaded, but desired to speak with me 
+himself, which <font>Barker</font> reported to me. I was very
+loth that he should come to me, for he was in
+Trouble at my last Trouble, and so I thought his
+coming to me would be suspicious. <font>Barker</font>
+promis'd that he would bring him to me secretly, and
+at such a time as it should not be known to make
+any Suspicion. So <font>Rodolph</font> came to me, and I did
+what I could to intreat him about my
+Recognizance, and I could not persuade him more, than
+to promise that he would not sue me. He told
+me of his Trouble and of his Imprisonment at
+Mr. <font>Walsingham's</font> , and what Words Mr.
+<font>Walsingham</font> gave unto him, also of the <font>Scotish</font> Queen; and
+that he should deal with the Duke of <font>Alva</font> for
+Money for her to her own Use, and for
+Necessaries, as he had done before. He pray'd also
+my Letters in the <font>Scotish</font> Queen's Favour to the
+Duke of <font>Alva</font> : I began to mislike him, and was
+loth to write; I sought ways to shift me from
+him; I said I was not well at ease; I could not
+write, and it was late, and so I would not deal.
+As for the Bill of Names, I saw none such, nor
+understood of any such, till the Letter that came
+over from <font>Rodolph</font> about <font>Easter</font> . I deliver'd a
+Writing to <font>Barker</font> : I confess it; but it was about
+that Matter which I have confess'd already for my
+Recognizance; and so I dealt not with any such
+Matter as is alledg'd against me, nor receiv'd any
+other Instructions, but only as I have said, about
+my own Matters.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> My Lord, this is but your own saying,
+and it carrieth no Likelihood. But <font>Barker</font> goeth
+nearer to you; he telleth you plainly what the
+Instructions were: It was to King <font>Philip</font> for Men,
+and to the Pope for Money.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Barker</font> hath confess'd himself a Traitor,
+and therefore is no sufficient Witness against me.
+I never knew of any such Bill of Names, nor such
+Instruction in <font>French</font> .
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> It is sufficiently prov'd. Now <font>Rodolph</font>
+came to you again the second time.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I deny it: He came no more to me.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> That is not so: for <font>Barker</font> telleth
+plainly, not only the Time, but also the several Ways
+by which he himself brought <font>Rodolph</font> to you.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> There be Ways enough, he might have
+devis'd also a dozen Ways more, if he would, in
+that House.
+
+   </dialogue><nonSpeech>Here was read <font>Barker</font> ad 11.</nonSpeech>
+
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Lo! he telleth you which way <font>Rodolph</font>
+came to you.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> So he may devise more Ways when he
+will.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Now you shall also hear it confess'd by
+the Bishop of <font>Rosse</font> , who at the time of his
+Confession was in Prison, not knowing what <font>Barker</font> had
+said.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 6">
+<dialogue>
+<pagebreak id="107C2" />
+<comment type="compiler">END OF LONG SPEECH BY NORFOLK ARGUING THAT THE TESTIMONY OF 
+ROSSE AND BARKER IS FALSE HAS BEEN OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Your Answer is nothing but bare
+Denial; and here are three Witnesses against you, and
+all three severally examin'd, have agreed in one;
+and <font>Barker</font> hath directly confessed; and if you
+doubt of Impulsion, you shall hear how willingly
+and how freely he confess'd it, because the same
+Examination was taken before Sir <font>Thomas Smith</font> ,
+and subscrib'd with his Hand: Mr. <font>Wilson</font> upon
+his Oath declar'd the same to be Sir <font>Thomas Smith's</font>
+Hand.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Where it is said, that I should bid them
+to write, or should affirm their Writing, it is not
+true. Indeed <font>Bannister</font> spake to me to write for
+Money for the <font>Scotish</font> Queen, and I refused to do
+it. If I should have dealt in any such matter, I
+would have trusted one <font>Bannister</font> afore fifteen
+<font>Barkers</font> . And as for your number of Witnesses in
+this manner by Hands one from another, twenty
+Witnesses may prove but one Witness.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> You shall hear your own Confession
+agreeing with them; you were content <font>Rodolph</font>
+should use your Name to the Duke of <font>Alva</font> , and
+that he should assure the Duke you were a
+Catholick, and that he should shew Tokens to prove it,
+for that you kept Papists in your House, and were
+a Friend to Papists.
+
+   </dialogue><nonSpeech>Here was read the Duke's Confession, 10 
+<font>October, ad interr.</font> 58.</nonSpeech><dialogue>
+   Here his own Hand confesseth the Matter.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I saw the Instructions indeed, and this
+Matter was in it. They sought to have it thought
+I was a Catholick, to serve their Purpose, and did
+put it in of themselves; but I allowed it not, I
+would rather be torn with wild Horses, than
+forsake my Religion.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> These Instructions remained still in
+your custody: Why did you not burn these, as well
+as you say that you commanded the Letter to be
+burned?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Because it was their writing, and not
+mine.
+   </dialogue><nonSpeech> <font>Wilb.</font> </nonSpeech><dialogue> You are content it should be extant; to
+what purpose was that, if you misliked it?
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Your Lordship shall yet see further
+a Letter of the Bishop of <font>Rosse</font> , written to the
+<font>Scotish</font> Queen, wherein the whole Plot and Course
+of the Treason is plainly set out at large; the
+Letter came to the <font>Scotish</font> Queen's hands while
+my Lord Steward was there, which my Lord
+Steward affirmed. </dialogue><nonSpeech>So the Letter was read.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> The Bishop of <font>Rosse</font> is no sufficient
+Witness against me, for the Causes that I have
+declared.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> I leave his Credit to my Lords here
+to consider, let them weigh it as they see cause.
+Now come to consider your own Doings: since
+<pagebreak id="108C1" />
+your last Imprisonment, Letters have been
+conveyed unto you, and you have sent Letters
+abroad, by many subtle and secret Ways of
+Conveyance. One Letter you sent out, written with
+Red-Ocre, wherein plainly appeareth that you
+feared the Matter, and that something was
+confessed, and that you were afraid of more; you
+willed the Bishop of <font>Rosse</font> should take all upon
+him, because he was an Embassador, and that a
+Bag of Writings should be sought out and burned.
+
+   </dialogue><nonSpeech>Here the Letter written in Red-Ocre was read,
+which the Duke confessed to be his own.</nonSpeech>
+   <nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> This Letter gave occasion to seek the
+Bag, and so were the Writings found under Boards
+fast nailed, and thereby was understood that
+<font>Quarante</font> was the Duke; and so by God's Work broke
+out the whole Practice of the Treason. This
+Letter was directed to no body.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> It was written to <font>Bayly</font> , and <font>Bayly</font>
+received it. I can answer this Letter well enough.
+Here I am charged with two Matters, for matter
+of my Confessions, and for burning the Bags of
+Letters. As for that which is there said, that I
+confessed nothing but what I saw confessed by
+others, the truth is, I received a Letter, wherein
+I was charged, that I had accused some falsly. I
+wrote to satisfy, that I had not accused any of any
+matter of Treason, nor could if I would; and this
+was the meaning of that Part of my Letter.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Where is the Letter whereby you were
+charged that you had accused falsly?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I kept it not; think you I would keep
+Letters? Burned Letters do not hurt. As for
+burning the Writings in the Bag, it maketh
+nothing against me in this Case; for they were
+nothing but private Letters of the <font>Scotish</font> Queen's,
+written before, and when I was last in Trouble,
+long before this Matter. At <font>Bannister's</font> coming
+up at <font>Easter</font> last, he brought them to me, and I
+willed <font>Barker</font> to lay them up: What needeth such
+searching for elder Matters? I bad them be made
+away, for they were but private Matters between
+the <font>Scotish</font> Queen and me.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> There was the Letter that disclosed
+you to be <font>Quarante</font> , whereby the Treason was
+known: now here is also another Letter of your
+own, which you secretly sent out of the <font>Tower</font> ,
+which sheweth your Guiltiness in the matter of
+the great Treason with <font>Rodolph</font> .
+
+   </dialogue><nonSpeech>Here the Duke's other Letter was read.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> This was only, as I have declared before,
+for my Conference with <font>Rodolph</font> , for the matter of
+Money, both touching mine own Recognizance,
+and procuring of Money for the <font>Scotish</font> Queen, for
+her Necessity.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> By the whole course of the Matter
+that goeth before, it is for the Treason, and not
+for the Money.
+   Here is also another Letter of your own, which
+carrieth manifest Presumptions of the Treason,
+where, among other things, you will <font>Barker</font> to
+confess no further, if he love his Life; besides other
+most manifest suspicious Matters.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I wrote it not in respect of any fear that
+<font>Barker</font> could hurt me, when I willed that <font>Barker</font>
+should confess no more, as he loved his Life: For
+indeed he might touch himself in Treason, (as he
+hath done) but not me, for I never consented to it.
+   </dialogue><nonSpeech> <font>Attorney.</font> </nonSpeech><dialogue> Now shall you see how the Matter
+proceeded further: After the dispatch of <font>Rodolph</font> ,
+<pagebreak id="108C2" />
+in <font>Lent</font> last, as he had made shew before, that he
+intended to go over Sea, and was all this while
+practising about this Treason; at length being
+frighted with these Messages, he came to sue to
+the Queen's Majesty for a Pass-port, which was
+granted him, and he carried over two Geldings
+with him, which is evident Proof that he went
+over. Now shall you see what effect it took, and
+by the Answer you shall discern the Message and
+Practice: Being beyond the Sea, and having done
+his Message, he sent advertisement to the Duke
+how he sped, and likewise from the Pope; which
+plainly discloseth the whole Purpose and Plot of the
+Treason, as shall be declared unto your Lordships.
+
+   </dialogue><nonSpeech>Here began Mr. Sollicitor.</nonSpeech><dialogue>
+<comment type="compiler">SOLICITOR'S LONG SPEECH, AND REFERENCE TO BAYLY'S LETTER 
+AND CONFESSION OMITTED.</comment>
+<pagebreak id="109C2" />
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> Now you see to what End the Effect of
+the Message tended; you see what it was, and how
+it was done; you see how it was receiv'd, and the
+Duke of <font>Alva's</font> Questions upon it: now you shall
+see the Contents of the Answer, by the Examinations
+of the Bishop of <font>Rosse</font> , and <font>Barker</font> ; the receipt of the
+Letters of Answer the Duke himself hath confessed.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Where they say this Message was sent by
+my Privity, by reason that I was meant by 40, I
+deny it; I never wrote by <font>Rodolph</font> , I refus'd to do
+it, I knew not his Letters were to me, but as
+<font>Barker</font> said: And it was not likely they should be
+to me; for it was a Matter which I was not
+privy of, and in a Cypher which I had not; <font>Rodolph</font>
+left no Cypher with me. As for the taking of
+the Pacquet, I knew nothing of it; the Letter I
+never saw in Cypher; <font>Barker</font> brought me a Decypher,
+telling me, That 40 was for me, and 30 for the
+Queen of <font>Scots</font> . When he told me first he had the
+Cypher, I ask'd what I should do with it, and how
+I should read it, having no Cypher? <font>Barker</font>
+answered, that it was left with <font>Gutbert</font> ; for <font>Rodolph</font> ,
+at his departure, had told him, That he would
+write answer of the Money for the <font>Scotish</font> Queen,
+and that he would leave the Cypher with <font>Gutbert</font> ;
+and that he had so done, and in the Letters
+decyphered did appear, that the Duke of <font>Alva</font> had
+promised aid of Money for the <font>Scotish</font> Queen for
+her Necessities; but he could not yet do it for
+want of Commission, but as soon as he had
+Commission he would. When I heard of this, I
+mislik'd this dealing with the Duke of <font>Alva</font> , having
+before refus'd to write to him in the Matter at
+<font>Rodolph's</font> Request; and I threatned <font>Barker</font> if he
+so dealt any more with me. The Letters might
+be to me, as <font>Barker</font> said; but I knew not so much.
+<pagebreak id="110C1" />
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> This your Answer is in all no more than
+a bare denying, and so be all your Speeches, all
+upon your own Credit only.
+
+   </dialogue><nonSpeech>Here was read <font>Barker's</font> Confession, ad 2. &amp; 3.
+concerning <font>Rodolph's</font> Letters in Cypher, and the
+Decyphering by <font>Gutbert</font> , and the Port where the
+<font>Walloons</font> should have landed, <font>&amp;c.</font>
+   Then was read the Bishop of <font>Rosse's</font> to the 12
+and 13, to the same effect.
+
+   Then Mr. Sollicitor recited again the Effect of
+the Letters, and the said Confessions of <font>Rosse</font> and
+<font>Barker</font> , and proceeded further thus:</nonSpeech><dialogue>
+   You see all these agree in one concerning the
+Contents of the Letter; now the Letter being
+decyphered by <font>Gutbert</font> , and <font>Gutbert</font> being able to
+discover the whole, this <font>Gutbert</font> , when he was sent
+for by the Council, was convey'd away by the
+Duke's means, as the Duke himself hath confessed.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> It may be that <font>Barker</font> received this Letter
+as you spake of, and that <font>Gutbert</font> decyphered it,
+and that it contain'd the Matters that you alledge;
+it may be that they kept that Letter still to
+themselves, and might bring me another Letter,
+containing only such Matter as I was contented with,
+containing the private Cause.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> An unlikely matter; but thus you see the
+Duke confesseth the receipt of the Letter, he only
+denieth that it was to this effect. It was confessed,
+that a Letter to this effect was written to 40; he
+also confesseth, that 40 was for the Duke himself.
+   The Duke of <font>Alva's</font> Questions prov'd the form
+of the matter; the Duke read that Letter.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I read not that Letter, but of another
+Matter, and you bring but one Witness to prove it.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> There be two Witnesses, <font>Barker</font> and the
+Bishop of <font>Rosse</font> , severally examined, who agreed
+directly, expressing it. And <font>Bayly</font> also wrote the
+Letter himself containing the Treason, and not
+knowing to whom the Letter was directed,
+accordeth with them.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Barker</font> and <font>Gutbert</font> might make the Letter
+themselves, and put in and out what they list.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> Why did <font>Rodolph</font> write you any Letter at
+all?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I know not. <font>Barker</font> presented me the
+Letters out of Cypher, and I had not the Cypher,
+nor saw any such Letter as you alledge.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> It appeareth further, how after this
+dispatch with the Duke of <font>Alva</font> , <font>Rodolph</font> went
+forward on his Message to the Pope; and having also
+good Success there, he so advertis'd again. The
+Pope sent Letters to the Duke and the <font>Scotish</font>
+Queen, to this effect, That he liked well of their
+Enterprize, <font>&amp;c.</font>
+   Would <font>Rodolph</font> have gone to the Pope and
+procur'd Letters, if he had not had Instructions
+accordingly? The Duke himself hath confessed such
+a Letter, conceived there came two Letters, both
+of one Tenour; the one by the way of <font>France</font> , the
+other by the way of <font>Flanders</font> : the effect you have
+heard, and the receipt is confessed.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Barker</font> indeed brought me about six or
+seven Lines, written in a Roman Hand in <font>Latin</font> ,
+beginning thus, <foreign>Dilecte fili salutem</foreign> . I asked what
+it was? And <font>Barker</font> told me, it was a Letter from
+the Pope to me: Wherewith I was offended, and
+said, A Letter to me from the Pope! What
+have I to do with him, that is Enemy to my
+Religion and Country? How cometh this to pass? So
+I received it, and not otherwise: and <font>Barker</font>
+excus'd it, and said, That <font>Rodolph</font> had procur'd it for
+his own Credit.
+<pagebreak id="110C2" />
+   </dialogue><nonSpeech>Here was read <font>Barker</font> , ad 29.</nonSpeech>
+   <nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> Thus you see the Effect of this Letter,
+and how this was directed to the Duke from
+<font>Rodolph</font> , also by the name of 40, decyphered by
+<font>Gutbert</font> , and delivered to the Duke by <font>Barker</font> . The
+Duke received it and read it, and said, <font>Rodolph</font> hath
+been at <font>Rome</font> , I perceive there will nothing be
+done this year. By this appeareth, that he
+reproved not <font>Barker</font> at all for bringing it unto him,
+for <font>Barker</font> brought it him twice: Would he have
+brought it him the second time, if the Duke had
+been angry with him for it at the first?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I knew not at the first time what it was,
+for it was in Cypher.
+
+   </dialogue><nonSpeech>Then was read <font>Barker's</font> Confession to the 8th.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Barker</font> is not of Credit, he accuseth me
+falsly.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> He was your Servant, and of near Place
+and Credit about you; why should he accuse you
+wrongfully?
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> He was not of Credit about me; for I
+us'd him not this fourteen years.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> This is not so, as hath well appeared.
+Besides this, the conveying away of <font>Gutbert</font> ,
+which was done by your means, and who
+decyphered this Letter, and could have disclosed the
+Matter, proveth a great Guiltiness in you.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> He was convey'd away at his own request
+made, and not for my Safety.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> You caused him to be convey'd away, and
+were privy to his conveying.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> <font>Barker</font> removed him; indeed I was not
+privy.
+   </dialogue><nonSpeech> <font>Sollic.</font> </nonSpeech><dialogue> You moved <font>Bowes</font> to join with <font>Barker</font> to
+do it.
+   </dialogue><nonSpeech>Then Mr. Sollicitor said further to the Peers,</nonSpeech><dialogue>
+I have also, my Lords, one thing more to say to
+you from the Queen's Majesty's own Mouth: The
+Lords that be here of the Privy Council do know
+it very well, not meet here in open Presence to
+be uttered, because it toucheth others that are not
+here now to be named; but by her Highness's 
+Order, we pray that their Lordships will impart
+it unto you more particularly. In <font>Flanders</font> , by the
+Embassador of a foreign Prince, there the whole
+Plot of this Treason was discovered, and by a
+Servant of his brought to her Majesty's Intelligence;
+the Minister not meaning to conceal so foul and
+dishonourable a Practice, gave Intelligence hither
+by Letters, and hath therein disclosed the whole
+Treason in such Form as hath here been proved
+unto you: Wherefore I refer the more particular
+Declaration thereof to the Peers of the 
+Privy-Council.
+   </dialogue><nonSpeech>Then began Mr. <font>Wilbraham</font> , Attorney of the 
+Wards, and said to this effect.</nonSpeech><dialogue>
+<comment type="compiler">LONG SPEECH OF WILBRAHAM, RECOUNTING ALL THE 
+EVIDENCE AGAINST THE DUKE, OMITTED.</comment>
+<pagebreak id="113C2" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I shall hardly come, after so smooth a Tale
+as Mr. Attorney of the Wards can tell; yet one
+good Proof I have to my Comfort, that they be as
+please your Lordships to weigh them. If you
+would not have dealt thus untruly with me, I
+would not have taken exception against them,
+tho I chiefly challenge none but <font>Barker</font> , in whom
+you may see what Fear may do; besides that
+they have confessed themselves Traitors, and so
+Men of no Conscience or Credit. It is well known
+that <font>Barker's</font> Stomach is nothing; he hath been
+known well enough; Fear hath done much in him.
+The Bishop of <font>Rosse</font> is also a fearful Man. As
+touching <font>Barker</font> and the Bishop of <font>Rosse</font> , <font>Bracton</font>
+hath a Saying, That Witnesses must be Freemen
+and not Traitors, neither outlawed nor attainted.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> None of them be outlaw'd, attainted, or
+indicted.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I mean not that they were indicted, but
+they be in as ill Case, for they have confessed
+themselves Traitors. He saith also, they must be
+<font>Legales</font> , lawful Men, and so cannot Strangers be,
+as the Bishop of <font>Rosse</font> and <font>Rodolph</font> ; it is these
+Strangers that charge me only, the other having dealt
+so disloyally, and confessed it against themselves,
+are not to be believ'd. As for <font>Barker</font> , I have not
+us'd him for my Secretary these thirteen years:
+he entred with the Bishop of <font>Rosse</font> , and dealt with
+him in these Matters against my Knowledge.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> <font>Bracton</font> indeed is an old Writer of our Law,
+and by <font>Bracton</font> he may be a Witness; a Stranger, a
+Bondman may be a Witness: Ask you all the Judges
+here. </dialogue><nonSpeech>And the Judges affirmed that he may.</nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> If a Stranger be to give Evidence
+whereby Lands should be recovered, you shall not
+recover upon that Evidence given by a Stranger.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> This were a strange Device, that
+<font>Scots</font> might not be Witnesses; for so, if a Man
+would commit Treason, and make none privy but
+<font>Scots</font> , the Treason were unpunishable; and so
+were a kind of Men found out, with whom a
+Man might freely conspire Treason.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> You say my Indictment is only upon the
+Statute of 25 <font>Edward</font> III. that Statute standeth
+upon three points, compassing the Death of the
+Prince's Person, levying of War against the Prince,
+and aiding of the Prince's Enemies; and all these
+must be prov'd Overt-fact. If by any way, by any
+Overt-fact, you can prove that I have directly
+touch'd the Prince's Person, or done any of the said
+things that the Statute extendeth to, I will yield
+my self guilty. If any thing be doubtful, the
+Statute referreth it to the Judgment of the Parliament.
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> Usage is the best Expounder of the Law,
+that is, the common Use how the Statute hath been
+taken and expounded; and the same Statute is but
+the Declaration of the common Law.
+<pagebreak id="114C1" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> The Preamble of the Statute is to bring
+the Laws of Treason to a certainty, that Men
+may certainly know what is Treason.
+   </dialogue><nonSpeech> <font>Attorney-Gen.</font> </nonSpeech><dialogue> You complained of your close
+keeping, that you had no Books to provide for
+your Answer: it seemeth you have had Books
+and Counsel, you alledge Books, Statutes, and
+<font>Bracton</font> ; I am sure the study of such Books is not
+your Profession.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I have been in Trouble these two Years,
+think you that in all this time I have not had cause
+to look for my self?
+   </dialogue><nonSpeech> <font>Attorney-Gen.</font> </nonSpeech><dialogue> But if you stand still upon proof,
+whether you have done any thing to the
+Destruction of the Prince's Person, if the Lords,
+upon the Evidence already produc'd, do think the
+Matters true in Fact that are already alledg'd
+against you, surely the same must needs be
+constructed a compassing of the Queen's Death; for the Law
+of Treason hath ever been largely construed for
+the Prince's safety. Think you that practising
+to levy War within the Realm is not Treason?
+Yes indeed it is; and a compassing of the Prince's
+Death. Sir <font>William Stanley's</font> Case was this: He
+did but send <font>Clifford</font> over Sea, to hearken and send
+him word what <font>Perkin Warbeck</font> was; that if he
+thought <font>Perkin</font> was such a Man as he was said to
+be, he would take his part. This was <font>Stanley's</font>
+Case, and this was judged Treason, and a 
+compassing of the King's Death.
+
+   </dialogue><nonSpeech>Here was read <font>Barker's</font> Confession the 6th of
+<font>November</font> .</nonSpeech>
+
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I never dealt with that Money, nor heard
+of it; I dealt not at that time with <font>Barker</font> , nor
+heard any thing of the Rebels, since they went into
+<font>Flanders</font> .
+   </dialogue><nonSpeech>Then was read the Bishop of <font>Rosse's</font> Confession of
+the same Matter, 6 <font>November</font> , ad 5.
+   And again <font>Rosse</font> , 6 <font>November</font> , Fo.
+   Also <font>Rosse</font> 29, of 1700 Crowns sent by <font>Moreton's</font>
+means, and what <font>Moreton</font> was.</nonSpeech>
+
+   <nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> You hear how the Money was
+procured; how it was distributed by the Duke's
+Order, and Thanks written by the Countess of
+<font>Northumberland</font> for the receipt of it, which was also
+declared to the Duke. You shall hear, that after
+the Practice of the Marriage, it was a general
+Rule between the <font>Scotish</font> Queen and the Duke,
+That the Bishop of <font>Rosse</font> should never propone to
+the Queen's Majesty's Council, nor deal in any
+great Matter, but by the advice and directions of
+the Duke of <font>Norfolk</font> .
+
+   </dialogue><nonSpeech>Here was read, for the proof thereof, the Bishop
+of <font>Rosse</font> .</nonSpeech>
+
+   <nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> This is a plain Course.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> What doth this make against me?
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> That he follow'd his Commission,
+that he kept his manner of Conference
+continually, and that according to that use, the Money
+was distributed by your Directions.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> He dealt not with me in a great time, and
+I can tell when he broke off and dealt no more
+with me; I was never privy to the distribution of
+the Money, nor I never spake with <font>Barker</font> about
+it; I was in the Tower at that time.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> That was when you were not in
+the <font>Tower</font> ; they lurked in <font>Flanders</font> a while in
+great necessity, without Apparel, and suddenly,
+with this Money, they were waxed gay; and
+<pagebreak id="114C2" />
+these Men have confessed that it is distributed by
+your Order and Direction.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> None accuse me but three, one absent,
+a Stranger, and a Traitor.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 7">
+<dialogue>
+<pagebreak id="115C1" />
+<comment type="compiler">EXAMINATIONS OF HICKFORD AND BANNISTER READ.</comment>
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> Thus it appeareth, that those the
+<font>Scotish</font> Queen's Friends in <font>Scotland</font> , for whom she
+sorrowed and feared their yielding, were the
+Queen's Majesty's Enemies; and how to those the
+Duke adhered, those he comforted, for those he
+procured the comfortable Letters to be sent, as
+you have heard.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I confess it, that I caused the Letters to
+be sent, but that I procured the Letters to be
+written, I remember not; but therein I trust
+<font>Bannister's</font> Memory.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> Now for sending Money to relieve 
+the Queen's Majesty's Enemies, and touching the
+6000 <font>l.</font> the <font>French</font> Embassador had 14 hundred
+Crowns ready to relieve them, which he sent to
+the <font>Scotish</font> Queen, to know how it should be
+bestowed. She would have had the Duke to make it
+up three thousand Crowns; she sent one thousand
+more her self, and referred the Direction of all to
+the Duke himself. The Duke having the chief
+Charge of all, willed two thousand Crowns to be
+conveyed to the Queen's Majesty's Enemies in
+<font>Scotland</font> . The Bishop of <font>Rosse</font> had devised, that it
+should be sent sewed in <font>Panton's</font> Doublet. The
+Duke was made privy to it on the <font>Sunday</font> after
+<font>Bartholomew-Day</font> : because <font>Panton</font> was a <font>Scot</font> , and
+like to be searched, this Device was misliked, so
+was the Money delivered to <font>Brown</font> of <font>Shrewsbury</font> ;
+and so he rehearsed the manner of the delivery
+to <font>Brown</font> , and the Letters in Cypher, as it was
+afore rehearsed by Mr. Attorney-General.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I received the Money at <font>Thambour's</font> hands; 
+I was not by at the writing of the Letter in
+Cypher.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> I said not so.
+
+   </dialogue><nonSpeech>Then was read the Letter to <font>Bannister</font> : You 
+shall receive in a Bag by this Bearer, <font>&amp;c.</font> </nonSpeech>
+   <nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I do not deny the conveying of the
+Money; but it never came to the Queen's Enemies
+hands.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> It was out of your Possession; <font>Panton</font>
+was sent before to receive the Money.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Not of my knowledge. And as for
+<font>Grange</font> and <font>Ledington</font> , I have not heard they were
+the Queen's Enemies.
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> That is no matter; for the
+Indictment is generally of the Queen's Enemies,
+and you know the Money went to the Lord
+<font>Harris</font> .
+<pagebreak id="115C2" />
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Lord <font>Harris</font> was not appointed to have
+any part of it. 
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> That is no matter, it was a
+comfort to him, being the Queen's Enemy, to be the
+Factor, and to have the Countenance and
+Distribution of it at his pleasure: Beside that, you
+may be sure he would not let all pass without some
+share to himself.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> May a Subject be the Queen's Majesty's 
+Enemy, while the Prince is her Friend, and in
+Amity with her?
+   </dialogue><nonSpeech> <font>Catlin.</font> </nonSpeech><dialogue> In some cases it may be so: As in <font>France</font> ,
+if the Dukedom of <font>Britany</font> should rebel against the
+<font>French</font> King , and should (during the Amity
+between the <font>French</font> and Queen's Majesty) invade
+<font>England</font> , those <font>Britons</font> were the <font>French</font> King's
+Subjects, and the Queen's Enemies, though the
+<font>French</font> King remaineth in Amity; and so in your
+Case.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> Where was the Proclamation made?
+   </dialogue><nonSpeech> <font>Wilbraham.</font> </nonSpeech><dialogue> The Proclamation was made in
+<font>England</font> , and here it is to be shewed; but the War
+it self is sufficient Proclamation. The Queen's
+Army was sent against him, and the Queen is not
+otherwise bound to proclaim.
+   </dialogue><nonSpeech> <font>Duke.</font> </nonSpeech><dialogue> I trust my Lords the Peers will have
+Consideration of me, who they be that accuse me, 
+the Bishop of <font>Rosse</font> and Strangers; and the rest
+over-reach'd in Treason themselves.
+   </dialogue><nonSpeech>The Lord Steward ask'd if they had ought else
+to say.</nonSpeech>
+   <nonSpeech>The Duke said,</nonSpeech><dialogue> I trust to God and my Truth.
+   </dialogue><nonSpeech>Then the Prisoner was withdrawn.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

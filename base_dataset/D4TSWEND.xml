@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4TSWEND">
+  <dialogueHeader>
+
+    <filename>D4TSWEND</filename>
+
+    <identifier>4 TRIAL D4TSWEND</identifier>
+
+    <title>HAAGEN SWENDSEN</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1702/1703</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYALS OF HAAGEN SWENDSEN, SARAH BAYNTON, JOHN HARTWELL
+AND JOHN SPURR. FOR FELONIOUSLY STEALING MRS PLEASANT RAWLINS, A 
+VIRGIN AND HEIRESS OF A CONSIDERABLE FORTUNE: WITH AN INTENT TO CAUSE 
+AND PROCURE THE SAID PLEASANT RAWLINS AGAINST HER WILL, TO MARRY THE 
+SAID HAAGEN SWENDSEN. AT THE QUEENS BENCH BAR AT WESTMINSTER, NOV. 25. 
+1702.
+BEFORE THE RIGHT HONOURABLE THE LORD CHIEF JUSTICE HOLT, AND THE REST 
+OF THE JUDGES OF THE SAID COURT, OF WHICH FACT THE SAID HAAGEN
+SWENDSEN AND SARAH BAYNTON WERE FOUND GUILTY, AND THE SAID SWENDSEN
+WAS EXECUTED FOR THE SAME, DECEMB. 9TH FOLLOWING. THE SAID BAYNTON
+BEING WITH CHILD WAS REPRIEVED AFTER SENTENCE.
+LONDON, PRINTED FOR ISAAC CLEAVE NEXT SERJEANTS INN IN CHANCERY-LANE. 
+1703.
+PP. 3.27 - 12.8
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+     
+
+<pagebreak id="3" />
+<nonSpeech>Then Mr. <font>W. Busby</font> is called for and Sworn. He is asked,</nonSpeech><dialogue> Do   
+you know Mrs. <font>Pleasant Rawlins</font> ?
+   </dialogue><nonSpeech> <font>Mr, Serg. Darnel.</font> </nonSpeech><dialogue> Give an Account of her.
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> She is the Daughter of <font>William Rawlins</font>       
+Deceased, who left his Estate to Dr. <font>Bright</font> and 
+my self, to be sold for payment of his Debts and Legacies, and left  
+the surplusage to his Daughter, 
+which is about 2000 <font>l.</font>
+   </dialogue><nonSpeech> <font>Mr. Serg. Darnel.</font> </nonSpeech><dialogue> What Lands has she?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> She has 20 <font>l.</font> a Year.
+   </dialogue><nonSpeech> <font>Mr. Serg. Darnel.</font> </nonSpeech><dialogue> What Age is she of?
+   </dialogue><nonSpeech> <font>Busby,</font> </nonSpeech><dialogue> She is near Eighteen.
+   </dialogue><nonSpeech> <font>Mountague,</font> </nonSpeech><dialogue> Was she ever Married, or no?
+   </dialogue><nonSpeech> <font>Busby,</font> </nonSpeech><dialogue> She was unmarried.
+   </dialogue><nonSpeech>Then Mrs. <font>Sabina Busby</font> was called and Sworn, as also Mrs.   
+<font>Nightingale</font> .</nonSpeech>
+   <nonSpeech> <font>Swendsen.</font> </nonSpeech><dialogue> My Lord, I beg the favour that only one       
+Witness be heard at a time.
+   </dialogue><nonSpeech> <font>Mr. Sol. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Nightingale</font> , Do you know Mrs.   
+<font>Pleasant Rawlins</font> , and Mrs. <font>Busby</font> ?
+   </dialogue><nonSpeech> <font>Nightingale,</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> Have they lodged at your House?                 
+</dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> How long? </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue>     
+Above three Years.
+   </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> Have you any knowledge of Mrs. <font>Baynton</font> ?      
+</dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> How came you acquainted with   
+her?
+   </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> One Mrs. <font>St. John</font> came to me to know whether 
+I took Boarders? I said, I had taken some, but 
+would take no more, unless it were the same Ladies again.
+   </dialogue><nonSpeech> <font>L. C. J. H.</font> </nonSpeech><dialogue> Who was it came to you?
+   </dialogue><nonSpeech> <font>Nightingale,</font> </nonSpeech><dialogue> One Mrs. <font>St. John</font> .
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Nightingale</font> speak out that my Lord   
+may hear you.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did Mrs. <font>Busby</font> lodge with you?
+   </dialogue><nonSpeech> <font>Nightingale,</font> </nonSpeech><dialogue> Yes my Lord, we were very intimate before, 
+and since it pleased God to take away
+her Husband, I was pleased with her, and very willing to take her    
+into my House. 
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Acquaint his Lordship how Mrs. <font>St. John</font>   
+came to you.
+   </dialogue><nonSpeech> <font>Nightingale.</font> </nonSpeech><dialogue> Yes, my Lord, as near as I can. She came   
+to me and ask'd me, If I took Boarders? 
+I told her No, I would take none except it were those Ladies I had   
+before, She told me she had an 
+Acquaintance that was a Widow Lady that came out of <font>Wiltshire</font> ,  
+about a Suit of Law, and 
+would be in a very sober Family near a Church; but however I deny'd  
+her Lodgings, and did expect to 
+hear no more of her; but about three Weeks or a Month after she came 
+to me again, and asked me 
+whether I had altered my Resolution?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Go on.
+   </dialogue><nonSpeech> <font>Nightingale.</font> </nonSpeech><dialogue> My Lord, Mrs. <font>St. John</font> said, that the  
+Lady was come to Town on the <font>Saturday</font> 
+Night before, very much Indisposed in her Journey. I asked her       
+whether she knew this <font>Baynton</font> or 
+no. Mrs. <font>St. John</font> said Yes, she was very Intimate in the Family, 
+and she said a great deal more of 
+her, which I cannot remember. She said also, that she would have     
+Boarded her her self, and would 
+have been glad of her Company if she had had Conveniences for her.   
+Then she asked me, whether 
+she should come her self and give her own Character? We thought no   
+harm, she being a Woman, 
+and not a Man. She further said, that Mrs. <font>Baynton</font> had been a    
+Maid whom I knew, and she 
+believed she would take her. I enquired of another who lived in the  
+<font>Mews</font> , if he knew Mrs. <font>Baynton</font> ,
+he said Yes, and that she came of a good Family. At length she came  
+and made a very modest 
+Appearance in her Behaviour and Garb. She said to me, that I was     
+very curious in taking Boarders, 
+and for that she liked me the better. I consented she should come.   
+She asked me what I would have 
+a Week? I told her twelve Shillings for her self and ten Shillings   
+for her Maid. She concluded to 
+come on the <font>Wednesday</font> following, which she did with her Maid, a  
+modest Girl and a Neighbour,  
+which gave me the more Encouragement. She carried her self very well 
+till <font>Michaelmas-day</font> <comment type="compiler">NO ITALICS IN SOURCE TEXT FOR day</comment> at 
+Night, when we heard of her New Brother; she seem'd Elevated at the  
+News, and fell into 
+Convulsion Fits, which I believed were real Fits. She said she had a 
+dear Brother, a good Christian, and he would 
+come on the Morrow; when he came he brought two Gentlewomen with     
+him, very Modest, which I 
+never saw before, nor since. Mrs. <font>Baynton</font> made a Pot of Coffee,  
+and sent for a Bottle of Wine, and 
+she told her Brother before me, what good Lodgings she had, and said 
+she wished he would come and 
+<pagebreak id="4" />
+Lodge near them, for she knew he had but a puney Stomach, and        
+believed he would like her Victuals; 
+he said it was not convenient for him because his Business called    
+him every Day to the Change; she 
+said also there was a Bowling Green near them, where he might divert 
+himself, but all would not 
+do. She asked me what I would have a Meal if her Brother should come 
+at any time. I said, when 
+I had other Ladies, if any of their Friends came I had twelve Pence  
+a Meal of them. On <font>Friday</font> he 
+came. I went to Church, and left them together at Cribbage, as I     
+found them at my return.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What Day of the Week was this?                 
+</dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> The <font>Friday</font> before the Sacrament: Mrs. <font>Baynton</font>
+said to Mr. <font>Swendsen</font> , before Mrs. <font>Busby</font> , you have an       
+extraordinary hand at making Punch, so they 
+agreed to make a Bowl the <font>Mundy</font> following; but Mrs. <font>Rawlins</font>  
+hardly drank any, she not liking 
+any strong Liquors. After this, she told me, her Brother was very    
+ill of his Journey, being lately 
+come out of the Country, tho' I don't understand he was in't. The    
+<font>Munday</font> before <font>Michaelmas</font> Day 
+we were at Dinner with two more than our Family, when Mrs.           
+<font>Baynton</font> said, she had an Interest in a 
+<font>Norway</font> Ship, and invited us all Aboard; but he, <font> <foreign>viz.</foreign> </font>   
+Mr. <font>Swendsen</font> , did not come to our House till 
+four Days after; but on <font>Friday</font> we concluded to go on             
+<font>Saturday</font> ; there were Eight of us in Company in all, 
+Mrs. <font>Rawlins</font> , Mrs. <font>Busby</font> , I and my Daughter. and Mr.       
+<font>Ball</font> another Lodger, belonging to the Exchequer; 
+we went, and had much Discourse; after having drank a Glass of Wine  
+the Cloth was laid, and the 
+Master offered a Bowl of Punch; says Mr. <font>Swendsen</font> , <font>Ladies, I  
+would please you all, and leave you all to 
+your Liberties to drink what you please</font> .
+   </dialogue><nonSpeech> <font>L. C. J. H.</font> </nonSpeech><dialogue> Is this Person Mrs. <font>Bayntons</font> Brother?
+   </dialogue><nonSpeech>Mrs. <font>Night.</font> </nonSpeech><dialogue> This is he that went for her Brother.
+   </dialogue><nonSpeech> <font>L. C. J. H.</font> </nonSpeech><dialogue> Whereabouts is your House?
+   </dialogue><nonSpeech> <font>Nightingale,</font> </nonSpeech><dialogue> Near <font>Tuttle-fields</font> .
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> This Mrs. <font>Baynton</font> came to you under    
+the Character of a Country Lady on a Law
+Suit; do you understand that she was so?
+   </dialogue><nonSpeech>Mrs. <font>Nightingale.</font> </nonSpeech><dialogue> My Lord, she said she came from the    
+<font>Bath</font> .
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> You misapprehend the Question, Do you         
+understand that her pretence was true or not?
+   </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> I enquired of several Persons who acquainted me  
+that the <font>Bayntons</font> lived in <font>Wiltshire</font> ; but it 
+was not long before we began to suspect her, for there seemed to be  
+an extraordinary Love between 
+her and <font>Swendsen</font> , more than is usual between Brother and        
+Sister. I said, Madam, I wonder you don't 
+marry your Brother. She said, she thought that 'twas not lawful. I   
+said there was such a thing done 
+in <font>Westminster</font> , of a Mans marrying two Sisters.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Pray call to mind what time it was that you   
+first gave notice to her that she should not 
+continue in your Lodgings. </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> When I first mistrusted  
+her, I gave notice of it in my Family; but we 
+being all Women, and fearful of her, thought not fit to give her     
+warning till her Month was up; but 
+before that, she came to me, and told me, and said, Mrs.             
+<font>Nightingale</font> , I have received a Letter from 
+my Sister <font>Baynton</font> in the Country, which informs me, that the     
+Trustees will agree, and so I design to 
+return when my Month is up, for this Town is very chargeable. Very   
+well said I, for I expect some 
+Ladies very shortly. I went down to my Family and exprest my Joy to  
+them, and said, I was very 
+glad Mrs. <font>Baynton</font> had prevented me, for if she had not given me  
+warning, I would have given her 
+Warning, for I resolved she should not stay.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Nightingale</font> , it seems you had       
+notice of Mrs. <font>Bayntons</font> ill Carriages; Did you take any 
+notice of it to her self? </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> No, I did not, but I gave 
+the Maid notice as soon as I suspected any 
+thing. </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know whether the Maid had told any 
+thing to her or not? </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> The 
+Maid said to her, Madam, Don't you see a strangeness in the Family?  
+Yes, said she, I can see and 
+bear a great deal, but when I am rouzed I'll be like a Lion.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How long was this before Mrs. <font>Rawlins</font> was 
+taken away?
+   </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> I can't prefix the time, but it was before she   
+gave me warning.
+   </dialogue><nonSpeech> <font>L. C. J. H.</font> </nonSpeech><dialogue> Was she gone from your House before this    
+thing happen'd.
+   </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> No, my Lord, she told me on <font>Wednesday</font> that   
+her time was out; but said, there is a Fellow 
+in Town that I fear will cheat me, and I am taking out a Statute of  
+Bankrupcy against him, which I 
+think will cause me to stay in Town a Week longer; she also told me, 
+she had taken a place in the 
+Coach to go on <font>Thursday</font> , but must lose her Earnest, for this    
+Business would detain her a 
+Week longer.
+   </dialogue><nonSpeech>Mr. <font>Raymond.</font> </nonSpeech><dialogue> Did you ever observe they were together in  
+private?
+   </dialogue><nonSpeech> <font>Night.</font> </nonSpeech><dialogue> No, my Lord, we never had any suspition of Mr.   
+<font>Swendsen</font> , but of the Woman; for she could 
+put on all manner of Disguises.
+</dialogue><nonSpeech> <font>Mrs.</font> Busby <font>being called she is Sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mrs. <font>Busby</font> , pray do you know Mrs.        
+<font>Rawlins</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> Yes, I do.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How came you first acquainted with her?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> My Brother <font>Busby</font> was one of her Guardians,   
+and put her under the Care of my Husband, 
+while he was living, which was four Years ago this <font>Christmas</font> .   
+She came to us by the consent of her 
+Guardian.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> At what place did you Lodg?
+   </dialogue><nonSpeech>Mrs. <font>Busby.</font> </nonSpeech><dialogue> We lived in <font>Stretton-Grounds</font> , but since 
+my Husband died, which is three Years last <font>July</font> ,
+I left House-keeping, and then we went and lodg'd at Mrs.            
+<font>Nightingale's</font> .
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How long have you continued at Mrs.           
+<font>Nightingales</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> We have continued there ever since.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know Mrs. <font>Baynton</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> Yes, I do, she lodg'd at Mrs. <font>Nightingales</font> .
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Was there any body who used to come to her    
+there?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> None except a <font>Change</font> Woman.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Do you know any thing of Mr. <font>Swendsen</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> Sir, The first of his coming to Mrs.             
+<font>Nightingales</font> was the Day after <font>Michaelmas</font> Day. Mrs. 
+<font>Baynton</font> said, that she had a Brother that was to come to Town,   
+which he did the Day after, with two 
+Gentlewomen, which I never saw, either before or since; but Mr.      
+<font>Swendsen</font> after this came several times 
+to her as her Brother, her Sisters Husband, and she desired that he  
+might Dine with her sometimes; 
+for which she agreed with Mrs. <font>Nightingale</font> at 12 <font>d.</font> <font>per</font>  
+Meal.
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> Was this Mrs <font>Rawlins</font> at any time in private 
+with <font>Swendsen</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> Never that I know of in all my Life, we were     
+always in Company together when 
+he Dined there, and the times that he Dined there, we computed to be 
+9 or 10, he was there 
+sometimes when we were not at home.
+   </dialogue><nonSpeech> <font>Sol G.</font> </nonSpeech><dialogue> How did Mrs <font>Baynton</font> behave her self when she 
+was at Mrs <font>Nightingales</font> ?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> We thought very well of her, till at last we     
+discerned too much freedom between Mr. 
+<font>Swendsen</font> and her self, we suspected her Vertue, and thought she  
+would Drink, and were informed 
+she would Swear, she said she must stay in Town about a month or 6   
+weeks about a Suit of Law,
+her Maid told her of the strangeness of the Family, she said they    
+had best be Civil, or else she 
+would stay and plague them. She told <font>Mrs Nightingale</font> at length   
+the Town was chargeable, and 
+her Business done, and that she would return into the Country.
+   </dialogue><nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> What do you know concerning <font>Mrs Rawlins</font>      
+being taken away?
+   </dialogue><nonSpeech> <font>Mrs Busby.</font> </nonSpeech><dialogue> Mrs <font>Baynton</font> knowing it was our custom to 
+go to <font>Oxenden Chappel</font> , every <font>Friday</font> 
+morning, she came and told us she had occasion to go to <font>Golden     
+Square</font> , and that being in the 
+way, she invited us to go with her in the Coach, and she would set   
+us down at or near the 
+Chappel. When we came to <font>Dartmouth street</font> , somebody bid the     
+Coach man stop, I expected she 
+should set us down as she promised, on that side where I sat there   
+were old Buildings and as I was 
+looking out, I heard Mrs <font>Baynton</font> cry out to the Coach man drive  
+on, and all of a sudden I saw a 
+man in the Coach, which was <font>Hartwel</font> the Bayliff, Mrs <font>Rawlins</font> 
+and I were in a very great fright 
+knowing nothing: I said for God's sake let's come out, we are not    
+concerned, <font>Hartwel</font> said we 
+were the persons that he came for, I begg'd of him to let us come    
+out, <font>Hartwel</font> had his Arms
+about Mrs <font>Rawlins's</font> side, and said, 'tis this Lady and you that  
+I am concerned about. I ask'd him 
+what it was, said he, let you and I have two or three words          
+together, and all will be well 
+enough. I said, you don't think I will say any thing to you, unless  
+I have my Friends by me, Mrs
+<font>Baynton</font> in the Coach, said no Madam be sure                      
+<comment type="compiler">SOURCE TEXT: besure</comment> you don't. I could    
+not tell what he would do with 
+us, at length he carried us all to the Star and Garter Tavern in     
+<font>Drury Lane</font> , I press'd him to let 
+us go to <font>Fleetstreet</font> , for I had Friends there. <font>Hartwel</font> was  
+very angry, and would hear nothing of 
+it, when we came to <font>Drury Lane</font> , Mrs <font>Baynton</font> wou'd have had  
+us put on our Masks. I said I had 
+done nothing amiss, and I wou'd not; when we were in the Room at the 
+Tavern, Mrs <font>Baynton</font> 
+hastn'd out of the Room as fast as she cou'd pretending to go for my 
+Friends, Mrs <font>Rawlins</font> and I 
+were in a great consternation, wondring what they would do with us,  
+I took hold of her Arm 
+and told her I would live and dye with her. The Bayliffs came in and 
+said she was their Prisoner,
+and took her by violence from me, they told me she must go with      
+them, for they said she was 
+Arrested by a Writ out of one Court, and I by one out of another,    
+when she was going I put my 
+Head out of the Window, and cry'd Murder, Murder several times, when 
+I pull'd in my Head
+again, <font>Spurr</font> said what have you got by your Bawling, and said    
+they were better known there then 
+I, they brought a Man to me who said he had Orders to keep me, and   
+that he had only a Crown 
+for his pains, but he would not suffer me to send for any body. The  
+Gentlewoman of the House 
+came up, and said I had done a diskindness to her House by crying    
+out Murder, she said to me 
+look and see whether your Name be spelt right, for it may be a false 
+Arrest, <font>&amp;c.</font> <font>Wakeman</font> that 
+went away with Mrs <font>Rawlins</font> came back again, and said the young   
+Woman was well, and that he 
+left her eating Fowl and Bacon, I said I wish she was well. The      
+Gentlewoman of the House 
+bid the Bayliff shew me the Writ, he said he cou'd not read well,    
+but there was the name of 
+<font>Sabina Busby</font> at the Suit of one <font>Jones</font> , but when he heard my 
+complaints a considerable while, he 
+said he would go to my Friends, and would go as cheap as a Porter    
+and as soon. I sent him to 
+Mr <font>Thornton</font> and Mr <font>Nash</font> , he pretended to go but return'd no 
+more till night.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> You said you cry'd out Murther, how did Mrs   
+<font>Rawlins</font> behave her self then?
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> It was her great fright and crying that made  
+me endeavour her rescue, when we 
+said we wou'd dye together, then it was when they forc'd her from    
+me, the surprize was so great 
+that made me cry out after that manner that I did, upon which some   
+Neighbours came in, but 
+they told them it was an Arrest, and therefore they wou'd not meddle 
+in it.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mrs <font>Busby</font> , they kept you till night you  
+say, did they take or require Bail for you 
+before you was discharged.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> I'll tell you Sir, if you please, I did not   
+know what I was Arrested for, it might be 
+Murder or Treason for ought I knew, there was a little Boy by, said  
+Madam I know Mr <font>Unkle</font> ,
+your Friend in <font>Newmarket</font> , and I'll go for him, he went, but     
+when he return'd again, he said he 
+was not at home, which I thought was a lye, there was a poor man a   
+Labourer working in the 
+Chimney, he gave me a whink, and said Madam I'll go for him; but I   
+said to him pray don't leave 
+me, I began to be affraid, for I did not know how my life might be   
+concern'd. Said the little, 
+Boy I'll go any where for you, I sent him for two Gentlemen who      
+came, the Bayliffs said they had 
+an Action of 200 <font>l</font> against me, the Gentlemen told the Bayliffs   
+they were come to bail me. The
+Bayliffs were very impudent, but shuffl'd about, a while and left me 
+and took no further notice.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did they take any Bail for you.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> No they left me with these Gentlemen
+   </dialogue><nonSpeech>Mr <font>Mount.</font> </nonSpeech><dialogue> When you went out in the Morning, did you      
+design to go any where else but to 
+Chappel.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> No where else.
+   </dialogue><nonSpeech>Mr <font>Mount.</font> </nonSpeech><dialogue> Was it your invitation to Mrs <font>Baynton</font> , or 
+her invitation to you to go in the Coach.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> It was Mrs. <font>Baynton's</font> invitation to me, I 
+had not a very good opinion of Mrs <font>Baynton</font> 
+for we suspected her Virtue in the Family, by reason of her too      
+familiar carriage to her Brother, 
+but being to go shortly away, I apprehended no harm.
+   </dialogue><nonSpeech>Mr. <font>Mount.</font> </nonSpeech><dialogue> Did Mrs <font>Rawlins</font> go with you.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> She did.
+   </dialogue><nonSpeech>Mr <font>Mount.</font> </nonSpeech><dialogue> Mrs <font>Busby</font> , do you know the Prisoner, is   
+this the Man that came to Mrs <font>Nightingales</font> 
+House.
+   </dialogue><nonSpeech>Mrs <font>Busby.</font> </nonSpeech><dialogue> Yes Sir.
+   </dialogue><nonSpeech> <font>Judge Powel.</font> </nonSpeech><dialogue> How long was it from the time that you     
+were parted after Arresting, that you 
+saw Mrs <font>Rawlins</font> again.
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> The first time after was on <font>Saturday</font> , when  
+they were before the Recorder.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> When did you find her. </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> On    
+<font>Saturday</font> in the Afternoon.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> Was you at the finding? </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> No   
+my Lord. </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> What time was it
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> About Noon I believe.
+   </dialogue><nonSpeech> <font>Mountague.</font> </nonSpeech><dialogue> When you saw her put into the Coach, did you  
+hear her cry out?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> No Sir, it was I that cry'd out.
+   </dialogue><nonSpeech> <font>Mountague.</font> </nonSpeech><dialogue> Did Mr. <font>Swendsen</font> make any entertainments 
+or no?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> But one as I know of. </dialogue><nonSpeech> <font>Swendsen.</font> Speaks to 
+Mrs <font>Busby</font> , and said</nonSpeech><dialogue> have you done,
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> I think so.
+   </dialogue><nonSpeech> <font>Swendsen.</font> </nonSpeech><dialogue> If you have, I'll ask you a question, did you 
+know of any Love between Mrs <font>Rawlins</font> 
+and me.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> Did you know any thing of Love between Mrs    
+<font>Rawlins</font> and the Prisoner or no?
+   </dialogue><nonSpeech> <font>Busby.</font> </nonSpeech><dialogue> No my Lord. </dialogue><nonSpeech> <font>Mrs.</font> Bayntons <font>Maid called   
+and Sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> Pray did you know <font>Mrs Baynton</font> ?             
+</dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> Was you her Servant?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes, Sir. </dialogue><nonSpeech> <font>Sol. G.</font> </nonSpeech><dialogue> Who recommended you   
+to her? </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Mrs <font>St John</font> .
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know one Mr <font>Swendsen</font> ?             
+<comment type="compiler">MAID ANSWERS.</comment> Yes, my Lord, there he is, </dialogue><nonSpeech>pointing to him.</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Did you ever see him before you were hired to 
+your Mistress. </dialogue><nonSpeech>Maid,</nonSpeech><dialogue> no my Lord, I 
+never saw him before. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> Did you see him, when you was  
+with your Mrs. </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes my Lord.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know whether there was any Relation    
+between them?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes, my Lord, they went for Brother and Sister.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How long was you with her. </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue>     
+About a Month. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> How did she behave her self?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> Till the last of her time, very well, but the      
+Family had a mistrust of her long before she 
+went away. </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know the Reason why they       
+mistrusted her?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> I do not know my Lord.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you know what was the cause the Family     
+mistrusted her?
+   </dialogue><nonSpeech> <font>The Maid.</font> </nonSpeech><dialogue> They thought her a loose sort of a Woman and  
+therefore they mistrusted her.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> Did they discern any Familiarity betwixt them?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> No more than as Brother and Sister.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> After this Suspicion, do you know whether the 
+Family exprest any Resentment?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> No, my Lord. </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Did you live     
+with her when Mrs <font>Rawlins</font> was taken away?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Yes my Lord, but I went away the next day.        
+</dialogue><nonSpeech> <font>Mrs</font> Berkley <font>Sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mrs <font>Berkly</font> , pray was you present when    
+the Prisoner was taken up, and do you know 
+whether he and Mrs <font>Baynton</font> were Brother and Sister.
+   </dialogue><nonSpeech> <font>Berkley.</font> </nonSpeech><dialogue> I went to Mr <font>Swendsen</font> himself, and said is 
+this wicked Woman your Sister? Says he, I 
+cannot say she is, but I have made her my Tool, and she has done my  
+business, and I would get 
+rid of her to morrow, but that being <font>Sunday</font> I will not, but on   
+<font>Monday</font> I'll give her a reward for
+what she has done, and then I'll discharge her, and never see her    
+more.
+   </dialogue><nonSpeech> <font>Mr Montague.</font> </nonSpeech><dialogue> Relate what discourse you had with him to  
+the Gent. of the Jury.
+   </dialogue><nonSpeech> <font>Berkley.</font> </nonSpeech><dialogue> I asked Mr <font>Swendsen</font> whether Mrs            
+<font>Baynton</font> was his Sister, he said no, she is not my Sister,
+but I have gained my end in making her a Tool to my Dear Wife, I'll  
+gratify her for what she has 
+done and put her away on <font>Monday</font> and never see her more.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> I think you lodged in the House with her?         
+</dialogue><nonSpeech> <font>Berk.</font> </nonSpeech><dialogue> No, but I was a Neighbour, and 
+was very frequently there.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Did you see any thing to cause you to mistrust    
+that there was any thing more then 
+ordinary betwixt them.
+   </dialogue><nonSpeech> <font>Berkley.</font> </nonSpeech><dialogue> No cause at all that I know of. </dialogue><nonSpeech> <font>Mr</font>      
+Blake <font>and his Wife Sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Mr <font>Blake</font> pray do you know Mrs <font>Baynton</font> ?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> Yes, Sir. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> How long have you      
+known her?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> About 12 years. </dialogue><nonSpeech> <font>S. G.</font> </nonSpeech><dialogue> Pray is she a    
+Country Lady that has got a good Joynture.
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> I know nothing but that she works for her Living.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Hath she any Estate in the Country?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> None as I know of.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Do you know the Prisoner at the Bar?           
+</dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> Yes, Sir, where did he lodge at any time?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> He lodged at my house. </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> How long? 
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> About 6 or 7 months.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Where is your House? </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> In    
+<font>Red Lion Street</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What other Lodgers had you at the same time?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> I had a Parliament man Lodged with me at the     
+same time.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVhere did <font>Mrs Baynton</font> lodge.
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> In the opposite Room against the Gentleman.      
+</dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How long time?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> About 7 months.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> How long was <font>Mrs Baynton</font> gone from your House 
+before this matter happened?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> About 5 or 6 weeks. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How long    
+before <font>Michaelmas</font> ? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> I cannot certainly tell, but 
+much about that time. </dialogue><nonSpeech> <font>Coun</font> </nonSpeech><dialogue> VVhen they were in your House,  
+what did you see betwixt them.
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> Nothing of any harm, as I know of.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Blake</font> did you never see any harm by    
+Mrs <font>Baynton</font> .
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> Not as I know of. </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Do you     
+know whether she lay in at your House?
+   </dialogue><nonSpeech> <font>Blake.</font> </nonSpeech><dialogue> I know not, for ought I know she might, I know   
+nothing of VVomens lying in.
+</dialogue><nonSpeech> <font>Mr</font> VVakeman <font>called and Sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> VVere you one of the Bayliffs that Arrested   
+<font>Mrs Busby</font> and <font>Mrs Rawlings</font> .
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> I was the Man that Executed the Marshals Court 
+VVrit and Arrested them.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> VVho employed you? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> <font>Mr        
+Hartwel</font> . </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVere you at 
+<font>Mr Hartwels</font> House?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> My Lord I'l tell you the truth of the matter,  
+on <font>Wednesday</font> before they were Arrested, 
+<font>Mr Hartwel</font> , was at my House to see for me, but being not at     
+home, but in the Country, I came 
+home about a 11 at Night, My Daughter said to me there was a VVrit   
+left by <font>Mr Hartwel</font> for me 
+to be served and it must be done to morrow morning, on the morning   
+he came to me and said <font>Mr 
+Wakeman</font> will you Execute a Writ, he carried me to the Mitre Tavern 
+and called for a Pot of Ale
+and a Bottle of VVhite VVine, and we had a Toast and some Cheese,    
+while I was there one <font>Mr</font> 
+<pagebreak id="7" />
+<font>Holt</font> came in, a man that I had never saw in all my life, and     
+said the business cannot be done this 
+day.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVhat day of the week was this?
+   </dialogue><nonSpeech> <font>Wakeman:</font> </nonSpeech><dialogue> <font>Thursday</font> , he <comment type="compiler">she IN SOURCE TEXT,        
+REVISED BY HAND</comment> appointed me to call upon him at 9 next morn. He   
+said if I came 
+first we shou'd get what we had before, he came in before we had     
+done, and the man of the 
+House was dressing himself in the Kitchin; we eat a Tost, and drank  
+the VVine, and after that 
+we had another. <font>Mr Holt</font> call'd <font>Mr Hartwel</font> out, and said it   
+cannot be done, by and by he said 
+it might be done, I don't know what it was, but they took me to      
+<font>Stretton</font> street, <font>Mr Hartwel</font> and 
+<font>Mr Spurr</font> was with me, I was asham'd to stand in the street, so I 
+went into
+an Alehouse, and drank a single pot of drink.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Had you seen <font>Mr Swendsen</font> before that      
+morning? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> No,
+I never saw him before in all my life; At that, if't please your     
+Honour, <font>Mr Hartwel</font> and <font>Mr 
+Spurr</font> went before, and bid me follow the Coach, I did so as near   
+as I cou'd, but cou'd not keep 
+pase with the Coach, being lame, but at <font>Dartmouth</font> Ground <font>Mr    
+Spurr</font> stopp'd the Horses, and 
+then I came up to the Coach, and <font>Mr Hartwel</font> I suppose gave the   
+word of Arrest, and into the 
+Coach he went, but I did not go in because there was no room, but    
+rid behind it; the Coach 
+was order'd to go to the Star and Garter Tavern in <font>Drury-Lane</font> ,  
+when we came there we went 
+into a back room, and the Gentlewoman that had a Band-box said to    
+<font>Mrs Rawlins</font> I will go to 
+some of your Friends.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVhat did they do in <font>Stretton</font> Grounds?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> They were Arrested there, the Gentlewoman was  
+carry'd by <font>Mr Hartwell</font> to his 
+House, and I follow'd them, but meeting with a Gentlewoman of my     
+acquaintance, she stopp'd 
+me, when I came to <font>Hartwel's</font> House, where is she said I, they    
+told me she was below Stairs, I 
+said I had a little business elsewhere that will detain me about an  
+hour, he gave me leave to go; 
+VVhen I went out <font>Mr Holt</font> call'd me over the way, and ask'd me if 
+<font>Mr Hartwell</font> was at home, I 
+said yes, and is the young Gentlewoman there to? I likewise said     
+yes. He led me to the 5 Bells in 
+<font>Witch</font> street; into a room where there were three boxes, and      
+carry'd me to the middlemost box, 
+and there was a Gentleman.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Conncil.</font> </comment> VVas it the     
+Prisoner at the Bar?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> Yes, I think so, at that <font>Mr Holt</font> fill'd me 
+a full Glass, which I drank off, and I told 
+him I was going to do some business in <font>St Martins</font> , and when I   
+had done that I went to <font>Hartwel's</font> <comment type="compiler">SOURCE TEXT: <font>Hartwel s</font> </comment>
+House again, I enquir'd for the Gentlewoman, <font>Mrs Hartwel</font> said    
+her Husband was gone along 
+with the Gentlewoman to <font>Holborn</font> to make an end of the matter. I  
+askt her whereabout, she said 
+at the Vine Tavern, I went thither and ask'd for <font>Mr Hartwell</font> ,   
+there was he and <font>Mr Butler</font> and 
+a Tallow Chandler going to eat Stakes, they invited me to eat some   
+with them, which I did, <font>Mr 
+Holt</font> came into the room two or three times, then Mr <font>Holt</font> told  
+me I was discharg'd of my Prisoner, 
+so away I went.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You were eating Stakes you say at the Vine     
+Tavern, was she there then?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> There is a Court against the Tavern, and I saw 
+the Gentlewoman looking out of the 
+Vine Tavern, where there were new Sash windows, as I came over the   
+way thro the Court this 
+Gentlewoman look'd out of the Window.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVhat, before you went in?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> Yes my Lord, but I went in and saw him alone,  
+but knew not whom he was.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you see <font>Mrs Rawlins</font> there?             
+</dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> No not at the Tavern.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> VVhen <font>Hartwel</font> took away this Gentlewoman, 
+did she go away quietly, or did <font>Mrs 
+Busby</font> and she make any outcry? </dialogue><nonSpeech> <font>Wakeman</font> </nonSpeech><dialogue> She was a little  
+frighted.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> VVhere was it you first saw <font>Mr Swendsen</font> ?  
+</dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> At the 5 Bell Tavern.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> When was it you saw him there?                 
+</dialogue><nonSpeech> <font>Wakeman</font> </nonSpeech><dialogue> about 12 a Clock.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was it he gave you the pot of Drink?     
+</dialogue><nonSpeech> <font>Wakeman</font> </nonSpeech><dialogue> at the 5 Bells, but it was <font>Mr 
+Holt</font> that gave it me. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How many were there in    
+Company there? </dialogue><nonSpeech> <font>Wake.</font> </nonSpeech><dialogue> Only <font>Mr Holt</font>
+and <font>Mr Swendsen</font> . </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> What was the occasion of       
+<comment type="compiler">SOURCE TEXT: af</comment> your going? </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> <font>Mr Holt</font>       
+call'd me.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> When was it you saw him out of the Window?        
+</dialogue><nonSpeech> <font>Wakeman</font> </nonSpeech><dialogue> about an hour and qr after.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> What answer did you give when they ask'd you      
+where the Gentlewoman was?
+   </dialogue><nonSpeech> <font>Wake.</font> </nonSpeech><dialogue> I said she was at <font>Mr Hartwells</font> .
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> You said you serv'd a Writ on <font>Mrs Rawlins</font> ,   
+had you no Process against <font>Mrs Busby</font> ?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> No, none at all. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> On what        
+account did you keep <font>Mrs Busby</font> ?
+   </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> I did not keep her, but one <font>Spurr</font> was      
+employed to do it.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> You came back to <font>Mrs Busbys</font> did not you say   
+that you had been with the young 
+Gentlewoman, who was eating Fowls and Bacon? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> <font>Mr     
+Hartwel</font> ask'd me to eat some.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Did not you shew <font>Mrs Busby</font> a Writ and read it 
+to her?
+   </dialogue><nonSpeech> <font>Wakeman</font> </nonSpeech><dialogue> I cou'd never read a King's Bench Writ.         
+</dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Can you read a Marshals Court Writ? 
+   </dialogue><nonSpeech> <font>Wake.</font> </nonSpeech><dialogue> Yes but not the Latin of it. </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> When 
+you went to <font>Hartwel</font> at the Vine Tavern did you
+ask for <font>Mrs Rawlins</font> . </dialogue><nonSpeech> <font>Wakeman.</font> </nonSpeech><dialogue> Yes, Yes, I ask'd where 
+she was They told me they were
+making an end of it. My Lord I had like to have forgot, I asked      
+where was the Prisoner and <font>Mr 
+Holt</font> told me they had just made an end of the business.
+</dialogue><nonSpeech> <font>Mrs Pleasant Rawlins</font> Sworn</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Give an account to his Lordship after what    
+manner you were Arrested and carried 
+from Tavern to Tavern.
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> My Lord I was Arrested with Madam <font>Busby</font> and   
+carried to the Star and Garter Tavern 
+in <font>Drury-lane</font> . </dialogue><nonSpeech> <font>L. C. J,</font> </nonSpeech><dialogue> How were you carried thither?
+   </dialogue><nonSpeech> <font>Mrs Rawlins.</font> </nonSpeech><dialogue> I was in a Coach going to <font>Oxenden        
+Chappel</font> , when 3 Bayliffs were about the Coach.
+   </dialogue><nonSpeech> <font>Sol. Gen</font> </nonSpeech><dialogue> Where did they carry you? </dialogue><nonSpeech> <font>Raw.</font> </nonSpeech><dialogue> They  
+carried us to the Star and Garter in <font>Drury-lane</font> . 
+   </dialogue><nonSpeech> <font>S. G.:</font> </nonSpeech><dialogue> Who did they carry with you?                     
+<comment type="compiler">RAWLINS ANSWERS.</comment> There was <font>Mrs Busby</font> , <font>Mrs Baynton</font> and   
+I, and <font>Hartwel</font> the 
+Bayliff, when we came to the Star and Garter they forced me up       
+Stairs <comment type="compiler">SOURCE TEXT: Sta rs</comment> into a Back Room, but we 
+got into a forward room, but we had not been there long till they    
+parted <font>Mrs Busby</font> and I; <font>Mrs 
+Baynton</font> was gone, for our Friends as she pretended. I was in a     
+very great Fright, but <font>Mrs Busby</font> 
+saying we will dye <comment type="compiler">SOURCE TEXT: &quot;y&quot; IN &quot;dye&quot; VERY FAINT</comment> together 
+they took me by force from her; <font>Hartwel</font> swore a great Oath and   
+thrust 
+me down Stairs and forced me out of a Back-door into an Alley, when  
+he went to put me into 
+<pagebreak id="8" />
+a Coach I cry'd out Murder, then he threatn'd to put me into         
+<font>Newgate</font> , he carry'd me to his House, 
+and no body came to help me a great while, but <font>Mrs Baynton</font> said  
+that as she was going by the 
+Door she heard my Name, and came in, in a mighty Fright; she said to 
+me Madam I pity you, 
+will no body Bail you? she told me I will send to my Brother who     
+shall be Bail for you, she sent 
+for him, he came into the Room, and he said what is the matter with  
+you, I said enough is the 
+matter when I am Arrested for 200 <font>l.</font> and owe no man a penny.     
+Said he in a Jacose way what 
+makes you affrighted at that, I have a good mind to Arrest you my    
+self. Then they took me 
+thence to the Vine Tavern in <font>Holborn</font> , where I was an hour or    
+two before I heard any thing of 
+Marrying or any such thing.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> What did they do with you all that time?
+   </dialogue><nonSpeech> <font>Mrs Rawlins.</font> </nonSpeech><dialogue> They got a Dinner ready, and after we had  
+Dined, she begged of me to have 
+her Brother, and said that if I did not marry him, I should be       
+ruined, I told her I would do 
+nothing without the advice of my Friends. I desired my Friends to be 
+sent for, but they would not 
+admit it. She looked on my Ring on my Finger, and said let me see    
+your Ring from your Finger. 
+I said no, you shall not. She said I will force it off. I said I'll  
+try that, but she forced it from me.
+   </dialogue><nonSpeech> <font>Swendsen.</font> </nonSpeech><dialogue> Remember you are upon your Oath.              
+</dialogue><nonSpeech> <font>Mrs Rawlins.</font> </nonSpeech><dialogue> I know I am. When she 
+took my Ring away, I askt her what she would do with it, she said    
+she should go and get a 
+Wedding Ring made by it. I told her I would not marry without the    
+advice of my Friends. 
+Away she went and bought a Ring, and came up again and said to her   
+Brother, she had a Ring; 
+well said I give me my Ring and do what you will with the other; she 
+said if I did not marry her
+Brother I should be ruined for ever.
+   There was a Minister in the House, whom they said had been there  
+about a quarter of an hour but 
+I supposed longer, they brought him with the Clerk up Stairs; the    
+Parson saying I hear there is 
+a couple to be married, he asked no Questions, but told me if I did  
+not marry this Gentleman, I 
+should be sent to <font>Newgate</font> and ruined for ever.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Give an account of what was after buying the Ring.
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> When they brought the Ring, they said to me will  
+you be marryed or no? I answered I 
+will not, there are none of my Friends here, and I will not marry    
+without the consent of my Friends
+they said if I did not I should be ruined for ever, so with many     
+Threats and Perswasions, they at 
+last prevail'd with me to marry. I was forced to marry him out of    
+Fear, not of going to <font>Newgate</font> ,
+but of being murdered.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Where did they carry you? </dialogue><nonSpeech> <font>Raw.</font> </nonSpeech><dialogue> To       
+<font>Blakes</font> House in <font>Red Lyon-street</font> , <font>Holbourn</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What time of the day was it?                   
+</dialogue><nonSpeech> <font>Mrs Rawlins.</font> </nonSpeech><dialogue> I cannot give an exact account; but I 
+think it was Candle-light.
+   </dialogue><nonSpeech> <font>Swendsen.</font> </nonSpeech><dialogue> It was about 12 a Clock at noon.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What time was it that you were marry'd?        
+</dialogue><nonSpeech> <font>Mrs Rawlins.</font> </nonSpeech><dialogue> My Lord it was about 3 a 
+Clock.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> When you went to <font>Blakes</font> house, who was     
+with you there?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> None but Mr <font>Swendsen</font> , Mrs <font>Baynton</font> and I.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was there any Force or Threats us'd when you   
+were at <font>Blakes</font> House?
+   </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> Yes, there was my Lord. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Give an 
+account of it.
+   </dialogue><nonSpeech> <font>Rawlins.</font> </nonSpeech><dialogue> They thrust me up Stairs, and order'd to have  
+a Bed sheeted. Mrs <font>Baynton</font> said to me 
+undress and go to Bed. I said I wou'd not. She said she wou'd pluck  
+my Cloaths off my back. I 
+said she shou'd not. She told me she wou'd pluck off my Cloaths and  
+make me go to Bed.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> What did she do with you? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> She put  
+me to Bed. </dialogue><nonSpeech> <font>Coun</font> </nonSpeech><dialogue> Did she use any violence 
+with you? </dialogue><nonSpeech> <font>Ans.</font> </nonSpeech><dialogue> Such violence that made me go to Bed.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How came you to be released?                   
+</dialogue><nonSpeech>Mrs <font>Rawlins.</font> </nonSpeech><dialogue> It was <comment type="compiler">was REPEATED TWICE IN SOURCE TEXT</comment>   
+<font>Saturday</font> morning 
+before I was releas'd, there was some of my Friends came to the      
+place where I was.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Then you were with him all night?              
+</dialogue><nonSpeech> <font>Raw.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr <font>Swendson</font> will you ask her any Questions?
+   </dialogue><nonSpeech> <font>Swendson.</font> </nonSpeech><dialogue> She must be my chiefest Evidence my Lord,     
+when the Witnesses come she must be the 
+chiefest of them. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You will not ask her any        
+Questions now, but when the Witnesses are call'd
+   </dialogue><nonSpeech> <font>Swendson.</font> </nonSpeech><dialogue> My Lord I presume she does not go out of the  
+Court. </dialogue><nonSpeech>Orders given for her to sit down.</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> We have done with our Evidences at present.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr <font>Swendson</font> What do you answer to the      
+Evidence.
+   </dialogue><nonSpeech> <font>Swendsen.</font> </nonSpeech><dialogue> My Lord I am very much unprepar'd             
+<comment type="compiler">APOSTROPHE VERY FAINT IN SOURCE TEXT</comment> for a Tryal at present.     
+</dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Why so?
+   </dialogue><nonSpeech> <font>Swend.</font> </nonSpeech><dialogue> Because I had but little time for preparation,   
+and I am not prepar'd, I desire that I may 
+be allow'd Council.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> No, no, it cannot be allow'd you, and as for   
+the time of your Tryal you were told, 
+if you would shew good cause to have it put off yet, the Court would 
+have done it.
+   </dialogue><nonSpeech> <font>Swendson.</font> </nonSpeech><dialogue> Then I hope if I speak any thing that may be  
+prejudicial to my Cause, that the Court 
+will not take advantage from it.
+   The first time I was at Mrs <font>Nightingales</font> , I was desired by   
+Mrs <font>Busby</font> and Mrs <font>Baynton</font> to make a 
+Bowl of Punch, which I did, and we were very Merry over it, then I   
+invited them to go on Board 
+a Ship, which they all did, and we in a short time came very well    
+acquainted. My Lord, I desire 
+my Wife might stand by her self, and none of them near her.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> There is none near her that will hurt her.
+   </dialogue><nonSpeech> <font>Swen.</font> </nonSpeech><dialogue> My Lord I beg she may stand by her self, that I   
+may have a fair Tryal, I pray your Lordship 
+to grant me this favour. My Lord will you please to grant it?        
+</dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Must I grant it only for 
+your humour? </dialogue><nonSpeech> <font>Swen.</font> </nonSpeech><dialogue> 'Tis not a humour, my Lord, but of a    
+great consequence to me, will your 
+Lordship grant me it? I beg it, my Lord, for 'tis the most material  
+thing I have to ask, I beg all 
+those people may be removed from her, 'tis the greatest and most     
+material thing I have to say.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> I'm sorry for it? </dialogue><nonSpeech> <font>Swen.</font> </nonSpeech><dialogue> It is so,    
+good my Lord grant me that.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> There's no body near her, that concerns you at 
+all. </dialogue><nonSpeech> <font>Swen.</font> </nonSpeech><dialogue> There are those by her that 
+will do me no kindness. </dialogue><nonSpeech>Then she is ordered to be removed.</nonSpeech>
+   <nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> My Lord her standing there is enough to       
+disorder her. </dialogue><nonSpeech> <font>Swen.</font> </nonSpeech><dialogue> My Lord she is very well.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Remove her a little further. </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue>   
+My Lord he does on purpose to fright her.
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> We went (as I was telling your Lordship)      
+aboard a Ship, and they invited me to come 
+the Week following to partake of a Treat, accordingly I went, and    
+there was one Mr. <font>Pugh</font> , and he 
+and I made a Bowl of Punch. Mr. <font>Pugh</font> at that time Courted Mrs.   
+<font>Rawlins</font> , and that little time I 
+was acquainted with her I discerned she had a Kindness for me, as I  
+had for her; I told her I could not 
+be easie while she suffred Mr. <font>Pugh</font> to Kiss her; she desired me  
+to be easie and it should be 
+remedied.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. <font>Rawlins</font> . Do you remember any such    
+thing?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> My Lord, I do not remember any such thing, or     
+that any such Words ever came out of my 
+Mouth.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Did not you say this Mrs. <font>Rawlins</font> , Mrs.  
+<font>Swendsen</font> I should say, did not you say, If I would 
+not sit by you you would not eat a bit or a crumb; when I sat by you 
+and proffered my place to 
+another, can you say you were not offended?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, I was not.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Are not you upon your Oath, did not you give  
+me some Encouragement?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> I do not know how I could shew it you, I know not 
+of any such thing.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You ought to speak the truth because his Life  
+depends upon it. Did you in the first 
+place ever admit of his Courtship in order to Marry you?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, my Lord, I don't remember any such thing.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you ever shew any kindness to him upon any 
+such account?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, I don't know I shew'd him any more kindness    
+than all the rest of the Family shewed 
+him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was you ever in his Company alone.
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> To give me more Ease and Satisfaction after   
+Dinner we had our Bowl and Walnuts, Mrs. 
+<font>Swendsen</font> pilled the Kernels and gave them to me; she gave them   
+faster than I could eat; she heaped 
+my Plate with them, every one at the Table took notice of it, and    
+she jogged me with her Knee, that I 
+should take them, and gave some to Mrs. <font>Baynton</font> , and bid her    
+take them and give to me.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. <font>Busby</font> , Were you there?
+   </dialogue><nonSpeech> <font>Busby,</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you see any thing of this kind?
+   </dialogue><nonSpeech> <font>Busby,</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Will your Lordship <comment type="compiler">SOURCE TEXT: Lordshiy</comment>  
+please to ask her your self?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. <font>Rawlins</font> , did you e'er give pilled    
+Walnuts to him, or send them to him in particuler?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, my Lord, I do not know that I was more kind   
+to him than the rest of the 
+Company.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Every Body took notice of it, and Mr <font>Pugh</font> 
+in particular.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What do you say Mr. <font>Swendsen</font> ?
+   </dialogue><nonSpeech> <font>Swendsen,</font> </nonSpeech><dialogue> My Lord, Mr <font>Pugh</font> if he were here would    
+say the same as I do. He was afraid I should 
+get away his Lady.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where is he?
+   </dialogue><nonSpeech> <font>Court,</font> </nonSpeech><dialogue> He is in the Court.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You may have him for a Witness if you will
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> More than this, before he went away she told  
+him she did not care for him; this she spoke 
+to make me more easie still: This I believe Mr. <font>Pugh</font> can         
+Witness, in as much as Madam <font>Busby</font> 
+complain'd to her about it, at Mr. <font>Scoreman's</font> the Picture        
+Drawers, who is one of my Evidences, I desire 
+he may be called.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well, let him be called. 
+</dialogue><nonSpeech>So he was call'd and came.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Hear ye, he calls you to be a Witness, you are 
+not to be upon your Oath, but are under 
+the highest Obligation to tell the Truth.
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> While I was drawing a Gentlewomans Picture,   
+Mrs. <font>Baynton's</font> , there was a Fire, it 
+began to be Cold, they fell into Discourse about Mr. <font>Swendsen</font>    
+and Mrs. <font>Rawlins</font> ; Mrs. <font>Busby</font> was there 
+at the same time, they fell into Discourse about Mr. <font>Swendsen</font>    
+and the young Lady.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was she there?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was it?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> At my Lodgings, there were Mrs. <font>Busby</font> ,   
+the young Lady, and Mrs. 
+<font>Baynton</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Whose Picture were you drawing?
+   </dialogue><nonSpeech> <font>Scoreman.</font> </nonSpeech><dialogue> Mrs. <font>Baynton's</font> , They fell into Discourse 
+relating to a matter of Love, 
+between Mr. <font>Swendsen</font> and the young Lady. She said the young Lady 
+had a Love for Mr. 
+<font>Swendsen</font> , more than the other.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You heard her say so?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> No, but I can say Mrs. <font>Baynton</font> said so.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But tell us what you heard.
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> She should have said so, I did not hear her   
+my self, but afterwards upon a 
+Discourse she said afterwards, what she had said she would stand to.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What did she say?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> I do not know that she said so or not.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> My Lord, may I speak it as well as I can, he  
+cannot speak <font>English</font> right, 
+I'll speak it to him, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> No, no. Did you hear Mrs. <font>Busby</font> say any    
+thing? What did she say?
+<pagebreak id="10" />
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> In way of Discourse she said so.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What, in way of Discourse, did she say nothing?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> I heard the Lady only say that Word, that     
+all she had said she would 
+stand to.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What did you hear them talk about?
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> They were playing at Cards, and she took up   
+the Tricks of Mr. <font>Swendsen</font> ,
+which discovered Love.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> The Question is, whether you did hear them     
+speak any thing of Love, or 
+not?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> My Lord, he would speak better with an        
+Interpreter.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Let an Interpreter be called for.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What Country-man are you?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> My Lord, he is a <font>Dane</font> .
+   </dialogue><nonSpeech>The Interpreter, a Jury-man, was sworn, and beginning to talk   
+with <font>Scoreman</font> , and 
+he then said,</nonSpeech><dialogue> he's none of my Country, he is a <font>Dutch-man</font>       
+<comment type="compiler">NO ITALICS IN SOURCE TEXT FOR man</comment> , I don't understand 
+him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> He speaks <font>English</font> well enough.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Very well, but he knows not where he begins,  
+he would say what Mrs 
+<font>Busby</font> and Mrs. <font>Baynton</font> were speaking, but knows not how to   
+utter himself.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> He cannot say any thing for you.
+   </dialogue><nonSpeech> <font>Scoreman,</font> </nonSpeech><dialogue> I heard but a few Words, and cannot say much  
+of it.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You must have a better Witness, or you are in  
+a dangerous 
+Condition.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> My Lord, Mr <font>Pugh</font> complained to Madam      
+<font>Busby</font> , that she slighted him 
+very much.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What, for Love of you?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Yes, my Lord, I could tell you of divers      
+things that pass between Lovers, that 
+would be impertinent for me to relate to wise Men.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Let us hear some of them.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> When we were by our selves, she kissed me,    
+and squeezed me by the Hand, 
+when we walked privately in the Garden.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did she kiss you?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Yes, My Lord and squeez'd me often.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you not think her very coming?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Yes, I did, and when we talk'd of Marriage,   
+she seemed to be very well 
+pleased.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. <font>Rawlins</font> , you hear what he says. Did  
+you Squeeze him by the Hand, and 
+Kiss him? Is it true?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No, my Lord, I did no such trick, not I, and as   
+for walking in the Garden, I did 
+not walk in the Garden alone with him.
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> I could mention a great many of these little  
+things, but if she denies them I 
+cannot help it. 
+   My Lord, the last time I was at the House we had a Barrel of      
+Oysters. I stood 
+with my Hands behind me, and as she passed by at any time, she gave  
+me Squeezes <comment type="compiler">SOURCE TEXT: Squezees</comment> by 
+the Hand.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What say you to this Mrs. <font>Rawlins</font> ?
+   </dialogue><nonSpeech> <font>Rawlings,</font> </nonSpeech><dialogue> My Lord, I did not do so upon my Oath.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> She says she did not do it upon her Oath.
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Now for the Matter of Fact; as for the Arrest 
+I never knew any thing of it 
+directly or indirectly, till I saw her at the Bayliffs House.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> If she did know any thing of, or was           
+consenting to the Arrest, why did 
+you force her to the Tavern, and Marry her with a Parson you had     
+provided for 
+that purpose?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> She Married me with as much Freedom as could  
+be in a Woman.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What say you to that Mrs.?
+   </dialogue><nonSpeech> <font>Prisoner,</font> </nonSpeech><dialogue> Will your Lordship please to ask her whether  
+I offered any Violence to her 
+either by Word or Deed.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. <font>Rawlins</font> , give an Account how you     
+were carried from the Bayliffs 
+House.
+   </dialogue><nonSpeech> <font>Rawlins,</font> </nonSpeech><dialogue> My Lord, when I was at <font>Hartwell's</font> the      
+Bayliffs House, Mrs. <font>Baynton</font> 
+pretended to come accidentally by, and that she heard my Voice, and  
+came in, and said, <font>How 
+do you do Mrs.</font> Rawlins? You know how I do, said I. She pretended   
+to help me, and 
+proposed to go to her Brother to Bail me, and he came, and I was     
+carried from 
+thence in a Coach to the <font>Vine</font> Tavern. -- </dialogue><nonSpeech>She was asked whether 
+he came into the 
+Coach to her?</nonSpeech>
+   <nonSpeech> <font>Rawlins,</font> </nonSpeech><dialogue> Yes, he did.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you cry out when they put you into the     
+Coach?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> No my Lord, I did not cry out then, I made no     
+noise then.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What did he do then? </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> They      
+carry'd me to the <font>Vine-Tavern</font> a Prisoner.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> She went willingly enough from <font>Hartwel's</font>  
+House to the <font>Vine-Tavern</font> , because she thought that 
+there she should be bailed.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mrs. What was the pretence of your being       
+carried from <font>Hartwel's</font> House?
+   </dialogue><nonSpeech> <font>Rawl.</font> </nonSpeech><dialogue> My Lord, They would not tell me before they       
+carry'd me to the place.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Swendsen</font> , Will you ask any other      
+Questions?
+   </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Not yet, my Lord. I desire the Parson may be  
+called that Marry'd us. </dialogue><nonSpeech>Which was done.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Come Dr. You are not upon your Oath; How come  
+you to be concern'd in this Match.
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> My Lord, It was at the <font>Vine-Tavern</font> where I  
+saw them in <font>Holborn</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was it the <font>Mitre</font> , or the <font>Vine</font> ?       
+</dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> The <font>Vine</font> , I believe, my Lord,
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How came you there?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> There was a Gentleman fetch'd Me and the Clerk  
+from the <font>Fleet</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What to do? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> He said there    
+was a Gentleman there to speak with us; When
+we came there, the Clerk and I went up one Pair of Stairs and Drank  
+a Pint of Wine. Then we were 
+led into another Room, I asked him what I was to do. He told me for  
+to Marry him to that Young 
+Gentlewoman.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was there a License? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Yes;    
+When I saw the License I read it, and saw it a 
+true License; Then I asked the Gentlewoman her Name, to know whether 
+it was the same that was in 
+the License; and found it was the same.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was it Written in the License that the         
+Marriage was to be performed at the <font>Vine-Tavern</font> ?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> No my Lord, But a Blank was left.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you take the Queen's Duty?                 
+</dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> No my Lord, But returned their Names 
+to the Supervisor; My Lord, when I asked her Name, I also asked her  
+whether she was willing to be 
+Married. She said she was willing. And another Gentlewoman was with  
+her, that said she was her 
+Sister: I said to her; Madam if you consent, and your Sister is      
+willing, here is a License, for I believe 
+there is no danger to Marry you.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you ask her any other way than in your     
+Form, <font>Will you have this Man to your Wedded 
+Husband</font> . </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> I ask'd her whether she was willing to 
+Marry, she said yes, she was willing.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But did you ask her before you did the Office?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Yes my Lord, I did, and she consented to it.
+   </dialogue><nonSpeech> <font>Counsel.</font> </nonSpeech><dialogue> Pray who was the Person that came to the       
+<font>Fleet</font> to you, to carry you to the <font>Tavern</font> , was it the 
+Gentleman at the Bar? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> No 'twas not him.
+   </dialogue><nonSpeech>Mr <font>Mount.</font> </nonSpeech><dialogue> How long was it before you went to him, after  
+you went into the Tavern?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> My Clerk and I went in, and sat the Drinking a  
+Pint of Wine, about a quarter of an Hour, 
+then we went to the Gentleman.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you think that they should grant Licenses   
+to Marry in a Tavern, and out of Canonical Hours?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> I never did it in all my life before, and never 
+will do it again.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> What was the Reason, why you were conducted   
+into another Room, and not where they were.
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> I know not the Reason.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How long were you in the Room where they      
+were? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> I cannot well tell.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you Marry them as soon as you came in?     
+</dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Almost as soon.
+   </dialogue><nonSpeech> <font>Mount.</font> </nonSpeech><dialogue> Did you ever Marry any at a Tavern before?       
+</dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Will your Lordship be pleased to hear the     
+License read.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> It may be read. <comment type="compiler">THE FOLLOWING SPEECH IS      
+UNLIKELY TO BE THAT OF L. C. J., POSSIBLY SOL. GEN. OR PARSON.</comment> You 
+may see the Date and the Names. The License is Dated <font>Oct.</font> 14.    
+1702. 
+The Names <font>Haagen Swendsen</font> in the Parish of St. <font>Paul's</font>        
+<font>Shadwell</font> ; and <font>Pleasant Rawlins</font> in the Parish of St. 
+<font>Mary</font> <font>White-Chappel</font> . </dialogue><nonSpeech> <font>Counsel.</font> </nonSpeech><dialogue> Is there any Blank   
+left? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Yes there is a Blank left that 
+the Marriage may be in the Parish Church of St. <font>Mary</font>             
+<font>White-Chappell</font> , <font> <foreign>vel</foreign> </font> a Blank. <comment type="compiler">IN SOURCE TEXT A BLANK 
+SPACE OF ABOUT 18 CHARACTERS PRECEDES &quot;a Blank&quot;.</comment>
+   </dialogue><nonSpeech> <font>Monteg.</font> </nonSpeech><dialogue> Were you Entertained there? </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue>   
+Before the Marriage the Clerk and I drank a Pint 
+of Wine in the first Room. </dialogue><nonSpeech> <font>Mountag.</font> </nonSpeech><dialogue> Had you any Victuals   
+then?
+   </dialogue><nonSpeech> <font>Parson.</font> </nonSpeech><dialogue> Not before they Married; but after.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> Pray Sir, Did you bespeak a Dinner before the 
+Marriage? <comment type="compiler">PARSON ANSWERS.</comment> No Sir, the Gentleman bespoke a 
+Fowl. </dialogue><nonSpeech>Mr. <font>Dan. Cotchett</font> , was called.</nonSpeech>
+   <nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> My Lord, I desire he may be asked whether he  
+heard any Noise, or whether any violence 
+was offered to the Young Woman?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you hear any Noise, or perceive any        
+Violence offered to the Young Woman.
+   </dialogue><nonSpeech> <font>Cotchett.</font> </nonSpeech><dialogue> No my Lord. </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Ask Mrs.      
+<font>Cotchett</font> whether any Noise or Violence was 
+offer'd to the Young Lady? 
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> I'le ask her that Question. Was there any      
+Noise, or Violence used to the Young Lady?
+   </dialogue><nonSpeech>Mrs. <font>Cotchett.</font> </nonSpeech><dialogue> No my Lord, there was no Noise, they came 
+in and asked for a Room, and I shew'd 
+them a lower Room, but they would not have that, but went up, soon   
+after Mr. <font>Holt</font> the Vintner came 
+down and went out, and Mr. <font>Hartwel</font> call'd for a Pint of Wine for 
+the Coachman, but the Drawer 
+Grumbled at it, and said he did not know who'd pay for't, then Mr.   
+<font>Hartwel</font> the Bayliff told me it was 
+an Arrest, and that the Parson was to be Bail for the Lady, and at   
+that I very much wondred, and 
+afterwards they told me there was a Wedding above, which we admired  
+at, that there should be a 
+Wedding, and Bayliffs; And after all was over, the Gentleman and the 
+Lady went out at the Back-Door, and 
+took Coach. </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> Did you see Mrs. <font>Swendsen</font>        
+discontented when she went out. No, my 
+Lord, she seemed not Discontented; what I know I'll speak and no more.       
+</dialogue><nonSpeech> <font>Sarah Walker</font> called.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you live at the <font>Vine Tavern</font> ?           
+</dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> Yes my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What Place? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> Cook my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was you in the House when that Young           
+Gentlewoman was carried Prisoner there? Where 
+were you then? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> In the Bar, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you keep the Bar? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> No, my 
+Lord; but I was washing the Bar at that time.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you hear any Noise? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> No,  
+my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you hear of a Wedding? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue>   
+Yes my Lord. </dialogue><nonSpeech> <font>Prisoner.</font> </nonSpeech><dialogue> My Lord, Will 
+you be pleas'd to ask her if she was not had before the Recorder,    
+and promis'd a Reward if she would 
+say any thing for their Service?
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What do you say to this? </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> My  
+Lord, only this, That if I knew any thing, and
+discover'd it, I should be satisfied for my Trouble.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Were you sent up Stairs to the Gentlefolks to  
+receive Directions for the Supper? </dialogue><nonSpeech> <font>Walk.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> When you came up into the Room, what          
+Condition was the Young Gentlewoman in?
+   </dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> She sat at one end of the Room and seemed to be 
+very Melancholly.
+   </dialogue><nonSpeech> <font>Sol. Gen.</font> </nonSpeech><dialogue> How did she look when she went away?          
+</dialogue><nonSpeech> <font>Walker.</font> </nonSpeech><dialogue> Not Melancholly then, when Orders 
+were given about the Supper, I asked her what Sauce she would have,  
+she said she would eat nothing at 
+all. </dialogue><nonSpeech>Mr. <font>Blake's</font> Daughter being called.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

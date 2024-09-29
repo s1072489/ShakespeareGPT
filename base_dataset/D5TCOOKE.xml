@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TCOOKE">
+  <dialogueHeader>
+
+    <filename>D5TCOOKE</filename>
+
+    <identifier>5 TRIAL D5TCOOKE</identifier>
+
+    <title>COKE ALIAS COOKE</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1721/1722</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL AND CONDEMNATION OF ARUNDEL COKE ALIAS COOKE ESQ;    
+AND OF JOHN WOODBURNE LABOURER, FOR FELONY, IN SLITTING THE NOSE 
+OF EDWARD CRISPE GENT. 
+(...)
+WHO WERE FOUND GUILTY AT THE ASSIZES HELD BEFORE THE RIGHT HONOURABLE 
+SIR PETER KING KNT. LORD CHIEF JUSTICE OF HIS MAJESTY'S COURT OF 
+COMMON PLEAS, AT BURY ST. EDMONDS, TUESDAY THE 13TH OF MARCH 1721. AND 
+RECEIVED SENTENCE THE DAY FOLLOWING. 
+LONDON: PRINTED FOR JOHN DARBY IN BARTHOLOMEW-CLOSE, AND DANIEL
+MIDWINTER IN ST. PAUL'S CHURCH-YARD. 
+M.DCC.XXII. 
+PP. 9.29 - 19.15
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>   
+
+<comment type="compiler">ROUND BRACKETS USUALLY USED IN SOURCE TEXT TO ENCLOSE NARRATORIAL 
+COMMENTS. WHERE SQUARE BRACKETS HAVE BEEN USED IN SOURCE TEXT FOR 
+THE SAME PURPOSE, THESE ARE RENDERED BELOW AS ROUND BRACKETS.</comment>
+
+<pagebreak id="9" />
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> We desire in the first Place, Mr. <font>Edward  
+Crispe</font> himself 
+may be sworn, </dialogue><nonSpeech> <font> (which was done accordingly.) </font> </nonSpeech><dialogue> Mr.          
+<font>Crispe</font> , give an 
+account to my Lord and the Jury of the whole Matter. 
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> On <font>New-Years-Day</font> last I was invited to sup  
+at Mr. <font>Coke's</font> , and 
+being there, he proposed to me to go to Mrs. <font>Fanny Monke's</font> . 
+  </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was this before or after Supper?
+  </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> This was before Supper: We supp'd about seven,   
+and after 
+Supper about ten a-clock he call'd me out of his Parlour, I follow'd 
+him; we went into the Church-yard. It was then very dark, the 
+Moon did not shine. He took three or four Turns before the House 
+where Mrs. <font>Monke</font> dwelt, then he stood still and made a noise.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What kind of Noise did he make?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> It was like a Hollowing.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Were you under any Fear or Apprehension from   
+that 
+Noise?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> Yes, my Lord, I was afraid, and made up towards 
+the Wall; 
+but in a quarter of a Minute somebody came behind me, and knock'd 
+me down.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you then know who that Man was?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> I did not.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Can you tell what was done to you afterwards?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> My Lord, I cannot, for on that Blow I lost my   
+Senses for 
+some time.
+<pagebreak id="10" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How long was it before your Senses returned?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> My Lord, I cannot tell, but in some time I got  
+up, and 
+return'd to Mr. <font>Coke's</font> .
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> In what Condition did you find your self?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> I was ready to die and faint, and I was found   
+very much 
+wounded.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Did any Chyrurgeon come to you at Mr.     
+<font>Coke's</font> ?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> Yes, Sir, Mr. <font>Sturgeon</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> After the Person came up who knock'd you down, 
+did you 
+hear Mr. <font>Coke</font> say any thing?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> No, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Can you tell whether he stay'd any time, or    
+what became 
+of him?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> No, I cannot.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was he there when the first Blow was given?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> Yes, he was.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Will the Prisoners ask Mr. <font>Crispe</font> any      
+Questions?
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> Mr. <font>Crispe</font> , was I present when you were      
+knock'd down?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> Do you remember that you saw me?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> How near was I to you?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> You were close by me when I was knock'd down.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Call Mr. <font>Brown</font> and swear him,           
+</dialogue><nonSpeech> <font> (which was accordingly 
+done.) </font> </nonSpeech><dialogue> I think you are a Relation of Mr. <font>Coke's</font> ?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Yes, Sir, I married his own Sister, and he       
+married Mr. 
+<font>Crispe's</font> Sister.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Was you at Mr. <font>Coke's</font> house last        
+<font>New-Years-Day</font> 
+at night?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> A Day or two before last <font>New-Years-Day</font> , I    
+and my Wife 
+and Daughter were invited to sup with him, and accordingly we 
+went. I came about six a-clock, and found Mr. <font>Coke</font> and Mr.        
+<font>Crispe</font> 
+drinking a Glass of Wine in the Parlour before Supper.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Was there any other Company with them?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> No, the Women were above Stairs. I sat down with 
+them, 
+and we three staid in the Parlour till Supper-time. When Supper 
+was ready, we went up Stairs. Then after Supper between eight 
+and nine, we three came down into the Parlour again. Some time 
+after, <font>Coke</font> went out of the Room, and then came back again and 
+gave a Call, or beckon'd to Mr. <font>Crispe</font> , who follow'd him out of 
+the Room.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> At what time of night was this?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> After nine a-clock at night.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> How long was it before Mr. <font>Coke</font>       
+return'd?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> He was gone about ten Minutes, and then returned.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Was he in any disorder when he returned?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> He seem'd to be out of breath, as if he had been 
+walking 
+faster than ordinary.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> How far distant is the Church-Yard, where 
+this 
+Gentlewoman dwelt, from Mr. <font>Coke's</font> House?
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> The Church-Yard is about twice the length of this 
+Shire-House from Mr. <font>Coke's</font> House.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> What did <font>Coke</font> do when he came in?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Immediately he drunk a Glass of Wine to me, and  
+after 
+he had sat some time, he went out of the Room. I heard a 
+Noise up Stairs, and being told my Daughter was ill, I went up, and 
+in a little time came down again into the Parlour, where I found 
+Mr. <font>Coke</font> .
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Did you ask him what was become of Mr.    
+<font>Crispe</font> ?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> I did then ask him what was become of Mr.        
+<font>Crispe</font> , and he 
+told me that he believ'd he was gone home in the dark. In about 
+two or three Minutes after, Mr. <font>Crispe</font> came in. He was very much 
+wounded and bloody. I was so surprized that I could not take 
+particular notice of him.
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> How long was it from <font>Crispe's</font> going out to 
+his coming in 
+again?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> It was near half an hour.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> So then <font>Coke</font> returned in about ten         
+Minutes, and <font>Crispe</font> in 
+near half an Hour.
+   </dialogue><nonSpeech> <font>Browne.</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Did Mr <font>Coke</font> see Mr. <font>Crispe</font> when he  
+came back to his 
+House?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> What did he say?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> He seem'd to be in a great Consternation. 
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> Do you know of any Estate that would have come 
+to Mr. 
+<font>Coke</font> after Mr. <font>Crispe's</font> Death?
+   </dialogue><nonSpeech> <font>Brown.</font> </nonSpeech><dialogue> I cannot positively say it of my own Knowledge.
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> We will ask Mr. <font>Crispe</font> that Question.       
+Pray, Mr. <font>Crispe</font> , 
+would any Estate have come by your Death to Mr. <font>Coke</font> ?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> In case I had died, One hundred Pounds          
+<font> <foreign>per annum</foreign> </font> would 
+have come to his Wife as one of my Sisters.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Have you then no Children, nor Brothers?
+   </dialogue><nonSpeech> <font>Crispe.</font> </nonSpeech><dialogue> No, my Lord; my next of Kin are three Sisters,  
+one of 
+which is Mr. <font>Coke's</font> Wife, she would have been one of my Heirs.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Call Mr. <font>Sturgeon</font> ; </dialogue><nonSpeech> <font> (who          
+appeared, and was sworn,) </font> </nonSpeech><dialogue> What 
+do you know concerning this wounding of Mr. <font>Crispe</font> ?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> I am a Chirurgeon by Profession; and the first   
+day of <font>January</font> 
+last at Night, about Eleven a-clock, I was sent for to Mr.           
+<font>Crispe</font> at 
+Mr. <font>Coke's</font> House: When I came, I found him very much wounded and 
+cut, and in a very weak Condition, and that he had lost a great deal 
+of 
+Blood. I examined his Wounds: One Wound began at his right Ear, 
+divided the fleshy part of his Cheek, and ended on his upper Lip just 
+under his right Nostril; the Flesh was all divided, and the Jaw left 
+naked. Another Wound divided the right side of the Nostril, and 
+made an oblique Cross over the Wound, and ended near the right 
+under Jaw.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Was his Nose slit?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> Yes, Sir, the Nose was cut from without into the 
+Nostril; 
+the Edge of the Nose was not cut through, but there was a Cut or 
+Slit in the Nose that went through: I sow'd it up: it was indeed 
+<pagebreak id="12" />
+but with one Stitch; it is yet visible, and the Nose was cut 
+through.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Were there any other Wounds?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> There was another deep Wound under his Chin,      
+that reach'd 
+from one Jaw to the other. There was another Wound, which 
+began at his Chin, cross'd the left under Jaw, and tended towards his 
+Ear. There was also a small Wound on his left Cheek, another on 
+his upper Lip, and another on his left Temple.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> How many Wounds had he in all?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> Seven.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Do you think there were seven distinct      
+Wounds, that 
+had seven distinct Blows?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> I take it, that every one of the seven Wounds     
+had a distinct 
+Blow.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> With what Instrument did you apprehend       
+those Blows 
+were given?
+   </dialogue><nonSpeech> <font>Sturg.</font> </nonSpeech><dialogue> It was cut so clean, that I thought it was done  
+either by 
+a Knife or Razor.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Let the Jury see Mr. <font>Crispe's</font> Wounds.
+
+   </dialogue><nonSpeech> <font> (Then his Face and Wounds were shewn to the Jury for their 
+Observation.) </font> </nonSpeech> 
+
+   <nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Swear <font>Charles Willett</font> ; </dialogue><nonSpeech> <font> (which   
+was done 
+accordingly.) </font> </nonSpeech><dialogue> I think you are a Constable in <font>Bury St.        
+Edmonds</font> ?
+   </dialogue><nonSpeech> <font>Willett.</font> </nonSpeech><dialogue> I am.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Had you any occasion to speak to          
+<font>Woodburne</font> 
+concerning this Matter, and what did he say?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> I had a Warrant from Alderman <font>Wright</font> and Mr.  
+Serjeant 
+<font>Reynolds</font> to apprehend <font>Coke</font> upon <font>Woodburne's</font> Examination.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> The Question ask'd you is, What you know  
+of 
+<font>Woodburne's</font> Confession, and what he hath said to you about this 
+Matter?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> After <font>Woodburne</font> was committed, I was with      
+him, and ask'd 
+him, Whether he was concerned in the wounding of Mr. <font>Crispe</font> ? He 
+told me, Yes he was. I ask'd him, Whether Mr. <font>Coke</font> was with him: 
+he said he was. I ask'd him how long <font>Coke</font> stay'd with him: He 
+said, That he had struck <font>Crispe</font> three or four Blows before       
+<font>Coke</font> left 
+him.
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> What else did you ask him, or did he say to 
+you?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> He told me, that he was walking up and down in the 
+Churchyard when <font>Coke</font> whistled to him, and that on that Signal he 
+went up 
+and assaulted Mr. <font>Crispe</font> .
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Did he give you any account how long and  
+where 
+he waited before the Fact was done?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> He told me, that he was desired by Mr. <font>Coke</font>    
+to be up and 
+down in the Churchyard about Nine a-clock that Night; and that 
+being a cold Night, <font>Coke</font> gave him a Bottle of Brandy, and told him 
+he could not tell what time <font>Crispe</font> would come home, but desired  
+him 
+to be ready and to stay let it be never so long.
+<pagebreak id="13" />
+   </dialogue><nonSpeech>Serj. <font>Branthw.</font> </nonSpeech><dialogue> Did he tell you with what Instrument he   
+did it?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> He told me, He did it with an Hook or Bill, that  
+was new 
+ground for the Purpose, and that it was in his House at the right 
+hand of his Door. I went according to his Direction, and found it, 
+and brought it to him; and he said, That that was the Hook. --
+The Hook I have brought with me, and this is the Hook that I have 
+now in my Hand.
+
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> Call <font>William Wetherel</font> ; </dialogue><nonSpeech> <font> (who was     
+sworn.) </font> </nonSpeech><dialogue> Give 
+my Lord and the Jury an account what you know of this 
+Matter.
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> I am the Gaoler; and the Day after Mr. <font>Coke</font>   
+was committed 
+to me, about five Minutes after One, he sent for me up into his 
+Chamber, where his Wife was crying and in great disorder, as he 
+seem'd to be likewise. She was desiring her Husband to discover. 
+When he came to himself, he told me, That he and <font>Woodburne</font> had 
+had a Design to murder Mr. <font>Crispe</font> , and had attempted it several 
+times; 
+and desired me to go and secure <font>Woodburne</font> . I went to the        
+Alderman,
+and told him of it, and he gave me the like Orders. Coming from the 
+Alderman I met Mr. <font>Coke's</font> Man, who ask'd me whether I had found 
+him; on which I ask'd him, Who, and what he meant, thinking him 
+to be ignorant of his Master's Confession: but he told me, that his 
+Master had discovered it to him, and had sent him to take up 
+<font>Woodburne</font> . Whilst we were talking, we saw <font>Woodburne</font> coming  
+up, and 
+we desir'd one <font>John Carter</font> a Smith, who was shooing a Horse, to 
+assist us; which he did, and we secur'd <font>Woodburne</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did Mr. <font>Coke</font> confess any thing to you      
+concerning this Fact, 
+and the manner of doing it?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> Yes, my Lord, he did. He told me several times,   
+that he 
+had a design to murder <font>Crispe</font> , and that he employ'd             
+<font>Woodburne</font> , and 
+delivered <font>Crispe</font> into his hands.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did he tell you that?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> He did tell me so: He told me also, That it was   
+done with 
+an Hook; and that he had bid <font>Woodburne</font> to cut his Weasand or 
+Windpipe; and that if <font>Woodburne</font> had not been a cow-hearted Dog, he 
+would have so done, and secur'd <font>Crispe</font> from telling Tales. 
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> Did <font>Coke</font> tell you what Means he used to do 
+this to 
+Mr. <font>Crispe</font> ?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> He said, That he call'd him out of his House,     
+went into the 
+Church-yard with him, and there delivered him into <font>Woodburne's</font> 
+hands.
+   </dialogue><nonSpeech> <font>Raby.</font> </nonSpeech><dialogue> Did he say what Signal was given?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> Not that I remember; but he said, That            
+<font>Woodburne</font> was 
+placed there by his Appointment.
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> For what Design?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> With an intent to murder him. When <font>Woodburne</font>  
+struck him, 
+<font>Coke</font> said, he went away immediately.
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> What have you heard <font>Woodburne</font> say          
+concerning this 
+Fact?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> I have heard <font>Woodburne</font> say, That he and       
+<font>Coke</font> had lain in 
+wait several times and at several places to murder Mr. <font>Crispe</font> .
+<pagebreak id="14" /> 
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> Did <font>Woodburne</font> give you any account what he 
+did at this 
+time to Mr. <font>Crispe</font> ?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> Yes, he did; he said, That he struck him a Blow   
+with his 
+Hook, and that not quite striking him down, he gave him a second 
+Blow which did; and that <font>Crispe</font> , as he was falling, (who was    
+never 
+us'd to swear) cried out, God damn him; and that then it went to 
+his very Heart to think that he should kill a Man with an Oath in 
+his Mouth.
+   </dialogue><nonSpeech>Mr. <font>Raby.</font> </nonSpeech><dialogue> Did he say he gave him many Blows?
+   </dialogue><nonSpeech> <font>Weth.</font> </nonSpeech><dialogue> He said, He gave him several Blows, and that he   
+thought he 
+was dead.
+
+   </dialogue><nonSpeech>Mr. <font>Lee.</font> </nonSpeech><dialogue> Call <font>Robert Moon</font> : </dialogue><nonSpeech> <font> (who appeared, and 
+was sworn.) </font> </nonSpeech><dialogue> What 
+do you know of this Matter?
+   </dialogue><nonSpeech> <font>Moon.</font> </nonSpeech><dialogue> When I heard what happen'd to <font>Crispe</font> , I       
+said, I knew the 
+Person who did it, or the Person who employ'd him to do it; and 
+the reason was, because three Years, or three Years and a half ago, 
+Mr. <font>Coke</font> sent for me, and said to me, at first I thought it to    
+be in a 
+jesting way, that he wish'd Mr. <font>Crispe</font> out of the World, he was a 
+good-for-nothing Fellow, his Wife had a trick of playing away his 
+Estate, and he wish'd some body would knock him in the Head. 
+Sir, said I to him, what advantage would that be to you? He shook 
+his Head, and said, A very good Estate. Said I, I thought <font>Crispe</font> 
+had but a small Estate. Yes, said he, a very good one. Then I 
+began to think there was something in it. After some little time, said 
+he, I do not value ten or twenty Guineas to knock him in the head. 
+Then I began a little to reflect that he should have such an opinion 
+of me, that I should be such a sort of Person.
+   </dialogue><nonSpeech>Mr. <font>Lee.</font> </nonSpeech><dialogue> What then did you say to him?
+   </dialogue><nonSpeech> <font>Moon.</font> </nonSpeech><dialogue> I told him, That I would not kill the greatest    
+Villain in 
+the world for ten such Towns as <font>Bury</font> . 
+   </dialogue><nonSpeech>Mr. <font>Lee.</font> </nonSpeech><dialogue> What did he say afterwards?
+   </dialogue><nonSpeech> <font>Moon.</font> </nonSpeech><dialogue> I do not remember, I have forgot if there was any 
+thing 
+else.
+   </dialogue><nonSpeech>Mr. <font>Lee.</font> </nonSpeech><dialogue> How came you to remember this?
+   </dialogue><nonSpeech> <font>Moon.</font> </nonSpeech><dialogue> When I heard of this Fact committed on Mr.        
+<font>Crispe</font> , then it 
+came fresh into my Memory.    
+
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Call <font>John Carter</font> , </dialogue><nonSpeech> <font> (who appeared, 
+and was sworn.) </font> </nonSpeech><dialogue> What 
+Trade are you of?
+   </dialogue><nonSpeech> <font>Carter.</font> </nonSpeech><dialogue> A Blacksmith.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Did <font>Coke</font> at any time send <font>Woodburne</font> 
+for you, and what 
+past thereon?
+   </dialogue><nonSpeech> <font>Carter.</font> </nonSpeech><dialogue> On the Friday before <font>New-Years-Day</font> last,    
+which was on a 
+Monday, Mr. <font>Coke</font> sent <font>Woodburne</font> to me, who told me his        
+Master <font>Coke</font> 
+wanted to speak with me.
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Did you go?
+   </dialogue><nonSpeech> <font>Carter.</font> </nonSpeech><dialogue> Yes, I went to his House, and he order'd me to  
+come up 
+to him in his Chamber. When I came up, he told me that he wanted 
+a good strong Horse to carry his Weight. I told him I did not know of 
+<pagebreak id="15" />
+any one then; but when I did, I would let him know. Upon that 
+he said, By God, how do you go on, Boy? I hear you have lost most 
+of your Business, you have got no Iron nor Coals, and you are afraid 
+of a Goal; I have a thing now in agitation that will make a Man of 
+you as long as you live. I said I should be very glad of that. Said 
+he, Can you keep a Secret? Yes, said I, as well as any one to serve my 
+self and my Friend. Said he, Can you keep one of the biggest Secrets 
+in the World? I told him, As well as any body. Said he, You are 
+pretty much in Debt, and if you will serve me in this, I can make 
+a Man of you as long as you live: do you think you could cut five or 
+six Mens Heads off without Scruple of Conscience? I told him, No; 
+it was too much for a Man's Conscience to bear. Said he, What, a 
+Scruple of Conscience to do such a thing as that? There are those 
+above who have done ten times worse. I suppose, Sir, said I, you 
+mean the <font>South-Sea</font> Gentlemen. Yes, said he, so I do; they have 
+ruined Families, and begger'd Gentlemen: To cut Mens Heads off is 
+but a Trifle to them. Said I, Mr. <font>Coke</font> , I believe you speak     
+only in joke, 
+by way of merriment. Said he, What, do you think I sent for you 
+by way of joke? I told him, I could not do any such thing. Then, 
+said he, do you think you can cut off one Man's Head without Scruple 
+of Conscience? I told him, No. Then, said he, If you can't cut off a 
+Man's Head, and lay it down upon the Table before me, you are 
+not for my turn: On that he fetch'd a Bottel of Brandy, and gave 
+me a Glass or two, and then said to me, <font>Carter</font> , I would have    
+you go 
+home, and consider of it for two or three Days, and if you can cut 
+off a Man's Head without Scruple of Conscience, you shall have 
+plenty of Gold and Silver, and any thing else you ask. I told him, 
+I needed no Consideration, for I could not do it. Then, said he, send 
+<font>Woodburne</font> to me. And as I went out, I saw <font>Woodburne</font> at the   
+Door, 
+and sent him in to Mr. <font>Coke</font> .
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> Did he say any thing else to you, or any    
+thing about 
+Mr. <font>Crispe</font> ?
+   </dialogue><nonSpeech> <font>Carter.</font> </nonSpeech><dialogue> I live in a House of Mr. <font>Crispe's</font> , and Mr.  
+<font>Coke</font> had been 
+formerly his Steward, and <font>Woodburne</font> acted under him. And Mr.     
+<font>Coke</font> 
+said, that he heard my House was out of repair, that it would be his 
+after Mr. <font>Crispe</font> , and whether I should not like it better for   
+him to 
+keep it in repair, as he had done before.
+
+   </dialogue><nonSpeech>Serj. <font>Selby.</font> </nonSpeech><dialogue> I think, my Lord, we have done with our     
+Evidence,
+and have sufficiently proved Mr. <font>Coke</font> and <font>Woodburne</font> to be    
+guilty not
+only within the Intention but the Letter of the Statute of the 22d of
+<font>Car.</font> II. upon which they stand indicted. We have proved the Malice
+premeditated and forethought, the Intention to maim and disfigure
+by slitting the Nose (for Mens Intentions must be construed by their
+Actions) and the maiming and disfiguring accordingly; and that Mr.
+<font>Coke</font> was privy to, and the Aider and Abettor of the Offence: And
+therefore, Gentlemen of the Jury, we can't doubt but that you will
+find them both Guilty; and that your Verdict and their Conviction
+will be with the Suffrage of all Mankind.
+<pagebreak id="16" />
+<comment type="compiler">RABY'S SUMMING-UP SPEECH OMITTED.</comment>
+<pagebreak id="17" />
+<comment type="compiler">AN ASTERISK PRECEDES THE ABOVE PAGE NUMBER.</comment>
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <font>Woodburne</font> , What have you to say for your  
+self?
+   </dialogue><nonSpeech> <font>Woodburne.</font> </nonSpeech><dialogue> May it please your Honour, my Lord, the      
+first time 
+that <font>Coke</font> began with me about this Matter was on a Wednesday in  
+last 
+Barley-Harvest. He sent for me to mend his Copper, and after I had 
+<pagebreak id="18" />
+<comment type="compiler">AN ASTERISK PRECEDES THE ABOVE PAGE NUMBER</comment>
+done it, he bid me go to the further end of the <font>Mill-Lane</font> , and  
+there 
+he must speak with me, and which came first should stay for the 
+other. I was there before him; when he came, he was on 
+horseback, and his Horse kicked about in a furious manner, that the   
+People 
+took notice of it. When they were gone, he told me that he had a 
+thing for me to do, but not to be done presently, and that if I did  
+it 
+I should want for nothing. I ask'd him what it was. He said, about 
+Mr. <font>Crispe</font> , to set him aside, that is, to kill him; but he      
+said, it was 
+not to be done presently: so he put his Hand in his Pocket and gave 
+me Eighteen Pence. I told him, I never did such a thing in my Life; 
+I could not do it. Said he, It is not to be done presently, we have 
+time to consider. A while after he sent for me again, and ask'd 
+me, Whether I had considered of it. I told him, I could not do 
+it. Said he, We must set <font>Crispe</font> aside; for Mrs. <font>Crispe</font> hath  
+got a 
+trick to play; she will make away what there is from me and my 
+Child. I said, I never did any such thing; I could not do it, and 
+desired him to forbear. I went away and left him in his Chamber. 
+Within a while after he came to my House; said he, <font>John</font> , what is 
+the reason you can't do this for me? Said I, I cannot do it. Said 
+he, What signifies it, I would do it for you. I said, I could not 
+do it. The he went away very uneasy, and in a Week or 
+Fortnight sent for me again to his Chamber, and there was at me      
+again. 
+I told him, I could do no such Work. Said he, Why can't you 
+do this Work? I have been a good Master for you, I made my self 
+look little to bail you when you were in Gaol. I turned about 
+and cried. Said he, What makes you cry? Your Crying signifies 
+nothing; the Money that I shall give you, will do you and your 
+Family a kindness. Said I, I can do no such thing. Said he, It 
+signifies no more the killing of him, than to kill a Dog, for they 
+do no good with what they have. Yes, said I, Mr. <font>Crispe</font> is a very 
+good Master; I work'd for him and his Father before him: and 
+so I went away. Afterwards my Wife died three days before 
+<font>Gunpowder-Treason</font> last: she was buried on that day, and being    
+very poor, 
+I sent my Daughter to desire a little Money of him to have the 
+Bell toll'd for my Wife; but he sent me none. My Wife was 
+buried on a <font>Sunday</font> , then on the <font>Monday</font> he sent his Boy for  
+me; 
+I went down to him, and when I came, I fell a weeping for the 
+loss of my Wife, and having ten Children. Said he, What makes 
+you cry? you must pull up a good Heart; tho your Wife be dead, 
+you may have Friends; here is that which will do you a kindness 
+hereafter. Said I, I am very sorry for the loss of my Wife. Said he, 
+What signifies that? she was carried well into the Church, and is, 
+no doubt, happy; she is gone before you; we must all go in our 
+time: I was a Friend to you in her Illness; I sent her a good 
+Doctor at my own Charge: this twenty Pounds that I will give 
+you will be a brave Estate for you.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What were you to have this twenty Pounds for?
+<pagebreak id="17" />
+<comment type="compiler">PAGE NUMBERS 17 AND 18 OCCUR TWICE IN SOURCE TEXT.</comment>
+   </dialogue><nonSpeech> <font>Woodburne.</font> </nonSpeech><dialogue> It was to kill Mr. <font>Crispe</font> ; he told me,  
+that I must set 
+aside Mr. <font>Crispe</font> ; he offer'd me Twenty Pounds to do it; but I   
+then refus'd it. 
+On <font>Monday</font> , New-Years-Day, in the Morning, <font>Coke</font> sent his Boy 
+for me 
+to come to him; and between Eight and Nine, in the Morning, I went to 
+him. He was in his green Room. Now, said he, <font>John</font> , we shall have 
+the fairest Opportunity to kill Mr. <font>Crispe</font> . I told him, I was   
+loth to do it; 
+it was very cold, and I had an Ague. Said he, I will give you that,  
+which 
+shall warm you; he went to his Closet, and gave me out of the Bottle,
+that he used to carry in his Pocket, half a Pint of Brandy, and told 
+me, 
+that happen how it will, I must not come near his House any more that 
+Day, lest afterwards there should be some Suspicion; but said he, 
+Whether Ague or not, you must be at Mr. <font>Morrice's</font> Porch, which   
+is in the 
+Church-yard, about Eight a-clock in the Evening. I went there between 
+Eight and Nine; about Nine, <font>Coke</font> came out, and gave me a Whistle; 
+on that I went up to him; he told me, Mr. <font>Crispe</font> was very jolly, 
+and 
+he believ'd, it would be late before he came out. I told him, I did 
+not care to stay. Said he, You must stay now; this is the Time that 
+will do it. I staid 'till Ten-a-clock; then he came to me again in Mr. 
+<font>Morrice's</font> Porch, and told me, That he believed <font>Crispe</font> would  
+not go 'till 
+Eleven-a-clock; but the later the better. Then he went from me again, 
+and a little after Ten, <font>Coke</font> and <font>Crispe</font> came out together,   
+and on <font>Coke's</font> 
+whistling I came up to them; <font>Crispe</font> was then before, and coming to 
+get against the Wall. I came up to <font>Coke</font> ; he bid me have a care  
+not 
+to hit him instead of <font>Crispe</font> , being very dark; so he took me by 
+the 
+Sleeve to lead me up to <font>Crispe</font> , and said to <font>Crispe</font> ,        
+Brother, stand still; on 
+that I hit him two Stroaks with my Hook; tho' I never heard him swear 
+before, yet he now swore, God damn him; on that, <font>Coke</font> said, What! 
+Doth he swear? Secure him, down with him; he stood by him 'till I 
+gave him several Blows, and then he went away. <font>Coke</font> desired me   
+to take 
+away his Watch; for, saith he, As to his Money, he don't carry above 
+Half a Crown or Three Shillings in his Pocket; and when I go to 
+<font>London</font> , I will sell the Watch for you.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> What <font>Woodburne</font> saith against <font>Coke</font> is 
+no Evidence against 
+<font>Coke</font> , and should not have been mention'd by him; but what he    
+saith 
+relating to himself before the Fact, is so twisted with <font>Coke</font> ,   
+that without 
+the Whole it is not so intelligible as to himself. However, the Jury 
+are to 
+take notice, that what <font>Woodburne</font> saith, is only Evidence against 
+himself, 
+and not against <font>Coke</font> .
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> After you had given him those several Blows  
+with your 
+Hook, what did you next?
+   </dialogue><nonSpeech> <font>Woodburne.</font> </nonSpeech><dialogue> I began immediately to reflect on what I had 
+done, and 
+went away forthwith to my own House, where I was about to take a 
+Line to hang myself.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> Have you any Witnesses, or any body to speak 
+for you?
+   </dialogue><nonSpeech> <font>Woodburne.</font> </nonSpeech><dialogue> My Lord, here are my two Daughters in the    
+Court; I 
+desire your Lordship would be pleas'd to hear them, <font>Ann            
+Woodburne</font> and 
+<font>Sarah Woodburne</font> ; </dialogue><nonSpeech>who being call'd, appear'd, and were sworn.</nonSpeech> 
+   <nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> What say you, <font>Ann Woodburne</font> ?
+<pagebreak id="18" />
+<comment type="compiler">PAGE NUMBERS 17 AND 18 OCCUR TWICE IN SOURCE TEXT.</comment>
+   </dialogue><nonSpeech> <font>Ann Woodburne.</font> </nonSpeech><dialogue> On the <font>Wednesday</font> before              
+New-Years-Day, <font>Coke</font> sent 
+for my Father by his Boy; I told the Boy, my Father was in Bed, and 
+sick of an Ague and could not come. The Boy came again, and said, 
+my Father must by all means come; but he would not then go, but he 
+went to him on New-Years-Day in the Morning, and came home again. 
+About Five or Six-a-clock in the Evening, my Father went out with a 
+Hook in his Hand; and he said, he should not be at Home 'till Eleven 
+or Twelve at Night; and if any body came for him, he bid us not take 
+any notice but that he was at Home. We thought he took the Hook to 
+cut some Wood with.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> Have you any thing more to say?
+   </dialogue><nonSpeech> <font>Ann Woodburne.</font> </nonSpeech><dialogue> When my Mother died, I went to Mr.       
+<font>Coke's</font> to 
+borrow Five Shillings of him, to have the great Bell toll for my     
+Mother; and 
+told him, that my Father would pay him again. He said, What          
+signifi'd the 
+ringing out of the great Bell; her Soul would be never the better    
+for it; 
+but, if he'll satisfy me in my Request, he shall have Five times Five 
+Shillings.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> What say you, <font>Sarah Woodburne</font> ?
+   </dialogue><nonSpeech> <font>Sarah Woodburne.</font> </nonSpeech><dialogue> <font>Coke</font> did frequently send for my    
+Father, at all times 
+both of Day and Night; and he would often come to my Father, and 
+when he came, they would go out, and walk down the Backside, and 
+talk together. After this Fact was done, <font>Coke</font> sent his Boy for my 
+Father, and the Boy said, They must not go together, for if they did, 
+People would take notice of them.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> <font>Woodburne</font> , have you any thing more to   
+say?
+   </dialogue><nonSpeech> <font>Woodburne.</font> </nonSpeech><dialogue> This Day Nine Weeks, which was a Week after  
+the Fact 
+committed, <font>Coke</font> sent for me, and said, <font>John</font> , I wish you      
+would have 
+done the thing I order'd you; but you have been before Alderman 
+<font>Wright</font> and the Recorder, and have told your Story well; but hold 
+you 
+fast, they will examine you again; I shall --
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> This is subsequent to the Fact, and is not   
+Evidence against 
+<font>Coke</font> . If you <font>Woodburne</font> have done; then Mr. <font>Coke</font> , what  
+have you to 
+say for your self?
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> May it please your Lordship, I am much asham'd,   
+and very 
+unable to defend my self; I am asham'd to think I should be          
+concern'd in
+so heinous a Crime against Mr. <font>Crispe's</font> Life; I am even          
+confounded at 
+it; it is indeed a very great Crime, and I know not what to say for 
+my self. As for <font>Woodburne</font> , he hath asserted against me several  
+things 
+that are false.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> I have told the Jury, that what he hath said 
+is no 
+Evidence against you.
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> When I first spoke of this Matter to              
+<font>Woodburne</font> , he said, he 
+should value it no more than the cutting off the Head of a Dog. I 
+did, indeed, go out with Mr. <font>Crispe</font> that Night, but I was not    
+near him 
+when <font>Woodburne</font> struck him, but retreated to my own House in a 
+Moment. My Lord, I am very sensible that a Point of Law may arise on 
+the Statute whereon I am indicted
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> Whereon?
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> With respect to my Intention.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> Your Intention is Matter of Fact, and must    
+be try'd by 
+the Jury, whether your Intent was to maim and disfigure; this doth not 
+seem to me to be a Point of Law; if there be any Point of Law that 
+shall arise, you shall have Counsel to speak to it; but whether you  
+slit 
+Mr. <font>Crispe's</font> Nose, with an Intention to disfigure him, is a      
+Matter of Fact.
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> My Intent was to kill Mr. <font>Crispe</font> , and not to 
+maim or disfigure 
+him.
+   </dialogue><nonSpeech> <font>Lord C. J.</font> </nonSpeech><dialogue> But that is the Question the Jury are to      
+try, Whether you
+did not of Malice slit his Nose, with an Intent to disfigure him. If 
+the
+Jury do not find that you so did, you must be acquitted on this
+Indictment. Supposing your Design was to kill, yet your Design might  
+be
+likewise to maim; and this the Jury must try; this is Matter of Fact 
+for
+their Consideration.
+   </dialogue><nonSpeech> <font>Coke.</font> </nonSpeech><dialogue> This is a very penal Statute, and I am unable to  
+plead my own
+Cause; I beg your Lordship to assign me Counsel.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

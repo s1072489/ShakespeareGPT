@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2WFLOWE">
+  <dialogueHeader>
+
+    <filename>D2WFLOWE</filename>
+
+    <identifier>2 WITNESS D D2WFLOWE</identifier>
+
+    <title>FLOWER</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1618/1619</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE WONDERFVL DISCOVERIE OF THE WITCHCRAFTS OF MARGARET AND 
+PHILLIP FLOWER, DAUGHTERS OF IOAN FLOWER NEERE BEUER CASTLE: EXECUTED
+AT LINCOLNE, MARCH 11. 1618. 
+WHO WERE SPECIALLY ARRAIGNED AND CONDEMNED BEFORE SIR HENRY HOBART,
+AND SIR EDWARD BROMLEY, IUDGES OF ASSISE, FOR CONFESSING THEMSELUES
+ACTORS IN THE DESTRUCTION OF HENRY LORD ROSSE, WITH THEIR DAMNABLE
+PRACTISES AGAINST OTHERS THE CHILDREN OF THE RIGHT HONOURABLE FRANCIS
+EARLE OF RUTLAND.
+TOGETHER WITH THE SEUERALL EXAMINATIONS AND CONFESSIONS OF ANNE BAKER,
+IOAN WILLIMOT, AND ELLEN GREENE, WITCHES IN LEICESTERSHIRE. 
+(PRINTED AT LONDON: BY G. ELD FOR I. BARNES, DWELLING IN THE LONG 
+WALKE NEERE CHRIST-CHURCH, 
+1619.)
+PP. D4R.1 - G1V.16
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">TITLE PAGE CROPPED: PUBLICATION INFORMATION FROM ESTC.</comment>
+
+<pagebreak id="D4R" />
+</dialogue> <head>THE EXAMINATION 
+OF <font>ANNE BAKER</font> OF <font>BOTTESFORD</font> IN 
+THE COUNTY OF <font>LEICESTER</font>  <font>SPINSTER</font> , 
+TAKEN <font>MARCH</font> , I. 1618. BY THE 
+RIGHT <font>HONOURABLE, FRANCIS EARLE</font> 
+OF <font>RUTLAND</font> , SIR <font>GEORGE MANNERS 
+KNIGHT</font> , TWO OF HIS <font>MAIESTIES 
+IUSTICES</font> OF THE PEACE FOR THE 
+COUNTY OF <font>LINCOLNE</font> , AND <font>SAMUEL 
+FLEMING DOCTOR</font> OF <font>DIUINITIE</font> , ONE OF 
+HIS <font>MAIESTIES IUSTICES</font> OF THE PEACE 
+FOR THE COUNTY OF <font>LEICESTER</font> 
+AFORESAID.</head> 
+
+   <nonSpeech>She saith that there are foure colours
+of <font>Planets</font> , Blacke, Yellow, Greene,
+and Blew, and that Blacke is
+alwaies death, and that shee sawe the
+Blew <font>Plannet</font> strike <font>Thomas Fairebarne</font> ,
+the eldest sonne vnto <font>William Fairebarne</font> of
+<pagebreak id="D4V" />
+<font>Bottesford</font> aforesaid by the <font>Pinfold</font> there,
+within the which time the said <font>William
+Fairebarne</font> did beat her and breake her head,
+wherevppon the said <font>Thomas Faire-barne</font> , did mend.
+And being asked who did send that Planet?
+answered</nonSpeech><dialogue> it was not I.
+   </dialogue><nonSpeech>Further shee saith, that shee saw a hand appeare
+vnto her, and that shee heard a voyce in the
+ayre said vnto her:</nonSpeech><dialogue> <font>Anne Baker</font> , saue thy selfe,
+for tomorrow thou and thy maister must be slaine:
+</dialogue><nonSpeech>and the next day her maister and shee were in a
+Cart together; and suddainely shee saw a flash of
+fire, and said her prayers, and the fire went
+away, and shortly after a Crow came and picked
+vpon her cloathes, and shee said her prayers
+againe, and bad the Crow go to whom he was sent,
+and the Crow went vnto her Maister, and did beat
+him to death, and shee with her prayers recouered
+him to life; but hee was sicke a fortnight after,
+and saith, that if shee had not had more knowledge
+then her maister, both he and shee and all the 
+Cattell had beene slaine.</nonSpeech>
+   <nonSpeech>Being examined concerning a Childe of <font>Anne
+Stannidge</font> , which shee was suspected to haue
+<pagebreak id="E1R" />
+bewitched to death; saith, the said <font>Anne 
+Stannidge</font> did deliuer her childe into her hands, and
+that shee did lay it vpon her skirt, but did no harme
+vnto it; And being charged by the Mother of the
+childe, that vpon the burning of the haire and
+the paring of the nailes of the said childe, the said
+<font>Anne Baker</font> came in and set her downe, and for
+one houres space could speake nothing; confesseth
+shee came into the house of the said <font>Anne 
+Stannidge</font> in great paine, but did not know of the
+burning of the haire and nailes of the said Childe;
+but said she was so sicke that she did not know
+whither she went.</nonSpeech>
+   <nonSpeech>Being charged that shee bewitched <font>Elizabeth
+Hough</font> , the wife of <font>William Hough</font> to death,
+for that shee angred her in giuing her almes of her
+second bread; confesseth that she was angry with
+her and said she might haue giuen her of her better
+bread, for she had gone too often on her errands,
+but more she saith not.</nonSpeech>
+   <nonSpeech>This Examinat confesseth that shee came to
+<font>Ioane Gylles</font> house, her child being sicke, and that
+shee intreated this Examinat to look on the Child,
+and to tell her whether it was forspoken or no, and
+<pagebreak id="E1V" />
+this Examinate said it was forspoken; but when
+the said child died she cannot tell.</nonSpeech>
+   <nonSpeech>And being asked concerning <font>Nortley</font> carrying
+of his Child home vnto his owne house, where
+the said <font>Anne Baker</font> was, shee asked him, who
+gaue the said Child that loafe, he told her
+<font>Anthony Gill</font> , to whom this Examinate said, he might
+haue had a Child of his owne if hee would haue
+sought in time for it; which words she confessed
+shee did speake.</nonSpeech>
+   <nonSpeech>Being blamed by <font>Henry Milles</font> in this sort:</nonSpeech><dialogue>
+A fire set on you, I haue had two or three ill nights;
+</dialogue><nonSpeech>to whom shee made answere,</nonSpeech><dialogue> you should haue let
+me alone then, </dialogue><nonSpeech>which shee confesseth.</nonSpeech>
+   <nonSpeech>The said <font>Anne Baker</font> , March 2. 1618.
+confessed before <font>Samuel Fleming</font> Doctor of
+Diuinitie, that about 3. yeares agoe, shee went into
+Northamptonshire, and that at her comming back
+againe, one <font>Peakes</font> wife and <font>Dennis</font> his wife of
+Beluoyre told her that my young Lord <font>Henry</font>
+was dead, and that there was a gloue of the said
+Lord buried in the ground; and as that gloue did
+rot and wast, so did the liuer of the said Lord rot 
+and wast.</nonSpeech>
+<pagebreak id="E2R" />
+   <nonSpeech>Further shee said, March 3. 1618. before S=r=.
+<font>George Manners</font> Knight, and <font>Samuel
+Fleming</font> Doctor of Diuinity, that shee hath a Spirit
+which hath the shape of a white Dogge, which
+shee calleth her good Spirit.</nonSpeech>
+
+
+<nonSpeech> <font>Samuel Fleming</font> test.</nonSpeech>
+<pagebreak id="E2V" />
+ <head>THE EXAMINATION OF <font>IOAN WILLIMOT</font> , 
+TAKEN THE 28. OF <font>FEBRUARY</font> , IN THE
+16. YEARE OF THE RAIGNE OF OUR
+SOUERAIGNE LORD, IAMES, OUER
+<font>ENGLAND</font> KING &amp;C. AND OUER <font>SCOTLAND</font>
+THE 52. BEFORE <font>ALEXANDER
+AMCOTTS</font> ESQUIRE, ONE OF HIS
+MAIESTIES IUSTICES OF THE PEACE OF THE
+SAID PARTS AND COUNTY.</head> 
+
+   <nonSpeech>This Examinat saith, that <font>Ioane Flower</font>
+told her that my Lord of <font>Rutland</font> had
+dealt badly with her and that they had
+put away her Daughter, and that although
+she could not haue her will of my Lord
+himselfe, yet she had spied my Lords Sonne and
+had stricken him to the heart. And she saith,
+that my Lords Sonne was striken with a 
+white Spirit, and that shee can cure some that
+send vnto her, and that some reward her for
+her paines, and of some she taketh nothing.</nonSpeech>
+<pagebreak id="E3R" />
+   <nonSpeech>She further saith, that vpon Fryday night
+last, her Spirit came to her and told her that
+there was a bad woman at <font>Deeping</font> who had
+giuen her soule to the Diuell: and that her
+said Spirit did then appeare vnto her in a
+more vgly forme then it had formerly done,
+and that it vrged her much to giue it
+something, although it were but a peece of her
+Girdle, and told her that it had taken great
+paines for her, but she saith that she would
+giue it nothing, and told it that she had sent
+it to no place but onely to see how my Lord
+<font>Rosse</font> did, and that her Spirit told her that he
+should doe well.</nonSpeech>
+<pagebreak id="E3V" />
+ <head>THE EXAMINATION OF THE SAID <font>IOAN
+WILLIMOTT</font> , TAKEN THE SECOND DAY OF
+<font>MARCH</font> IN THE YEARE ABOUESAID,
+BEFORE THE SAID <font>ALEXANDER AMCOTS</font> .</head> 
+
+   <nonSpeech>This Examinate saith, That shee hath a
+Spirit which shee calleth <font>Pretty</font> , which
+was giuen vnto her by <font>William Berry</font> of
+<font>Langholme</font> in <font>Rutlandshire</font> , whom she serued three
+yeares; and that her Master when hee gaue it
+vnto her, willed her to open her mouth, and
+hee would blow into her a Fairy which
+should doe her good; and that shee opened
+her mouth, and he did blow into her mouth;
+and that presently after his blowing, there
+came out of her mouth a Spirit, which stood
+vpon the ground in the <comment type="compiler">SOURCE TEXT: the the</comment> shape and forme
+of a Woman, which Spirit did aske of her
+her Soule, which shee then promised vnto it,
+being willed thereunto by her Master. Shee
+further confesseth, that shee neuer hurt any
+body, but did helpe diuers that sent for her,
+<pagebreak id="E4R" />
+which were stricken or fore-spoken: and that
+her Spirit came weekely to her, and would
+tell her of diuers persons that were stricken
+and forespoken. And shee saith, that the vse
+which shee had of the Spirit, was to know
+how those did which shee had vndertaken to
+amend; and that shee did helpe them by
+certaine prayers which she vsed, and not by her
+owne Spirit; neyther did she imploy her
+Spirit in any thing, but onely to bring word how
+those did which she had vndertaken to cure.</nonSpeech>
+   <nonSpeech>And shee further saith, that her Spirit came
+vnto her this last night (as she thought) in the
+forme of a woman, mumbling, but she could
+not vnderstand what it said. And being
+asked whether shee were not in a dreame or
+slumber when shee thought shee saw it, shee
+said no, and that she was as waking as at this
+present.</nonSpeech>
+
+<nonSpeech> <font>Alexander Amcots.
+Thomas Robinson</font> test.</nonSpeech>
+<pagebreak id="E4V" />
+ <head>THE EXAMINATION OF <font>IOANE
+WILLIMOT</font> OF <font>GOADBY</font> IN THE COUNTY OF
+<font>LEICESTER</font> VVIDDOW, TAKEN THE 17.
+OF <font>MARCH</font> , 1618. BY SIR <font>HENRY 
+HASTINGS</font> KNIGHT, AND <font>SAMUEL FLEMING</font>
+DOCTOR OF DIUINITIE, TWO OF HIS
+MAIESTIES IUSTICES OF THE PEACE
+OF THE SAID COUNTY OF <font>LEICESTER</font> .</head> 
+
+   <nonSpeech>She saith that she tould one <font>Cookes</font> wife
+of <font>Stathorne</font> in the said County 
+Labourer, that <font>Iohn Patchett</font> might haue had
+his Child aliue, if he would haue sought
+forth for it in time, and if it were not death
+stricken in her wayes, and that <font>Patchets</font> wife
+had an euill thing within her, which should
+make an end of her, and that she knew by
+her Girdle.</nonSpeech>
+   <nonSpeech>She saith further, that <font>Gamaliel Greete</font>
+of <font>Waltham</font> in the said County Shepheard,
+had a Spirit like a white Mouse put into him
+<pagebreak id="F1R" />
+in his swearing; and that if hee did looke 
+vpon any thing with an intent to hurt, it should
+be hurt, and that hee had a marke on his left
+arme, which was cut away; and that her own
+spirit did tell her all this before it went from
+her.</nonSpeech>
+   <nonSpeech>Further she saith, that <font>Ioane Flower</font> , 
+<font>Margaret Flower</font> and shee, did meet about a weeke
+before <font>Ioane Flowers</font> apprehension, in
+<font>Blackborrow-hill</font> , and went from thence home to
+the said <font>Ioan Flowers</font> house, and there she saw
+two spirits, one like a Rat, and the other like
+an Owle; and one of them did sucke vnder
+her right eare, as shee thought: and the said
+<font>Ioan</font> told her, that her spirits did say that shee
+should neyther be hanged nor burnt.</nonSpeech>
+   <nonSpeech>Further she saith, that the said <font>Ioan Flower</font>
+did take vp some earth and spet vpon it, and
+did worke it with her finger, and put it vp
+into her purse, and said though shee could not
+hurt the Lord himselfe, yet shee had sped his
+Sonne, which is dead.</nonSpeech>
+<nonSpeech> <font>H. Hastings.
+Samuel Fleming.</font> </nonSpeech>
+<pagebreak id="F1V" />
+ <head>THE EXAMINATION OF <font>ELLEN GREENE</font>
+OF <font>STATHORNE</font> IN THE COUNTY OF
+<font>LEICESTER</font> , TAKEN THE 17. OF <font>MARCH</font>
+1618. BY SIR <font>HENRY HASTINGS</font> K=T=:
+AND <font>SAMUEL FLEMING</font> D. OF 
+DIUINITIE, TWO OF HIS MAIESTIES IUSTICES
+OF THE PEACE OF HIS SAID COUNTY.</head> 
+   <nonSpeech>Shee saith, that one <font>Ioan Willimot</font> of <font>Goadby</font>
+came about sixe yeares since to her in the
+Wowlds, and perswaded this Examinate to
+forsake God, and betake her to the diuel, and
+she would giue her two spirits, to which shee
+gaue her consent, and thereupon the said <font>Ioan
+Willimot</font> called two spirits, one in the likenesse
+of a Kitlin, and the other of a Moldiwarp: the
+first the said <font>Willimot</font> called <font>pusse</font> , the other
+<font>hisse, hisse</font> , and they presently came to her, &amp;
+she departing left them with this Examinate,
+and they leapt on her shoulder, and the kitlin
+suckt vnder her right eare on her neck, &amp; the
+Moldiwarp on the left side in the like place.
+<pagebreak id="F2R" />
+After they had suckt her, shee sent the Kitlin
+to a Baker of that Towne, whose name shee
+remembers not, who had called her Witch &amp;
+stricken her; and bad her said spirit goe and
+bewitch him to death: the Moldiwarpe shee
+then bad go to <font>Anne Dawse</font> of the same towne
+and bewitch her to death, because she had
+called this examinate witch, whore, jade, &amp;c. and
+within one fortnight after they both dyed.</nonSpeech>
+   <nonSpeech>And further this Examinate saith, that she
+sent both her spirits to <font>Stonesby</font> , to one <font>Willison</font>
+a husbandman, &amp; <font>Robert Williman</font> a 
+husbandmans sonne, and bad the Kitlin goe to <font>Willison</font>
+and bewitch him to death, and the
+Moldywarp to the other, and bewitch him to death,
+which they did; and within tenne dayes they
+dyed. These foure were bewitched while this
+Examinate dwelt at <font>Waltham</font> aforesaid.</nonSpeech>
+   <nonSpeech>About three yeares since, this Examinate
+remoued thence to <font>Stathorne</font> , where she now
+dwelt: vpon a difference betweene the said
+<font>Willimot</font> and the wife of <font>Iohn Patchet</font> of the
+said <font>Stathorne</font> Yeoman, shee the said <font>Willimot</font>
+called her this Examinate to goe and touch
+<pagebreak id="F2V" />
+the said <font>Iohn Patchets</font> Wife and her Childe,
+which shee did, touching the said <font>Iohn
+Patchets</font> wife in her bed, and the childe in the
+Grace-wifes armes, and then sent her said
+spirits to bewitch them to death, which they
+did, and so the woman lay languishing by the
+space of a moneth and more, for then shee
+dyed; the childe dyed the next day after
+she touched it.</nonSpeech>
+   <nonSpeech>And shee further saith, that the said <font>Ioane
+Willimot</font> had a spirit sucking on her, vnder the
+left flanke, in the likenesse of a little white
+Dogge, which this Examinate saith, that she
+saw the same sucking in Barley-haruest last,
+being then at the house of the said <font>Ioan
+Willimot</font> .</nonSpeech>
+   <nonSpeech>And for her selfe, this Examinate further
+saith, that shee gaue her soule to the Diuell to
+haue these spirits at her command; for a 
+confirmation whereof, she suffered them to suck
+her alwayes as aforesaid about the change
+and full of the Moone.</nonSpeech>
+<nonSpeech> <font>H. Hastings.
+Samuel Fleming.</font> </nonSpeech> 
+<pagebreak id="F3R" />
+ <head>THE EXAMINATION OF <font>PHILLIP FLOWER</font> , SISTER OF
+<font>MARGARET FLOWER</font> , AND DAUGHTERS OF <font>IOANE 
+FLOWER</font> , BEFORE S=R= <font>WILLIAM PELHAM</font> , AND M=R=.
+<font>BUTLER</font> , IUSTICES OF THE PEACE, <font>FEBR.</font> 4. 1618.
+WHICH WAS BROUGHT IN AT THE ASSIZES AS
+EUIDENCE AGAINST HER SISTER <font>MARGARET</font> .</head> 
+
+   <nonSpeech>She saith, that her mother and her sister
+maliced the Earle of <font>Rutland</font> , his Countesse, and
+their Children, because her Sister <font>Margaret</font> ,
+was put out of the Ladies seruice of Laundry, and
+exempted from other seruices about the house,
+wherevpon her said sister, by the commandement
+of her mother, brought from the Castle the right
+hand gloue of the Lord <font>Henry Rosse</font> , which she
+deliuered to her Mother; who presently rubd it on the
+backe of her Spirit <font>Rutterkin</font> , and then put it into
+hot boyling water, afterward shee pricked it often,
+and buried it in the yard, wishing the Lord <font>Rosse</font>
+might neuer thriue, and so her Sister <font>Margaret</font> 
+continued with her mother, where shee often saw the
+cat <font>Rutterkin</font> leape on her shoulder, and sucke her
+necke.</nonSpeech>
+   <nonSpeech>Shee further confessed, that shee heard her
+mother often curse the Earle and his Lady, and 
+therevpon would boyle feathers and blood together,
+vsing many Diuellish speeches and strange gestures.</nonSpeech>
+<pagebreak id="F3V" />
+ <head>THE EXAMINATION OF <font>MARGARET FLOWER</font> , SISTER
+OF <font>PHILLIP FLOWER. &amp;C.</font> ABOUT THE 22. OF
+<font>IANUARY</font> . 1618.</head> 
+   <nonSpeech>She saith and confesseth, that about foure or
+fiue yeare since her Mother sent her for the
+right hand gloue of <font>Henry</font> Lord <font>Rosse</font> ,
+afterward that her mother bade her goe againe
+into the Castle of <font>Beauer</font> , and bring downe the gloue
+or some other thing of <font>Henry</font> Lord <font>Rosse</font> , and shee
+askt what to doe? Her Mother replyed</nonSpeech><dialogue> to hurt my 
+Lord <font>Rosse</font> : </dialogue><nonSpeech>wherevpon she brought downe a gloue,
+and deliuered the same to her Mother, who stroked
+<font>Rutterkin</font> her Cat with it, after it was dipt in hot
+water, and so prickt it often, after which <font>Henry</font> Lord
+<font>Rosse</font> fell sicke within a weeke, and was much
+tormented with the same.</nonSpeech>
+   <nonSpeech>She further saith, that finding a gloue about two
+or three yeares since of <font>Francis</font> Lord <font>Rosse</font> , on a
+dung-hill, she deliuered it to her mother, who put it
+into hot water, and after tooke it out and rubd it on
+<font>Rutterkin</font> the Cat, and bad him goe vpwards, and
+after her mother buried it in the yard, and said</nonSpeech><dialogue> a
+mischiefe light on him, but he will mend againe.
+   </dialogue><nonSpeech>Shee further saith, that her Mother and shee, and
+her Sister agreed together to bewitch the Earle and
+his Lady, that they might haue no more children:
+and being demanded the cause of this their mallice
+and ill will; shee saith, that about foure yeares since
+<pagebreak id="F4R" />
+the Countesse (growing into some mislike with her)
+gaue her forty shillings, a bolster, &amp; a mattresse, and
+bad her lye at home, and come no more to dwell
+at the Castle; which she not onely tooke in ill part,
+but grudged at it exceedingly, swearing in her heart
+to be reuenged. After this, her Mother complained
+to the Earle against one <font>Peake</font> , who had offered her
+some wrong, wherein she conceiued that the Earle
+tooke not her part, as shee expected, which dislike
+with the rest, exasperated her displeasure against
+him, and so she watched an opportunity to bee
+reuenged: wherevpon she tooke wooll out of the said
+mattresse, and a paire of gloues, which were giuen
+her by M=r=. <font>Vauasor</font> , and put them into warme water,
+mingling them with some blood, and stirring it
+together, then she tooke the wooll and gloues out of
+the water, and rubd them on the belly of <font>Rutterkin</font>
+her Cat, saying the Lord and the Lady should haue
+more Children, but it would be long first.</nonSpeech>
+   <nonSpeech>Shee further confesseth, that by her mothers
+commandement, shee brought to her a peece of a
+handkercher of the Lady <font>Katherine</font> the Earles daughter,
+and her mother put it into hot water, &amp; then taking
+it out, rubd it on <font>Rutterkin</font> , bidding him flye, and go;
+wherevpon <font>Rutterkin</font> whined and cryed Mew:
+whereupon shee said, that <font>Rutterkin</font> had no power
+ouer the Lady <font>Katherine</font> to hurt her.</nonSpeech>
+<pagebreak id="F4V" />
+ <head>THE EXAMINATION OF <font>PHILLIP FLOWER</font> , THE 25.
+OF <font>FEBRUARY</font> , 1618. BEFORE <font>FRANCIS</font> EARLE
+OF RUTLAND, <font>FRANCIS</font> LORD <font>WILLOUGHBY</font> OF
+ERSBY, S=R=. <font>GEORGE MANNERS</font> , AND S=R=. <font>WILLIAM
+PELHAM</font> .</head> 
+   <nonSpeech>Shee confesseth and saith, that shee hath a
+Spirit sucking on her in the forme of a white Rat,
+which keepeth her left breast, and hath so
+done for three or foure yeares, and concerning the
+agreement betwixt her Spirit and her selfe, she
+confesseth and saith, that when it came first vnto her,
+shee gaue her Soule to it, and it promised to doe
+her good, and cause <font>Thomas Simpson</font> to loue her, if
+shee would suffer it to sucke her, which shee agreed
+vnto; and so the last time it suckt was on Tuesday
+at night, the 23. of <font>February</font> .</nonSpeech>
+<pagebreak id="G1R" />
+ <head>THE EXAMINATION OF <font>MARGARET FLOWER</font> , AT
+THE SAME TIME, &amp;C.</head> 
+
+   <nonSpeech>Shee confesseth, that she hath two familiar
+Spirits sucking on her, the one white, the other
+black-spotted; the white sucked vnder her left
+brest, and the blacke spotted within the inward parts 
+of her secrets. When shee first entertained them she
+promised them her soule, and they couenanted to
+doe all things which she commanded them, &amp;c.</nonSpeech>
+   <nonSpeech>Shee further saith, that about 30. of <font>Ianuary</font> ,
+last past, being Saturday, foure Diuells appeared
+vnto her in <font>Lincolne</font> Iayle, at eleauen or twelue a clocke
+at midnight: The one stood at her beds feete, with
+a blacke head like an Ape, and spake vnto her; but
+what, shee cannot well remember, at which shee was
+very angry  because hee would speake no plainer, or
+let her vnderstand his meaning: the other three
+were <font>Rutterkin</font> , <font>Little Robin</font> , and <font>Spirit</font> ; but shee
+neuer mistrusted them, nor suspected her selfe,
+till then.</nonSpeech>
+
+ <head>THERE IS ANOTHER EXAMINATION OF THE SAID
+MARGARET FLOWER, TAKEN THE FOURTH OF 
+FEBRUARY, 1618. TENDING TO THIS EFFECT.</head> 
+
+   <nonSpeech>That being asked what shee knoweth 
+concerning the bewitching of the Earle of Rutland,
+his wife, and children, shee saith, that it is
+<pagebreak id="G1V" />
+true, that her selfe, her mother, and sister were all
+displeased with him, especially with the Countesse,
+for turning her out of seruice, wherevppon some
+foure yeare since, her mother commanded her to
+goe vp to the Castle, and bring her the right hand
+gloue of the Lord <font>Henry Rosse</font> , the Earles eldest
+sonne; which gloue she found on the rushes in the
+Nurcery, and deliuered the same to her Mother,
+who put it into hot water, prickt it often with her
+knife, then tooke it out of the water, and rubd it
+vppon <font>Rutterkin</font> , bidding him height and goe, and doe
+some hurt to <font>Henry</font> Lord <font>Rosse</font> , wherevpon hee fell 
+sicke, and shortly after dyed, which her Mother
+hearing of, said it was well: but after shee had rubd
+the gloue on the Spirit <font>Rutterkin</font> , shee threw it into
+the fire and burnt it, &amp;c.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

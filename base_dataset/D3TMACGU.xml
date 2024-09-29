@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TMACGU">
+  <dialogueHeader>
+
+    <filename>D3TMACGU</filename>
+
+    <identifier>3 TRIAL D3TMACGU</identifier>
+
+    <title>CONNOR LORD MACGUIRE</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1644/1645</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE VVHOLE TRIALL OF CONNOR LORD MACGUIRE, WITH THE PERFECT
+COPIES OF THE INDICTMENT, AND ALL THE EVIDENCES AGAINST HIM. ALSO THE
+COPIE OF SIR PHILOME ONEALES COMMISSION, THE POPES BULL TO THE 
+CONFEDERATE CATHOLIKES IN IRELAND, WITH MANY REMARKABLE PASSAGES OF
+THE GRAND REBELLION THERE, FROM THE FIRST RISE THEREOF TO THIS 
+PRESENT. 
+(...)
+LONDON, PRINTED FOR ROBERT AUSTIN, IN THE OLD-BAILY. 
+1645.
+PP. 1.1 - 4.33   SAMPLE 1
+PP. 12.3 - 13.12 SAMPLE 2
+PP. 20.1 - 21.30 SAMPLE 3
+PP. 25.20 - 31.3 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="1" />
+ <head>THE TRIALL OF CONNOR MACGUIRE, BARON OF
+ENESKELLIN IN IRELAND (A GRAND IRISH 
+REBELL) AT THE KINGS-BENCH BARRE,
+ON MUNDAY FEBR. 10. AND TUESDAY FEBR. 11. 1644.</head> <dialogue>
+
+<comment type="compiler">INTRODUCTORY PARAGRAPH OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Macguire.</font> </nonSpeech><dialogue> I do humbly move, that I may have time
+allowed me by this Court to send for my Witnesses.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> You have had a long time; you were indicted 
+about the beginning of the last Terme, you might have
+prepared Witnesses the last Terme.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> I did not expect a Triall.
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> You should expect it at your perill.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> I was told, when I came into the Kingdome, that I
+might have Witnesses.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> The proofe lies upon the Kings part.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> Though the proofe be of the Kings part, yet I must
+have time to cleere my selfe.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> But if every man should ask so much time as you
+require, he should never come to his Triall.
+   </dialogue><nonSpeech> <font>Sergeant Whitfield.</font> </nonSpeech><dialogue> Mr. Justice <font>Bacon</font> , we know     
+that my
+L. <font>Macguire</font> was indicted here the last Terme, he was
+arraigned at this Barre, he pleaded, <font>Not guilty</font> , he could not but
+expect that he had then been tried, if it had not been for the
+plea of Peerage, that he then put in, upon which he knows
+there was a deliberate dispute, and he could not tell but that
+there would be an end before this time; and if he had had
+any Witnesses, he might have sent for them the last Terme:
+but it is a very unusuall course, especially in that he could
+not but expect that he should be tried before this time, but
+then the Court did conceive this was a legall information.
+No place is mentioned by the Prisoner where the
+Witnesses should be, nor are they named who they are, nor any
+particular thing that they should testifie: but the proof lies
+cleere on our part; there's no justification in Treason, if we
+prove that this Lord hath committed Treason, there's no
+justification of that, by any Witnesses he can produce.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> The Lord <font>Grey</font> , that was L. Deputy of        
+Ireland,
+committed his Treasons in Ireland, for which hee was
+brought over hither, and tried here, yet the Court did
+not stay for his sending over into Ireland for Witnesses.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> I desire Witnesses.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> What can your Witnesses say for you? Can they
+say thus much, That you did not conspire, as this
+Indictment charges you? that there was no taking of these
+<pagebreak id="3" />
+Castles? Can they sweare in the Negative? the proofe lies
+in the Affirmative on the Kings Part?
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> They may be mis-informed.
+   </dialogue><nonSpeech> <font>Judge.</font> </nonSpeech><dialogue> Who may be mis-informed?
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> The Court. I have been kept close prisoner a long
+time, and could not provide my Witnesses.
+   </dialogue><nonSpeech> <font>Ser. Whitfield.</font> </nonSpeech><dialogue> If we were not tied to that, to nothing 
+but
+his own Confession, there's enough to condemne him, for
+that he saies he was kept close prisoner, he might have
+desired that the last Terme.
+   </dialogue><nonSpeech> <font>Sergeant Roll.</font> </nonSpeech><dialogue> If we go upon your own Examination, the
+witnesses concurring with that, what can you have?
+   </dialogue><nonSpeech> <font>Judge.</font> </nonSpeech><dialogue> If you had witnesses here, we would hear them,
+but to stay upon a meere verball supposall, for those
+witnesses in Ireland, they may be in that rebellion too, and they
+will never come hither, and so the matter must never come
+to a Triall.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> I desire that it may be the next Terme.
+   </dialogue><nonSpeech> <font>Judge.</font> </nonSpeech><dialogue> We cannot protract time, they are the Kings
+Witnesses, there are (I suppose) divers here, many
+Witnesses of the Kings come out of Ireland, if you will aske them
+any Questions for your defence, you shall: There are many
+Witnesses of the Kings that know how things were in
+Ireland, the Court shall put them to speake.
+   </dialogue><nonSpeech> <font>Mac.</font> </nonSpeech><dialogue> I humbly desire to have a formall Triall.
+   </dialogue><nonSpeech> <font>Judge.</font> </nonSpeech><dialogue> In what respect do you meane? I think it is so
+now: Now you are come to be arraigned, and the evidence
+is to come in against you, I conceive it is a formall one.
+   </dialogue><nonSpeech>Then the Prisoner was required to hold up his hand at
+the Barre; and it was demanded, if he would challenge any
+of the Jury that were to passe upon him in matter of life and
+death.
+   Then the Jury being called, he lookt upon them, and
+<pagebreak id="4" />
+challenged those which did appeare, being 23. there being
+onely one absent, being demanded whether his challenge
+was peremptory or no? He answered, it was, for causes
+best knowne to himselfe.</nonSpeech><dialogue>
+<comment type="compiler">LIST OF JURY MEMBERS THAT WERE CHALLENGED OMITTED.</comment>
+   </dialogue><nonSpeech> <font>Ser. Whit.</font> </nonSpeech><dialogue> The Prisoner hath challenged all the Jury
+that does appeare, 23. appeares, and he hath challenged
+them, and his challenge is for causes best known to himself,
+which is a peremptory challenge. Truely, it is that which
+the Law doth allow, and we do not oppose it, but we doe
+desire that wee may have another Writ returnable to
+morrow.
+   </dialogue><nonSpeech> <font>Judge.</font> </nonSpeech><dialogue> You must have a <font>Venire facias</font> .
+   </dialogue><nonSpeech> <font>Serj. Whit.</font> </nonSpeech><dialogue> This cause is a cause of very great weight,
+there are many Witnesses that have long attended in Court,
+we are informed, that some of them are gone away into
+Ireland; that there is the Sheriffe of <font>Dublin</font> and some others
+that are now present in Court, that cannot be here, if wee
+should deferre this Triall, as the Prisoner doth desire, and
+we do desire that it may be referred till to morrow, we shall
+be ready to give in evidence against him.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="12" />
+   <nonSpeech>Sir <font>William Stewards</font> Testimony.</nonSpeech><dialogue>
+   I was one of the Committee that was sent by the
+Parliament, and by Order from the House of Lords, to search the
+Parliament house, and the Lord <font>Macguire</font> was one of the
+Lords; they made a very strict search, and then they
+inquired for the Kings Magazine, and I believe my Lord
+<font>Macguire</font> now here was one of the Committee that went to
+search for the House of Lords, and he did search very
+narrowly, and they were desirous to know where the Store
+was.
+   </dialogue><nonSpeech>The Lord <font>Blaneys</font> Testimony.</nonSpeech>
+   <nonSpeech>C.</nonSpeech><dialogue> Whether this search were moved by the Lord
+<font>Finghall</font> and what was the end of it?
+   </dialogue><nonSpeech>L. <font>Blaney.</font> </nonSpeech><dialogue> So neer as I can, I will give you the         
+businesse,
+it is so long agoe: this I remember, that there was one of
+the Lords house, whether it were my Lord <font>Finghall</font> , or my
+L. <font>Macary</font> , moved it, I cannot certainly despose, but I am
+sure it was one of them: the occasion was, one of the Earl of
+<font>Straffords</font> coachmen said, he hoped to see some of the Lords
+blowne up for it, it was about a fortnight after the Earle of
+<font>Strafford</font> was beheaded here. Thereupon they got an Order
+for it, and so they went downe, and they did not finde the
+powder, but they made as narrow a search as ever any was;
+I asked what the meaning was of this, for we had strange
+censures of it our selves, saies of them, the L. <font>Clamorris</font> , they
+are affraid of a powder-plot of the Protestants: I answered,
+that I had heard a powder-plot of the Papists, but never of
+the Protestants in my life; but if you aske the reason of it,
+it was to assure themselves of the strength, for we found by
+wofull experience afterwards, it was their end. My Lord
+<font>Borlace</font> said, let them not be affraid, for upon my honour
+<pagebreak id="13" />
+there is no powder below. It's a great House, the House of
+Commons sit on one side, and the Lords on the other, and
+the Blockhouse in the middle.
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> What Religion is my Lord <font>Fingshall</font> , and my Lord
+<font>Clamorris</font> , of?
+   </dialogue><nonSpeech> <font>L.</font> B.</nonSpeech><dialogue> The L. <font>Fingshall</font> is a Papist, and              
+<font>Clamorris</font> a
+pestiferous Papist!
+   </dialogue><nonSpeech> <font>S.VV.</font> </nonSpeech><dialogue> All Papists we shall now read the examination of
+the manner of his taking, and then his own examination.
+   The first we shall read is this, of M. <font>VVoodcock</font> , that was
+Sheriffe of Dublin he was in town, but he could not stay,
+but he was examined before this Court.
+<comment type="compiler">EXAMINATIONS OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="20" />
+<comment type="compiler">THE EXAMINATIONS HAVING BEEN READ.</comment>
+   </dialogue><nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> We desire to shorten, we have a great many         
+Witnesses;
+we shall goe upon these particulars. I. Captaine <font>Oneales</font> landing 
+in
+Ireland, and what he brought with him. 2. <font>Guilo</font> and <font>Crocan</font> .
+Lastly, how long besieged, and how many murthered?
+   </dialogue><nonSpeech>Then Sir <font>William Steward</font> gave in testimony to this effect:
+   That <font>Con Owen Oneale</font> landed in July the same yeare the        
+Rebellion
+began, brought many Commanders, much Armes and Ammunition;
+many of his Commanders, nine of the chiefe of them, were taken
+prisoners at one battell.</nonSpeech>
+   <nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> It is his own confession, that he sent a Priest    
+over to fetch   
+Armes to come into Ireland.
+   </dialogue><nonSpeech>Then the Lady <font>Calfield</font> was desired to declare her knowledge
+concerning the taking of Charlemont castle.</nonSpeech>
+   <nonSpeech> <font>Lady Calfield.</font> </nonSpeech><dialogue> The 23. of Octob. 1641. Sir <font>Philom     
+Oneale</font> and
+others came into the castle, they seized upon all, murthered his
+servants; and those that were alive, they bound them, and put them in
+prison: and at that time Sir <font>Philom Oneale</font> himselfe, and other of
+his companions told her, <font>That Dublin castle and city, and most other
+Forts of Ireland, were surprized by their confederates the Papists:  
+and
+that he was sorrie for his cosin the Lord</font> Macguire, <font>and that he  
+was
+afraid he was taken</font> .
+   </dialogue><nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> What was done with my Lord <font>Calfield</font> ?
+   </dialogue><nonSpeech> <font>La. Calfield.</font> </nonSpeech><dialogue> He was murthered: he beg'd for his life,  
+and they
+durst not but doe it.
+   </dialogue><nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> When Sir <font>Philom Oneale</font> had taken my Lord       
+<font>Calfield</font> , then
+they got this Lady to write to the Lords Justices, that my L.
+<font>Macguire</font> might be exchanged for her sonne, but that would not    
+be: and
+thereupon they murdered my Lord <font>Calfield</font> , <font>Francis Davis</font> , and
+others.
+   </dialogue><nonSpeech>Mrs. <font>Mary Wordroses</font> Testimony.</nonSpeech><dialogue>
+   That he came on Friday night about 10. or 11. a clock, to breake
+into the castle; I hearing the noise, asked what was the matter: I
+went to call up some of our Gentlemen: when I came in againe,
+they had taken some of our Gentlemen, and bound them.
+   </dialogue><nonSpeech>She also testified the murdering of the Lord <font>Calfield</font> ,     
+<font>Francis
+Davis</font> , and others; and the former words concerning the Lord
+<font>Macguire</font> .</nonSpeech>
+<pagebreak id="21" />
+   <nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> These two Witnesses prove that of Charlemont, how  
+farre
+the Rebells owned the L. <font>Macguire</font> , as to endeavour his exchange.
+We shall now come to the other Castles, how long they besieged
+them, and who was murthered?
+   </dialogue><nonSpeech> <font>Walter Gubsons</font> Testimony.</nonSpeech><dialogue>
+   They besieged it a quarter of a year before they tooke it, divers 
+of
+the chief conspirators, and <font>Powell</font> , and <font>Cosens</font> , tooke the  
+Castle by
+force in an hostile manner.
+   </dialogue><nonSpeech>Sir <font>Francis Hamiltons</font> Testimonie.</nonSpeech><dialogue>
+   <font>Philip O Rely</font> came to the Castle to Guilo and Crogan Castles, 
+and
+they lay before it a quarter of a yeer, with 2000. or 3000. men,
+somtimes 1500. but never lesse.
+   </dialogue><nonSpeech>Sir <font>Charles Cootes</font> Testimony concerning the generality of the
+Rebellion.</nonSpeech><dialogue>
+   Sir <font>Philom O Neale</font> and <font>Roger Moore</font> were the actors in the
+massacres, and by publike directions of some in place, and of the
+Titulary Bishops, for the sending of an exact account of what Persons 
+were murthered throughout all Vlster, a fourth part of the Kingdom
+of Ireland, to the Parish Priests in every Parish, and they sent in a
+particular account of it, and the account was, an hundred foure
+thousand seven hundred, in one Province, in the first three moneths
+of the Rebellion.
+   </dialogue><nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> What say you concerning the generall Counsell, and 
+the
+Popes Bull?
+   </dialogue><nonSpeech> <font>S.C. Coote.</font> </nonSpeech><dialogue> The supreame Counsell they tooke up a new   
+forme
+of government upon them of their owne, and by this authority it
+was granted to the Lady <font>Macguire</font> , that she should have the Rent
+of such Lands in recompence of the losse that he was at in their     
+causes
+They have made severall Judges of their own Courts: They print,
+they coyn, they do all in their own names.
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="25" />
+   <nonSpeech>Then the Lord <font>Macguire</font> proceeded to make his defence,       
+wherein he
+first of all denied his Examination (although testified as before by 
+so
+many credible witnesses) and said that he knew no such Examination.  
+   That at the time of his apprehension at Dublin, he came about his
+own particular occasions, as his Estate was in danger if he did not
+follow it: That because he was found about the City, he was therefore
+apprehended; That his lodging was not within the City, but he lodged
+without the City; that he did lodge at Mr. <font>Nevils</font> House          
+formerly, but
+not at this time: That for some of the places mentioned, where he
+should be about the Conspiracy, he had not been there a year before,
+he was certain of it. For the number of Protestants that were
+mentioned to be slain, he said he did not think there were so many   
+Protestants
+in the whole Kingdome. That he was continually either at his owne
+House, or at Dublin, and knew nothing of the Plot but by hear-say.</nonSpeech>
+   <nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> You confesse in your Examination, when the day    
+was for the
+rising, that you were in the conspiracy, and appointed for the       
+taking of
+Dublin Castle; and that you were taken when you came about it. 
+Also you rode about it, and provided Armes.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I was in the house in the Cock-loft where I was   
+taken, I
+did not know where any Army was!
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>S.W.</font> </nonSpeech><dialogue> My Lord <font>Macguire</font> does forget himself what he
+acknowledges under his own hand.
+   </dialogue><nonSpeech>Then the Examination being shewed him he said;</nonSpeech><dialogue> Theres my name
+but not my hand.
+   </dialogue><nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> I am sorry to hear it, I did rather expect, that  
+you should have
+acknowledged it; Here are two able witnesses that can testifie it    
+against
+you, your denying your own hand, which is so manifestly proved, will
+be a great discredit to what you say; you acknowledged it at two
+severall times.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> What did I acknowledge?
+   </dialogue><nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> You say that you came to Dublin to settle your    
+estate: By
+your own Examination you acknowledge, That the Castle of Dublin
+was to be surprised by your self.
+   </dialogue><nonSpeech> <font>Jud.</font> </nonSpeech><dialogue> It is now time we should draw to the Jury: You     
+hear my
+Lord Bramston and my Brother <font>Finch</font> here justifie it to you.
+   </dialogue><nonSpeech>Then the L. <font>Macguires</font> Examination was shewed to my L.       
+<font>Blaney</font> ,
+being present in Court, demanding whether he thought it to be
+<font>Macguires</font> hand or no?</nonSpeech>
+   <nonSpeech> <font>L. Blaney.</font> </nonSpeech><dialogue> It is my Lords own hand, he hath written to  
+me many 
+Letters.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I don't think I have written many Letters to your 
+Lordship.
+   </dialogue><nonSpeech> <font>Judg.</font> </nonSpeech><dialogue> Gentlemen of the Jury you may go to the           
+businesse; If there
+were nothing but that you see in this case but what is in the
+examination if you do beleeve to be his: His confession does         
+acknowledge it:
+you hear this by the testimony of my Lord <font>Bramston</font> , and my      
+brother
+<font>Finch</font> , expresly that were present when he did acknowledge it    
+and set
+his hand to it, and yet you see though it is here proved by my Lord
+<font>Blaney</font> he denies it, If you finde this to be true here is        
+treason enough,
+and too much too, for he does here confesse; That <font>Roger Moore</font> did
+acquaint him; That if the Irish did rise, they might make their own
+conditions for regaining their lands; and he acquainted him, That he
+had spoken with sundry in Leinster, that would be ready for that
+purpose, and that a great part of Conaught would do the like; and then
+moved him (this Lord) the prisoner at the Barre, to joyn likewise with
+him, which he did, so then was the plot. The next day they met, he
+goes to <font>Moores</font> Chamber again, where Col <font>Mac Brian</font> ,          
+<font>Mac-mahun</font> ,
+and others, had discourse again about it, then he sayes; That they did
+send over to <font>Owen O Neal</font> , to acquaint him concerning the generall
+Rebellion in Ireland, then in preparation. He confesses expresly; That
+<pagebreak id="27" />
+being demanded why the said <font>Owen</font> should bring over Armes, seeing
+the Castle of Dublin was to be surprised, answered: That they so
+provided Armes, that they might not want any thing, if they should not
+take it, whereof they doubted. And then you have him 
+acknowledgeing, that the Castle of Dublin was to be surprised by     
+himself, and
+Captain <font>Brian O Neal</font> , and others; These words shew here         
+expresly, That
+the day whereon the execution was appointed, by the Lord <font>Maguires</font>
+own confession, he was come to Dublin for the surprise of the Castle.
+So that it is apparent, that he was about this plot expresly. If     
+this be
+true; That you did conspire to make warre or Rebellion within that
+Kingdome, though you were taken your self before it was executed,
+yet it was your own conspiracie: And besides, endeavouring after that
+to bring it to perfection, by sending over for Armes. All these does
+discover your own intention to execute it.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I confesse it not, I referre my self to the Jury.
+   </dialogue><nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> Gentlemen you are to know, that to conspire to    
+raise a
+Warre, if any of that Conspiracy do Act it, as you see here Sir
+<font>Philome O Nele</font> did, if you observe the Testimonie of my La.      
+<font>Calfield</font> , he
+came and surprised the Castle of Charlemont, and then it was given
+out, that my Lord <font>Maguire</font> had taken Dublin, so that though it did
+not take effect, That which is done by any is testimonie enough.
+   Goe together and consider of it.
+   </dialogue><nonSpeech>Upon this the Jury went together, and staying a short space,
+returned their verdict, which was; That they found him guilty of all
+the Treasons according to the Indictment.</nonSpeech><dialogue>
+   C. Conner <font>Maguire</font> , alias <font>Cornelius Maguire</font> ; Thou hast   
+been
+indicted of severall high Treasons, and thou Hast been Arraigned;
+Upon the Arraignment, Thou hast pleaded not guilty, and for thy
+Triall hast put thy self upon thy countrey, which countrey have found
+thee guilty, according to the Indictment, Therefore prepare thy self
+to receive the sentence.
+   </dialogue><nonSpeech> <font>Magu.</font> </nonSpeech><dialogue> I desire to know by what Law?
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> The Law is well enough Knowne; That is, a        
+Treason is
+within the Statute <comment type="compiler">SOURCE TEXT: Satute</comment> without doubt.
+   </dialogue><nonSpeech> <font>Magu.</font> </nonSpeech><dialogue> I was not tried by my Peeres.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> This is a generall Exception, formerly annexed   
+in your
+plea, If you can shew some particular cause also, you shall be heard.
+   </dialogue><nonSpeech> <font>Magu.</font> </nonSpeech><dialogue> I desire counsell to advise me.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> When you did put in a plea therein, you had      
+councel to
+<pagebreak id="28" />
+advise you in your plea and to argue it; Now your time is past for
+counsell, you must have none assigned to picke holes in the
+Inditement.
+   </dialogue><nonSpeech> <font>Magu.</font> </nonSpeech><dialogue> I desire the Court would consider of it before    
+they proceed
+to sentence.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> You offer nothing to the Court that is of any    
+difficultie,
+you had counsell whether you should be tried by your Peers or the
+Jury here, which jury are to try any man under a Nobleman in this
+Kingdome.
+   </dialogue><nonSpeech> <font>Magu.</font> </nonSpeech><dialogue> I desire to know under what seal you thus proceed 
+against
+me, for I thinke you sit here by the new seal.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> What seal do you mean, I sit here by vertue of   
+the Olde by
+Order of Parliament.
+   </dialogue><nonSpeech> <font>Mag.</font> </nonSpeech><dialogue> Vnder favour I conceive, that the Ordinance of     
+Parliament
+for the New seal, makes all done by the old seal to be voide.
+   </dialogue><nonSpeech> <font>Iudge.</font> </nonSpeech><dialogue> Here is nothing done but by good authority, and  
+the
+Parliaments approbation.
+   </dialogue><nonSpeech> <font>Mag.</font> </nonSpeech><dialogue> I conceive the Ordinance for the New seal cuts off 
+all
+proceedings of the olde.
+   </dialogue><nonSpeech>Iudge.</nonSpeech><dialogue> My authority is not cut off, I was made by the Olde    
+Seale
+before there was any New Seale, and so I am continued by the
+Parliament, and the Parliament did take notice that I have been
+allowed to sit. Besides this, there is nothing done in this Court by 
+the
+New Seale, the Sheriffs are here by a Charter, and that comes in from
+yeer to yeer and there is no Seale in order of execution.
+   </dialogue><nonSpeech>Iudge.</nonSpeech><dialogue> Well if you have nothing to say for your selfe, I am to
+pronounce sentence as I am a Minister of Iustice: you have been      
+Indited
+here for severall Treasons contained in your inditement as was here of
+late read unto you, and you have had a fair proceeding &amp; very 
+deliberately: for your inditement came in about <font>Alhallowmas</font>      
+last, three
+weekes or a Moneth before the end of the last Terme, three weeks
+at least; you then made a question whether you ought to be tried
+by your Peers in Ireland, or a Jury here, the Court did so far
+deliberate in it as to allow you Counsell to plead with the best     
+advantage
+you could. And afterwards this Terme, there hath been two
+arguments at the Barre on each side, where hath been said as much for
+you as can be. The Court ouer ruled that, and so you are tried by
+a Jury, and you had the Liberty to challenge them, and had all the
+<pagebreak id="29" />
+advantages that the Law will afford and take all the exceptions you
+could. Truely for my part, I see, that there is not any one of them  
+for
+me to sway the Judgement: The Treason and the Offences that you
+are charged withall are very hainous, your crimes very impious,
+great destruction hath followed upon your plot which the Jury have
+found you guilty of? What a mighty cruell war and great
+devastation in that Kingdome, most horrid to speak or rehearse: It   
+is fitter for
+you now to bethinke your selfe, what your offences are, and prepare
+your selfe for death rather then seek to mask or put colours upon    
+those
+things which are so manifestly proved to all the world: And now you
+are found guilty, and therefore there is no contradiction or
+gainsaying will avail you, you ought to repent and pray to God to    
+forgive that
+offence whereof <comment type="compiler">SOURCE TEXT: wheof</comment> you are guilty. The Judgement 
+that I am by the Law to
+pronounce against you is this: <font>Connor Maguire</font> Esquire, You being
+found guilty of the Treasons whereof you are indicted, your
+Judgement is; That you shall bee carried from hence to the place from
+whence you came, that is the Tower, and from thence to Tiburne
+the place of execution, and there you shall be hanged by the neck, and
+cut downe alive, your bowels taken out and burnt before your face,
+your head to be cut off, your body to be divided into four quarters,
+and the head of your body to be set up and disposed of as the State  
+shal
+appoint. And the Lord have mercy upon your soule.
+   </dialogue><nonSpeech>After judgment pronounced, the Kings Councell demanded of him,
+whether he would have any Ministers come to him, to prepare him
+for his end, and to advise him for the good of his soul?</nonSpeech>
+   <nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I desire none of them; but I desire I may be sent 
+Prisoner to
+Newgate.
+   </dialogue><nonSpeech> <font>Counc.</font> </nonSpeech><dialogue> His reason is, because there are some Popish     
+Priests there.
+   </dialogue><nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> That cannot be; your judgement is to return to    
+the Tower,
+where you may have Ministers (if you please) to return to advise you
+for your soul.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I desire you that some Gentlemen of my own        
+Religion may
+have accesse to me to conferre with me, and some who are my fellow
+Prisoners in the Tower, to speak with me in my Keepers presence.
+   </dialogue><nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> You must name some body in perticular.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I desire to conferre with Mr. <font>Walter            
+Mountague</font> : </dialogue><nonSpeech> (Belike
+he knew him to be a Popish Priest or Jesuite.) </nonSpeech>
+   <nonSpeech> <font>Iudg.</font> </nonSpeech><dialogue> You must prepare your selfe to die against        
+Saturday next.
+   </dialogue><nonSpeech> <font>Macg.</font> </nonSpeech><dialogue> I desire a fortnights time to prepare my self.
+<pagebreak id="30" />
+   </dialogue><nonSpeech>Judg.</nonSpeech><dialogue> That is too long a space, and I cannot grant it, but    
+you shall
+have convenient time.
+   </dialogue><nonSpeech>Macg.</nonSpeech><dialogue> I desire you, that I may have three dayes notice at     
+least, to
+prepare my self.
+   </dialogue><nonSpeech>Judg.</nonSpeech><dialogue> You shall have three dayes warning, but however delay no
+time to prepare your self.
+   </dialogue><nonSpeech>Macg.</nonSpeech><dialogue> I desire my execution may be altered, and not according 
+to
+the judgement; and that I may not be hanged and quartered.
+   </dialogue><nonSpeech>Judg.</nonSpeech><dialogue> This lies not in my power to grant; but here are some
+Members of the House of Commons in Court, and you were best addresse
+your self to them, that they may acquaint the House with your desires.
+   </dialogue><nonSpeech>Macg.</nonSpeech><dialogue> I shall desire the Gentlemen of the House of Commons, so
+many as are here, to move the House in my behalf, that I may have a
+fortnights time to prepare my self, and that the manner of my
+execution may be changed.
+   </dialogue><nonSpeech> <font>Sir Iohn Clotworthy.</font> </nonSpeech><dialogue> My Lord, I have been your          
+Schoole-fellow
+heretofore, and have found some ingenuity in you, and I have seen some
+Letters of yours imparting some remorse of conscience in you for this
+fact, and I should be glad to discern the like ingenuity in you still;
+And shall move the House, that you may have some Ministers
+appointed to come to you: and likewise acquaint them with your other
+desires.
+   </dialogue><nonSpeech>Then the prisoner departing from the Barre, Mr. <font>Prynne</font>       
+advising
+him to conferre with some godly Ministers, for the good and comfort
+of his soul; He answered, That he would have none at all, unlesse he
+might have some Romish Priests of his own Religion.
+   To which Mr. <font>Prynne</font> replied;</nonSpeech><dialogue> My Lord, these Romish Priests  
+are
+the chief Instruments, who have advised you to plot and perpetrate
+those execrable Treasons for which you are now condemned, and have
+brought upon you that shamefull judgement of a Traitor; the
+execution whereof you even now so earnestly deprecated. Since then   
+they
+have proved such evill destructive Counsellors, to you in your life, 
+you
+have great reason to disclaim them with their bloody religion, and to
+seek out better advisers for you at your death, lest you eternally   
+lose
+your soul, as well as your life; for the bloud of those many thousand
+Innocents which have been shed by your meanes. </dialogue><nonSpeech>To which he
+pawsing a little, answered: That he was resolved in his way. Whereupon
+another Lawyer said;</nonSpeech><dialogue> My Lord, you were best to hear both sides. </dialogue><nonSpeech>To  
+which he answered, in an obstinate manner;</nonSpeech><dialogue> I am setled on one side
+<pagebreak id="31" />
+already, and therefore I desire not to conferre with any of the other:
+</dialogue><nonSpeech>And so departed through the Hall towards the Tower, the people
+crouding and running about to behold his person.</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

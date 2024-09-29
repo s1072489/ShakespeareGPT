@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2WDIOCE">
+  <dialogueHeader>
+
+    <filename>D2WDIOCE</filename>
+
+    <identifier>2 WITNESS D D2WDIOCE</identifier>
+
+    <title>DIOCESE OF DURHAM</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1627-37/1858</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">LONGSTAFFE, W. HYLTON DYER.</attribution>
+      <frontMatter>THE ACTS OF THE HIGH COMMISSION COURT WITHIN THE DIOCESE OF
+DURHAM.
+THE PUBLICATIONS OF THE SURTEES SOCIETY, (...). VOL. XXXIV. FOR
+THE YEAR M.DCCC.LVII.
+DURHAM: PUBLISHED FOR THE SOCIETY BY GEORGE ANDREWS, SADLER STREET.
+LONDON: WHITTAKER &amp; CO. (...).
+EDINBURGH: WILLIAM BLACKWOOD AND SONS.
+1858.
+PP. 5.13 - 5.27     SAMPLE 1
+PP. 11.29 - 12.15   SAMPLE 2
+PP. 23.15 - 24.7    SAMPLE 3
+PP. 52.26 - 53.24   SAMPLE 4 
+PP. 72.35 - 73.42   SAMPLE 5 
+PP. 84.12 - 91.28   SAMPLE 6 
+PP. 116.5 - 117.29  SAMPLE 7
+PP. 132.17 - 133.30 SAMPLE 8 
+PP. 143.3 - 144.23  SAMPLE 9 
+PP. 157.3 - 163.33  SAMPLE 10
+PP. 182.39 - 183.32 SAMPLE 11
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">THE SOURCE TEXT EDITOR INTERFERES IN THE TRANSCRIPTION OF THE
+DEPOSITION EXTRACTS BY PARAPHRASING, OR SUPPLYING CONTEXT WITHOUT 
+ALWAYS INDICATING THIS, E.G. BY THE USE OF EDITORIAL BRACKETS.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="5" />
+<nonSpeech>-- Dec. 13. <font>Michaell Kipling</font> of the city of Durham,
+yeoman, aged 21 and upwardes. Did see Gill in tyme of divine
+service the forenoone within the cathedrall church of Durham
+upon 19 Jan. last, viz., 1627, watch and attend John Cradocke
+Doctor of Divinity one of the prebends, with the undersheriffe;
+and in the middle ile in tyme of divine service did deliver to
+the said sheriffe an attachment against Dr. Cradocke, with
+money which deponent conceiveth to be his fee, upon which
+Gill said to the sheriffe</nonSpeech><dialogue> &quot;Here is Doctor Cradocke, the
+attachment, and your fee; I require yow to arreast him,&quot; </dialogue><nonSpeech>or</nonSpeech><dialogue> &quot;doe
+your office,&quot; </dialogue><nonSpeech>or wordes to that effect. Whereunto Dr. Cradocke
+then standing in his surplisse and prebendall habitt did submitt
+himselfe,</nonSpeech><dialogue> &quot;not willing,&quot; </dialogue><nonSpeech>as he said,</nonSpeech><dialogue> &quot;to make anie tumult or
+uncivill behaviour in the church, especially in tyme of divine
+service.&quot; </dialogue><nonSpeech>Mich: Kiplinge.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="11" />
+<nonSpeech> <font>Thomas Bullocke</font> of the cittie of Durham, notarie publique,
+aiged 34. Mr. Rauffe Hutton, officiall to the Deane and Chapter,
+with examinate did hould a court, <comment type="editor">&amp;c.</comment> 16 Aprill, att which
+Edward Lambe, sonne of Roger Lambe of Allerton, did appeare,
+who formerly stood excommunicate for contumacie in not
+appeareinge before the said officiall to answer, <comment type="editor">&amp;c.</comment> Mr. Hutton,
+for there more ease and readier dispatch, the weather being
+unseasonable, adjorned, <comment type="editor">&amp;c.</comment> William Meede, his father in lawe,
+did with verie uncivill, insolent, and peremptorie behaviour, in
+the presence of Mr. Edward Blakeston of Great Chilton, Mr.
+Marmaduke Blakeston of Munkthryston, Mr. Crakanthorp,
+<pagebreak id="12" />
+minister of Allerton, and divers other gentlemen and persons of
+good note, diswade Edward Lambe from giving his answer,
+saieing in contemptuous manner to Mr. Hutton,</nonSpeech><dialogue> &quot;What, doe
+yow keepe courtes in everie corner of the house? I see yow
+doe itt to intrapp and force him to sweare that which is not the
+truth. Yow doe him injustice and wronge, and yow are not
+able to justifie your doeinges. And as far for yow,&quot; </dialogue><nonSpeech>speaking to
+examinate, the then acctuarie, in like scornefull manner,</nonSpeech><dialogue> &quot;doe
+I not know yow? Yes, well enough. I know what yow both
+entend. Itt's but a money matter, and yow doe him wronge;&quot;
+</dialogue><nonSpeech>with divers and other opprobrious speaches. Mr. Hutton, not
+willinge to multiply speache with him, was forced to departe
+the room, only tellinge him that better men then either
+himselfe or Meade should judge whether Meade had not wronged
+and abused him, yea or noe. Tho: Bullocke.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="23" />
+<omission type="line" /> <nonSpeech>-- <font>Robert
+Mitford</font> of Durham, gent., aiged 34. Lumsden was called into
+Mr. Archdeacon's court, and was signified unto his Majestie's
+commissioners for not appearinge in the said court, who
+thereupon at severall times, did grant warrants and intimacions
+against him, which examinate did ride about manie times in
+great danger of his life. Did first repaire unto the dwellinge
+house of Lumsdenn, Horshooles, and did take John Pottes to
+assist him, about May, 1630. Did aske one whoe was
+comeinge forth a doore if the said Robert were within, by which
+personn he understoode that he was. Found Lumsdenn sittinge
+in a chaire in his house. The people turned them out of doore
+and bett them with great stanges that were about the house.
+Lumsdenn and his confeaderates have since deteined the
+weapens from them. In August last, by force of another warrant,
+did arreast Lumsdenn in Newcastle upon Tyne, wherupon he
+did revile examinate, and would not obey his arreast, saieinge,</nonSpeech><dialogue>
+&quot;Hange the, rogue, art thou comen with a fase warrant to
+arreast me againe? I will not stirr my foote for the.&quot; </dialogue><nonSpeech>Examinate
+was forced to goe to Mr. Robert Andersonn, a magistrate of
+Newcastle, whoe, after peruseall, tolde Lumsdenn the warrant
+was sufficient to apprehend him. Notwithstanding which,
+Lumsdenn snatched at the warrant, endeavoureing to have gott
+it from examinate, and when as he could not prevaile, he
+clapped his handes, and stamped with his feete, and gnashed with
+his teeth, and called examinate &quot;Rogue, theife, and beggerlie
+rascall,&quot; and spitt in his face, and he said he would answeare
+the cause in a higher place, to this examinate's greate shame.
+When as he could not get Lumsdenn to goe with him, he did
+send for Nicholas Raine, the messenger of this court, to come
+and assist him, and uponn his comeinge Raine did require
+<pagebreak id="24" />
+Lumsdenn to goe with him accordinge to the tenor of his
+warrant, whoe likewise, in verie contemptuous manner, did abuse
+Raine, and call him &quot;base, beggerlie fellow,&quot; and bid both him
+and this examinate kisse, <comment type="editor">&amp;c.,</comment> saieing further to                
+examinate,</nonSpeech><dialogue> &quot;In
+faith, theife, if ever thou come the waie thou haist comen, I
+will cutte thy journey short once within a twelvemoneth.&quot;
+</dialogue><nonSpeech>Robert Mitford,</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="52" />
+   <nonSpeech>MARGERIE STOBBES, widdow. Scandalous woordes. 1633.
+July 11. Attachment. Aug. 15. 20 <font>l.</font> forfeiture, on intimacion,
+to be certified. <font>Note.</font> This fyne was after remitted. Sep. 26.
+Thomas Stobbes, her sonne, made oath that she was soe infirme
+she was not able to come. -- Nov. 7. <font>Elizabeth Readshawe</font> ,
+wife of John Readshawe, par. Mugleswick, aiged 21. Was
+borne nere unto Stobbes. Aboute five yeares gone in Lent last,
+examinate lived at a place in Stanhopp parish, which her father
+farmed of the said Margerie Stobbes, and the said Margerie
+casuallie comeinge upp to examinate's father's house, did there
+staie all night. The next daie, beinge Sondaie, examinate was
+prepareinge to goe and saie the chatichisme that afternoone, and
+thereupon Stobbes tolde examinate that she might tell them a
+taile, whoe examined her, of Robin Hoode, worth foure and
+twentie of that, meaneinge of the chatichisme. At some other
+<pagebreak id="53" />
+times hath heard Stobbes saie that the Protestantes were lost
+people, and the said Margerie did then likewise express herselfe
+in theis wordes: -- that she had hearde it said they did God good
+service whoe did kill one of them. All which wordes were
+spoken in examinate's hearinge, as alsoe in her brother John
+Johnson's, as she thinketh. R. -- <font>John Johnson</font> of
+Rukeuppside, par. Stanhopp, yeoman, aiged 28. His sister beinge readie
+to goe to the church to saie the chatichisme amonst other
+younge people, Stobbes did bid her staie at home, saieinge,</nonSpeech><dialogue>
+&quot;What should thou doe goeinge to the church this ill daie, and
+if the minister finde anie falt with the, thou may saie thou
+wilt tell him a tale of Robin Hoode worth foure and twenty
+of it,&quot; </dialogue><nonSpeech>meaninge the catichisme. Stobbes then further said, as
+alsoe at some other times, that the Protestantes were but lost
+people, and it was well gott which was gottenn from them, and
+then further said that she hath heard some saie, that they did
+God good service that killed a Protestant; whereunto one Raph
+Johnson replied,</nonSpeech><dialogue> &quot;Whie say yow soe?&quot; </dialogue><nonSpeech>and she answeared,</nonSpeech><dialogue>
+&quot;Because yow are not Godes freindes.&quot; </dialogue><nonSpeech>Theis wordes were
+spokenn in his owne heareinge, as alsoe in the heareinge of his
+father, Raph Johnsonn, and sister. I. I. -- 1634. May 14. Had
+submitted herselfe to conference. Sep. 18. Was willing to
+conforme, which she testified by repayreing to the chappell that
+day with his lordshipp to heare praiers. Cause respitted.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 5">
+
+<pagebreak id="72" />
+   <nonSpeech>ISABELL OXLEY, wife of William Oxley. On the promocion
+of THOMAS REEDE, clerke. Blasphemous woordes. 1633. Sep.
+26. Letters missive. Nov. 7. Thomas Reede, who prefered
+the informacion, bound to prosequute at his owne charges and
+paie the defendant costes if he should faile. 1634. Feb. 11.
+Tearme probatorie prorogued till this daie. Monicion against
+him to shew cause why he should not be censured as a
+calumniator and she dismissed with costes. -- Mar. 4.                
+<font>Raph Fenwick</font> ,
+<pagebreak id="73" />
+of Heddonn on the Wall, yeoman, aiged 33. Hath knowne
+Thomas Reede for 12 yeares. Heard Mabell Carrock and
+Margaret Hall saie that Isabell spooke as is alledged, and said they
+would uponn there oathes justifie the same to be true if
+thereunto called. At sundrie times hath heard her most wickedlie
+take Godes holie name in vaine, uponn any light occacion,
+saieing</nonSpeech><dialogue> &quot;Godes blood, Godes heart,&quot; </dialogue><nonSpeech>and</nonSpeech><dialogue> &quot;Godes woundes,&quot; </dialogue><nonSpeech>and
+such like notorious oathes. About the end of August last, and
+at divers times since, heard Isabell Oxley, in verie detestable
+manner, curse George Fenwick as followeth:</nonSpeech><dialogue> -- &quot;Godes curse,
+Godes plague, light of the and all thine.&quot; </dialogue><nonSpeech>Aboute August or
+September last Isabell, in the townegaite of Heddonn and neere
+unto the doore of Reede, did revile, and curse, and said unto
+him,</nonSpeech><dialogue> &quot;Godes plague and Godes curse light of the and thine
+beastes, and God lett never they nor anie thing thou hast
+prosper nor doe well.&quot; </dialogue><nonSpeech>Beinge neighbour unto Isabell, hath verie
+oftenn heard and observed her cursinges. Ralphe Fenwicke. --
+Apr. 1. <font>Mabell Carrock</font> , wife of Richard Carrock, of Heddon
+on the Wall, aiged 40. Hath knowne Reede from his birth.
+Aboute three yeares gone at Candlemas last, examinate and
+Isabell Oxley meetinge at a place called the Milne Hill, within
+the parish of Heddonn aforesaid, and upon some coneferrence
+and unkindness which then happened betwixt examinate and
+Isabell, examinate answeared that her grandmother, meaneinge
+Isabell Oxley's, and her father, meaneinge this examinate's,
+loved well together. Whereunto Isabell replyed,</nonSpeech><dialogue> &quot;The Devill
+goe with thie father and my grandmother.&quot; </dialogue><nonSpeech>There was
+Margaret Hall sitting a litle from them. Is aunt unto the party
+promovent, though she careth not whoe obtaine the victorie.+
+-- <font>Margaret Hall</font> , wife of Peter Hall, of the towne of Heddon
+on the Wall, aiged 60. Aboute foure yeares agoe happened to
+be at Heddonn Milne, and uponn comeinge thither found Oxley
+and Carrock, who were falne at some variance. Did not well
+heare them in regard they begune forth of the milne. Soone
+after they came into the milne, Carrock acquainted her that she
+did utter the wordes articulate. Reproved Isabell, and saide</nonSpeech><dialogue>
+&quot;Fie upon yow, Isabell, whie doe yow speake anie such
+wordes?&quot; </dialogue><nonSpeech>Isabell, in very angrie moode, replied:</nonSpeech><dialogue> -- &quot;What
+care I, by God Almightie?&quot; </dialogue><nonSpeech>There being presente Mabell
+Carrock, <font>Margaret</font> Stawper, and the milner, whoe is since
+deceased. Oxley is accompted for a lewed woemann of her
+tonge.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 6">
+
+<pagebreak id="84" />
+<omission type="line" /> <nonSpeech> <font>William Smith</font> of the cittie of Durham, clerke, aiged
+31. (Art 4 and 5) Was at the parish church of North Bayley,
+and did administer the Holie Communion to divers of that
+parish. Whilest examinate was in administringe the
+Sacrament, and dureinge all the time thereof, John Richardson did
+goe from one of the communicantes to another to inquire their
+names, and laughed and talked amongst them. By such meanes
+there was a confused noyse made, by reason whereof examinate
+was disturbed in the destribucion of that Holie Sacrament.
+Upon Mr. Richardson's comeing nere unto him, examinate
+spoake as followeth:</nonSpeech><dialogue> -- &quot;Mr. Richardson, yow and I by this
+meanes shall meete by and by, and trouble one another.&quot; </dialogue><nonSpeech>Mr.
+Richardson spoke allowde in the time of the said administracion
+unto examinate, and said</nonSpeech><dialogue> &quot;I thinke yow will have done before
+me.&quot; </dialogue><nonSpeech> (Art. 6) After examinate had spoken as before deposed,
+Richardson removed to the other side of the chancell, and there
+continewed talkinge unto some of the communicantes in lowde
+manner, and laughing and jestinge amongst them. (Art. 7, 8,
+9, 10.) Cannot depose otherwise then predisposed. (Art. 11.)
+Richardson was at the church, but cannot depose. (Art. 12.)
+Cannot depose otherwise than he hath predeposed. (Art. 13.)
+Neyther Richardson nor Mathew Vasie did that daie receive
+the communion at the handes of examinate, though both of
+<pagebreak id="85" />
+them were busied with takeinge the names of the
+communicantes and discourse. When the administracion of the
+Communion was ended, examinate was forced to staie a prettie space
+before he and the communicantes together could saie the Lordes
+praier, and give thankes for receiveing of that Holie Sacrament,
+in regard of Mr. Richardson's his talkinge unto the people.
+(Art. 14.) On the daie articulate did see Richardson come to
+the church and sit downe in his owne stall, after which, and
+before the administracion of the Sacrament, he did goe forth of
+his stall and placed himselfe in a stalle neere unto the font,
+and sent his boy Jackson unto divers of the communicantes.
+Thinketh the same was to inquire there names. John
+Richardson the younger, his grandchild, was presente with him that
+daie, or the most part thereof. (Art. 15.) Mr. Henrie Smith,
+one of the churchwardens, did send unto Richardsonn to will
+him (as examinate supposed) to desist from his unseamelie
+course and disturbance, both of divine service and the Holie
+Sacrament. Richardson did not therein desist, but sent the
+boy called Jackson to and froe amongst the communicantes.
+Confesseth it to be true that examinate spoake unto the boy in
+the heareing of Richardsonn that he would have him punished
+for his disorder and runninge to and froe in time of divine
+service, whereunto Richardson answeared</nonSpeech><dialogue> &quot;Well, well, they that
+are soe readie to finde fault with him, will not be soe readie to
+paie there Easter reckoninges.&quot; </dialogue><nonSpeech> (Art. 16.) Cannot depose. (Art.
+17.) Richardson did not receive the Communion. (Art.18.)
+Richardsonn, upon the daie mencioned, did communicate with
+divers others. Did then alsoe see the boy Jackson goeinge upp
+and downe from one to another in the church, and returned
+back to his master. Is perswaded that he was soe sent by
+Richardson to inquire there names, as formerlie he had done.
+Will: Smith, clerk.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="86" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Jaine Bell</font> , spinster, of
+South Baiely, late servant unto Geo. Barcroft, of the North
+Baiely, aiged 17. (Art. 4.) Did see Richardson with Vasie and
+a boy goeinge among the people to know there names, and
+Richardson or Vasie writt them downe. Did see Richardson
+receive of Elizabeth Hutchinson some monie, was present with
+Hutchingson when she paied the monie, and did see Richardson
+chainge the same. (Art. 6.) Richardson, upon her relateing unto
+him whose servaunt she was, and that her name was Jaine Bell,
+he said</nonSpeech><dialogue> &quot;What! is your name Jaine Barcroft? hath George
+Barkroft a daughter as bigg as yow?&quot; </dialogue><nonSpeech>All which he spooke in smileing
+and jeasting manner in the time of the Holie Communion, after
+the destribucionn of the bread and before the receiveinge of the
+<pagebreak id="87" />
+wine. (Art. 12.) A litle before the beginninge of the
+communion, Richardson did in the church speake unto the woemenn
+that were there as followeth:</nonSpeech><dialogue> -- &quot;Well, I will come downe
+amongst yow maides by and by, and by that meanes wee shall
+knowe the names of all the prettie wenches in this parish.&quot;
+</dialogue><nonSpeech>All which he spoake in smileing and jeasting manner in the
+heareing of examinate, Marie Trotter, Elizabeth Layton, Alice
+Chapman, and divers other. <font> <foreign>Ad Interr. ex parte Jo.
+Richardsonn ministrat.</foreign> </font> (Int. 1.) Is now servant unto Mr. Robert
+Pleasance. (Int. 2, 3.) Soone after the Sondaie mencioned in
+the articles aforesaid, Mr. John Heath came unto Georg
+Barkrofte's house, this examinate's masters, and tolde her that
+he must have her and others to Awkland before my Lord for
+wittnesses, and spoke unto examinate merrilie as followeth:</nonSpeech><dialogue> --
+&quot;How now, Jaine Barcroft, what can thou saie?&quot; </dialogue><nonSpeech>but
+examinate did not give him anie further answeare, nyther did Mr.
+Heath require any further of her. (Int. 4, 5, 6.) Cannot depose.
+(Int. 7.) For one yeare and a quarter she lived in the North
+Bayley, and dureing the time by her predeposed, (3 or 4 yeares)
+hath known Mr. Richardsonn. (Int. 8, 9.) <foreign>Satisfactum est.</foreign> 
+Jaine Bell. -- <font>Marie Trotter</font> , spinster, late servant unto Wilfrid
+Lambe of the North Baley, aiged 20. (Art. 4.) Did see
+Richardson, and with him Vasie, goe amongst the communicantes to
+enquire there names, which Vasie did then write downe. (Art.
+6.) Did sit next unto Jaine Bell and did heare him aske Jaine
+whose servant she was and her name, whereupon she tolde him
+she was servant unto Georg Barkroft and her name was Jaine
+Bell, whereunto he replied,</nonSpeech><dialogue> &quot;What! is thy name Jaine
+Barcroft?&quot; </dialogue><nonSpeech>and she again told him her name was Jaine Bell; and
+he answeared he thought she was Barkrofte's daughter and that
+her name was Jaine Barkroft. (Art. 9.) Richardson came unto
+examinate and demaunded her naime and whose servant she was.
+Tolde him her name was Marie Trotter and that she was servant
+to Wilfrid Lambe. He said that her master would paie for her.
+(Art. 12.) When praiers were ended, and the minister readie for
+the communion, Richardsonn did speake unto the young
+woemenn whoe were drawing nere unto the communion table as
+followeth:</nonSpeech><dialogue> -- &quot;Yow are a sort of prettie maides, I must be
+acquainted with yow and know all your names by and by.&quot;
+</dialogue><nonSpeech>Whereunto Vasie answeared,</nonSpeech><dialogue> &quot;I thinke there is not a maide
+amongst them all,&quot; </dialogue><nonSpeech>which wordes Richardsonn spoke in 
+laughing and jeasting manner. <font> <foreign>Ad Interrogatoria.</foreign> </font>           
+(Int. 1.) Now
+is forth of service. (Int. 2.) Neyther Mr. Heath nor anie other
+for him did come to solicitt examinate, neyther did she heare
+anie thinge thereof untill Mr. Raine the messinger did warne
+<pagebreak id="88" />
+her to appeare. (Int. 4, 5, 6.) Hath heard that Richardsonn
+and Heath were not freindes. (Int. 7.) For one yeare hath
+knowne Richardsonn, and for the same time hath lived within
+the North Bailey.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="89" />
+</dialogue><nonSpeech> <font>Elizabeth Dobsonn</font> , spinster, servant unto
+Robert Clerk, of the cittie of Durham, vintiner, aiged 24.
+(Art. 5.) Did observe that when Mr. Smith the minister had
+the cupp in his hand, he did holde it a prettie space before he
+gave it forth, and the meane whilest did speake to Richardsonn.
+(Art. 6, 7.) Richardsonn first asked examinate her name and
+whose servant she was, and after she had tolde him he said,</nonSpeech><dialogue>
+&quot;Yow are a taverene wench, I maie come to be acquainted with
+yow.&quot; </dialogue><nonSpeech>And then he asked the name of her fellow servant whoe
+uponn her telleing him that her name was Anne Softley, and
+that she was alsoe servant to Robert Clerk, Richardsonn
+answeared againe</nonSpeech><dialogue> &quot;Yow are indeede a good soft wench,&quot; </dialogue><nonSpeech>in
+jeastinge and smileinge manner. <font> <foreign>Ad Interr.</foreign> </font> Heath beinge one
+eveninge at her maister's house, asked examinate what
+Richardsonn had said. Tolde him in the presence of Mr. Robert Kinge
+and a boy which liveth in her maister's house. There was not
+anie thing then put in writeinge. For foure yeares hath lived
+in the North Bayley. E. -- <font>Elizabeth Tindale</font> , spinster, servant
+to Mr. Robert Kinge of the North Bayley, gent., aiged 24.
+(Art. 4.) Vasie and twoe boyes were with Richardsonn. Did
+see him receive of Margaret Short, whoe was then servant unto
+Mr. Geeres, 2 <font>d.</font> for her oblacion. (Art. 5.) Mr. Smith held the
+cupp a litle space and asked Richardson if he had done. (Art.
+6, 7, 8.) Richardson asked examinate what her name was and
+whose servant she was. Tolde him her name was Elizabeth
+Tindale, and that she was servant unto Mr. Robert Kinge.
+Richardson replied,</nonSpeech><dialogue> &quot;Is thie name Tindale? Had we then a
+Ridsdell, yee would be well mett,&quot; </dialogue><nonSpeech>in a laughing and jeastinge
+manner, in the heareinge of Isabell Taylor and Margaret Bawde.
+<font> <foreign>Ad Interr.</foreign> </font> Did not heare anie thing untill Mr. Raine did
+warne her to appear. Hath lived in the North Baley nyne
+yeares.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="90" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Margaret Bawde</font> , spinster, servant to Henrie
+Brigges of the North Bayley, gent., aiged 23. (Art. 4.) Vasie
+asked her name. (Art. 5. Did see Mr. Smith and Mr.
+Richardsonn meete together (the said Mr. Smith haveinge the cupp in
+his hand), and they spoake the one to the other. (Art. 7.)
+After Anne Softley and Elizabeth Dobsonn had tolde
+Richardsonn there names, and that they were servantes to Robert
+Clerke the vintiner, he said,</nonSpeech><dialogue> &quot;What? are yow taveren wenches,
+and I not acquainted with yow?&quot; </dialogue><nonSpeech> (Art. 10.) Whilest Vasie
+was inquireinge her name, Richardsonn stoode by and wished
+her to speake upp, saieinge,</nonSpeech><dialogue> &quot;Thou canst speake at home, I'le
+warrant the,&quot; </dialogue><nonSpeech>and soe after she had tolde her name, Mr.
+Richardsonn smiled. <font> <foreign>Ad Interr.</foreign> </font> Did not heare untill Mr.    
+Raine
+did come. Hath lived in the North Bayley for 7 yeares. B.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="91" />
+<omission type="line" /> </dialogue><nonSpeech> <font>Henry Brigges</font> of
+the North Bayley, gent., aiged 31. (Art. 11.) Removed from
+his owne seate or stall unto Dr. Oyston's seate or stall, and
+uponn his goeinge into the seate, Mr. Richardsonn beinge in the
+next seate, stoode upp and turned him aside, and spoake unto
+examinate as followeth:</nonSpeech><dialogue> -- &quot;Herrie, are you comen hether to
+take phisicke?&quot; </dialogue><nonSpeech>with an audible voyce, and in smileing and
+jeastinge manner, when as the minister was beginninge to
+prepaire the communicantes to receive the Holie Communion,
+examinate beinge sett in the seate aforesaid to participate of
+that Blessed Sacrament. <font> <foreign>Ad Interr.</foreign> </font> Did not heare anie
+thinge untill he was called by compulsaries to appeare before
+the Commissioners. Heard that there was a suite in the Starr
+Chamber at London by the informacion of Mr. Heath, as
+examinate thinketh, against Mr. Richardson. Hath lived in the
+North Bayley for 4 yeares. Richardsonn hath bene a verie
+good and orderly parishioner, and hath moved others to be
+lyberallie affected towardes the repaireing of St. Maries or Bow
+church in the North Baley, where he is parishioner, and hath
+bene verie bountifull to the poore of that parish. Henr:
+Brigges.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 7">
+
+<pagebreak id="116" /> 
+<nonSpeech> <font>John Allanson</font> of Bishopp Awckland, tanner, aiged 33. Hath
+knowne Walker for 20 yeares. Aboute March last, Walker in
+an eveninge happened to come into examinates house, and after
+some discourse fell a cursinge and sweareinge. Thomas
+Allanson, examinate's brother, rebuked him, and spooke merilie unto
+him that he might have kept some of theis oathes untill the
+next sessions to have helpt his brother with. Walker
+answeared,</nonSpeech><dialogue> &quot;How good soever thie cause be, wee will outsweare
+the,&quot; </dialogue><nonSpeech>meaneinge, as examinate conceived, his brothers and he
+whome before he had named: and further said unto Thomas
+Allanson,</nonSpeech><dialogue> &quot;Thou art but a sillie felloe; wee </dialogue><nonSpeech> (meaneinge as
+examinate conceived his brothers and he) </nonSpeech><dialogue> will distroie the, and
+make the spend thie whole estate.&quot; </dialogue><nonSpeech>There was present this
+examinate's wife. Confesseth Walker is his owne mother's
+brother. John Allenson. -- <font>William Hutchinsonn</font> of Bishopp
+Awckland, yeoman, aiged 30. Aboute the beginninge of Lent,
+gone twelve monethes in Lent last, happened to be in the house
+of Anthonie Eastgaite where other companie were present, as
+Thomas Allansonn and Eastgaite his wife. Walker happened to
+come in and did fall into conference and discourse with
+examinate and Thomas Allanson, and from such discourse did fall to
+sweareinge and takeinge God's name in vaine, uttering manie
+detestable oathes. Allanson said,</nonSpeech><dialogue> &quot;Fie, mann, doe yow not
+feare God?&quot; </dialogue><nonSpeech>Walker answeared,</nonSpeech><dialogue> &quot;I doe not beleive there is
+eyther God or devill, neyther will I beleive anie thinge but
+what I see.&quot; </dialogue><nonSpeech>Aboute twoe yeares and a halfe now by gone,
+examinate (in the house of Anthonie Welfott of Bishopp Awckland,
+did heare Walker conferr and speake of the booke called
+Chawcer, which booke he verie much commended, and said he
+did beleive the same as well as he did the Bible, or wordes to
+the same effect. There was present Anthonie Welfoote.
+William Hutcheson. -- <font>Thomas Allanson</font> of Bishopp Awckland,
+glover, aiged 30. Was in the house of John Allanson his
+brother Walker came in and did fall into discourse touchinge
+certane indictments which were preferred in the sessions at
+Durham by Ralph Walker against examinate. Walker did fall
+to sweare, and tolde examinate,</nonSpeech><dialogue> &quot;Thou art a sillie felloe; wee
+will destroie the.&quot; </dialogue><nonSpeech>Asked him whoe he ment of, and he said it
+<pagebreak id="117" />
+was he and his bretherenn would doe it. Said that he hoped
+his cause was good and he could not doe it. Walker replied,</nonSpeech><dialogue>
+&quot;Be thie cause never soe good, wee will outsweare the and
+make the spend all thie meanes.&quot; </dialogue><nonSpeech>Walker is his mother's
+brother. Thomas Allanson. -- Oct. 21. Matter of defence. Dec.
+2. Wittnesses to proove the same sworne. Upon their peticionn,
+the Commissioners decreed to every of them 2 <font>s.</font> for his costes
+to be paied by the defendant, whoe was monished to pay the
+same. -- <font>John Machell</font> of Pitfeilds, co. Durham, gent., aged 60.
+Is perswaded that if John Allinson and Thomas Allinson be
+wittnesses against Walker they are professed enimies unto him.
+About Whitsontide last chanced to bee in Darnton markett,
+and understandinge before of the differences betwixt Thomas
+Allinson and his brother, and Raiph Walker and his brothers,
+examinate, wishing well to both parties, did of purpose goe
+unto Thomas Allinson and found him at his stall in the
+markett, and requested that he would referr all differences to some
+indifferent persons to compromitte. Thomas absolutely refused,
+saying; they would end it by law. Asked why he should
+trouble his unckle Bryan Walker, whoe he conceived had nothing
+to doe with his brother Raph Walker's proceedinges. Thomas
+instantlie replied,</nonSpeech><dialogue> &quot;Let him thanke himselfe for counselling his
+brother Raiph to procure a prohibition in the suite betwixt me
+and his brother Raph; </dialogue><nonSpeech>and further said they had beggered him
+and he would begg the law, but he would give them enough
+before hee and they had done, and soe wished examinate not to
+medle any further therein, but leave them to themselves.
+Departed with this answeare. Is of kindred to both sides, but in
+what degree he knoweth not. John Machell.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 8">
+
+<pagebreak id="132" />
+   <nonSpeech>PETER PEARSON and RICHARD HODGSON, both of Newcastle.
+Scandalous woordes. 1653. June 25. Attachments. July 30.
+Articles stating that Pearson the daie after Doctor Cosins had
+preached a sermon in Sct. Nicholas Church, in Newcastle, in
+Aprill or May, 1635, did meete with twoe who had beene at the
+sermon and after some conference with them touching the
+sermon, and how they liked it, Pearson replied,</nonSpeech><dialogue> &quot;Well, howsoever,
+my Lord of Canterburie and he </dialogue><nonSpeech> (meaneing Doctor Cosins) </nonSpeech><dialogue> are
+ours,&quot; </dialogue><nonSpeech>by which it was urged and he charged that in regarde of
+his speaches, he being a recusant papist, he did meane of the
+Most Reverend Father in God, the Lord Arch Bishopp of
+Canterburie his grace, and Dr. Cosins, and that they were popishly
+addicted. Hodgson was charged as the said Peter was, for
+uttering words which did scandalise the religion established in
+the church of England, as alsoe the Lord Arch Bishopp of
+Canterburie and Dr. Cosins meaneing alsoe that they were popishly
+affected. Sep. 23. Pearson had answeared and denied unto his
+remembrance that he did ever speake with anie such words as he is
+charged with, and if he did, neither did he ever speake them to
+anie such purpose or intent as is mencioned. Hodgson had
+alsoe answeared and denied that ever he named or spoke of the
+Arch Bishopp of Canterburie or Dr. Cosins. Oct. 21.
+Wittnesses sworne. -- <font>Edward Mann</font> , of Newcastle, merchant,
+aiged 37. The daie after Dr. Cosin had preached a sermon in
+the parish church of Sct. Nicholas of Newcastle, examinate,
+<pagebreak id="133" />
+Peter Pearson, Thomas Hallman, and Richard Hodgson, did
+casuallie meete in Newcastle, and did goe unto the house of
+Alice Coward, widdow. and there did drinke there morneinge
+draughts together. Pearson asked examinate if he heard Dr.
+Cosins' sermon the daie before. Answeared he did. Pearson
+further asked him how he liked his sermon. Answeared that
+he liked his sermon verie well, and that Dr. Cosins taught verie
+substantiallie, in his opinion, soe as noe sober minde could take
+just exception att anie thinge he delivered in the said sermon.
+Pearson immediatelie replieinge, said,</nonSpeech><dialogue> &quot;Howsoever, my Lord of
+Canterburie and he are both ours.&quot; </dialogue><nonSpeech>There was presente the
+parties abovesaid and noe others. Is perswaided that Pearson
+did meane the most worthie and Reverend Father the Lord
+Arch Bishopp of Canterburie his grace, and Dr. Cosins, in
+regard they were onelie named, and conceived that Pearson
+meant that my Lord of Canterbury and Dr. Cosins were
+popishly affected. Immediatelie after Pearson had ended his
+discourse, and had said that</nonSpeech><dialogue> &quot;My Lord of Canterburie and he are
+both ours,&quot; </dialogue><nonSpeech>Hodgshon beganne and spoake unto examinate as
+followeth,</nonSpeech><dialogue> &quot;Did yow observe Doctor Cosins his gesture in time
+of Divine service?&quot; </dialogue><nonSpeech>Examinate answeared he did a litle.
+Hodgshon then againe said</nonSpeech><dialogue> &quot;Doe yow know how they catch
+apes?&quot; </dialogue><nonSpeech>Answeared,</nonSpeech><dialogue> &quot;Not well.&quot; </dialogue><nonSpeech>Hodgshon replied</nonSpeech><dialogue> &quot;They
+first put on one part and then another part of there habit till
+they had putt on all, and soe they catch them.&quot; </dialogue><nonSpeech>By reason of
+the discourse which examinate had with Pearson, and Hodgshon
+his replyinge and secondinge the same as aforesaid, examinate
+is induced to beleive that Hodshon meant that the Protestantes
+were a catchinge or inclineinge to there popeish religion.
+Edward Man.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 9">
+
+<pagebreak id="143" />
+   <nonSpeech>JOHN SHARPE of Slingley, upon the presentment of the Vicar.
+Blasphemous woordes. 1635. Dec. 2. Attachment. 1636. Mar.
+9. Charged with speakeing that he cared not thre halfe-pence for
+the Blessed Sacrament of the Lord's Supper, or to that effect.
+Ap. 28. Monished to undergoe his examinacion <foreign>citra prox.</foreign> ,
+which he did accordingly. -- May 24. Hath answeared and denied
+the articles. -- June 21. <font>Anne Foster</font> of Silkesworth, widdow,
+aiged 30. From Martynmas gone twelve monethes till
+Martynmas last she lived in the house of Mr. Rd. Blaikiston of
+Seton, now deceased. About a yeare gone, at Sct. Peter day last,
+did meete with John Sharpe whoe was sittinge at the doore of
+Thomas Glenne of Seaton, and her said master Raph Blaikston
+then lieing very sicke, and examinate knowing there was some
+differences betwixt Sharpe and him, she wished Sharpe to goe
+unto her master that they might be reconciled and one forgive
+another. He instantly answeared that he would neyther goe to
+him nor yet forgive him.</nonSpeech><dialogue> &quot;For,&quot; </dialogue><nonSpeech>quoth he,</nonSpeech><dialogue> &quot;Sir John 
+</dialogue><nonSpeech> (meaneing Mr. Easterby as she conceived) </nonSpeech><dialogue> hath beene in hand    
+with me
+about the same and tolde me he could not give me the
+Communion till I had done it.&quot; </dialogue><nonSpeech>And then Sharpe replied againe to
+examinate,</nonSpeech><dialogue> &quot;I care not three halfepence for his Communion, he
+standes more neede </dialogue><nonSpeech> (meaneing Mr. Easterby) </nonSpeech><dialogue> of three halfe
+pence to buy him threede for his cloathes then I doe of
+his Communion.&quot; </dialogue><nonSpeech>There were present divers people, viz. Rich.
+Wilson, Dorothie Wilson, and others. Hath not anie reward
+saveing her charges, which Mr. Easterby gave her.+ -- <font>John
+Easterby</font> of Seham, co. Durham, clerke, aiged 32. Hath knowne
+Sharpe for 14 or 15 yeares. About Michaelmas last, had
+occacion to ride to Durham. Sharpe came alonge with him, of
+purpose, as examinate thinketh, to withdraw the informacion
+given against him in this Honorable Court. In rideing together
+examinate said</nonSpeech><dialogue> &quot;What meant yow to speake the blasphemous
+woordes against the Blessed Sacrament, as it is said yow have
+done?&quot; </dialogue><nonSpeech>He answeared,</nonSpeech><dialogue> &quot;I care not what I spoke, soe as I might
+but speake ill enough to shew my malice against him </dialogue><nonSpeech> (meaneing
+Mr. Raph Blaikston) ;</nonSpeech><dialogue> but </dialogue><nonSpeech> (quoth) </nonSpeech><dialogue> good Sir, lett this matter
+goe noe further and I will never speake the like againe, and
+<pagebreak id="144" />
+give yow any content yow will have for your good name.&quot;
+</dialogue><nonSpeech>They came along to Durham together, and after there comeing
+thither, (at Sharpe his request) examinate did goe with him to
+William Frissell to see if they could deale with him to quit him.
+Frissell (upon his acquainting him therewith) asked him what
+he would give to be released, whereunto he yeelded to give
+tenne poundes a peice to examinate and Frizell if they would
+withdraw and conceale the informacion, soe as he might not be
+called in question for it. And Frissell saieing to him</nonSpeech><dialogue> &quot;How
+durst yow speake such blasphemous woordes,&quot; </dialogue><nonSpeech>and repeated the
+woordes unto him, wherupon hee fell downe on his knees and
+wished him to pardon it for Gode's sake, and to let him heare
+noe more of it, and he would never speake the same againe.
+On the Thursday after he came downe to examinate, and
+said that for the matter against him he would putt himself
+into the courtesy of my Lord (meaneing the Lord Bishopp
+of Durham) and the court, and that he would have
+examinate and Frissell punished for askeing him moneys, and
+that before he gave any such sume of money he would doe
+pennance both in church and markett. There were present
+and heard the passages between him and Frissell, John Chilton
+and William Wilkinson, and noe others. The other passages
+were private betwixt examinate and him. John Easterby. --</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 10">
+
+<pagebreak id="157" />
+<nonSpeech>-- <font>Robert Carre</font>
+of Newcastle, gent., aged 23 yeares. Hath knowen Alvey and
+Blaikston for 6 yeares. Mr. Alvey hath beene accompted a
+good, paynefull, and orthodoxe preacher. About a moneth
+before Christenmas in 1635 Alvey and Blaikeston happened to be
+at dynner at the house of examinate's father, with divers others.
+Some occacion of conference happened at that tyme betwixt
+them. Heard Blaikston tell him that in a sermon he preached
+at All-hallowe churche, he delivered seaven errours. Examinate
+said unto Blaikston, at that tyme, whoe he conceived was much
+transported with passion, that he would not have spoken soe
+disgracefully of Mr. Alvey unles the devill were in his tongue.
+There were present Sir George Tonge, Mr. Robert Harle, and
+many others. Blaikston doth oftener repaire to Allhallow
+church then to Sct. Nycholas church, being his parish church
+where he now liveth. <font> <foreign>Ad Interr.</foreign> </font> Believeth that the occacion
+of discourse happened betwixt Alvey and Mris. Blakeston, whoe
+were talkeing together in the roome, and upon there parteing
+<comment type="editor">Mr. Alvey seemed much discontentent <font>Erased</font> ,</comment> John
+Blaikeston, upon what occacion examinate knoweth not, charged him
+with seaven errours as before deposed. Heard Blaikeston say to
+Alvey,</nonSpeech><dialogue> &quot;Yow have ever borne spite or malice to me since yow
+came to the towne.&quot; </dialogue><nonSpeech>Alvey replyed,</nonSpeech><dialogue> &quot;Yow have noe religion
+nor grace in your heart if yow say soe.&quot; </dialogue><nonSpeech>Whether the
+speakeing of errours were uttered before or after there last mencioned
+discourse cannot depose. Robert Carr.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="159" />
+<omission type="line" /> </dialogue><nonSpeech>-- <font>Lindley Wrenn</font> of Binchester. Esqr.,
+aiged 37. Hath knowne Mr. Alvey for 10 yeares and
+Blaikeston for 20 yeares. About November 1635, happened to be at
+the house of Mr. James Carr, &amp;c. Mr. Alvey took examinate
+by the hand and desired him to remember the passages, and
+spoke to Blaikeston as followeth:</nonSpeech><dialogue> -- &quot;Mr. Blaikston, yow will
+justifie this,&quot; </dialogue><nonSpeech>meaneing, as examinate conceived, what he had
+spoken, whereunto Blaikeston replied,</nonSpeech><dialogue> &quot;Yea, I will justifie
+seaventene </dialogue><nonSpeech> (or seaventy) </nonSpeech><dialogue> since yow came to the towne,&quot; </dialogue><nonSpeech>but
+rather seaventy he spoke, as examinate veriely thinketh; by
+the speakeing of which wordes examinate conceived that Mr.
+Alvey was very abused in regarde of his function and calleing.
+There was presente Mr. Henry Maddison with divers others.
+His wife is of kindred to Blaikeston, but in what degree he
+knoweth not. Lindley Wren. -- Oct. 24. Publicacion decreed
+<foreign>salva examinacione Niniani Shaftoe</foreign> . Dec. 1. <font>Nynian Shaftoe</font>
+<pagebreak id="160" />
+of Newcastle, gent., aiged 33. Hath verie often heard Mr.
+Alvey preach, and doth hould him to be a good able preacher,
+and hath heard him so accompted of men of good judgement in
+the place. Was invited to the weddeing of Mr. Tonge and Mr.
+James Carr his daughter. After dinner was ended there
+happened some occacion of conference betwixt Mr. Alvey and
+Blaikeston his wife who were talkeing aparte from the company.
+Did goe forth of that roome with some other companie, where
+he stayed a prettie space. Upon comeing into the roome againe
+found Alvey and Blaikeston talkeing. Did heare Blaikeston
+then say</nonSpeech><dialogue> &quot;I will mainteyn that in your last sermon at
+Allhallowes, yow delivered seaven errors.&quot; </dialogue><nonSpeech>One in the companie
+replied to Mr. Alvey,</nonSpeech><dialogue> &quot;Vindecate your credit now.&quot; </dialogue><nonSpeech>Then
+Blaikeston againe answeared,</nonSpeech><dialogue> &quot;Yea, if neede were, I could
+make appeare seaventeene,&quot; </dialogue><nonSpeech>but expressed himselfe noe further.
+All which woordes were spoken in the presence of Sir George
+Tonge, kt., one Mr. Ball, Mr. James Carr, Mr. Robert Carr, and
+divers others. Liveth in another parish, and hath not observed
+such irreverent behaviour as is articulate. Nenian Shafto. --
+Dec. 5. Publicacion of Shaftoe's examination decreed. 1638.
+Jan. 16. Matter of defence exhibited. Alvey sworne to
+answeare it. Mar. 6. Hath answeared. Moved by the counsell
+for Blaikeston that the answeares were not full; counsell of the
+other part alledgeing the contrary. Examination thereof
+referred to Mr. Chanclour, who, the day following peruseing the
+same, gave order that Alvey should make his answeares more
+full. Apr. 10. Alvey had exhibited a more full answeare.
+Accepted by the proctor for Blaikeston. Tearme probatorie
+assigned and compulsaries decreed. May 8. To prove the
+contentes of the allegacionn. Henry Maddison, Edward Mann,
+George Fenwicke, and John Lodge, of Newcastle, mercers, were
+sworne in the presence of Mr. Bullocke, exhibiteing his
+substitucion for Mr. Sissons, the originall proctor for Mr. Alvey. At
+his peticion the parties were all sworne to answeare to
+interrogatories exhibited by the partie promovent. Tearme probatorie
+prorogued till 17 May. Compulsaries decreed. -- <font>Henry
+Maddison</font> of Newcastle, gent., aiged 27. Was at the weddeing of
+Mr. George Tonge with Barbarey Carr. After dinner, being
+standeing with Blaikeston and Mr. George Fenwicke in the
+roome where they dined, did see Mr. Alvey and Blaikeston his
+wife sitteing apart from the companie at the table side in a
+serious discourse, in which they continewed a pretty space, upon
+which Blaikeston did goe unto his wife and tooke her by the
+<pagebreak id="161" />
+hand and spoke unto her as followeth:</nonSpeech><dialogue> -- &quot;Wife, what discourse
+is this yow have with Mr. Alvey? if yow doubt of anie thing I
+would have yow be satisfied with your husband at home, and if
+he cannot, then may yow goe to your minister to be resolved.&quot;
+</dialogue><nonSpeech>Alvey, in verie angry manner, replyed,</nonSpeech><dialogue> &quot;What, man? is thou
+comen to out-faice me?&quot; </dialogue><nonSpeech>Blakeston, in a very milde manner,
+answeared that he was not, but he onley came to advise his wife
+not to meddle with anie thing which concerned Mr. Alvey and 
+him. Instantly Mr. Alvey said unto him,</nonSpeech><dialogue> &quot;Goe, I will have
+notheing to doe with ye, for thou haste noe religion in thy
+heart.&quot; </dialogue><nonSpeech>After some other passages they departed. All which
+hapned in the heareing of George Fenwick, and thinketh some
+others did or might have heard. Blaikeston is very often
+absent from Newcastle by reason of his trade and many other
+busines. Beleeveth Blaikeston is a man conformable to the
+doctrine and discipline of the Church of England, and the rites
+and ceremonies therein established. Is of kindred to Blaikeston
+by marriage of his wife, whoe was daughter to Sir George
+Tonge, but in what degree he certainely knoweth not. <font> <foreign>Ad
+Interr.</foreign> </font> Was borne in Newcastle, and hath had his abode in
+Sct. Nicholas' parish there, when he was in the towne, for three
+yeares though he hath beene verie often abroad by reason of
+the sicknes and other occacions. When in the towne doth
+usually repaire to his owne parish church of Sct. Nicholas, both
+upon Sondayes and holy daies, and for the most part cometh to
+the begineing of prayers, and allwaies stayeth to the endeing.
+Is parishioner of the same parish that Blaikeston is of.
+Blaikeston hath had often occacions to be from home, and when at
+home examinate hath seene him at his parish church in tyme
+of divine prayers. At what time he came to thereunto or did goe
+away, or what gesture of body he used whilst there, examinate
+did not observe, being otherwise at his owne devotions. Henry
+Maddisonne.</nonSpeech><dialogue> <omission type="line" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="162" />
+</dialogue><nonSpeech>-- <font>George Fenwicke</font> of Newcastle, merchant, aiged 33. Did
+not conceive that anie wordes spoken by Blaikeston in the
+presence of examinate at the weddeing dinner weere injurious
+or defamatory, for Blaikeston spoke unto him in a milde
+manner. After the weddeing dinner Blaikeston did goe unto Mr.
+Alvey and his wife and tooke her by the hand, and said,</nonSpeech><dialogue> &quot;Wife,
+what communicacion is this that Mr. Alvey and yow have
+togeither, if there be anie thinge yow desire to knowe, it is
+fitteing to learne it of your husband at home.&quot; </dialogue><nonSpeech>Alvey, in a very
+passionate manner, replyed,</nonSpeech><dialogue> &quot;What, art thou comen to outface
+me, man? thou art but a preistes sonne more then I am.&quot;
+</dialogue><nonSpeech>Blaikeston told Alvey he would not make any comparisons
+<pagebreak id="163" />
+with him, but would give him all the respect was fitting to his
+place and calling. And upon some other passages at that time,
+without anie provocacion at all given by Blaikeston, Alvey in
+the like passionate manner said unto Blaikeston,</nonSpeech><dialogue> &quot;Thou art a
+man hath noe religion in thy heart.&quot; </dialogue><nonSpeech>Blaikeston, in a milde
+and temperate manner, replyed, and desired him to lett him
+knowe what religion was, and indeede then tould him he had
+soe much religion as he could discerne of errors which fell from
+him, or woordes to that effect. All which passages happened
+in the heareing of examinate and Henry Maddison, and
+thinketh there were others which did or might have heard.
+Blaikeston hath had manie occacions by reason of his traydeing as of
+other urgent busines wherin he was specially trusted to be from
+home. Hath seene him at the church of Sct. Nicholas, and
+knowne him duely to frequent the same, and other churches
+within that towne. Dureing the 15 or 16 yeares he hath
+knowne Blaikeston he hath never seene but that he did
+demeane himselfe very religiously and christianly, and conformably
+to lawe. Is alyed unto Mr. Blaikeston by the marriage of his
+wife, whoe is cosin jermaine once removed unto the said John.
+<font> <foreign>Ad Interr.</foreign> </font> Hath beene an inhabitant within the towne for
+18 or 19 yeares <comment type="editor">and dwelt in the parish of Sct. Nicholas as is
+comonly held <font>Erased</font> </comment> and thinketh he is not bound by lawe to
+give anie answeare to this interrogatory. When he is at home
+doth constantly repayre unto some of the churches or chapples
+in Newcastle, and for the most part doth come to the begineing
+of service and stayeth till the endeing of the same. Beleeveth
+that all the towne of Newcastle is but one parish. Doth not
+come to observe anie man's gesture or behaviour in the church,
+but joyneth with the publique congregacion in such religious
+duetys or offices as are then handled, howbeit, did never see
+but that Blaikeston did demeane himselfe in a very religious
+and christian manner. George Fenwicke.</nonSpeech> <omission type="line" />
+
+
+    </sample>
+    <sample id="SAMPLE 11">
+
+<pagebreak id="182" />
+   <nonSpeech>WILLIAM CARR, gent. For abuseing Mr. Macklewyan, clerke,
+<pagebreak id="183" />
+vicar of Lesbury. 1637. Oct. 24. Letters missive. Dec. 5.
+Charged that in manifest contempt of the canons, constitucions,
+and ecclesiasticall lawes of this realme, he did disgracefully
+nominate, tearme, and call Mr. Macklewyan (being a minister of
+Gode's word) &quot;theffe, carle, and Gallowaie knave,&quot; and in
+threatening manner say unto him,</nonSpeech><dialogue> &quot;Sirray,&quot; </dialogue><nonSpeech>in derogacion of
+his funccion and priesthood; and that he did likewise scandalise
+Mr. Macklewyan's wife, and called her whore. 1638. Jan. 16.
+Had answeared, and absolutely denied the articles, but
+confessed he called him &quot;Galloway preist,&quot; and not otherwise. Mar.
+6. Witnesses sworne. Interrogatories exhibitted. Sworne also
+to them. -- <font>Robert Gray</font> of Lesburie, yeoman, aiged 40. Hath
+knowne Carr from his infancie. About a moneth before
+Michaellmas last, in harvest time, examinate happned to be with
+others in the Towne feildes of Lesbury, being then imployed by
+Mr. Macklewyan for leadeing of his corne. Carr came to him,
+and Mr. Macklewyan and they did reason about there tithes,
+whereupon Carr did fall into bitter and passionate wordes
+against Mr. Macklewyan and amongst others did tearme him
+&quot;Thiefe, carle, and Gallowaie knave,&quot; and said</nonSpeech><dialogue> &quot;Sirra, if yow
+and I live I will remember yow,&quot; </dialogue><nonSpeech>and shaked his staffe at him.
+At that time Carr did alsoe, in very malicious manner, say unto
+Mr. Mackilwyan that his wife was a whore, and he would prove
+her one Wilson's whore, and would make Wilson take her by
+the hand. <font> <foreign>Ad Interrog.</foreign> </font> Was borne at Haukle, par. Lesbury,
+where he lived ever since until about 8 yeares now gone, at
+which time he removed to Lesbury towne. Is a husbandman
+by his profession and condicion of life. Wisheth alike to them
+and there cause, haveing noe more referrence to the one then to
+the other. Is worth 20 markes, his debtes payed. The wordes
+were spoken in a place called Fareinfall, part of Lesbury feildes,
+and about tenn of the clocke of the day tyme.+</nonSpeech>
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

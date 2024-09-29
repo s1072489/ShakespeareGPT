@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3CTB">
+  <dialogueHeader>
+
+    <filename>D3CTB</filename>
+
+    <identifier>3 COMEDY D3CTB</identifier>
+
+    <title>THE COVNTRIE GIRLE</title>
+
+    <author>BREWER ANTHONY</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1647</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">BREWER, ANTHONY.</attribution>
+      <frontMatter>THE COVNTRIE GIRLE. 
+A COMEDIE, AS IT HATH BEENE OFTEN ACTED WITH MUCH APPLAUSE. 
+NEVER PRINTED BEFORE.
+BY T. B.
+LONDON, PRINTED FOR A. R. 
+1647.
+PP. B1R - E3V.9
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="B1R" />
+ <head>THE COUNTRY GIRLE.</head> 
+
+<nonSpeech>Enter Sir <font>Oliver Bellingham</font> , and M. <font>William</font> .</nonSpeech>
+
+   <nonSpeech>M. <font>William.</font> </nonSpeech><dialogue>
+Beleeve me Sir, I have told you what your worship
+may most certainly trust to.
+   </dialogue><nonSpeech> <font>Sir Oliver.</font> </nonSpeech><dialogue> May I not speak with her?
+   </dialogue><nonSpeech> <font>M. William.</font> </nonSpeech><dialogue> You know my place.
+There's no more hope from the deepe pit of griefe
+To raise in her any conceit of love,
+Then there's to raise her husband up againe
+From the cold bed he sleepes in: from the Grave.
+Take this for all: My Lady Sir, has vow'd
+To live, and die a Widdow. -- So I leave you. -- </dialogue><nonSpeech> <font>Exit Shut.</font> </nonSpeech>
+   <nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Is't possible, that such a one as shee;
+So young, so beautifull; so full of blood;
+Such lusty blood, as shee's? for such a losse,
+Should lose that youth; that Beauty, that quick blood
+In such a cold retirement? -- Well, I know not!
+But if she have made such a vow, and keepe it!
+To finde out such another, and a Phaenix,
+Is but an equall labour. </dialogue><nonSpeech> <font>Enter M. Rash.</font> </nonSpeech>
+   <nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Save you Sir <font>Oliver</font> ; save you, sweet Sir     
+<font>Oliver</font> .
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> As much to you Sir; kind M. <font>Rash</font> .
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> You have bin with the Widdow; this melancholly
+Lady already. Give you much joy of your faire hopes Sir
+<font>Oliver</font> .
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> As much to your self; to your self Sir, kind   
+M. <font>Rash</font> .
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Ile hope as much as I can, though you be a Knight;
+and I but an honest Citizen. A Mercer, is a Merchant, and
+<pagebreak id="B1V" />
+will looke for good Ware, for his Money. </dialogue><nonSpeech> <font>To the dore.</font> </nonSpeech>
+   <nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> If he should enter now? -- Ile see the issue.
+</dialogue><nonSpeech> <font>Enter M. William.</font> </nonSpeech>
+   <nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> You know my comming: to speak with your Lady, M.  
+<font>William</font> .
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> But shee's not at leasure to heare you.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> I hope you doe but jeast.
+   </dialogue><nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> Beleeve me Sir, in earnest.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> But I'le not take't in earnest. </dialogue><nonSpeech> <font>Offer to the 
+dore.</font> </nonSpeech>
+   <nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> But you must. -- Then you'll be <font>Rash</font> indeed 
+Sir.
+Though you be a Citizen, you are not free of this Hall,
+And therefore must have no admittance. </dialogue><nonSpeech> <font>Exit Shut.</font> </nonSpeech>
+   <nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Give you much joy of your faire hopes.
+Another? </dialogue><nonSpeech> <font>Enter Plush, a Gallant.</font> </nonSpeech>
+   <nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Save you Gentlemen: how is't M. <font>Rash</font> ?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> As well as we may, M. <font>Plush</font> .
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> You have got the start of me, I see that         
+Gentlemen.
+A Suit, brought me home this morning, made me lye so much
+the longer: but, my Taylors long Bill, like a Woodcock, as
+hee is, shall be so much the longer a paying. -- You have
+beene within?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> In our time Sir.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> I meane, this morning.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> But -- the Lady meanes no such thing Sir.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> We heard of your Worships new Suit, and would
+not goe in before it.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> I'le lead the way then. </dialogue><nonSpeech> <font>Stamp at the        
+dore.</font> </nonSpeech>
+<nonSpeech> <font>Enter M. William.</font> </nonSpeech><dialogue>
+M. <font>William</font> ? good morrow good morrow sweet M. <font>William</font> .
+   </dialogue><nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> That sweet, to your sweetest selfe Sir.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> And where's thy Lady? -- You see, we come, to
+come to her. -- </dialogue><nonSpeech> <font>Offer to the dore.</font> </nonSpeech>
+   <nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> By your favour Sir, you are too hasty.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Why, is not thy Lady up yet?
+   </dialogue><nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> Why, doe you meane to take her downe Sir?
+-- Buy Sir. </dialogue><nonSpeech> <font>Exit shut.</font> </nonSpeech>
+   <nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> This Fellow's sawcie.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Minds not your Worships new Suit Sir. -- But
+we must be content.
+<pagebreak id="B2R" />
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> We may be patient Sir, but not content; for
+nothing contents me, but the Lady. </dialogue><nonSpeech> <font>Enter Sir Robert Malory.</font> </nonSpeech>  
+   <nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Nor me, but that beautifull Lady.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Who have wee here? Sweet and soft, M.          
+<font>Plush</font> .
+M. <font>Rash</font> ! -- I dare be so bold as embrace you too. -- But
+my Noble Sir. My Sir, of a thousand <font> <foreign>per annum</foreign> </font> .
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Why, I can be a Knight, an I lust Sir.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> An I can be a Knight, an I lust Sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Dubd, with the Citie Dagger. -- Then <font>Rash</font> ,
+would be rash indeed. You come to see my Sister?
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> With all our hearts we would Sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> 'Las good hearts.
+Me thinks the Gates should of themselves flye ope,
+To such brave men as you are.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> You have the old heart, still Sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> The young heart still Sir <font>Oliver</font> ; -- tho  
+mad
+heart, -- the merry heart; the light heart, with the candle
+of conceit, burning in it, as bright as <font>Lucifer, Hesper, Vesper</font> .
+You have not bin within? I will make out this paire of Aces,
+And then you shall see my Sister.
+I perceive by your melancholy looks,
+My melancholy, pettish, peevish Sister,
+Is not at this time to be spoke withall.
+'Tis such a foolish thing; -- She knowes not worth,
+Nor how to entertain't: suffice it Gentlemen,
+I doe; -- And shall not goe behind her back
+To let her know your merit.
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> Will you Sir?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> And in a just proportion to that merit,
+That Masse of Merit, you shall finde her favour:
+So M. <font>Plush</font> , and worthy M. <font>Rash</font> ,
+I shall desire you leave us.
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> You'll remember.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Shall I remember (Gentlemen) to eat?
+To drink? to sleep? -- Then Ile remember you. </dialogue><nonSpeech> <font>Exit Plush and    
+Rash.</font> </nonSpeech>
+   <nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Then? -- When Sir <font>Robert</font> ?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> When I am asleepe. -- Awake, I shall never
+<pagebreak id="B2V" />
+mind e'm. For their Worships are hardly worth it.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Yet in a just proportion, to their merit.      
+</dialogue><nonSpeech> <font>Ent. Abram.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Yes, that's just nothing: -- Hang e'm          
+gloworms, hang e'm.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Here's another rub in our Ally Sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> A Tennants sonne o' mine. -- And how does
+my honest <font>Abr'am</font> .
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> The better your good Worship is well Sir. I was
+to seeke your good Worship, at your Right Worshipfull
+house Sir: but, missing you there, I rejoyce I have met with
+you here.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Why, what's the matter <font>Abr'am</font> , what's the 
+matter?
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> In the way of love, as they say: from my father,
+and my suster; and my tother suster too; -- You know who
+I meane, Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Thy scolding sister. </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> You are in 
+the right, Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> And how does <font>Margaret</font> , my pretty Tennant?
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> That pretty one, is prettily well Sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Remember me to her by this. -- </dialogue><nonSpeech> <font>A Ring.</font> </nonSpeech><dialogue> 
+Within these two or three dayes, at the furthest, I should
+breath a Gelding; It may be, that wayes, and visit my 
+pretty Tennant.
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Long may your Worships Gelding breathe, and
+your Worshipfull selfe also.
+I am in hast Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Take your own time good <font>Abram</font> .            
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Thank your good Worship Sir <font>Robert</font> .          
+</dialogue><nonSpeech> <font>Exit with Congies.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> I have done your patience wrong; indeed I have;
+But, in the best, that lyes in me to right it </dialogue><nonSpeech> <font>Dore stamp.</font> </nonSpeech><dialogue> 
+You shall command me Sir: Now to my Sister.
+Now, where's my Sister? </dialogue><nonSpeech> <font>Enter Master</font> William.</nonSpeech>
+   <nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Shee's within Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Come then, let's to her. </dialogue><nonSpeech> <font>M. Wil.</font> </nonSpeech><dialogue> You 
+must pardon me,
+Shee's so retyr'd to solitude; and set
+So deep in grief, that till her sighs, and teares,
+Will give her leave to give that entertain
+That shall become such worthy Visitants,
+(Which yet, they will not) tis her strict command
+<pagebreak id="B3R" />
+That no man enter.
+   </dialogue><nonSpeech> <font>S. Rob.</font> </nonSpeech><dialogue> Not my self?
+   </dialogue><nonSpeech> <font>M Wil.</font> </nonSpeech><dialogue> Your self,
+Sir, if you would not swell her grief too big
+For her faint breast to carry, give her way.
+A little time may change her. </dialogue><nonSpeech> <font>Exit</font> shut</nonSpeech> 
+   <nonSpeech> <font>S. Rob.</font> </nonSpeech><dialogue> Tis enough. -- You see Sir <font>Oliver</font> .
+   </dialogue><nonSpeech> <font>S Oli.</font> </nonSpeech><dialogue> Your Love, Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>S. Rob.</font> </nonSpeech><dialogue> But, as her Gentleman discreetly said,
+A little time may change her: We must still
+In such a kind humour a womans will.
+But, she's thine own, be bold on't. -- </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>  
+<nonSpeech> <font>Enter Master</font> William, <font>and</font> Barbara.</nonSpeech> 
+   <nonSpeech> <font>M. W.</font> </nonSpeech><dialogue> Come, thou mak'st such a Matter, of Nothing.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Nothing, doe you call it, Master <font>William</font> ? I   
+know 
+not, but I am sure, I feel it something -- Tis almost, kicking
+ripe already.
+   </dialogue><nonSpeech> <font>M. W.</font> </nonSpeech><dialogue> Almost, kicking ripe already, -- Come, come, thou
+art, A Chamber-maid still; -- And I prethee, whats this, but
+a work that belongs to the Chamber? Kicking ripe already,
+This is not the first time, that thou hast been kickt with an
+urchin. Once, Twice, -- this is the third time of kicking.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Well, you wo'not, marry me?
+   </dialogue><nonSpeech> <font>M. W.</font> </nonSpeech><dialogue> And hazard my place, wo my Lady? -- and yet,
+Now I think on't. -- I will --
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Marry me?
+   </dialogue><nonSpeech> <font>M. W.</font> </nonSpeech><dialogue> To some of my old acquaintance. There be a 
+hundred in the City, that have swallowed worse bits then thou
+art. Hist.
+</dialogue><nonSpeech> <font>Enter the Lady</font> Mosely <font>in mourning, veild; the Lady</font> 
+Malory, <font>and an old Gentlewoman</font> .</nonSpeech><dialogue> 
+I know, my danger, and shall have a care, according.
+   </dialogue><nonSpeech> <font>La, Mos.</font> </nonSpeech><dialogue> Beseech you. Let the love you seeme to shew
+In these perswasions, be exprest in words,
+That better suit with such a robe as this,
+And my immutable resolve.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Immutable? -- then we perswade, in vain.
+<pagebreak id="B3V" />
+   </dialogue><nonSpeech> <font>M. W.</font> </nonSpeech><dialogue> I am bound to say
+You have lost a worthy Gentleman; -- My selfe,
+A noble Master; -- one that was a Man
+Worth your best memory: the multitude
+Of sighs you have sent after him, worth all
+The expence of teares, you have bestowed upon him.
+But when we look into his Tombe and there
+See him lock'd up in Marble; -- in the still,
+And sad imagin'd language of the Grave,
+We are instructed, Nay, commanded Lady,
+To period our vain grievings.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> He has told you the naked truth on't.
+'Tis but in vaine to grieve; -- For, is't not sed
+The quick must live byth' quick, and not byth' dead?
+He's gone, -- Heaven be with him; -- He was a Gentleman;
+An honest man; -- and, which is more; -- a proper Gentleman:
+But, when Gentility, -- Honesty, -- and proportion,
+Lye in the Grave once, I ha' done with 'em.
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Thy tongue's my ceaslesse torment.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Let me tell you,
+That infinite of love you seeme to have fixt,
+Upon the heart of your departed Husband,
+Loses no scruple, of the worth it has,
+Plac'd on a second Husband.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Mark you that now?
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Nay, I dare tell you, that in a second Match,
+You love him more; more love, more honour him,
+Then, in your mourning Widdowhood.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Mark you that now?
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Ile make it open to you: whilst you keepe
+Incompast, with this solitude, a Widow,
+You seeme, to voyce, to the ill-censuring world,
+Some imperfection in your selfe; some staine
+Makes you unworthy of a second Match:
+At lest, unworthy, of a worthy Husband,
+And in th' opinion, (which is easily rais'd)
+Question your Husbands judgement. -- Or, it may be,
+<pagebreak id="B4R" />
+The estate he left you Lady; -- pulling so
+Upon the Name, you strive to dignifie,
+Disgrace, defames, and scandall.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Mark you that now?
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> If you so lov'd him living, love him dead,
+As I advise you Lady.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> I, I, doe.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> 'Tis the best Tomb-stone you can lay upon him;
+The noblest Monument, you can erect;
+And to that Monument, an Epitaph,
+Shall make him live for ever.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Law you there now! -- Shal make him live for   
+ever!
+You are not dumb tro? -- are you?
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Would thou wer't.
+Or I had lost my hearing. -- I can wish
+Nothing more adverse to me, then your tongues:
+And therefore, if your visits bring with them
+Nothing, but these perswasions.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Keepe away.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Nay, as good speak't as think it. -- Here's a
+coyle for a Husband, I have had for mine owne part, -- 1.
+-- 2. -- 3. -- 4. And yet if the fift come up handsomly to
+me, -- I know what I know, I warrant you.
+   </dialogue><nonSpeech> <font>La, Mal.</font> </nonSpeech><dialogue> How five? </dialogue><nonSpeech> <font>Enter</font> M. <font>William</font> .</nonSpeech> 
+   <nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Fifteene, an the Destinies so have decreed it.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Madame, there be Suiters below would see you:
+M. <font>Rash</font> , the Mercer; -- one <font>Plush</font> , a humorous Gallant;
+-- and a spick and span new Suiter, a Country Gentleman,
+-- one, M. <font>Gregory Dwindle</font> .
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Spruce M. <font>Rash</font> I know.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> And I M. <font>Plush</font> , a notable humorous Coxcomb.
+But what's that <font>Gregory</font> ?
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Unknowne to me: but beleeve me, together,
+They make up, a delicate motion. -- Is your Ladiship pleas'd
+to see 'em?
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Present your Motion some-where else, our griefes
+give way to no such lightnesse.
+<pagebreak id="B4V" />
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Very good. -- I'le tell e'm what you say?
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Pray stay a little.
+I know these Suiters are but empty things;
+Not worth one serious entertaine; yet Sister,
+I wo'd not have you beat e'm back, at dore:
+Pray let e'm enter; Let e'm looke upon you.
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Still your desire's, my anguish.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Come, come, pray. -- You are so melancholly.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Why, their mirth -- will be a means to cure you.
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Kill me rather.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Goe, prethee bid e'm come.
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Bid e'm be gone.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Nay, then, y'are too too cruell. -- Prethee    
+stay.
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Nay, an you know no other merriment,
+Then what you raise from my vexation, take it;
+I will not hinder your desires; pray take it.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> You will not leave us, will you?
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Leave this roome.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> And goe mew your selfe up in your Chamber?
+An you will needs: -- Let me entreat one favour.
+   </dialogue><nonSpeech> <font>L. Mos.</font> </nonSpeech><dialogue> Well, what is't?
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> That, in your absence you'd be pleas'd to let
+Your wayting Gentlewoman, Mistris <font>Barbary</font> ,
+Appeare in your apparrell: Tis but slipping off
+This upper garment; and this mourning Veile,
+And shee's my Lady.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> How? -- My Bab, my Lady!
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> It will be sport to us; and to your selfe
+A rare advantage Sister: for this trick
+Keepes all your foolish Suiters at that distance,
+Their trouble shall ne're touch you. -- Will you?
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Will you?
+   </dialogue><nonSpeech> <font>L. Mos.</font> </nonSpeech><dialogue> Though pleasure, be no pleasure to this bosome,
+Since you propose th'acquittance of that trouble,
+Your desire's granted.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> But be speedie then
+With your directions for her carriage in it, </dialogue><nonSpeech> <font>Exit L. Mosly.</font> </nonSpeech><dialogue> 
+<pagebreak id="C1R" />
+And we shall fit 'em neatly. -- Call e'm in.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Did you ever see such a self-will'd thing as   
+this is?
+-- a widdow these two moneths, and yet not heare of a 
+Suiter. </dialogue><nonSpeech> <font>Enter M. William, Rash, Plush,
+and Gregory.</font> </nonSpeech> 
+   <nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> The Gentlemen, an't please you.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Yes indeed, an't please you.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Master <font>Rash</font> .
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Your servant, good deed law, Gentlewoman.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Master <font>Plush</font> .
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> My name is <font>Plush</font> ; Master my Title, and Sir, 
+a Title,
+that may be.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> And my name is <font>Gregory</font> --
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> <font>Fop</font> : thy sound is out o' season. -- But     
+where's the Lady?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> I, where's the Lady?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Wee would see the Lady.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> I hope she has done mourning now, -- has she not?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why, dos the Lady mourne?
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Indeed shee dos.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Tis a delicate thing to mourne. -- Well, an my
+Father wou'd but dye once!
+Would we could see this Lady.
+</dialogue><nonSpeech> <font>Enter Barbara, like her Lady, arm'd in
+by</font> M. <font>William</font> .</nonSpeech> 
+   <nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> You have your wish already.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Beautious Lady!
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Most beautious Lady!
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Most beautifull Lady, that may be: for yet, I see 
+no
+such matter.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Thine eyes are veyl'd with ignorance, or else,
+Through this thin veile, thou might'st, as we, -- behold
+Matter of admiration! -- You'll vouchsafe; --
+Not yet.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Alas: -- upon their Captive heart,
+My sorrowes yet have set too strong a Guard
+For such delights to enter.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> I could wish.
+<pagebreak id="C1V" />
+That Conquerour of thy heart, and all his Guard
+Were visible, that I might challenge them.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> I marry sir; that were a challenge indeed.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Me thinks I could -- doe --
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> What, doe you think you could doe Sir?
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> O -- my most delicate Lady!
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Doe, -- his -- most delicate Lady. -- A
+terrible doe, indeed law.
+   </dialogue><nonSpeech> <font>O Gent.</font> </nonSpeech><dialogue> Well Lady; if this be the man shall have you,
+You shall have a man, I can tell you.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> If I be the man that shall have her,
+Shee shall have a man, I can tell you.
+   </dialogue><nonSpeech> <font>O Gent.</font> </nonSpeech><dialogue> But, hee's a fighting man.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> A fighting man? -- Let him play at the ancient
+weapon, an he were a Fencing man, I'll have a Bout with him.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> The ancient weapon? -- What weapon's that?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why this? </dialogue><nonSpeech> <font>His hand.</font> </nonSpeech> 
+   <nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> As wise, as valiant! 'tis the ancientst weapon   
+indeed Sir.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> And why not this? </dialogue><nonSpeech> <font>His Rapier.</font> </nonSpeech> 
+   <nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> I am better acquainted with this.
+   </dialogue><nonSpeech> <font>Plush.</font> </nonSpeech><dialogue> Well, wee shall meet?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> And meet agen: -- Tell me of fighting Lady!
+   </dialogue><nonSpeech> <font>O Gent.</font> </nonSpeech><dialogue> I see you are valiant Sir; -- and you are happy
+In having so much valour as you see
+Attend your beauty.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> I must confesse them, worthy Gentlemen;
+But they must pardon me: -- the worth I ha' lost,
+With my dead husband, is so full, and fresh,
+Upon my understanding, that all else
+Have yet but homely entertaine: -- And yet,
+Y'are welcom Gentlemen. -- </dialogue><nonSpeech> <font>All 3.</font> </nonSpeech><dialogue> For that, we thank you.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> We must hope still.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Well, an my Father would but dye once!
+I live in hope too Lady.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> You see their valour Sir: -- and what's your     
+weapon?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> I am no man of the sword, -- I have no weapon.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> How Sir? -- No weapon! -- </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue>     
+What should 
+<pagebreak id="C2R" />
+you do in <font>Cupids</font> fencing Schoole, And have no weapon?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> There was a time, -- I could have crost a cudgell.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> And that you Sir?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Good sooth sometimes I can tell you: -- yet, if any
+man strike me, I have a weapon too Sir.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> The coldest flint, has fire I see: What weapon?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> One, that is indeed, -- All weapons. --
+Long-Sword; Sword and Dagger; -- Sword and
+Buckler; Single Rapier, Rapier and Dagger; Case o' Rapiers;
+Halbert, Halfe-Pike; Quarter-Staffe; Short-Sword and
+Gauntlet; and that terrible Fly-flap, the Fauchion.
+   </dialogue><nonSpeech> <font>All.</font> </nonSpeech><dialogue> All these in one? -- </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Or one that's 
+worth all
+these; -- and that, -- in a word, is the Law Sir.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> A terrible weapon indeed Sir.
+   </dialogue><nonSpeech> <font>Rash,</font> </nonSpeech><dialogue> There, let mee firk 'em, and jerk 'em: There, Let
+mee stand upon Tearmes; -- There, Let me play the
+Master, and M. Atturny, my Vsher, and then, -- with all the
+weapons in that School, have at 'em. </dialogue><nonSpeech> <font>En. Sir Rob. and Sir       
+Oli.</font> </nonSpeech> 
+   <nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> This goes beyond your Rapier; or your ancient
+weapon, the Fist. </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Body o' me, my husband, and
+Sir <font>Oliver</font> . </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> What's to be done? </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> 
+Doe,
+as thou hast done Wench. </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Play the Lady, a little
+longer. </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Handsomly <font>Bab</font> , and I'le promise thee,
+it shall cost me a Chamblet Pettycoat.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> I'll do't as well as I can then.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Come, come, we will speake, and speed too, my
+Knight, of a thousand <font> <foreign>per annum</foreign> </font> , where's this mourning 
+Lady? -- What, my <font>Madona</font> ? -- and my Lady Littleworth.
+Hoyday? This <font>Covy</font> of Coxcombs too!
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Sir <font>Robert</font> . </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> One. --       
+</dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> Kind Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Two. -- </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Worthy Sir             
+<font>Robert</font> . -- </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Three,
+yet never a wise word amongst 'em. -- What, still in Dumbs,
+and dolors? -- An ye were as heavy as Lead, 'twas but a light
+trick of you to deny Accesse to such a brave man as this is, and
+allow't to such Mimicks as these are. -- Death, I could kick
+e'm out o' the roome. And you, though you bee my wives
+sister, for lodging such basenesse within you.
+<pagebreak id="C2V" />
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Why, you are not out of your wits?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> You have no wit to be out of. Gentlemen, you
+are all -- Hobbyhorses. An it please you, to leave the house
+now; and come agen, -- when you are sent for, -- you shal
+be -- heartily glad, to be welcome.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> You see his humour Gentlemen; pray leave us.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> There's no resisting of him; for he has Rapier,  
+fist,
+the law, and all, for any man, that shall thwart him.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why, but I hope --
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Not one word more, an you love me.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Off, ere the flame grow higher. </dialogue><nonSpeech> <font>Exit the    
+3.</font> </nonSpeech>  
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Come, take my counsell, and forget him.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Never.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Still looking downward, to your husbands grave?
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> To those that weare so sad a suit as this,
+The Grave's the glasse they use to deck e'm by.
+Pray give me leave.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Shee dos it to a haire.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Prethee look up a little; -- I can shew thee
+A Glasse, shall shew thee better things; -- a Glasse,
+That shall reflect, no such affrighting shadowes --
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Nor shadowes (beautious Lady) but the same
+True, and essentiall comforts.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> O. -- O. -- O. </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Excellent,         
+mourning Lady.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> The Nuptiall knot, binds loving Paires together,
+Only for terme of life, has no extent
+O're the divorce of Death.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> Pray, pray no more.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> That onely binds the living to the living,
+And not the living to the dead.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> That flesh that has a soul within it, the      
+indowments,
+And excellencies, bounteous Heaven bestowes,
+To that, has nothing but the frightfull shape,
+And key-cold figure of a man.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Yet this, 
+While thus, you dote upon your husbands dust,
+You doe sweet Lady; and this beauty bind
+<pagebreak id="C3R" />
+To stenches, and corruption; so imposing
+Upon your selfe <font>Mezentius</font> cruelty.
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> You have my resolution; so, pray leave me.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> An you be buried in your Husbands grave,
+I see my suit must dye too.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Yes, and let it
+For ever, Let it die to her, and live
+To one that better shall deserve it: come,
+I'le bring thee, though shee be mine owne <font>Madona's</font> Sister,
+My Knight, of a thousand <font> <foreign>per annum</foreign> </font> , to her betters: -- one
+that is younger, fairer, richer, and it may be, -- Honester
+too Sir.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> How Sir <font>Robert</font> ? Honester.                  
+</dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Honester?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> An shee prostrate her selfe to a set o' 
+Morris-dancers; -- and neglect such a <font>Caesar</font> as this is. -- Come
+Sir <font>Oliver</font> , come, let's away.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Nay, but heark you, heark you Sir <font>Robert</font> ;  
+and
+worthy Sir <font>Oliver</font> ; that you may see this Lady,
+Is not the woman that you take her for;
+Looke, doe you know this Lady?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> How, Mistris <font>Bab</font> ?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> My Ladies Chambermaid!
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> A trick o' mirth they put upon these Coxcombs.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Were you my Lady?
+   </dialogue><nonSpeech> <font>Bab.</font> </nonSpeech><dialogue> So, your Lady would have it, Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Why, god-a-mercie faith.
+   </dialogue><nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> There's all the comfort they are like to have.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> This cloud's like <font>Juno</font> ; the poore shadow   
+Sir.
+The substance, wee'll court for you.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> My Lady <font>Bab</font> . -- How like you this Sir     
+<font>Oliver</font> ?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> This change, has put some life into me Sir.
+And I must tell you, betterd my opinion
+Both of the Ladies wisedome, and her goodnesse.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> But heark you wife, may we not see my Sister?
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Faith, yet her temper is not as Wee'd have it:
+But we shall win her by degrees, and turne
+Her melancholy to a sprightly humour.
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> A day, or two dayes passage.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Come Sir <font>Oliver</font> .
+Meane time wee'll see what mirth my house can yield
+To entertaine you with. -- A ha, my Girle!
+Why such a Wench is worth her weight in Pearle. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+   <nonSpeech>M. <font>Wil.</font> </nonSpeech><dialogue> Well, thou hast played my Lady, like a Lady.
+I have a trick from this conceit, to doe,
+Shall make us sport, and help thy swelling too. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+ 
+ <head>ACT. 2.</head> 
+<nonSpeech> <font>Enter old Thrashard, and Margaret his daughter,
+neatly drest.</font> </nonSpeech> 
+
+   <nonSpeech> <font>Margaret.</font> </nonSpeech><dialogue> 
+Sir, I have spoke my danger.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> A dangerous case beleeve me.
+And yet, me thinks, there's no great danger neither.
+For, say a man offer to blowe thee up with Love-powder,
+If his traine lie so open, you may see it, you have the wit I
+hope to shun it; -- h'an't you.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I have done hitherto.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> And doest thou feare, -- thou shalt hold out no   
+longer?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Sir, I doe not.
+For, all the pollicies, and power he has,
+Can ne're prevaile to conquest. -- No, tho feare
+Be to our Sex a common attribute;
+In such a fight as this, my resolution
+Has that Heroick temper, I dare meet
+My death, e're my dishonour: -- my dishonour!
+For vertue's vertue, in what breast soere,
+And her great splendour, equall.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Splend? -- Heyday!
+But to the point, what is he? -- Do I know him?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Yes, if you know Sir <font>Robert Malory</font> ,
+Your Landlord Father.
+<pagebreak id="C4R" />
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> How Sir <font>Robert</font> ?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> He. -- Sometimes, -- (tho clouded in a course     
+disguise)
+He layes temptations to mine eare himselfe:
+Sometimes by deputy; sometimes by Letters;
+And sometimes by rich gifts. -- As if that Jemme
+(Once gone) can never be bought back againe,
+Were to be sold so basely. -- Here's my sore,
+Assist me in the remedie.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Sir <font>Robert</font> !
+He ayme against thy chastity? Alas.
+Has he bestowed upon thine Infancie,
+That care, and cost, that he has done? -- Maintain'd thee
+Among his owne? -- Fed thee among his owne?
+Apparrel'd thee, as he has cloth'd his owne?
+In the same Schoole, in the same qualities,
+Had thee instructed with his owne? -- Has he
+So beautified thy mind? -- So grac'd thy body!
+So many yeares in his owne house! -- And now --
+(So close his favours follow thee) -- does he
+Maintaine thee here? -- Here in this homely Roofe,
+A starre to that poore glimmering candle light,
+My poverty could afford thee! -- And for this,
+Is this the best you can returne him?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> No -- Father, for these should I forget to pay,
+The most obsequious duties I can tender,
+'Twere just in heaven I should forget my selfe.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Had this beene spoke of any other man.
+I might have lent an eare to't: -- but, Sir <font>Robert</font> !
+Noble Sir <font>Robert</font> ! -- that brave man, Sir <font>Robert</font> !
+Our bountious Benefactor! -- Say he have
+Scatter'd some words ith' way of merriment,
+Some pleasant, idle, -- wanton, -- what d'yee call't?
+Sprinkled a little Bawdry in his speech?
+(As Courtiers may, and ne'r be question'd for it)
+That cuts not off a Maydenhead. -- Nay, perchance
+The merriment, that you interpret lust,
+Was his meere love to vertue.
+<pagebreak id="C4V" />
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Vertue!
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Yes. -- Tis my conceit, that all his talk, -- his
+Letters, and all the gifts he sent thee, were imployed,
+Ith' way of triall: -- Not to make thee naught;
+But so to sound thy goodnesse.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Sound my goodnesse!
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Not to o'recome thy chastity; but to try
+If any other should assaile the Fort,
+How stoutly  thoud'st maintaine it.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Think you so?
+I'le think so too then Father: -- Let him try me.
+But jest, or earnest, he shal ne'r come nye me. </dialogue><nonSpeech> <font>Ent.            
+Gillian.</font> </nonSpeech> 
+   <nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Why, this is fine, you have the golden time on't.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> What golden time? -- You'll still be scolding.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Scolding! -- Mary come up Mistris Jinnie-Pinnie;
+We cannot speak to you, but we scold. -- Well, I say little.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Nothing at all were better.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> But I'll say something; Has a woman a tongue to say
+nothing?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Prethee be patient Sister.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Yes I waun't you. I must wash, and scowre; And
+Brew, and Bake, and doe this thing, -- and doe that thing;
+and doe every thing, while such a beautifull Blowse as you
+are, must sit still o' your taile, and doe nothing.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Why, doest thou not see her at her work?
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> At work! -- A greate peyce o' work, a deed law!
+<comment type="compiler">SOURCE TEXT: At wotk! -- A geate peyce o work, a deed law!</comment> 
+-- Prick, prick, prick. -- As if she had nothing in the
+world to mind -- but Prick, Prick, Prick. -- But 'tis no
+matter, -- tis but my hard fortune; I am a foole indeed, and
+so you make me.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> What, what, a shower after this peale of thunder?
+-- Nay, doe not crie good <font>Gillian</font> . </dialogue><nonSpeech> <font>Enter Abr'am.</font> </nonSpeech> 
+   <nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> O, Father, Father.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Now Boy, what newes with you now?
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> Brave newes Father, -- News of the brave Sir       
+<font>Robert</font> .
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Pursue me still? -- Good Father give me leave,
+While hee's come in, and gone agen. --
+<pagebreak id="D1R" />
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> What leave?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> To absent my selfe; -- but in some neighbours house:
+I have a trick to passe him -- You may tell him,
+I'm gone to London.
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> When I have told him already, you are here in the
+Parlor a sewing.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Come, y'are a Baggage; y'ar a foolish Baggage,
+To injure with such frivolous suspitions,
+A Gentleman of his repute, and goodnesse!
+Come, let me heare no more on't.
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> Sister <font>Gillian</font> , -- I have the rarest newes    
+for you!
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> For me tis wel; -- And what news have you got for  
+me Sir?
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> Skipping news, lipping news, tripping news.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> How, Dancing brother <font>Abr'am</font> ? -- Dancing!
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> Prancing, advancing, dancing!
+Nay, 'tis a Match; -- a Match upon a Wager. 
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> A Match. -- Who be they?
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Why, all the Maids of our Town <font>Edmonton</font> ,
+And all the mad Wenches of <font>Waltam</font> .
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> A Match, and leave me out? -- When, when is't      
+Brother?
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Mary, ee'n this morning; -- they are now going
+to't, helter skelter. </dialogue><nonSpeech> <font>A Treble playes within.</font> </nonSpeech> 
+   <nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> And leave me out? -- Where brother <font>Abram</font> ?     
+where?
+   </dialogue><nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> Why there, Sister <font>Gillian</font> ; there. -- At our   
+owne
+dore almost: On the Greene there, close by the May-pole.
+Heark, you may heare them hither.
+</dialogue><nonSpeech> <font>Gillian dances and sings.</font> </nonSpeech> 
+   <nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Ta la la la leero, ta la, la leero -- &amp;c.
+An I be not one. -- </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+   <nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Thou't never be two, I think; -- For on my
+conscience, there is no man that knowes her, has valour enough,
+to come neere her
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Why, well said Girle, keepe but that resolution,
+</dialogue><nonSpeech> <font>Enter Sir Robert Malory.</font> </nonSpeech><dialogue> 
+And let his purposes, be what they can,
+They cannot hurt thee. -- Look, hee's come already.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Good morrow Tennant; -- good morrow beautiful  
+Tennant.
+<pagebreak id="D1V" />
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> As much to my worthy Landlord.
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> As much to my worthy Landlord.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> My Tennant <font>Abra'm</font> ! -- God-a-mercy good
+Tennant <font>Abra'm</font> .
+I want your welcome faire one.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Sir, you are welcome.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Had this bin spoke, with smiles upon thy cheek,
+I durst have sworne the Syllables had beene
+The Language of thy heart; thy heart, sweet <font>Peggy</font> .
+What, still so adverse to my pleasure? -- Tennant --
+And my young Tennant; -- shall I crave the Roome?
+I have something to deliver from my Lady,
+That she would have a secret to the Eare
+Of any, But faire <font>Margaret</font> .
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> The Roome?
+Our poverty possesses nothing Sir,
+But what is yours; you may command it. -- Come.
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> I smell my Landlord; but, -- no words but mum.
+</dialogue><nonSpeech> <font>Exit Thrash, and Abram.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Still, still this cloud upon thy brow sweet    
+<font>Peg</font> ?
+You know my minde.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> And you know mine Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> I meane, I love thee, my sweet <font>Peggy</font> .
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Doe you? -- Not halfe so well as I love you.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Love me!
+Then there's some hope agen. -- Why, god-a-mercy,
+Let's see how handsomly thou't give thy body
+To my embraces Girle. -- How, fly e'm <font>Peg</font> ?
+Not kisse me neither? -- such a thing deni'd,
+How canst thou say thou lovest me?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Yes Sir <font>Robert</font> :
+I love you in your Name: your Reputation;
+The dignity you carry in your yeares;
+The goodnesse should goe with e'm; -- In your Lady;
+I love you Sir, ith' faire Benevolence
+You owe her vertues.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Hoyday; -- Love me quotha! -- Nay, come , come.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> I love you in your vowes.
+<pagebreak id="D2R" />
+Those Nuptiall vowes, that whilst you live should live
+Unstain'd between you: -- In a word Sir <font>Robert</font> ,
+I love you in that purity, -- that shall,
+When death shall threaten your last minute to you,
+Make you look boldly on him; smile upon him;
+And in conclusion, seale you, one of those,
+That, from this veyle of trouble, he conveyes
+To th' purity of Angels: -- Thus, I love you.
+   </dialogue><nonSpeech> <font>Rob.</font> </nonSpeech><dialogue> This is not that I look for: heark you             
+<font>Margaret</font> ;
+Your Father is my Tennant.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Sir, he is.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Nay, since you vrge it, let me tell you Minion,
+He's not my Tennant, neither; but my Beadsman.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> And like an humble Beadsman, in his Prayers
+Remembers all your Charity.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> He does: -- But you forget it faire one.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Then let heaven,
+Whence we Petition, the Reward it merits,
+Forget me too.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Is't not forgetfulnesse
+When all the love, -- the tender cares, and cost,
+That from thy Infancie, to this Ripe groweth,
+I have bestowed upon you, cannot gaine me
+Such a request as this is!
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> This? Alas.
+Your greatest gaine's in losing. -- Nay, I'le tell you,
+The love, the care, -- that cost, that Noble breeding,
+That seemes to you a winning Argument,
+Is my best Argument against you.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> How?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Why Sir, the Education; -- that faire breeding
+You have bestowed upon my poverty,
+Has made me what I am: -- So copiously
+Furnish'd my soule, with all that best adornes her,
+That whatsoere's in opposition to't,
+Has no admittance to her; -- Neere her; -- No, --
+But, -- most deservedly, doe rank themselves
+<pagebreak id="D2V" />
+With things, that most displease her. -- Such a thing, -- is --
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> What? -- My Love?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> No, but your lust Sir <font>Robert</font> . -- I am bold,
+But I can kneele to beg your mercy for it. </dialogue><nonSpeech> <font>Kneele.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> What, she imagines water to my flame,
+Is oyle t'encreas't: the more she puts me off,
+The more she pulls me to her. -- Come, come rise,
+Though you be so unkind; -- Come, prethee kis me. </dialogue><nonSpeech> <font>Kis her.</font> </nonSpeech><dialogue> 
+Why, God a mercy <font>Peg</font> ; -- agen, agen;
+Why, this is somewhat yet: Wee must not look
+At once, to have so great a happinesse
+As that we ayme at. We must use degrees.
+Lock me, once more, in thy embrace, and busse me,
+And then. --
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> What then?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> For this time <font>Peg</font> I'll leave thee. --
+What, leave thee, and leave nothing with thee Wench?
+Nay, that were foule play <font>Peggy</font> : there, -- Nay, take it.
+Indeed you shall.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Indeed, indeed I wonot:
+For any service, I can doe you Sir,
+Your favour's price sufficient. -- No, not yet?
+I see, mine eye's a <font>Remora</font> : -- I ha't.
+How I forget my duty? -- Here so long,
+And ne'r a Chaire to ease you? -- <font>Abra'm</font> , -- Brother.
+Pray pardon me Sir <font>Robert</font> . </dialogue><nonSpeech> <font>Enter Abram.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> How, a Chaire? -- Kinder, and kinder still.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Come, come, a Chaire there for Sir <font>Robert</font> . 
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> She pitties your standing Sir <font>Robert</font> . -- But 
+I have a Chaire,
+Almost at my fingers end. -- Look you Sir,
+Will it please you. Bum this Cushion?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> How, Bum it Tennant? 
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> Yes, Bum it Landlord: -- Looke you Sir, o' this
+fashion. </dialogue><nonSpeech> <font>Sit.</font> </nonSpeech> 
+   <nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Come, you'll be foolish stil. -- You know my mind.
+Goe, bring e'm in. </dialogue><nonSpeech> <font>Whisper.</font> </nonSpeech> 
+   <nonSpeech> <font>Abr.</font> </nonSpeech><dialogue> An I bring e'm not in, let Sir <font>Rob.</font> kick me    
+out. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+<pagebreak id="D3R" />
+   <nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Lord, how forgetfull I have beene Sir <font>Robert</font> ?
+But, I beseech your pardon.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Pardon thee?
+And seal't upon thy lip; -- Come prethee sit. </dialogue><nonSpeech> <font>Treble within.</font> </nonSpeech><dialogue> 
+Nay, nay, sit by me; -- Ne'r a stoole? -- Sit here then.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Be fairely civill Sir; -- Nay, good Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> How now, -- what's that?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Musick Sir <font>Robert</font> . 
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Musick? -- Rot on their fiddle, and their      
+fiddle strings,
+Thou art my Musick. -- Hoyday, here's a Morice.
+
+</dialogue><nonSpeech> <font>Enter six Country Wenches, all red Pettycoates, white stitch'd
+Bodies, in their Smock-sleeves, the Fidler before them, and
+Gillian, with her Tippet up, in the midst of them dancing.
+Abram with e'm.</font> </nonSpeech> 
+
+   <nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> You see we swet to make your Worship merry.
+How doe you like our pastime?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> I like it so well, I could wish you were furder
+off with't.
+   </dialogue><nonSpeech> <font>Mayds.</font> </nonSpeech><dialogue> Have we this for our kindnesse Sir <font>Robert</font> ?
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Mary, come up Sir <font>Robert</font> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Nay, there's no talking to e'm.
+Come, in the heat, and height, of all her kindnesse!
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Shall I entreat you, Leave the Roome?
+   </dialogue><nonSpeech> <font>Mayds.</font> </nonSpeech><dialogue> The Roome!
+   </dialogue><nonSpeech> <font>Abra.</font> </nonSpeech><dialogue> So she sed: but I know shee meanes no such
+matter, -- onely a trick:
+Tell her, you wonnot goe.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Pray leave the Roome.
+   </dialogue><nonSpeech> <font>Mayds.</font> </nonSpeech><dialogue> We wonnot.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Wonnot?
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Peg.</font> </nonSpeech><dialogue> Wee were sent for in; and wee wonot goe out
+agen yet.
+   </dialogue><nonSpeech> <font>Mayd.</font> </nonSpeech><dialogue> An your Knighthood were --
+   </dialogue><nonSpeech> <font>Peg.</font> </nonSpeech><dialogue> -- An 1000 pounds purchase.
+<pagebreak id="D3V" />
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Hoyday, they'l bayt me, -- and they wonot I    
+must.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Out? -- Marry gip there, ne'r a good inch of a
+thousand. -- Fidler, strike.
+I strike you else; -- and cut your begging bowstrings.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> I must be gone I see: these miserably impudent
+stallions -- Do but remember me, as I shall thee; -- and --
+Nothing greeves me, -- but --
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> But what Sir <font>Robert</font> ?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> That, -- we cannot kisse at parting --         
+</dialogue><nonSpeech> <font>Exit.</font> </nonSpeech> 
+   <nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> Come, -- wee'll een have the tother Bout, -- and   
+then. --
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Nay, wee'll no more at this time there's enough.
+   </dialogue><nonSpeech> <font>Gil.</font> </nonSpeech><dialogue> For you: -- But 'tis not enough for me then:
+You shall command us, shall you?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Nay, be not angry Sister:
+'Tis no command, but my entreat: -- Good Sister.
+   </dialogue><nonSpeech> <font>Peg.</font> </nonSpeech><dialogue> Well, since you entreat me, and seem to know your
+betters, -- you shall have your will, for once. -- Fid. lead
+the way; -- and Wenches follow your Leader.
+</dialogue><nonSpeech> <font>Exit Fid. and the Maids.</font> </nonSpeech> 
+   <nonSpeech> <font>Abr</font> </nonSpeech><dialogue> Leader. -- An scolding were fighting, what a Leader
+wouldst thou be <font>Gillian</font> ? -- Thoudst bring 'em on, with a
+pouder. O Father, Father. </dialogue><nonSpeech> <font>Enter old Thrashard.</font> </nonSpeech>
+   <nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Ne'r a wise word, for a wager. -- Sir                        
+<font>Robert's</font> gone
+I see.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> Yes Sir, he is.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> And how do'st find him Girle? I doe not think
+The man, that thy suspition seem'd to make him.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> You have a good opinion of him Father,
+And, I'll not stand to crosse it.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Nay, nay, come;
+In plaine termes, tell me how didst find him? -- ha?
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> As good conceal't, and languish, as reveal't,
+And find no comfort.
+   </dialogue><nonSpeech> <font>Thra.</font> </nonSpeech><dialogue> Th'art a pertish thing:
+And -- I'm afraid, have beene distastfull to him:
+I'm halfe afraid on't Girle: -- we must be wise;
+By's frown we fall Wench; by his favours rise. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<pagebreak id="D4R" />
+<nonSpeech> <font>Enter Sir Oliver Bellingham, and the 
+Lady Mosely.</font> </nonSpeech>  
+   <nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Distilling still, salt water to deface
+That Master-peece of Nature? -- Can the heart
+Thus feast it selfe, upon the Baine of hearts?
+For such is griefe sweet Lady.
+   </dialogue><nonSpeech> <font>Lady.</font> </nonSpeech><dialogue> Good enough,
+To make this flesh as my dead Husbands is,
+A banquet to corruption.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Still that Note?
+Touch onely that dull string of death?
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> When life
+Would willingly exchange it selfe with Death,
+What Musick sweeter?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> I must tell you Lady,
+I thought the Musick of your Husbands end,
+Those heavenly Notes he entertain'd it with,
+Taught him by Angels, had instructed you,
+To looke upon that Being that he has,
+As hee's a glorious Chorister with them!
+And not upon that Burden of the flesh
+Left in the Grave behind him. -- Or at least,
+Not so, to looke upon your Husband dead,
+As thus, to dye your selfe. For what is't, while
+Of Lifes best hopes, you shall your Life deprive,
+But what I tell you? -- to be dead, alive.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> Sir, as I am, pray leave me.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Only so? -- Out-ryvald by the dead.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> To me hee lives:
+And in so vive a figure, every houre's
+Presented to me, that I feele no lesse
+Command o're my affections in that shape;
+Nor lesse Attraction of my duty to it,
+Then when he had that heat, gave all those parts,
+That now lye uselesse, their peculiar motion.
+Nay, so that shapes imprest upon my soule,
+That he appeares so really mine owne,
+<pagebreak id="D4V" />
+As, all the embraces of a second Match
+Would stick upon me, like the leaprous staines
+Of Lust, and base Adultry. In a word,
+That figure fills this bosome: -- And in this
+Pray understand the vainenesse of your suit,
+And so, conclude it.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> This command upon it,
+It dies, though I dye with it. -- Yet thus much Lady,
+I have not, in this eagernesse of Suit,
+Pursued, what's yours, But you. -- The gifts of Fortune;
+The state your birth allowed you, or th'addition,
+By your lost husband, left you; But the indowments
+Of your faire soule, -- your vertues, -- And of those
+The amplest Dower, (I cannot flatter here)
+Beauty was ever blest withall! These Lady
+Have beene the object of my Love.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> A Love,
+That, could I love, I should ee'n dote upon;
+And in a Title, farre beneath your owne,
+Prefer't, above all Title; though it came
+Roab'd in the state of Princes. -- But --
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> No more.
+I have my answer, and am married.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> Married!
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> As you are Madam; never to be married:
+Be that the witnesse of my Love.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> Admir'd!
+I should not be a woman, should I not
+Love such a Love as this is!
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Doe you Lady?
+Then, I revoke that Vow, and dare embrace you.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> But understand me Sir; I love your Love:
+And -- as your selfe, have pleas'd to speak of me
+Those singular Vertues, it is built upon:
+That, I am fixt on; with that estimate,
+That, next the memory of my dead husband,
+It shall be my best comfort. -- Thus I love you;
+<pagebreak id="E1R" />
+But, must not marrye.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> I ha' done. -- Yet Lady
+In this; -- this purest, Imateriall things
+There may be made a contract; and the assurance
+Of such a Love, as this is, Interchang'd
+And fairelie seald betweene vs.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> Sir, how meane you?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Fair'st, you have vowed your widowhood to the  
+grave,
+At least, you have so protested: yet because
+Our hearts, and purposes, are not our owne;
+And, that no Bosome has that Constancie,
+But Heav'ns may alter, the resolve it has,
+And make it follow, what it fled; -- it may.
+My Love Petitions, that if ere hereafter,
+You find that alteration, in your soule, 
+And againe Fancie Wedlocke, -- I -- your servant,
+May - for that second hapinesse to heaven,
+Stand fair'st in your Election.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> Pray no more.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Give my request an answer: -- If you doe.
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> A fruitlesse promise: and suppose it made,
+This would but --
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> What? -- I vnderstand you Lady.
+It shall not make me bolder, in my suite; 
+Nor prompt my love, in any treacherous way
+To gaine, what it so followes. -- No; I know
+The man, would basely, compasse such a Ioy,
+Like him that fishes with a poyson'd Bayte,
+Infects the meat should feed him. -- fair'st, I wo'not;
+Nor vex you with one syllable; but Live,
+Vowed, like your selfe, till such a change shall be
+To amorous Language, silent. -- Is it graunted?
+If my best thoughts merit but this, expresse it
+   </dialogue><nonSpeech> <font>Lad.</font> </nonSpeech><dialogue> That satisfaction take. -- If ere I Marry
+It shall be you; so helpe me heav'n.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> To which
+I am rapt in this sweete tone. -- If ere I know
+<pagebreak id="E1V" />
+The sweetes of Hymen, I must find 'em here;
+So helpe me heav'n! -- So, we are maried now:
+And in this Ioy I leave you. </dialogue><nonSpeech> <font>Enter the Lady Malorie, and the    
+old Gentlewoman.</font> </nonSpeech> 
+   <nonSpeech> <font>La Mal.</font> </nonSpeech><dialogue> What Sir <font>Oliver</font> ? going
+As we are entring?
+   </dialogue><nonSpeech> <font>O. Gen.</font> </nonSpeech><dialogue> Does your Lady, drive you hence with a frowne?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> My smiles may tell you, here has bin no        
+frowning.
+Shee's faire and noble; and in these sweet hopes,
+That she has given me, I am pleased.
+   </dialogue><nonSpeech> <font>O. Gen.</font> </nonSpeech><dialogue> 'Tis well.
+</dialogue><nonSpeech> <font>Enter Sir Rob. Malorie.</font> </nonSpeech>
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> A vengeance of all morrice dauncers
+I am sure, they h'a mar'd, my dancing: that delicate dance
+That I should have had with my tenant.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> All Ioy be with you Ladies; I must leave you.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Here's a rub in your way a while, my brave
+Knight, of a 1000. <font> <foreign>per Annum</foreign> </font> .
+And how do'st find her? -- is she comming? ha?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> You see my hopes set smiles upon my cheeke,
+Let them resolve you sir.   
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> I vnderstand you:
+Why? god a mercy sister: when's the day?
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Nay, question that no farther, we shall talk   
+on't.
+   </dialogue><nonSpeech> <font>O Gen.</font> </nonSpeech><dialogue> When a things done, 'tis done.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> You'd faine be doing to then. </dialogue><nonSpeech> <font>Enter Mr.   
+William.</font> </nonSpeech> 
+   <nonSpeech> <font>O Gent.</font> </nonSpeech><dialogue> Wo'd I not?
+Do you think I am all dead flesh? -- I warrant you.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Now <font>Mr. William</font> ? -- what good tidings now 
+sir?
+   </dialogue><nonSpeech> <font>Mr. Wi.</font> </nonSpeech><dialogue> My newes is, worthie sir, that <font>Mullinex</font>
+That stout sea Captaine, is return'd from sea:
+Is come to London, and that yesterday
+He was upon th' Exchange.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> <font>George Mullinex?</font> 
+   </dialogue><nonSpeech> <font>Mr. Wi.</font> </nonSpeech><dialogue> That Gentleman: -- and but this morning Lady,
+He was seene at the Phaenix, in fleet-street <comment type="compiler">SOURCE TEXT:          
+fleeet-street</comment> .
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Body o' me I should have told you so -- but, I
+Have such a Memory -- !
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> How i'st? -- ha? -- you lose colour Madam.
+<pagebreak id="E2R" />
+   </dialogue><nonSpeech> <font>O Gent.</font> </nonSpeech><dialogue> Lady. </dialogue><nonSpeech> <font>La. Mal</font> </nonSpeech><dialogue> Sister
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Beshrew the name, and owner of that name
+That has disturbed you. -- whats that name to you?
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> Sir, nothing but my trouble.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> A troublesome Captaine indeed sir,
+A suytor once, in her virgin dayes
+And Rivall to her husband, Sir <font>Iames Mosely</font> .
+But, mis'd the marke he aymed at -- he shot faire;
+But <font>Mosely</font> fairer. -- upon which, Sir <font>Oliver</font>
+He went to sea; where having bin three yeares,
+And now Returning, hearing, (as it seemes)
+That she's a widow, hee'd renew his suite,
+Give her a broad-side sir, and boord her! Nay
+Yave a hot Ryvall, I can tell you that.
+One that will Quarrel; -- fight -- and -- by my say --
+I'm halfe afraid of danger.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> If he be not,
+All valour, and no judgement, I feare none;
+And yet, that heate, that has not judgement with it,
+Cannot be counted valour, but a rash
+Unknowing wildnesse, -- which I wo'not thinke
+Him guilty of; -- But whatsoe'r he be,
+I'll be, but what becomes me.
+   </dialogue><nonSpeech> <font>O. Gent.</font> </nonSpeech><dialogue> Leave the Roome.
+   </dialogue><nonSpeech> <font>La. Mal.</font> </nonSpeech><dialogue> Good truth now, but you shall not.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Leave the Roome? -- What feare you Lady?
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> I have cause enough,
+For hee'll but trouble me with that, heaven knowes
+I have no mind to heare of.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> If he have
+No power upon you Lady by some promise,
+Formerly past betweene you --
+   </dialogue><nonSpeech> <font>La. Mos.</font> </nonSpeech><dialogue> I had never,
+That unprepar'dnesse in me, to doe that
+In cause of such a Consequence as this,
+And breake it sir.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> Such Beauty, and untruth
+<pagebreak id="E2V" />
+Were ne're companions <comment type="compiler">SOURCE TEXT: comoanions</comment> : 'tis beleev'd.
+   </dialogue><nonSpeech> <font>L. Mal.</font> </nonSpeech><dialogue> Come, come,
+It may be, some new Beautie has him now:
+Some Forraigne Mistris.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Or, it may be sister,
+This time of service in the warres, had made him
+Onely in love, with fighting.
+</dialogue><nonSpeech> <font>Enter Rash, Plush, and Gregorie.</font> </nonSpeech>
+   <nonSpeech> <font>La. Mose.</font> </nonSpeech><dialogue> More vexation?
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> This Mountaine, bring forth a Mouse!
+Have we talk'd all this while of a Captaine,
+And now, must be troubled, with Coxcombs?
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> The gods, protect you Lady.
+   </dialogue><nonSpeech> <font>O Gen.</font> </nonSpeech><dialogue> Thanke you sir.
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> I spoake to that sweet Beauty.
+   </dialogue><nonSpeech> <font>O gen.</font> </nonSpeech><dialogue> But I must speake to you sir; for you see she    
+has other imployment,
+Pray, stand aside a little.
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> If I must -- I shall attend her leasure.
+   </dialogue><nonSpeech> <font>O Gen.</font> </nonSpeech><dialogue> You must attend her too sir: -- doe you not see,
+shee's busie?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> I would not interrupt her.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> I would not interrupt her? -- Is that the         
+resolution of a Lover?
+Let me come to her.
+   </dialogue><nonSpeech> <font>Sir Oli.</font> </nonSpeech><dialogue> But, you shall not sir.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why? if I shall not sir, -- I wo'not sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Is that the resolution of a Lover?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> A man can do, no more then a can do,
+But, an my father would but dye once!
+</dialogue><nonSpeech> <font>Enter Capt. Mullyneux rushing in by Mr. William and others.</font> </nonSpeech> 
+   <nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Make nyce to me of entrance?
+Where's the Widow?
+For so I heare shee's now: what mourning still?
+I'm a bold gamester: -- Save you all at once,
+All suiters Gentlemen?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Yes indeed sir; we are all suitors.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Y'are a little too rash in that sir; I am none.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> And, what, are you sir?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> Why sir, -- I am, -- a Citizen, and a Mercer.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> A Citizen, and a Mercer, -- Cheapside?
+<pagebreak id="E3R" />
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> No Captain; -- but he's perfect in his Pater   
+noster.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> One of that row? -- I know't sir.
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Not very farre from it: -- In Creed sir.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Does he beleeve? that's seldome found in a Broker.
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> How sir, -- a Broker?
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> I know you, by this wheele. -- you have a great
+many Bags, and a great many buildings to sir. -- But, dare
+you for all that, presume in the way of Matrimonie, to looke
+so high as a Lady?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> He that can purchase a Lordship --
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Thinks, he may purchase a Ladiship: -- you my     
+Rivall?
+Can you fight sir?
+   </dialogue><nonSpeech> <font>Rash.</font> </nonSpeech><dialogue> It may be I, it may be no sir.
+   </dialogue><nonSpeech> <font>Cap.</font> </nonSpeech><dialogue> Then I'le try, whether you can or no sir. 
+Not a word, as you love your Coxcombe. </dialogue><nonSpeech> <font>Kicks him and thrust him 
+out.</font> </nonSpeech> 
+   <nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Nay, let him alone; let him alone, I beseech   
+you,
+For hitherto he has done but Justice.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Are you a Suiter too sir?
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> Too sir?
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Y'are an Asse sir: -- Can you fight?
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> Fight? in a Ladyes chamber?
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Why, where would you fight sir?
+   </dialogue><nonSpeech> <font>Plu.</font> </nonSpeech><dialogue> Why, the truth on't is; -- I would -- fight, -- no 
+where.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Why, I thought as much; -- and therefore, -- I will
+kick you -- any where; good master outside of a 
+Gentleman; follow your valiant Leader.
+   </dialogue><nonSpeech> <font>O. Gen.</font> </nonSpeech><dialogue> You will not kill him, will you? </dialogue><nonSpeech> <font>Kick him  
+out.</font> </nonSpeech> 
+   <nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Ha' you so much Tongue, and nev'r a good Tooth,
+Madam Fumble!
+   </dialogue><nonSpeech> <font>O. Gen.</font> </nonSpeech><dialogue> Fumble, fumble! -- y'are a most --
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Peace, an you love your old Carkasse, -- peace.
+   </dialogue><nonSpeech> <font>La Mose.</font> </nonSpeech><dialogue> You bind me to a patience --
+   </dialogue><nonSpeech> <font>Sir Rob.</font> </nonSpeech><dialogue> Nay, good Sister: -- He does you a great deale 
+a right,
+And saves me a great deale of labour.
+For I should have don't, if he had not.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> One post support another? -- What are you sir?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why, -- I am -- a Gentleman. --
+<pagebreak id="E3V" />
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Will your Armes beare you out in the Title?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> My Legs, shall beare me out sir.
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> Then -- you wo'not be beat out -- as they were?
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> -- Beat, I should be very loath to be beaten?
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> -- good truth, I thinke you would sir.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Doe I looke like one that would be beaten?
+   </dialogue><nonSpeech> <font>Capt.</font> </nonSpeech><dialogue> An you stay, you must.
+   </dialogue><nonSpeech> <font>Greg.</font> </nonSpeech><dialogue> Why therefore, -- I meane, -- to be gone sir. --  
+But -- 
+If my father, -- would but dye once. -- </dialogue><nonSpeech> <font>Kicke him out.</font> </nonSpeech> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4WOXFOR">
+  <dialogueHeader>
+
+    <filename>D4WOXFOR</filename>
+
+    <identifier>4 WITNESS D D4WOXFOR</identifier>
+
+    <title>RIOT IN OXFORD</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1716</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE SEVERAL DEPOSITIONS CONCERNING THE LATE RIOT IN OXFORD.
+LONDON: PRINTED FOR JOHN MORPHEW, NEAR STATIONER'S-HALL.
+1716.
+PP. 3.1 - 38.19
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="3" />
+ <head> <font>THE INFORMATION OF</font> RICHARD BOXLEY <font>OF</font> OXFORD,
+<font>BARBER, TAKEN UPON OATH THE ONE AND THIRTIETH
+DAY OF</font> OCTOBER, ANNO DOM. 1716. <font>BEFORE</font>
+RICHARD WISE, <font>ESQ; MAYOR, AND SIR</font> DANIEL
+WEBB, <font>KNT. TWO OF HIS MAJESTY'S JUSTICES OF
+THE PEACE FOR THE SAID CITY</font> .</head> 
+
+   <nonSpeech>This Informant saith, That last
+Night he was at a Neighbour's
+House in the <font>Northgate-street</font> in
+<font>Oxford</font> aforesaid, and hearing a great
+Noise of Breaking of Windows, he went
+out; and when he came into the Street he
+saw a great many Soldiers throwing Stones
+at the Windows of Mr. <font>Hurst</font> the
+Ironmonger, being encouraged by an Officer of
+the Regiment, whose Name this Informant
+knoweth not; and after some time, a
+Gentleman, whom this Informant believes was the
+Major, said to them,</nonSpeech><dialogue> <font>Come in, Boys, and drink,
+and then go out and at it again</font> ; </dialogue><nonSpeech>and
+accordingly they did go in with him, and when they
+came out again, the Major, pointing to Mr.
+<font>Hurst's</font> House, said to the Soldiers,</nonSpeech><dialogue> <font>Down
+with that House, and I will see it out</font> ; </dialogue><nonSpeech>upon
+which they throw'd more Stones at Mr.
+<font>Hurst's</font> Windows, and then went up the
+Street, and afterwards into the High-Street,
+breaking Windows all the way they went,
+<pagebreak id="4" />
+and afterwards came back to the <font>Star</font> for
+fresh Orders, as they pretended; and after
+they had stay'd there some little time, they
+went down the <font>Northgate-street</font> , and thro' the
+<font>North-gate</font> , breaking the Windows all the
+way they went, and beating some People.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    <font>Richard Boxley</font> .
+
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> THOMAS COLLER <font>OF</font> OXFORD,
+<font>CORDWAINER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That he was last
+Night standing by the Bonfire against
+the <font>Star-Inn</font> in this City, and there saw a
+great many Soldiers breaking Mr. <font>Hurst's</font>
+Windows, and while they were about it, one
+of the Lieutenants, whose Name this
+Informant believes is <font>Hamilton</font> , came out and
+lighted his Pipe at the Bonfire, and all the
+while looking upon them; and when he had
+lighted his Pipe, he walked over into the
+Lane next Mr. <font>Hurst's</font> , and the Soldiers
+followed him; but what he said to them this
+Informant knows not; but said, That the
+Soldiers went immediately to gathering up of
+Stones, and then went up the Street, and
+down the High-Street, all the way breaking
+of Windows; And when they came near
+<pagebreak id="5" />
+Sir <font>Daniel Webb's</font> House, Sir <font>Daniel</font> overtook
+them, and ask'd them what they meant by
+making such a Disturbance? Whereupon
+they immediately fell a swearing and cursing,
+and several of them stuck him with their
+Sticks; and one <font>Fosty Magee</font> , a Corporal in
+the Colonel's Company (as this Informant is
+since told he is) drew his Sword, and held it
+against Sir <font>Daniel</font> : Whereupon this
+Informant told him Sir <font>Daniel</font> was a Justice of
+the Peace, and one of the Magistrates of the
+City: Upon which the said <font>Magee</font> curs'd Sir
+<font>Daniel</font> , and said, <font>He did not care what he was</font> ;
+further said, <font>He was a Rogue and a Rascal</font> .
+After which, they went over to Mr. Mayor's, and
+broke his Windows; and when Mr. Mayor
+came out to demand the Reason, several of
+them, and particularly the said <font>Magee</font> , came
+up to Mr. Mayor with their drawn Swords;
+and further saith, That Mr. Mayor went
+with his Mace, and accompany'd Sir <font>Daniel
+Webb</font> to the Major at the <font>Star-Inn</font> , to
+complain of the Disorders by the Soldiers, and
+to desire his Assistance; and as they came
+away from him this Informant heard the
+Major say,</nonSpeech><dialogue> <font>Go to the Devil like a Parcel of</font>
+Jacobites, <font>or I will make you go</font> .
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. Die &amp; Anno
+supr. coram Nobis</foreign> </font> ,    <font>Thomas Coller</font> .
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.</nonSpeech>
+<pagebreak id="6" />
+ <head> <font>THE INFORMATION OF</font> JOHN HURST, <font>JUN. OF</font> OXFORD,
+<font>IRON-MONGER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID, BEFORE THE REV.</font> JOHN BARON, D.D. &amp;C.
+<font>VICE-CHANCELLOR OF THE UNIVERSITY OF</font> OXFORD,
+<font>AND OTHER THE JUSTICES AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That when
+they were lighting the Bonfire, last
+Night, against the <font>Star-Inn</font> , he, this
+Informant, shut up his Father's Shop-Windows
+(the House being over against the <font>Star</font> ) and
+went in to his Work; and after a very little
+time, this Informant's Sister said, <font>She heard
+the Glass-Windows rattle</font> , which this
+Informant could not at first believe; but soon after
+this Informant heard it himself, and then
+went out to see who it was that broke the
+Windows; and when he came out, he saw
+the Major of the Regiment take up a Stone,
+and brake the Windows with it; upon
+which this Informant said,</nonSpeech><dialogue> Sir, <font>I will take a
+Note of your Name</font> ; </dialogue><nonSpeech>whereupon the Major
+drew his Sword, and ran after this
+Informant, and said,</nonSpeech><dialogue> <font>Damn you, will you take
+Notice of Names</font> ? </dialogue><nonSpeech>But this Informant ran
+into his Father's House, and lock'd the Door
+before the Major could overtake him; but
+they still continu'd to break the Windows,
+which, after some time, provok'd this
+Informant to go out again, and then he saw the
+Major throw a Fire-Stick from the Bonfire
+at his Father's Windows; and did at the
+<pagebreak id="7" />
+same time likewise see the Tapster at the
+<font>Star-Inn</font> , and one <font>Edward West</font> , the
+under-Tapster, throw Firesticks at, and broke the
+said Windows; and further saith, they broke
+a great deal of <font>China-Ware</font> , and that one of
+the Firesticks hung in the Window-Curtain,
+and that there was no Person in the House
+besides this Informant's Mother, his two
+Sisters, and himself, that Night; and that
+none of them were upon the Leads, or in
+the Spout, that Night.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. Die &amp; Anno
+supr. cora. nob.</foreign> </font>    <font>John Hurst</font> , jun.
+
+Jo. Baron, <font>Vice Can.</font>
+Rich. Wise, <font>Mayor</font> .
+Daniel Webb.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> WILLIAM CLARK <font>OF</font> OXFORD,
+<font>INN-HOLDER, TAKEN UPON OATH THE THIRTY FIRST
+DAY OF</font> OCTOBER, ANNOQ; DOM. 1716. <font>BEFORE
+THE REV.</font> JOHN BARON, D.D. <font>AND
+VICE-CHANCELLOR OF THE UNIVERSITY OF</font> OXFORD, RICHARD
+WISE, <font>ESQ; MAYOR OF THE CITY OF</font> OXFORD,
+WILLIAM WRIGHT, <font>ESQ; RECORDER OF THE SAME
+CITY, SIR</font> DANIEL WEBB, <font>KNT. AND</font> JAMES
+PINNEL, <font>ALDERMAN, FIVE OF HIS MAJESTY'S JUSTICES
+OF THE PEACE FOR THE SAID CITY</font> .</head> 
+
+   <nonSpeech>This Informant saith, That last Night
+when the Bonefire was burning,
+against the <font>Star-Inn</font> , the Major of the
+Regiment came out of the said Inn, with his
+<pagebreak id="8" />
+Sword drawn, and seeing the Wife of Mr.
+<font>Hurst</font> , the Iron-monger, at her
+Chamber-Window, he said to her,</nonSpeech><dialogue> <font>God Damn you for
+a Bitch, if you don't light up Candles, and let
+them remain, I will pull your House down, and
+set it on Fire</font> ; </dialogue><nonSpeech>and then took a Stone, and
+broke the Windows; and after that, one
+<font>Thomas Walker</font> , a Tapster, at the said
+<font>Star-Inn</font> , threw a Firestick at the said Window:
+And further saith, That after the Soldiers
+had broke the Windows, about the Town,
+the Major came by this Informant's House,
+and said,</nonSpeech><dialogue> <font>God Damn these Jacobite-Rascals <comment type="compiler">SOURCE TEXT:         
+NO ITALICS FOR Jacobite</comment> ,
+we have made them suffer for it now</font> . 
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. Die &amp; Anno.
+supr. coram nobis</foreign> </font> .        <font>William Clark</font> .
+John Baron, <font>Vice-Can.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="10" />
+</dialogue> <head> <font>THE INFORMATION OF</font> FRANCIS BERRY <font>OF THE
+UNIVERSITY OF</font> OXFORD, <font>COOK, TAKEN UPON OATH THE
+DAY AND YEAR AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That while the
+Bonefire was burning, last Night,
+before the <font>Star-Inn</font> , the Major of the
+Regiment, and Mr. <font>Baker</font> of <font>Wadham-College</font> ,
+were standing at the Gate of the said Inn,
+and this Informant saw Mr. <font>Baker</font> call
+several of the Soldiers to him, and clap'd them
+upon the Back; and as soon as they went
+<pagebreak id="11" />
+from him, they fell to breaking Mr. <font>Hurst's</font>
+Windows, the Major and <font>Mr. Baker</font> still
+standing at the Gate, and looking upon
+them: And this Informant likewise saw
+three Soldiers break <font>Mr. Cole's</font> , the Glazier's,
+Windows, and said,</nonSpeech><dialogue> <font>Damn him, we will
+break his Windows, because he is a Glazier, and
+can mend them himself</font> .
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. Die &amp; Anno.
+Supr. Coram Nobis</foreign> </font> ,    <font>Francis Berry</font> .
+
+John Baron, <font>Vice-Can.</font>
+Rich. Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="13" />
+</dialogue> <head> <font>THE INFORMATION OF</font> THOMAS VICARIS <font>OF</font> OXFORD,
+<font>SALTER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+   <nonSpeech>This Informant saith, That Yesterday
+the Major of the Regiment and one of
+the Captains, accidentally met near this
+Informant's Brother's House, he this Informant
+then standing at the Door, and the Captain
+ask'd the Major, <font>Where he was going so early with
+his Boots on</font> ? the Major said, <font>He was willing
+to be in a readiness, and that he would break every
+Window that Night, by God</font> : upon which, the
+Captain ask'd, <font>Why</font> ? and he said, <font>because
+never a Bell had stir'd that Day</font> ; and then they
+parted. And further saith, That about an
+Hour after, the Major and another Officer
+came down the Street together, and as they
+pass'd by, the Major said,</nonSpeech><dialogue> <font>The City is
+maintain'd by the University, and 'tis their Faults the
+Bells did not Ring, and by God I will break every
+College-Window this Night</font> .
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    Thomas Vicaris.
+John Baron, <font>Vice-Canc.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> JOHN GILLETT <font>OF</font> OXFORD,
+<font>LABOURER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+   <nonSpeech>This Informant saith, That last Night he
+was at the <font>Cross-Inn</font> , and Mrs. <font>Gyles</font>
+<pagebreak id="14" />
+who kept the House, hearing a Noise in the
+Street of breaking Windows, she went to the
+Gate with a Candle in her Hand, and said to
+the Soldiers,</nonSpeech><dialogue> <font>Pray, Gentlemen, don't break my
+Windows: Good Gentlemen, don't break my
+Windows</font> . </dialogue><nonSpeech>Upon which, one <font>Charter</font> , a
+Corporal in the Major's Company, said,</nonSpeech><dialogue> <font>God
+damn you for an old Bitch</font> ; </dialogue><nonSpeech>and struck the
+Candle out of her Hand with a great
+Stick, and then struck her upon the left Arm
+in such a violent manner, that he almost beat
+her down.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    <font>John Gillett O his Mark</font> .
+John Baron, <font>Vice-Canc.</font>
+Richard Wise <font>Mayor</font> ,
+Daniel Webb,
+William Wright.</nonSpeech><dialogue>
+<comment type="compiler">TWO DEPOSITIONS OMITTED.</comment>
+<pagebreak id="16" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue> <head> <font>THE INFORMATION OF</font> EDWARD COSENS <font>OF</font> OXFORD,
+<font>CHANDLER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That as he was
+standing at his Mother's Door last
+Night between Eight and Nine of the Clock,
+<pagebreak id="17" />
+he saw a great Number of Soldiers come down
+the Street, and breaking of Windows all the
+way they came; and when they came to
+this Informant, a Corporal, who led them
+up, said to the rest of them,</nonSpeech><dialogue> <font>Gentlemen,
+break these Windows</font> : </dialogue><nonSpeech>Upon which this
+Informant ask'd,</nonSpeech><dialogue> <font>Why will you break the Windows</font> ?
+</dialogue><nonSpeech>Whereupon the Corporal ask'd this
+Informant who he was? and he told him, <font>He was
+Master of the House</font> : Upon which he said,</nonSpeech><dialogue>
+<font>Then I will knock you down</font> ; </dialogue><nonSpeech>which he
+accordingly did with a Stick he brought with him;
+and after this Informant had got up again, he
+talk'd with them, and told them the great
+Hardship it was for People to have their
+Windows broke in such manner, and such
+like Talk; whereupon they went away,
+having only one Stone thrown at his
+Windows; and further saith, That as he was
+getting up, after he was knock'd down, a
+Soldier struck at him with a drawn Sword,
+but did not hit him.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. Die &amp; Anno
+supr. coram Nobis</foreign> </font> .      <font>Edw. Cosens</font> .
+
+Jo. Baron. <font>Vice-Can.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech><dialogue>
+<comment type="compiler">SIX DEPOSITIONS OMITTED.</comment>
+<pagebreak id="22" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue> <head> <font>THE INFORMATION OF</font> JOHN LUCAS <font>OF</font> OXFORD,
+<font>CUTLER, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That he was
+coming out of the <font>Sun-Inn</font> and going home,
+last <font>Tuesday</font> , just as Mr. Mayor came up Town
+to disperse the Soldiers that were
+<pagebreak id="23" />
+breaking of Windows, but was stop'd by a
+Constable, who charg'd this Informant to go
+along with and assist Mr. Mayor, which this
+Informant did accordingly: And when Mr.
+Mayor came back to his own Door, this
+Informant saw some Soldiers with Muskets,
+and some body said</nonSpeech><dialogue> <font>Pho, Pho</font> . </dialogue><nonSpeech>Upon which,
+one of the Soldiers said,</nonSpeech><dialogue> <font>Damn you, what you
+mean by Pho, Pho</font> ? </dialogue><nonSpeech>and then presented their
+Muskets towards the Place where Mr. Mayor
+was; and one of the Soldiers said,</nonSpeech><dialogue> <font>Damn you,
+Fire</font> : </dialogue><nonSpeech>And immediately three or four of them
+did Fire: And this Informant hath since
+heard, that one of them shot the Mace-bearer
+thro' his Hat with a Bullet, as it was upon
+his Head: And further saith, That after they
+had fired, as aforesaid, one of them said,</nonSpeech><dialogue>
+<font>Damn you, if that will not do, we will put in a
+Brace of Bullets</font> .
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    John Lucas.
+John Baron, <font>Vice-Canc.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb,
+Henry White.</nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="24" />
+</dialogue> <head> <font>THE INFORMATION OF</font> JOHN PAVIER <font>OF</font> OXFORD,
+<font>TAYLOR, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That last <font>Tuesday</font>
+Night he saw a great Number of
+Soldiers, and one <font>Edward West</font> an Hostler at the
+<pagebreak id="25" />
+<font>Star-Inn</font> threw Stones and Fire-sticks at Mr.
+<font>Hurst's</font> Windows, the Major of the Regiment
+all the while looking on; and this Informant
+heard the Major say to the Soldiers,</nonSpeech><dialogue> <font>God damn
+you, Boys, pull down the House, I will see it out</font> ;
+</dialogue><nonSpeech>and saith, That one of the Soldier's Names
+is <font>John Stockley</font> : And further saith, That about
+nine of the Clock the same Night, a Corporal
+of the Major's Company, who lodgeth at one
+<font>Wooten's</font> a Hempdresser, knock'd this
+Informant down without any provocation, or
+without saying any thing to him.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    John Pavier.
+
+John Baron. <font>Vice-Canc.</font>
+Robert <comment type="compiler">FOR Richard?</comment> Wise, <font>Mayor</font> ,
+Daniel Webb,
+Henry White.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> JOHN IVES <font>OF</font> OXFORD, <font>YEOMAN,
+TAKEN UPON OATH THE DAY AND YEAR AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That this Morning
+he this Informant, and Mr. <font>Green</font> the
+Glazier, and one Mrs. <font>Blower</font> , had some talk
+in relation to the Windows which were broke
+by the Soldiers last <font>Tuesday</font> Night, and while
+they were thus talking, the Major of the
+Regiment crossed the Street to meet Mr.
+<font>Hawkins</font> the Adjutant, and just as they came to the
+Door where they were, he nodded his Head
+<pagebreak id="26" />
+towards Mr. <font>Hurst's</font> House, and said,</nonSpeech><dialogue> <font>God
+damn you, I wish they had pull'd the House down</font> .
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    John Ives.
+
+John Baron, <font>Vice-Canc.</font>
+Richard Wise, <font>Mayor</font> ,
+Daniel Webb,
+Henry White.</nonSpeech><dialogue>
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+<pagebreak id="28" />
+</dialogue> <head> <font>THE INFORMATION OF</font> HENRY SILVESTER <font>AND</font>
+RICHARD COLTON, <font>TAKEN UPON OATH THE DAY AND
+YEAR AFORESAID, BEFORE THE JUSTICES AFORESAID,
+AND SIR</font> DANIEL WEBB, <font>KT</font> .</head> 
+
+   <nonSpeech>These Informants say, that they were
+standing at a Door last <font>Tuesday-Morning</font> , next
+to Sir <font>Daniel Webb's</font> , when he and the Major of
+the Regiment were talking together, and
+heard the Major ask Sir <font>Daniel, why the Bells
+did not ring</font> ? but they could not hear what
+Answer Sir <font>Daniel</font> made him; but heard the
+Major say further,</nonSpeech><dialogue> <font>What! you are govern'd by
+the Colleges, and do what they would have you;
+they are a Parcel of disaffected Rogues, and I
+will break their Windows for it at Night</font> .
+
+</dialogue><nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    Henry Silvester. 
+                            Richard Colton.
+John Baron, <font>Vice-Canc.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech>
+
+ <head> <font>THE INFORMATION OF</font> NATHAN STOKE, <font>OF</font>
+BRAZEN-NOSE-COLLEGE, <font>IN THE UNIVERSITY OF</font> OXFORD,
+<font>BATCHELOR OF ARTS, TAKEN UPON OATH THE DAY
+AND YEAR AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, that last 
+<font>Tuesday-Morning</font> he, this Informant, and one
+Mr. <font>Thomas Harris</font> , of the same College with
+<pagebreak id="29" />
+this Informant, were at <font>Hamilton's</font> 
+Coffee-House in <font>Oxford</font> , when the Major of the
+Regiment came in Swearing and Cursing,
+and said,</nonSpeech><dialogue> <font>not a Bell stir'd this Morning</font> ;
+</dialogue><nonSpeech>whereupon this Informant asked the said Mr.
+<font>Harris</font> what Day it was? but the Major hearing
+the Question, answer'd, <font>it was the Prince's
+Birth-Day</font> , and said, <font>it was the Disaffection of the
+Governours, who were a Pack of Villains, which
+occasion'd their not Ringing</font> ; then this
+Informant said,</nonSpeech><dialogue> <font>they have a Ring of Bells at</font>
+<font>Merton-College, and I don't believe you think them
+Disaffected</font> ; </dialogue><nonSpeech>and he said <font>No, that was a good Honest
+College, and that the</font> Constitution-Club <font>knew it
+was the Prince's Birth-Day</font> ; and so continu'd
+Swearing, that he would send Soldiers at
+Night to break the Windows of the
+Colleges; and repeated the same very often, and
+was in a very great Passion.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    <font>Nathan Stoke</font> .
+
+John Baron, <font>Vice-Can.</font>
+Richard Wise, <font>Mayor</font> .
+Daniel Webb.
+William Wright.</nonSpeech><dialogue>
+<pagebreak id="30" />
+<comment type="compiler">ONE DEPOSITION OMITTED.</comment>
+
+</dialogue> <head> <font>THE INFORMATION OF</font> WILLIAM SMITH, <font>OF</font> OXFORD,
+<font>YEOMAN, TAKEN UPON OATH THE DAY AND YEAR
+AFORESAID</font> .</head> 
+
+   <nonSpeech>This Informant saith, That last <font>Tuesday</font>
+Night he was standing by the Bonfire at
+the <font>Star</font> , and saw the Soldiers break Mr. <font>Hurst's</font>
+Windows all to Pieces; and when they had
+so done, they began to throw Stones at other
+People's Windows, and particularly Mr.
+<font>Cooper's</font> the Barber; and some one that stood
+by said, <font>It was pity to break them, for he was a
+poor Man</font> ; whereupon the Major ask'd what
+he was? and Mr. <font>Wisdome</font> the Cutler
+<pagebreak id="31" />
+answer'd,</nonSpeech><dialogue> <font>He is not right</font> , </dialogue><nonSpeech>or</nonSpeech><dialogue> <font>He is not a Whig</font> ,
+</dialogue><nonSpeech>but this Informant is not sure which he said:
+And then a Nobleman (who this Informant
+believes was the Marquis of <font>Hartington</font> )
+desired the Major to call the Soldiers away,
+otherwise it would make a great Disturbance
+in the Town; upon which the Major call'd
+them to him, and bid them come in and
+Drink; and when they came into the
+Back-side of the <font>Star-Inn</font> , several Persons said to
+them,</nonSpeech><dialogue> <font>Come in and drink the King's Health
+Boys, and at it again</font> , </dialogue><nonSpeech>and after that they broke
+more Windows in several parts of the
+Town.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    William Smith.
+
+John Baron, <font>Vice-Canc.</font>
+Richard Wise,
+Daniel Webb,
+William Wright.</nonSpeech><dialogue>
+<comment type="compiler">THREE DEPOSITIONS OMITTED.</comment>
+<pagebreak id="38" />
+</dialogue> <head> <font>THE INFORMATION OF</font> RICHARD BROWN, <font>OF</font> 
+OXFORD, <font>BARBER, AND</font> WILLIAM PARKER, <font>OF THE 
+SAME, INN-HOLDER, TAKEN UPON OATH THE 3D
+DAY OF</font> NOVEMBER, ANNO DOM. 1716.
+<font>BEFORE</font> RICHARD WISE, <font>ESQ; MAYOR, AND SIR</font>
+DANIEL WEBB, <font>KT. TWO OF HIS MAJESTY'S JUSTICES
+OF THE PEACE FOR THE SAID CITY</font> .</head> 
+
+   <nonSpeech>These Informants say, that as soon as the
+Bonfire was lighted against the <font>Star-Inn</font> ,
+last <font>Tuesday</font> Night, the Major of the 
+Regiment came out of the said Inn, and said to
+the Soldiers that were in the Street,</nonSpeech><dialogue> <font>Break
+not One but All: Pull down the House, and I
+will answer it</font> : </dialogue><nonSpeech>and thereupon they
+immediately began breaking Mr. <font>Hurst's</font> Windows.</nonSpeech>
+
+<nonSpeech> <font> <foreign>Capt. &amp; Jur. die &amp; Anno
+supr. coram nobis</foreign> </font> ,    Richard Brown,
+                            William Baker.
+Richard Wise, <font>Mayor</font> ,
+Daniel Webb.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

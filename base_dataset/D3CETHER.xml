@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3CETHER">
+  <dialogueHeader>
+
+    <filename>D3CETHER</filename>
+
+    <identifier>3 COMEDY D3CETHER</identifier>
+
+    <title>THE MAN OF MODE</title>
+
+    <author>ETHEREGE GEORGE</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1676</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ETHEREGE, GEORGE.</attribution>
+      <frontMatter>THE MAN OF MODE, OR, S=R= FOPLING FLUTTER. A COMEDY.
+ACTED AT THE DUKE'S THEATRE.
+BY GEORGE ETHEREGE ESQ;.
+LICENSED, JUNE 3. 1676. ROGER L'ESTRANGE.
+LONDON, PRINTED BY J. MACOCK, FOR HENRY HERRINGMAN, AT THE SIGN OF THE
+BLEW ANCHOR IN THE LOWER WALK OF THE NEW EXCHANGE, 
+1676.
+PP. 17.15 - 50.37
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SQUARE BRACKETS USED IN SOURCE TEXT TO INDICATE ASIDES AND  
+STAGE DIRECTIONS ARE OMITTED.</comment>
+
+<comment type="compiler">STAGE DIRECTIONS INDICATING ADDRESSEE RE-PLACED WHERE NECESSARY 
+FOR CLARITY.</comment>
+
+<pagebreak id="17" />
+</dialogue> <head>ACT II. SCENE I.</head> 
+
+<nonSpeech> <font>Enter my Lady</font> Townly, <font>and</font> Emilia.</nonSpeech>
+
+   <nonSpeech> <font>Lady Townly.</font> </nonSpeech><dialogue> <font>I</font> Was afraid <font>Emilia</font> , all had been 
+discover'd.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> I tremble with the Apprehension still.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> That my Brother should take Lodgings i'the 
+Very House where you lie.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> 'Twas lucky, we had timely notice to warn the 
+People to be secret, he seems to be a mighty good 
+Humour'd old man.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> He ever had a notable smerking way with him.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> He calls me Rogue, tells me he can't abide me;
+And does so bepat me.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> On my word you are much in his favour then.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> He has been very inquisitive I am told about my 
+Family, my reputation, and my Fortune.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> I am confident he does not i'the least suspect 
+You are the Woman his Son's in Love with.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> What shou'd make him then inform himself so
+<pagebreak id="18" /> 
+Particularly of me?
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> He was always of a very Loving Temper himself; 
+It may be he has a doating Fit upon him, who knows.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> It cannot be. </dialogue><nonSpeech> <font>Enter</font> Young Bellair.</nonSpeech>
+   <nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Here comes my Nephew. Where did 
+You leave your Father?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Writing a Note within, <font>Emilia</font> , this early 
+visit
+Looks as if some kind Jealousie wou'd not let you 
+Rest at home.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> The knowledge I have of my Rival, 
+Gives me a little cause to fear your Constancy.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> My Constancy! I vow --
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Do not vow -- Our love is frail as is our life, and
+Full as little in our power, and are you sure you shall
+Out-live this day? 
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I am not, but when we are in perfect health,   
+'twere 
+An idle thing to fright our selves with the thoughts of
+Sudden death.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Pray what has pass'd between you and your Father 
+I'the Garden?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> He's firm in his resolution, 
+Tells me I must marry Mrs. <font>Harriet</font> , 
+Or swears hee'l marry himself, 
+And disinherit me, when I saw I could not 
+Prevail with him to be more indulgent, I dissembled 
+An Obedience to his Will, which has compos'd his passion, 
+And will give us time, and I hope opportunity to 
+Deceive him. </dialogue><nonSpeech> <font>Enter</font> Old Bellair, <font>with a Note in his hand</font> .</nonSpeech>
+   <nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Peace, here he comes.
+   </dialogue><nonSpeech> <font>Old Bell.</font> </nonSpeech><dialogue> <font>Harry</font> , take this, and let your man carry 
+it for me 
+To Mr. <font>Fourbes</font> Chamber, my Lawyer i'the Temple.
+Neighbour, a Dod I am glad to see thee here, </dialogue><nonSpeech> <font>To</font> Emilia.</nonSpeech><dialogue>
+Make much of her Sister, she's one 
+Of the best of your acquaintance; I like her 
+Countenance and her behaviour well, she has
+A Modesty that is not Common i'this Age, a Dod, 
+She has.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> I know her value Brother, and esteem her          
+accordingly.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Old Bell.</font> </nonSpeech><dialogue> Advise her to wear a little more mirth in her
+Face, a Dod, she's too serious.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> The fault is very excusable in a young Woman.
+   </dialogue><nonSpeech> <font>Old Bell.</font> </nonSpeech><dialogue> Nay, a Dod, I like her ne're the worse, a 
+Melancholy Beauty has her Charms, I 
+Love a pretty sadness in a Face which varies 
+Now and Then, like changeable Colours, into a smile.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Methinks you speak very feelingly Brother.
+   </dialogue><nonSpeech> <font>Old Bell.</font> </nonSpeech><dialogue> I am but Five and Fifty Sister you know, an
+Age not altogether unsensible! </dialogue><nonSpeech> <font>To</font> Emilia.</nonSpeech><dialogue> chear up sweet 
+Heart; I have a secret to tell thee may 
+Chance to make thee merry, we three  will make 
+Collation together anon, i'the mean time
+Mum, I can't abide you, go I can't 
+Abide you -- </dialogue><nonSpeech> <font>Enter</font> Young Bellair.</nonSpeech><dialogue> <font>Harry</font> , Come, you
+Must along with me to my Lady <font>Woodvills</font> . 
+I am going to slip the Boy at a Mistress.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> At a Wife Sir, you wou'd say.
+   </dialogue><nonSpeech> <font>Old Bell.</font> </nonSpeech><dialogue> You need not look so glum, Sir, a 
+Wife is no Curse when she brings the blessing 
+Of a good Estate with her, but an idle Town 
+Flurt, with a painted Face, a rotten Reputation, 
+And a crasie Fortune, a Dod is the Devil and all, 
+And such a one I hear you are in League with.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I cannot help detraction, Sir.
+   </dialogue><nonSpeech> <font>Old. Bell.</font> </nonSpeech><dialogue> Out, a pise o' their Breeches, there are 
+Keeping Fools enough for such flaunting 
+Baggages, and they are e'ne too good for 'em.
+</dialogue><nonSpeech> <font>To</font> Emilia.</nonSpeech><dialogue> Remember Night, go y'are a Rogue, y'are a 
+Rogue; fare you well, fare you well; come, come, 
+Come along, Sir. </dialogue><nonSpeech> <font>Ex.</font> Old <font>and</font> Y. Bellair.</nonSpeech>
+   <nonSpeech> <font>Town.</font> </nonSpeech><dialogue> On my Word the old man comes on apace; 
+I'le lay my life he's smitten.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> This is nothing but the pleasantness of his     
+humour.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> I know him better than you, let it work, 
+It may prove lucky. </dialogue><nonSpeech> <font>Enter a</font> Page.</nonSpeech>
+   <nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Madam, Mr. <font>Medley</font> has sent to know 
+Whether a Visit will not be Troublesome 
+<pagebreak id="20" />
+This Afternoon?
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Send him word his visits never are so.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> He's a very pleasant man.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> He's a very necessary man among us Women; 
+He's not scandalous i'the least, perpetually 
+Contriving to bring good Company together, 
+And always ready to stop up a gap at Ombre,
+Then he knows all the little news o'the Town.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> I love to hear him talk o' the Intrigues, 
+Let 'em be never so dull in themselves, he'l 
+Make 'em pleasant i'the relation.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> But he improves things so much one can take no
+Measure of the Truth from him. 
+Mr. <font>Dorimant</font> swears a Flea or a Maggot, is 
+Not made more monstrous by a magnifying 
+Glass, than a story is by his telling it.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> Hold, here he comes. </dialogue><nonSpeech> <font>Enter</font> Medley.</nonSpeech>
+   <nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Mr. <font>Medley</font> .
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Your Servant Madam.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> You have made your self a Stranger of late.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> I believe you took a surfeit of Ombre 
+Last time you were here.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Indeed I had my Belly full of that Tarmagant,
+Lady Dealer; there never was so unsatiable 
+A Carder, an old Gleeker never lov'd to sit 
+To't like her; I have plaid with her now at 
+Least a dozen times, till she'as worn out all
+Her fine Complexion, and her Tour wou'd 
+Keep in Curl no longer.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Blame her not poor Woman, she loves nothing
+So well as a black Ace.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> The pleasure I have seen her in when she has had   
+hope
+In drawing for a Matadore.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> 'Tis as pretty sport to her, as perswading 
+Masks off is to you to make discoveries.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Pray where's your Friend, Mr. <font>Dorimant</font> ?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Soliciting his affairs, he's a man of great 
+Imployment, has more Mistresses now depending 
+<pagebreak id="21" />
+Than the most eminent Lawyer in <font>England</font> 
+Has Causes.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> Here has been Mrs. <font>Loveit</font> , so uneasie and 
+Out of humour these two days.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> How strangely love and Jealousie rage 
+In that poor Woman!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> She cou'd not have pick'd out a Devil 
+Upon Earth so proper to Torment her,
+Has made her break a dozen or two of  
+Fans already, tare half a score Points in pieces, 
+And destroy Hoods and Knots without number.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> We heard of a pleasant Serenade he gave 
+Her tother Night.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> A Danish Serenade with Kettle Drums, and Trumpets.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> Oh Barbarous!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What, you are of the number of the Ladies whose
+Ears are grown so delicate since our 
+Operas, you can be charm'd with nothing 
+But Flute doux, and French Hoboys.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> Leave your raillery, and tell us, is there any 
+New Wit come forth, Songs or Novels?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> A very pretty piece of gallantry, by an 
+Eminent Author, call'd, <font>the diversions of 
+Bruxells</font> , very necessary to be read by all 
+Old Ladies who are desirous to improve themselves 
+At Questions and Commands, Blindmans buff,
+And the like fashionable recreations.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> Oh Ridiculous!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Then there is the Art of affectation, written 
+By a late beauty of Quality, teaching you how 
+To draw up your Breasts, stretch up your neck, 
+To thrust out your Breech, to play with your Head, 
+To toss up your Nose, to bite your Lips, to turn 
+Up your Eyes, to speak in a silly soft tone of a 
+Voice, and use all the Foolish French Words 
+That will infallibly make your person and 
+Conversation charming, with a short apologie 
+At the latter end, in the behalf of young Ladies, 
+<pagebreak id="22" />
+Who notoriously wash, and paint, though they 
+Have naturally good Complexions.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> What a deal of stuff you tell us?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Such as the Town affords Madam. 
+The <font>Russians</font> hearing the great respect we 
+Have for Foreign Dancing, have lately sent 
+Over some of their best Balladins, who are
+Now practising a famous Ballat which will 
+Be suddenly danc'd at the <font>Bear-Garden</font> .
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Pray forbear your idle stories, and give us 
+An account of the state of Love, as it now stands.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Truly there has been some revolutions in those
+Affairs, great chopping and changing among the 
+Old, and some new Lovers, whom malice, 
+Indiscretion, and misfortune, have luckily 
+Brought into play.
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> What think you of walking into the next Room,
+And sitting down before you engage in this business?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I wait upon you , and I hope (though Women 
+Are commonly unreasonable) by the plenty of 
+Scandal I shall discover, to give you very good 
+Content Ladies.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>SCENE II.</head> 
+
+<nonSpeech> <font>Enter Mrs.</font> Loveit <font>and</font> Pert.</nonSpeech>
+
+<nonSpeech> <font>Mrs.</font> Loveit <font>putting up a Letter, then pulling
+out her pocket Glass, and looking in it</font> .</nonSpeech>
+
+   <nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> <font>Pert.</font>
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Madam.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I hate my self, I look so ill to day.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Hate the wicked cause on't, that base man 
+Mr. <font>Dorimant</font> , who makes you torment and 
+Vex your self continually.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> He is to blame indeed.
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> To blame to be two days without sending, 
+Writing, or coming near you, contrary to 
+His Oath and Covenant; 'Twas to much 
+Purpose to make him swear; I'll lay my 
+Life there's not an Article but he has Broken, 
+Talk'd to the Vizards i'the Pit, waited upon the 
+Ladies from the Boxes to their Coaches; gone behind 
+The Scenes, and fawn'd upon those little insignificant 
+Creatures, the Players; 'tis impossible for a man 
+Of his inconstant temper to forbear I'm sure.
+   </dialogue><nonSpeech> <font>Lov.</font> </nonSpeech><dialogue> I know he is a Devil, but he has something of the
+Angel yet undefac'd in him, which 
+Makes him so charming and agreeable, that I 
+Must love him be he never so wicked.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> I little thought Madam to see your spirit 
+Taim'd to this degree, who banish'd poor 
+Mr. <font>Lackwit</font> but for taking up another Ladies 
+Fan in your presence.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> My knowing of such odious Fools, contributes to 
+the
+Making of me Love <font>Dorimant</font> <comment type="compiler">SOURCE TEXT: <font>Dorimrnt</font> </comment>        
+the better.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Your knowing of Mr. <font>Dorimant</font> , in my mind,    
+shou'd
+Rather make you hate all mankind.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> So it does, besides himself.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Pray, what excuse does he make in his Letter?
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> He has had business.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Business in general terms wou'd not have 
+Been a currant excuse for another; 
+A Modish Man is always very busie 
+When he is in pursuit of a new Mistress.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Some Fop has brib'd you to rail at him; 
+He had business, I will believe it, and will forgive him.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> You may forgive him any thing, but I shall never
+Forgive him his turning me into Ridicule, 
+As I hear he does.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I perceive you are of the number of those 
+Fools his Wit has made his Enemies.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> I am of the number of those he's pleas'd 
+To railly, Madam; and if we may believe 
+<pagebreak id="24" />
+Mr. <font>Wagfan</font> , and Mr. <font>Caperwell</font> , he sometimes 
+Makes merry with your self too, among 
+His Laughing Companions.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Blockheads are as malicious to witty men, 
+As ugly Women are to the handsome; 'tis 
+Their Interest, and they make it their business 
+To defame 'em.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> I wish Mr. <font>Dorimant</font> wou'd not make 
+It his business to defame you.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Shou'd he, I had rather be made infamous 
+By him, than owe my reputation to the dull 
+Discretion of those Fops you talk off. 
+<font>Bellinda</font> ! </dialogue><nonSpeech> <font>running to her.</font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Bellinda.</nonSpeech>
+
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> My Dear.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> You have been unkind of late.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Do not say unkind, say unhappy!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I cou'd chide you, 
+Where have you been these two days?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Pitty me rather my dear, where I have been 
+So tired with two or three Country Gentlewomen,
+Whose conversation has been more 
+Unsufferable than a Country Fiddle.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Are they Relations?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> No, Welch acquaintance I made when I was last year
+At St. <font>Winefreds</font> , they have asked me a thousand
+Questions of the Modes and Intrigues of the Town,  
+And I have told 'em almost as many things for news 
+That hardly were so, when their Gowns were in Fashion.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Provoking Creatures, how cou'd you endure e'm?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Now to carry on my Plot, nothing but love 
+Cou'd make me capable of so much falshood; </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue>
+'Tis time to begin, lest <font>Dorimant</font> shou'd 
+Come before her Jealousie has stung her; 
+</dialogue><nonSpeech> <font>Laughs and then speaks on.</font> </nonSpeech><dialogue>
+I was yesterday at a Play with 'em, 
+Where I was fain to shew 'em the living, as the 
+<pagebreak id="25" />
+Man at <font>Westminster</font> does the dead; that is 
+Mrs. such a one admired for her Beauty,
+This is Mr. such a one cry'd up for a Wit; 
+That is sparkish Mr. such a one who 
+Keeps reverend Mrs. such a one, and there
+Sits fine Mrs. such a one who was lately 
+Cast off by my Lord such a one.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Did you see <font>Dorimant</font> there?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I did, and imagine you were there with him, 
+And have no mind to own it.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> What shou'd make you think so?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> A Lady mask'd in a pretty dishabillie`, 
+Whom <font>Dorimant</font> entertain'd with more 
+Respect, than the Gallants do a Common Vizard.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> <font>Dorimant</font> at the Play entertaining a Mask, 
+Oh Heavens! </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Good. </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech>
+   <nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Did he stay all the while?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Till the Play was done, and then led her 
+Out, which confirms me it was you!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Traytor!
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Now you may believe he had business, and 
+You may forgive him too.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Ingrateful perjur'd man!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> You seem so much concern'd my Dear, 
+I fear I have told you unawares what I 
+Had better have conceal'd for your Quiet.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> What manner of shape had she?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Tall and slender, her motions were very gentile, 
+Certainly she must be some person of condition.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Shame and confusion be ever in her face 
+When she shows it.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I should blame your discretion for loving that
+Wild man my Dear, but they say he has a way 
+So bewitching, that few can defend their hearts 
+Who know him.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I will tear him from mine, or die i'the attempt.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Be more moderate.
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Wou'd I had Daggers, Darts, or poyson'd Arrows  
+in my
+Breast, so I cou'd but remove the thoughts 
+Of him from thence.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Fie, fie, your transports are too Violent, my Dear.
+This may be but an accidental Gallantry, 
+And 'tis likely ended at her Coach.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Shou'd it proceed farther, let your comfort be,
+The Conduct Mr. <font>Dorimant</font> affects, will 
+Quickly make you know your Rival, ten to one 
+Let you see her ruin'd, her reputation expos'd 
+To the Town; a happiness none will envy her 
+But your self Madam.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Who e're she be, all the harm I wish her, is, may
+She love him as well as I do, and may he give her 
+As much cause to hate him.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Never doubt the latter end of your Curse Madam!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> May all the passions that are rais'd by neglected
+Love, Jealousie, Indignation, Spight, and Thirst of 
+Revenge, eternally rage in her Soul, as they do 
+Now in mine. </dialogue><nonSpeech> <font>Walks up and down with a distracted air.</font> </nonSpeech>
+
+<nonSpeech> <font>Enter a</font> Page.</nonSpeech>
+
+   <nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Madam, Mr. <font>Dorimant</font> -- 
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I will not see him.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> I told him you were within, Madam.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Say you ly'd, say I'm busie, shut the door; 
+Say any thing.
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> He's here, Madam. </dialogue><nonSpeech> <font>Enter</font> Dorimant.</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> <font>They taste of death who do at Heaven arrive,
+But we this Paradise approach alive.</font>
+What dancing the Galloping Nag without a Fiddle?
+</dialogue><nonSpeech> <font>To</font> Loveit.</nonSpeech>
+<nonSpeech> <font>Offers to catch her by the hand,
+she flings away and walks on.</font> </nonSpeech><dialogue>
+I fear this restlessness of the body, Madam, </dialogue><nonSpeech> <font>pursuing her</font> .</nonSpeech><dialogue>
+Proceeds from an unquietness of the mind. 
+What unlucky accident puts you out of  
+<pagebreak id="27" />
+Humour; a Point ill-wash'd, Knots spoil'd i'the 
+Making up, Hair shaded awry, or some 
+Other little mistake insetting you in order?
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> A trifle in my opinion, Sir, more inconsiderable
+Than any you mention.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Oh Mrs. <font>Pert</font> , I never knew you sullen enough
+To be silent, come let me know the business.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> The business, Sir, is the business that has taken 
+you 
+Up these two days; how have I seen you 
+Laugh at men of business, and now to become a man 
+Of business your self!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> We are not Masters of our own affections, our
+Inclinations daily alter; now we love pleasure, and 
+Anon we shall doat on business; humane 
+Frailty will have it so, and who can help it;
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Faithless, inhumane, barbarous man --
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Good, now the Alarm strikes -- 
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Without sense of Love, of Honour, or of         
+Gratitude, 
+Tell me, for I will know, what Devil mask'd 
+She was, you were with at the Play yesterday?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Faith I resolv'd as much as you, but the 
+Devil was obstinate, and wou'd not tell me.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> False in this as in your Vows to me, you do know!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The truth is, I did all I cou'd to know.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> And dare you own it to my Face? 
+Hell and Furies! </dialogue><nonSpeech> <font>Tears her Fan in pieces.</font> </nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Spare your Fan, Madam, you are growing hot, 
+And will want it to cool you.
+   </dialogue><nonSpeech> <font>Lov.</font> </nonSpeech><dialogue> Horrour and distraction seize you, Sorrow and
+Remorse gnaw your Soul, and punish all your 
+Perjuries to me -- </dialogue><nonSpeech> <font>Weeps.</font> </nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> <font>So Thunder breaks the Cloud in Twain,
+And makes a passage for the Rain.</font> </dialogue><nonSpeech> <font>Turning to</font> Bellinda.</nonSpeech><dialogue>
+<font>Bellinda</font> , you are the Devil that have rais'd 
+This storm; </dialogue><nonSpeech> <font>To</font> Bellinda.</nonSpeech><dialogue> you were at the Play yesterday, 
+And have been making discoveries to your Dear.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Y'are the most mistaken Man i'the World.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> It must be so, and here I vow revenge; resolve
+<pagebreak id="28" />
+To pursue, and persecute you more impertinently 
+Than ever any Loving Fop did his Mistress, hunt 
+You i'the <font>Park</font> , trace you i'the <font>Mail</font> , Dog 
+You in every visit you make, haunt you at 
+The Plays, and i'the Drawing Room, hang my 
+Nose in your neck, and talk to you whether 
+You will or no, and ever look upon you with such 
+Dying Eyes, till your Friends grow Jealous of me, 
+Send you out of Town, and the World suspect 
+Your reputation. </dialogue><nonSpeech> <font>In a lower voice.</font> </nonSpeech>
+<nonSpeech> <font>He looks kindly on</font> Bellinda.</nonSpeech><dialogue> At my 
+Lady <font>Townley's</font> when we go from hence.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I'le meet you there.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Enough.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Stand off, you sha'not stare upon her so.
+</dialogue><nonSpeech> <font>Pushing</font> Dorimant <font>away</font> .</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Good! There's one made Jealous already.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Is this the constancy you vow'd?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Constancy at my years! 'tis not a Vertue in 
+Season, you might as well expect the Fruit the 
+Autumn ripens i'the Spring.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Monstrous Principle!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Youth has a long Journey to go, Madam, shou'd  
+I have set up my rest at the first Inn I lodg'd at, 
+I shou'd never have arriv'd at the happiness I now enjoy.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Dissembler, damn'd Dissembler! 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I am so I confess, good nature, and good manners
+Corrupt me. I am honest in my inclinations, and 
+Wou'd not, wer't not to avoid offence, make a 
+Lady a little in years believe I think her young, wilfully 
+Mistake Art for Nature; and seem as fond of a thing 
+I am weary off, as when I doated on't in earnest.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> False Man. 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> True Woman.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Now you begin to show your self!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Love gilds us over, and makes us show fine things 
+To one another for a time, but soon the Gold 
+Wears off, and then again the native brass appears.
+<pagebreak id="29" />
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Think on your Oaths, your Vows and Protestations. 
+Perjur'd Man!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I made 'em when I was in love.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> And therefore ought they not to bind? 
+Oh Impious!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> What we swear at such a time may be a certain proof 
+Of a present passion, but to say truth, in Love there is
+No security to be given for the future.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Horrid and ingrateful, begone, 
+And never see me more!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I am not one of those troublesome Coxcombs, who
+Because they were once well receiv'd, take the 
+Priviledge to plague a Woman with their Love ever 
+After; I shall obey you, Madam, though I do my 
+Self some violence. </dialogue><nonSpeech> <font>He offers to go, and</font> Loveit <font>pulls him   
+back</font> .</nonSpeech>
+   <nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Come back, you sha'not go. 
+Cou'd you have the ill nature to offer it?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> When love grows diseas'd the best thing we can do
+Is to put it to a Violent Death; I cannot 
+Endure the torture of a lingring and 
+Consumptive passion.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Can you think mine sickly?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Oh, 'tis desperately Ill! what worse symptomes
+Are there than your being always uneasie when 
+I visit you, your picking quarrels with me on 
+Slight occasions, and in my absence kindly listning 
+To the impertinences of every fashionable Fool 
+That talks to you? 
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> What fashionable Fool can you lay to my charge?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Why the very Cock-fool of all those Fools, Sir
+<font>Fopling Flutter</font> .
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I never saw him in my life but once.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The worse Woman you at first sight to put on 
+All your charms, to entertain him with that softness 
+In your voice, and all that wanton kindness in your 
+Eyes, you so notoriously affect, when you design 
+A Conquest.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> So damn'd a lie did never malice yet invent; 
+<pagebreak id="30" />
+Who told you this?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> No matter; that ever I shou'd love a Woman that
+Can doat on a senceless Caper, a Tawdry French 
+Riband, and a Formal Cravat!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> You make me mad.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> A guilty Conscience may do much,
+Go on, be the Game-Mistress o'the Town, and 
+Enter all our young Fops, as fast as they come 
+From travail.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Base and Scurrilous!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> A fine mortifying reputation 'twill be for a 
+Woman of your Pride, Wit, and Quality!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> This Jealousy's a meer pretence, a cursed trick
+Of your own devising; I know you.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Believe it and all the ill of me you can, I wou'd
+Not have a Woman have the least good thought 
+Of me, that can think well of <font>Fopling</font> ; farewel, 
+Fall too, and much good may do you with your Coxcomb.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Stay, oh stay, and I will tell you all.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I have been told too much already.                 
+</dialogue><nonSpeech> <font>Ex.</font> Dorimant.</nonSpeech>
+   <nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Call him again.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> E'ne let him go, a fair riddance.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Run I say, call him again, I will have him      
+call'd.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> The Devil shou'd carry him away first, 
+Were it my concern. </dialogue><nonSpeech> <font>Ex.</font> Pert.</nonSpeech>
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> H'as frighted me from the very thoughts of 
+Loving men; for Heav'ns sake, my dear, 
+Do not discover what I told you; I dread his tongue 
+As much as you ought to have done his Friendship.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> He's gone, Madam. </dialogue><nonSpeech> <font>Enter</font> Pert.</nonSpeech>
+   <nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Lightning blast him!
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> When I told him you desired him to come back, 
+He smil'd, made a mouth at me, flung into his 
+Coach, and said --
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> What did he say? 
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Drive away, and then repeated Verses.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Wou'd I had made a Contract to be a Witch
+When first I entertain'd this greater Devil, 
+<pagebreak id="31" />
+Monster, Barbarian; I could tear my self in pieces. 
+Revenge, nothing but Revenge can ease me; Plague, 
+War, Famine, Fire, all that can bring universal ruin 
+And misery on mankind, with Joy I'd perish to 
+Have you in my power but this moment! </dialogue><nonSpeech> <font>Ex.</font> Loveit.</nonSpeech>
+   <nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> Follow Madam, leave her not in this outragious    
+passion.    
+</dialogue><nonSpeech>Pert <font>gathers up the things</font> .</nonSpeech>
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> H'as given me the proof which I desired of 
+His love, but 'tis a proof of his ill nature too; 
+I wish I had not seen him use her so.
+I sigh to think that <font>Dorimant</font> may be,
+One day as faithless, and unkind to me. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>ACT III.</head> 
+
+<nonSpeech>SCENE <font>Lady</font> Woodvils <font>Lodgings</font> .</nonSpeech>
+
+<nonSpeech> <font>Enter</font> Harriet, <font>and</font> Busy <font>her Woman</font> .</nonSpeech>
+
+   <nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Dear Madam! 
+Let me set that Curl in order.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Let me alone, I will shake 'em all out of order.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Will you never leave this Wilderness?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Torment me not.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Look! there's a Knot falling off.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Let it drop.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> But one pin, dear Madam.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> How do I daily suffer under thy Officious Fingers?
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Ah the difference that is between 
+You and my Lady <font>Dapper</font> ? how uneasy she is 
+If the least thing be amiss about her?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> She is indeed most exact! nothing is ever wanting
+To make her ugliness remarkable!
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Jeering people say so!
+<pagebreak id="32" />
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Her powdering, painting, and her patching never    
+fail in
+Publick to draw the tongues and Eyes of all the men upon her.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> She is indeed a little too pretending.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> That Women should set up for beauty as much in spite 
+Of nature, as some men have done for Wit.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> I hope without offence one may endeavour 
+To make ones self agreeable.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Not, when 'tis impossible. Women then 
+Ought to be no more fond of dressing than Fools 
+Should be of talking; Hoods and Modesty, 
+Masques and Silence, things that shaddow and conceal; 
+They should think of nothing else.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Jesu! Madam, what will your Mother think is 
+Become of you? for Heav'ns sake go in again.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I won't!
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> This is the Extravangant'st thing that ever
+You did in your life, to leave her and a Gentleman 
+Who is to be your Husband.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> My Husband! 
+Hast thou so little wit to think I spoke what I meant 
+When I over-joy'd her in the Country, with a low Courtsy, 
+And what you please, Madam, I shall ever be obedient.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Nay, I know not, you have so many fetches.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> And this was one, to get her up to <font>London</font> !
+Nothing else I assure thee.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Well, the man, in my mind, is a fine man!
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> The man indeed wears his Cloaths fashionably, and
+Has a pretty negligent way with him, very Courtly,
+And much affected; he bows, and talks, and smiles
+So agreeably as he thinks.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> I never saw any thing so gentile!
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Varnish'd over with good breeding, many a 
+Blockhead makes a tolerable show.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> I wonder you do not like him.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I think I might be brought to endure him, and that 
+is
+All a reasonable Woman should expect in a Husband, but
+There is duty i'the case -- and like the haughty <font>Merab</font> , I
+<font>Find much aversion in my stubborn mind</font> ,
+<pagebreak id="33" />
+<font>Which</font> , <comment type="compiler">THE CATCHWORD <font>Which</font> AND COMMA ON PRECEDING PAGE    
+MISSING ON PAGE 33</comment> <font>Is bred by being promis'd and design'd</font> .
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> I wish you do not design your own ruine! I partly 
+Guess your inclinations Madam -- that Mr. <font>Dorimant</font> -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Leave your prating, and sing some foolish Song or  
+other.
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> I will, the Song you love so well ever since you  
+saw 
+Mr. <font>Dorimant</font> .
+
+<comment type="compiler">EIGHT-LINE SONG OMITTED.</comment>
+
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Shall I be paid down by a covetous Parent for a    
+purchase? 
+I need no Land; no, i'le lay my self out all in love. 
+It is decreed -- 
+</dialogue><nonSpeech> <font>Enter</font> Y. Bellair.</nonSpeech>
+
+   <nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> What generous 
+Resolution are you making Madam?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Only to be disobedient, Sir.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Let me join hands with you in that -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> With all my heart, I never thought I should have 
+given 
+You mine so willingly. Here I <font>Harriet</font> -- 
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> And I <font>Harry</font> -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Do solemnly protest -- 
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> And vow -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> That I with you -- 
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> And I with you -- 
+   </dialogue><nonSpeech> <font>Both.</font> </nonSpeech><dialogue> Will never marry -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> A match!
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> And no match! 
+<pagebreak id="34" />
+How do you like this indifference now?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> You expect I should take it ill I see!
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> 'Tis not unnatural for you Women to be a little
+Angry, you miss a Conquest, though you wou'd slight the
+Poor man were he in your power.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> There are some it may be have an Eye like          
+<font>Bart'lomew</font> , 
+Big enough for the whole Fair, but I am not of the 
+Number, and you may keep your Ginger-bread.
+'Twill be more acceptable to the Lady, 
+Whose dear Image it wears Sir.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I must confess Madam, you came a day after the 
+Fair.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> You own then you are in love -- 
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> The confidence is generous, and in return I could  
+almost 
+Find in my heart to let you know my inclinations.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Are you in Love?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Yes, with this dear Town, to that 
+Degree, I can scarce indure 
+The Country in Landskapes and in Hangings.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> What a dreadful thing 'twould be 
+To be hurry'd back to <font>Hampshire</font> !
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Ah -- name it not! --
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> As for us, I find we shall agree well enough!  
+wou'd 
+We cou'd do something to deceive the grave people!
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Could we delay their quick proceeding, 'twere well,
+A reprieve is a good step towards the getting of a pardon.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> If we give over the Game, we are undone!
+What think you of playing it on booty?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> What do you mean?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Pretend to be in love with one another! 'twill 
+make
+Some dilatory excuses we may feign, pass the better.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Let us do't, if it be but for the dear 
+Pleasure of dissembling.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Can you play your part?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I know not what it is to love, but I have made
+Pretty remarks by being now and then where Lovers meet. 
+Where did you leave their Gravities?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I'th' next Room! your Mother was 
+<pagebreak id="35" />
+Censuring our modern Gallant.
+
+</dialogue><nonSpeech> <font>Enter</font> Old Bellair, <font>and Lady</font> Woodvil.</nonSpeech>
+
+   <nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Peace! Here they come, I will lean against this    
+Wall,
+And look bashfully down upon my Fan, while 
+You like an Amorous spark modishly entertain me.
+   </dialogue><nonSpeech> <font>L. Woodv.</font> </nonSpeech><dialogue> Never go about to excuse 'em, come, come,
+It was not so when I was a young Woman.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> A Dod, they're something disrespectful -- 
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Quality was then consider'd, 
+And not rally'd by every fleering Fellow.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> Youth will have it's Jest, a Dod it will.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> 'Tis good breeding now to be civil to none but
+Players and <font>Exchange</font> Women, they are treated by 'em as much 
+Above their Condition, as others are below theirs.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> Out a pise on 'em, talk no more, the 
+Rogues ha' got an ill habit of preferring Beauty, 
+No matter where they find it.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> See your Son, and my Daughter, they have
+Improv'd their acquaintances since they were within.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> A Dod, methinks they have! 
+Let's keep back and observe.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Now for a look and gestures that may perswade  
+'em 
+I am saying all the passionate things imaginable -- 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Your Head a little more on one side, ease your self
+On your left Leg, and play with your right hand.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Thus, is it not?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Now set your right leg firm on the ground, adjust
+Your Belt, then look about you.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> A little exercising will make me perfect.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Smile and turn to me again very sparkish!
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Will you take your turn and be instructed?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> With all my heart.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> At one motion play your Fan, roul your Eyes,
+And then settle a kind look upon me.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> So.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Now spread your Fan, look down upon it, 
+<pagebreak id="36" />
+And tell the Sticks with a Finger.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Very Modish.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Clap your hand up to your bosom, 
+Hold down your Gown.
+Shrug a little, draw up your Breasts, and let 'em fall 
+Again, gently, with a sigh or two, <font>&amp;c.</font> 
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> By the good instructions you give, I suspect you   
+for one 
+Of those malitious Observers who watch peoples Eyes, 
+And from innocent looks, make scandalous conclusions.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I know some indeed who out of meer love 
+To mischief are as vigilant as Jealousy it self, 
+And will give you an account of every Glance 
+That passes at a Play, and i'th' Circle!
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> 'Twill not be amiss now to seem a little pleasant.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Clap your Fan then in both your hands, snatch it
+To your Mouth, smile, and with a lively motion fling your
+Body a little forwards. So -- now spread it; fall back on 
+The sudden, Cover your Face with it, and break out
+Into a loud Laughter -- take up! look 
+Grave, and fall a fanning of your self -- 
+Admirably well acted.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I think I am pretty apt at these matters!
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> A Dod I like this well.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> This promises something.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> Come! there is Love i'th' case, a dod there is,
+Or will be; what say you young Lady?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> All in good time Sir, you expect we should fall to,
+And Love as game-Cocks fight, as soon as we are set 
+Together, a Dod y'are unreasonable!
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> A Dod sirrah, I like thy wit well.             
+</dialogue><nonSpeech> <font>Enter a Servant.</font> </nonSpeech>
+   <nonSpeech> <font>Servant.</font> </nonSpeech><dialogue> The Coach is at the Door Madam.
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> Go, get you and take the Air together.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Will not you go with us?
+   </dialogue><nonSpeech> <font>O. Bell.</font> </nonSpeech><dialogue> Out a pize: A Dod I ha' business and cannot.
+We shall meet at night at my Sister <font>Townleys</font> .
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> He's going to <font>Emilia</font> . </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue>
+I overheard him talk of a Collation. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<pagebreak id="37" />
+ <head> SCENE II.</head> 
+
+<nonSpeech> <font>Enter</font> L. Townley, Emilia, <font>and Mr.</font> Medley.</nonSpeech>
+
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> I pitty the young lovers, we last talk'd of,
+Though to say truth their conduct has been so indiscreet,
+They deserve to be unfortunate.
+   </dialogue><nonSpeech> <font>Medley.</font> </nonSpeech><dialogue> Y' have had an exact account, from the great Lady 
+I'th'Box down to the little Orange wench.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Y' are a living Libel, a breathing Lampoon; I
+Wonder you are not torn in pieces.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What think you of setting up an Office of          
+Intelligence 
+For these matters? the project may get Money.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> You would have great dealings with country     
+Ladies.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> More than <font>Muddiman</font> has
+With their husbands. </dialogue><nonSpeech> <font>Enter</font> Bellinda.</nonSpeech>
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> <font>Bellinda</font> , what has been become of you! we
+Have not seen you here of late 
+With your friend Mrs <font>Lovit</font> .
+   </dialogue><nonSpeech> <font>Bellin.</font> </nonSpeech><dialogue> Dear creature, I left her but now so sadly      
+afflicted.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> With her old distemper Jealousy!
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> <font>Dorimant</font> has plaid her some new prank.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Well, that <font>Dorimant</font> is certainly the worst 
+Man breathing.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> I once thought so.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> And do you not think so still?
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> No indeed!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Oh Jesu!
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> The Town does him a great deal of Injury, and I
+Will never believe what it says of a man I do 
+Not know again for his sake!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> You make me wonder!
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> He's a very well bred man.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> But strangely ill-natur'd.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Then he's a very Witty man!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> But a man of no principles.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Your man of Principles is a very fine thing indeed.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> To be preferr'd to men of parts by Women who have
+<pagebreak id="38" /> 
+Regard to their Reputation and quiet. Well were I minded 
+To play the Fool, he shou'd be the last man I'd think of.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> He has been the first in many Ladyes favours, though 
+You are so severe, Madam.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> What he may be for a Lover I know not, but
+He's a very pleasant acquaintance I am sure.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Had you seen him use Mrs <font>Loveit</font> as I have done,
+You wou'd never endure him more -- 
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> What he has quarrel'd with her again!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Upon the slightest occasion, he's Jealous 
+Of Sir <font>Fopling</font> . 
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> She never saw him in her life but 
+Yesterday, and that was here.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> On my Conscience! he's the only man in Town
+That's her aversion, how horribly out of humour 
+She was all the while he talk'd to her!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> And some body has wickedly told him --
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Here he comes. </dialogue><nonSpeech> <font>Enter</font> Dorimant.</nonSpeech>
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> <font>Dorimant</font> ! you are luckily come to justify 
+Your self -- here's a Lady -- 
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Has a word or two to say to you from a 
+Disconsolate person.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You tender your Reputation too much I know Madam, 
+To whisper with me before this good Company.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> To serve Mrs. <font>Loveit</font> , I'll make a bold       
+venture.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Here's <font>Medley</font> the very Spirit of Scandal.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> No matter!
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> 'Tis something you are unwilling to 
+Hear, Mr. <font>Dorimant</font> .
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Tell him <font>Bellinda</font> whether he will or no!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Mrs. <font>Loveit</font> ! </dialogue><nonSpeech> <font>aloud.</font> </nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Softly, these are laughers, you do not know 'em.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> In a Word y'ave made me hate you,                 
+</dialogue><nonSpeech> <font>To</font> Dor. <font>apart</font> .</nonSpeech><dialogue>
+Which I thought you never could have done.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> In obeying your Commands.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Twas a cruel part you play'd! how could you act  
+it?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Nothing is cruel to a man who could kill himself
+To please you; remember Five a Clock to morrow Morning.
+<pagebreak id="39" />
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I tremble when you name it.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Be sure you come.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I sha'not.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Swear you will!
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I dare not.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Swear I say.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> By my life! by all the happiness I hope for -- 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You will.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I will.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Kind.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I am glad i've sworn, I vow I think I should ha'
+Fail'd you else!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Surprisingly kind! in what temper did 
+You leave <font>Loveit</font> ?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Her raving was prettily over, and she began to be
+In a brave way of defying you, and all your works.
+Where have you been since you went from thence?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I look'd in at the Play.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I have promis'd and must return to her agen.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Perswade her to walk in the Mail this evening
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> She hates the place and will not come.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Do all you can to prevail with her.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> For what purpose?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Sir <font>Fopling</font> will be here anon, I'll prepare him 
+To set upon her there before me.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> You persecute her too much, but I'll do all you'l 
+ha'me.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Tell her plainly, 'tis grown so dull a business    
+</dialogue><nonSpeech> <font>aloud.</font> </nonSpeech><dialogue>
+I can drudge on no longer.   
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> There are afflictions in Love Mr. <font>Dorimant</font> .
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You Women make 'em, who are commonly as 
+Unreasonable in that as you are at Play; without 
+The Advantage be on your side, a man can never 
+Quietly give over when he's weary?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> If you would play without being obliged to
+Complaisance <font>Dorimant</font> , you should play in 
+Publick places.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Ordinaries were a very good thing for that, 
+But Gentlemen do not of late frequent 'em; the 
+<pagebreak id="40" />
+Deep play is now in private Houses.    
+</dialogue><nonSpeech>Bellinda <font>offering to steal away</font> .</nonSpeech>
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> <font>Bellinda</font> , are you leaving us so soon?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I am to go to the Park with Mrs. <font>Loveit</font>
+Madam -- </dialogue><nonSpeech> <font>Ex.</font> Bellinda.</nonSpeech>
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> This confidence will go nigh to spoil this 
+Young Creature.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> 'Twill do her good Madam. Young men who  
+Are brought up under practising Lawyers prove 
+The abler Council when they come to be call'd 
+To the Bar themselves -- 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The Town has been very favourable to you 
+This afternoon, my Lady <font>Townley</font> , you use to have 
+An Ambara's of Chaires and Coaches at your Door, 
+An uproar of Footmen in your Hall, and a noise 
+Of Fools above here.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Indeed my House is the general rendevouze,
+And next to the Play-house is the Common 
+Refuge of all the Young idle people.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Company is a very good thing, Madam, but I 
+Wonder you do not love it a little more Chosen.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> 'Tis good to have an universal taste, we 
+Should love Wit, but for Variety, be able to divert 
+Our selves with the Extravagancies of those who want it.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Fools will make you laugh.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> For once or twice! but the repetition of their
+Folly after a visit or two grows tedious and unsufferable.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> You are a little too delicate <font>Emilia</font> .
+</dialogue><nonSpeech> <font>Enter a Page.</font> </nonSpeech>
+   <nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Sir <font>Fopling Flutter</font> , Madam, desires to know if 
+You are to be seen.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Here's the freshest Fool in Town, and one 
+Who has not cloy'd you yet. Page!
+   </dialogue><nonSpeech> <font>Page.</font> </nonSpeech><dialogue> Madam!
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Desire him to walk up.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Do not you fall on him, <font>Medley</font> , and snub him.
+Sooth him up in his extravagance! he will shew the better.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> You know I have a natural indulgence for Fools,
+<pagebreak id="41" />
+And need not this caution, Sir!
+
+</dialogue><nonSpeech> <font>Enter Sir</font> Fopling Flutter, <font>with his</font> Page <font>after him</font> .</nonSpeech>
+
+   <nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> <font>Page!</font> Wait without. </dialogue><nonSpeech> <font>To L. Townly.</font> </nonSpeech><dialogue> 
+Madam, I                
+Kiss your Hands, I see Yesterday was nothing of Chance, 
+The belle`s assemble`s form themselves here every day. 
+</dialogue><nonSpeech>To <font>Emilia</font> .</nonSpeech><dialogue> Lady your servant; <font>Dorimant</font> , let me embrace 
+Thee, without lying I have not met with any of my                    
+<comment type="compiler">SOURCE TEXT: ofmy</comment>
+Acquaintance, who retain so much of <font>Paris</font> as 
+Thou dost, the very air thou hadst when the 
+Marquise mistook thee i'th' Tuilleries, and cry'd 
+Hey Chevalier, and then begg'd thy pardon.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I would fain wear in Fashion as long as I can, Sir, 
+'Tis a thing to be valu'd in men as well as Bawbles.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Thou art a man of Wit, and understands 
+The Town: prithee let thee and I be intimate, 
+There is no living without making some good 
+Man the confident of our pleasures.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis true! but there is no man so improper
+For such a business as I am.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Prithee! why hast thou so modest an 
+Opinion of thy self?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Why first, I could never keep a secret in my life,
+And then there is no charm so infallibly makes me 
+Fall in love with a Woman as my knowing a 
+Friend loves her. I deal honestly with you.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Thy humour's very gallant or let me perish,
+I knew a French Count so like thee.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Witt I perceive has more power over you 
+Than Beauty, Sir <font>Fopling</font> , else you would not have 
+Let this Lady stand so long neglected.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech> <nonSpeech> <font>To Emilia.</font> </nonSpeech><dialogue> A thousand pardons Madam,  
+some                 
+Civilities due of course upon the meeting a long absent 
+Friend. The Eclat of so much beauty I confess ought 
+To have charm'd me sooner.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> The brillian of so much good language Sir has much 
+More power than the little beauty I can boast.
+<pagebreak id="42" />
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> I never saw any thing prettier than this high
+Work on your Point D'espaigne -- 
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> 'Tis not so rich as Point <font>De Venice</font> -- 
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Not altogether, but looks cooler, and is more 
+Proper for the season. <font>Dorimant</font> , is not that <font>Medley</font> ?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The same, Sir.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Forgive me Sir in this Ambaras of Civilities,
+I could not come to have you in my Arms sooner. 
+You understand an Equipage the best of 
+Any Man in Town I hear.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> By my own you would not guess it.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> There are Criticks who do not write Sir.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Our peevish Poets will scarce allow it.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Dam'em, they'l allow no Man Wit, who does not
+Play the fool like themselves and show it! Have you
+Taken notice of the Gallesh I brought over?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> O yes! 't has quite another Air, than th'English   
+makes.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> 'Tis as easily known from an English Tumbril,
+As an Inns of Court-man is from one of us.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Truly there is a bell-air in Galleshes as well as  
+men.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> But there are few so delicate to observe it.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> The world is generally very grossier here indeed.      
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> He's very fine.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Extream proper.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> A slight suit I made to appear in at my first   
+arrival, 
+Not worthy your consideration Ladies.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The Pantaloon is very well mounted.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> The Tassels are new and pretty.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I never saw a Coat better cut.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> It makes me show long-wasted, and I think       
+slender.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> That's the shape our Ladies doat on.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Your breech though is a handfull too high in my
+Eye Sir <font>Fopling</font> .
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Peace <font>Medley</font> , I have wish'd it lower a     
+thousand
+Times, but a Pox on't, 'twill not be.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> His Gloves are well fring'd, large and graceful.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> I was always eminent for being <foreign>bien gante`</foreign> .
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> He wears nothing but what are Originals of the
+Most Famous hands in <font>Paris</font> .
+<pagebreak id="43" />
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> You are in the right Madam.
+   </dialogue><nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> The Suit?
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Barroy.
+   </dialogue><nonSpeech> <font>Emilia.</font> </nonSpeech><dialogue> The Garniture.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Le Gras -- 
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> The Shooes! 
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Piccar!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> The Perriwig!
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Chedreux.
+   </dialogue><nonSpeech> <font>Town.</font> and <font>Emilia.</font> </nonSpeech><dialogue> The Gloves!
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Orangerii! You know the smell Ladies!
+<font>Dorimant</font> , I could find in my heart for an amusement
+To have a Gallantry with some of our English Ladies.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis a thing no less necessary to confirm the 
+Reputation of your Wit, than a Duel will be 
+To satisfie the Town of your Courage.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Here was a Woman yesterday -- 
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Mistriss <font>Loveit</font> .
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> You have nam'd her!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You cannot pitch on a better for your purpose.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Prithee! what is she?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> A person of Quality, and one who has a rest of 
+Reputation enough to make the Conquest considerable:
+Besides I hear she likes you too!
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Methoughts she seem'd though very reserv'd,
+And uneasie all the time I entertain'd her.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Grimace and affectation: You will see 
+Her i'th' Mail to night.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Prithee, let thee and I take the Air together.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I am engag'd to <font>Medley</font> , but I'le meet you at 
+Saint <font>James's</font> , and give you some information, upon the 
+Which you may regulate your proceedings.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> All the World will be in the Park to night:     
+Ladies,
+'Twere pity to keep so much Beauty longer within doors, 
+And rob the Ring of all those Charms 
+That should adorn it -- Hey, Page.
+</dialogue><nonSpeech> <font>Enter Page, and goes out again.</font> </nonSpeech><dialogue>
+See that all my People be ready. 
+<font>Dorimant</font> <foreign>a Revoir</foreign> .
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> A fine mettl'd Coxcomb.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Brisk and Insipid - 
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Pert and dull.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> However you despise him Gentlemen, I'le lay my
+Life he passes for a Wit with many.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> That may very well be, Nature has her cheats, stum's 
+A brain, and puts sophisticate dulness often on the tastless
+Multitude for true wit and good humour. <font>Medley</font> , Come.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I must go a little way, I will meet you i'the Mail.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I'le walk through the Garden thither, we shall meet
+Anon and bow. </dialogue><nonSpeech> <font>To the Women.</font> </nonSpeech>
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> Not to night! we are engag'd about a business, 
+The knowledge of which may make you laugh hereafter.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Your servant Ladies.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> <foreign>A Revoir</foreign> , as Sir <font>Fopling</font> says --          
+</dialogue><nonSpeech> <font>Ex. Med.</font> and <font>Dor.</font> </nonSpeech>
+   <nonSpeech> <font>L. Town.</font> </nonSpeech><dialogue> The Old Man will be here immediately.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> Let's expect him i'th' Garden -- 
+   </dialogue><nonSpeech> <font>Town.</font> </nonSpeech><dialogue> Go, you are a Rogue.
+   </dialogue><nonSpeech> <font>Emil.</font> </nonSpeech><dialogue> I can't abide you.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+
+ <head>SCENE III. <font>THE</font> MAIL.</head> 
+
+<nonSpeech> <font>Enter</font> Harriet, Y. Bellair, <font>she pulling him</font> .</nonSpeech>
+
+   <nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Come along.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> And leave your Mother.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> <font>Busie</font> will be sent with a Hue and Cry after us; 
+But that's no matter.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> 'Twill look strangely in me.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> She'l believe it a freak of mine, and never blame
+Your manners.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> What reverend acquaintance is that she has met?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> A fellow-beauty of the last Kings time, though by  
+the 
+Ruines you would hardly guess it.
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter</font> Dorimant <font>and crosses the Stage</font> .</nonSpeech>
+<pagebreak id="45" />
+<nonSpeech> <font>Enter</font> Y. Bellair, <font>and</font> Harriet.</nonSpeech>
+
+   <nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> By this time your Mother is in a fine taking.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> If your Friend Mr. <font>Dorimant</font> were but here now,
+That she might find me talking with him.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> She does not know him but dreads him I hear of
+All Mankind.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> She concludes if he does but speak to a 
+Woman she's undone, is on her knees every day to 
+Pray Heav'n defend me from him.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> You do not apprehend him so much as she does.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I never saw any thing in him that was frightful.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> On the contrary, have you not observed something 
+Extream delightful in his Wit and Person?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> He's agreeable and pleasant I must own, but he
+Does so much affect being so, he displeases me.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Lord Madam, all he does and says, is so easie,
+And so natural.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Some Mens Verses seem so to the unskilful,
+But labour i'the one, and affectation in the other 
+To the Judicious plainly appear.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> I never heard him accus'd of affectation before.
+
+</dialogue><nonSpeech> <font>Enter</font> Dorimant <font>and stares upon her</font> .</nonSpeech>
+
+   <nonSpeech> <font>Har.</font> </nonSpeech><dialogue> It passes on the easie Town, who are favourably
+Pleas'd in him to call it humour.                                    
+</dialogue><nonSpeech> <font>Ex.</font> Y. Bellair <font>and</font> Harriet.</nonSpeech> 
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis she! it must be she, that lovely hair, that 
+Easie shape, those wanton Eyes, and all those melting
+Charms about her mouth, which <font>Medley</font> spoke of; 
+I'll follow the Lottery, and put in for a 
+Prize with my friend <font>Bellair</font> .
+</dialogue><nonSpeech> <font>Ex. Dor.</font> repeating.</nonSpeech><dialogue> <font>In Love the Victors from the          
+vanquish'd fly;
+   They fly that Wound, and they pursue that dy.</font>
+<pagebreak id="46" />
+</dialogue><nonSpeech> <font>Enter</font> Y. Bellair, <font>and</font> Harriet, <font>and after them</font> Dorimant
+<font>standing at a distance</font> .</nonSpeech>
+
+   <nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Most people prefer <font>High Park</font> to this place.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> It has the better Reputation I confess: but I
+Abominate the dull diversions there, the formal bows,  
+The Affected smiles, the silly by-Words, and 
+Amorous Tweers, in passing; here one meets with 
+A little conversation now and then.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> These conversations have been fatal 
+To some of your Sex, Madam.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> It may be so, because some who want temper
+Have been undone by gaming, must others who have it
+Wholly deny themselves the pleasure of Play?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Trust me, it were unreasonable Madam.
+</dialogue><nonSpeech> <font>Coming up gently, and bowing to her.</font> </nonSpeech>
+   <nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Lord! who's this?                                  
+</dialogue><nonSpeech> <font>She Starts and looks grave.</font> </nonSpeech>
+   <nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> <font>Dorimant.</font>
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Is this the Woman your Father would 
+Have you marry?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> It is.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Her name?
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> <font>Harriet.</font>
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I am not mistaken, she's handsome.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Talk to her, her Wit is better than her face; 
+We were wishing for you but now.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Overcast with seriousness o' the sudden!           
+</dialogue><nonSpeech> <font>To</font> Harriet.</nonSpeech><dialogue>
+A thousand smiles were shining in that Face but now; 
+I never saw so quick a change of Weather.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I feel as great a change within; </dialogue><nonSpeech> <font>Aside.</font> </nonSpeech><dialogue>
+But he shall never know it.    
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You were talking of Play, Madam, Pray 
+What may be your stint?
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> A little harmless discourse in publick walks, 
+Or at most an appointment in a Box barefac'd 
+At the Play-House; you are for Masks, and 
+Private meetings; where Women engage
+<pagebreak id="47" /> 
+For all they are worth I hear.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I have been us'd to deep Play, but I can make one
+At small Game, when I like my Gamester well.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> And be so unconcern'd you'l ha' no pleasure in't.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Where there is a considerable sum to be won, the
+Hope of drawing people in, makes every trifle considerable.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> The sordidness of mens natures I know makes 'em 
+Willing to flatter and comply with the Rich, though they
+Are sure never to be the better for 'em.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis in their power to do us good, and we despair
+Not but at some time or other they may be willing.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> To men who have far'd in this Town like you,
+'Twould be a great Mortification to live on hope; 
+Could you keep a Lent for a Mistriss?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> In expectation of a happy Easter, and though time
+Be very precious, think forty daies well lost, to gain your
+Favour.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> Mr. <font>Bellair</font> ! let us walk, 'tis time to leave  
+him,
+Men grow dull when they begin to be particular.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Y'are mistaken, flattery will not ensue, though I  
+know 
+Y'are greedy of the praises of the whole Mail.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> You do me wrong.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I do not, as I follow'd you, I observ'd how you
+Were pleased when the <font>Fops</font> cry'd she's handsome, very
+Handsome, by God she is, and whisper'd aloud your name,
+The thousand several forms you put your face into; then,
+To make your self more agreeable, how wantonly you play'd
+With your head, flung back your locks, and look'd smilingly 
+Over your shoulder at 'em.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I do not go begging the mens as you do 
+The Ladies Good liking with a sly softness in 
+Your looks, and a gentle slowness in your bows, 
+As you pass by 'em -- as thus Sir -- </dialogue><nonSpeech> <font>Acts him.</font> </nonSpeech><dialogue>
+Is not this like you?
+
+</dialogue><nonSpeech> <font>Enter Lady</font> Woodvil <font>and</font> Busy.</nonSpeech>
+
+   <nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> Your Mother Madam.                             
+</dialogue><nonSpeech> <font>Pulls</font> Har. <font>She composes her self.</font> </nonSpeech>
+<pagebreak id="48" />
+   <nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Ah my Dear child <font>Harriet</font> .
+   </dialogue><nonSpeech> <font>Busy.</font> </nonSpeech><dialogue> Now is she so pleased with finding her agen
+She cannot chide her.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Come away!
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> 'Tis now but high Mail Madam, the most entertaining 
+Time of all the Evening.
+   </dialogue><nonSpeech> <font>Har.</font> </nonSpeech><dialogue> I would fain see that <font>Dorimant</font> Mother, you so 
+Cry out of, for a monster, he's in the <font>Mail</font> 
+I hear.
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Come away then! the plague is here and you
+Should dread the infection.
+   </dialogue><nonSpeech> <font>Y. Bell.</font> </nonSpeech><dialogue> You may be misinform'd of the gentleman?
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Oh no! I hope you do not know him. 
+He is the Prince of all the Devils in the Town,
+Delights in nothing but in Rapes and Riots.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> If you did but hear him speak Madam!
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Oh! he has a Tongue they say would tempt the
+Angels to a second fall.
+
+</dialogue><nonSpeech> <font>Enter Sir</font> Fopling <font>with his Equipage, six 
+Footmen, and a Page</font> .</nonSpeech>
+
+   <nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Hey, Champaine, Norman, La Rose, la Fleur,
+La Tour, La Verdure. Dorimant --
+   </dialogue><nonSpeech> <font>L. Wood.</font> </nonSpeech><dialogue> Here, here he is among this Rout, he 
+Names him; come away <font>Harriet</font> , come away.
+</dialogue><nonSpeech> <font>Ex.</font> L. Wood. Harr. Busy <font>and</font> Y. Bell.</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> This fool's coming has spoil'd all, she's gone, 
+But she has left a pleasing Image of her self 
+Behind that wanders in my Soul -- 
+It must not settle there.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> What resverie is this! speak man.
+   </dialogue><nonSpeech>Dor.</nonSpeech><dialogue> <font>Snatcht from my self how far behind
+Already I behold the shore!</font>
+
+</dialogue><nonSpeech> <font>Enter</font> Medley.</nonSpeech>
+
+   <nonSpeech> <font>Med.</font> </nonSpeech><dialogue> <font>Dorimant</font> , a discovery! I met with <font>Bellair</font> .
+<pagebreak id="49" />
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You can tell me no news Sir, I know all.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> How do you like the Daughter?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You never came so near truth in your life, 
+As you did in her description.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What think you of the Mother?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> What ever I think of her, she thinks 
+Very well of me I find.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Did she know you?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> She did not, whether she does now or no I know not. 
+Here was a pleasant Scene towards, when in came Sir
+<font>Fopling</font> , mustering up his Equipage, and at the 
+Latter end nam'd me, and frighted her away.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> <font>Loveit</font> and <font>Bellinda</font> are not far off, I saw 
+'em 
+Alight at St. <font>James's</font> .
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Sir <font>Fopling</font> hark you, a word or two,           
+</dialogue><nonSpeech> <font>Whispers.</font> </nonSpeech><dialogue>
+Look you do not want assurance.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> I never do on these occassions.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> Walk on, we must not be seen together, make your
+Advantage of what I have told you, the next turn 
+You will meet the Lady.
+   </dialogue><nonSpeech>Sir <font>Fop.</font> </nonSpeech><dialogue> Hey -- Follow me all.                           
+</dialogue><nonSpeech> <font>Ex. Sir</font> Fopl. <font>&amp; his Equipage</font> .</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> <font>Medly</font> , you shall see good sport anon between
+<font>Loveit</font> and this <font>Fopling</font> .
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> I thought there was something toward by that       
+whisper.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> You know a worthy principle of hers?
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Not to be so much as civil to a man who speaks to   
+her 
+In the presence of him she professes to love.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I have encourag'd <font>Fopling</font> to talk to her to    
+night.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Now you are here she will go nigh to beat him.
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> In the humor she's in, her love will make her do   
+some 
+Very extravagant thing doubtless.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> What was <font>Bellindas</font> business with you at my
+Lady <font>Townleys</font> ?
+   </dialogue><nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> To get me to meet <font>Loveit</font> here in order to an 
+<foreign>Eclercisme`nt</foreign> ; I made some difficulty of it, and have prepar'd 
+This rancounter to make good my Jealousy.
+   </dialogue><nonSpeech> <font>Med.</font> </nonSpeech><dialogue> Here they come!                                    
+</dialogue><nonSpeech> <font>Enter</font> Lov. Bell. <font>and</font> Pert.</nonSpeech>
+   <nonSpeech> <font>Dor.</font> </nonSpeech><dialogue> I'le meet her and provoke her with a deal of dumb
+<pagebreak id="50" />
+Civility in passing by, then turn short and be behind 
+Her, when Sir <font>Fopling</font> sets upon her -- 
+<font>See how unregarded now
+That piece of Beauty passes</font> -- </dialogue><nonSpeech> <font>Ex.</font> Dor. <font>and</font> Med.</nonSpeech>
+   <nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> How wonderful respectfully he bow'd!
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> He's alwayes over-mannerly when 
+He has done a mischief.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Methoughts indeed at the same time he had a 
+Strange despising Countenance.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> The unlucky look he thinks becomes him.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I was afraid you would have spoke to him my Dear.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I would have di'd first; he shall no more find me
+The loving fool he has done.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> You love him still!
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Pert.</font> </nonSpeech><dialogue> I wish you did not.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I do not, and I will have you think so: What made
+You hale me to this odious place <font>Bellinda</font> ?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I hate to be hulch'd up in a Coach; 
+Walking is much better.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> Would we could meet Sir <font>Fopling</font> now.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Lord! would you not avoid him?
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> I would make him all the advances that may be.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> That would confirm <font>Dorimants</font> suspicion, my    
+Dear.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> He is not jealous; but I will make him so, and be
+Reveng'd a way he little thinks on.
+   </dialogue><nonSpeech> <font>Bellin.</font> </nonSpeech> <nonSpeech> <font>aside.</font> </nonSpeech><dialogue> If she should make him         
+jealous, that may make
+Him fond of her again: I must disswade her from it. Lord! 
+My Dear, this will certainly make him hate you.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> 'Twill make him uneasie though he does not care
+For me; I know the effects of jealousie on men of his 
+Proud temper.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Tis a fantastick remedy, its operations are 
+Dangerous and uncertain.
+   </dialogue><nonSpeech> <font>Loveit.</font> </nonSpeech><dialogue> 'Tis the strongest Cordial we can give to dying 
+Love, 
+It often brings it back when there's no sign of life remaining: 
+But I design not so much the reviving his, as my revenge.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

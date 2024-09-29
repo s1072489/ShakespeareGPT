@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2WSOUTH">
+  <dialogueHeader>
+
+    <filename>D2WSOUTH</filename>
+
+    <identifier>2 WITNESS D D2WSOUTH</identifier>
+
+    <title>SOUTHAMPTON</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1600/1873</speechPubDate>
+
+    <contemporaneity sourceDate="NON-CONTEMP">Source text was published more than 40 years after the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="EDITOR">GROSART, ALEXANDER B.</attribution>
+      <frontMatter>THE ARRAIGNMENT OF THE EARLES OF ESSEX AND SOUTHAMPTON IN
+WESTMINSTER HALL ON THURSDAYE Y=E= XIX. OF FEBRUARIE 1600.
+IN: THE DR. FARMER CHETHAM MS. BEING A COMMONPLACE-BOOK IN THE 
+CHETHAM LIBRARY, MANCHESTER. TEMP. ELIZABETH, JAMES I. AND CHARLES I.
+CONSISTING OF VERSE AND PROSE, MOSTLY HITHERTO UNPUBLISHED. 
+EDITED, WITH INTRODUCTION AND NOTES, BY THE REV. ALEXANDER B. GROSART,
+ST. GEORGE'S, BLACKBURN, LANCASHIRE.
+PART I.
+REMAINS HISTORICAL &amp; LITERARY CONNECTED WITH THE PALATINE COUNTIES OF
+LANCASTER AND CHESTER. PUBLISHED BY THE CHETHAM SOCIETY. VOL. LXXXIX.
+PRINTED FOR THE CHETHAM SOCIETY.
+M.DCCC.LXXIII.
+PP. 2.18 - 24.4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">DIRECT SPEECH IN THE COURTROOM NOT ALWAYS DISTINGUISHABLE FROM 
+INDIRECT SPEECH AND OTHER LEVELS OF DISCOURSE.</comment>
+
+<pagebreak id="2" />
+<omission type="line" /> </dialogue><nonSpeech>A
+Question was moved to the Judge by the E. of Essex, whether
+(as in lyke cases as it was allowed by men of private condicon)
+they might challenge any of there Peeres, affirminge y=t= though
+for his p'te he were verie indifferent, yet p'haps the E. that stoode
+by him, might make iuste challenge to some of them. The
+Judges said directlie y=t= the lawe did allowe them noe challenge
+of their Peeres. The Judges that satt were the Lo. Cheife
+Justice of England, the Cheife Justice of the Com~on Plees, the Lo.
+cheife Barron, Justice Gawdye, Justice Ffenner, Justice Walmysley,
+Baron Clearke and Justice Kyngesmyle: Allso 2 Sergeantes,
+M=r= Heale and M=r= Harris. The Queene's Counsell were M=r=
+Sergeant Yelverton, M=r= Cooke, Attorney generall, M=r= fflemynge
+sollicito=r= and M=r= Bacon: Then said the Clerke of the Crowne,</nonSpeech><dialogue>
+Robte E. of Essex, hold vp thy hande, </dialogue><nonSpeech>w=ch= he did of a greate
+heighte, sayinge he had done it to better p=r='pose: likewise the
+E. of South'ton held vp his (so did they) both times, beinge
+joyntlie indighted by 2 severall Endightmt=es=: The cheife pointes
+<pagebreak id="3" />
+were, the rebellinge in Essex house, the sekinge to deprive her
+ma=tie= of lyfe and gou'ment, to sett the Crowne vppon his owne
+heade, the Consultacon and resolucon to goe to White hall to
+su<emendation>r</emendation>pprize her ma=tie=; the imprisoninge the Lo. of the Counsell  
+and
+others sent from her Ma=tie= to disswade theire traytore purposs,
+the p'swadinge the Londoners to ioyne w=th= them and the killinge
+the Queene's subiectes. Beinge demaunded guyltie or not guilty
+they both answered not guyltie and for tryall put themselves
+vpon god and there peeres:</nonSpeech><dialogue> I have </dialogue><nonSpeech> (quoth the E. of Essex) </nonSpeech><dialogue> a
+true harte to her Ma=tie= and my countrye and have done nothinge
+but that w=ch= by the Lawe of nature and the necessitie of my
+case I was inforced vnto; </dialogue><nonSpeech>Then the Lo. Steward gave the prisoners
+to vnderstand that howsoever theire offences were notorious, yet
+her ma=tie= was contented to allow them a lawfull and an
+honorable tryall: and libertie to speake for themselves. Th'earle of
+Essex while the Enditem=tes= were readinge smiled often and lifted
+vp his eyes to heavne and after they were redd p'tested him selfe
+a trew harted subiect to her ma=tie= and called god to witnes before
+Whome (he said) he looked shortelie to appeare. Then M=r= Seriant
+Yellverton began to the Lo. Steward (givinge him the tytle of
+his grace) to open the matter, makinge firste repeticon of the
+substance of th'enditem=tes=: Then vrged the pointes of 
+imprisoninge the Lordes at Essex house in w=ch= doinge y=t= appeared 
+they
+neither respected the Clemencie of her ma=tie= that sente them,
+the p'sonns of those that came, nor theire Errand, w=ch= was to
+vnderstand theire greifes and to make sinceare report of them to
+her ma=tie= and to admonishe the dissolvinge of the vnrulye 
+companye there Congregated: All w=ch= notwithstandinge the<emendation>y</emendation>
+persisted in theire Rebellious purposes And went into London,
+leavinge the Lo. in the custodye of S=r= John Davies, ffraunces
+Tresham &amp; Owen Sallisburie, w=th= charge that if either any shold
+offer to enlarge them or that the E. of Essex shold miscarrie in
+the Cittye then to kyll them. When they came into the Cittye
+theye there soughte helpe to attempte the Courte and failinge
+there retorned againe to Essex house, there fortifyinge againste
+<pagebreak id="4" />
+her ma=te's= knowne officers of her Armye, wherein he affirmed
+they comitted manifeste treason:</nonSpeech><dialogue> ffor </dialogue><nonSpeech> (sayth he) </nonSpeech><dialogue> yf a man 
+intend the deathe of a kinge beinge the heade of the comon
+welthe w=t=hout w=ch= the members cannot live, it is Treason: they
+not onlye intended but allso acted so far forthe as was in there
+powre vz: By assemblinge a powre and encitinge the Subiectes
+to Rebell, </dialogue><nonSpeech>he compared this facte of the E. of Essex to that of
+CATALINE in Roome. CATALINE tooke the most sedicous, the
+Earle tooke Atheist, Papiste, men reconcyled to the Pope, men
+discontented and of dissolute behavio=r=: the difference was onelye
+this that CATALYNE was followed of the Romaines, but noe
+Londoners followed the Earle: Then he obiected to the Earle
+the Queene's favo=r= towardes him; noe man advanced younger to
+place in Counsell nor to more dignities, all w=ch= the Earle abused,
+<emendation>and did</emendation> make his cheife companions of sword men, and affectinge  
+popularitie declared the infacietie of Ambition, w=ch= never cesseth
+till it attayne as highe as it can see, Comparinge it to the 
+Crocodyle that is said to growe as longe as he liveth: And these
+treasons beinge apparent and knowne to manie of the Peeres, havinge
+bene some of them her Ma=te's= Ministers for suppressinge the
+Rebellion, he wondred that the Earles wold pleade not guiltie.
+Besides theire treasons howsoever sodenlye attempted, were not
+so soddainly contrived, But were of a more auncient date as
+shold be p'ved. Then M=r= Attornye began to this effect, That
+for the better informacon of the Lordes, he wold deliver vnto
+them FITZHERBARTE'S reporte, w=ch= was that the verie thoughte
+was Treason, but bicause the thoughtes were onely knowne to
+god, therefore it is not p'mitted to be adiuged, till they appeare
+by some discou'ie either by word, wrytinge or acte, And further
+declared that whosoever goeth aboute into open Rebellion, is (in
+the construction of the Lawe) guyltie of determing the deathe
+and destruction of the Prince.</nonSpeech><dialogue> Th'earle </dialogue><nonSpeech> (sayth he) </nonSpeech><dialogue> hathe done
+both, for he hath raised a power in a setled govermen=t= w=ch= the
+lawe intendes to be a purpose to destroye the kinge, for he y=t=
+abusethe the gou'm=t= hates the Governor. The contynuinge
+<pagebreak id="5" />
+of his power assembled at Essex house being comaunded to
+disperse them, is playne Treason. Agayne </dialogue><nonSpeech> (saith M=r= Attorney) </nonSpeech><dialogue> 
+to
+rayse force to take a Towne, forte or place of defence is Treason:
+the E. of Essex raised a force not to take a small Towne but the
+verie Cittye of London: not a slend=er= fforte but y=e= Towre, nor
+there to rest, but to attempt the sacred Pallace of the Prince,
+killinge her subiectes after a most disloyall mane=r=. What shold
+I say more, <foreign>Res ipsa loquitur</foreign> . But what answeres my Lo. of
+Essex? that the Lawe of nature comaunndes and he was bound
+to his owne defence. But I will shewe that he transgressed the
+Lawes both of God &amp; Nature and of reacon's. Consider first
+the Quallitie of the offence, 2 the manner 3 the p'sons by whome
+4 the p'sons against whome it was comitted, and they shall be
+lefte w=t=hout excuse. And ffirst let me tell them, that Treason for
+satisfacon of a passion in Nature is noe excuse to Treason. All
+offences gainst God and nature, are <foreign>peccata clemantia peccata
+Sanguinis</foreign> : Rebellion worst of all confoundes all Nature, God
+and reacons. This Treason is for y=e= quallitie p'meditate and
+aymed at the heade, even of her Ma=tie=: ffor the manno=r= howe 
+soddaine soev=er= yet it is highe Treason: ffor soddaine Treason is
+not les daungero=s= then y=t= w=ch= is of longer growth. But my Lo.
+yo=r= offence was past an imaginerie offence, it was <foreign>Armata
+iniquitas</foreign> ; neither was it of that soddaines as yo=u= wold have it
+beleeved, ffor yo=u= wore a black bag about yo=r= necke conteininge a
+Catologue of the names of such as were mene of yo=r= number: a black
+bagg was meetest for such a black cause: But my Lo. there lyes
+a greate burthen vppon yo=r= Lo=p= for drawinge so many worthye
+gent. into so desp'ate and detestable a busines. ffor the p'sons
+by whome thes Treasons were comitted, they received there
+first breath vnd=er= her mat=ie's= gou'nm=t=: Th'earldome of Essex
+given to his father by her ma=tie=; howe she hath loaden this man
+w=th= hono=ers=, offices and dignities, the world can testifie       
+</dialogue><nonSpeech> (there he
+recyted all his offices):</nonSpeech><dialogue> above all her ma=tie's= favo=res= made   
+him
+greate, neither was it fruitles to his estate: for I am able to
+p've and make good accompte that her ma=te's= guiftes to him
+<pagebreak id="6" />
+amounted to 300 thousand poundes. Allso the Earle of South:
+received divers favo=res= from her ma=tie=, thoughe for his
+misdemeano=res= it pleaseth her to thinke worse of him. The p'son
+against whome thes treasons were intended was against her sacred
+ma=tie=, against the Relligion w=ch= her highenes sincerely p'fesseth
+at home and p'tecteth in other provinces: and her exercise of
+Justice comixed w=th= admirable mercy, w=ch= is aparant in this, that
+in the examinacon of all the p'sons imp'soned for this facte, none
+were rackte nor offer of fortune made vnto them. And an other
+thinge materiall to be noted comes into my mynde, no two of
+the examinantes spake togither &amp; yet they all agree in y=e= 
+substance of theire tales. </dialogue><nonSpeech>Then he declared the lenitye of the first
+p'ceedinge vz: that</nonSpeech><dialogue> the Lo=es= of the Counsell put vnto them 2
+Counsello=res= of State to summon him; the reason because there
+was a Roytous company assembled, The intent to admonish him,
+he cam<emendation>e</emendation> not, was forborne till the next day y=t= a guilty        
+conscience
+counselled him to put himselfe into strengthe: ffor there were
+forces expected from Wales, y=e= discou'ie whereof th'earle nowe
+doubted &amp; Consultacon was had amongst them 3 monthes before
+whether was best, first to surprize the Tower and Court, or to
+p've there freindes in London. Allso at Drewrie house, it was
+resolved vppon 4 daies before theie brake owte into open rebellion
+y=t= to goe to y=e= Courte was y=e= best: then was allotted to eurie 
+one his severall place of charge, S=r= Christopher Blunt, a reconcyled
+Papist, to haue charge of the vtter gate, S=r= John Davies the Hall,
+a Papist likewise &amp; S=r= Charles Davers the presence, a secret
+Papist (as is confessed), Th'erle of Essex the privye Chamber:
+Should the Court have bene thus guarded, oh (saith) S=r= 
+Christopher Blunt, what fearefull humo=er= shall we fynde them in at
+Courte when we surprize them. Well what shold be the end of
+y=e= surprize? forsoothe to call a p'liament. A bloody parliam=t=
+wold that haue bene when yo=r= Lo=p= that nowe standeth all in
+black, shold haue worne a bloody Robe. But my hope is y=t= he
+shalbe Robte the laste Earle of his house that wold have bene
+Robte the first Kinge of this land. Well what did he? he
+<pagebreak id="7" />
+assembles a greate number of Barons, Earles and gent. of
+Quallitie, yet her ma=tie= held gracous and sent vnto him favo=r=    
+vz. the
+Lo. Keep: th'earle of Worcester, the Comptroller and the Lo.
+Cheife Justice, two of them of his owne blood, th'other, men that
+never malliced him, as himselfe will (I thinke) confess. Thes
+charged him vpon his alledgiaunce, to lay downe his Armes and
+to disolve his troupe. Nowe marke the fury of a rebellious
+company, They cried owte kill them, kill them, we shall have the less
+to doe, they but abuse and goe aboute to betraye yo=u=: here you
+see Treason in the house: before he went owte he was a Trayto=r=:
+when he came into the Citty whatt did he? even followed the
+rules of Treason: Treason durst never looke directlye vppon a
+Prince, for the Ma=tie= of godes annoynted doth ever cast forth such
+beames as daunteth the eye of disloyaltie and therefore he
+p'tendes a cause of stirringe the State, Or (saith he) at firste
+entraunce I shold haue bene murthered by my Lo. Cobham and
+S=r= Walter Raleighe but when he was gott w=t=hin them &amp; began to
+speake nearer to them, then an other cause was invented, vz. y=t=
+the Kingdome of England sholde be soulde to the INFANTA of 
+Spayne: In the end fyndinge in London truer hartes then he
+expected, he resolved vppon his retorne, what to doe? to burne
+some pap'r least they shold hurte his freindes: </dialogue><nonSpeech>Then M=r=
+Atto=r=ney besoughte the Lo. Howard y=t= certaine deposicons might be
+redd for proofe of thes matters. Th'earle replied y=t= there was
+oddes betweene the memorie and Oratorie of the QUEENE'S
+con~sell and theires that were prisoners, and that it belonged to
+the Q. counsell to lay all possible as'p'sions vppon those at that
+Barr. And desired the Peeres to consider of theire woordes
+accordinglie. Then was p'duced the examinacon of one
+Witherington a borderer of Wales, that the Saterdaie before he tould
+th'erle of Rutland that he wondred at the Course he held w=th= y=e=
+State. Th'erle of Essex tooke some excepcon to him in respecte
+he was not p'sent, but (as he said) p'tested the sinceritye of his
+Relligion: And for the threates vsed to the Lordes, he never
+hard them, the house beinge so full of noyse that one could not
+<pagebreak id="8" />
+heare an other speake: some cryed one thinge and some another,
+as everie p'ticular humour ledd them. But for his owne p'te he
+never ment any thinge towarde them, but y=t= w=ch= was loyall,
+shuitable and affectionate: ffor S=r= John Davyes he p'tested
+deeply he never knewe him not to be a papist, he came orderly
+to prayers in his house, neither observed he in him any difference
+of his dress. The charge of his house when he wente owte he
+lefte w=th= S=r= Gellie Marwick, who had once beene his Steward and
+nowe was his ffreind &amp; that w=ch= he did he was forced vnto in his
+owne iuste defence, for he understoode, not by a naked surmise
+but by sound adu'tisem=t= that his private Enemyes had levied force
+and ment to surprize him in his house: he allso p'tested deeplie
+the sincerity of his harte towarde her Ma=tie= and his Countrye and
+wished that all disloyall hartes mighte haue the reward dew vnto
+them. Then the Lo. Admirall desired the Lo. Cheife Justice to
+declare his knowledge of what passed in Essex house at his beinge
+there w=th= the rest: whereuppon he was sworne and then spake to
+this effecte, That they were sent to them to drawe them to a
+better course and to informe trulye at Courte, the matters
+whereat they tooke offence. They required of th'erle of Essex
+to know his greifes, w=th= p'mise to reporte them sincearlie.</nonSpeech><dialogue> My
+Lo. </dialogue><nonSpeech> (sayth he) </nonSpeech><dialogue> began to tell us that one was touchinge th'erle 
+of
+South: in whiche instant one at my back, cryed owte kyll them,
+kill them: he said he knewe him not yf he sawe him agayne, but
+he was suer he had on a white Sattin doblett. </dialogue><nonSpeech>That they
+desired private conference, where to th'erle answered that he
+wold come to them anon. But at the dore were set
+Musketeres to guarde the place, and none was suffered to goe owte from
+them to reporte in what plight they were. The E. of Essex
+replyed againe that he was far from any daungerous thought
+towardes his Lo=p= or any of the rest w=th= him, whome he had
+before tyme esteemed as his speciall freindes. he sawe indeede
+that the comaundm=t= of Allegiaunce could not p'tecte the E. of
+South: from the late iniurye done him by my Lo. Greye, and
+therefore resolved to stand vppon his guard, havinge y=e= same       
+adu'tisem=t=
+<pagebreak id="9" />
+on the Sat=er=day night y=t= his private enemyes were in armes
+against him &amp; the same seconded on the Sondaye morninge by
+p'sons worthye the beleevinge,</nonSpeech><dialogue> but </dialogue><nonSpeech> (quoth he) </nonSpeech><dialogue> for any intent 
+of
+treason towarde her Ma=tie= or the State, I am cleare and I can
+avowe asmuch for the rest there p'sent. But my Lo. Steward
+and the rest of yo=r= Lop=s=, I wold not that yo=u= shold mistake    
+me in
+this, as if I went aboute to saue my Lyfe: no, I despise it and am
+at peace w=th= god and have forgott the world, beinge more
+desirous to dye then to live. That w=ch= I speake is rather in       
+satisfacon
+of this nobleman that standeth by me and the rest that are
+engaged w=th= me, whose hartes are purely affected and whose
+bodyes are able to serve theire sou'aigne and their countrye.
+But to confirme in me the doubte of beinge s=r'=prised in my house,
+S=r= Walter Raleighe pleaded S=r= fferdinando Gorges to leave vs or
+he was lost, tould him that he came owte of a sinkinge ship.
+And the adviser on Saterday night and Sunday morninge, came
+not from light and vayne reportes but from an honorable
+adu'tisem=t=. But my Lordes </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> I haue had very uniust
+courses vsed against me, Papists soughte owte to accuse, as Tho.
+Blunt, and one Sudall a Preiste, Allsoe Bales a Scrivener
+confessed to me and others that he counterfeited my hand twelve
+tymes. What measure might I then expect from such begininge?
+   </dialogue><nonSpeech>To that M=r= Attorney spake that it was true y=t= Bales was hired
+therevnto by a s'vant of th'earles, one John Danyell to th'intent
+that if afterwardes the E. owne hand were p'duced to accuse him
+he mighte have somewhat to allege for him selfe. Heere the Lo.
+Greye stoode vp and p'tested he did not nowe mallice the E. of
+South: ffor he delighted not to presse an abiecte ffortune. That
+w=ch= he offered him in the sheete was in respect of a newe iniurye</nonSpeech><dialogue>
+w=ch= </dialogue><nonSpeech> (q=th= the E. of South:) </nonSpeech><dialogue> was never ment yo=u=. </dialogue><nonSpeech>The Lo. 
+Steward
+comaunded an ende of that speeche, tendinge but to private
+expostulacon. Then was redd the deposicon of S=r= fferdinando
+Gorges to this effect, viz. that he received a l're from the E. in
+January last, either to come vp to London or to meete in some
+place the 2 of ffebruary. At his cominge the E. told him he
+<pagebreak id="10" />
+stoode vppon his guard, that he ment to trust no longer, but he
+resolved to defend himself from restrainte. Tould him further
+that he was confident in London, and liked not that the Lordes
+shold be his int=r=cess=rs=, allsoe that he resolved to call a       
+Parliam=t=
+havinge once gayned secure access at Courte. That he had a
+stronge p'ty in Wales, but first ment to try London. That he the
+sayd S=r= ffer.<emendation>dinando Gorges</emendation> came from his charge at Plymouth
+w=t=hout leave, w=ch= beinge knowne to S=r= Walter Raleighe his      
+kinsman
+and frend, S=r= Walt=er= sent for him to come speake w=th= him: they
+appointed to meete vppon the water on Sunday morninge, the
+verie day that the E. of Essex began to stirr. And there
+meetinge, S=r= Wa. Ra: told him that he wished him to dep'te the
+towne p'sently, or otherwise he wold be layde in the fleete,
+whereto he replyed, tush S=r= Wa. this is not a tyme of goinge to the
+fleete, gett yo=u= backe to the Courte and that w=th= speede, for    
+yo=u=
+are lyke to haue a bloody day of y=t=, wherevpon S=r= Walter againe
+advised him to come forth of that company. And then S=r= fferd.
+Gorges shoved of the Boate wherein S=r= Wa. Ra: was and bad him
+hye him there, w=ch= he did p'ceavinge a boate to come of<emendation>f</emendation> at
+Essex house stayres, wherein were 3 or 4 of the E. of Essex
+s'vantes, with peeres who had in charge either to take or kill S=r=
+Wa. Ra: vppon the water. ffor the first p'te of theire meetinge
+vppon the water S=r= Wa. Ra: was deposed in Courte to the same 
+effecte. The E. of Essex desired to heare S=r= fferd. Gorges face to
+face, wherevppon he was sent for, and there delivered as much,
+addinge further that he desired the E. of Essex at his retorne, to
+goe and submitt himself; whereat the E. excepted w=th= this
+speeche or to the like effecte.</nonSpeech><dialogue> S=r= fferd. Gorges I wish yo=u=    
+shold
+speake any thinge that shold do yo=r= self good, but remember
+that yo=u= are a gent. and that yo=r= reputacon oughte to be deare
+vnto yo=u=. I pray yo=u= answere, did yo=u= advise me to cease my
+enterprise? My Lo. </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> I thinke I did. Nay </dialogue><nonSpeech> (quoth    
+E.) </nonSpeech><dialogue> it is
+no=w= not tyme to answere vppon thinkinge, did yo=u= indeede so
+counsell me? </dialogue><nonSpeech>he answered</nonSpeech><dialogue> I did. </dialogue><nonSpeech>The E. pausing as it were in a
+wond=er= replyed thus.</nonSpeech><dialogue> Well, let his lyfe and my death witnes
+<pagebreak id="11" />
+howe truely he speakes. </dialogue><nonSpeech>Then was agayne vrged the
+Consultation at Drewery house, at w=ch= was p'sent the E. of South:
+whereto the E. of South: relyed w=th= p'testation of all loyaltie
+in his harte towarde her Ma=tie=. And in that he had offended
+her, he was hartely sory, and did in all humblenes beseeche
+her p'don. But touchinge the consultation at Drewery house,
+many thinges were indeede p'pounded but nothinge resolved,
+all beinge lefte in the ende to the E. of Essex himself.</nonSpeech><dialogue> But
+</dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> put the case as yo=u= wold haue it, that it was     
+advised both
+to attempt the Courte and Towre att once, neither of the two 
+was done: how can it then be made treason? It is true we did
+consult at Drewry house, about securinge the E. of Essex his
+arrest free from impeachm=t= and that for noe other end, but to
+p'strate o=r= selves at her mat=e's= ffeete, humblie submittinge     
+o=r= selves
+to her m=er=cye, and laying forth our greifes to her self, whereof
+we thought she had noe true informacon from others. this was
+the end of o=r= meetinge, and not w=th= any treasonable thought of
+my p'te. I take god to record, and </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> I desire the     
+opinion
+of the Judges, whether one thinge consulted vppon and an other
+executed be Treason, ffor we talkte of goinge to the Courte, the
+Towre allso was talked vppon, but the counsell was reiected,
+and this yo=u= will haue to be treason. ffor my p'te I knewe
+nothinge in the morninge when I came to Essex house of o=r=
+goinge into London. when I was in London I hard not the
+p'clamacon, I was not neare by the lengthe of the streete. Let
+my Lo. Burleigh speake (I knowe him hon=or=able) whether he
+sawe me in London or not. I never drewe my sword all the
+daye. I am charged to carry a pistoll: I had none when I went
+owte. when I came into London I sawe one havinge a pistoll.
+I desired it of him and had it. But it had never a stone nor cold
+it have hurte a flye. At my retorne into Essex house I did there
+what I could to hind=er= the shootinge, and for that ende sent Capt.
+White about the house. ffrom this kinde of behavio=r= can be
+gathered noe thoughtes of Treason, and therefore I beseech yo=u=
+my Lordes, to censure me not accordinge to the letter of the
+<pagebreak id="12" />
+Lawe but as in yo=r= trewe consciences yo=u= are p'swaded of me,
+And in that I was to<emendation>o</emendation> farr carryed w=th= love to my Lo. of Essex
+I confesse to haue offended, that before rehersed beinge the
+onely drift and scope of my purpose in this busines. </dialogue><nonSpeech>Hereto
+M=r= Attorney replyed y=t= it was <foreign>palliata Conclusio</foreign> .</nonSpeech><dialogue> Is this 
+</dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue>
+not Treason to force the Queene in her owne house, to sett
+guardes at her gates in her Chambers and all p'tes of house, to
+thinkent<comment type="editor">?</comment> that havinge her in yo=r= power yo=u= mighte doe what  
+yo=u=
+listed. Good M=r= Attorney </dialogue><nonSpeech> (q=th= the E. of South:) </nonSpeech><dialogue> let, let   
+me aske
+yo=u= what yo=u= thinke in yo=r= conscience, we wold haue done w=th=
+the Queene yf we had gayned the Courte. I p'test vppon my
+soule and conscience </dialogue><nonSpeech> (q=th= M=r= Attorney) </nonSpeech><dialogue> I do beleeve she    
+shold
+not have longe lived after she had bene in yo=r= power. Note but
+the p'sidentes of former ages, how longe lived Rich. the 2. afte=r=
+he was surprised in the same manner. the p=re=tence was alike, for
+removinge of c=er=taine counsellor=es=, but it shortely after cost   
+him his
+lyfe. such is the vnquenchable thirst of Ambition, w=ch= never
+can be satisfied so longe as any greatnes is left vnatchived. but
+know this for certaine, that to make the Courte or Tower a
+defence for private enemyes is playne Treason. </dialogue><nonSpeech>The E. of South:
+replied that the Towre was reiected as a matter ridiculous to be
+thought vppon: neither was it ment to fortifie at courte, but
+onely to cast them selves at her Ma=te's= feete. The Judges were
+required theire sev'rall opinions for the Question before p'pounded
+by the E. of South: who argued it sev'ally, and agreed that it
+was Treason. My Lo. Admyrall desired to be resolved whether
+the instructions for a consultacon to be had at Drewry house
+were under the E. of Essex owne hands: Then was p'duced
+and redd in Courte the examinacon of S=r= Charles Davers to this
+effect, that the Earle of Essex deliberated before Christmas, to
+secure his accesse to her Ma=tie= from possibility of resistance, to
+posses himselfe of the Courte, the p'iect of the Earle of Essex,
+his owne hand, to surprise the Capt. of the guard, the Courte
+beinge taken to send to satisfye the Cittye, to call a p'liam=t=, and
+to bringe his enemyes to an honorable tryall: That he wished
+<pagebreak id="13" />
+the E. to flye w=th= 2 or 3 gent. and for his owne goinge to the
+consultacon at Drewrie house, he was drawne there vnto, by the
+love he bare to the E. of South: to whome he ought his lyfe.
+he confesseth that he advised to seize the halbertes in the Guarde
+Chamber, w=ch= done they shold w=th= ease enoughe posses that place,
+beinge p'swaded to fynde many indifferent havinge bene the E.
+of Essex his s'vantes in tymes past. Then was red the Ex. of S=r=
+Christ. Blunt, to this effect, At the first his wounde hindred him,
+but p'mised that when he was able to speake he wold tell all
+trewlye, And beinge then Ex. before my Lo. Admyrall and M=r=
+Secretarie, he confessed the p'iecte to be as hath bene before
+described. he affirmed that the E. of Essex had a purpose to alter
+the gou'm=t=, and in communicacon w=th= him, the E. said that he
+liked not that any man shold be troubled for Religion, That the
+E. sent Wiseman to his wife w=th= a letter of Complaint into the
+Countrye, requestinge him allso to come to London the xx=th= of
+Januarye accordinge to appointm=t=. The E. of Essex answered,</nonSpeech><dialogue>
+yo=u= p'duce heere Ex. of wittnesses against me, they are in like
+state as I am, they speake like men desirous to live, they testifye 
+against me. What reward doe they hope for? Lyfe. I wish 
+that w=ch= they speake may purchase that vnto them. ffor I never
+ment to Endaunger any of theire lives, howsoever I speede this
+daye. it is to me a thinge indifferent. I am not in Love w=th=
+my Lyfe, nor have bene a longe tyme. I could haue bene
+contented to haue dyed in my house when I was besett: But I
+thancke Allmightie God, that he hath reserved me to this daye's
+tryall: But I was driven to this hazard by those that have the
+Queene's care and doe abuse it, inforcinge againste me many
+vntruthes, w=ch= knowinge I choose rather to hazard her Ma=te's=
+mercy: then to abide the daungerous courses that shold run
+against me. </dialogue><nonSpeech>Beinge demaunded who were those p'sonnes at w=ch=
+he cheiflye aymed, he answered M=r= Secretarie Cecill, the Lo.
+Cobhm~ and S=r= Walt=er= Raleighe, against whome he had iust
+cause of exceptons, as wold haue diverted her Ma=te's= favor from 
+them. ffor the matter of his goinge into London, he knewe not
+<pagebreak id="14" />
+th'int=er=p=r='tacon of the same, but his owne harte he knewe to be
+cleare of the leaste stayne of disloyaltie to his sou'aigne. The
+Lo. Cobhm~ arose and excused himself of any mallice to the E.
+and p'tested to have onely dislyked his ambitious courses, w=ch=
+could not but breede daunger to the State, in w=ch= respect he
+ought to hind=er= there growthe. The Lo. Steward cut of<emendation>f</emendation> his
+speeche, affirmyng that the matter alledged by the E. was
+imp'tinent, and willed them to p'ceede to the Judgm=t= that was
+in hand. The E. of Essex not w=th=standinge replied that in his
+opinyon he was not alone, but he was fortified by the opinion of
+honorable p'sons. Then M=r= Bacon spake to this effect:</nonSpeech><dialogue> I
+expected not </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> that the matter of defence shold have  
+bene
+alledged for excuse, therefore I must allter my speeche from that
+I entended. To Rebell in Defence, is a matter not hard of;
+in case of Murder, defence is a good Plea, but in this case, to
+doe all that was done that daye, and then to goe abowte to
+blamich it, I cannot allowe: I speake not nowe to simple men,
+I speake to them that can drawe p'se owte of the nature of the 
+thinges themselves. It is knowne by bookes, by experience and
+by common talke, that noe Lawfull intendimt=es= are bent
+directlie againste the Prince, but there is a walteringe of gou'm=tes=
+(as the phrase is in Scottland). thes goe noe way but by
+p'ticular Iniuries. My Lo=rs=, I cannot resemble yo=r= p'ceedinges
+more rightlie then to y=t= of Pisistratus in Athens, who launched
+himself to th'intent that by the sighte of bleedinge woundes, the
+people might beleve he was set vppon: Yo=r= Lop. gave owte
+that yo=r= lyfe was soughte by the Lo. Cobham and S=r= Wa. Ra:
+and carried allwayes such a shewe of religion in yo=u= that mens
+eyes were not able throughe suche a myste to behould the
+deceipte. But yo=u= imprisonne the Counsell: what reference
+hath that facte to my Lo. Cobhm~ or the rest. yo=u= alledged the
+matter to have resolved vppon on the soddaine. No, yo=u= weare
+three monthes in deliberacon. My Lo. descend into yo=r= self,
+and strip yo=u= of excuse: the p'ties yo=u= shott att (yf yo=u= could
+haue rightly vnd=er=stood) were yo=r= best ffreindes. </dialogue><nonSpeech>here the E. of
+<pagebreak id="15" />
+Essex interrupted him and sayde, that the speeche of M=r= Bacon,
+gave him occasion to alledge him selfe against him selfe.</nonSpeech><dialogue> ffor
+</dialogue><nonSpeech> (saith he) </nonSpeech><dialogue> M=r= Bacon beinge a daylie Courtier, and havinge    
+accesse
+to her Ma=tie= vnd=er=tooke to goe to the Queene in my behalf, and
+for that ende drue a letter very artificiallye, w=ch= was subscribed
+w=th= my name, allso another letter was drawne, to occasion that
+letter, w=ch= other came from his brother M=r= Anthony Bacon, both
+w=ch= he shold shewe the Queene. Gosnole broughte me both the
+letters, and in my letter he did pleade for me, as feelingly against
+those enemyes and pointed them owt as plainely as was 
+possible. </dialogue><nonSpeech>M=r= Bacon answered that thes digressions were not fitt,
+neither wold be suffered, but that the hono=r= and patience of
+this assemblie was greate: he confessethe <emendation>he</emendation> had spent more
+howeres to make him a good s'vante to her Ma=tie= then ever he
+des'ved. for any thinge conteyned in those letters they wold
+not blushe in the clearest light.</nonSpeech><dialogue> But </dialogue><nonSpeech> (saithe the E.) </nonSpeech><dialogue> lett   
+it be
+indifferently iudged whether I had cause of greife or not, when I
+was informed by those of good Credditt, that an honorable,
+grave, and wise Counsello=r= did with teares lament the co=r=ses they
+were takinge, that besides for that I spake in London, that the
+INFANTA of Spayne was intytled to the succession: I had reason,
+ffor it was tould me that M=r= Secretarye so sayde to one of his
+fellow Counsello=rs=, that the INFANTA'S tytle Compativelie, was
+as good as any other in the succession. Allso I sawe soe many
+oppressions in the State, y=t= I was desirous to sacrifice my selfe in
+the redresse thereof by doinge any thinge that a Loyall subiecte
+mighte to doe them w=th=. </dialogue><nonSpeech>M=r= Secretarye beinge present besought
+the Lo. Steward vppon his knee to give him leave to answere the
+E. of Essex, w=ch= he seemed loathe to doe as not beleevinge what
+the E. had taxed him w=t=hall: and the Peeres made one
+semblance of givinge light credditt thereunto. M=r= Secretarye began
+to this effecte.</nonSpeech><dialogue> My Lo. ffor witt I give yo=u= the p'eminence, yo=u=
+have it aboundantlie. ffor birthe I give yo=u= place. I am not
+noble, yet I am a gent: neither am I a sword man. Yo=u= haue
+therefore the oddes of me. Butt I have inocencye to p'tect me
+<pagebreak id="16" />
+from yo=r= malicious slander, and I stand here in the p'son of an
+honest man: yo=u= there in the p'son of a Trayto=r=. Wherefore I
+do here challenge yo=u= yf yo=u= dare, to name vnto this honorable
+assembley, that Counsell=r= to whome I shold speake those wordes.
+</dialogue><nonSpeech>The E. replyed w=th= a kynde of frowne to be dared, that they all
+knewe he had not named one man, that daye for an other,
+neyther wold he.</nonSpeech><dialogue> Then </dialogue><nonSpeech> (q=th= M=r= Secret:) </nonSpeech><dialogue> it must be        
+beleeved to
+be a ficcon. No </dialogue><nonSpeech> (q=th= the Earle) </nonSpeech><dialogue> it is not, for the noble man 
+that
+standeth by me hard it: and it was told ioyntlie to vs both.
+</dialogue><nonSpeech>Then M=r= Secretary said to the E. of South: in effecte, as
+followeth,</nonSpeech><dialogue> if it be so then, my Lo. I coniure yo=u= by all the love
+and frendshipp that hath bene betwixte vs, and as yo=u= are a
+Christian: by the hono=r= of yo=r= name and howse and whatsoever
+else yo=u= hold honorable, as I p'test I holde yo=u= severed from him
+in impudencye, that yo=u= name here the Counsell=r= to whome I
+shold speake it. </dialogue><nonSpeech>The E. of South: answered, that he referred
+himself to that honorable Courte, whither it were fytt for hym,
+in the case he nowe stoode, to name him.</nonSpeech><dialogue> I refer me </dialogue><nonSpeech> (q=th=      
+he) </nonSpeech><dialogue> to
+yo=r= self S=r=, and if you will say vppon yo=r= hono=r= y=t= it     
+were fitt I
+did name him, I will. I p'test </dialogue><nonSpeech> (q=th= M=r= Secret:) </nonSpeech><dialogue> before you 
+and
+heaven, that yow should <emendation>do</emendation> yo=r= Prince and Countrye a most
+acceptable s'vice, for I were a verie vnworthye man to hold that
+place I doe in the State if I were to be touched in that sorte.
+</dialogue><nonSpeech>Then the Earle of South: named S=r= Willm. Knolles to be
+the Counsello=r= to whome he shold so speake. Then (M=r= Secret:)
+vppon his knee besoughte the Lo. Steward that S=r= Willm
+Knollis might be sent for, w=ch= was graunted. And M=r= Secretarie
+p'ceeded in an open p'testacon, that he never hated the p'son of
+the E. but his ymodderate aspiring. That he had told the
+Queene since my Lo. restreinte at my Lo. Keep=r=, y=t= he hoped y=t=
+this late affliccon wold fitt hym to her Ma=tes= service, and did but
+attend a fitt tyme, to move her Ma=tie= to call him agayne to the 
+Courte. Then the Q. Counsell p'ceeded to the Evidence,
+obiectinge to the E. of Essex his cold hipocrisie, for as much as
+havinge in his house contynuall preachinge, he yet was contented
+<pagebreak id="17" />
+to S=r= Christ. Blunt: to p'mise a tolleracon of Religion. To that
+the E. answered, y't he knewe S=r= Christ. Blunt to be a PAPIST
+and had often sought his con'ion and (q=th= he) </nonSpeech><dialogue> beinge in speeche
+together aboute those matters, oh (q=th= S=r= Chr. Blunt), my Lo. you
+are in passion against those of my p'fession: whereunto I answered,
+did you never knowe y=t= at such tyme as I had power in the
+State, I was willinge noe man shold be trobled for his conscience.
+</dialogue><nonSpeech>the E. of South: besought leave to speake, and spake to this
+effecte.</nonSpeech><dialogue> I was ignorant </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> of the Lawes, therefore   
+mighte
+easely transgress the bondes thereof. The first and onely motive
+that <emendation>led to</emendation> my stirr w=th= my Lo. was my love to my Lord, tyed   
+vnto
+him both by the bondes of Allegiance and his manifold des'tes
+towardes me. In respect whereof I was content to indure w=th=
+him the utmost hazard: for I sawe his case verie desp'ate for
+fav=or= &amp; therefore I consulted w=th= others to steere his passage to
+her Ma=tie=. I p'test before allmightie God for noe other end then
+to p'strate o=r=selves at her ffeete, wherein was never mencon made
+of sheddinge one drop of blood, And if in this my affection, I
+have bene transported beyond the Limittes of the Lawe, and
+that her highenes is displeased therew=th=, I doe in all humblenes
+crave her p'don and mercye, wherein I will never dispaire. I 
+hope her Ma=tie=, beinge Gode's Leivetenante vppon earthe, will
+imytate him in Lookinge to the Earle and not condemne me for
+that, wherein onely through ignoraunce of her Lawes I have
+offended. </dialogue><nonSpeech>heere M=r= Secre: beinge moved w=th= a deepe touche of
+ymputacon layde vppon hym by the Lo. of Essex, humbly desired
+leave to move the Courte, w=ch= graunted, he spake as followeth.</nonSpeech><dialogue>
+S=r= Willm. Knollis </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> is sent for. I knowe not by what 
+messenger, neither whether he will come or not. I therefore
+beseech yo=r= grace y=t= some sure gent. may be sent as hath free
+access to her Ma=te's= p'son, and y=t= may p'sent vnto her my humble
+desire that it wold please her to comaunde him to come, and in
+my opinion this gent. that standes here, M=r= Knyvett, a gent. of
+her Ma=te's= preivy Chamber, were a verie meete man. </dialogue><nonSpeech>The Lo.
+Steward, <emendation>and</emendation> the 7 Peeres consented. then M=r= Secretarie turned.
+<pagebreak id="18" />
+his speeche to M=r= Knyvett to this effecte.</nonSpeech><dialogue> M=r= Knivet goe and
+deliver faithfullie this messuage to her Ma=tie= &amp; I further coniure
+yo=u= as yo=u= are a gent. and do tend=r= yo=r= reputacon, by all    
+o=r= Love
+and by y=e= dutye yo=u= owe to o=r= Sou'aigne and Conterye, that     
+yo=u=
+add this further from me to her Ma=tie=, That if either owt of want 
+of care of me, or content to her self, she shall deny to send him, I
+doe here vowe vppon my salvacon, that I will never s've her as a
+Counsello=r= or Secretarie, but will live and dye her subiect and
+vassaile. I pray you forgett not to deliver it w=th= this p'viso, that
+I will dye her vassayle and subiect. </dialogue><nonSpeech>Then they p'ceeded againe
+to the Evidence. And it was demaunded by M=r= Attorney of
+the Judges to resolve the Courte whether to offer by force to
+remove anye of her Ma=te's= Counsell be Treason or not? And it
+was answered to be treason. Allso, whether for a subiecte to
+make his passage to the presence of his prince by force vppon
+her Courte or Counsell were Treason, or not? It was likewise
+adiudged treason. Then it was vrged by M=r= Attorney, that
+it was playne, that force was vsed, for foure of the Queene's
+subiectes were slayne, allso the attempt of the Courte was
+resolved at Drewry house. Whereto the E. of South: replyed,
+That the resolucon was not testified by S=r= Charles Davers.</nonSpeech><dialogue> No
+</dialogue><nonSpeech> (q=th= M=r= Attorney).</nonSpeech><dialogue> But S=r= John Davis witnesseth a plain
+resolucon, </dialogue><nonSpeech>wherevppon was redd the examinacon of S=r= John Davies, 
+to
+that effect, and in the rest agreeinge w=th= the others. Then the Lo.
+Admirall stoode vp and tooke witnesse of the Lo=res= there present
+that there was noe losse of men till seven of the Clocke, on the
+Sondaye, at w=ch= tyme they vnd=er='stoode at Courte howe thinges    
+passed
+at Essex house, And therefore it was not likelye the E. of Essex
+shold stir vp any such doubte. The E. of Essex w=th= p'testacon
+that not to save his owne lyfe, w=ch= he cared not for, but to
+deliver a trouth, for theire sakes that were ingaged w=th= him,
+Affirmed againe that he was twice informed of a force levied,
+and for the matter of force obiected in killinge the Q=ues= subiectes,
+he p'tested it was much against his mynde. And that the bloode
+of his Count=er=ye men was verie deare vnto him.</nonSpeech><dialogue> Neither </dialogue><nonSpeech> (sayd
+<pagebreak id="19" />
+he) </nonSpeech><dialogue> did I ever drawe my sworde, till I was charged at Ludgate,
+where I was shott twice in the hatt. I was told my Lo. of
+Cumberland was there. I desired to speake w=th= him and to
+make my self be vnd=er='stoode of him. And for that end willed
+the Company that was w=th= me to stay. </dialogue><nonSpeech>Then was S=r= John
+Luson deposed, to whome was comitted the charge of Ludgate,
+that no messuage came to him from the E. after the first shott,
+w=th= many other circumstances of the E. behavio=r=, of the killinge
+of the waytes there &amp;=c=. In this meane while S=r= W=m= Knollis was
+come. And there in open courte did release M=r= Secretarye of
+the speeches, and to put the matter quite owte of doubte, he said
+that there was a sedicous booke sett out, vnder the name of one
+Dallman, w=ch= very corruptly disputed the tytle of the succession,
+derivinge it as Lawfull vppon the INFANTA, as any other.
+And M=r= Secretarye and he beinge in talke aboute that booke,
+M=r= Secret: spake to this effecte,</nonSpeech><dialogue> Is it not a straunge impudency
+in that Dallman to give equall righte in the succession of 
+England, to the Infanta as to any other. herevppon </dialogue><nonSpeech> (q=th= M=r=
+Comptroller) </nonSpeech><dialogue> was grownded the sclaunder of M=r= Secretarye,
+whereof he is as cleare as any man here p'sent. </dialogue><nonSpeech>The Earle of
+Essex replied, that it was tould them in an other sence.</nonSpeech><dialogue> noe my
+Lo. </dialogue><nonSpeech> (q=th= M=r= Secretarye) </nonSpeech><dialogue> yo=r= Lo. owt of yo=r= mallice to  
+me desires
+to make me odious, and of yo=r= mallice haue noe other ground,
+then the breath betwene vs of the peace w=th= Spayne, w=ch= I
+labored for the good and quyett of my Countrye, as for my
+affection to advaunce a Spanyshe tytle to England, I am so far
+from y=t=, that I hate to think of it. And I pray god to consume
+me where I stande, If I doe not hate the Spanyard as much as
+any man lyvinge. But w=th= yo=u= it hath ever bene a MAXIME, to
+pr'fer warr before peace, in respecte of the consequence to yo=r=
+followers, and dependers. </dialogue><nonSpeech>Divers other speeches passed betweene
+them, w=ch= I remember not. Then they p'ceeded agayne to the 
+matter, And there were red the Examinacons of the E. of
+Rutland, Lo. Cromwell and Lo. Sandes. The E. of Rutlandes was
+to this effecte That he came to Essex house one the Sonday
+<pagebreak id="20" />
+morninge and it was then told him that the E. of Essex lyfe was
+soughte by the Lo. Cobh'm and S=r= Wa. Ra: that the E. of Essex
+told him that the Cittye stoode for hym, and that Sheriffe
+Smithe had p'mised to rayse him as many men as he could.
+That in London the E. of Essex made a speeche to the 
+Townesmen, and in the end thereof told them,  that they shold arme
+them, for that the Kingdome was offered to be sold to the
+Infanta. And said, they did him harme in comynge forthe 
+naked. The E. of Essex interrupted the Clerk of the Crowne,
+beseechinge the Peeres, to note the weaknes of the E. of
+Rutlandes tale, who named neither tyme nor place and w=t=hall
+p'tested that he sent for noe man. Then was alledged, that he
+wrought for the E. of Sussex vnder p'tence to come and meete
+w=th= a number of his ffreindes (as the E. himselfe there p'sent
+confessed). The E. of Essex answered, that he had a desire to
+satisfye all the honorable spirittes of England (in w=ch= number he
+tooke his Lo=p=) that the messuage to the Lo. Mayor was either to
+come or to send to Sheriffe Smithe's, into whose handes they
+wold put themselves, to be cutt in peeces, if they shold attempt
+any thinge vnlawfullie.</nonSpeech><dialogue> And make me </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> as wicked as  
+owte
+of any hum=r= of yo=r= harte yo=u= wold make me, yet yo=u= shall not
+make me absurd to goe into the Cittye after such a fashion as
+yo=u= describe yf I had not apprehended an ymminent daunger.
+</dialogue><nonSpeech>Then was farther vrged, that the E. of Rutland had confessed
+that the E. of Essex was spurred forwards by the E. of South:
+(who whispered him in the eare) It was allso obiected to the E.
+of South: by M=r= Attorney that he was a PAPIST: and had had
+conversation w=th= Preistes: whereto the E. of South: answered
+that for the first matter, the E. of Rutland might mistake,
+affirmynge that he onely wished my Lo. of Essex to goe vp into
+a chamber: And for the last it was very uniustly vrged, for he
+tooke vppon his salvacon that he never knewe Preiste, but only
+one Wright, and w=th= hym he never conversed in all his Lyfe, and
+yf it could be otherwise p'ved he desired to dye. The Lo. 
+Cromwell's Ex. was he knewe nothinge tyll Sunday morninge,
+<pagebreak id="21" />
+when seeinge the E. of E. pass by his lodginge in ffleete streete,
+he followed hym into London. he hard the E. of Essex cry for
+all yo=r= good my maisters, that the Realme shold be soldd &amp;=c=.</nonSpeech><dialogue>
+Nay my Lo. </dialogue><nonSpeech> (q=th= M=r= Attorney) </nonSpeech><dialogue> howsoever yo=u= goe aboute to
+cloake matters, and to make a p'tence of an innocente harte,
+these Deposicons of men of yo=r= owne companye admytt noe
+contradiction: And I wond=er= not at yo=r= denyall, for yo=u= will   
+appeare
+to be of all religions, one while Papist, an other while a Puritaine,
+and that but to gayne vnto yo=r= selfe all sortes of people. It will
+allso be p'ved that yo=u= have practized w=th= Tyrone: </dialogue><nonSpeech>To that the
+E. answered he could not p've it: he defyed all the world for y=t=
+matter.</nonSpeech><dialogue> Yes </dialogue><nonSpeech> (q=th= M=r= Attorney) </nonSpeech><dialogue> yo=u= sent Lea to him as   
+he hath
+confessed. </dialogue><nonSpeech>The Earle againe denied it, affirminge that it was far
+from him to trust Lea in such a busines.</nonSpeech><dialogue> yes </dialogue><nonSpeech> (q=th= M=r=        
+Attorney) </nonSpeech><dialogue>
+and it shall appeare, that Lea had direction from you to attempt
+the Queene, for the w=ch= he was executed as a Trayto=r= the other
+daye. </dialogue><nonSpeech>The E. answered that he never sett him a worke, nor
+never heard that he was apprehended till M=r= Warburton told it
+him. And to the former obiection of M=r= Attorneye touchinge
+his relligion, he p'tested that he never was sectarie, and then
+excused himself of havinge delte against the Bishops: havinge
+beene in his younge tyme ledd theretoe by some hott spirittes,
+w=ch= since are growne to a better temper. And for Papistrie, he
+doubted not but all the worlde wold cleare him from that
+ymputacon. The Lo. Sandes his Examinacon was redd to this effecte,
+vz. that he came to Essex house aboute vi. a clocke in the 
+morninge, And went w=th= the E. of Essex to Sheriffe Smithe's house,
+and stayde w=t=houte till he was sent for in by the Earle. where
+the E. told him, he wold go backe to his house, for there was a
+blacke bagg that shold tell noe tayles. wherevppon M=r=
+Attorneye tooke occasion to speake: That yf that black bagge could
+have bene lighte vppon, there wold haue bene found much good
+stuffe.</nonSpeech><dialogue> ffor </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue> Bothe S=r= John Davies and S=r=      
+Charles Davers
+doe depose that yo=u= said vnto them that black bagg could tell
+that yo=u= were betrayed in London. W=ch= allso is witnessed by
+<pagebreak id="22" />
+Bussell, who was very forward w=th= yo=u=. But yo=u= were confident
+in London, havinge beene p'swaded by yo=r= sicophantes that all
+the Cittie was of yo=r= p'te and in yo=r= pride and overweeninge of
+theire p'takinge, yow contemned the Q=ne's= Royall authoritye, her
+herraldes wold not be harkened vnto. </dialogue><nonSpeech>To this the E. of Essex
+replyed, as for Bussell, he was never inward w=th= him. he was
+his servante and wayted one him att his table, and that was all
+the greatnes. And for the herralde, he beleved not that he had
+authoritye to doe that he did, beinge a man of noted dishonestie,
+and was burnt in the hand:</nonSpeech><dialogue> I never </dialogue><nonSpeech> (q=th= the E.) </nonSpeech><dialogue> conferred  
+nor
+attempted any thinge but to th'ende to serve my Countrie and
+sou'aigne, by makinge her Ma=tie= vnd=e='stand vs, w=ch= we cold not
+doe for the potencye of o=r= enemyes, that were aboute her. And
+therefore I do laye a charge vppon yo=u= all my Lo. and those
+that be hearers that notw=t=hstandinge all Eloquence vsed to make
+me seeme a Trayto=r=, a Papiste, a Sectarie and an Atheiste, and
+to haue vsurped the Crowne, yo=u= will yet witnes w=th= me and so I
+doubte not but to manifest, by goinge w=th= a courage and
+cherefully vnto my death, that I dye a good Christian, and never
+soughte to exceede the degree of a subiecte: howsoever I have
+bene delte w=t=hall. I euere soughte to appease all humo=r= of
+revenge, and for confirmacon thereof was resolved to receave the
+Sacram=t= till the attempt vppon the E. of South. I am far from
+Atheisme, and doe desire to dye as a Christian and an Earle,
+that haue faithfullie s'ved my Prince and Countrye, whatsoever
+others have testified, out of the weaknes of theire hartes against
+me, or to seeme to haue said enoughe I desire it may not lye
+heavye vppon me. I never thoughte of a p'liam=t=. </dialogue><nonSpeech>Then M=r=
+Attorney told him that it was not possible but his purpose must
+be to sett the Crowne vppon his owne heade:</nonSpeech><dialogue> ffor </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue>  
+yo=u=
+drewe manye Earles, Barons and gent: of greate houses into the
+busines w=th= yo=u=. howe shall it be though=t= yo=u= could haue
+rewarded them owte of yo=r= maymed estate. </dialogue><nonSpeech>The E. answered</nonSpeech><dialogue>
+noe other waye then vppon o=r= knees to her Ma=tie=. </dialogue><nonSpeech>Then M=r=
+Bacon spake to this effect.</nonSpeech><dialogue> I doubte the varietie of the matter,
+<pagebreak id="23" />
+and digressions haue sev=er='ed the Judgm=t= of the Lo: And
+therefore I hold it necessarie to recyte the Judges opinyons. </dialogue><nonSpeech>That
+done he p'ceeded to this effecte.</nonSpeech><dialogue> Nowe put case </dialogue><nonSpeech> (q=th= he) </nonSpeech><dialogue>   
+the E. 
+of Essex intent were as he wold have it beleeved, to goe as a
+Sup=lt= to her Ma=tie=, yet shall their peticons be armed peticons,  
+w=ch=
+allwayes p'cede losse of libertie to the Prince. Neither is it a
+nyce poynt of Lawe (as my Lo. of South: wold have it beleved)
+that condemnes them of treason. But even Comon sence to
+Consulte to execute and run together in numbers, in these
+doblettes and hose, armed w=th= weapons, what can be the excuse?
+Warned by the Lo. Keep: by a herrald, and yet p'sist, Will any
+simple man take this for les then Treason? </dialogue><nonSpeech>The Earle answered,
+that if he had purposed any thinge againste any other then those
+his private enemyes, he wold not have stirred w=th= so slender a
+Company. Whereto M=r= Bacon answered in this sorte,</nonSpeech><dialogue> it was not
+the company yo=u= carryed w=th= yo=u= that yo=u= trusted vnto but the 
+assistance w=ch= you hoped for in the Cittye. The GUISE thurste
+himselfe into Paris against the Kinge, with onelye a gent., and
+found that helpe there w=ch= yo=u= (thanckes be to God) fayled of
+here. And what followed? The Kinge was put to his 
+Pillgrime's habitt, and in that disguise was forced to escape the    
+furye
+of the Guise: yo=u= came w=th= fayer pr'tence, w=th= all hayle and a
+kisse, to the Cittye, but the ende was treason. And that hath
+bene sufficiently p'ved. </dialogue><nonSpeech>The Earles spake agayne in effect (as
+before) for theire owne defence, willinge a p'formaunce of the
+p'mise made them by the Lo. Admyrall, to have an honorable
+tryall: and civill vsage, in the meane tyme, all w=ch= they
+thanckfully acknowledged to haue bene p'formed. Then the Lo.
+Steward had the Earles to goe togither, and Comaunded the
+Leivetennte of the Tower to w=t=hdrawe his prisoners from the
+Barr. The Peeres went out, into a place p'vided for them, fayre 
+hanged w=th= Tapistrye, in the place where the Courte of
+Chauncerie was keepte. And after some half hower's consultacon
+havinge allso called the Judges into them, to resolve them the
+poyntes of Lawe, they came forth againe, and tooke there places
+<pagebreak id="24" />
+as before. Then were they all called. And then the Lo.
+Steward demaunded of the youngest Lo. first, w=ch= was the Lo.
+Howard of Wallden:</nonSpeech><dialogue> how say yo=u= my Lo. is my Lo. of Essex:
+<comment type="editor">......... Rest of the page blank and other five pages              
+following.</comment> 
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

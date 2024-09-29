@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2MWORKE">
+  <dialogueHeader>
+
+    <filename>D2MWORKE</filename>
+
+    <identifier>2 MISC D2MWORKE</identifier>
+
+    <title>WORKE FOR CVTLERS</title>
+
+    <author>unknown</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1615</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="MISCELLANEOUS">Miscellaneous text types</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>WORKE FOR CVTLERS. OR, A MERRY DIALOGVE BETWEENE SWORD, RAPIER,
+AND DAGGER. 
+ACTED IN A SHEW IN THE FAMOUS VNIUERSITIE OF CAMBRIDGE.
+LONDON 
+PRINTED BY THOMAS CREEDE, FOR RICHARD MEIGHEN AND THOMAS IONES; AND 
+ARE TO BE SOLD AT S. CLEMENTS CHURCH WITHOUT TEMPLE-BARRE. 
+1615. 
+PP. A3R.1 - B4V.18
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="A3R" />
+ <head>WORKE FOR
+CUTLERS. OR, A MERRY DIALOGUE
+BETWEENE
+<font>SWORD, 
+RAPIER,
+AND 
+DAGGER.</font> </head> 
+
+<nonSpeech> <font>Enter Sword.</font> </nonSpeech>
+
+   <nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> 
+
+Nay <font>Rapier</font> , come foorth,
+come forth I say, Ile giue
+thee a crowne, though it
+be but a crackt one: what
+wilt not? art so hard to
+be drawne forth <font>Rapier</font> ?
+<pagebreak id="A3V" />
+</dialogue><nonSpeech> <font>Enter Rapier.</font> </nonSpeech>
+
+   <nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> S'foot thou shalt know that <font>Rapier</font>
+dares enter: nay <font>Backe-Sword</font> .
+
+</dialogue><nonSpeech> <font>Enter Dagger, he holds Rapiers 
+hands behinde him.</font> </nonSpeech>
+
+   <nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Whose this behinde me?
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Tis <font>Dagger</font> sir; what will you
+neuer leaue your quarrelling?
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Well <font>Sword</font> , <font>Dagger</font> hath
+defended you a good many times; but tis no
+matter, another time shall serue: shall I get
+you out <font>Sword</font> alone, that I may haue you
+<font>Single-sword</font> .
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Yes if youle be single <font>Rapier</font> too.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> Nay <font>Sword</font> , put the <font>Case</font> of <font>Rapiers</font>
+aside, that there were two of them, I hope
+you were able to buckle with them.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Ile tell you what, if I goe into the
+Field with him, hang <font>Sword</font> vp if I doe not
+cut <font>Rapiers</font> poynts, and lash him when I haue
+done: nay, you shall finde <font>Sword</font> mettle to
+the very backe: 'sfoot, my teeth be an edge
+at him.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> If you offer but to thrust towards
+<pagebreak id="A4R" />
+him <font>Rapier</font> , Ile strike you downe.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Hang him, I defie him base
+Spaniard.
+   </dialogue><nonSpeech> <font>Rap.</font> </nonSpeech><dialogue> Defie me? sirrha <font>Sword</font> , <font>Rapier</font> spits
+i'thy face: dar'st meete mee i'the fields,
+crauenly Capon?
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Capon?
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I Capon, so I say sir.
+   </dialogue><nonSpeech> <font>Dagg.</font> </nonSpeech><dialogue> Why any man may see that thou
+art well caru'd <font>Sword</font> ; and yet mee thinks
+that <font>Rapier</font> should not speake of that, for it's
+an hundred to one if he be not gilt too.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Well <font>Rapier</font> , if thou goest into
+the fields with me, Ile make a Capon of you
+before I haue done with you, you shall nere
+come home vncut Ile warrant you.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Nay, you shall finde <font>Sword</font> a 
+notable Cutter.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> He a Cutter? alas he nere went
+into the fields yet, but he was soundly hackt
+before he came out
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Nere talke you of hacking, for
+it's a hundred to one if you haue not the
+<font>Foyle-Rapier</font> .
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> 'Sfoot if you be so <font>Short-Sword</font> ,
+<font>Rapier</font> nere feares you: come a long.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Nay nere goe, for if you doe,
+<pagebreak id="A4V" />
+Ile sende one after you, which shall scowre
+you both. The <font>Cutler</font> can doe it. I haue seene
+him handle you both brauely.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> The <font>Cutler</font> , Alas wee are the best
+Friends hee has, and if it were not for vs,
+the <font>Cutler</font> might soone shut vp his shoppe.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Alas <font>Sword</font> , you need not talke
+of his shutting vp of Shoppe, and if it had
+not beene for him, you had broken by this
+time <font>Sword</font> , Nay, nere talke: For you know
+hee can holde your nose to the Grind-stone,
+when hee list.
+   And as for you <font>Rapier</font> , you knowe hee
+brought you vp first, and if you had stayed
+with him still, it might haue bene better for 
+you.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Better for mee? Alas hee knewe
+not how to vse mee.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Hee vsde you too well indeede:
+for when you were with him he furnisht you
+with Siler and euery thing, but now you are
+worne out of all fashion. You are euen like
+a Lapwing, you are no sooner Hatcht
+<font>Rapier</font> , but you runne abroade presently from
+him.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Yet I scorne to runne away from
+him.
+<pagebreak id="B1R" />
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> But it were more wisedome then
+to stand: For the <font>Cutler</font> is a man as well
+Armed as any man I knowe, and has as good
+skill ins weapons.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Ha <font>Sworde</font> , is the winde in that
+Doore? Faith nowe I see which waye you
+stand bent <font>Sworde</font> , you had rather sleepe 
+in a whole skinne, then goe into the Fields
+to trye your selfe.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Syr, <font>Sword</font> has bene proou'd
+before now, and yet heele prooue himselfe
+againe with you, if you dare follow him.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Doe you heare <font>Sworde</font> ? If you
+goe, looke for <font>Dagger</font> at your backs
+presentlie; For I am a Iustice of Peace, and am
+sworne to keepe and defend the Peace.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Syr, wee will fight, and doe you
+take it in <font>Dudgeon</font> <font>Dagger</font> if you please: if
+you once offer to hinder vs, Ile so Pummell
+you <font>Dagger</font> , that you were neuer better
+Pummeld in your life; And howsoeuer,
+I hope theres Lawe against you as well as
+others, and <font>Rapier</font> can put vp a <font>Case</font> against
+you.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Alas I care not if you were both
+Plaintifes against mee, you shall finde
+<font>Dagger</font> your Defendant Ile warrant you:
+<pagebreak id="B1V" />
+I, and if neede bee, I could put vp an Action
+of Batterie against you.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> What talke you of Law? <font>Sword</font>
+scornes to haue any other Law then <font>Martiall</font>
+law, and that vpon you <font>Rapier</font> .
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Away <font>Sworde</font> , the Time was 
+indeed when thou wast a notable 
+Swash-buckler, but now thou art growne olde <font>Sword</font> .
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I, you doe well, to excuse his
+Cowardise.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Why Sir, tis well knowne that
+<font>Sword</font> has flourisht in his dayes.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Flourisht? yfaith Syr I, I haue
+seene <font>Sword</font> hang with nothing but Scarffes
+ere now.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> With Scarffes? with a Halter, if
+he had beene well seru'de, For hees a
+notable Theefe. </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> A Theefe?
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I, a Thiefe.
+Did you nere heare of <font>Cutting-Dicke</font> , this is
+the very same man.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Nay <font>Rapier</font> , nere hit <font>Sword</font> ith
+teeth with that: for you know you were both
+Indited for treason before now, and were in
+danger to be hangd, and drawn too, and had
+escapt well if you had not bene quarterd.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> <comment type="compiler">SPEAKER IDENTIFICATION SUPPLIED HERE IS        
+MISSING IN SOURCE TEXT.</comment> <font>Sword</font> I hope knows how to keep his     
+<font>quarters</font> .
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> You are a craftie <font>Foxe</font> <font>Sword</font> : It
+<pagebreak id="B2R" />
+were well if you knewe howe to keepe your
+friendship too, for Gentlemen and Friendes
+should not fall out.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> <font>Rapier</font> a Gentleman?
+   </dialogue><nonSpeech> <font>Rap.</font> </nonSpeech><dialogue> A Gentleman? and has Armes.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> But mee thinkes <font>Sworde</font> by the very
+sounding of his Name should bee the better 
+Gentleman, and has the better Armes too:
+for if the truth were well knowne, <font>Rapier</font> hath
+but one arme.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> <font>Sword</font> beare Armes? Hees a base
+companion. Alas I haue knowne you beare a 
+Basket <font>Sword</font> .
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> If you looke ith <font>booke of Armorie</font> , Ile
+warrant you, you shall finde <font>Sworde</font> of more
+antiquitie then you <font>Rapier</font> : Hee deriues his
+Pedigree from <font>Morglay, Beuis of 
+South-hamptons sword</font> ; and that from S. <font>George his sword</font> , 
+that killd the Draggon.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I, <font>the draggon in Sussex</font> , the other
+day: But Ile warrant you <font>Rapiers</font> of as good
+a blood as hee for his hart.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> Byth masse, I thinke indeed, you are
+both wel sanguind. Your both of one blood,
+only thers this difference, that <font>sword</font> coms of
+the elder brother, <font>&amp; you Rapier</font> of the yo~ger.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> And oftentimes the younger
+brother prooues the better Souldier.
+<pagebreak id="B2V" />
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Nay, <font>Dagger</font> will defende you
+both for good Souldiers.
+   </dialogue><nonSpeech> <font>Sworde.</font> </nonSpeech><dialogue> <font>Rapier</font> a Souldier? When did
+you ere knowe <font>Rapier</font> fight a Battell?
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Yes <font>Rapier</font> is a Souldier, and a
+Man as well Armed at all poyntes as anie
+one.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> No, no, its <font>Sworde</font> that's the
+notable Souldier; Why, theres none of all you
+Captaines could doe anie thing in Warre
+without him.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I hope <font>Rapier</font> hath not beene at
+Fencing-Schoole all this while for nothing.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Alas there's none <font>Maister of
+Defence</font> but <font>Dagger</font> : But yet if you speake of
+Souldiers, the'rs Bow, Bill, and Gunne, worth
+twenty such as wee are.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Indeed they say that Bow has bin
+an olde Souldier.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Yet hees not fit for a Souldier,
+any man may bende him as hee list.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> And as for Bow-string, I dare
+vndertake to whip him my selfe.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Then let mee alone to tickle <font>Bowes</font>
+ownes nocke yfaith.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> But what say you to <font>Bill</font> ? hees a
+notable sturdy villaine.
+<pagebreak id="B3R" />
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> <font>Bill</font> , Ile pay him soundly, if ere
+I reach him.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Its more then you can doe, Ime
+affraide; For <font>Bill's</font> a Tall-fellow ons hands,
+and will quickly be Wood: and then theres
+<font>Gunne</font> , such another Bouncing-fellow too.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> <font>Gunne</font> , Alas hees No-body: any
+little Boy will make him roare.
+   I haue made him goe off 'oth Fieldes, a
+good many times my selfe.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Well, is <font>Gunne</font> No-bodie? Ime
+sure heel giue some blowes sometimes.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Its' nere but when <font>Powder</font>
+ouercharges him, then indeed heel be somewhat
+hote oth matter.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> I think that <font>Powder</font> is a vile
+bragger, he doth nothing but cracke.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Faith I knowe not what
+Souldier hee is, but they say, Hees an excellent
+pollitician.
+   </dialogue><nonSpeech> <font>Rapier,</font> </nonSpeech><dialogue> Hee a Pollitician?
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Why, hee has an excellent wit?
+   </dialogue><nonSpeech> <font>Sword,</font> </nonSpeech><dialogue> Pish, Its nothing but a flash.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Ime sure I can remember since
+he was a Parlement-man.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Hee a Parlement-man: For what
+Shyre?
+<pagebreak id="B3V" />
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> Nay ber-lady, it was for the whole
+Countrey.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> I wonder they should chuse him:
+Why he does euery thing on the sudden.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> Oh he plottes shrevvdly. If they had
+not look't too it, Hee had vndermined the
+vvhole parlement-house.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> I but hees No-body now-adayes,
+Hees blovvne vp long agoe.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Well, if eyther you, or any body
+else shuld meete with Povvder, yet its a
+hundred to one, if he meete not vvith his match.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Nay, you should let him alone
+<font>Dagger</font> , and you should see that <font>Swords'</font> as
+notable a bragger as Povvder. He thinks hee
+shall nere be matcht too: but hee shall, and
+ouer-matcht too, by <font>Rapier</font> ; I vvarrant him.
+Come <font>Sworde</font> , after your long Parley, Dare
+you goe into the Fieldes?
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Dare I? You shall soone see that:
+Goe, and Ile follovv you.
+   </dialogue><nonSpeech> <font>Dag.</font> </nonSpeech><dialogue> Well saide, desperate <font>Dicke</font> . <font>Sword</font> ,
+You may be asham'd to offer it. You knovve
+you are tvvo-handed-Sworde <comment type="compiler">SOURCE TEXT HAS Sworde IN ITALICS</comment> ,   
+and <font>Rapier</font> has
+but one hand (vnlesse I helpe him) to do any
+good vvithall, and yet youde haue him go
+into the Fieldes vvith you. Come, theres
+neyther of you shall goe. Doe not you knovve
+<pagebreak id="B4R" />
+that Duells are put downe?
+   Youle bee bound to'th Peace euer
+heereafter, if you strike but one stroke. Therefore
+you had best let me decide your controuersie
+for you.
+   </dialogue><nonSpeech> <font>Sword.</font> </nonSpeech><dialogue> Why, you are a backe-Friend to
+vs both <font>Dagger</font> .
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Nay, you knowe Ime equally 
+allyed to you both, and therefore shall proue
+an impartiall Iudge: How say you, will you
+be rulde by me?
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Nay let him choose, <font>Rapiers</font> at a
+good poynt, whether he will or no.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Why are <comment type="compiler">SOURCE TEXT: are are</comment> you so long    
+<font>Sword</font>
+before you speake?
+   </dialogue><nonSpeech> <font>Sworde.</font> </nonSpeech><dialogue> Are duells put downe? Then I
+am forc'de to be Friends: Speake then.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Then in briefe it shall bee thus.
+<font>Sworde</font> , you shall beare Chiefe force ith
+Campe, and be made Generall of the Field,
+to beare sway euery where. As for you
+<font>Rapier</font> , since Duells are put downe, you shall
+liue quietly and peaceablie heere 'ith Court,
+and goe euery day in Veluet: You shall be
+Frendes with euerie one, and bee on euery
+ones side, that if occasion serue, and <font>Sworde</font>
+be absent, so that matters are driue~ to a push,
+<pagebreak id="B4V" />
+<font>Rapier</font> shall be the onely man to performe a
+Combate: And I my selfe will backe you
+both, as occasion shall serue.
+   How say yee, are yee content?
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> Wee are.
+   </dialogue><nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> Then goe before to my House,
+to the <font>Dagger</font> in <font>Cheape</font> : and there weele
+conclude all.
+   </dialogue><nonSpeech> <font>Rapier.</font> </nonSpeech><dialogue> A <font>Long-Sword</font> .
+</dialogue><nonSpeech> <font> <foreign>Exeunt</foreign> , Sworde</font> and <font>Rapier</font> .</nonSpeech> 
+
+   <nonSpeech> <font>Dagger.</font> </nonSpeech><dialogue> 
+<font>Our weapons drawne, and yet no hurt yee finde,
+Did Dagger then defend vnto your minde?
+Hee that defended others not long sence,
+At last hee dares not stand ins owne defence;
+But this hee hopes, with you it will suffize,
+To craue a pardon for a Schollers Prize.</font>
+
+</dialogue> <head> <foreign>FINIS</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

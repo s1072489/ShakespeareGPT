@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4TTFP">
+  <dialogueHeader>
+
+    <filename>D4TTFP</filename>
+
+    <identifier>4 TRIAL D4TTFP</identifier>
+
+    <title>NATHANAEL THOMPSON</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1682</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL OF NATHANAEL THOMPSON, JOHN FAREWELL, WILLIAM PAIN,
+BEFORE THE RIGHT HONOURABLE SIR FRAN. PEMBERTON K=T=. LORD CHIEF 
+JUSTICE OF ENGLAND, BY NISI PRIUS. AT GUILD-HALL, LONDON, THE 
+TWENTIETH OF JUNE, 1682. FOR WRITING, AND PUBLISHING, SCANDALOUS 
+LETTERS TO MR. MILES PRANCE, IN RELATION TO THE DEATH OF SIR 
+EDMUND-BURY GODFREY.
+LONDON, PRINTED FOR WILLIAM MASON, 
+1682.
+PP. 3.9 - 14.23
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SOURCE TEXT HAS NO PAGES NUMBERED 7 OR 8.</comment>
+
+<comment type="compiler">SQUARE BRACKETS USED FOR PARENTHETICAL COMMENTS BY NARRATOR ARE 
+RENDERED AS ROUND BRACKETS.</comment>
+
+<pagebreak id="3" />
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Mr. <font>Prance</font> , did you give Evidence against 
+<font>Green</font> , <font>Berry</font> and
+<font>Hill</font> , for the Murder of Sir <font>E. B. Godfrey</font> ?
+   </dialogue><nonSpeech> <font>Prance.</font> </nonSpeech><dialogue> Yes Sir, I did.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Was <font>Brown</font> a Witness too?
+   </dialogue><nonSpeech> <font>Prance.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> Was <font>Elizabeth Curtis</font> ?
+   </dialogue><nonSpeech> <font>Prance.</font> </nonSpeech><dialogue> I Don't know, but I think she was.
+   </dialogue><nonSpeech> <font>Coun.</font> </nonSpeech><dialogue> <font>Eliz. Curtis</font> , were you a Witness for the     
+Murder of Sir <font>E. B. 
+Godfrey</font> ?
+   </dialogue><nonSpeech> <font>E. Curtis.</font> </nonSpeech><dialogue> Yes if it please your Honour, my Lord.
+   </dialogue><nonSpeech> <font>Cryer.</font> </nonSpeech><dialogue> Sir <font>John Nicholas</font> , Sir <font>Philip Floyd</font> ,   
+<font>William Bridgeman</font> Esquire;
+make room there Officers, go out, make room for the Witnesses to
+come in. </dialogue><nonSpeech>These three Gentlemen were sworn.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Sir <font>Phillip Floyd</font> , were these Papers      
+owned by <font>Thompson</font> , <font>Farwel</font> ,
+and <font>Pain</font> , look on them.
+   </dialogue><nonSpeech>Sir <font>Ph. F.</font> </nonSpeech><dialogue> My Lord, these are the two Papers I indorst    
+with my own
+hand, and they owned them to be their Writing, <font>Farwell</font> writ one of
+them, and <font>Pain</font> the other, and they acknowledged that             
+<font>Thompson</font> Printed
+them, and <font>Thompson</font> likewise confest the same before the Council. 
+</dialogue><nonSpeech>Sir
+<font>John Nicholas</font> , and Esquire <font>Bridgman</font> spoke to the same       
+effect.</nonSpeech>
+   <nonSpeech>Sir <font>Fra. Withins.</font> </nonSpeech><dialogue> My. Lord, and you Gentlemen of the     
+Jury, you see that
+<font>Farwell</font> and <font>Pain</font> owned the Writing of them and <font>Thompson</font>  
+the Printing
+of them.
+   </dialogue><nonSpeech>Mr. <font>Saunders.</font> </nonSpeech><dialogue> Which was it that <font>Farwell</font> did own.
+   </dialogue><nonSpeech>Sir <font>J. Nicholas.</font> </nonSpeech><dialogue> <font>Farwell</font> did own the first read in   
+Council, and the other
+the second, but I cannot certainly say which, but I markt them.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do you believe those Notes and Minutes to be   
+true?
+   </dialogue><nonSpeech>Sir <font>John.</font> </nonSpeech><dialogue> Yes I took the Notes my Lord.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> Sir <font>Philip</font> , did <font>Thompson</font> own the      
+things produced the 29th of
+<font>March</font> as <font>Printed</font> by him?
+   </dialogue><nonSpeech>Sir <font>Phil.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>L. J. C.</font> </comment> Read the        
+<font>Letters</font> .
+</dialogue><nonSpeech>Both the Letters being Read, and <font>Nath. Thomsons</font> Intelligences,
+<font>Numb.</font> 125. and 127. Read likewise.</nonSpeech>
+<nonSpeech> <font>Serj. Maynard</font> Spake here very Learnedly, and descanting on    
+these
+Letters, and Pamphlets, but with so low a voice that was not         
+Intelligible
+to the Writer.</nonSpeech>
+   <nonSpeech>Mr. <font>Sanders.</font> </nonSpeech><dialogue> My Lord, Of all this Charg'd there is       
+nothing against
+<font>Pain</font> but the second Letter. My Lord, he owns it as a very rash and
+<pagebreak id="4" />
+unadvised Act, but no malicious Act. <font>Pain</font> nor none of his Family
+(My Lord) have been Enemies to the <font>Government</font> , or charged with
+malicious designs against it, but this Act its Foolish and           
+Inconsiderate,
+and we cannot Justify it, we submit our selves to your Lordship.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You have promised to prove it, and I will hear 
+whatsoever
+you can prove, I will hear any kind of proof you can make for it. It
+is a business of mighty concern, and therefore not slightly to be past
+over.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> We are sorry at what we have done, and we have 
+offered
+to give <font>the Brothers</font> any Satisfaction they desire, or we are     
+Capable
+of.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Do not say so, for they told me themselves     
+that they would
+make out what they had said by five hundred Witnesses.
+   </dialogue><nonSpeech> <font>Council.</font> </nonSpeech><dialogue> <font>Farewell</font> and <font>Pain</font> are not <font>Papists</font>  
+as they are reputed to be, but
+are Protestants, for they have received the <font>Sacrament</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray call your Witnesses, and make the best    
+on't you can.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> -- <font>Boales</font> , -- <font>Scot</font> , Mr. <font>Pains</font>      
+Witnesses.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You shall be admitted to prove any thing you   
+can, because
+they did say, that they would <font>prove</font> it by five hundred           
+Witnesses, and
+make it as plain as the day.
+   </dialogue><nonSpeech> <font>C. Thomp.</font> </nonSpeech><dialogue> Since their hearing before the Council they   
+Vaunted in
+<font>Thompsons</font> Intelligence, that they were ready with threescore     
+Witnesses
+to prove all they had said.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Call <font>Thomsons</font> Witnesses.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>William Ward</font> , <font>Fra. Hacker</font> , <font>Tho.      
+Scot</font> . 
+   </dialogue><nonSpeech>One of them present, said</nonSpeech><dialogue> <font>I'le go call the rest</font> .
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> And will you come again?
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> I am Council here for Mr. <font>Thompson</font> , who   
+by the Direction
+of Mr. <font>Pain</font> , and <font>Farewell</font> , Printed these Papers upon their 
+promise to
+make them good, and they have both confest that they were Written by
+them, and Printed by him, although now they design to cast the       
+<font>burden</font>
+upon his Shoulders; My Lord, as its a great mercy (the Murder being
+Committed) that Persons concerned therein, have been Detected and
+Punished, so it is a great mercy that the Authors of these Letters are
+Discovered, and so also of the two Intelligences, they were as much  
+the
+Authors of the one as the other; My Lord, <font>Thompsons</font> Intelligence 
+is well
+known to be <font>open</font> to all that will come and put any thing into    
+it, and
+he is paid for his pains.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> He will be paid <font>for his pains too, I hope</font> .
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>Edward Fisher</font> , <font>John Hazard</font> , Mr.        
+<font>Culling</font> , <font>John Rawson</font> and his
+Wife, Witnesses for <font>Farewell</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <font>Hazard</font> , begin, what say you Sir?
+   </dialogue><nonSpeech> <font>John Hazard,</font> </nonSpeech><dialogue> My Lord, It was early in the Morning about 
+six a
+Clock, and happened the same day after Sir <font>E. B. G.</font> was found, Mr.
+<font>Pain</font> desired me to walk with him, and coming towards the White
+House we understood Sir <font>E. B. G.</font> was found, I had known him full
+twenty Years before, and therefore knew him at first sight, his Shoes
+<pagebreak id="5" />
+were clean Bottom and Top, with <font>Seeds</font> sticking to them, as if he 
+had
+been in a Hay-mow.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was he?
+   </dialogue><nonSpeech> <font>Hazard,</font> </nonSpeech><dialogue> Upon a Table when I saw him, Then Mr. <font>Pain</font>  
+desired me
+to go to the place where he had lain in the Ditch, and Mr. <font>Pain</font>
+conducted me to the place, where I saw several Gobbits of Blood by the
+Ditch side.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>William Batson</font> , -- </dialogue><nonSpeech>Sworn.</nonSpeech>
+   <nonSpeech> <font>William Batson,</font> </nonSpeech><dialogue> Mr. <font>Farewell</font> and I walked into the  
+Fields in the
+Morning.
+   </dialogue><nonSpeech> <font>Williams,</font> </nonSpeech><dialogue> Did you invite Mr. <font>Farewell</font> to go thither?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> No, he desired to walk.
+   </dialogue><nonSpeech> <font>Williams,</font> </nonSpeech><dialogue> Did he carry you to the <font>White-House</font>       
+before he went to the
+place where his Body lay?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech> <font>Williams,</font> </nonSpeech><dialogue> Did <font>Farewell</font> bring you to the place where 
+the Body lay,
+when it was carried to the <font>White-House</font> ?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> Yes Sir, <font>Farewell</font> shewed me the <font>place</font> , 
+and then conducted 
+me to the House.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> How came you to go to this place?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> The News was brought by a Fellow who was not    
+believed,
+and by consent <font>a Porter</font> was sent out to inquire the Truth, when  
+the <font>Porter</font>
+returned, he said the Body of Sir <font>E. B. G.</font> was found, and        
+carried to
+the <font>White-House</font> , we <font>ran</font> thither and were there quickly, and 
+there was
+not above six there beside our selves.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Did <font>Farewell</font> when he carried you to the    
+Ditch, say that was
+the place?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Did <font>any Body</font> shew you the place beside     
+<font>Farewell</font> .
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> I had no acquaintance with any but him.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Did any shew you the place, but <font>Farewell</font> , 
+I say?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> No Sir.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Did he go directly?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> We went directly, we went the straitest way to  
+the place,
+and past over some Ditches. 
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Was any there beside Mr. <font>Farewell</font> and you, 
+at the time you
+went over Ditches, Did any direct you?
+   </dialogue><nonSpeech> <font>Batson,</font> </nonSpeech><dialogue> No.
+
+</dialogue><nonSpeech>Another Witness -- call'd and Sworn.</nonSpeech>
+
+   <nonSpeech> <font>Witness,</font> </nonSpeech><dialogue> My Lord, That Morning the Murder was           
+discovered I went
+with two or three of my Neighbours to see as others did, and when we
+came to the <font>White-House</font> I saw Sir <font>E. B. G.</font> lie on the Table, 
+his face
+looked swarthy, and he seemed as though he had been <font>Strangled</font> ,
+thence I walked to the Ditch, where they said his Body had lain,     
+<font>they
+showed</font> me <font>Blood</font> there, but whether <font>his</font> or no, I cannot      
+Swear.
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was it a <font>Frost</font> then?
+   </dialogue><nonSpeech> <font>Answer,</font> </nonSpeech><dialogue> I do not know whether it was a Frost or no, it  
+is so long since,
+it to me looked like <font>Blood</font> that was <font>laid there</font> , rather then 
+any thing
+else.
+   </dialogue><nonSpeech> <font>Another Witness,</font> </nonSpeech><dialogue> My Lord, I was Carpenter to my Lord -- 
+and I
+was sent for to the <font>White-House</font> , and as I went to take Orders,  
+I heard
+the Report that Sir <font>Edmond</font> was found, I went on to my designed   
+place,
+and when I came there, I saw Sir <font>Edmond</font> lie dead on the Table, I
+turned his Coat up, I saw two wounds within an Inch and half of one
+another, the one went no further then the bone, and the other        
+through his
+back, and they brought to me the <font>Sword</font> which they said, they had 
+pull'd
+out of his Body. There was an Order to get him stript, I pull'd off  
+his
+Shoes, his Shoes were <font>clean</font> , I pull'd off three pair of         
+Stockings, and a
+pair of Socks, I pull'd off his black Breeches and Drawers, We set   
+him
+on his breech upon the Table, with his Leggs hanging down, unbuttoned
+his Coat and Wastcoat pull'd them off, but we could not bend his Arms
+when we came to his Shirt, so we tore it open. Upon his Back, there
+was some Blood, but upon his <font>Flannel</font> there was none. I have one  
+thing
+more to say, There was a place Black round about his Throat, which
+looked as if he had been <font>Strangled</font> , and his Neck was weak and   
+loose,
+and had no strength at all in it, by which <font>its Evident he was      
+Murdered</font> .
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> The <font>Blood</font> is one of the Arguments which   
+induced me to do
+what I have done: For as to the <font>Circle</font> about the Throat it is no 
+more
+then sometimes attend Persons in an Ordinary way, I was not present
+in the Court at the Tryal of the <font>supposed</font> Murderers, when it was
+strongly pretended there was no <font>Blood</font> there, whereas I'le Swear  
+there was
+near a <font>handful of Blood</font> (My Lord) and I will tell <font>you who laid 
+it there</font> .
+
+Call <font>Rawson</font> and his Wife.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>Rawson</font> and his Wife -- </dialogue><nonSpeech>Sworn.</nonSpeech>
+   <nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> This man was the man that helped the Body out 
+of the Ditch,
+and carried it to the House, let him speak to it.
+   </dialogue><nonSpeech> <font>Rawson,</font> </nonSpeech><dialogue> I was the Person who upon the first Discovery   
+of the Body,
+pull'd him out of the Ditch, when I had so done, pull'd the Sword out,
+which was run through him, and then removed him to the House, There
+was <font>Blood</font> , or like <font>Blood</font> and <font>Water</font> came from him, and   
+carrying him
+into the House, while going in at the door his Back did swing against
+the side of the door, and there was some <font>Blood</font> and <font>Water</font>     
+left there,
+and likewise upon the Table where he was laid, and the Floor, and some
+in the Cellar.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did the <font>Blood</font> run from the Body on the     
+<font>Table</font> , from thence
+to the <font>Floor</font> , and then into the <font>Cellar</font> .
+   </dialogue><nonSpeech> <font>Rawson,</font> </nonSpeech><dialogue> There <font>was Blood</font> in all these places, but I  
+cannot say how it
+came there, unless it came from the Body.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Upon your Oath do you know that was <font>Blood</font> ?
+   </dialogue><nonSpeech> <font>Rawson,</font> </nonSpeech><dialogue> I will not Swear whether it was clear <font>Blood</font> 
+or no. </dialogue><nonSpeech> (At which
+was a great noise in the Court.) </nonSpeech><dialogue>
+<comment type="compiler">SOURCE TEXT HAS NO PAGES NUMBERED 7 OR 8.</comment>
+<pagebreak id="9" />
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Silence.
+   </dialogue><nonSpeech> <font>Farewell.</font> </nonSpeech><dialogue> My Lord, I desire the same Question may be
+asked <font>Rawson's</font> Wife; Whether the Blood did not run from the
+Body on the Table on the Floor, and down into the Cellar.
+   </dialogue><nonSpeech> <font>Raws. Wife,</font> </nonSpeech><dialogue> As Sir <font>E. B. Godfrey's</font> Body laid along  
+on the
+Table, the Blood and Water ran from the Table on the
+Floor.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And did it run into the Cellar too?
+   </dialogue><nonSpeech> <font>Raws. Wife,</font> </nonSpeech><dialogue> I am sure the Bottles were wet with Blood
+there.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> My Lord, now to the next Point, it is the
+difference between Mr. <font>Bedlow's</font> and Mr. <font>Prance's</font> Evidence, I 
+have
+the <font>Journal</font> of the House of Lords, and I will undertake to
+prove it. Call <font>John Stanly</font> .
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>John Stanly</font> , Come into the Court.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What is it you would have of him?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I would have him prove the Copy of the        
+<font>Journal</font>
+of the House of Lords.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What use do you then make of it?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I say there is a great difference between the
+Evidence of <font>Bedlow</font> and him, and I will produce the Journal to
+prove that whereas <font>Prance</font> said he was <font>strangled</font> with a
+Handkerchief, <font>Bedlow</font> in his Depositions before the House of Lords
+asserted he was <font>stifled with a Pillow</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Can you prove that <font>Bedlow</font> gave that        
+Evidence?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> Yes my Lord, by Mr. <font>Whinyard</font> ,            
+<font>Walker</font> , and 
+others. Call them.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Mr. <font>Whinyard</font> , Mr. <font>Walker</font> , Mr.          
+<font>Hobbs</font> , Mr. <font>John
+Chase</font> , Mr. <font>James Chase</font> , -- </dialogue><nonSpeech>sworn.</nonSpeech>
+   <nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I ask Mr. <font>James Chase</font> but this Question,  
+Who it
+was <font>unbuttoned</font> his Collar?
+   </dialogue><nonSpeech> <font>James Chase,</font> </nonSpeech><dialogue> That day, after the Body was found, I went
+in company to the Field, and then to the place where they
+said the said Body had been; I look'd into the Ditch, and
+could see no sign of Blood there; but on the side of the Ditch,
+four or five yards distant, was some, <font>as appeared to me</font> ;
+which they said had followed the Sword when it was pull'd out 
+of the Body. Then I went where the Body lay, and view'd it.
+I saw two wounds under the left Pap, his Throat was <font>black</font> and
+blew upon opening the Collar near the breadth of an Hand,
+and his Face was very much swelled: I believe he was 
+<font>strangled by others</font> , for I cannot believe all those Injuries    
+could
+otherwise attend him after he was dead.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Mr. <font>Hobbs</font> -- </dialogue><nonSpeech>sworn.</nonSpeech>
+<pagebreak id="10" />
+   <nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I desire that Mr. <font>Hobbs</font> may be ask'd, If  
+he did not
+propose to Mr. <font>Michael Godfrey</font> that his Brothers Body might
+be opened, whereby he might certainly know whether he
+was murdered or no.
+   </dialogue><nonSpeech>Mr. <font>Hobbs,</font> </nonSpeech><dialogue> My Lord, I did believe he was <font>strangled</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Hobbs</font> , Did you desire his Body might be
+opened? And did you say, It might be very well, if Mr.
+<font>Michael Godfrey</font> would send for a Doctor and Surgeon from the
+Court, to have him opened, that all might be fully satisfied
+that he was murdered?
+   </dialogue><nonSpeech>Mr. <font>Hobbs,</font> </nonSpeech><dialogue> My Lord, I was satisfied in my self that he
+was <font>strangled</font> , and had those wounds from others; I did
+not advise it for my particular Information, but that of
+others.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray what <font>colour</font> was his Face?
+   </dialogue><nonSpeech>Mr. <font>Hobbs,</font> </nonSpeech><dialogue> He was <font>black</font> and <font>swarthy</font> , and the    
+white of his
+Eyes and the Blood Vessels were as full as those that are troubled
+with Sore Eyes.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I desire to know if he had Fly-blows in his
+Eyes?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Had he Fly-blows in his Eyes?
+   </dialogue><nonSpeech>Mr. <font>Hobbs,</font> </nonSpeech><dialogue> No my Lord.
+   </dialogue><nonSpeech>Mr. <font>John Chase,</font> </nonSpeech><dialogue> I walked to see this Body which I heard  
+was
+found, I found a great <font>Contusion</font> upon the left Muscle. I
+troubled my self no more at that time. I was desired after this by
+Doctor <font>Lloyd</font> to go with him, and coming there to review the
+Body, I observed a Swelling under the left Ear, together with
+several other Contusions, which were very surprising, for (my
+Lord) I never found any so <font>contused</font> in all my life. My Lord,
+When we had heard the Matter of Evidence and the Persons
+charg'd with the Crime, Mr. <font>Farewell</font> one day called me aside,
+and told me what proof he could make in this Business against
+the Evidence. Then said I, Mr. <font>Farewell</font> you are my Friend, I
+would advise you for your good; I believe nothing can be
+made appear against it. I saw not Mr. <font>Farewell</font> for a
+considerable time after: Afterwards on the <font>Eve</font> of <font>Easter-day</font> I
+met Mr. <font>Farewell</font> , and it was thus; I had been drinking a
+Glass of Wine with some Friends, Mr. <font>Farewell</font> came in and
+asked for one; so they knowing him, called for another
+Bottle. Said I, Because Mr. <font>Farewell</font> is come, I will drink
+another Glass with him, although I was taking my leave. We
+fell into some Discourse, and talking of this Subject, he told
+me, That Six Months before I had given him <font>good Counsel</font> , if
+he could have taken it.
+<pagebreak id="11" />
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Mr. <font>Smith</font> the Cook, Mr. <font>Tho. Smith</font> , Mr.  
+<font>Brown</font> ,
+-- </dialogue><nonSpeech>sworn.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Farewell</font> , What would you have from      
+these
+Witnesses?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> My Lord, I would have you to ask, Whether Sir
+<font>E. B. Godfrey's</font> Eyes were not Fly-blown?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Brown</font> , It's proposed to you by Mr.    
+<font>Farewell</font> ,
+Whether the Eyes of Sir <font>E. B. Godfrey</font> were Fly-blown?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> No my Lord, not that I saw.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was there any specks that were like Fly-blows?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> My Lord, I'll call two Witnesses more, and will
+prove it.
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> No my Lord, I saw no <font>specks</font> like Fly-blows.
+Mr. <font>Farewell</font> was with me, and told me his Eyes were
+Fly-blown, and would fain have me said such things, if I would
+have said them.
+
+</dialogue><nonSpeech> <font> (A great Noise about the Court.) </font> </nonSpeech>
+
+   <nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> My Lord the Kings Justice commands all Persons to
+keep silence upon pain of Imprisonment.
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> He came another time, and told me, that I
+was wrong in my <font> <foreign>Affidavit</foreign> </font> , as though he knew it better than
+my self.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Where was this?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> He was at my House.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was Mr. <font>Pain</font> with him?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> My Lord, I did not know Mr. <font>Pain</font> , and 
+therefore cannot say whether he was there or no.
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> Do you know Mr. <font>Thompson</font> , was he with
+him?
+   </dialogue><nonSpeech>Mr. <font>Brown,</font> </nonSpeech><dialogue> I know not <font>Thompson</font> , therefore cannot    
+say that
+he was.
+</dialogue><nonSpeech> <font>Cryer,</font> Mr. <font>Nath. Thompson</font> and Mr. <font>Pain</font> , being        
+called, did
+not appear.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What do you ask Mr. <font>Smith</font> ?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> The same Question about the <font>Blood</font> , and 
+whether he did not carry some of it away in his Handkerchief?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray tell Mr. <font>Farewell</font> Whether you took up 
+any
+of Sir <font>E. B. Godfrey's</font> Blood, and carried it home in your
+Handkerchief?
+   </dialogue><nonSpeech>Mr. <font>Smith,</font> </nonSpeech><dialogue> My Lord, When I went that way Sir <font>E. B.     
+Godfrey's</font> Body was removed, before I got thither; I viewed the
+<pagebreak id="12" />
+place where they said he laid: and indeed I was ask'd, 
+Whether I saw any Blood there?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you not take any of Sir <font>E. B.            
+Godfrey's</font> Blood
+in your Handkerchief?
+   </dialogue><nonSpeech> <font>Smith,</font> </nonSpeech><dialogue> No not I, my Lord.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> Call <font>Rawson</font> and his Wife. My Lord, I will 
+prove
+by these Witnesses that his Eyes were <font>Fly-blown</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <font>Rawson</font> , Mr. <font>Farewell</font> enquires of you, 
+If you saw
+any thing like Fly-blows in Sir <font>E. B. Godfrey's</font> Eyes?
+   </dialogue><nonSpeech> <font>Rawson,</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you observe the Flies busie at that time   
+of the
+year?
+
+</dialogue><nonSpeech> <font>A great Laughter in the Court, the time being
+in the midst of</font> Octob. <font>and Snowy Weather</font> .</nonSpeech>
+
+   <nonSpeech> <font>Rawson,</font> </nonSpeech><dialogue> I did see something like Fly-blows.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> Call <font>Rawson's</font> Wife.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>Rawson's</font> Wife, come into the Court.
+   </dialogue><nonSpeech> <font>Rawson.</font> </nonSpeech><dialogue> I must fetch her then.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Make Room there for <font>Rawson</font> and his Wife.
+   </dialogue><nonSpeech> <font>People,</font> </nonSpeech><dialogue> They will not come.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Make Room for them if they will come. <font>Rawson's</font>
+Wife, <font>Rawson's</font> Wife, come into the Court.
+   </dialogue><nonSpeech> <font>Answ.</font> </nonSpeech><dialogue> Here.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Make room there, stand clear there, make room.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Woman, Mr. <font>Farewell</font> desires to know if there
+were <font>Fly-blows</font> in the Eyes of Sir <font>E. B. Godfrey</font> .
+   </dialogue><nonSpeech> <font>R. Wife,</font> </nonSpeech><dialogue> My Lord, people said they were <font>Fly-blows</font> .
+<comment type="compiler">SOURCE TEXT: <font>Fly-bows</font> </comment>
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> He asks too what you say to the Corners of his 
+Mouth
+and Nostrils.
+   </dialogue><nonSpeech> <font>R. Wife,</font> </nonSpeech><dialogue> I did not take much notice of them; but they   
+did say
+they were <font>Fly-blown</font> .
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I have seen many a one who have dyed a natural
+death, in whom I have seen as much alteration as in him, and
+my Lord, I can prove, that the Discolouring of the Face, and the
+Circle about the Neck, might have another cause then they make
+the World believe. </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> Call -- the Kings Surgeon.
+-- </dialogue><nonSpeech>Sworn.</nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> <font>Farewell</font> says, That many persons dying a   
+Natural
+Death may look as he did.
+   </dialogue><nonSpeech> <font>Surg.</font> </nonSpeech><dialogue> My Lord he was certainly <font>strangled</font> , and      
+sometimes
+persons may be <font>strangled</font> and yet look pale: If that which
+<pagebreak id="13" />
+strangled him had been taken away while his Body was warm, the
+Vessels would have been less, and his Face would have been
+very Pale: Therefore it's evident that that which <font>strangled</font> him, 
+was not removed till his Body was cold, which was the occasion
+of that blackness; for the Knot remaining, the Blood could not
+run away: He had as high a Colour as if in a Scarlet Feavor;
+and the Blood that was seen by me four yards from the Ditch,
+I put my finger into it, and it smelt like Blood a fortnight or three
+Weeks from any Body. My Lord, I presume it was Blood came
+off the Womb, <font>&amp;c.</font> His Neck was very much swell'd and
+black, on one side of his Mouth he was discoloured; where-ever
+any Man is bruised while he has life, or while warm, the parts
+so bruised when dead will soonest corrupt; as is a common
+thing. Mr. <font>Chess</font> the Apothecary unbuttening his Collar found
+two great Creases about his Neck, and desired me to come and
+see it; and the mark was like that of a strait Ring upon a Finger,
+and while we with-drew to drink two or three Glasses of Beer,
+there remained only this Crease above.
+   </dialogue><nonSpeech>Sir <font>F. Winington,</font> </nonSpeech><dialogue> Do you believe he killed himself now
+Mr. <font>Farewell</font> ?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Were his Eyes <font>Fly-blown</font> and Shut?
+   </dialogue><nonSpeech> <font>Surgeon,</font> </nonSpeech><dialogue> There was something in the Corners of his Eyes
+that looked like matter; but I can't say it was <font>Fly-blown</font> . His
+Eyes were open and Blood-shotten, like a Man that has had an
+extraordinary violence used towards that part; or like a Man
+that hath had an extraordinary Cold.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> Were not his <font>Eye-lashes</font> closed?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Were his <font>Eye-lashes</font> closed?
+   </dialogue><nonSpeech> <font>Surgeon,</font> </nonSpeech><dialogue> No my Lord, his Eyes were open.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> When I saw him his Eyes were shut I am sure.
+   </dialogue><nonSpeech> <font>Surgeon,</font> </nonSpeech><dialogue> I am sensible, my Lord, that a <font>great Storm</font> 
+of Hail
+and Rain had faln the <font>Night before</font> , and that his Cloths were as
+<font>dry</font> as mine, and as whole as mine.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I will tell your Lordship the reason of that, 
+he
+was removed by the Constable at Seven a Clock the Night
+before, and they made a great <font>Fire</font> , and so dried his Clothes.
+
+</dialogue><nonSpeech> <font> (A Laughter in the Court.) </font> </nonSpeech>
+
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Mr. <font>Farewell</font> , Will you call any more      
+Witnesses?
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I will call no more, my Lord, I am look'd upon
+with an <font>evil eye</font> ; they'll censure me as a <font>Papist, &amp;c.</font>
+<pagebreak id="14" />
+   </dialogue><nonSpeech> <font>Council,</font> </nonSpeech><dialogue> You are Guilty of a worse Crime, Sir.
+   </dialogue><nonSpeech> <font>Farewell,</font> </nonSpeech><dialogue> I submit my self to the Law.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> It matters not what <font>Religion</font> you are of,   
+since ye are
+guilty of such Crimes.
+   </dialogue><nonSpeech> <font>Serj. Maynard,</font> </nonSpeech><dialogue> Here is a high Offence against the
+Government and Justice of the Nation, against the
+Reputation of a Person of Worth and Integrity, after
+they had murdered his <font>Person</font> , to endevour the
+murdering of his <font>Good Name</font> . These persons have
+undertaken to manage it; all the Witnesses Mr. <font>Farewell</font> has
+brought, have contradicted him in all he have said.
+No <font>Blood</font> , no <font>Fly-blows</font> , but Stranglings, Stabs, and
+Bruises; and for a Man that should stab himself, how
+could he bruise himself too in that manner? Yet they
+have asserted they would prove it by 500 Witnesses,
+but could he produce but one substantial one, it were
+well for him. But what have he or they to do with a
+matter of this nature? The Justice of the Kingdom
+has past upon <font>Green</font> , <font>Berry</font> , and <font>Hill</font> for the said
+Murder upon <font>Clear Evidence</font> ; but suppose something might
+have been said, it became them not to arraign the
+Government and the Justice of the Kingdom in its
+Administrations. Sir <font>E. B. Godfrey</font> was certainly murdered,
+and we know by whom. I'll produce two or three
+Witnesses that shall produce <font>more than ever yet</font> ; and if there
+were no more, there would be Evidence enough. My
+Lord, I desire that Mr. <font>Prance</font> may tell us the manner of
+his Murder and the Circumstances.
+   </dialogue><nonSpeech> <font>Sol. General,</font> </nonSpeech><dialogue> Mr. <font>Farewell</font> has told us <font>many       
+Lies</font> , and
+he leaves the World to make Inferences from them, and
+has brought Witnesses to prove some pretended
+Contradictions, and therefore Sir <font>E. B. Godfrey</font> murdered
+himself; this Fellow is guilty of the <font>highest malice</font> in the
+World, he has told you all these things which appear
+false, and from those falsities they would have inferred
+another, that <font>he murdered himself</font> .
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Brother <font>Maynard</font> , I have given him leave to
+bring what Evidence he would, not that I think it
+<font>material</font> ; and if he could have proved never so much, his
+<font>malice</font> had been never the less; but we see that his own
+Evidence runs counter to him. What had he to do in
+that Case? to what purpose should he write <font>Books</font> about
+the Government, to traduce the Justice of it? This
+ought not to be done under whatsoever pretences. It
+has been sufficiently proved that Sir <font>E. B. Godfrey was
+murdered</font> , but there are other Witnesses yet can speak
+to it. -- Call them.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>John Okely</font> , <font>Mary James</font> .
+   </dialogue><nonSpeech> <font>People,</font> </nonSpeech><dialogue> Make room for the Witnesses there.
+   </dialogue><nonSpeech> <font>Cryer,</font> </nonSpeech><dialogue> <font>Mary James</font> .
+   </dialogue><nonSpeech> <font>Sol. General,</font> </nonSpeech><dialogue> Gentlemen, It's beyond contradiction
+that Sir <font>E. B. Godfrey</font> was <font>murdered</font> , and therefore shall
+not need further <font>Witness</font> to prove it; we shall leave it to
+you, and shall not trouble our selves or you any further
+about it.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> They did design, and would, no doubt of it, 
+have been very much satisfied, if they could have made
+some <font>probable proof</font> that he kill'd himself: But I was
+desirous to hear what they could say for themselves. All
+the Evidence they call, go as much against them as
+can be; the Evidence is as plain as the day that the Man
+was killed, and <font>kill'd by Strangers</font> . Besides, Sirs, a
+private person must not undertake to controul the
+Justice of the Nation: To say he was a just person that
+suffered, and I will justifie it; this is not to be indured:
+but I was willing to hear all that could be said, and
+whether a doubt could be made; and you see his very
+Evidence conclude him kill'd, and kill'd by Strangers.
+They are all Three in this Mischief, there is a
+Combination of them to affront the Publick Justice of the
+Nation, but the end of this Design is to make you believe
+here was no <font>Popish Plot</font> ; the <font>Snake</font> lies under the
+<pagebreak id="16" />
+<font>Bush</font> , if they could have vomited it, and made a 
+tolerable Proof, That Sir <font>E. B. Godfrey</font> had not been <font>kill'd</font> .
+But it's very plain if that could have been brought to
+be <font>a Doubt</font> , then presently you would have had a full
+Cry, <font>Oh this is a Sham, a Sham</font> , a thing raised against
+the Papists; and then the Plot and all such things had
+been nothing. I leave it to you, Whether upon this
+Evidence you do not believe them <font>all Guilty</font> of 
+Traducing the Government and the Justice of the
+Nation.
+
+</dialogue><nonSpeech> <font> (Then was a great Hum.) </font> </nonSpeech>
+
+   <nonSpeech>After which, the Jury having a while consulted 
+together, gave in their <font>Verdict</font> without going from the
+Bar,
+<font>That the said</font> Nathaniel Thompson,
+<font>Mr.</font> Farewell, <font>and Mr.</font> Pain, <font>were
+all</font> Guilty <font>of the Matter contained in
+the Information</font> .
+<font> (Upon which the People gave a great Shout.) </font>
+And Mr. <font>Farewell</font> was carried back to the 
+<font>Kings-Bench</font> , but <font>Thompson</font> and <font>Pain</font> not appearing, the
+Judgment of the Court is daily expected against them
+all Three.</nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

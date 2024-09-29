@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TCHARL">
+  <dialogueHeader>
+
+    <filename>D3TCHARL</filename>
+
+    <identifier>3 TRIAL D3TCHARL</identifier>
+
+    <title>KING CHARLS</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1648/1650</speechPubDate>
+
+    <contemporaneity sourceDate="CONTEMP">Source text dates from within 40 years of the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>KING CHARLS HIS TRYAL AT THE HIGH COURT OF JUSTICE SITTING IN
+WESTMINSTER HALL: BEGUN ON SATURDAY, JAN. 20. ENDED JAN. 27. 1648. 
+ALSO, HIS MAJESTIES SPEECH ON THE SCAFFOLD, IMMEDIATELY BEFORE HIS 
+EXECUTION, ON TUESDAY, IAN. 30. TOGETHER WITH THE SEVERAL SPEECHES OF 
+DUKE HAMILTON, THE EARL OF HOLLAND, AND THE LORD CAPEL, IMMEDIATELY 
+BEFORE THEIR EXECUTION, ON FRIDAY, MARCH 9. 1649.
+THE SECOND EDITION, MUCH ENLARGED, AND FAITHFULLY CORRECTED.
+LONDON, PRINTED BY J. M. FOR PETER COLE, FRANCIS TYTON, AND JOHN 
+PLAYFORD. 
+1650.
+PP. 19.14 - 52.11 SAMPLE 1 
+PP. 69.25 - 71.27 SAMPLE 2
+PP. 72.19 - 73.18 SAMPLE 3
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">ANNOTATION ON SOURCE TEXT TITLE PAGE: &quot;NOU: 22 1649&quot;.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="19" />
+<nonSpeech>The Charge being read the Lord President
+replyed:</nonSpeech>
+   <nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, you have now heard
+your Charge read, containing such matter as
+appears in it; you finde, That in the close of it,
+it is prayed to the Court, in the behalf of the
+<font>Commons</font> of <font>England</font> , that you answer to your
+Charge. The Court expects your Answer.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I would know by what power
+I am called hither: I was, not long ago, in the
+<font>Isle of Wight</font> , how I came there, is a longer
+story then I think is fit at this time for me to
+speak of; but there I entred into a <font>Treaty</font>
+with both Houses of <font>Parliament</font> with as 
+<pagebreak id="20" />
+much publique faith as it's possible to be had
+of any people in the world. I treated there
+with a number of Honorable Lords and
+Gentlemen, and treated honestly and uprightly;
+I cannot say but they did very nobly with me,
+we were upon a conclusion of the <font>Treaty</font> .
+Now I would know by what Authority, I
+mean, lawful; there are many unlawful
+Authorities in the world, Theeves and Robbers
+by the high-ways: but I would know by
+what Authority I was brought from thence,
+and carryed from place to place, (and I know
+not what,) and when I know what lawful
+Authority, I shall answer: Remember I am
+your King, your lawful King, and what sins
+you bring upon your heads, and the Judgment
+of God upon this Land, think well upon it, I
+say, think well upon it, before you go further
+from one sin to a greater; therefore let me
+know by what lawful Authority I am seated
+here, and I shall not be unwilling to answer,
+in the mean time I shall not betray my Trust:
+I have a Trust committed to me by God, by
+old and lawful descent, I will not betray it to
+answer to a new unlawful Authority,
+therefore resolve me that, and you shall hear more
+of me.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> If you had been pleased to
+have observed what was hinted to you, by
+<pagebreak id="21" />
+the <font>Court</font> , at your first coming hither, you
+would have known by what Authority;
+which Authority requires you, in the name of
+the People of <font>England</font> , of which you are
+Elected King, to answer them.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> No Sir, I deny that.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> If you acknowledg not the
+Authority of the <font>Court</font> , they must proceed.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I do tell them so, <font>England</font> was
+never an Elective Kingdom, but an Hereditary
+Kingdom for neer these thousand years;
+therefore let me know by what Authority I am
+called hither: I do stand more for the <font>Liberty</font>
+of my People then any here that come to be
+my pretended Judges; and therefore let me
+know by what <font>lawful Authority</font> I am seated
+here, and I will answer it, otherwise I will
+not answer it.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, how really you have
+managed your Trust, is known; your way of
+answer is to interrogate the <font>Court</font> , which
+beseems not you in this condition. You have been
+told of it twice or thrice.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Here is a Gentleman, Lievt. Col.
+<font>Cobbet</font> , (ask him) if he did not bring me from
+the <font>Isle of Wight</font> by force? I do not come here
+as submitting to the <font>Court</font> ; I wil stand as much
+for the priviledg of the house of Co~mons,
+rightly understood, as any man here whatsoever. I
+<pagebreak id="22" />
+see no House of Lords here that may constitute
+a <font>Parliament</font> , and (the King too) should
+have been. Is this the bringing of the King to
+his <font>Parliament</font> ? Is this the bringing an end to
+the <font>Treaty</font> in the publike Faith of the world?
+Let me see a legal <font>Authority</font> warranted by the
+Word of God, the Scriptures, or warranted
+by the <font>Constitutions</font> of the Kingdom, and I
+will answer.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You have propounded
+a Question, and have been answered: seeing
+you will not answer, the <font>Court</font> will consider
+how to proceed; in the mean time, those that
+brought you hither, are to take charge of you
+back again.
+   The <font>Court</font> desires to know whether this be
+all the Answer you will give, or no.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Sir, I desire that you would give
+me, and all the world, satisfaction in this; let
+me tell you, it is not a slight thing you are
+about. I am sworn to keep the Peace by that
+duty I ow to <font>God</font> and my <font>Country</font> , and I will
+do it to the last breath of my body, and
+therefore you shall do well to satisfie first <font>God</font> , and
+then the <font>Country</font> , by what <font>Authority</font> you do
+it, if you do it by a usurped <font>Authority</font> , that
+will not last long. There is a God in Heaven
+that will call you, and all that give you Power,
+to account: Satisfie me in that, and I will
+<pagebreak id="23" />
+answer, otherwise I betray my Trust, and the
+<font>Liberties</font> of the People, and therefore think
+of that, and then I shall be willing. For I do
+avow, That it is as great a sin to withstand
+lawful <font>Authority</font> , as it is to submit to a 
+Tyrannical, or any other ways unlawful 
+<font>Authority</font> , and therefore satisfie God, and me, and
+all the world in that, and you shall receive my
+Answer: I am not afraid of the Bill.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> The <font>Court</font> expects you
+should give them a final Answer, their
+purpose is to adjourn till Monday next, if you do
+not satisfie your self, though we do tell you
+our <font>Authority</font> ; we are satisfied with our
+<font>Authority</font> , and it is upon <font>Gods Authority</font> and the 
+<font>Kingdoms</font> , and that Peace you speak of will
+be kept in the doing of Justice, and that's our
+present Work.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Let me tell you, if you will
+shew me what lawful <font>Authority</font> you have, I
+shall be satisfied; But that you have said
+satisfies no reasonable man.
+   </dialogue><nonSpeech> <font>Lord Presid.</font> </nonSpeech><dialogue> That's in your apprehension:
+we think it reasonable that are your Judges.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> 'Tis not my apprehension, nor
+yours neither, that ought to decide it.
+   </dialogue><nonSpeech> <font>Lord Presid.</font> </nonSpeech><dialogue> The <font>Court</font> hath heard you,
+and you are to be disposed of as they have
+commanded.
+<pagebreak id="24" />
+</dialogue><nonSpeech> <font>Two things were remarkable in this
+days Proceedings.</font>
+1. It is to be observed, That as the Charge
+was reading against the King, the silver
+head of his staff fell off, the which he
+wondred at, and seeing none to take it
+up, he stoops for it himself.
+2. That as the King was going away, he 
+looked with a very austere countenance
+upon the <font>Court</font> , with stirring of his Hat
+replyed,</nonSpeech><dialogue> Well Sir, </dialogue><nonSpeech> (when the <font>Lord 
+President</font> commanded the Guard to take
+him away,) and at his going down, he
+said,</nonSpeech><dialogue> <font>I do not fear that</font> , </dialogue><nonSpeech> (pointing with
+his Staff at the Sword). The people in 
+the Hall, as he went down the stairs,
+cryed out, some,</nonSpeech><dialogue> <font>God save the King</font> ,
+</dialogue><nonSpeech>and some for</nonSpeech><dialogue> <font>Justice</font> .
+</dialogue><nonSpeech>O Yes being called, the <font>Court</font> adjourned till
+Monday next, <font>January</font> 22. at 9. in the
+morning to the painted Chamber, and from thence
+to the same place again in <font>Westminster</font> Hall.</nonSpeech>
+<pagebreak id="25" />
+ <head> <font>AT THE HIGH COURT OF JUSTICE SITTING IN
+WESTMINSTER HALL, MUNDAY, JANUARY</font> 22. 1648.</head> 
+
+<nonSpeech>O Yes made. Silence commanded. The Court
+called, and answered to their names.
+   Silence commanded upon pain of 
+imprisonment, and the Captain of the Guard <comment type="compiler">SOURCE TEXT: Gaurd</comment> to
+apprehend all such as make disturbance.
+   Upon the Kings coming in a shout was 
+made.
+   Command given by the Court to the
+Captain of the Guard to fetch and take into his
+custody those who make any disturbance.</nonSpeech>
+   <nonSpeech> <font>Mr Solicitor.</font> </nonSpeech><dialogue> May it please your Lordship,
+my Lord President,
+   I did at the last Court in the behalf of the
+Commons of England, exhibit and give into
+this Court a Charge of high Treason, and other
+high Crimes, against the Prisoner at the Bar,
+whereof I do accuse him in the name of the
+People of England, and the Charge was read
+unto him, and his Answer required. My Lord,
+He was not then pleased to give an Answer,
+but instead of answering, did there dispute the
+Authority of this high Court. My humble
+Motion to this high Court, in behalf of the
+<pagebreak id="26" />
+Kingdom of England, is, That the Prisoner may
+be directed to make a positive Answer, either
+by way of Confession, or Negation; which if
+he shall refuse to do, That the matter of Charge
+may be taken <font> <foreign>pro confesso</foreign> </font> , and the Court may
+proceed according to justice.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You may remember
+at the last Court you were told the occasion
+of your being brought hither, and you heard a
+Charge against you, containing a Charge of
+high Treason, and other high Crimes, against
+this Realm of England; you heard likewise,
+that it was prayed in the behalf of the People,
+that you should give an Answer to that
+Charge, that thereupon such proceedings
+might be had as should be agreeable to justice;
+you were then pleased to make some scruples
+concerning the Authority of this Court, and
+knew not by what Authority you were
+brought hither; you did divers times
+propound your Questions, and were as often
+answered, That it was by Authority of the
+<font>Commons of England assembled in Parliament</font> ,
+that did think fit to call you to account for
+those high and capital Misdemeanours
+wherewith you were then charged. Since that the
+Court hath taken into Consideration what you
+then said, they are fully satisfied with their
+own authority, and they hold it fit you should
+<pagebreak id="27" />
+stand satisfied with it too; and they do
+require it, that you do give a positive and
+particular Answer to this Charge that is exhibited
+against you, they do expect you should either
+confess or deny it; if you deny, it is offered
+in the behalf of the Kingdom to be made good 
+against you; their authority they do avow to
+the whole world, that the whole Kingdom are
+to rest satisfied in, and you are to rest satisfied
+with it, and therefore you are to lose no more
+time, but to give a positive Answer
+thereunto.
+   </dialogue><nonSpeech> <font>The KING.</font> </nonSpeech><dialogue> When I was here last, 'tis
+very true, I made that Question, and truly if it
+were only my own particular case, I would
+have satisfied my self with the Protestation I 
+made the last time I was here against the 
+legality of this Court, and that a King cannot be
+tryed by any Superiour Jurisdiction on Earth;
+but it is not my case alone, it is the Freedom
+and the Liberty of the People of England, and
+do you pretend what you will, I stand more
+for their Liberties. For if Power without Law
+may make Laws, may alter the fundamental
+Laws of the Kingdom, I do not know what
+Subject he is in England, that can be sure of
+his life, or any thing that he calls his own;
+therefore when that I came here, I did expect
+particular Reasons, to know by what Law,
+<pagebreak id="28" />
+what Authority you did proceed against me
+here, and therefore I am a little to seek what to
+say to you in this particular, because the
+Affirmative is to be proved, the Negative often is
+very hard to do: but since I cannot perswade
+you to do it, I shall tell you my Reasons as
+short as I can.
+   My Reasons why in Conscience, and the
+duty I owe to God first, and my People next, for
+the preservation of their Lives, Liberties and
+Estates; I conceive I cannot answer this, till
+I be satisfied of the legality of it.
+   All proceedings against any man
+whatsoever --
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, I must interrupt you,
+which I would not do, but that what you do
+is not agreeable to the proceedings of any
+Court of Justice, you are about to enter into
+Argument, and dispute concerning the
+Authority of this Court, before whom you appear as
+a Prisoner, and are charged as an high
+Delinquent; if you take upon you to dispute the
+Authority of the Court, we may not do it, nor
+will any Court give way unto it, you are to
+submit unto it, you are to give in a punctual 
+and direct Answer, whether you will answer
+your Charge or no, and what your Answer is.
+   </dialogue><nonSpeech> <font>The KING.</font> </nonSpeech><dialogue> Sir, by your favour, I do not
+know the forms of Law, I do know Law and
+<pagebreak id="29" />
+Reason, though I am no Lawyer profess'd, but
+I know as much Law as any Gentleman in
+England; and therefore (under favour) I do
+plead for the Liberties of the People of England
+more then you do, and therefore if I should
+impose a belief upon any man without
+Reasons given for it, it were unreasonable; but I
+must tell you, That that Reason that I have as
+thus informed, I cannot yield unto it.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, I must interrupt you,
+you may not be permitted, you speak of Law
+and Reason, it is fit there should be Law
+and Reason, and there is both against you. Sir,
+the Vote of the Commons of England
+assembled in Parliament, it is the Reason of the
+Kingdom, and they are these that have given
+to that Law, according to which you should
+have ruled and raigned: Sir, you are not to
+dispute our Authority, you are told it again
+by the Court. Sir, it will be taken notice of,
+that you stand in contempt of the Court, and
+your contempt will be recorded accordingly.
+   </dialogue><nonSpeech> <font>The KING.</font> </nonSpeech><dialogue> I do not know how a King
+can be a Delinquent; but by any Law that
+ever I heard of, all men (Delinquents, or what
+you will) let me tell you, they may put in
+Demurrers against any proceeding as legal, and I
+do demand that, and demand to be heard with
+my Reasons, if you deny that, you deny
+Reason.
+<pagebreak id="30" />
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, you have offered
+something to the Court, I shall speak something
+unto you the sence of the Court. Sir, neither you
+nor any man are permitted to dispute that
+point, you are concluded, you may not demur
+the Jurisdiction of the Court, if you do, I must
+let you know, that they over-rule your
+Demurrer, they sit here by the Authority of the
+Commons of <font>England</font> , and all your Predecessors,
+and you are responsible to them.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> I deny that, shew me one president.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, you ought not to
+interrupt while the Court is speaking to you,
+this point is not to be debated by you,
+neither will the Court permit you to do it, if
+you offer it by way of Demurrer to the
+Jurisdiction of the Court, they have considered of
+their Jurisdiction, they do affirm their own
+Jurisdiction.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I say Sir, by your favour, that
+the Commons of England was never a Court
+of Judicature, I would know how they came
+to be so.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You are not to be
+permitted to go on in that speech, and these 
+discourses.
+</dialogue><nonSpeech>Then the Clerk of the Court read, as
+followeth:</nonSpeech><dialogue>
+CHARLS STUART <font>King of England,
+<pagebreak id="31" />
+You have been accused on the behalf of the
+People of England of high Treason, and other
+high Crimes; the Court have determined
+that you ought to answer the same</font> .
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I will answer the same so soon
+as I know by what Authority you do this.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> If this be all that you will
+say, then, Gentlemen, you that brought the
+Prisoner hither, take charge of him back
+again.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I do require that I may give in
+my Reasons why I do not answer, and give
+me time for that.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, 'Tis not for Prisoners
+to require.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Prisoners? Sir, I am not an
+ordinary Prisoner.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> The Court hath
+considered of their Jurisdiction, and they have already
+affirmed their Jurisdiction; if you will not
+answer, we shall give order to record your
+default.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> You never heard my Reasons 
+yet.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, Your Reasons are not
+to be heard against the highest Jurisdiction.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Shew me that Jurisdiction
+where Reason is not to be heard.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, We shew it you here,
+<pagebreak id="32" />
+the Commons of England; and the next time
+you are brought, you will know more of the
+pleasure of the Court, and, it may be, their final
+determination.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Shew me where ever the House
+of Commons was a Court of Judicature of
+that kind.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Serjeant, Take away the
+Prisoner.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Well Sir, Remember that the
+King is not suffered to give in his Reasons for
+the Liberty and Freedom <comment type="compiler">SOURCE TEXT: Feeedom</comment> of all his Subjects.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You are not to have
+liberty to use this language; how great a
+friend you have been to the Laws and
+Liberties of the People, let all England and the
+world judg.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Sir, under favour, it was the
+Liberty, Freedom, and Laws of the Subject that
+ever I took -- defended my self
+with Arms, I never took up Arms against the
+People, but for the Laws.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> The Command of the
+Court must be obeyed; no answer will be
+given to the Charge.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Well Sir.
+</dialogue><nonSpeech>Then the Lord President ordered the
+default to be recorded, and the contempt of the
+Court, and that no answer would be given to
+the Charge.
+<pagebreak id="33" />
+   And so was guarded forth to Sir <font>Robert
+Cottons</font> house.
+   Then the Court adjourned to the Painted
+Chamber on Tuesday at twelve a clock, and
+from thence they intend to adjourn to 
+Westminster Hall, at which time all persons
+concerned are to give their attendance.</nonSpeech>
+
+ <head> <font>AT THE HIGH COURT OF JUSTICE SITTING IN
+WESTMINSTER HALL, TUESDAY, IANUARY</font> 23. 1648.</head> 
+
+<nonSpeech>O Yes made. Silence commanded. The 
+Court called. Seventy three persons 
+present.
+   The King comes in with his Guard, looks
+with an austere countenance upon the Court,
+and sits down.
+   The second O Yes made, and silence 
+commanded.</nonSpeech>
+   <nonSpeech> <font>Mr</font> Cook <font>Solicitor General</font> .</nonSpeech><dialogue> May it please
+your Lordship, my Lord President,
+   This is now the third time, that by the great
+grace and favour of this high Court, the
+prisoner hath been brought to the Bar before any
+issue joyned in the cause. My Lord, I did at
+the first Court exhibite a Charge against him,
+containing the highest Treason that ever
+<pagebreak id="34" />
+was wrought upon the <font>Theatre</font> of <font>England</font> :
+That a King of England, trusted to keep the
+Law, That had taken an Oath so to do, That
+had Tribute paid him for that end, should be
+guilty of a wicked design, subvert and
+destroy our Laws, and introduce an <font>Arbitrary,
+and Tyrannical Government</font> , in the defence
+of the <font>Parliament and their Authority</font> , set up
+his <font>Standard</font> for War against his <font>Parliament</font>
+and <font>People</font> ; and I did humbly pray, in the
+behalf of the <font>People of England</font> , that he might
+speedily be required to make an Answer to the
+Charge.
+   But, my Lord, instead of making any answer,
+he did then dispute the Authority of this High
+Court; Your Lordship was pleased to give
+him a further day to consider and to put in his
+Answer, which day being yesterday, I did
+humbly move, that he might be required to
+give a direct and positive Answer, either by
+denying, or confession of it; but (my
+Lord) he was then pleased for to demur to
+the Jurisdiction of the Court, which the Court
+did then over-rule, and command him to give
+a direct and positive Answer. My Lord, 
+Besides this great delay of Justice, I shall now
+humbly move your Lordship for speedy
+Judgment against him. My Lord, I might press
+your Lordship upon the whole, That
+<pagebreak id="35" />
+according to the known Rules of the Law of the
+Land, That if a Prisoner shall stand as
+contumacious in contempt, and shall not put in an
+issuable Plea, guilty or not guilty of the Charge
+given against him, whereby he may come to a
+fair Tryal; That as by an implicite Confession,
+it may be taken <font> <foreign>pro confesso</foreign> </font> , as it hath been
+done to those, who have deserved more favor
+then the Prisoner at the Bar has done: But
+besides, my Lord, I shall humbly press your
+Lordship upon the whole Fact; The House of
+Commons, the supream Authority and
+Jurisdiction of the Kingdom, they have Declared,
+That it is notorious, That the matter of the
+Charge is true, as it is in truth (my Lord) as
+clear as chrystal, and as the Sun that shines at
+noon day, which if your Lordship and the
+Court be not satisfied in, I have
+notwithstanding, on the People of Englands behalf,
+several witnesses to produce: And therefore I do
+humbly pray, and yet I must confess it is not
+so much I, as the innocent blood that hath been
+shed, the Cry whereof is very great for Justice 
+and Judgment; and therefore I do humbly
+pray, That speedy JUDGMENT
+be pronounced against the Prisoner at the
+Bar.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You have heard
+what is moved by the Councel on the
+<pagebreak id="36" />
+behalf of the Kingdom against you. Sir, you 
+may well remember, and if you do not, the 
+Court cannot forget what delatory dealings
+the Court hath found at your hands, you were
+pleased to propound some Questions, you
+have had your Resolution upon them. You
+were told over and over again, That the Court
+did affirm their own Jurisdiction, That it was
+not for you, nor any other man, to dispute
+the <font>Jurisdiction of the Supream and highest
+Authority of England</font> , from which there is
+no Appeal, and touching which there must be
+no dispute; yet you did persist in such
+carriage, as you gave no manner of obedience,
+nor did you acknowledge any Authority in
+them, nor the <font>high Court, that constituted this
+Court of Justice</font>
+   Sir, I must let you know from the Court,
+That they are very sensible of these delays of
+yours, and that they ought not, being thus
+Authorized by the <font>supream Court of England</font> ,
+to be thus trifled withal, and that they might
+in Justice, if they pleased, and according to the
+Rules of Justice, take advantage of these
+delays, and proceed to pronounce judgment
+against you; yet nevertheless they are pleased
+to give direction, and on their behalfs I do
+require you, That you make a positive Answer
+unto this Charge that is against you Sir, in plain
+<pagebreak id="37" />
+terms, for Justice knows no respect of
+persons; you are to give your positive and finall
+Answer in plain English, whether you be guilty
+or not guilty of these Treasons laid to your
+Charge.
+   </dialogue><nonSpeech>The KING after a little pause, said,</nonSpeech><dialogue>
+   When I was here yesterday, I did desire to
+speak for the <font>Liberties of the People of
+England</font> ; I was interrupted: I desire to know yet
+whether I may speak freely or not.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You have had the
+Resolution of the Court upon the like
+Question the last day, and you were told, That
+having such a Charge of so high a Nature against
+you, and your Work was, that you ought to
+acknowledge the JURISDICTION
+<font>of the </font> COURT, <font>and to Answer to your</font>
+CHARGE. Sir, if you Answer to your
+Charge, which the Court gives you leave now
+to do, though they might have taken the
+advantage of your contempt, yet if you be able
+to Answer to your Charge, when you have
+once Answered, you shall be heard at large,
+make the best Defence you can. But Sir, I
+must let you know from the Court, as their
+commands, that you are not to be permitted to
+issue out into any other discourses, till such time
+as you have given a positive Answer
+<pagebreak id="38" />
+concerning the <font>Matter</font> that is <font>CHARG'D</font> upon
+you.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> For the <font>Charge</font> , I value it not
+a Rush, it is the <font>Liberty</font> of the People of
+England that I stand for; for me to acknowledge a
+new <font>Court</font> that I never heard of before, I that
+am your King, that should be an example to all
+the people of England for to uphold Justice, to
+maintain the old Laws; indeed I do not know
+how to do it; you spoke very well the first day
+that I came here, (on Saturday) of the
+Obligations that I had laid upon me by God, to the
+maintenance of <font>the Liberties of my People</font> :
+The same Obligation you spake of, I do
+acknowledge to God that I owe to him, and to
+my People, to defend as much as in me lies, the
+ancient Laws of the Kingdom, therefore untill
+that I may know that this is not against the
+<font>Fundamental Laws</font> of the Kingdom, by your
+favour I can put in no particular <font>Charge</font> </dialogue><nonSpeech> <font>This is as the      
+King express'd, but I supposed he meant Ans.</font> :</nonSpeech><dialogue> If
+you will give me time, I will
+shew you my reasons why
+I cannot do it, and this --
+</dialogue><nonSpeech>Here being interrupted, he said,</nonSpeech><dialogue>
+   By your favour, you ought not to interrupt
+me; how I came here I know not, there's no
+Law for it to make your King your Prisoner:
+I was in a Treaty upon the publique Faith of
+<pagebreak id="39" />
+the Kingdom, that was the known --
+two Houses of Parliament that was the
+Representative of the Kingdom, and when that I
+had almost made an end of the Treaty, then
+I was hurried away and brought hither, and
+therefore --
+</dialogue><nonSpeech>Here the Lord <font>President</font> said;</nonSpeech><dialogue> Sir, you must
+know the pleasure of the Court.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> By your favour Sir:
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Nay Sir, by your favour,
+you may not be permitted to fall into those
+discourses; you appear as a Delinquent, you have
+not acknowledged the authority of the Court,
+the Court craves it not of you, but once more
+they command you to give your positive
+Answer -- <font>Clark.</font> Do your 
+Duty.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Duty Sir!
+</dialogue><nonSpeech>The Clark reads.</nonSpeech><dialogue>
+<font>CHARLES STUART, KING 
+of</font> England, <font>You are accused in the behalf of
+the Commons of</font> England <font>of divers high crimes
+and Treasons, which Charge hath been read
+unto You; the Court now requires you to give
+Your positive and final Answer by way of
+confession, or denial of the Charge</font> .
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Sir, I say again to you, so that
+I might give satisfaction to the People of
+<font>England</font> of the clearness of my proceeding, not by
+<pagebreak id="40" />
+way of Answer, not in this way, but to satisfie
+them that I have done nothing against that
+Trust that hath been committed to me, I
+would do it; but to acknowledge a new
+Court against their Priviledges, to alter the
+fundamental Laws of the Kingdom, Sir you must
+excuse me.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, this is the the third
+time that you have publiquely disown'd this
+Court, and put an affront upon it; how far you
+have preserv'd Priviledges of the People, your
+actions have spoke it; but truly Sir, mens
+intentions ought to be known by their actions,
+you have written your meaning in bloudy
+Characters throughout the whole Kingdom;
+but Sir you understand the pleasure of the
+<font>Court</font> , -- <font>Clerk</font> Record 
+the default, -- and 
+Gentlemen, you that took charge of the Prisoner,
+take him back again.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> I will only say this one word
+more to you, if it were only my own
+particular, I would not say any more, nor interrupt
+you.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, you have heard the
+pleasure of the <font>Court</font> , and you are 
+(notwithstanding you will not understand it) to find
+that you are before a COURT of 
+JUSTICE.
+<pagebreak id="41" />
+</dialogue><nonSpeech>Then the King went forth with his Guard,
+and Proclamation was made, That all persons
+which had then appear'd, and had further to do
+at the <font>Court</font> might depart into the 
+<font>Painted-Chamber</font> , to which place the <font>Court</font> did
+forthwith adjourn, and intended to meet in
+<font>Westminster Hall</font> by ten of the clock the next
+morning.</nonSpeech>
+   <nonSpeech> <font>Cryer.</font> </nonSpeech><dialogue> God bless the Kingdom of
+<font>England</font> .
+
+</dialogue> <head> <font>WEDNESDAY JANUARY</font> 4.
+1648.</head> 
+
+<nonSpeech>This day it was expected the <font>High Court
+of Justice</font> would have met in <font>Westminster</font>
+Hall about ten of the clock, but at the time
+appointed one of the Ushers by direction of the
+<font>Court</font> (then sitting in the <font>Painted Chamber</font> )
+gave notice to the people there assembled, That
+in regard the <font>Court</font> was then upon the
+examination of Witnesses in relation to present
+affairs, in the <font>Painted Chamber</font> , they could not
+sit there, but all persons appointed to be there, 
+were to appear upon further Summons.</nonSpeech>
+<pagebreak id="42" />
+ <head> <font>THE PROCEEDINGS OF THE HIGH COURT OF JUSTICE
+SITTING IN</font> WESTMINSTER HALL, <font>ON SATURDAY
+THE</font> 27. <font>OF</font> JANUARY, 1648.</head> 
+
+<nonSpeech>O Yes made. Silence commanded. The <font>Court</font>
+called. Serjeant <font>Bradshaw</font> , <font>Lord
+President</font> (in a Scarlet robe) with sixty eight other
+Members of the Court.
+
+   As the King comes in, a cry made in the Hall
+for</nonSpeech><dialogue> <font>Execution, Iustice, Execution</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> I shall desire a word to be heard a
+little, and I hope I shall give no occasion of
+interruption.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> You may answer in your
+time, hear the <font>Court</font> first.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> If it please you Sir, I desire to be
+heard, and I shall not give any occasion of
+interruption, and it is only in a word, a sudden
+Judgment. --
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir you shall be heard in
+due time, but you are to hear the <font>Court</font> 
+first.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Sir, I desire it will be in order to
+what I believe the <font>Court</font> will say; and 
+<pagebreak id="43" />
+therefore Sir, an hasty Judgment is not so soon
+recall'd.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, You shall be heard 
+before the Judgment be given, and in the mean
+time you may forbear. 
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Well Sir, shall I be heard before the
+Judgment be given?
+
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Gentlemen, it is well
+known to all, or most of you here present, That
+the Prisoner at the Bar hath been severall times
+convented and brought before the <font>Court</font> to
+make Answer to a <font>Charge</font> of Treason, and
+other high crimes exhibited against him
+in the name of the People of </dialogue><nonSpeech> <font>Here a Malignant Lady interrupted  
+the Court, (saying</font> </nonSpeech><dialogue> <font>not halfe the people) </font> </dialogue><nonSpeech> <font>but she was  
+soon silenced</font> .</nonSpeech><dialogue> 
+<font>England</font> , to which <font>Charge</font> being
+required to Answer, he hath been so
+far from obeying the commands of
+the <font>Court</font> by submitting to their
+Justice, as he began to take upon
+him to offer reasoning and debate
+unto the Authority of the <font>Court</font> ,
+and of the highest <font>Court</font> that
+constituted them to Try and judge him;
+but being over-ruled in that, and
+required to make his Answer, he
+was still pleased to continue
+contumacious, and to refuse to submit or Answer:
+Hereupon the <font>Court</font> , that they may not be
+<pagebreak id="44" />
+wanting to themselves, to the trust reposed in
+them, nor that any mans wilfulness
+prevent Justice, they have thought fit to take the
+matter into their consideration; They have
+considered of the contumacy, and of that
+confession, which in Law doth arise upon that
+contumacy; They have likewise considered of
+the notoriety of the Fact charg'd upon this
+Prisoner, and upon the whole matter they are
+resolved, and have agreed upon a Sentence to be
+now pronounced against this Prisoner: but in
+respect he doth desire to be heard, before the
+Sentence be read, and pronounc'd, the <font>Court</font>
+hath resolved that they will hear him; yet Sir,
+thus much I must tell you before-hand, which
+you have been minded of at other <font>Courts</font> , That
+if that you have to say be to offer any debate
+concerning Jurisdiction, you are not to be
+heard in it, you have offered it formerly, and
+you have indeed struck at the root, that is the
+power and <font>Supreme Authority of the
+Commons of England</font> , which this <font>Court</font> will not
+admit a debate of, and which indeed is an
+irrational thing in them to do, being a <font>Court</font> that
+acts upon <font>Authority</font> derived from them, that
+they should presume to judge upon their
+Superior, from whom there's no Appeal. But Sir, if
+you have any thing to say in defence of your self
+concerning the matter charged, the <font>Court</font> hath
+<pagebreak id="45" />
+given me in command to let you know they
+will hear you.
+   </dialogue><nonSpeech> <font>The King.</font> </nonSpeech><dialogue> Since that I see that you will 
+not hear any thing of debate concerning that
+which I confess I thought most material for
+the peace of the Kingdom, and for the Liberty
+of the Subject, I shall wave it, I shall speak
+nothing to it, but only I must tell you, That
+this many a day all things have been taken
+away from me, but that that I call more dearer
+to me then my life, which is, <font>My Conscience
+and my Honor</font> ; and if I had respect to my Life
+more then the Peace of the Kingdom, the
+<font>Liberty of the Subject</font> , certainly I should have
+made a particular defence for my self, for by
+that at leastwise I might have delayed an ugly
+Sentence, which I believe will pass upon me;
+Therefore certainly Sir, as a man that hath
+some understanding, some knowledge of the
+world, if that my true zeal to my <font>Country</font> had
+not over-born the care that I have of
+my own preservation, I should have gone
+another way to work then that I have done; Now
+Sir I conceive, That an hasty <font>Sentence</font> once
+past may sooner be repented then recalled, and
+truly, the self-same desire that I have for <font>the
+Peace of the Kingdom, and the Liberty of the
+Subject</font> , more <font>then my own particular</font> , does
+make me now at last desire, That having
+<pagebreak id="46" />
+something for to say that concerns both, I desire
+before <font>Sentence</font> be given, that I may be heard in
+the <font>Painted-Chamber</font> before the Lords and
+Commons, this delay cannot be prejudicial to
+you whatsoever I say, if that I say no reason,
+those that hear me must be Judges, I cannot be
+Judge of that that I have, if it be reason, and
+really for <font>the welfare of the Kingdom, and the
+Liberty of the Subject</font> , I am sure on't very
+well tis worth the hearing; Therefore I do
+conjure you, as you love that that you pretend,
+I hope it's real, <font>the Liberty of the Subject, the
+Peace of the Kingdom</font> , that you will grant me
+the hearing before any <font>Sentence</font> be past, I only
+desire this, that you will take this into your
+consideration, it may be you have not heard of 
+it before hand, if you will I'le retire, and you
+may think of it, but if I cannot get this 
+<font>Liberty</font> , I do here protest that so fair shews of
+<font>Liberty and Peace</font> are pure shews, and not
+otherwise, then that you will not hear your
+<font>KING</font> .
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, you have now
+spoken.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Yes Sir.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> And this that you have
+said is a further declining of <font>the Iurisdiction of
+this Court</font> , which was the thing wherein you
+were limited before
+<pagebreak id="47" />
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Pray excuse me Sir, for my
+interruption, because you mistake me, It is not a
+declining of it, you do judge me before you hear
+me speak, I say it will not, I do not decline it,
+though I cannot acknowledge the Jurisdiction
+<font>of the Court</font> ; Yet Sir, in this give me leave to
+say, I would do it, though I did not 
+acknowledge it in this, I do protest it is not the
+declining of it, since I say, if that I do say any
+thing but that that is for the Peace of <font>the
+Kingdom</font> , and <font>the Liberty of the Subject</font> , then
+the shame is mine. Now I desire, that you will
+take this into your consideration, if you will I'le
+withdraw.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, This is not altogether
+new that you have moved unto us, not
+altogether new to us, though the first time in Person
+you have offered it to the Court: Sir, you say
+you do not Decline the Jurisdiction of the
+<font>Court</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Not in this that I have said.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> I understand you well
+Sir, but nevertheless that which you have
+offered, seems to be contrary to that saying of 
+yours; for the <font>Court</font> are ready to give a
+<font>Sentence</font> : it is not as you say, <font>That they will not
+hear your King</font> , for they have been ready to
+hear you, they have patiently waited <comment type="compiler">SOURCE TEXT: wa ted</comment> your
+pleasure for three <font>Courts</font> together, to hear what
+<pagebreak id="48" />
+you would say to the Peoples Charge against
+you, to which you have not vouchsafed to give
+any Answer at all; Sir, This tends to a further
+delay: Truly Sir, such delaies as these neither
+may the Kingdom, nor Justice well bear; You
+have had three several daies to have offered in
+this kind what you would have pleased; This
+<font>Court</font> is founded upon that <font>Authority of the
+Commons of England, in whom rests the
+Supreme Jurisdiction</font> ; That which you now
+tender is to have another Jurisdiction, and a
+<font>Coordinate Jurisdiction</font> , I know very well you
+express your self. Sir, That notwithstanding
+that you would offer to the Lords and
+Commons in the <font>Painted Chamber</font> , yet
+nevertheless you would proceed on here, I did hear
+you say so; but Sir, That you would offer there,
+what ever it is, it must needs be in delay of the
+Justice here, so as if this <font>Court</font> be resolved, and
+prepared for the <font>Sentence</font> , this that you offer
+they are not bound in Justice to grant; but Sir,
+according to that you seem to desire, and
+because you shall know the further pleasure of
+the <font>Court</font> upon that which you have moved,
+the <font>Court</font> will withdraw for a time.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Shall I withdraw?
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, Yow shall know the
+pleasure of the <font>Court</font> presently, </dialogue><nonSpeech>the <font>Court</font> 
+withdraws for half an hour into the <font>Court of
+Wards</font>
+<pagebreak id="49" />
+   Sergeant at Arms, the <font>Court</font> gives command
+that the Prisoner be withdrawn, and they give
+order for his return again.
+The Court withdraws for half an hour and 
+returns.</nonSpeech>
+   <nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sergeant at Arms, send for
+your prisoner.
+   Sir, you were pleased to make a motion here
+to the <font>Court</font> to offer a desire of yours touching
+the propounding of somewhat to the Lords
+in the Painted Chamber for the Peace of the
+Kingdom; Sir, you did in effect receive an
+Answer before the Court adjourned; Truly Sir,
+their withdrawing and adjournment was <font> <foreign>pro 
+forma tantum</foreign> </font> , for it did not seem to them that
+there was any difficulty in the thing; they have 
+considered of what you have moved, and have
+considered of their own <font>Authority</font> , which is
+founded, as hath been often said, upon the
+<font>Supream Authority of the Commons of England
+Assembled in Parliament</font> . This <font>Court</font> acts
+accordingly to their Commission. Sir, the return
+I have to you from the <font>Court</font> , is this; That
+they have been too much delayed by you
+already, and this that you now offer hath
+occasioned some little further delay, and
+they are JUDGES appointed by the
+highest JUDGES, and Judges are
+<pagebreak id="50" />
+no more to delay then they are to deny Justice,
+they are good words in the old <font>Charter of
+England</font> , <font> <foreign>Nulli negabimus, nulli vendemus,
+nulli deferremus Justitiam</foreign> </font> : There must be
+no delay, but the truth is Sir, and so every
+man here observes it, That you have much
+delayed them in your contempt and default, for
+which they might long since have proceeded to
+judgment against you, and notwithstanding
+what you have offered, they are resolved to
+proceed to punishment, and to Judgment, 
+and that is their unanimous resolution.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Sir, I know it is in vain for me to
+dispute, I am no <font>Sceptick</font> for to deny the
+Power that you have, I know that you have 
+Power enough; Sir, I confess, I think it would
+have been for the Kingdoms Peace, if you
+would have taken the pains for to have shewn
+the Lawfulness of your Power, for this delay
+that I have desired, I confess it is a delay, but it
+is a delay very important for the Peace of the
+Kingdom, for it is not my Person that I look
+on alone, it is the Kingdoms well-fare, and the
+Kingdoms Peace, it is an old Sentence, <font>That
+we should think on long before we have
+resolved of great matters suddenly</font> ; Therefore Sir,
+I do say again, That I do put at your doors all
+the inconveniency of an hasty <font>Sentence</font> , I
+confess, I have been here now I think this week,
+<pagebreak id="51" />
+this day eight days was the day I came here
+first, but a little delay of a day or two further
+may give Peace, whereas an <font>hasty Judgement</font>
+may bring on that trouble and perpetual 
+inconveniency to the Kingdom, That the child that
+is unborn may repent it; and therefore again, 
+out of the Duty I ow to God, and to my
+Country, I do desire that I may be heard by the
+Lords and Commons in the <font>Painted Chamber</font> ,
+or any other Chamber that you will appoint 
+me.
+   </dialogue><nonSpeech> <font>Lord Pres.</font> </nonSpeech><dialogue> Sir, you have bin already answer'd
+to what you even now moved, being the same
+you moved before, since the Resolution and
+the Judgement of the <font>Court</font> in it, and the
+<font>Court</font> now requires to know whether you
+have any more to say for your self, then you
+have said, before they proceed to Sentence.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> I say this Sir, That if you will hear me,
+if you will give me but this delay, I doubt not
+but I shall give some satisfaction to you all
+here, and to my People after that, and
+therefore I do require you, as you will answer it at
+the dreadfull day of Judgment, that you will
+consider it once again.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> Sir, I have received
+direction from the <font>Court</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Well Sir.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> If this must be re-enforc'd, or
+<pagebreak id="52" />
+any thing of this nature, your answer must be
+the same, and they will proceed to <font>Sentence</font> if
+you have nothing more to say.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Sir, I have nothing more to say, but
+I shall desire that this may be entered what I
+have said.
+   </dialogue><nonSpeech> <font>Lord President.</font> </nonSpeech><dialogue> The <font>Court</font> then, Sir, hath
+something else to say unto you, which although
+I know it will be very unacceptable, yet 
+notwithstanding they are willing, and are resolv'd
+to discharge their Duty,
+<comment type="compiler">LONG SPEECH OMITTED.</comment>
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+<dialogue>
+<pagebreak id="69" />
+<comment type="compiler">LORD PRESIDENT'S LONG SPEECH ENDS.</comment>
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> I would desire onely one word
+before you give <font>sentence</font> , and that is, That you
+would hear me concerning those great
+<font>imputations</font> that you have layd to my charge.
+   </dialogue><nonSpeech> <font>Lord Presid.</font> </nonSpeech><dialogue> Sir, You must give me now
+<pagebreak id="70" />
+leave to go on, for I am not far from your
+<font>Sentence</font> , and your time is now past.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> But I shall desire you will hear me a
+few words to you, for truly what ever
+<font>Sentence</font> you will put upon me, in respect of those
+heavy <font>imputations</font> that I see by your speech
+you have put upon me, Sir, It is very true
+that --
+   </dialogue><nonSpeech> <font>Lord Pres.</font> </nonSpeech><dialogue> Sir, I must put you in minde.
+Truly Sir I would not willingly, at this time
+especially, interrupt you in any thing you have
+to say that is proper for us to admit of, but
+Sir, you have not owned us as a Court, and
+you look upon us as a sort of people met
+together, and we know what language we receive
+from your party.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> I know nothing of that.
+   </dialogue><nonSpeech> <font>Lord Pres.</font> </nonSpeech><dialogue> You dis-avow us as a <font>Court</font> ,
+and therefore for you to address your self to
+us, not to acknowledg us as a <font>Court</font> to judg of
+what you say, it is not to be permitted; and
+the <font>truth</font> is, all along from the first time, you
+were pleased to dis-avow and dis-own us, the
+<font>Court</font> needed not to have heard you one
+word; For unless they be acknowledged a
+<font>Court</font> , and engaged, it is not proper for you
+to speak: Sir, we have given you too much
+<font>liberty</font> already, and admitted of too much
+delay, and we may not admit of any farther;
+<pagebreak id="71" />
+were it proper for us to do, we should hear
+you freely, and we should not have declined
+to have heard you at large, what you could
+have said or proved on your behalf, whether
+for totally excusing, or for in part excusing
+those great and hainous charges that in whole
+or in part are layd upon you. But Sir, I shall
+trouble you no longer, your sins are of so large
+a dimension, that if you do but seriously think
+of them, they will drive you to a sad
+<font>consideration</font> of it, and they may improve in you a
+sad and serious <font>repentance</font> . And that the
+<font>Court</font> doth heartily wish that you may be so
+<font>penitent</font> for what you have done amiss, that
+God may have mercy at least-wise upon your
+<font>better part</font> . Truly Sir, for the other, it is our
+<font>parts</font> and <font>duties</font> to do <font>that</font> that the Law
+prescribes, we are not here <font> <foreign>Jus dare</foreign> </font> , but <font> <foreign>Jus
+dicere</foreign> </font> : we cannot be unmindful of what the
+<font>Scripture</font> tells us, <font>For to acquit the guilty is
+of equal abomination as to condemn the
+innocent</font> , we may not acquit the <font>guilty</font> ; what
+<font>sentence</font> the Law affirms to a <font>Traytor, Tyrant</font> ,
+a <font>Murtherer</font> , and a <font>publike Enemy</font> to the
+<font>Country</font> , that <font>sentence</font> you are now to hear
+read unto you, and that is the <font>sentence</font> of the
+<font>Court</font> .
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+<dialogue>
+<pagebreak id="72" />
+<comment type="compiler">READING OF THE SENTENCE OMITTED. THIS READING INCLUDES THE CHARGE,
+PARAPHRASES A DESCRIPTION OF CHARLES' REPEATED REFUSALS TO ANSWER THIS 
+CHARGE DURING HIS TRIAL, AND ENDS WITH THE ACTUAL DEATH SENTENCE.</comment>
+   </dialogue><nonSpeech>After the <font>sentence</font> read, the <font>Lord President</font>
+said;</nonSpeech><dialogue>
+<pagebreak id="73" />
+   This <font>sentence</font> now read and published, it is
+the <font>act, sentence, judgment</font> , and <font>resolution</font> of
+the whole <font>Court</font> .
+</dialogue><nonSpeech>Here the <font>Court</font> stood up, as assenting to
+what the <font>President</font> said.</nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> Will you hear me a word Sir?
+   </dialogue><nonSpeech> <font>Lord Pres.</font> </nonSpeech><dialogue> Sir, you are not to be heard after
+the <font>sentence</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> No Sir?
+   </dialogue><nonSpeech> <font>Lord Presid.</font> </nonSpeech><dialogue> No Sir, by your favor Sir.
+Guard, withdraw your Prisoner.
+   </dialogue><nonSpeech> <font>King</font> </nonSpeech><dialogue> I may speak after the <font>sentence</font> --
+   By your favor Sir, I may speak after the
+<font>sentence</font> ever.
+   By your favor (hold) the <font>sentence</font> Sir --
+   I say Sir I do -- 
+   I am not suffered for to speak, expect what
+Justice other people will have.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

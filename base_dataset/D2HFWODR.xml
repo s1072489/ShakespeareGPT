@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HFWODR">
+  <dialogueHeader>
+
+    <filename>D2HFWODR</filename>
+
+    <identifier>2 HANDB FRE D2HFWODR</identifier>
+
+    <title>THE FRENCH TONGVE</title>
+
+    <author>WODROEPHE JOHN</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1625</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-FRENCH">Language teaching handbook: French</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">WODROEPHE, JOHN.</attribution>
+      <frontMatter>THE MARROW OF THE FRENCH TONGVE. 
+CONTAINING
+1. RULES FOR THE TRUE PRONUNCIATION OF EUERY LETTER AS IT IS
+WRITTEN OR SPOKEN.
+2. AN EXACT GRAMMAR, CONTAINING THE NINE PARTS OF SPEECH OF 
+THE FRENCH TONGUE.
+3. DIALOGUES IN FRENCH AND ENGLISH, FITTED TO ALL KIND OF DISCOURSE
+FOR COURTIERS, CITIZENS, OR COUNTRY-MEN, IN THEIR AFFAIRES AT HOME,
+OR TRAUELLING ABROAD.
+(...)
+SO EXACTLY COLLECTED AND COMPILED BY THE GREAT PAINES AND INDUSTRY
+OF M. IOHN WODROEPHE, THAT THE MEANEST CAPACITY EITHER FRENCH OR
+ENGLISHMAN, THAT CAN BUT READE, MAY IN A SHORT TIME BY HIS OWNE
+INDUSTRY WITHOUT THE HELPE OF ANY TEACHER ATTAINE TO THE PERFECTION
+OF BOTH LANGUAGES.
+(...)
+THE SECOND EDITION: REVIEWED AND PURGED OF MUCH GROSSE ENGLISH, AND
+DIVERS ERRORS COMMITTED IN THE FORMER EDITION PRINTED AT DORT.
+LONDON, 
+PRINTED FOR RICHARD MEIGHEN, AT THE SIGNE OF THE LEG IN THE STRAND, 
+AND IN SAINT DUNSTANS CHURCHYARD IN FLEETSTREET. 
+1625.
+PP. 173.1 - 194.33 SAMPLE 1
+PP. 233.1 - 235.32 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">FIRST COLUMN ON EACH PAGE OF THE SOURCE TEXT, IN FRENCH, IS OMITTED
+BELOW. FOR CLARITY, SPEAKER NAMES MISSING FROM THE SECOND COLUMN, I.E.
+THE ENGLISH TEXT, ARE SUPPLIED FROM THE FRENCH VERSION IN THE FIRST
+COLUMN.</comment> 
+
+<comment type="compiler">EMPTY LINES IN THE SECOND COLUMN WHICH REFLECT THE LONGER TEXT IN 
+THE FIRST COLUMN ARE OMITTED.</comment>
+
+<comment type="compiler">LITERAL TRANSLATIONS FROM FRENCH EXPLAINED IN NOTES IN THE MARGIN OF
+THE SOURCE TEXT ARE OMITTED BELOW.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="173" />
+ <head>A DISCOURSE BETWEENE THE BURGUER
+AND THE YEAMAN</head> <dialogue>
+   Ho Yeaman, from whence lead you
+that load of wood? that load of fagots,
+of great wood, and of logges?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Sir, I bring it from the wood: I bring 
+it from the forrest: I bring it from the field,
+from the groue, from the hedges, from the
+vnderwood, from the bramble bushes: from
+our land towne, from our village, and from
+our hammell.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Is it good? is it dry? is it wood of birch?
+is it oaken wood?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> O yea Sir, it burneth well: it burneth like
+brimstone.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Yeamanesse, good wife, haue you no fresh
+egges? haue you any ducke egges? some
+pullets? some fresh butter? some sweet or
+sowre milke? some good sweet creame?
+some creamed, or curdded milke? any
+churned milke, or new cheese?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yes, yes, Sir: O yea! I haue some of all
+sorts, and good to eate.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> How much sell you the dozen of fresh
+egges? the pound of butter? the pint, or the
+pot of your milke?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Sir, come your wayes and see, and I will
+giue you good cheape of all.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> I will, well, let me see it then if it please
+you.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Goe to, come, come: of which doth it
+please you to haue Sir?
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> I will some of all sorts, measure me, sell
+me: make me good measure: measure mee
+well: sell me good cheape: ouerprize not
+the price thereof: Goe to, take your money:
+render me my rest: but how much will you
+haue? how much should I giue you? tell
+me quickly.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Sir, you know it well: you know it so
+well as I: hold, take women then. Adieu till
+I see you againe good wife.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Ho, speake good wife: hola, speake:
+hearke here a little: haue you spunne the fine
+flaxe, and the hempe of my Lady, &amp;c. or
+mine? haue not you bleached my fine linnen
+for to make some shirts? my threed, and
+my coorse linnen for to make some sackes;
+and some other paultry for mine houshold,
+and for to accommodate my children and
+my seruants?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> No truly Sir yet: for I haue had no
+leasure since: it hath alwayes beene drie
+weather since, I assure you.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Is not yet my corne ripe in the fields?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yes Sir, it is long agone: it behoues you
+but make ready your worke folkes: but
+your mowers, your shearers, and your
+cutters of corne.
+<pagebreak id="174" />
+<comment type="compiler">REPETITION OF PREVIOUS UTTERANCE OMITTED HERE.</comment>
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Haue you fed my horses, and my stoned
+horses? my mares, breeding mares, and
+colts: my cowes, and my calues? my bulls,
+and my beeues? my rammes, sheepe, lambs,
+and my ewes? &amp;c.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yes Sir, and Madame; all are well.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> My bore, and my hogges, my sowes and
+my pigges, do they feed well with oakornes
+of oake? with chesnuts, or other graine?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Ho, ho, Sir, a Sow or a Hog doth eate
+of euery thing, though it should bee of a
+stone, or of iron.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Are they in the wood, in the groue, in
+the forrest, or in the stie?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yea, yea, Sir: O yes! they are alwayes in
+the wood.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Are there any of them eaten with the
+wolfe, with the she-wolfe, with the foxe,
+with the she-foxe, with the beare, with the
+she-beare, or with the badger?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> O no! for they can defend themselues
+well with their clawes, with their pawes,
+and with their great pointed and sharpe 
+teeth.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> What say you? is it possible? truly I
+beleeue it not.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yea truly it is true: I assure you that it is
+very true.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Is not this here, my caroch, my coach,
+my chariot, my cart, and my litter.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yes, yes, sir, and all their equipage; as the
+harnesse, the furniture, and their
+necessities.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Haue you spanged my horses to the
+chariot?
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Yes, Sir, I spanged them the other day
+for to carrie some dung, and some dunghill,
+for to fatten the land, the yarde, and the
+field.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Well, well, it was well done. Till me the
+land well, the fields, and the yards with the
+plough, and the harrow: and harrow me
+also the land, the field, and the yard, after
+that you shall haue ared, sowne, and
+accommodated them.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Sir, I shall not faile to doe it: I shall not
+misse to doe it.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Thresh me well the corne with the flaile
+in the barne, on the floore: and fan, riddle,
+and make very cleane, my graine, out of his
+chaffe, and straw: and chiefly my wheate.
+Moreouer, feed well, and take heed to my
+Pigeons, Hennes, and Pullets; to my
+Peacocke, &amp; to my Peahen: to my Turky cocks,
+and to my Turkyhens: and to all their little
+chickens: and aboue all to my Doue-coat.
+<pagebreak id="175" />
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Sir, there shall be no fault in all that: wee
+shall take heed to all.
+   </dialogue><nonSpeech>B.</nonSpeech><dialogue> Adieu good man, and good wife: God
+keepe you from euill.
+   </dialogue><nonSpeech>P.</nonSpeech><dialogue> Adieu Sir, adieu Madam vntill the next
+market day.
+
+</dialogue> <head>A DISCOURSE BETWEENE A CAP. AND HIS
+INFERIOUR OFFICERS AND 
+SOULDJERS.</head> 
+   <nonSpeech>C.</nonSpeech><dialogue> My Lieutenant, mine Ensigne, my
+Serjeans, and my Corporals.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> What doth it please you sir? will you 
+haue any thing?
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> I beleeue we must march, take our way,
+and make a voyage to morrow: that it
+behoues vs to beate to the fields one of these
+dayes, or very soone.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Sir where if it please you? in what part
+must we goe? march? take our iourney? or 
+make our voyage?
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> Doe not you know? against the enemy,
+in the fields, in the champion field.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Sir, what sort of enemy? what sort of
+folkes be they?
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> The Spaniard, the Castilian, the Italian
+and the Albanians.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> The ill man breake his armes, the head
+and the legges.
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> Amen, amen: so be it: so may it happen
+vnto him.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Sir, is he so neere? is hee so nigh? is hee
+verie neare?
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> Yes, yes: see here he is at hand: behold,
+he is here at our flankes: see here hee is
+behind vs: see here he is within a shot of a
+cannon, of a musket, of a harquebuse, of a pistol,
+to vs.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Then shall it be for his harme, for his
+damage, and to his losse.
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> Sir, since it is so, cause the horsemen to
+aduance, the troops, the men at armes, the
+carbins, the dragons, the light horsemen,
+the fantassins, the lanciers, the
+scoppetiers, the harquebusiers on horsebacke: and
+all the other braue Voluntaries that follow
+after vs.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Sir, see here they are all: see here they
+come: and are all armed, equipaged and
+ready. Behold also the barded horses that
+conuoy the cannon, the baggage, and all the
+munition, to wit, the powder, the bullets,
+the cannon bullets, the match, the cariage,
+the harnesse, the attirals, the victuallers, the
+pinoniers, the mules, the mulers, the asses,
+the nags; and all their equipage: and all
+others munition and furniture of war.
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> Musketiers, be ready: Pikemen aduance
+you to the front, quickly, quickly. Halt:
+hold you still without any words: silence.
+<pagebreak id="176" />
+Giue the word to the Sergeant from hand
+to hand. Make them keepe their rankes, and
+hold them ready for all occasions.
+   </dialogue><nonSpeech>O.</nonSpeech><dialogue> Sir, we will doe it, and protest all to die
+and liue with you.
+   </dialogue><nonSpeech>C.</nonSpeech><dialogue> I thanke you my masters: I thanke you
+fellowes.
+   Have courage my masters: take courage
+fellowes: if it please God we shall all be rich:
+we shall all be mounted, equipaged, and in
+better order to morrow: wee shall well
+recompence our long journeyes, and our great
+trauell. For the Spaniards haue gold chaines
+about their neckes, and great store of
+pistols in their purses; without other fine white
+money, so well rials, as mattes: and many
+other sorts of money very fine and good.
+    Sa, sa, prepare you: for they come and tell
+vs, That the enemie is here at hand. Do not
+ye heare his horses neigh? Light your
+matches from hand to hand. Light your matches
+at both the ends. Cocke your matches:
+bullet in mouth.
+   A brace of Sergeants from hand to hand.
+Keepe your rankes: to your long order:
+silence: no words, momme, halt, halt.
+   Musketiers, are ye ready? giue fire, giue
+fire. Ho, ho, let vs charge, charge, kill, kill.
+Shoot, harquebusiers and musketiers. Haw
+pikemen, aduance, aduance: charge, charge,
+sa, sa, sa. Let vs giue on, let vs lay vpon those
+robbers, for they shall pay very deare their
+boldnesse: they shall pay deare their
+rashnesse and comming.
+   Cut, cut their throats: for euen so well
+shall they cut yours, if they abide masters of
+the battell, of the Champion field, of the
+field, and of our Campe.
+
+</dialogue> <head>LITTLE WORDS BETWEENE A SCHOOLE-MASTER,
+AND ONE OF HIS SCHOLLERS.</head> 
+   <nonSpeech>E.</nonSpeech><dialogue> Master, is the French tongue vneasie,
+or difficult for to learne.
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> No, no: in no wise: O no!
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Tell mee the reason thereof: tell mee the
+cause thereof: tell me the subject: tell mee
+wherefore.
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Because (as it seemeth to me) that by the
+meanes of the grace, the fauour, and the
+assistance of God, there is nothing done, or
+ordained by him, but it is easily learned: I say
+concerning tongues.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Notwithstanding men say, That the
+Bible, the holy Scriptures, the holy Writs, the
+holy Letters are very mysticall, and vneasie
+to be vnderstood?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Well yea of the euill liuers, and of those
+which neglect the duty which they owe to
+our Lord: but concerning the faithfull,
+<pagebreak id="177" />
+they bee but tales, that they vnderstand
+them not: yea euen so well as they wish,
+prouided they vse good diligence, therein
+praying the Lord to reveale to them the true
+sense thereof.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> But who forbids then that euery one
+should reade it?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> The Romish Church, the Church of
+Rome: the Popish Church: the Church of
+humane traditions: the Church of men.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Hath it beene forbidden of God? of
+Iesus Christ?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> No neuer: but (contrariwise) it hath
+been instituted for mens saluation (fearing
+God) generally to all sorts of men, yong, or
+old, so well men as women: so well boyes
+as wenches: so well fathers as mothers: so
+well children as seruants, and seruing maids:
+so well men of Church, as men of the fields
+or trades men.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Why haue those men done that? tell me
+the reason thereof?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Ile tell it you? Couetousnesse is an euill
+canker, which hath beene the cause of it,
+and is yet cause of many other euils in the
+world.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Then that hath also beene cause that the
+Lord hath excluded his Word from such
+folkes?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Yea: and hath blinded them in their
+wickednesse yet more: because they haue
+shut the gate on him, when hee hath
+knocked, desiring (by great mercy) their well
+and saluation.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> But Master, why bring you mee here the
+passages of the holy Scripture, and sacred
+things, when I demand you other vocables
+of little consequence?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> It is for feare least all my Schollers should
+neglect their owne duty towards their
+Parents, and betters: to wit towards God first,
+and his holy Word: and also to their Fathers
+and mothers: Secondly, to their Superiours,
+and folkes which they ought to reuerence:
+thirdly, to keepe irrefragable amitie with 
+their brothers and neighbours.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Sir, I see then by that meanes, that
+carelesnesse, and our lusts, are bad things: are euill
+vices, obstacles, and lets, which hinder vs to
+feare the Lord?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Yes truely: truely yea: truely your
+reason is good.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Sir, doe not you tell mee also that those
+cursed vices, those cursed lusts: our wicked
+flesh: the fragile, fraile, and soft worldly
+things: all sorts of cupidities doe hinder
+vs to know the Word of God: the
+heroicall renowne of vertue the chast, and manly
+<pagebreak id="178" />
+force (which we ought to enjoy betwixt the
+yong age, vntill the age of Adolescence and
+virilitie.
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Yea, I tell you the pure truth thereof: for
+euery man that loseth the time after his lusts,
+doth lose his courage: loseth his renowne:
+loseth the force of his body: puts his bodie
+in many dangers: strayeth himselfe from the
+favours of God: tormenteth his conscience:
+encurreth many excesses and scabs,
+excrements, cathaires and euill humours.
+Moreouer, dulleth his noble memory: putting
+himselfe also in danger of the pockes, of
+gangraynes, and vlcers which doe gnaw his
+body: cuts him the thread of life before euer
+he come to halfe age: where contrariwise,
+he who feareth God (taking the time by the
+end) and reading his Word: and betakes him
+selfe to study, and to vertue (which bee the
+true rudder of the faithfull, and generous)
+shall sit among the learned, and graue men,
+to giue counsell for the good and state of a
+Common-wealth. Furthermore, the Lord
+will fulfill him his Saying, dictated by the
+holy Ghost, and by the mouth of his seruant,
+and Prophet Dauid, Saying, &amp;c.
+<comment type="compiler">VERSE OMITTED.</comment>
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Maister, doe not the debauches, and
+our lusts hinder the bringing vp of
+the youth <comment type="compiler">SOURCE TEXT: yonth</comment> , our studies, and foraine tongues?
+as the Latine, the French, the Italian, and
+many other.
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Truely child, there is no doubt of it: for
+what more honour can men get in the
+world then to know to speake foraine
+tongues? since that by S=t= Pauls own mouth
+esteemes them worthy to be learned, calling
+them the grace, and the gift of the Lord.
+<pagebreak id="179" />
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Maister, is the French tongue very
+needfull, and profitable among the Nobilitie?
+   </dialogue><nonSpeech>M.</nonSpeech><dialogue> Yea, and yet more profitable among the
+Merchants: for except it be the Latine: me
+thinkes, it is the most profitable of all
+Christendome: and almost, it is so much in vse
+(if I durst say it) as the Latine, and rather
+more.
+   </dialogue><nonSpeech>E.</nonSpeech><dialogue> Is it so easie, and docile to bee learned as
+the Latine?
+   </dialogue><nonSpeech>Ma.</nonSpeech><dialogue> Yes, much more: yea more then the
+halfe.
+<comment type="compiler">LIST OF TITLES AND TERMS OF ADDRESS OMITTED.</comment>
+<pagebreak id="181" />
+</dialogue> <head>THE GREAT ORCHARD OF
+RECREATION:
+COMPOSED &amp; GATHERED OUT OF SUNDRY DUTCH AUTHORS,
+AND AFTERWARD TRANSLATED, AND DIUIDED INTO TWELUE CHAPTERS,
+<font>BOTH IN FRENCH, AND ENGLISH</font> .</head> 
+
+ <head>THE RISING IN THE MORNING, THE CLOATHING,
+AND GOODS OF THE CHAMBER; AND SOME
+OTHER BUSINESSE PARTAINING TO THE
+SAME. BETWEENE NALANO,
+TORQUATO: AND RUPSA SERVANT.
+THE FIRST CHAPTER.</head> 
+   <nonSpeech> <font>N.</font> </nonSpeech><dialogue> Ho! Master Torquato, will
+you sleepe all the day
+long?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Who is there? who cals
+me? who demands me?
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> One of your Friends: a
+friend: it is I, are you vp?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Who are you? what demand you? what
+seeke you?
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Good morrow Master Torquato:
+doe you sleepe yet?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Ah Master Nalano, excuse me, I will
+rise presently.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Rise at your ease, I will stay for you.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> I will come presently and open you
+the gate.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Not so in haste: be not so hasty: doe
+not hast you so much.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Behold the gate is open, doth it please
+you to enter?
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> God giue you a good morrow.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> And to you in like manner Sir: you
+are most heartily welcome.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> I kisse your hands very humbly: were
+not you yet risen?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> No truly Sir, it is not yet so late.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Are not you ashamed to be so long in bed?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> I did not sleepe: I did but slumber.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> It seemeth to mee that you are yet sleeping?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> For to say the truth, I am not yet well
+awaked.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Ah if sluggishnes were vertue; how
+many vertuous should there be in the world?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> It should be pity: for I should bee of
+that number.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Now haue you made goods: can you
+also make the man?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> I make the man, and leaue the goods
+to be made by others.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> But how haue you reposed this night?
+<pagebreak id="182" />
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Well: but I haue had many dreedfull
+dreames.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Friend of the Muses, you should haue
+risen at the breake of day.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> So am I accustomed to do: but I went
+late to bed yesternight.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> But what do you? why do not you rise?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Ho Rupsa, come hither: Where art
+thou? what doest thou?
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Behold I am here: what doth it please
+you! what demand you Sir?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Open me that window there, and giue
+me my cloathes.
+   </dialogue><nonSpeech> <font>N.</font> </nonSpeech><dialogue> Sir, what cloathes doth it please you
+to put on to day?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Giue me first a cleane shirt, and one of
+the finest.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, there is but two of them cleane.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Where be all the other? where be all
+my cleane shirts?
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir the Landresse hath six of them.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> How many haue I in all?
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, you haue some three dozen.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Then I want foure.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Excuse me Sir, behold here yet some foule.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Cause them all to bee washed for to
+morrow.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Ile send them: Ile cause cary them
+to the Landresse to morrow.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Dispatch thee: giue me a cleane shirt.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, what ruffe-bands will you weare
+to day?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Those of battiste linnen, or of Cambricke.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, will not you weare falling bands?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> No: giue me a ruffeband, it is more
+warme about my necke.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, here is a ruffe for you.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Loggerhead, seest not thou that it is
+all wet?
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, forgiue it me, for I tooke no heed
+to it.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Goe and warme it in the Kitchene.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, there is no fire there.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Make only a blaze with a little sticke
+of wood.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, here it is, put it on the while it is
+warme.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Take heed there be small strings on it.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, there are on both sides.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Giue me my Wastcoat quickly.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, which will you haue? the wollen
+one?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> No: giue me the knit one.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, what cloathing doth it please you
+to weare to day?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Those of white satin laid with gold lace.
+   </dialogue><nonSpeech> <font>R.</font> </nonSpeech><dialogue> Sir, they lacke, I know not how many
+buttons.
+<pagebreak id="183" />
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Put them on presently.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I haue neither needle, threed nor
+thimble.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Goe to the Taylor and borrow one.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir; Ile repaire them for to morrow.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Master Nalano, doe not thinke long.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> No, no, sir: in the meane time Ile reade
+in this booke.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Boy, giue me rather my sute of taffata,
+for it is warme weather.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, it is in the bottome of the Trunke.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> You euill boy, why dost not thou take
+it out?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I did not thinke you should haue
+worne it any more, because it is too narrow
+for you, and is all worne.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Giue me then which thou wilt.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, here is your sute of cut fustian.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Where be the Brushes, that I cannot see them?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, see them there tied to that naile.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Where is the count of all mine apparell?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, they are all in your Trunckes and
+Coffers.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Bring it me quickly: reade it to me,
+quickly.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, See there <comment type="compiler">SOURCE TEXT: rhere</comment> is first a long      
+night Gown,
+lyned, and furred with Martinskins. 
+<comment type="compiler">LIST OF CLOTHES OMITTED.</comment>
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Where is the rest? Is there no other thing?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, the rest is here vp and down the
+Chamber.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Make shift to finde out the rest,
+otherwise keepe you well from my hands.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> See here be yet two paire of Bootes,
+the one of Spanish leather, and the other of
+Neats leather. A paire of Spurs. Three paire
+of Boothoses. A paire of Pantofles. Your
+Pumpes. Your night slippers.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Where is all my Linnen, great and small?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, all is in that great Box there.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Go you (Senselesse) look if all be there.'
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I cannot find the key.
+<pagebreak id="184" />
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Carelesse body that thou art, where
+hast thou layed it?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> I put it this morning in my Pocket:
+Ha Sir, I haue found it.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Art thou <comment type="compiler">SOURCE TEXT: rhou</comment> so poore of memorie?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I remember not so far as between
+my mouth and my nose.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Thou shalt neuer make a lodging of
+three house height.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, can I make a good one, of one
+onely?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I beleeue, three Trees shall suffice
+thee to make them.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, neuerthelesse great men come
+(very often) to dwell in such little lodgings, and 
+low houses.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> By the Body that I will not sweare, if
+I lay my hand on a codgell, Ile make thee
+stay in thy right senses.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I can serue you no other wayes.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Thou wilt that I take a log of wood,
+and swinge thee with it ouer thy backe, or
+about thine eares.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, God keepe you from doing so: I
+would not you did that, for much.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I see well now, that he who is bad of
+Nature, is bad vnto the graue, if God hath
+not called him.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, see here be a dozen of shirts. 2 doze~
+of hand kerchers. As many <comment type="compiler">SOURCE TEXT: may</comment> of fallingbands.
+Eight ruffe bands with their Cuffs wrought
+with silke. Foure Napkins. Six drinning
+cloathes. Eight quoifes. 3 paire of sheets.
+And yet in that combe case, be your combes
+of Box, and of Iuorie. Your litle Sizars, with
+your eare-pikers, Pick toothes, small forks:
+and other things pertaining to the same.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I see now that thou art an honest man:
+thou hast found it.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, see here bee yet two dozen of
+points.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Set this Coffer, and this truncke from
+thence, for they be too hote.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, will you weare shooes to day, or
+bootes.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> No, giue me the shooing horne to pull
+on my shooes.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, doth it please you that I pull them
+on to you?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> No, thinkest thou that I am so lazie?
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> What know I? it should neither bee
+meruell nor miracle.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Trusse vp my points loosly, and not
+with hard bound knots, for to make me cut
+them.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir here is one that is not tagged.
+What Girdle doth it please you to weare to
+day?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Reech me that embrodered with gold,
+and my sword Hangers of the same.
+<pagebreak id="185" />
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, doth it please you to weare your
+Rapier and Poniard to day?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Yes, yes, giue me my Rapier and
+Poinard.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir take this sword, for it is lightest,
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Giue me my Sword made of the
+Ferrara, and Italian Fashion.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Indeed, sir, it hath a faire hilt, and very
+light.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Reech mee the Combe, for to combe
+my haire.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, looke there is your come case
+vpon the Window.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Where be my gloues? I see them not.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, you forgot them yesterday in some
+part.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Go to the Glouer, and by me a paire of
+kidleather.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, will you haue them perfumed?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I care not, prouided they keepe my
+hands fresh and delicate.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> My God! you are long a dressing
+you.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, who goes softly, goes surely and
+safely: I come presently.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> But Sir, what doe you with so many
+garments?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I cloath the~ according to the weather.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> How many haue you to change?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I haue for to change one euery
+day in the weeke.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> You do not go cloathed as I do? to wit
+like a figure, and alwayes of one fashion.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Truly sir, you do it for your pleasure,
+and not of necessitie.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> How many sorts haue you of them?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I haue but of Veluet, of Satin, of
+Damaske, of Grogeram and of Fustian.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, you are very happy to enjoy of all
+your commodities so ready.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Yea it is you sir, who enjoyes the
+pleasures of the world!
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> No sir, it is you who can pisse in the 
+bed, and say you haue sweat in it.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I haue nothing but it is at your
+commandement and seruice.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, I doe acknowledge it, and thanke
+you very humbly for it.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I do not as many doe, who thinke
+neuer to be cloathed, if they haue not their
+warderobes and trunkes full.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Truly (may bee) Sir, those men haue
+their cloathing furred with great debts.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, behold therefore, I content my selfe
+with these few that I haue.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Who is content of a little, enjoyeth                       
+<comment type="compiler">SOURCE TEXT: enjoyerh</comment> al
+things.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> A content heart, is a good cloake for
+his shoulders.
+<pagebreak id="186" />
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, Why do you cloath you so
+warmlie.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> For to liue as it shall please God, and
+to follow the Prouerbe.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> How do you say that Prouerbe?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Cloathe thy selfe warmly: eate oft and
+little: drinke now and then (if God please)
+and thou shalt liue long.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Truly Sir, hee who can doe his owne
+affaires, will doe another mans worse.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> He who doth his owne affaires,
+defileth not much his hands with them.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, if it please you, let vs dispatch, and
+hast vs a little.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> The greatest haste is the least worke,
+and by spurring to much <comment type="compiler">SOURCE TEXT: muchs</comment> make the flight 
+the longer. Ile be more handsome to pare
+my nailes.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, you anger mee to make mee
+languish so long.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I haue not yet washed my face, nor
+my hands: nor I haue not trussed me.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, are you euery day so long in bed?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Yes sir, sometimes, according as I goe
+to bed.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> You annoy me very much to make me
+stay for you, and wishing so long for your
+most agreeable company!
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, but what be the mortell paines?
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> To stay for those that come not: to be
+in bed and sleepe not: to serue and please
+not: to haue a horse that goes not: to stray
+when one desires not: to be at a gate when
+they open not: and to haue a friend that
+betrayes thee: are six things for to kill
+thee.
+   Truly Sir, those bee the paines which I
+endure, and haue endured very often.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: E.</comment> In good truth Sir, I endure the first of
+them at this present houre.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, beleeue me, you shall endure it no
+more, for I haue done.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> God be praised, haue you once done?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, doth it please you to take a cup of
+wine before you goe forth?
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, it should be no great sinne.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Are you accustomed to drinke in the
+morning, or to make collation?
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> I accommodate my selfe with all
+things, and I am like a Millers sacke, and not
+as some doe whiles, making consciencce to
+spit in the Church before folkes, &amp; would
+doe worse if none should see them.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Ho Rupsa, bring vs hither some
+drinke.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> What is your pleasure Sir, doth it please
+you to haue any thing?
+<pagebreak id="187" />
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Bring some bread, some wine, and a
+napkin.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I will bring them you presently.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Rinse and wash the glasses and the
+Cups.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Well Sir, see there they bee faire and cleane.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Poure in some wine, and giue vs some
+drinke.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, I know not how you can drinke so earely?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Very well Sir. This to your good
+health.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, I loue it from you, and Ile pledge
+you with a very good heart.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Rupsa, giue some drinke to Maister Nalano.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, support me in that, for I drinke
+not often out of meale time.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, the morning drinke is good for to
+charme the mist.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, doth it please you to haue any
+other thing?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Giue me my sword, my poniard, and
+my cloake: helpe me to gird them on me.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, that cloake doth become you
+very well.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, shall I goe with you?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> No, not, dresse vp the Chamber, and
+shut vp all.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> Sir, I pray you let vs loose no more
+time.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I am ready, goe before and I will
+follow you.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> I had rather shew my selfe indiscreet,
+then disobedient.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Hola, Boy. follow me.
+   </dialogue><nonSpeech>R.</nonSpeech><dialogue> Sir, I come, but I go first to shut the
+gate and the doores.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Thou saiest well: but shut them with
+the keye.
+   </dialogue><nonSpeech>N.</nonSpeech><dialogue> who shuts well, opens well.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> True, and who feareth God, falleth
+neuer in mischance.
+
+</dialogue> <head>A DISCOURSE OF FAMILIAR SPEECH (VPON THE
+WAY IN THE MORNING): WITH AN OTHER
+PRETY DISCOURSE OF THE TENIS, BETWEEN THREE
+FRIENDS: TO WIT, <font>HENRY</font> , <font>IOHN</font> , AND
+<font>PECENIO</font> THEIR SERUANT. THE SECOND
+CHAPTER.</head> <dialogue>
+<comment type="compiler">ONE OF THE THREE FRIENDS IS MISSING FROM THIS HEADING. 
+THE FRENCH LANGUAGE HEADING HAS THOMAS, HENRY AND IEAN.</comment>
+
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> God giue you a good morrow, sir.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> And to you likewise sir, a good
+morrow and good yeare.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> The Lord grant you a good morrow
+Sir.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, the same be giuen vnto you with
+all happinesse.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, God giue you all good lucke and
+all prosperity.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, I wish you the same with a good
+heart.
+<pagebreak id="188" />
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> What are you going to doe so alone?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, I would not be alone in Paradice.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Notwithstanding it is better to be alone
+then in euill company.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> He who betakes himself to be with you
+is well accompanied.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, how doe you doe this morning?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, ready to doe you any seruice.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir how goes it with your health this
+morning?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, very well, at your
+commandement.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> How haue you done since the other
+day?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, I haue done well, and found my
+selfe well, praised be God.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Truly sir, I reioyce alwaies of your
+welfare.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> But whether are you bound to goe in
+such hast?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, I take my way towards S. Paul his
+Church <comment type="compiler">SOURCE TEXT: Chutch</comment> .
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> And you sir, whither goe you so alone?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I will goe walke a little.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> And you sir, so well as I, whither is it
+that you doe goe?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, I am going to the Exchange.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, doth it please you to haue company?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, very willingly, if I do not
+importune you.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> No truly sir, I shall be very glad of your
+company.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> And I sir, most glad of yours.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, doth it please you that I keepe you
+company?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, you shall doe me great honour and
+pleasure.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, I would not trouble you so much.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> No forsooth, sir, you should rather doe
+me honour.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, doth it please you to goe by land, or
+by water?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, it is euen as it shall please you, it is
+all one to me.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> If you finde it good, let vs go by water.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, that which liketh you pleaseth mee
+infinitely.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Where shall we then ship in?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, at S. Paul his Key.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> It is true, sir, a very commodious place.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, enter then into the Boat.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> That will I not doe by no meanes.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, doth it please you to enter into the
+Boat?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, to what end serue those ceremonies
+betweene you and I?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, I will enter then for to obey you.
+<pagebreak id="189" />
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> We are happy to haue two such strong
+men.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Euen as the Carters do serue vs by land,
+so also the mariners and watermen, doe vs
+pleasure and ease by water.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Truly sir, I am of your opinion.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> How like you this going by water
+in Boats?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, indeed I take pleasure to goe by
+water, but more to goe by land, and better
+without danger.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Why? is it by chance that those horses
+do please you that haue their bridles behind
+them?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Truely sir, they doe not please me at
+all, when I remember of a lesson that my
+father was wont to tell me now and then.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, what lesson if it please you to tell
+mee?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Well sir, he tould me often, When I
+was able to goe by land, that I should neuer
+goe by water.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Notwithstanding, men were wont to
+say, That hee who trauelleth not by sea,
+knew not what the feare of God was.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> And also he who trauells not by land,
+knows (no more) what solace, sport, and
+pleasure is.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, shall wee passe vnder the bridge
+since that the tide goes forth?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, to what vse are Bridges made?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> To passe ouer them, and not vnder
+them.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Why will you then wee passe vnder
+them?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Ho, ho, sir, I vnderstand you well.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Where shall we take land?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, at the end of the Bridge if it please
+you.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> On this side, or yonder side of the Riuer?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, as it shall be most commodious for
+you.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> On this side then, for to bee the neerer
+the Exchange.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, your opinion, What time of the
+tide is it?
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, I know not if it flowes or ebbes.
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Me thinks it flows, if I be not deceived.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, what haue you to doe at the
+Exchange, if it please you?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, I am to dispatch some businesse
+of mine.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, what businesse haue you there to
+bring to end?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Sir, I am to speake to a friend for some
+worke of mine.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> Sir, thinke you to finde him there?
+   </dialogue><nonSpeech>H</nonSpeech><dialogue> Yea forsooth, for he did promise me
+so yesterday.
+   </dialogue><nonSpeech>T</nonSpeech><dialogue> On what side hath he assigned you to
+finde him?
+<pagebreak id="190" />
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Where the Italians do walke, or there
+about.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Think you that he wil keep his promise?
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Yes sir, for I take him to bee an
+honest man.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Who promises and keepes not is not to bee
+trust to.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, you are in the right, but I trust to his.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Good God keepe mee from those in
+whom I trust, for I shall keepe me from
+those whom I mistrust.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, he gaue me so good words, that
+I could not refraine but trust him
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Doe not you know, that the wicked
+deedes, and the faire words, doe beguile the
+wise men so well as fooles?
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, I know it well, but if he strike me
+with his sword, Ile strike him againe with
+my scabbert.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, you will then render him a loafe
+for a cake.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, if it be possible, do neuer ill to
+him that wishes you any, for by hatred
+Nature is corrupted.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Notwithstanding (Sir) the wicked
+ought to be punished.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> It is true sir: but it is said, That to a
+Wolfes flesh, must be giuen a Dogs tooth.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, what a clocke is it now?
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, it is about ten a clocke.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, what houres be those that strike?
+know you?
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Eleuen Sir, it is eleuen a clocke.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, what a clocke may it be?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, it cannot fail, but it must be twelue.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, Ile goe see at the Sunne Dyall.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> But (to the purpose) VVhere will you
+dine to day?
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Truly (Sir) I know not yet where I
+shall dine.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir haue you made a promise any
+where?
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, in no wise, if I can remember.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Sir, doth it please you wee dine
+together?
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, I desire no other thing.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Shall we go then to some Ordinary?
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, as it shall please you.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Goe before and I will follow you.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, if it please you, Ile goe before and
+guide you the way.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, God doth favour me much, making
+me haue so honourable a Guide as you are.
+   </dialogue><nonSpeech>T,</nonSpeech><dialogue> Sir, I beleeue we are come too late.
+   </dialogue><nonSpeech>H,</nonSpeech><dialogue> Thinke not that, for it is yet very earely.
+<pagebreak id="191" />
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, doth it please you to stay for me a
+little here, and Ile come presently againe.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, in the mean time Ile walke a turn
+or two through the Exchange.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir. let it not displease you, Ile go speak
+with a Gentleman.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, truly with all Authority, and not
+with licence.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Now goe to, I haue ended my busines:
+shall we goe home and dine?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, I pray you, for I haue a good 
+stomocke.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> In good truth (Sir) that is a very good
+token of Health.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> I giue God thankes, I finde my selfe
+alwaies able and frolike of the body.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Sir, and of your Purse, how do you 
+feele it whiles?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, alwaies ill disposed and
+languishing.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Truly Sir, the disease is so common that 
+euery one feeles it.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, haue not you drunke to day?
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Not yet Sir, and you?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, I goe neuer forth of my lodging
+before I drinke a good Cup.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> I neuer vsed my selfe to it, but hence
+forth I will doe it.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> My God Sir! see here Mr. <font>Iohn</font> comes
+to see you.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> Truly it is he indeed, ah! Mr. <font>Iohn</font> ,
+you are very heartily welcome.
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> Sir, I kisse your hands very humbly.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> VVell my Masters, what shall wee doe
+vntill dinner time?
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> I agre to all things, provided wee doe
+any thing.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> My maisters, Ile refer my selfe to the
+Company.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Let vs then make some game at the
+Tenis.
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> Iust, for this morning doth require it
+being so cold.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> And there after we shall all go dine
+together.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> And also after noone wee will goe see
+some Comedy.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> How Sir, they are but repeating of old
+Histories.
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> Pardon me Sir, for in England are plaid
+true Comedies.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Yea Sir, and true Tragedies also, if men
+would seeke them.
+   </dialogue><nonSpeech>T.</nonSpeech><dialogue> My Masters, but let vs resolue to doe
+something <comment type="compiler">SOURCE TEXT: sometehing</comment> for to <comment type="compiler">SOURCE TEXT: ro</comment>     
+flye from idlenesse.
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> Let us then goe play at the Tennis.
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> My Masters, then shall it bee needfull
+that one of vs stand by.
+   </dialogue><nonSpeech>I.</nonSpeech><dialogue> I will stand by, play ye two together.
+<pagebreak id="192" />
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Not so, if it please you wee will cast
+lots for it.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> No Sir, make that I be a beholder, and
+not a player.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Goe to: since that you will doe so, let
+vs two play together.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir what advantage will you give me?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Sir, I will not play, if I play not like to like.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, I am content for a set or two.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> But to what Tennis court shall we go?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, to that of the Charter-house.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Verily, that is the fairest of London.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> But what shall Master <font>Henrie</font> doe in the meane    
+time?
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> My Masters, Ile goe along with you
+and see you play.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Yea, forsooth Sir, you shall stay and
+behold vs, and bee judge, if wee play ill or
+well.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Mr. <font>Henry</font> , doth it please you to bee
+halfe in the play with me?
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> No Sir, I take no pleasure to see my
+money flie away like smoake.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Doe, doe Sir, bee halfe with him for
+my sake.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Sir, (if it please you) excuse mee I
+will not doe it.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Holo Boy, bring hither some Rackets,
+and some Bals.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Sirs, how many are ye in all?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Child, we be two that will play.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Sirs, will yee play a partie, or
+bandy?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> We will play a Set, giue vs some good
+balls.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> See here be two dozen, white &amp; faire.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Master <font>Henry</font> , will you bee halfe with
+mee?
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Pardon mee (Sir) neither will I bee
+halfe with you.
+   </dialogue><nonSpeech> <font>I</font> </nonSpeech><dialogue> My Masters, let vs then obserue the law of play.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> It is then your meaning to stake down
+money, is it not so?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Well, yea Sir, I see well that you
+vnderstand it.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, here is mine, stake downe yours.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> My Masters, whose turne is it to play?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> It is I, because you are at the house.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Play then, and giue me a good ball.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, doth it please you, that this be play?
+   </dialogue><nonSpeech> <font>I</font> </nonSpeech><dialogue> As it shall please you, I doe not care.
+   </dialogue><nonSpeech> <font>T</font> </nonSpeech><dialogue> Goe to, play Sir.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> A losse: I haue fifteene.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Patience; play.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Say Boy, marke that chase.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Sir, behold it marked, and it is a great
+one.
+<pagebreak id="193" />
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, you will lose it.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Demand it of the Standers by.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Fifteenes all.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> I haue thirty, and a chase.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> My Masters, is the Ball aboue or
+vnder the Roape?
+   </dialogue><nonSpeech>H.</nonSpeech><dialogue> Sir, me thinkes it is vnder more then a spanne.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> I haue thirty for fifteene.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> And I, I haue two chases.
+   </dialogue><nonSpeech> <font>I</font> </nonSpeech><dialogue> Sir, the last is no chase, but a losse.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, how is it a Losse?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Because you did strike it at the second
+bound.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> You haue then forty; play.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> And <font>I</font> a duce.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, <font>I</font> haue an Advantage.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> That was a braue stroake.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> How is this my Masters? euerie one is
+against me.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> <font>I</font> haue wonne the first game.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> This is my mischance.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Mr. <font>Henry</font> , would you now be halfe in
+play with me?
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Yea verily Sir, if <font>I</font> had done it at the
+beginning.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Truly (Sirs) <font>I</font> sweat, and <font>I</font> am all wet in    
+water.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Let vs then quit the play, if it please you.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> My Masters, who shall pay the balls?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> It is <font>I</font> , how many dozen haue we had?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Ye haue had three dozen and a halfe.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> See, here is money for thee, hold, pay thy
+selfe, and render me my rest.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> What money is this here that <font>I</font> know it 
+not?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Doest thou not see that it is a crown of
+the Sunne?
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Sir, I haue no money for to change it
+to you, and then it is too light.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Weigh it then, for <font>I</font> know well that it
+is weight.
+   </dialogue><nonSpeech> <font>P.</font> </nonSpeech><dialogue> Truly Sir, it is too light by foure aces.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Sir, how much must you haue backe
+againe of your rest?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Fortie eight souce and a halfe.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Boy, Marker, render him his crowne, &amp;
+Ile disburse for him.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, doe me that curtesie for the like againe.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> My Masters, since that we haue done,
+where shall we now goe?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> As for me I will goe to my chamber.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Sir, what to doe there?
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Truly Sir, it is for to take my rest, for
+<font>I</font> am weary.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> My Masters, let vs rather go to my lodging.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Sir, that is the best advice, since it is
+not far from hence.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Let vs then goe apace, for it is late.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> <font>I</font> see not yet the houre for to set me to
+the table.
+<pagebreak id="194" />
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Nor I also: but where haue you your
+Ordinary?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> It is at my lodging with mine host and
+mine hostesse.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Are you there by Moneth, or by week
+with other table guests?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Yes Sir, we are there either by the
+moneth or by the weeke, as we will: and wee
+are vsed there like Princes, and very
+ioyfully.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Truly Sir, you doe very well, for a
+hundred thoughts shall neuer pay an ounce
+of debt.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Sir, haue you alwaies there good
+meat?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Truly, wee haue so much as sufficeth
+for the food of our bodies.
+   </dialogue><nonSpeech> <font>H.</font> </nonSpeech><dialogue> Sir, haue you where withall to break
+your fast in the morning?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Yes forsooth, sometimes (as to say) a
+little bread and butter.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> Truly you are in good case if you haue
+no other thing.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> You know well that he who is content
+is merry.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> In truth Sir, Ile come and see you one
+of these mornings.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Sir. I pray you do it: do so much that
+I may see you now and then.
+   </dialogue><nonSpeech> <font>T.</font> </nonSpeech><dialogue> And you, do in such sort, that we may 
+enjoy your presence.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Sir, doe not doubt; but I will come
+also and trouble you now and then. 
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="233" />
+ <head>A MOST PLEASANT DISCOURSE OF AN EUILL
+LODGING, AN VGLY AND HARD-FAVOURED WIFE, AND
+A FAIRE AND HONOURABLE LADY IN BEAUTY:
+WITH A COUNTERFAIT COMPLEMENT OF A
+SLUGGISH LAZY BODY: BETWIXT IAMES
+AND HIS SERVANT LIPPA.</head> 
+
+ <head>THE EIGHT CHAPTER.</head> 
+   <nonSpeech>I.</nonSpeech><dialogue> This may be called a miracle that thou
+art come so quickly againe.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, to say the truth, I haue taried no
+where.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> What good newes hast thou heard?
+hast thou done my Busines?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, I did see Master M. but not Master
+P. because he was gone abroad.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> And what good newes hath Master M.
+told thee?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, what would you he should say?
+you know well he is full of gentlenesse.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Child, I know it well, and so will I
+praise him all my Life time.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Verily Sir, he deserues that men
+honour him very much.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> It is true: for he is so curious that hee
+growes fat doing good to others.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Truly Sir, if he eate no other thing he
+should be in a poore estate.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> But what said he to thee?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, hee rendreth you his Salutation
+with double vsury, and thankes you kindly
+for your good remembrance of him.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> I am very glad that hee is in so good
+Health.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Moreover Sir, he sayes, If he could but
+set his foot abroad, hee would not faile to
+come himselfe and kisse your hands.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Goeth not hee then yet forth of his
+lodging?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, with great paine can he stand on
+his Feet, he is so weake.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> What did hee for to driue away the
+Time?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, he was lying aboue his Bed,
+playing on the Lute.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Knowest thou if he playes well or no?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, what know I? I know no more
+then a Swisser.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> But how doth it seeme to thee?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, according to my poore judgement
+me thinkes he playes very well.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> He playes also very well on the Violl,
+on the Cister, Virginals, and on the Flute.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> But what folks hath he in his lodging?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, I haue seene no body there, but a
+deformed, hardfavoured, foule, heavy, deaf,
+blind, dumme, squint-eyed, blind of one eie,
+vncleane and hideous Baud.
+<pagebreak id="234" />
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Verily! child, his house may then bee
+called a Hell.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, and yet worse, hauing such a
+wicked wife in his lodging.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Hath shee beene faire heretofore?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, you may well thinke! for shee is
+cloathed like a Nunne, coiffed like a
+Puppet, lame of one Arme, crooked of one
+Foot, blinde of one Eie, the other
+bleare-ey'd, hulch-backt, crumpshouldered, bald,
+flat-nosed; and that little shee hath is all
+wrinckled, and with great hanging Eares.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Alas! I have great compassion on him:
+but what said she to thee?
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, all toothlesse as shee was, began to
+raile and scould on me, giving mee injuries,
+and disdaining mee on the Market place in
+the sight of everie one (I being ashamed to
+flee away) shee approched verie nigh mee
+and gave me a terrible blast of her stincking
+Breath.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> It may be thou hast done some mischiefe
+unto her, in dispraise of her beautie, or by
+any bad or vndecent words.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir excuse mee, for I had never seene
+her before: and I beleeve there is not
+such an intricate and vilde Drabbe in the
+World.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> O what terrible things thou makest me
+beleeve!
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Then shee is much vnlike one that I 
+have seene to day.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, how know you if she be fairer then
+she that I have seene?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Because shee hath none of those Parts
+that thou esteemest her to haue.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, which bee the fairest parts that a
+Woman ought to haue for to bee reputed,
+and to make her verily faire?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> They be three White, three Black, three
+Red, three Long, three Short, three Big, three
+Fine, three Narrow, three Broad, and three
+Little.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, make mee know that faire Worke
+of God (in his Creatures) if it please you.
+<comment type="compiler">VERSE OMITTED.</comment>
+<pagebreak id="235" />
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, thinke you that there are found
+such Women ouer all where?
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Yea, a thousand in this Towne, and
+more.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Goe in the street and see if thou findest
+Maister R. walking there.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, I did see him goe towards his
+lodging now presently.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Goe tell him that I would faine speake
+a word with him: and knocke at the Gate,
+to the end thou markest him well for to
+know him an other time, when I send thee
+thither.
+   </dialogue><nonSpeech> <font>L.</font> </nonSpeech><dialogue> Sir, I haue remarked him enough
+already: but if you will command mee thither
+any other thing, behold I am ready to
+dispatch your <comment type="compiler">SOURCE TEXT: yvur</comment> Commandements.
+   </dialogue><nonSpeech> <font>I.</font> </nonSpeech><dialogue> Goe then quickly and pray him that
+hee would take the paines to come hither, if
+it please him.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D5TSTEVE">
+  <dialogueHeader>
+
+    <filename>D5TSTEVE</filename>
+
+    <identifier>5 TRIAL D5TSTEVE</identifier>
+
+    <title>JOHN STEVENSON</title>
+
+    <author>unknown</author>
+
+    <subperiod>5: 1720-1760</subperiod>
+
+    <speechPubDate>5: 1759</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL (AT LARGE) OF JOHN STEVENSON, (LATE OF BICKERTON IN
+THE COUNTY OF CHESTER, CHEESEFACTOR.) WHO WAS TRYED, AT 
+CHESTER-ASSIZES, UPON FRIDAY, THE 27TH DAY OF APRIL, 1759. 
+BEFORE MR. JUSTICE SWINNERTON, AND MR. JUSTICE WHITE. 
+UPON AN INDICTMENT, FOR THE MURDER OF MR. FRANCIS ELCOCK, LATE OF 
+NANTWICH, IN THE SAID COUNTY, ATTORNEY AT LAW. 
+(...)
+TAKEN BY MR. RALPH CARTER, OF NANTWICH, IN CHESHIRE.
+MIDDLEWICH: PRINTED BY JAMES SCHOFIELD.
+(1759)
+PP. 9.34 - 40.4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">WITH THE EXCEPTION OF THE BRACKETS FOR THE SUGGESTED PUBLICATION 
+DATE, ROUND BRACKETS ARE REPRODUCED ABOVE AS THEY APPEAR ON TITLE PAGE
+OF SOURCE TEXT.</comment>
+
+<comment type="compiler">SQUARE BRACKETS IN SOURCE TEXT WHICH ENCLOSE NARRATOR'S COMMENTS 
+ARE RENDERED AS ROUND BRACKETS.</comment>
+
+<pagebreak id="9" />
+</dialogue><nonSpeech> <font>John James</font> sworn.</nonSpeech>
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+<pagebreak id="10" />
+   <nonSpeech>Question.</nonSpeech><dialogue> Do you know the Prisoner at the 
+Bar?
+   </dialogue><nonSpeech> <font>Answer.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you know the deceased Mr. <font>Francis 
+Elcock</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were you, at any time, employed to arrest
+the Prisoner for Debt; and what happened in 
+Consequence of it? Speak up, that the Gentlemen of
+the Jury may hear you.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I was employed to arrest the Prisoner,
+for a Debt due to <font>John Atkin</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> By whom were you so employed?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> By Mr. <font>Elcock</font> , an Attorney.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You mean, I suppose, the deceased Mr. 
+<font>Elcock</font> , -- him that was shot?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Go on.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Being so employed, to arrest Mr. <font>Stevenson</font> ,
+I went to his House, and knocked at the Door.
+Some Body came to the Window, and asked me,
+what I wanted? I told the Person who came to the
+Window, that I had a Letter for the Master of
+the House, which she took through the Window;
+and I suppose it was delivered to Mr. <font>Stevenson</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Why do you suppose so?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Because, in a little Time after, Mr. 
+<font>Stevenson</font> opened the Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> The Prisoner opened the Door, you say?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, and he asked me, whether I lived with
+the Gentleman who sent the Letter, or from whom
+the Letter came? I told him I did; and Mr. 
+<font>Stevenson</font> invited me in.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Well. what happened afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I went into the House, with Mr. <font>Stevenson</font> ,
+and we then went together, towards the back Door,
+<pagebreak id="11" />
+and at the back Door, Mr. <font>Stevenson</font> stood still,
+to call his Servant.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Whereabouts at the back Door did the
+Prisoner stand still, to call his Servant? Was it
+within-side of the Door, or at the out-side of the
+Door?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He stood still upon a Step, at the back 
+Door, the out-side of the Door; and I was 
+within-side of the Door. -- I then took the Warrant I had
+against Mr. <font>Stevenson</font> , out of my Pocket, and I
+laid my Hand upon his Shoulder, and sayd, Sir, I
+hope you will excuse me. --
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Prisoner then out of the Door?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. I sayd, Sir, I hope you will excuse
+me; For the Letter I gave you, was to decoy you.
+I am a Bailiff; This is a Warrant against you; and
+you are my Prisoner in the King's Name.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did the Prisoner say then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He screek'd out, and sayd, I had used him 
+ill.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did you do afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Stevenson</font> and I returned into the House,
+and when we got into the Kitchen, he called to
+<font>Betty</font> , who, I believe was his House-keeper, and
+sayd to her, We have done ill, in letting this 
+Man into the House; For, he has arrested me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> He told her, you had arrested him, you
+say?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Well. What happened then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Prisoner went then towards the Fire,
+and turned to the Screen on the right Hand, and
+stood at the further End of the Screen.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did he do then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He turned, all of a sudden, upon me, with
+a Pistol in his Hand, and sayd, he would blow
+<pagebreak id="12" />
+my Brains out, if I did not get immediately out of
+the House?
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did he present the Pistol at you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He did.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did you say then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I told him, that was not the Way to do 
+Business. -- Mr. <font>Stevenson</font> then snapp'd the Pistol at
+me, but it miss'd Fire.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you sure he snapp'd the Pistol at you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very sure.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Well, what did you do then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I went backwards thro' the Kitchen, and
+Mr. <font>Stevenson</font> followed me; and in a narrow Passage
+leading from the Kitchen towards the Door, he 
+snapp'd the Pistol at me again; and he snapp'd the
+Pistol at me a third Time, but I was then out of
+the House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you got out of the House, where did
+you go then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I went to the next House. I think Mr. 
+<font>Nevills's</font> , where Mr. <font>Elcock</font> promised to be. Mr. 
+<font>Elcock</font> saw me, and met me, and asked me, if I had
+arrested <font>Stevenson</font> : I told Mr. <font>Elcock</font> , that I had 
+arrested him, and that he had snapp'd a Pistol at me three
+different Times, which obliged me to come away.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did Mr. <font>Elcock</font> say to that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> sayd, I had done enough.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How did you proceed afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I told Mr. <font>Elcock</font> , if I had a Pistol, I could
+bring him away; and he say'd, I should not want
+that. -- Then Mr.<font>Elcock</font> sent a Man to the Plaintiff,
+<font>John Atkin's</font> , and to bring Arms from his Father's.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where did <font>Atkin</font> live?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At <font>Cholmondley</font> , not very far from <font>Bickerton</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did the Messenger return with Arms?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did you then?
+<pagebreak id="13" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> After the Arms and Assistance were brought,
+We went again to Mr. <font>Stevenson's</font> House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who went to the Prisoner's House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I went, and the Plaintiff <font>John Atkin</font> , and a 
+Servant of his, I think. Four or five Persons I
+believe, came with me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was there another Sheriff's Officer with you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, a Man tolerated by the Sheriff, one
+<font>John Jones</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr. <font>Elcock</font> go to the Prisoner's House
+with you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What happened, when you all returned to 
+the Prisoner's House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> As we were all running towards the Prisoner's
+House, I saw the Prisoner, and another Man out of 
+Doors; I called to Mr. <font>Stevenson</font> , and sayd, you
+may as well stay, for we are coming for you.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did the Prisoner hear you say this?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe he did.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did the prisoner stay for you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, He, and the other Man with him, ran 
+into the House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Well, when you came up to the House;
+pray, what followed?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When we came up to the House, I sayd to
+Mr. <font>Elcock</font> , I know the Way to that Door; Go
+you to the other.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How many Doors were there to the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Three.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you know all the three Doors?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I knew them all.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You bid Mr. <font>Elcock</font> go to one of the Doors,
+I think, you say?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I bid Mr. <font>Elcock</font> , and the others, to take
+Care of two of the Doors, and I would go to the
+other.
+<pagebreak id="14" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far was the Door, that you sayd you
+would go to, from the Door, you desired Mr. 
+<font>Elcock</font> to take Care of?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was a good Way distant, in going round
+about.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You sayd, you would go to the third Door,
+Did you know the Way to it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr. <font>Elcock</font> say any thing to the People
+in the House, when he came up to the Door?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell, whether he did or not, because
+I was not present, for I ran to the other Side of
+the House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray was the Door you went to, locked, or
+made fast?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was fast.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you all came up to the Doors, as you
+have been mentioning, -- pray, what followed?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In a very little Time, almost immediately
+after I came up to the Door, I heard a Noise. --
+I heard a Gun go off.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Which Way did the Noise come? Where
+did you apprehend, the Gun went off. In what 
+Situation were you from the Noise, or Report of it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Noise came, as betwixt me and them;
+betwixt me and the People who came with me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far distant might you be from the 
+Door, where the Gun was fired?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Nine or ten Yards it might be from Mr. 
+<font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you heard the Noise, and the Gun go
+off, what did you do then? it must have alarm'd
+you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When I heard them crying out on the other
+Side, I went backwards to an Hedge, and looking
+<pagebreak id="15" />
+over it, I saw Mr. <font>Elcock</font> held by two Men, sitting
+on a Block.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You saw Mr. <font>Elcock</font> sitting on a Block 
+supported by two Men, How did he look?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Very piteously indeed.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you hear him say any thing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I heard him say, Oh! I am shot. I
+am shot.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was Mr. <font>Elcock</font> at a great Distance from the
+Gun, at the Time he received the Wound, or was
+he near it.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell, whether he was at a great, or
+a small Distance from it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did you do, after you had seen Mr. 
+<font>Elcock</font> sitting on the Block?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I returned again to my own Door, to 
+prevent the Prisoner's getting out.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see Mr. <font>Elcock</font> afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In about ten Minutes afterwards, I saw two
+Men, carrying him down the Lane.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were you with Mr. <font>Elcock</font> , at the House he 
+was carried to?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see him afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No. I did not see him, after the two Men
+carried him down the Lane.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Have you the Warrant whereby you arrested
+the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I have.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray produce it. -- Is this the very Warrant, 
+Under the Authority whereof you arrested the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, who delivered to you this Warrant to
+execute?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> himself.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were there any Holes in the Door that the
+<pagebreak id="16" />
+Ball came thro' which killed Mr. <font>Elcock</font> , besides
+the Shot-hole.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, there were two Holes in the Door, 
+besides the Shot-hole.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was there ever a Slit in the Door?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> That I don't know.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were the two Holes in the Door higher than
+the Shot-hole, or lower, or how?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The two Holes were higher than the Hole
+which the Ball had made.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Could you see thro' the two Holes; were
+they large enough to see, and know a Person
+through?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, I could see through them; I did look
+through, and saw into the Kitchen plainly. I, and
+several others did so.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, what Business did Mr. <font>Elcock</font> go about,
+when he went with you to the Prisoner's House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To assist me in re-taking Mr. <font>Stevenson</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you know the Sheriff's Hand-writing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is the Warrant whereby you arrested the
+Prisoner, all of the Sheriff's Hand-writing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> All is of his Hand-writing, except two
+Names.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you positive to the Sheriff's 
+Hand-writing?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, to Mr. <font>Baxter's</font> Hand-writing, who
+acted as Sheriff, and made out the Warrant, and
+delivered it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, what are the two Names, that were
+not written by Mr. <font>Baxter</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> My own Name, and the Name of <font>John Jones</font>
+another Bailiff.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who wrote your Name, and the Name of
+<font>John Jones</font> in the Warrant?
+<pagebreak id="17" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you sure of that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes; for I saw him write them.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you usually employed as a Bailiff, for
+the executing of the Sheriff's Warrants?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. I get my Bread by it; and am often
+sent for, fifteen or twenty Miles round the Country.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was your Name inserted in the Warrant, as
+the Sheriff's own Bailiff, or as a special Bailiff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was a special Bailiff, for that time, 
+appointed by the Sheriff.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How do you know that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I have been informed so. I think it is so 
+expressed in the Warrant.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Had you executed any Warrants, from the
+Sheriff of the County of <font>Chester</font> , the Year before?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes many; twenty, or more.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Had you executed any Warrants from the 
+present Sheriff; -- Under his Authority?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. I executed Attachments under that 
+Authority: -- Under Mr. <font>Baxter</font> . I had four or five
+Warrants, upon Process out of the Exchequer, at
+the time I arrested Mr. <font>Stevenson</font> , and have executed
+several Warrants, since Mr. <font>Harrison</font> became
+Sheriff.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How long had Mr. <font>Harrison</font> been Sheriff,
+before you arrested the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> A Week or a Fortnight, it might be.
+   </dialogue><nonSpeech>Court.</nonSpeech><dialogue> -- Read the Warrant, whereon the Prisoner
+was arrested by the Witness.
+   </dialogue><nonSpeech>The Warrant was then read, and it appeared,
+that the Words &quot;Bailiffs for this time only&quot; after
+the Names of <font>John James</font> and <font>John Jones</font> , the
+special Bailiffs, were written by Mr. <font>Baxter</font> . The
+Warrant was dated the First of March last, and
+there was an Indorsement thereon, Take good Bail
+<pagebreak id="18" />
+for Eighteen Pounds Eight Shillings and Ten-pence
+Half-penny, by Affidavit filed. And under-written,
+<font>Elcock</font> by <font>Lowe</font> , by the said Sheriff.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Did <font>John Evans</font> , the Sheriff's Bailiff named
+in the Warrant, go with you, when you attempted
+to re-take the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No; he did not.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When did the Plaintiff <font>John Atkin</font> come to
+you, was he with you before, or at the time you
+attempted to re-take the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>John Atkin</font> came, when Assistance was sent
+for, but not before. He came with us, when we
+went to re-take Mr. <font>Stevenson</font> .
+
+</dialogue><nonSpeech> <font>Cross-Examined.</font> </nonSpeech>
+   <nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> I think you say, you took the Warrant out
+of your Pocket, and put your Hand upon the
+Prisoner's Shoulder, and arrested him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, where did you first see that Warrant,
+whereon you arrested the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw it first at <font>Nantwich</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who shew'd it you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The deceased, Mr. <font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you first saw the Warrant, was your
+Name in it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Warrant when you first saw it,
+under the Seal of the Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe, it was.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Name <font>John Jones</font> , (the other special
+ Bailiff) in the Warrant, when you first saw it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe, it was not.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Name of <font>John Evans</font> , the Sheriff's
+Officer, in the Warrant then?
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes it was.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who wrote <font>Evans's</font> Name in the Warrant?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Sheriff put it in.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Of whose Hand-writing is the Warrant?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is all of Mr. <font>Baxter's</font> Writing, except
+my Name, and the Name of <font>John Jones</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you sure of that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who is Mr. <font>Baxter</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Baxter</font> acts for the Under-Sheriff.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Of whose Hand-writing are the Names,
+<font>John James</font> , and <font>John Jones</font> , now appearing in the
+Warrant? 
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> My Name, and <font>John Jones's</font> were written in
+the Warrant by Mr. <font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you sure that the Names <font>John James</font> ,
+and <font>John Jones</font> , were written in the Warrant by
+Mr. <font>Elcock</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I am very sure of it; For I saw him write
+them.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were they written by Mr. <font>Elcock</font> , after you
+first saw the Warrant, at <font>Nantwich</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is the Warrant in the same Situation, in
+evry Part of it, as it was, when you first saw it at
+<font>Nantwich</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is, except the Addition of the Names
+made since.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where does Mr. <font>Baxter</font> live?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In this City. </dialogue><nonSpeech> <font> (Chester) </font> .</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Do you know Mr. <font>Hollins</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who is he?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Under-Sheriff.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do the Sheriffs always keep their Office in
+the City?
+<pagebreak id="20" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> They keep their Office in the City, where
+they please, to appoint; I believe so.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And is that the Place, where the Sheriff's
+Warrants are always made out?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> That is the Place, where they apply for
+Warrants.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far does the Under-Sheriff live from
+this City?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Twenty Miles, I believe.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was Mr. <font>Elcock</font> appointed by the Sheriff, to
+make out Warrants?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know, that he was.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Had Mr. <font>Baxter</font> Authority, to make out
+Warrants?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You say, the Under-Sheriff always keeps an
+Office in the City of <font>Chester</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes; where the Sheriffs, when they come
+in, are pleased to fix it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You say, you went to Mr. <font>Elcock</font> , after you
+had arrested the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> met me, as I was going to him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And you then told Mr. <font>Elcock</font> , you were 
+forced to retreat?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I told him so, and so it was.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it the Practice, for the Names of the 
+Sheriff's own Bailiffs, or those bound to the Sheriff, 
+to be put into Warrants in the Office; and Blanks 
+to be left in the same Warrants, for the Names of
+other Bailiffs, to be put in by Attorneys, after the
+Warrants come from the Office?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is the Practice.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you give Security to the Sheriff, for
+being his Bailiff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, not at that Time.
+<pagebreak id="21" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where did you stay after you had arrested
+the Prisoner, till Assistance came to you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I, and Mr. <font>Elcock</font> stay'd at a Gentleman's
+House, the next House to Mr. <font>Stevenson's</font> , Mr. 
+<font>Robert Nevils</font> House, till Assistance came.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who went for the Assistance?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>John Jones</font> , the other Bailiff named with me,
+I believe. 
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What Number of People came to your
+Assistance?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't well recollect the Number; but I
+remember the Plaintiff <font>John Atkin</font> , and his 
+Servant, (whose Name I know not,) <font>Richard Bowker</font> ,
+<font>John Jones</font> , and myself made five.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you desire Mr. <font>Elcock</font> to stay where he
+was, at Mr. <font>Nevills</font> House, and not go to the
+Prisoner's House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray had not you an Iron-Crowe with you,
+when you all went to the Prisoner's House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where had you that Crowe?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I told Mr. <font>Elcock</font> I wanted a Crowe, and
+he borrowed one from the Woman of the House,
+Mrs. <font>Nevill</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You say you went to different Doors, when
+you came to the House; pray, were these Doors
+on one Side of the House, -- at the Corners of
+the House; or how were they situated?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I said, I went to a Door on one Side of the 
+House, and desired Mr. <font>Elcock</font> would stay at a Door,
+on the other Side of the House.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you yourself speak to the Prisoner,
+when you came to the House, and demand Entrance
+from him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not.
+<pagebreak id="22" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did <font>John Jones</font> demand Entrance?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know. <font>John Jones</font> was not on the 
+same Side of the House with me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you desire Mr. <font>Elcock</font> , to demand 
+Entrance, as you were going to the House, or before
+you came to the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No. I did not. -- But when we were going to
+Mr. <font>Stevenson's</font> , I saw Mr. <font>Stevenson</font> out of Doors,
+and called to him to stay, and told him, we were
+coming for him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far might you be from the Prisoner, at
+that time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It might be threescore Yards.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were Mr. <font>Elcock</font> and <font>John Jones</font> at one Door
+of the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you from the other Side of the House, 
+desire Mr.<font>Elcock</font> to demand Entrance?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cou'd not see Mr. <font>Elcock</font> , from the other 
+Side of the House.
+   </dialogue><nonSpeech>Prisoner.</nonSpeech><dialogue> Is the Warrant you have shewn to the
+Court, the same Warrant you produced to me?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, the very same.
+   </dialogue><nonSpeech>Prisoner desires to see the Warrant. He looks
+at it, and says,</nonSpeech><dialogue> -- It is not the Warrant.
+   </dialogue><nonSpeech>Court to the Prisoner.</nonSpeech><dialogue>
+   Leave the Questions to be ask'd by your Counsel;
+They know best how to act for your Defence.
+Consider, you stand upon Tryal for your Life.
+Your Condition is a most melancholy one, and
+very perilous; therefore refer yourself to the 
+Judgment of our Counsel, in Matters of so great 
+Importance to you.
+   </dialogue><nonSpeech>Witness.</nonSpeech><dialogue> It is the very Warrant upon which I
+arrested the Prisoner.
+</dialogue><nonSpeech> <font>Then the Witness with-drew.</font> </nonSpeech>
+<pagebreak id="23" />
+   <nonSpeech>Cryer,</nonSpeech><dialogue> Call <font>John Atkin</font> .
+
+</dialogue><nonSpeech> <font>John Atkin</font> sworn.</nonSpeech>
+   <nonSpeech>Counsel for the Crown.</nonSpeech> 
+   <nonSpeech>Q.</nonSpeech><dialogue> Do you know the Prisoner at the Bar?   
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you know Mr. <font>Francis Elcock</font> deceased?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When were you last in Company with the
+deceased?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was in Company with him, upon the
+twenty-first Day of <font>March</font> last, at the House of <font>John
+Stevenson</font> in <font>Bickerton</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you go with the deceased, to the Prisoner's
+House, on that Day?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What was the Occasion of your going thither
+with Mr. <font>Elcock</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>John James</font> sent for me, to come to assist
+the Bailiffs.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> To do what?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> To re-take <font>John Stevenson</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And did you go accordingly for that
+Purpose?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who went with you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> , and <font>John James</font> and <font>John       
+Jones</font> .
+We all went to take the Prisoner by Force, <font>John
+James</font> having sent for me to assist him, after the
+Prisoner had snapp'd a Pistol at him. -- We all went,
+because <font>John Stevenson</font> had drove the Bailiff from
+the House, by snapping a Pistol at him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who told you, that the Prisoner had snapp'd 
+a Pistol at the Bailiff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>John James</font> the Bailiff told me so.
+<pagebreak id="24" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see the Prisoner in the House, when 
+you came there?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did not.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you go with Mr. <font>Elcock</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How far were you from Mr. <font>Elcock</font> , when
+you came to the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Within three or four Yards of him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Then you did not see the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see any People in the House, when
+you came there?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, but I imagine People were in the House,
+when Mr. <font>Elcock</font> and I came to it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you hear any People in the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, We heard People, but saw no Body.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were the Doors lock'd, or made fast?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. The Doors were made.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you came up to the House, did <font>John
+James</font> give Mr. <font>Elcock</font> and you any Directions, about
+the Business you were to do there?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, When we came up to the Door, <font>John 
+James</font> ordered Mr. <font>Elcock</font> and me to attend that
+Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Which Door was it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was the back Kitchen Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you came to the Door, did Mr. 
+<font>Elcock</font> say any thing to the People in the House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> As soon as we came to the Door, Mr. 
+<font>Elcock</font> sayd, open the Door, -- open the Door, or we'll
+break it down. -- I thought they were making the 
+Door fast.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Door opened?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What was done afterwards, when the 
+People within would not open the Door?
+<pagebreak id="25" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> As soon as Mr. <font>Elcock</font> said so, he bid me
+strike an Iron-Crowe under the Door, in order to
+lift it off the Hinges; and I accordingly put the
+Crowe under the Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was it Mr. <font>Elcock</font> , who ordered you to put
+the Crowe under the Door?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When you put the Crowe under the Door, 
+pray, what happened?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> As soon as I had put the Crowe, or Ringer
+under the Door, Mr. <font>Elcock</font> sayd to me, <font>John</font> , run
+to the other Door, for fear <font>Stevenson</font> gets out of
+it; Whereupon, I left the Crowe sticking under
+the Door upon the Sill, and went away towards the
+other Door, and had not gone above three or four
+Yards from the Door, before I heard a Gun go off.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see Mr. <font>Elcock</font> when the Gun went
+off?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did he say any thing then?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes -- I heard him say; I am shot, I am shot.
+And he fell on one Side of his Back down two
+Steps. -- <font>Richard Bowker</font> and I took him up; --
+Then Mr. <font>Elcock</font> took up his Shirt, and shewed us
+the Wound.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who was this <font>Bowker</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He was an Assistant who came with me, to
+re-take <font>John Stevenson</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What did you do with Mr. <font>Elcock</font> , after you
+and <font>Bowker</font> took him up?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He hung about our Shoulders, and we carried
+him to a Wooden-Block, where he desired to rest.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You say he pulled up his Shirt, and shew'd
+you his Wound, pray, on what Part of his Body
+was he wounded?
+<pagebreak id="26" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He was wounded on the Side of the Belly,
+above his Groin.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were there any Holes in the Door where
+the Ball came thro', besides that which the Ball
+made? -- Did you see the Hole which the Bullet 
+made?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I saw the Hole, which the Bullet came
+through; and there was also a Slit in the Door,
+which seemed big enough for a Person to see through.
+And there were two Holes besides in the Door? 
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How large were the two Holes that were in the
+Door, besides that which the Bullet made?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> One of the Holes was an Inch and half
+Hole; the other bigger. But the Slit was afterwards
+lath'd on the Inner-Side of the Door.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Could you have seen the Prisoner through
+those Holes?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No doubt of it, if he had been opposite to
+me when I looked through; but he was not, and
+therefore I cou'd not see him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were you present when the Prisoner 
+surrendred himself?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was
+   </dialogue><nonSpeech>Q</nonSpeech><dialogue> Had he any Fire-Arms in the House, when
+he surrendred?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He had Fire-Arms at that Time. I fired
+off one of the Pistols, the Day after the Prisoner
+killed Mr. <font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What Day of the Month was that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The twenty second of <font>March</font> . Mr. <font>Elcock</font>
+received his mortal Wound upon the twenty-first,
+about Three o'Clock.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What other Fire-Arms had the Prisoner,
+when he surrendred, besides the Pistol you fired?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> There were two Pistols; -- one besides that,
+which I fired; and a Gun.
+<pagebreak id="27" /> 
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were they loaden?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How do you know they were loaden?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> That Pistol which I fired off, was very heavy 
+loaded: The other Pistol was discharged against
+an Ash-Tree, and I saw the Hole which the bullet
+had made in the Tree; and the Gun was fired into
+the Air.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When the Prisoner surrendred himself, did
+he acknowledge, that he had Fire-Arms in the
+House?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He sayd, he had but one Pistol. -- But the
+Woman in the House being asked, whether there
+were any more Fire-Arms; she told them, there
+was another Pistol and a Gun.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> You say, you discharged one of the Pistols
+yourself; Did you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did, and fired it into the Air.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see the Pistol discharged against the
+Ash-Tree?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did; and look'd at the Hole, which the
+Ball had made. -- The Gun was fired into the Air.
+
+</dialogue><nonSpeech> <font>Cross-Examined.</font> </nonSpeech>
+
+   <nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> When you came to re-take the Prisoner with
+Mr. <font>Elcock</font> , what Orders did <font>John James</font> give you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He ordered Mr. <font>Elcock</font> and me to stay at the
+Door; and he ran to the other.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What Orders had <font>John Jones</font> received; Was
+he to have no Hand in re-taking the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> <font>John Jones</font> was ordered by <font>John James</font> , to
+attend a Woman, <font>Stevenson's</font> House-keeper, I 
+believe, and not let her come near him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was neither <font>John James</font> , nor <font>John Jones</font> ,
+<pagebreak id="28" />
+with you and Mr. <font>Elcock</font> at the Door, where you
+were stationed, in order to re-take the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Neither of them.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was <font>John Jones</font> within Sight of you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I think he was.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you all act as Assistants to the Bailiff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes;
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And by his Orders?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+</dialogue><nonSpeech> <font>Then the Witness with-drew.</font> </nonSpeech>
+
+   <nonSpeech>Cryer,</nonSpeech><dialogue> call <font>William Griffith</font> .
+
+</dialogue><nonSpeech> <font>William Griffith</font> sworn.</nonSpeech>
+
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Do you know the Prisoner at the bar?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you remember any thing, about the
+Prisoner's discharging or firing a Gun at any time?
+pray, speak up, that the Jury may hear you, and
+acquaint them, with what you know of the
+Matter.
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, Sir, I was in Mr. <font>Stevenson's</font> House at
+<font>Bickerton</font> , when Mr. <font>Elcock</font> was shot.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What Part of the House were you in, at 
+that Time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was in the House-Place, and Mr. <font>Stevenson</font>
+was in the back Kitchen.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was any Body in the House, besides the
+Prisoner and yourself?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. A Woman was in the House. -- A 
+Servant-Woman.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you see the Prisoner fire the Gun?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Prisoner did fire the Gun, at the back
+Door, and brought it in afterwards, and took it into
+the Parlour.
+<pagebreak id="29" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> After the Gun was fired, did you hear no
+Noise out of Doors; Was there no Alarm made
+about it?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. The People without shouted, Murder.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> From what Place did the Prisoner take the
+Gun, which he fired?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He took it from the Mantle-Piece in the 
+Kitchen.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was the Prisoner accustomed to keep 
+Fire-Arms in the House with him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How long was it after the Gun was fired, that
+you heard the People shout, Murder?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> In about a Minute, or two, after
+the Gun was fired.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> I suppose, you were curious enough after
+the Gun was fired, and you heard the Cry of 
+Murder, to know, Whether any Body was hurt, or
+not; Were not you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I went to a Window, and look'd out; and
+saw a Man in blue Cloaths supported, or held up
+between two Men.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you say nothing to the Prisoner, upon
+this Occasion?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes; I told Mr. <font>Stevenson</font> , that I believed
+there was never a Man killed, but there was one
+hurt, and they called him Mr. <font>Elcock</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And pray, when you told the Prisoner, there 
+was never a Man killed, but a Man hurt, and his
+Name was Mr. <font>Elcock</font> ; what did he say to you?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He sayd, I don't know what Business a Man
+of his Coat, had among such Men as those. I am
+glad of it.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> What do you apprehend he meant, by the
+Words &quot;A Man of his Coat&quot;?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know.
+<pagebreak id="30" />
+   </dialogue><nonSpeech>Counsel for the Prisoner.</nonSpeech><dialogue>
+   You will please to observe, The Witness told the
+Prisoner, there was a Man hurt, but no Body
+killed; and that was immediately before the Prisoner
+sayd, he was glad of it. Glad, that no Body was
+killed.
+</dialogue><nonSpeech> <font>Then the Witness with-drew.</font> </nonSpeech>
+
+   <nonSpeech>Cryer,</nonSpeech><dialogue> call Mr. <font>Cooper</font> .
+
+</dialogue><nonSpeech>Mr. <font>Cooper</font> sworn.</nonSpeech>
+
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> I think you are a Surgeon?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, Sir.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where do you live?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> At <font>Nantwich</font> .
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you know the deceased, Mr. <font>Francis
+Elcock</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, very well.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were you sent for at any time, and when,
+to attend Mr. <font>Elcock</font> upon Account of his having
+received a Wound, by the firing of a Gun, or
+otherwise? -- Pray acquaint the Court, and Jury,
+with what you know of this Matter?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Upon <font>Wednesday</font> the twenty-first Day of
+<font>March</font> last, a Messenger came to me, about Three
+o'Clock in the Afternoon, desiring me to go to
+<font>Bickerton</font> , to Mr. <font>Francis Elcock</font> , who, the 
+Messenger told me, was shot. -- I went accordingly
+with the Man, and got to <font>Bickerton</font> about Five
+o'Clock in the Evening. When I came there, I
+found, that Mr. <font>Rowe</font> , a Surgeon from <font>Malpas</font> ,
+had been sent for likewise, and had been there, for
+some time before. Mr <font>Rowe</font> and I went up Stairs
+together, to the Room, where Mr. <font>Elcock</font> was, and
+We found him ill in Bed. Almost so soon as he
+<pagebreak id="31" />
+saw me, he pulled up his Shirt, and shewed me
+where the Ball was lodged, <comment type="compiler">COMMA FAINT IN SOURCE TEXT</comment> and seemed 
+impatient
+to have it taken out: Upon seeing the Wound, I
+took the Ball, between my Finger and Thumb, and
+perceived, I cou'd easily dislodge it. I then 
+examin'd the Wound, where the Ball had entred, and
+found it cut about two Inches from the Hip on the 
+left Side of his Belly: it pass'd thro' his Belly, by
+his Bowels no doubt, and lodged five or six Inches
+below his right Hip, almost through the Skin. As
+soon as I saw this, I took Mr. <font>Rowe</font> into another
+Room, to consult, what was fittest to be done;
+and I told him, it was my Opinion, that Mr. <font>Elcock</font>
+was a dying Man, and that I did not know, 
+whether it would be of any Use, to take the Ball away,
+altho' it could be so easily effected -- But, 
+considering, that it wou'd give him some Satisfaction,
+and perhaps Ease too, by taking the Ball from the
+Place where it did lie, Mr. <font>Rowe</font> and I went into
+the Room again, and I took out the Ball. -- After
+I had taken the Ball out, and dressed the Wound,
+and put a Bandage about it, I asked Mr. <font>Elcock</font> ,
+how he did? He sayd he was easier. Doctor <font>Hayes</font>
+came in afterwards, and when I had told him, the
+Nature of the Wound, he look'd upon the Case to
+be extremely dangerous. The Doctor stayd with
+him two or three Hours and then went away; but
+Mr. <font>Elcock</font> desired me and Mrs. <font>Nevill</font> to sit with
+him, which we did, and his Father did so too, till
+ten Minutes past Three the next Morning, and he
+then expired. </dialogue><nonSpeech>-- The Witness produces the Ball.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Do you believe, that the Wound which
+Mr. <font>Elcock</font> received, was the Occasion of his Death?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I firmly believe, that the Wound which he
+received was the Occasion of his Death.
+<pagebreak id="32" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did Mr. <font>Elcock</font> say any thing to you in his
+Agonies, upon the melancholy Occasion, and
+what?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Mr. <font>Elcock</font> told me, that he was shot, as he
+was stooping down, with a Crowe in his Hand,
+striving to open the Prisoner's Door?
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did he tell you, from what Part of the House 
+he was shot?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He sayd, he received the Wound at the
+Door of the Prisoner's House?
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, how came the Ball to be made so flat:
+in that uncommon Form?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe its going through the Door, was
+the Occasion of its being in that Form.
+</dialogue><nonSpeech> <font>Then the Witness with-drew.</font> </nonSpeech>
+
+   <nonSpeech>Cryer,</nonSpeech><dialogue> call Mr. <font>Baxter</font> .
+
+</dialogue><nonSpeech>Mr. <font>Robert Baxter</font> sworn.</nonSpeech>
+
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Pray, Mr. <font>Baxter</font> , Are you concern'd in
+any, and what Manner, for Mr. <font>Harrison</font> , the
+present Sheriff of the County of <font>Chester</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, Sir, I am concerned for the Sheriff,
+and keep his Office.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you make out Warrants for the Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you receive at any time, and when, a 
+Writ against the Prisoner, at the Suit of <font>John
+Atkin</font> ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I received a Writ against him upon the First
+of <font>March</font> last. </dialogue><nonSpeech> (which he produces.) </nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Look upon that Warrant. -- Did you make
+out that Warrant upon the Writ, in order to arrest
+the Prisoner?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I did.
+<pagebreak id="33" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And are you sure, that is the same Warrant
+you did make out?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes; I am sure it is.
+   </dialogue><nonSpeech>The Writ was read, and upon the Back of it,
+was written, &quot;Take Bail for Eighteen Pounds Eight
+Shillings and Ten-pence Half-Penny, by Affidavit
+filed,&quot; -- And another Indorsement, viz. -- &quot;I 
+promise to indemnify the Sheriff, in the Execution of
+the Writ, as to the special Bailiffs. <font>John Atkin.</font> &quot;</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Is it usual for the Sheriff to appoint a 
+Gentleman in this Town to execute the Office, and to act
+for him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is usual. -- I have been several Times 
+appointed myself.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you receive all the Writs that are sued 
+out directed to the Sheriff of this County?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And do you make out the Warrants upon
+such Writs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And return the Writs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you execute all other Acts, that the
+Sheriff would do, if he resided here himself?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. Except attending the Assizes and 
+Sessions.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And has this been the constant Practice in
+this County?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, during all my Time.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Has it been usual, when Plaintiffs would
+have special Bailiffs appointed, to leave Blanks in 
+the Warrants for their Names to be inserted?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, upon the Sheriff being indemnified.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Have you done this yourself?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Have you known others to do it?
+<pagebreak id="34" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, several others to my Knowledge.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did you ever know it to be refused?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, never, upon the Sheriff being 
+indemnified, and the Attorney is known to be a fair 
+Practicer. -- I have known it refused, where the 
+Practicer was not liked, or where the Sheriff run
+any Risque or Hazard, and the Indemnity was not
+approved; But when the Attorney, or Practicer,
+and the Indemnity are liked, it is usually done.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, what is the Nature of the Indemnity
+given to the Sheriff upon this Occasion?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is, that he should not suffer by Escapes
+or Rescues.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And has this been the constant Practice used
+by the Persons, who have acted in the Sheriff's
+Office, in the Capacity you now act?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It has been so, all the time I have known
+the Office.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How long, pray, is that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Seven or eight and twenty Years.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> To leave Blanks in the Warrants, for the
+Names of the special Bailiffs to be inserted?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, Whether is such Practice convenient 
+to the Plaintiffs and Suitors in the Court, or 
+inconvenient to them?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is look'd upon to be very convenient for
+the Plaintiffs.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you think so yourself?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I look upon it in that Light.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Had Mr. <font>Lowe</font> , or Mr. <font>Elcock</font> , or both of 
+them a Right, to insert the Names of the special
+Bailiffs, in the Blank left in the Warrant, whereon
+the Prisoner was arrested?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I apprehend, either Mr. <font>Lowe</font> , or Mr. <font>Elcock</font>
+had a Right to do so?
+<pagebreak id="35" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it usual for Attornies in the Country, to
+send their Directions to their Agents in <font>Chester</font> to
+take out Writs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And is the Agent's Name generally put to
+the Writ, or the Name of the Attorney in the 
+Country only?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Agent's Name is generally added to the 
+Name of the Country Attorney, in the Writ, since
+the late Act of Parliament for that Purpose; but
+before that, the Name of the Attorney was only 
+put to the Writ.
+    </dialogue><nonSpeech>Q.</nonSpeech><dialogue> And you say that either Mr. <font>Lowe</font> , or Mr. 
+<font>Elcock</font> , had a Right to insert the Names of the
+special Bailiffs?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. I apprehend so.
+
+</dialogue><nonSpeech> <font>Cross-examined.</font> </nonSpeech>
+
+   <nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Do not the Attornies, and other Persons,
+usually send the Names of the special Bailiffs, to 
+be inserted in the Warrants, by the Sheriff, or by
+those who act for him?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Sometimes People do send the Names of
+the special Bailiffs, to be inserted.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Has it not been the most usual Way, in
+your Time, to do so?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It was when I first knew the Office the most
+usual Way, in 1732 and 1733. -- But Warrants
+went out with Blanks then.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Did <font>John Evans</font> , the Bailiff named in the
+Warrant, indemnify the Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He has given Security to the Sheriff, I 
+believe. -- But the Indemnity was for the special
+Bailiffs.
+<pagebreak id="36" /> 
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> In the year 1732, or 1733, Were blank 
+Warrants sent out, and not the Names of the 
+special Bailiffs inserted?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When I was concerned for Mr. <font>Page</font> , who
+was Sheriff in 1732 or 1733, several blank 
+Warrants were sent out, and not the special Bailiffs 
+inserted.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How many Warrants were sent out, with
+Blanks for the Names of the special Bailiffs, in Mr.
+<font>Page's</font> Time?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were not Warrants oftner delivered, with
+the Names of the special Bailiffs inserted in the
+Office, before they were sent out, than Warrants
+with Blanks, for the Names of the special Bailiffs,
+to be afterwards inserted by the Attornies?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe, Warrants were oftner sent out,
+with the Names of the special Bailiffs inserted,
+than with Blanks.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is that the Warrant, you made out on the 
+Writ the First of <font>March</font> against the Prisoner?
+   </dialogue><nonSpeech>A.</nonSpeech> <nonSpeech>Looks at the Warrant.</nonSpeech><dialogue> It is the same 
+Warrant.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it in the same Situation it was, when you
+delivered it out of your Hands?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How has it been altered? how does it differ?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Names, <font>John James</font> , and <font>John Jones</font> ,
+have been since inserted.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, was the Seal to the Warrant before
+you delivered it out of your Hands?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Are you sure of that?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, for I put the Seal to it myself.
+<pagebreak id="37" />
+   </dialogue><nonSpeech>Court.</nonSpeech><dialogue> Do you remember, that any Arrest was
+ever set aside, or disputed, on Account of a Blank
+Warrant having been sent out?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No, never.
+
+   </dialogue><nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Through all the Course of your Practice, has
+it not been most usual, to make out Warrants, after
+you received the Names of the special Bailiffs, than
+without them; -- than making out blank Warrants?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes, it has been most usual, I think.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> When the Names of the special Bailiffs are
+sent, Do you always insert them in the Warrants?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes. I do.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Pray, how is the Under-Sheriff of <font>Cheshire</font>
+appointed?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He is appointed by the Sheriff, by Deed.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Have you any written Authority from the
+Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> No further, than by Letters sent me 
+sometimes, about the Business of the Office.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> How were you appointed?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Night before the Sheriff was sworn, I
+supped with him, and it was agreed, I shou'd act
+for him.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Who were present, when you were 
+appointed, to act for the Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> The Sheriff, and the Under-Sheriff, were both
+present, and appointed me.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Were you appointed by any Instrument in
+Writing, or not?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I was not.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it usual for the Sheriff and Under-Sheriff,
+both to appoint an Agent, to act for the Sheriff?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I believe, the usual Way is by the 
+Under-Sheriff only.
+<pagebreak id="38" />
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is there no other Method of appointing a
+Person, to act for the Sheriff, but by Parol?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know of any other Way.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is the Seal to the Writ, the Seal of Office?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> It is.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Have the Persons concern'd for the Sheriff
+of this County, usually that Sort of Seal?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Where had you this Seal?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I had this from Mr. <font>Griffith</font> , having lost my
+own.
+
+</dialogue><nonSpeech> <font>Then the Witness with-drew.</font> </nonSpeech>
+
+   <nonSpeech>Mr. <font>Gastrell</font> , Clerk to Mr. <font>Lowe</font> , an Attorney
+in <font>Chester</font> , was then called, to prove that <font>John
+Atkin</font> signed the Indemnity given to the Sheriff,
+when the blank Warrant against the Prisoner was
+sent out. But the Court thought it unnecessary to
+examine him.</nonSpeech>
+
+<nonSpeech>Mr. <font>Cross</font> , an Attorney in <font>Chester</font> , sworn.</nonSpeech>
+
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Are you acquainted with the Method of
+suing out Process, in the Court of Session for this
+County?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Is it usual, to send out Warrants, from the
+Sheriff's Office, with Blanks for the Names of the
+special Bailiffs to be inserted?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> When special Bailiffs are desired, Warrants
+frequently issue with Blanks, for their Names to
+be inserted.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Do you know this to be frequently done?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes.
+<pagebreak id="39" />
+   </dialogue><nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> But is it not more usual, for the Names of
+the special Bailiffs to be put into the Warrants, in
+the Office, before they are sent out, than, for 
+Warrants to issue with Blanks, for Bailiffs to be inserted
+afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Sometimes the Names of the special Bailiffs
+are inserted in the Office.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> I say, is it not oftner done? more 
+frequently?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I don't know but it may.
+
+   </dialogue><nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Don't you think it prudent, sometimes not
+to send the Names of the special Bailiffs to the
+Office? -- to conceal the Names till they are inserted
+by the Attorney?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I do.
+
+</dialogue><nonSpeech>Mr. <font>Fluit</font> , an Attorney in <font>Chester</font> , sworn.</nonSpeech>
+
+   <nonSpeech>Counsel for the Crown.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> Did your Father ever act as Agent for the
+Sheriff of this County?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He did.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> Was it customary for your Father, to send
+out Warrants with Blanks, for the Names of the
+special Bailiffs to be inserted afterwards?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> He did leave Blanks often in the Warrants.
+   </dialogue><nonSpeech>Q.</nonSpeech><dialogue> I suppose you understood, that your Father
+had Authority so to do?
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> I always understood, that he had Authority
+to do it.
+
+   </dialogue><nonSpeech>Counsel for the Prisoner.</nonSpeech>
+   <nonSpeech>Q.</nonSpeech><dialogue> But did your Father never refuse, to send
+out blank Warrants, to your Knowledge?
+<pagebreak id="40" />
+   </dialogue><nonSpeech> <font>A.</font> </nonSpeech><dialogue> Yes; he sometimes did, when he suspected
+the Attorney; but never, when he knew the 
+Attorney to be a fair Practicer.
+</dialogue><nonSpeech> <font>Here ends the Evidence on behalf of the Crown.</font> </nonSpeech>
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D1CKNAVE">
+  <dialogueHeader>
+
+    <filename>D1CKNAVE</filename>
+
+    <identifier>1 COMEDY D1CKNAVE</identifier>
+
+    <title>TO KNOWE KNAUE</title>
+
+    <author>unknown</author>
+
+    <subperiod>1: 1560-1599</subperiod>
+
+    <speechPubDate>1: 1594</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="COMEDY">Drama comedy</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>A MOST PLEASANT AND MERIE NEVV COMEDIE, INTITULED, A KNACKE TO 
+KNOWE A KNAUE.
+NEWLIE SET FOORTH, AS IT HATH SUNDRIE TYMES BENE PLAYED BY ED. ALLEN 
+AND HIS COMPANIE.
+VVITH KEMPS APPLAUDED MERRIMENTES OF THE MEN OF GOTEHAM, IN RECEIUING
+THE KING INTO GOTEHAM.
+IMPRINTED AT LONDON BY RICHARD IONES, DWELLING AT THE SIGNE OF THE 
+ROSE AND CROWNE, NERE HOLBORNE BRIDGE. 
+1594.
+PP. C4R.6 - G4R.29
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="C4R" />
+<nonSpeech> <font>Enter Ethenwald.</font> </nonSpeech>
+   <nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> The night drawes on, &amp; <font>Phoebus</font> is declining  
+towards the West.
+Now shepheards bear their flocks vnto the folds,
+And wintred Oxen fodered in their stalles
+Now leaue to feede, and gin to take their rest,
+Blacke duskie cloudes inuyron round the globe,
+And heauen is couered with a Sable robe,
+Now am I come to doe the kings command.
+To court a Wench &amp; win her for the King.
+But if I lyke her well, I say no more,
+Tis good to haue a hatch before the dore:
+But first I will moue her Father to prefer
+The earnest suit I haue in canuasing,
+So may I see the Maid, woo, wed, I and bed her to:
+Who is here? what ho.
+</dialogue><nonSpeech> <font>Enter Osricke.</font> </nonSpeech>
+   <nonSpeech> <font>Os.</font> </nonSpeech><dialogue> Earl <font>Ethenwald</font> , welcome, how fares our friends 
+at court
+What cause constrains your Honor, that thus late
+You visite vs, that dreame not of your comming?
+   </dialogue><nonSpeech> <font>Ethenwald.</font> </nonSpeech><dialogue> My Lord, I am come vnlooked for, very true,
+So is my cumming yet conceald from you.
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> Your Honor shall repose you here to night,
+And earlie as you please, begin your taske,
+Tyme serues not now, come <font>Ethenwald</font> ,
+As welcome as the King himselfe to me.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Now <font>Ethenwald</font> , if Fortune fauour thee,
+Thou maist prooue happie loue to <font>Alfrida</font> . </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Honestie, and the King disguised.</font> </nonSpeech>
+   <nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> This is the place, and this the appointed tyme,
+I know heel keep his word, for he thinks me his friend,
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> But tell me <font>Honestie</font> , am I not well disguised.
+<pagebreak id="C4V" />
+Can any man discerne me by my lookes to be the King,
+Take heed of that, for then our game is mard:
+And hast thou promised him what reward he shall haue.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Tush fear not you, for you neuer knew honest man
+dissemble with his friend,
+Though many friends dissemble with honest men:
+But, my Lord, the cards be shufled, and here comes a knaue.
+</dialogue><nonSpeech> <font>Enter Conicatcher.</font> </nonSpeech>
+   <nonSpeech> <font>Conic.</font> </nonSpeech><dialogue> Tis strange to see how men of our knowledge liue,
+And how we are hated of the baser sort,
+Because (forsooth) we liue vpon our wit:
+But let the baser sort thinke as they will,
+For he may best be termed a Gentleman,
+That when all fayles, can liue vpon his wit.
+And if all fayles, then haue I got a wench,
+That cuts and deales, to maintaine my expence,
+Now I vse her, as men vse sweetest flowers,
+That while they are sweet and pleasant to the eie,
+I doe regard them for their pleasant smell:
+But when their cullour fades, and sent decaies,
+I cast them off for men to trample on:
+But to the purpose, here is the Gentleman
+My honest friend did lately tell me of.
+Sir, though I had another businesse of import,
+That might haue hindred me for comming here,
+Yet in regard I am loth to breake my word,
+I haue set my other businesse cleane apart,
+Because you should not iudge amisse of me,
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> I find you kind Sir, and your self shal see
+How I will labour to requite <comment type="compiler">SOURCE TEXT: reqnite</comment> your curtesie 
+<comment type="compiler">SOURCE TEXT: cnrtesie</comment> .
+This is the honest man I told you of,
+One that will doe you pleasure <comment type="compiler">SOURCE TEXT: pleasnre</comment> in the cause,
+So be it you will content him for his paines.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Els God forbid, and good sir, thus it is,
+I bought a farme of one that dwels here by,
+And for an earnest gaue an hundred pound,
+<pagebreak id="D1R" />
+The rest was to be paid as sixe weekes past,
+Now sir, I would haue you as witnesse,
+That at my house you saw me pay three hundred pound,
+And for your paines I will giue you a hundred pound:
+Besides, I will stand your friend in what I may,
+You heare the cause, what will your conscience serue you to do it?
+   </dialogue><nonSpeech> <font>Conic.</font> </nonSpeech><dialogue> How say you sir, my conscience, then you touch me,
+I tell you sir, my conscience wil serue me to doe more than this:
+Why, I haue bene a poste knight in <font>Westminster</font> this xii. year,
+And sworne to that which no one els would venture on.
+Why, I haue sworne against mine owne father for mony:
+I haue sworne right or wrong any wayes for money,
+whe~ I haue receiued <comment type="compiler">SOURCE TEXT: rereiued</comment> mony before witnes, I 
+swore to the co~trary
+And do you misdoubt me in so sleight a matter as this,
+When I haue sworne against father, mother, and all my kin?
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> I told you sir how resolute you should find him,
+He doeth it without feare, I warrant you:
+I think that in <font>London</font> you could not haue found a man so fit for 
+your purpose,
+I knew his father (sir) a man of honest reputation,
+And one whose lyfe was witnesse to the lyfe he led,
+He was a Bailiefe (sir) though I say't, but no Bayliefe that vsde    
+deceit,
+He had too good a conscience for that.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Al the better for that, for it should seem by his 
+behaueor 
+That he hath had good bringing vp.
+   </dialogue><nonSpeech> <font>Conicatc.</font> </nonSpeech><dialogue> Indeed my father in his lyfe time was a man,
+Giuen to the feare of God, and to vse much deuotion.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I, but he gaue nothing for Gods sake, except it were
+hard words or blowes, and they had bene better kept then giuen:
+But husht, here comes the Iudge.
+</dialogue><nonSpeech> <font>Enter Perin a Iudge, and Dunston a Farmer.</font> </nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> Heare you sir, if you be in readines, here is the 
+Iudge.
+   </dialogue><nonSpeech> <font>Conic.</font> </nonSpeech><dialogue> I sir, fear not, I warrant you, is that your     
+aduersary?
+What an old crust it is?
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> I think the villaine hath a face hardened with  
+steel,
+He could neuer be so impudent els.
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> If it please your Worship, this is the man,
+<pagebreak id="D1V" />
+That wrongfully would haue my farme from me,
+Facing me downe that he hath paid me that,
+Which he neuer offred, not I neuer receiued:
+And this day he hath promised to make proofe,
+That he hath paid me ful foure hundred pound.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> And so I can, and heres my witnes to it,
+That saw me when I paid the money.
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> Why, I am sure he wil not say it,
+I neuer saw the man in all my lyfe.
+   </dialogue><nonSpeech> <font>Conic.</font> </nonSpeech><dialogue> No sir? but I saw you, and was a witnes,
+When this Gentlema~ paid you three hundred pound
+As the last paiment for the farme he bought.
+   </dialogue><nonSpeech> <font>Perin.</font> </nonSpeech><dialogue> But where was the money tendered?
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> At the Gentlemans house.
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> You see father, this marchant wil be witnes
+That he saw so much money tendred,
+And you receiued it, being full satisfyed,
+As the last payment for the farme he bought,
+And if this marchant take his oath against you,
+That seuen daies past he saw the mony tendered,
+I must passe sentence then against you needs.
+But wil you sweare on the bible this is true?
+   </dialogue><nonSpeech> <font>Coni.</font> </nonSpeech><dialogue> I sir, and to that intent I came hether,
+For I wil neuer refuse to swear a truth while I liue
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> Yet ere thou speake, vouchsafe to heare me     
+speake,
+Full three score Winters Gentle sir I haue past,
+And age hath brought gray haires vpon my head.
+Looke but vpon my face, and thou shalt see,
+The perfect patterne of humilitie.
+Thou man of worth, or citizen, what ere thou be,
+Weigh but my charge, and then thou wilt not swear
+I haue fiue sonnes, al pretie tender babes,
+That liue vpon the farme that he would haue,
+Twelue hundred sheep do feed vpon the plaines,
+That yearlie bring a great increase to me, 
+Besides a hundred Oxen fatly fed:
+<pagebreak id="D2R" />
+That euerie Winter feed within my stalles,
+And twentie poore men liuing neere my house,
+I daylie feed, and all vpon my Farme:
+Go but among my neighbours, where I dwell,
+And heare what good report they giue of me.
+The poore man neuer yet went from my dore,
+But to my power I did releeue his want:
+I was no Farmer that inricht my selfe:
+By raysing markets and oppressing poore,
+But I haue sold my corne full manie tymes
+At better rate, than I could wel affoord,
+And all to help my needie brethren: 
+Then ere thou swearst, cal al these things to mind,
+And thou wilt weep, and leaue to sweare vntrueths,
+Confusion to thy bodie and thy soule.
+   </dialogue><nonSpeech> <font>Perin.</font> </nonSpeech><dialogue> Wel, if thou be wel aduised, take thy oath,
+But yet remember before whome thou swearest,
+The God of trueth and perfect equitie,
+Which will reuenge wrong to the innocent,
+with thousand plagues and tortors worse than death.
+   </dialogue><nonSpeech> <font>Con.</font> </nonSpeech><dialogue> By the holy contents of this Byble,
+And by that iust God, before whome I stand, I saw this man,
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Peace, shamelesse villain, execrable wretch,
+Monster of nature, degenerate miscreant,
+Who euer knew or heard so vile an oath,
+Vildly pronounc'd by such a damned slaue,
+Haue I such monstrous vipers in my land,
+That with their verie breaths infect the aire,
+Say <font>Dunston</font> , hast thou euer heard the lyke.
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> My Liege, such lothsome weeds must needs infect  
+the corne,
+Such Cankers perish both the root and branch,
+Vnlesse they be soone spied and weeded out:
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Ile be the husbandman to mowe such Tares,
+Here <font>Honesty</font> , let him be manacled:
+And scar his forehead, that he may be knowne,
+As <font>Cain</font> for murder, he for periurie.
+<pagebreak id="D2V" />
+   </dialogue><nonSpeech> <font>Conicat.</font> </nonSpeech><dialogue> I beseech your Grace be good to me.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I, you shal haue a cold yron clapt in your forehead,
+A hot one I would say, you are a slaue indeede.
+   </dialogue><nonSpeech> <font>Conicatcher.</font> </nonSpeech><dialogue> Good <font>Honesty</font> .
+   </dialogue><nonSpeech> <font>Hone.</font> </nonSpeech><dialogue> Good villaine, theres no help for you.            
+</dialogue><nonSpeech> <font> <foreign>Exeunt</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Ethenwald alone.</font> </nonSpeech>
+   <nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> My fancies thoughts, lyke the labouring Spyder,
+That spreads her nets, to entrap the sillie Flie:
+Or lyke the restlesse billowes of the seas,
+That euer alter by the fleeting ayre,
+Still houering past their woonted passions,
+Makes me amazed in these extremities,
+The King commands me on his embassage,
+To <font>Osricks</font> daughter, beauteous <font>Alfrida</font> ,
+The height and pride of all this bounding ill, 
+To poste amaine, plead loue in his behalfe,
+To court for him, and woo, and wed the mayd,
+But haue you neuer heard that theame,
+Deceit in loue is but a merriment,
+To such as seeke a riuall to preuent,
+Whether (distraught) romes my vnruly thoughts,
+It is the King I cosen of his choise,
+And he nil brook Earl <font>Ethenwald</font> should prooue
+False to his Prince, especially in loue.
+The~ thus it shal be, Ile tel the king the maid is fair,
+Of nut browne cullour, comelie and fair spoken,
+Worthie companion to an Earle or so:
+But not a Bride for <font>Edgar, Englands</font> King,
+This will alay the strong effects in loue.
+Fame wrought in <font>Edgars</font> mind of <font>Alfrida</font> .
+Well, Ile to court, and dallie with the King,
+And worke some means to draw his mynde from loue.
+</dialogue><nonSpeech> <font>Enter a Knight, Squire, and Farmer.</font> </nonSpeech>
+   <nonSpeech> <font>Knight</font> </nonSpeech><dialogue> Neighbour <font>Walter</font> I cannot but admire to see
+How housekeeping is decayed within
+this thirtie yare,
+<pagebreak id="D3R" />
+But where the fault is God knowes, I knowe not: 
+My father in his lyfe time gaue hospitality to all strangers, and
+Distressed traueillers, his table was neuer emptie of bread, beefe
+And beere, he was woont to keep a hundred tall men in his hall.
+He was a feaster of all commers in generall,
+And yet was he neuer in want of money:
+I thinke God did blesse him with increase, for his bountiful mind
+   </dialogue><nonSpeech> <font>Farm.</font> </nonSpeech><dialogue> Truly sir, I am sorrie, you ar fallen into decay,
+In that you want to maintaine houshould charge,
+And whereof comes this want, I will tell you sir,
+Tis only throw your great housekeeping:
+Be ruled by me, and doe as I aduise you:
+You must learne to leaue so great a traine of men,
+And keepe no more than needs of force you must,
+And those you keepe, let them be simple men,
+For they will be content with simple fare,
+Keepe but a boy or two within your house,
+To run of errants, and to wait on you, 
+And for your kitchin, keep a woman cooke,
+One that will serue for thirtie shillings a yeare:
+And by that means you saue two liueries,
+And if ye will keep retainers towards you,
+Let them be Farmers, or rich husbandmen,
+For you shal find great profit (sir) in keeping them:
+For if you stand in need of corne or hay,
+Send but to them, and you may haue it strait:
+And if you kill a Beefe, let it be so leane
+The Butcher nor the Grasyer will not buy it,
+Your drinke is too strong, and tastes too much of malt,
+Tush, single beere is better far, both for your profit, and your     
+seruants health
+And at a Christmasse time feast none at al,
+But such as yeeld you some commoditie:
+I meane such as will send you now and then,
+Fat Geese and Capons to keep house withall,
+To these and none els would I haue you liberall.
+   </dialogue><nonSpeech> <font>Knight.</font> </nonSpeech><dialogue> Why neighbor, my goods are lent me to no other  
+end
+<pagebreak id="D3V" />
+But to releeue my needie brethren, but God I hope hath in store for  
+me.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> I, trust you to that, &amp; you may hap die a begger:
+   </dialogue><nonSpeech> <font>Squ.</font> </nonSpeech><dialogue> Why sir, if he should not trust in God, in whom    
+should he
+trust, for God is the giuer of all good whatsoeuer.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> True, and yet tis good for a man to trust to       
+himselfe now
+and then: for if you be downe, and bid God help you vp, and do not
+help your self, you may fortune lie and perish: and therefore, serue
+God on Sundaies, as you are appointed, and thereby hope to be
+saued, for by your almes deeds you cannot, for if you giue to the
+poore, there be manie wil say, he thinks to bee saued by his almes
+deedes: and thus you shal be ill thought on for your good wil, and
+therfore learn to prouide for your self, let God prouide for the pore
+   </dialogue><nonSpeech> <font>Knig.</font> </nonSpeech><dialogue> I tel you neighbor, my great grandfather, &amp; all my
+predecessors haue bene held in good regard for their good
+housekeeping, and (God willing) their good names shal neuer take an
+exigent in me, for I wil (God willing) keepe such hospitalitie to my
+death, as my state can maintaine, and I will rather sell my land,
+to maintain hous-keeping, then keeping my land make sale of my
+good name for housekeeping, but stay, who comes here.
+</dialogue><nonSpeech> <font>Enter two poore old men and a Bayliefe.</font> </nonSpeech>
+   <nonSpeech> <font>One old man.</font> </nonSpeech><dialogue> God saue you sir, I pray be good to me for 
+cham
+a poore man, and I cannot tell what you will doe, for you say my
+horse hath broken into your corn, or your corne into my horse,
+But indeed my neighbor saw your boy driue my horse into a field
+But Ile stand to nothing, nowe I am warnd with a peece of
+paper, and a litle ware, to prepare or proceed to London,
+And there I am inuented, I cannot tell for what:
+The Bailiefe here hath arested me ere I was weary against my
+will: he said it was vpon your suit, &amp; yet he laid his hands on me,
+Nay more, on my shoulder.
+   </dialogue><nonSpeech> <font>Another old.</font> </nonSpeech><dialogue> And sir, and it may please you, I borrowed 
+certen
+corn, and I brought you your corne again, and yet you rest me.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> True sir, but then was corne sold for foure        
+shillings a 
+bushell, and now tis sold for two.
+   </dialogue><nonSpeech> <font>Kni.</font> </nonSpeech><dialogue> I sir, but he borrowed corne, and promised to pay  
+you corn
+againe, and you can haue but so much as you lent:
+<pagebreak id="D4R" />
+For if he should pay you at the rate you demande,
+You wold haue for the twentie bushels you lent, fourtie,
+Which were neither right nor conscience.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> O sir, I pray let me alone with my conscience,
+You would haue me giue al I haue away to the poore, &amp; want as
+you do, I pray let me alone to deale for my selfe: heare you, haue
+you rested them?
+   </dialogue><nonSpeech> <font>Bail.</font> </nonSpeech><dialogue> I haue sir as you commanded me.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Then to prison with them, til they haue paid such
+dammages as the law shal award them.
+   </dialogue><nonSpeech> <font>One poor.</font> </nonSpeech><dialogue> Hear you sir, if you shuld bid your boy break 
+downe
+a gap, and driue in my horse, twere litle better than plaine
+knauerie, for my horse is as honest a horse, as any is in this towne.
+   </dialogue><nonSpeech> <font>Another.</font> </nonSpeech><dialogue> Wel neighbor, we wil haue the horse examined
+before an officer, and my boy Jack shal write what the horse speaks
+and if the horse say a was driuen in against his wil,
+Then you may haue the law of him, neighbor,
+For all the horses in the parish wil be sworne for his horse.
+But Ile stand to nothing.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Wel, to prison with the~ til they haue paid your   
+due, 
+away with them.
+   </dialogue><nonSpeech> <font>One poor.</font> </nonSpeech><dialogue> Nay, I pray, be more miserable to me, and I wil
+giue you fourtie shillings when I haue it.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> By the Mas the knaue hath a pretie cottage,
+Ile see and I can get that: sirra, you haue an old cottage,
+If you will make me that ouer by deed of gift,
+I am content to draw my action.
+   </dialogue><nonSpeech> <font>Another p.</font> </nonSpeech><dialogue> My house? why tis my goods, my wyfe, my land,
+My horse my asse, or any thing that is his: no you Caterpiller, 
+I will neuer make away my house, I wil die first.
+   </dialogue><nonSpeech> <font>Squi.</font> </nonSpeech><dialogue> But tel me sir, howe much wold you haue of them for
+their trespasse?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Mary, for fourtie shillings, and yet I befriend    
+them,
+Why sir, I hope you will not pay it for them?
+   </dialogue><nonSpeech> <font>Kni.</font> </nonSpeech><dialogue> But I wil: sirra Bailie, I will answere the poore  
+mens
+debts, and <comment type="compiler">SOURCE TEXT: aud</comment> come home to me for thy fee anon, go 
+old men.
+Get you home and praise God.
+<pagebreak id="D4V" />
+   </dialogue><nonSpeech> <font>One poor.</font> </nonSpeech><dialogue> Mary Jesus blesse you: naibor, how many such  
+good
+Knightes haue you now a dayes?
+   </dialogue><nonSpeech> <font>Anoth.</font> </nonSpeech><dialogue> Too few, neighbor, the more is the pitie.        
+</dialogue><nonSpeech> <font> <foreign>Exeunt</foreign> </font> </nonSpeech><dialogue>
+But come lets away.
+   </dialogue><nonSpeech> <font>Knight.</font> </nonSpeech><dialogue> But who comes her?
+</dialogue><nonSpeech> <font>Enter Perin and Honesty.</font> </nonSpeech>
+   <nonSpeech> <font>Per.</font> </nonSpeech><dialogue> God saue you gentlemen, the king greets you, and   
+at this time,
+Hauing some occasion, to vse mony, hath sent to know
+What you that be Knightes and Squires wil lend his Grace,
+And you maister Farmer, be brief (sir) for I cannot stay.
+   </dialogue><nonSpeech> <font>Kni.</font> </nonSpeech><dialogue> Sir, though hous-keeping be some hindrance to my   
+willing
+mind by reason it robs me of that, which shuld bewray my louing
+mind both to my prince &amp; country, money I meane which at this
+time I stand in some want of, yet of that smal store that I haue,
+am willing to impart the lending of the king xx. pound, and more
+I assure you I am not able.
+   </dialogue><nonSpeech> <font>Perin.</font> </nonSpeech><dialogue> Very wel, and what say you maister Squire.
+   </dialogue><nonSpeech> <font>Squire,</font> </nonSpeech><dialogue> I say that my reuenewes are but small, yet I will
+lend his Maiestie ten pound:
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> Very wel, but what saith the Farmer?
+What can he spare the King?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Marry sir, I am a poore Farmer, &amp; yet I can affoord
+To lend the King a hundred or two of pounds,
+And heare you sir, if you prefer a suit I haue to the King,
+I will giue you fourtie Angels for your paines:
+Besides, I will giue you the keeping of a dozen iades:
+And now and then meat for you and your horse.
+If you come to my house and lie a whole yeare.
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> Why thats well said, and I commend thy honest mind,
+Would all men wer of thy mind:
+I warrant thee, thou art an honest man, &amp; one that loues the king
+But tel me, what wouldst thou haue me doe?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Nothing but procure me the Kings letter to conuey  
+corn
+beyond seas, for in England it is so good cheap, that a man can
+make no liuing by selling thereof: therfore if the King wil grant
+me his letter, I will at any time, lend him fiue or sixe hundred     
+pound,
+<pagebreak id="E1R" />
+and perhaps neuer ask it again, and I wil not forget your paines.
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> Sir, feare not, I wil do it for you, I warrant you,
+For I tel you I can do much with the King.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I beleeue you wil do more than you wil be          
+commended for,
+The Courtier resembleth the Iay, that decketh her self with the
+feathers of other birds, to make her self glorious:
+So the Courtier must be braue, tho he be hangd at the gallous.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Wel sir, wil it please you to come and dine with me.
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> I thanke you sir hartily.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> But whats he there in your company.
+   </dialogue><nonSpeech> <font>Perin.</font> </nonSpeech><dialogue> A plaine fellow, and his name is <font>Honesty</font> .
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> O let him go where he will, for he shal not dine   
+with me.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> See how the Farmer feares my name, 
+What wold he doe if he knew my nature?
+But hear you (maister Courtier) shall I dine with you?
+I promise you sir, I am very hungrie,
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> Trulie <font>Honesty</font> , if I were furnisht with money,
+I would not stick to giue thee thy dinner,
+But now thou seest I am but a guest my selfe.
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Truly honest fellow, if I were certaine of my      
+cheere, I
+wold bid thee to dinner, but know not my prouisio~ I promise thee
+   </dialogue><nonSpeech> <font>Kni.</font> </nonSpeech><dialogue> Heare you sir, will it please you to take part of  
+a peece of
+beefe with me, you shal be welcome.
+   </dialogue><nonSpeech> <font>Perin.</font> </nonSpeech><dialogue> I thank you sir, but I must dine with my honest  
+friend
+here, els I would not refuse your gentle offer.                      
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+   <nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> See how he can vse my name and not me,
+But I perceiue I may goe dine with Duke Humfrie,
+God bwy Gentlemen, for none here hath occasion to vse Honesty
+   </dialogue><nonSpeech> <font>Kni.</font> </nonSpeech><dialogue> Yes <font>Honesty</font> , thou shalt be my brothers guest  
+and mine. 
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Mary and I thank you to, for now the world may say,
+That <font>Honesty</font> dines with Hospitality to day,                      
+</dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Osrick and Alfrida, and to them Ethenwald.</font> </nonSpeech>
+   <nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> Daughter, see that you entertaine the Earle,
+As best beseemes his state and thy degree:
+He comes to see whether Fame haue worthily
+Bene niggard, in commending thee or no, 
+So shall thy vertues be admired at the court.
+<pagebreak id="E1V" />
+And thou be praised for kind and debonair,
+For curtesie contents a Courtier oft:
+When nothing els seemes pleasant in his eies.
+   </dialogue><nonSpeech> <font>Alfr.</font> </nonSpeech><dialogue> Father, you shall perceiue that <font>Alfrida</font>
+Will doe her best in honouring of your age,
+To entertaine the Earle of Cornwell so,
+That he shall think him highlie fauoured,
+Throw louing speech and curteous entertain.
+   </dialogue><nonSpeech> <font>Os.</font> </nonSpeech><dialogue> How fares my L. of <font>Cornwel</font> , what displeased
+Or troubled with a mood thats male content?
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Not male content, and yet I am not well,
+For I am troubled with a painfull rume,
+That when I would be mery, troubles me,
+And commonlie it holds me in my eies.
+With such extreames, that I can scantly see.
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> How long haue you bene troubled with the pain,
+Or is it a pain that you haue vsuall?
+Or is it some water, that by taking cold,
+Is falne into your eies, and troubles you?
+   </dialogue><nonSpeech> <font>Erh.</font> </nonSpeech><dialogue> I cannot tel, but sure it paines me much,
+Nor did it euer trouble me till nowe,
+For till I came to lodge within your house,
+My eies were cleare, and I neuer felt the paine.
+   </dialogue><nonSpeech> <font>Os.</font> </nonSpeech><dialogue> I am sory that my house shuld cause your grief
+Daughter, if you haue any skil at all,
+I pray you vse your cunning with the Earle,
+And see if you can ease him of his paine.
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> Father, such skill as I receiued of late,
+By reading many pretie pend receites,
+Both for the ache of head, and paine of eyes.
+I wil, if so it please the Earle to accept it,
+Indeuour what I may to comfort him.
+My Lord, I haue waters of approoued worth,
+And such as are not common to be found:
+Any of which, if it please your honour, vse them,
+I am in hope, will help you to your sight,
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> No (matchlesse <font>Alfrida</font> ) they will doe me no   
+good.
+<pagebreak id="E2R" />
+For I am troubled only when I looke.
+   </dialogue><nonSpeech> <font>Alfrida.</font> </nonSpeech><dialogue> On what (my Lord) or whome?
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> Why let me see your eies (my Lord) looke vpon me.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Then twil be worse.
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> What, if you looke on me? then Ile be gone.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Nay stay, sweet loue, stay beauteous <font>Alfrida</font> ,
+And giue the Earle of <font>Cornwel</font> leaue to speake:
+Know <font>Alfrida</font> , thy beautie hath subdued,
+And captiuate the Earle of <font>Cornwels</font> heart
+Briefly, I loue thee, seeme I neere so bold,
+So rude and rashlie to prefer my sute,
+And if your father giue but his consent,
+Eased be that paine that troubles <font>Ethenwald</font> .
+And this considered, <font>Osricke</font> shall prooue,
+My father, and his daughter be my loue,
+Speake <font>Osrick</font> , shall I haue her I or no?
+   </dialogue><nonSpeech> <font>Os.</font> </nonSpeech><dialogue> My Lord with al my hart, you haue my consent
+If so my daughter please to condiscend.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> But what saith <font>Alfrida</font> ?
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> I say (my Lord) that seing my father grants,
+I will not gainsay, what his age thinks meet,
+I do appoint my selfe (my Lord) at your dispose,
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Wel <font>Osrick</font> , nowe you see your daughter's mine,
+But tel me when shall be the wedding day,
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> On Monday next, till then you are my guest.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> Well <font>Osricke</font> , when our nuptiall rites are   
+past,
+I must to Court, of businesse to the King.
+   </dialogue><nonSpeech> <font>Alfr.</font> </nonSpeech><dialogue> Let that be as you please my Lord,
+But stay not long, for I shall hardlie brooke your absence then.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Feare not <font>Alfrida</font> , I will not stay there long, 
+But come, let vs in Father, pray lead the way. </dialogue><nonSpeech> <font> <foreign>Exeunt</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter the King and Dunston.</font> </nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> Tel me <font>Dunston</font> , what thinkest thou of the    
+fauors of Kings
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> I think of Kings fauors as of a Marigold flower,
+That as long as the Sun shineth openeth her leaues,
+<pagebreak id="E2V" />
+And with the least cloud closeth againe:
+Or lyke the Violets in <font>America</font> , that in sommer yeeld an         
+odifferous smell,
+And in winter a most infectious sauour:
+For at euery ful sea they flourish, or at euery dead ope they vade:
+The fish <font>Palerna</font> being perfect white in the calme,
+Yet turneth blacke with euery storme:
+Or lyke the trees in the deserts of <font>Africa</font> ,
+That flourish but while the southwest wind bloweth:
+Euen so (my Lord) is the fauours of kings to them they fauour,
+For as their fauours giue lyfe, so their frownes yeeld death.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Wel said, <font>Dunston</font> , but what merits he that   
+dissembles
+with his Soueraigne?
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> In my opinion (my Lord) he merits death.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Then assure thy selfe, if <font>Ethenwald</font>           
+dissemble, he shall
+die: but who comes here? <font>Perin</font> , what newes, that thou commest
+in such hast? and what is he that beares thee company?
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> It is my gratious Lord an honest man,
+And one it seemes that loues you Maiestie:
+For as your Grace gaue me in charge,
+I went about into the countrey, to see what summes of money I could  
+make,
+Among the cheefest of the communaltie:
+And mongst the richest Knights that I could fynd,
+They would lend your Grace at most but twenty pound                  
+<comment type="compiler">SOURCE TEXT: ponnd</comment> ,
+And euery Squire would lend you Grace but ten:
+Then came I mongst the rest to this plaine man,
+And asked him what he would lend the king,
+He aunswered sir, you see I am but poore,
+Not halfe so wealthy as a Knight or Squire,
+And yet in signe of dutie to his Grace,
+I wil lende his Maiestie two hundred pound.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Thanks honest fellow, for thy loue to vs,
+And if I may but pleasure thee in ought,
+Command me to the vttermost I may:
+<font>England</font> hath too few men of thy good mind.
+</dialogue><nonSpeech> <font>Enter Honestie and Piers plowman.</font> </nonSpeech><dialogue>
+<font>Honesty</font> , what newes? where hast thou bene so long?
+<pagebreak id="E3R" />
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> A my Lord, I haue bene searching for a priuie   
+knaue
+One (my Lord) that feeds vpon the poore commons,
+And makes poore <font>Piers ploughman</font> weare a thread bare coate,
+It is a farmer (my Lord) which buyes vp all the corn in the 
+market, and sends it away beyond seas, &amp; thereby feeds the enemie.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Alas, poore <font>piers plowman</font> , what ailest thou?  
+why doest
+thou weep, peace man, if any haue offended thee,
+Thou shalt be made amends vnto the most.
+   </dialogue><nonSpeech> <font>piers plow.</font> </nonSpeech><dialogue> I beseech your Grace to pitie my distresse,
+There is an vnknowne theefe that robs the common wealth,
+And makes me and my poore wife and children beg for maintenance,
+The tyme hath bene (my Lord) <font> <foreign>in diebus illis</foreign> </font> ,
+That the Plowmans coat was of good homespun russet cloth,
+Whereof neither I nor my seruants had no want,
+Though now both they and I want,
+And all by this vnknown Farmer:
+For there cannot be an aker of ground to be sold,
+But he will find money to buy it: nay my Lord, he hath money
+to buy whole Lordships, and yet but a Farmer,
+I haue kept a poore house where I dwel this four score yeare,
+Yet was I neuer driuen to want till now:
+I beseech your Grace, as you haue still bene iust,
+To seek redresse for this oppression
+I beseech your Grace reade my humble petition.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Let me see the humble petition, of poor <font>piers    
+plowman</font> ,
+Alasse poore <font>piers</font> , I haue heard my father say,
+That <font>piers plowman</font> was one of the best members in a commo~ wealth,
+For his table was neuer emptie of bread, beefe, and beere,
+As a help to all distressed traueilers: but where thou tellest mee,
+I harbour him, and he is dailie vnder my elbow,
+I assure thee tis more than I know, for I harbour none but this
+which is my honest friend.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Is this your honest friend? the deuill a is (my    
+Lord)
+This is he: if you doubt my word to be true, call in Clarke of the
+Assyses, now shall your Grace see,
+How <font>Honesty</font> can shake out a knaue in this company:
+<pagebreak id="E3V" />
+</dialogue><nonSpeech> <font>Enter Clarke of the Assyse.</font> </nonSpeech><dialogue>
+Sirra, tell me who hath most poore men in suit at this Syses?
+   </dialogue><nonSpeech> <font>Clark.</font> </nonSpeech><dialogue> That hath <font>Walter would haue more</font> :
+He hath one poore man in suit for certaine Barlie,
+And another for that his horse was taken in his corne.
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> But what inditemennts are against him, read them
+</dialogue><nonSpeech> <font>Read the Inditement.</font> </nonSpeech>
+   <nonSpeech> <font>Clark.</font> </nonSpeech><dialogue> First <comment type="compiler">SOURCE TEXT: Frst</comment> , he hath conueyed   
+corne out of the land to feede the
+Enemie. Next, hee hath turned poore Piers Plowman out of
+dores by his great raising of rents.
+Next, he is knowne to bee a common disturber of men of their
+quiet, by seruing Writs on them, and bringing them to London,
+to their vtter vndoing.
+Also, he keeps corne in his barne, and suffers his brethren and
+neighbours to lie and want, and thereby makes the market so
+deare, that the poore can buy no corne.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Ynough: now fie vpon thee, thou monster of nature,
+To seeke the vtter vndoing of manie, to inrich thy selfe:
+<font>Honesty</font> , take him, and vse him as thou wilt.
+   </dialogue><nonSpeech> <font>Honesty.</font> </nonSpeech><dialogue> Come sir, I thinke I found out your knauerie,
+Away sir, and beare your fellow companie.
+</dialogue><nonSpeech> <font> <foreign>Exeunt omnes</foreign> but the King and Dunston.</font> </nonSpeech>
+<nonSpeech> <font>Enter Ethenwald.</font> </nonSpeech>
+   <nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Health and good hap befall your Maiestie,
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> <font>Ethenwald</font> welcome, how fares our beautious loue,
+Be breefe man, what, will she loue or no?
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Then as your Grace did giue to me in charge,
+I haue dischargde my dutie euery way,
+And communed with the maid you so commend:
+For when the Sun, rich Father of the day,
+Eie of the world, King of the spangled vale,
+Had run the circuit of the Horizon,
+And that <font>Artofelex</font> , the nights bright star,
+Had brought fair <font>Luna</font> <comment type="compiler">SOURCE TEXT: <font>Lnna</font> </comment> from the        
+purpled mayne,
+Where she was dallying with her wanton loue,
+To lend her light to wearie traueilers.
+<pagebreak id="E4R" />
+Then twas my chance to arriue at <font>Osricks</font> house:
+But being late I could not then vnfolde
+The message that your Grace had giuen in charge:
+But in the morne <font>Aurora</font> did appeare,
+At sight of whom the <font>Welkin</font> straight did cleare.
+Then was the spangled vale of heauen drawne in,
+And <font>phoebus</font> rose lyke heauens imperiall King:
+And ere the Sun was mounted fiue degrees
+The maid came downe and gaue me the good day,
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> But being come, what said she then?
+How lykest thou her, what is she fair or no?
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> My Lord, she is colloured lyke the <font>Sinthin</font>     
+Maide,
+That challenged <font>Lucio</font> at the <font>Olympian</font> games,
+Well bodied, but her <comment type="compiler">SOURCE TEXT: )her</comment> face was something blacke,
+Lyke those that follow houshold businesse:
+Her eies wer hollow sunke into her head,
+Which makes her haue a clowdie countenance,
+She hath a pretie tongue, I must confesse,
+And yet (my Lord) she is nothing eloquent.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Why then (my Lord,) theres nothing good in her.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Yes my Lord, she is fit to serue an Earle or so,
+But far vnfit for <font>Edgar</font> <comment type="compiler">SOURCE TEXT: <font>Cdgar</font> </comment> <font>Englands</font> 
+King.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> So then she is fit for <font>Ethenwald</font> our Cornish  
+Earle,
+But far vnfit for <font>Edgar Englands</font> king:
+Well <font>Ethenwald</font> , I sound your policie:
+But tell me ifaith, doest thou loue the maide.
+Speake truelie man, dissemble not.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> I doe (my gratious Lord) and therewithall,
+Intreate your Maiestie to pardon me.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> <font>Ethenwald</font> , I am content to pardon thee,
+And will be with thee my selfe ere long, 
+To doe thee honour in thy mariage,
+And therefore <font>Ethenwald</font> thou maist depart,
+And leaue vs til we visite thee at home.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> My gratious Lord I humbly take my leaue.
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> If it please your Grace pardon me, and giue me   
+leaue
+<pagebreak id="E4V" />
+I would gladlie bring my Nephew on the way.
+   </dialogue><nonSpeech> <font>Ki.</font> </nonSpeech><dialogue> With all my heart <font>Dunston</font> , but stay not long.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> I humbly take my leaue of your Maiesty.
+</dialogue><nonSpeech> <font>Exeunt Dunst. and Ethenwald.</font> </nonSpeech>
+   <nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Farewel <font>Ethenwald</font> , but <font>Perin</font> tell me now,
+What doest thou thinke of <font>Alfrida</font> ,
+Is she so foule as <font>Ethenwald</font> reports her,
+Beleeue me then she had bene vnfit for me.
+   </dialogue><nonSpeech> <font>per.</font> </nonSpeech><dialogue> My gratious Lord, <font>Ethenwald</font> hath dissembled    
+with your Maiesty,
+For <font>Alfrida</font> is fair and vertuous:
+For last night, being in priuate conference,
+He tould me he had deuised a mean
+To collour with the King by forged excuse,
+No, no, (quoth he) my <font>Alfrida</font> is faire,
+As is the radiant North star Christaline,
+That guides the wet and wearie Traueller,
+Soust with the surge of <font>Neptunes</font> watery main,
+And thus my Lord, he fell to praising her,
+And from his pocket straight he drew this counterfeit,
+And said twas made by beauteous <font>Alfrida</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> A face more faire than is the Suns bright beames,
+Or snow white Alpes beneath faire <font>Cynthea</font> ,
+Who would refuse with <font>Hercules</font> to spin,
+When such faire faces bears vs companie.
+Faire <font>Pollyxena</font> neuer was so faire:
+Nor she that was proud loue to <font>Troylus</font> .
+Great <font>Alexanders</font> loue, Queen of Amazons,
+Was not so faire as is faire <font>Alfrida</font> .
+But <font>perin</font> , be thou secrete to the King,
+And I will sound these subtill practizes,
+And <font>Ethenwald</font> , be sure I will quittance thee,
+And teach thee how to dallie with thy King,
+But <font>perin</font> lets to Court vntill to morne,
+And then weele take horse and away. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter mad men of Goteham, to wit, a Miller,
+a Cobler, and a Smith.</font> </nonSpeech>
+<pagebreak id="F1R" />
+   <nonSpeech> <font>Miller.</font> </nonSpeech><dialogue> Now let vs constult among our selues,
+How to misbehaue our selues to the Kings worship,
+Jesus blesse him: and when he comes, to deliuer him this petition
+I think the Smith were best to do it, for hees a wise man.
+   </dialogue><nonSpeech> <font>Cobler.</font> </nonSpeech><dialogue> Naighbor, he shall not doe it, as long as       
+Jefferay the
+Translater is Maior of the towne.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> And why, I pray, because I would haue put you    
+from the Mace?
+   </dialogue><nonSpeech> <font>Miller.</font> </nonSpeech><dialogue> No, not for that, but because he is no good     
+fellow,
+Nor he will not spend his pot for companie.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> Why (sir) there was a god of our occupation, and I
+charge you by vertue of his godhed, to let me deliuer the petitio~.
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> But soft you, your God was a Cuckold, and his 
+Godhead was the horne, and thats the Armes of the Godhead you call
+vpon. Go, your are put down with your occupation, and now I wil
+not grace you so much as to deliuer the petition, for you.
+   </dialogue><nonSpeech> <font>Smith</font> </nonSpeech><dialogue> What, dispraise our trade?
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Nay, neighbour, be not angrie, for Ile stand to    
+nothing
+onlie but this.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> But what? beare witnesse a giues me the But,     
+and I
+am not willing to shoot: Cobler, I will talke with you: nay, my
+bellowes, my coletrough, and my water shall enter armes with
+you for our trade: O neighbour, I can not beare it, nor I wil not
+beare it.
+   </dialogue><nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> Heare you, neighbour, I pray conswade your self    
+and be
+not wilful, &amp; let the Cobler deliuer it, you shal see him mar all,
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> At your request I will commit my selfe to you,
+And lay my selfe open to you, lyke an Oyster.
+   </dialogue><nonSpeech> <font>Mil.</font> </nonSpeech><dialogue> Ile tell him what you say: Heare you naighbor, we  
+haue
+constulted to let you deliuer the petition, doe it wisely for the
+credite of the towne.
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Let me alone, for the Kings Carminger was here,
+He sayes the King will be here anon.
+   </dialogue><nonSpeech> <font>Smith.</font> </nonSpeech><dialogue> But heark, by the Mas he comes.
+</dialogue><nonSpeech> <font>Enter the King, Dunston, and Perin.</font> </nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> How now <font>Perin</font> , who haue we here?
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> We the townes men of <font>Goteham</font> ,
+<pagebreak id="F1V" />
+Hearing your Grace would come this way,
+Did thinke it good for you to stay,
+But hear you, neighbours, bid somebody ring the bels,
+And we are come to you alone to deliuer our petition,
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> What is it <font>Perin</font> , I pray thee reade.
+   </dialogue><nonSpeech> <font>per.</font> </nonSpeech><dialogue> Nothing but to haue a license to brew strong Ale   
+thrise a
+week, and he that comes to Goteham, and will not spende a penie
+on a pot of Ale, if he be a drie, that he may fast.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Well sirs, we grant your petition.
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> We humblie thanke your royall Maiesty.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Come <font>Dunston</font> , lets away.                     
+</dialogue><nonSpeech> <font> <foreign>Exeunt omnes.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Ethenwald alone.</font> </nonSpeech>
+   <nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> <font>Ethenwald</font> , be aduised, the King hath sent to  
+thee,
+Nay, more, he means to come and visite thee,
+But why, I theres the question?
+Why tis for this, to see if he can fynd,
+A front whereon to graft a paire of hornes:
+But in plain tearms, he comes to Cuckold me,
+And for he means to doe it without suspect,
+He sends me word he means to visite me:
+The King is amorous, and my wyfe is kinde,
+So kind (I feare) that she wil quickly yeeld
+To any motion <comment type="compiler">SOURCE TEXT: motiou</comment> that the King shal make:
+Especially if the motion be of loue:
+For Pliny writes, women are made lyke waxe,
+Apt to receiue any impression:
+Whose mindes are lyke the Ianamyst,
+That eates, yet cries, and neuer is satisfied:
+Well, be as it is, for Ile be sure of this,
+It shall be no waies preiudice to me:
+For I will set a skreene before the fyre,
+And so preuent what otherwyse would ensue:
+Twere good I questioned <comment type="compiler">SOURCE TEXT: qnestioned</comment> with my father   
+first,
+To heare how he affected towards the King.
+What ho.
+</dialogue><nonSpeech> <font>Enter Osrick and Alfrida.</font> </nonSpeech>
+   <nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> <font>Ethenwald</font> , my sonne, what newes?
+<pagebreak id="F2R" />
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> Why aske you? I am sure you haue heard the newes.
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> Not yet <comment type="compiler">SOURCE TEXT: yer</comment> , I promyse you my    
+Lord.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> Why then tis thus, the King doth meane to come   
+and visit you.
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> And welcome shal his Maiesty be to me,
+That in the wane of my decreasing yeares,
+Vouchsafes this honour to Earle <font>Osricks</font> house.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> So then, you meane to entertaine him well?
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> What els my Sonne?
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Nay, as you will, but heare you wyfe, what do you  
+think
+in this, that <font>Edgar</font> means to come and be your guest?
+   </dialogue><nonSpeech> <font>Alfr.</font> </nonSpeech><dialogue> I thinke my Lord he shall be welcom then,
+And I hope that you will entertaine him so:
+That he may know how <font>Osrick</font> honours him:
+And I will be attyred in cloth of Bis,
+Beset with Orient pearle, fetcht from rich Indian
+And all my chamber shall be richly,
+With Aras hanging, fetcht from Alexandria,
+Then will I haue rich Counterpoints and muske,
+Calamon, and Casia, sweet smelling Amber Greece,
+That he may say, <font>Venus</font> is come from heauen.
+And left the Gods to marie <font>Ethenwald</font> .
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Zwouns, they are both agreed to cuckold me,
+But heare you wyfe, while I am master of the Bark,
+I meane to keepe the helmster in my hand:
+My meaning is, you shall be rulde by me,
+In being disguised till the King be gone,
+And thus it shall be, for I will haue it so.
+The King hath neuer seene thee I am sure,
+Nor shall he see thee now, if I can chuse:
+For thou shalt be attyrde in some base weedes,
+And Kate the kitchin maid shall put on thine:
+For being richly tyred, as she shall be,
+She will serue the turne to keep him companie.
+   </dialogue><nonSpeech> <font>Osr.</font> </nonSpeech><dialogue> Why, men that heare of this will make a scorne of  
+you.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> And he that lies with this wil make a horne for me.
+It is ynough, it must be so.
+<pagebreak id="F2V" />
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> Me thinks twere better otherwaies. </dialogue><nonSpeech> <font>Exit       
+Alfrida</font> </nonSpeech>
+   <nonSpeech> <font>Ethenw.</font> </nonSpeech><dialogue> I think not so, will you be gone?
+Father, let me alone, Ile breake her of her will,
+We that are maried to yong wiues, you see,
+Must haue a speciall care vnto their honestie:
+For should we suffer them to haue their will:
+They are apt (you know) to fall to any ill.
+But here comes the King.
+</dialogue><nonSpeech> <font>Enter the King, Dunston, and Perin to Ethenwald.</font> </nonSpeech>
+   <nonSpeech> <font>Ki.</font> </nonSpeech><dialogue> Earle <font>Osricke</font> , you must needs hold vs excused,
+Though boldly thus vnbid we visite you:
+But knowe the cause that mooued vs leaue our Court,
+Was to doe honour to Earle <font>Ethenwald</font> :
+And see his louelie Bride, faire <font>Alfrida</font> .
+   </dialogue><nonSpeech> <font>Osrick.</font> </nonSpeech><dialogue> My gratious Lord, as welcome shall you be,
+To me, my Daughter, and my sonne in Law,
+As <font>Titus</font> was vnto the Roman Senators,
+When he had made a conquest on the Goths:
+That in requitall of his seruice done,
+Did offer him the imperiall Diademe:
+As they in <font>Titus</font> , we in your Grace still fynd,
+The perfect figure of a Princelie mind.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Thankes <font>Osrick</font> , but I thinke I am not welcome,
+Because I cannot see faire <font>Alfrida</font> :
+<font>Osricke</font> , I will not stay, nor eat with thee,
+Till I haue seene the Earle of Cornwels wife.
+   </dialogue><nonSpeech> <font>Ethen.</font> </nonSpeech><dialogue> If it please your Maiestie to stay with vs,
+My wyfe shal wayt as handmaid on your Maiestie:
+And in her dutie shew her husbands loue:
+And in good tyme, my Lord, see where she comes:
+</dialogue><nonSpeech> <font>Enter the kitchin maid in Alfridas apparel.</font> </nonSpeech><dialogue>
+<font>Alfrida</font> , you must leaue your kitchin tricks,
+And vse no words but princelie Maiestie.
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> Now Jesus blesse your honourable Grace,
+Come I pray, sit down, you are welcome by my troth,
+As God saue me heres neuer a napkin, fie, fie.
+<pagebreak id="F3R" />
+Come on, I pray eat some plums, they be sugar,
+Heres good drinke by Ladie, why do you not eate?
+   </dialogue><nonSpeech> <font>Ki.</font> </nonSpeech><dialogue> Nay, pray thee eat <font>Alfrida</font> , it is ynough for   
+me to see thee eat.
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> I thank you hartily: by my troth heres neuer a    
+cushen
+By my troth Ile knock <comment type="compiler">SOURCE TEXT: kdock</comment> you anon, go to.
+   </dialogue><nonSpeech> <font>Per.</font> </nonSpeech><dialogue> My Lord, this is not <font>Alfrida</font> , this is the     
+kitchin maid.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Peace <font>Perin</font> , I haue found their subtiltie,
+<font>Ethenwald</font> , I pray thee let me see thy kitchin Maid,
+Me thinks it is a pretie homely Wench:
+I promise thee, <font>Ethenwald</font> , I like her well.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> My Lord, she is a homelie kitchin maid,
+And one whose bringing vp hath bene but rude:
+And far vnfit for <font>Edgars</font> companie:
+But if your Grace want merrie companie,
+I will send for Ladies wise and curteous.
+To be associates with your Maiestie.
+Or if your Grace will haue Musitians sent for,
+I will fetch your Grace the best in all this land.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> <font>Ethenwald</font> , no, I will haue the kitchin maid,
+And therefore, if you loue me, send for her.
+For till she come I cannot be content.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Father, I wil not fetch her: zwouns, see where she 
+comes
+</dialogue><nonSpeech> <font>Enter Alfrida in the kitchin maids attyre.</font> </nonSpeech>
+   <nonSpeech> <font>Alfrida.</font> </nonSpeech><dialogue> Succesful fortune and his hearts content,
+Daily attend the person of the King.
+And <font>Edgar</font> know that I am <font>Alfrida</font> , daughter to <font>Osrick</font> ,
+And lately made the Earle of Cornwals wyfe.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Why, is not this <font>Alfrida</font> ?
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> No, my good Lord, it is the kitchin maid,
+Whom <font>Ethenwald</font> in too much loue to me,
+Hath thus attyrde to dallie with the King.
+   </dialogue><nonSpeech> <font>Maid.</font> </nonSpeech><dialogue> By my troth (my Lord) she lies, go to, Ile course 
+you by and by.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Away (base strumpet) get the from my sight.
+   </dialogue><nonSpeech> <font>Mai.</font> </nonSpeech><dialogue> Go your waies, you are a cogging knaue I warrant   
+you.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Base <font>Ethenwald</font> , dissembler that               
+<comment type="compiler">SOURCE TEXT: thae</comment> thou art,
+So to dissemble with thy Soueraigne,
+<pagebreak id="F3V" />
+And afterward vnder a shewe of loue,
+Thou camst to sooth thy leasing to the King,
+Meaning by that to make me to conceiue,
+That thy intent was iust and honourable:
+But see, at last thou hast deceiued thy selfe,
+And <font>Edgar</font> hath found out thy subtiltie,
+Which to requite, thinke <font>Edgar</font> is thy enemie,
+And vowes to be reuenged for this ill.
+Go to thy husband beauteous <font>Alfrida</font> ,
+For <font>Edgar</font> can subdew affects in loue.
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> Thanks, gratious King, myrrour of curtesie,
+Whose vertuous thoughts bewray thy princely mind
+And makes thee famous mongst thy enemies:
+For what is he that heares of <font>Edgars</font> name,
+And will not yeeld him praise as he deserues.
+Nor hath your Grace euer bene praised more,
+Or tearm'd more iust in any action,
+Than you shall be in conquering your desires,
+And yeelding pardon to Earle <font>Ethenwald</font> .
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Will you be gone?
+   </dialogue><nonSpeech> <font>Alf.</font> </nonSpeech><dialogue> My gratious Lord, I humbly take my leaue.          
+</dialogue><nonSpeech> <font>Exeunt Alf. &amp; Eth.</font> </nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> How am I wronged, and yet without redresse?
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Haue patience good my Lord, and call to mind
+How you haue liued praised for vertuous gouernment,
+You haue subdued <comment type="compiler">SOURCE TEXT: snbdued</comment> lust vnto this day,
+And bene reputed wyse in gouernment,
+And will you blemish all your honours got,
+In being tearmed a foule Adulterer.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> <font>Dunston</font> , forbeare for I will haue it so,
+It bootes thee not to counsaile me in this,
+For I haue sworne the death of <font>Ethenwald</font> .
+And he shall die, or <font>Edgar</font> will not liue.
+<font>Dunston</font> , it is ynough, I am resolued. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+   <nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> Nay, if it be so, then <font>Ethenwald</font> shall not die,
+And since intreaties can not serue the turne:
+I will make <comment type="compiler">SOURCE TEXT: will make make</comment> proofe for once what     
+Arte will doe,
+<pagebreak id="F4R" />
+<font> <foreign>Asmoroth ascende, veni Asmoroth, Asmoroth veni.</foreign> </font> 
+<comment type="compiler">SOURCE TEXT HAS Asmororh FOR THE FINAL INSTANCE.</comment>
+</dialogue><nonSpeech> <font>Enter the Deuill.</font> </nonSpeech>
+   <nonSpeech> <font>Deuil.</font> </nonSpeech><dialogue> <comment type="compiler">SOURCE TEXT: <font>Dcuil.</font> </comment> What wilt thou?
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> Tel me what means the King?
+   </dialogue><nonSpeech> <font>Deu.</font> </nonSpeech><dialogue> I wil not tell thee. 
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> I charge thee by the eternall liuing God,
+That keeps the Prince of darknes bound in chaines,
+And <comment type="compiler">SOURCE TEXT: Aod</comment> by that Sun, that thou wouldst gladly see,
+By heauen and earth, and euery liuing thing,
+Tel me that which I did demand of thee.
+   </dialogue><nonSpeech> <font>Deu.</font> </nonSpeech><dialogue> Then thus, the king doth mean to murther           
+<font>Ethenwald</font>
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> But where is the King?
+   </dialogue><nonSpeech> <font>Deu.</font> </nonSpeech><dialogue> Seeking for <font>Ethenwald</font> .
+   </dialogue><nonSpeech> <font>Dunston.</font> </nonSpeech><dialogue> But Ile preuent him, follow me inuisible.
+   </dialogue><nonSpeech> <font>Deu.</font> </nonSpeech><dialogue> I wil. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter the Priest.</font> </nonSpeech>
+   <nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> I haue bene this morning with a friend of mine,
+That would borrow a small summe of money of me,
+But I haue learned the best assurance a man can haue,
+In such a matter is a good pawn of twise the valew,
+Or bonds sufficient for fiue times the quantitie.
+He is my neere kinsman, I confesse, and a Clergie man,
+But fiftie shillings is money, &amp; though I think I might trust him
+simply with it for a tweluemoneth, where hee craues it but for a 
+moneth, yet simply I will not be so simple:
+For I will borrow his gelding to ride to the Terme,
+And keep away a iust fortnight:
+If then he pay me my money, I will deliuer him his horse,
+I wold be loth to lose my mony, or craue assurance of my kinsma~,
+But this may be done to trie me, &amp; I meane lykewise to try him.
+This is plain, though trulie (brethren) somthing subtill.
+But here comes one would faine take my house of me.
+   </dialogue><nonSpeech> <font>Neighbor.</font> </nonSpeech><dialogue> Sir, I am a poore man, and I wil giue you     
+thirty
+shillings a yere, if I may haue it you shal be sure of your money.
+   </dialogue><nonSpeech> <font>pr.</font> </nonSpeech><dialogue> Trulie brother in Christ, I cannot affoord it of    
+the price,
+I must let my house to liue, I ask no gains, but who comes here?
+<pagebreak id="F4V" />
+</dialogue><nonSpeech> <font>Enter Honestie and a Beggar.</font> </nonSpeech>
+   <nonSpeech> <font>Beg.</font> </nonSpeech><dialogue> I beseech you (good maister) for Gods sake, giue one
+penie to the poore, lame, and blind, good maister giue something.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Fy vpon thee lazy fellow, art thou not ashamed  
+to beg?
+Read the blessed saying of S. Paul, which is, thou shalt get thy
+liuing with the sweat of thy browes, and he that will not labour is
+not worthie to eat.
+   </dialogue><nonSpeech> <font>Hone.</font> </nonSpeech><dialogue> I, but he remembers not where Christ saith, hee   
+that
+giueth a cup of cold water in my name shall be blessed.
+   </dialogue><nonSpeech> <font>Beg.</font> </nonSpeech><dialogue> Alas sir, you see I am old.
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> But thats no reason you should beg.
+   </dialogue><nonSpeech> <font>Beg.</font> </nonSpeech><dialogue> Alas sir, age comming on me, and my sight being    
+gone,
+I hope sir, you will pardon mee though I beg, and therefore for
+Gods sake one peny, good master.
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> Why I tel thee no, for the Spirit doth not      
+mooue me
+thereunto: and in good time, looke in the blessed Prouerb of
+Salomon, which is, good deeds do not iustify a man, therfore I count
+it sinne to giue thee any thing.
+   </dialogue><nonSpeech> <font>Hone.</font> </nonSpeech><dialogue> See how he can turne and wind the Scripture to his
+owne vse, but he remembers not where Christ saith,
+He that giueth to the poore lendeth vnto the Lord,
+And he shal be repaid seuen fold: but the Priest forgets that, or at
+least wyse he will not remember it.
+   </dialogue><nonSpeech> <font>Beg.</font> </nonSpeech><dialogue> Now fie vpon thee, is this the purenes of your     
+religion?
+God will reward you no doubt for your hard dealing.
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> Care not thou for that, wel neighbor, if thou   
+wilt haue
+my house, friend, and brother in Christ, it wil cost you fourtie
+shillings, tis wel woorth it truely, prouided this, I may not stay for
+my rent, I might haue a great deale more, but I am loth to
+exact on my brother.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> And yet he wil sell all a poore man hath to his    
+shirt, for
+one quarters rent.
+   </dialogue><nonSpeech> <font>Neigh.</font> </nonSpeech><dialogue> Gods blessing on your heart sir, you made a godly
+exhortation on Sunday.
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> I brother, the Spirite did mooue me thereunto:  
+Fie
+vpon vsurie, when a man wil cut his brothers throate for a litle
+<pagebreak id="G1R" />
+Lucre, fie vpon it, fie, we are borne one to liue by another, and for
+a man to let his owne as he may liue <comment type="compiler">SOURCE TEXT: line</comment> , tis     
+allowed by the word of
+God, but for vsurie and oppression, fie on it, tis vngodlie, but tell
+me will you haue it?
+   </dialogue><nonSpeech> <font>Neigh.</font> </nonSpeech><dialogue> I will giue you, as I haue profered you.
+   </dialogue><nonSpeech> <font>Priest.</font> </nonSpeech><dialogue> Trulie I cannot affoord it, I would I could,    
+but I
+must goe to our exercise of prayer, &amp; after I must goe see a Farm
+that I should haue. </dialogue><nonSpeech> <font> <foreign>Exeunt.</foreign> </font> </nonSpeech>
+<nonSpeech> <font>Enter Dunston and Perin with the King.</font> </nonSpeech>
+   <nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Most gratious Prince, vouchsafe to heare me      
+speake,
+In that the lawe of kindred prickes me on,
+And though I speake contrarie to your mind,
+Yet doe I build on hope you will pardon me.
+Were I as eloquent as <font>Demosthenes</font> ,
+Or lyke <font>Isocrates</font> were giuen to Oratorie.
+Your Grace no doubt wil think the time well spent,
+And I should gaine me commendations:
+But for my note is tuned contrary,
+I must intreat your Grace to pardon me, if I do iar in my deliuerie.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Why <font>Dunston</font> , thou hast found vs gratious     
+still,
+Nor will we pull our setled loue from thee,
+Vntill we find thy dealings contrarie:
+But if thy parlie be for <font>Ethenwald</font> ,
+That base dissembler with his soueraigne.
+Twere better leaue to speake in his excuse,
+Than by excusing him gaine our ill will:
+For I am minded like the Salamander stone,
+That fir'd with anger, wil not in hast be quencht:
+Though wax be soft, &amp; apt to receiue any impression.
+Yet will hard mettell take no forme, except you melt the same.
+So meane mens minds may moue as they think good,
+But Kings iust doomes are irreuocable.
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Tis not ynough, where lust doth moue the offence.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Why, Counsellers may not with Kings dispence.
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> A Counseller may speake if he see his prince offend.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> And for his Counsell rue it in the end.
+<pagebreak id="G1V" />
+But <font>Dunston</font> , leaue, you vrge vs ouer far,
+We pardon what is past, but speake no more
+   </dialogue><nonSpeech> <font>Dunst.</font> </nonSpeech><dialogue> Nay pardon me, for I wil speak my mind,
+Your Grace may call to mind proud <font>Marius</font> fall,
+That through his wilfull mind, lost lyfe and empire,
+And <font>Nimrod</font> , that built huge Babylon,
+And thought to make a toure to check the cloudes,
+Was soone dismaid by vnknowne languages:
+For no one knew what any other spake,
+Which made him to confesse, though twere too late, 
+Hee had made offence in tempting of the Lord.
+Remember <font>Dauid</font> , <font>Salomon</font> and the rest,
+Nor had proud <font>Holofernes</font> lost his head,
+Had he not bene a foule Adulterer.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> <font>Dunston</font> , forbeare, and let this answer thee
+Thou art too presumptuous in reproouing me,
+For I haue sworne as trulie as I liue,
+That I will neuer pardon <font>Ethenwald</font> .
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> Did you but see the man, I am assurde,
+You would not choose but pardon <font>Ethenwald</font> .
+   </dialogue><nonSpeech> <font>per.</font> </nonSpeech><dialogue> Why <font>Dunston</font> , you haue seene as wel as I,
+That <font>Ethenwald</font> hath dissembled with the King,
+My gratious Lord, first cut that Traitor downe.
+And then will others feare the lyke amysse.
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> I tell thee <font>perin</font> , were the Earle in place,
+Thou wouldst eat these words vttred in his disgrace.
+<font> <foreign>Veni Asmoroth</foreign> </font> , &amp; in good time see where he comes.
+</dialogue><nonSpeech> <font>Here enter Alfrida disguised with the Deuil.</font> </nonSpeech>
+   <nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> But tel me <font>Dunston</font> , is this <font>Alfrida</font> ?
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> It is my gratious Lord, &amp; this is <font>Ethe~wald</font>
+That layes his breast wide open <comment type="compiler">SOURCE TEXT: opeu</comment> to your Grace,
+If so it please your Grace to pardon him.
+   </dialogue><nonSpeech> <font>King,</font> </nonSpeech><dialogue> Yes, <font>Dunston</font> , I am well content to pardon him,
+<font>Ethenwald</font> stand vp, and rise vp <font>Alfrida</font> ,
+For <font>Edgar</font> now giues pardon to you both.
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> <font>Asmoroth</font> away, My gratious Lord, <font>Dunston</font>   
+wil not forget
+<pagebreak id="G2R" />
+This vnknowne fauour showne Earle <font>Ethenwald</font> ,
+For which account my Nephew and my self,
+Do yeeld both lyfes and goods at your dispose.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Thanks <font>Dunston</font> for thy honorable loue,
+And thou deseru'st to be a Counsellour,
+For he deserues not other to commaund,
+That hath no power to maister his desire,
+For <font>Locrin</font> being the eldest sonne of <font>Brute</font> ,
+Did dote so far vpon an Almaine maid,
+And was so rauisht with her pleasing sight,
+That full seuen yeares he kept her vnder earth,
+Euen in the lyfe time of faire <font>Guendolin</font> :
+Which made the Cornish men to rise in Armes,
+And neuer left till <font>Locrin</font> was slaine:
+And now though late, at last I call to minde,
+What wretched ends fell to Adulterers.
+   </dialogue><nonSpeech> <font>Dun.</font> </nonSpeech><dialogue> And if your Grace cal <font>Abrams</font> tale to mind,
+When that Egyptian <font>Pharo</font> craued his wife,
+You will no doubt forgiue my Nephewes guilt,
+Who by the mery iest he shewed your Grace,
+Did saue your Honour and her chastitie.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> We take it so, and for amends
+<font>Ethenwald</font> , giue me thy hande and we are friends,
+And loue thy wyfe and liue together long,
+For <font>Edgar</font> hath forgot all former wrong.
+   </dialogue><nonSpeech> <font>Eth.</font> </nonSpeech><dialogue> Thanks gratious King, and here vpon my knee,
+I rest to be disposed as you please:
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Ynough <font>Ethenwald</font> , but who comes here.
+</dialogue><nonSpeech> <font>Enter Honesty.</font> </nonSpeech>
+   <nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Why, I think I haue taken in hand an endles taske,
+To smell a Knaue, tis more than a Dog can doe:
+I haue disguised my self of purpose to finde
+A couple of Knaues, which are yet behind,
+The next Knaue is a Priest, calde John the precise,
+That with counterfeit holinesse blinds the peoples eyes,
+<pagebreak id="G2V" />
+This is one of them that wil say it is a shame,
+For men to swear and blaspheme Gods holie name:
+Yet if a make a good Sermon but once in a yeare,
+A will be fourtie tymes in a Tauerne making good cheere,
+Yet in the Church he will read with such sobrietie,
+That you would thinke him verie precise, and of great honesty.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> What <font>Honesty</font> , hast thou dispatcht and found
+these 
+priuie knaues?
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I shal doe anon, I haue them in sent, but I wil be 
+gone. </dialogue><nonSpeech> <font>Exit.</font> </nonSpeech>
+<nonSpeech> <font>Enter priest.</font> </nonSpeech>
+   <nonSpeech> <font>pr.</font> </nonSpeech><dialogue> Good Lord, I praise God I am come from our mornings 
+exercise,
+Where I haue profited my selfe, and eisied my brethren,
+In shewing the way to saluation by my doctrine:
+And now I am going to the Court to prefer my petition.
+I would giue a hundred pound it were graunted:
+Tis a thing of nothing, but here comes one of the Court,
+</dialogue><nonSpeech> <font>Enter Honestie.</font> </nonSpeech><dialogue>
+God saue you, brother in Christ, are you towards the King.
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> I mary am I, what then, why doest thou aske?
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> Nothing sir, but I would desire you to stand my 
+friend
+To get me the Kings hand and seale to this letter:
+I would not vse it (sir) to hinder any man for a thousand pound:
+For indeed I am a Cleargie man by my profession:
+Tis nothing sir, but as you see, to haue the Kings seale,
+To <comment type="compiler">SOURCE TEXT: T</comment> carie Tin, Lead, Wool and broad Clothes beyond 
+seas,
+For you know (sir) euery man wil mak the most he can of his own
+And for my part, I vse it but for a present necessitie,
+If you will vndertake to doe it, Ile giue you a hundred pound.
+   </dialogue><nonSpeech> <font>Honesty.</font> </nonSpeech><dialogue> I thanke you sir, but I am affraide the King   
+will
+hardlie grant it: why, tis an vndoing to the common wealth,
+But trulie I will mooue the King to hang you Priest yfaith.
+   May it please you Grace to grant me my petition,
+For I offer it your Grace in pure deuotion.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> O monstrous: <font>Dunston</font> , didst thou euer heare  
+the like,
+Now fie vpon thee base villaine, lay hands on him.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> On me? nay on him: Priest, I gaue your petition    
+to the King,
+<pagebreak id="G3R" />
+And I wil speake to him you may be but hanged,
+For if you should liue till the King granted your petition,
+The verie Rauens would picke out thine eies liuing:
+And therefore twere better you were hanged to saue the birds a labour.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Now <font>Honesty</font> , hast thou done, is here all?
+   </dialogue><nonSpeech> <font>Honesty.</font> </nonSpeech><dialogue> O no, my Lord, for there are so many behind,
+That I am affraide my worke will neuer haue an end:
+But I see by the Priests lookes, he lackes company,
+Stay a while, my Lord, Ile fetch another presently.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Fie, Gracelesse man, hast thou no feare of God,
+To withold thee from these lawlesse motions,
+Why, thou shouldst be as Messenger of God,
+And hate deceit and wicked auarice:
+But thou art one of those whome God doth hate,
+And thy vilde deedes will witnesse gainst thy soule:
+And make the most abominable in his sight,
+That made thee (wretch) but to a better end,
+Then thus to wrong his sacred Deitie.
+Now fie vpon thee monster of a man,
+That for to gaine thy selfe a priuate gaine,
+Wouldst seeke the vndooing of a common wealth.
+And though thou bid ten thousand torments here
+They cannot quit thee where thou shalt appeare.
+   </dialogue><nonSpeech> <font>Honest.</font> </nonSpeech><dialogue> A Prize, though it be long, I haue found him    
+at last,
+But I could not bring him with me,
+And therefore I pind a paper on his shoulder,
+Meaning thereby to marke him for the gallous:
+But husht, here he comes.
+</dialogue><nonSpeech> <font>Enter Perin.</font> </nonSpeech>
+   <nonSpeech> <font>King.</font> </nonSpeech><dialogue> What <font>Perin</font> ? I cannot think that <font>Perin</font>    
+wil be false to me
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Why no, for he is false to himself, look in his    
+pocket &amp; see,
+This is but a false writ that he hath vsed,
+Vnknowne to your Maiestie, and leuied great summes of money,
+And bribed vpon your poore Commons extreamlie,
+How say you my Lord, is this true or no?
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> <font>Honesty</font> , thou sayest true, why, impious      
+wretch,
+<pagebreak id="G3V" />
+Ingratefull wretch that thou art to iniure him that alwaies held     
+thee deere,
+Beleeue me <font>Dunston</font> , I durst wel haue sworn,
+That <font>Perin</font> had not hatcht so base a thought,
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I, but your Grace sees you are deceiued.
+But will your Grace grant me one boone?
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> Whats that <font>Honesty</font> ?
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> That I may haue the punishing of them,
+Whom I haue so laboured to fynde.
+   </dialogue><nonSpeech> <font>King.</font> </nonSpeech><dialogue> With all my hart <font>Honesty</font> , vse them as thou   
+wilt.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I thank your Grace: go fetch the other two:
+Now to you Cutbert Cutpurse the <font>Conicatcher</font> ,
+Thy iudgment is to stand at the Market crosse,
+And haue thy cursed tongue pind to thy breast,
+And there to stand <comment type="compiler">SOURCE TEXT: staud</comment> for men to woonder at:
+Til Owles and night-Rauens picke out thy cursed eies.
+   </dialogue><nonSpeech> <font>Conicatch.</font> </nonSpeech><dialogue> Good Honestie be more mercifull.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> You know my mind: O <font>Walter</font> that wold haue more,
+And you shall haue iudgement I meane, which is,
+To be caried into a corne field, and ther <comment type="compiler">SOURCE TEXT: thtr</comment> haue 
+your legs and hands
+cut off, because you loued corn so wel, and there rest til the crowes
+pick out thine eies.
+   But now to you that wil do nothing except the spirit mooue you    
+thereunto,
+You shall for abusing the blessed word of God,
+And mocking the diuine order of Ministery,
+Whereby you haue led the ignorant into errours,
+You (I say) as you were shamlesse in your shamefull dealing,
+Shal to your shame, &amp; the vtter shame of al bad minded men,
+That liue as thou hast done,
+Stand in Finsburie fields, neere London,
+And there (as a dissembling Hypocrit) be shot to death.
+   </dialogue><nonSpeech> <font>priest.</font> </nonSpeech><dialogue> Good <font>Honesty</font> , be more fauourable than so.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> Trulie no, the spirit doth not mooue me therunto,
+But who is next, what <font>Perin</font> , a Courtier, and a Cosoner to, 
+I haue a iudgment yet in store for thee,
+And for because I will vse thee fauourablie,
+Yfaith thy iudgment is to be but hanged,
+<pagebreak id="G4R" />
+But where? euen at Tyborne in a good two-peny halter,
+And though you could neuer abide the seas,
+Yet now against your wil, you must bear your saile, namely your sheet,
+And in a cart be towde vp Holburne hill,
+Would all men liuing lyke these in this land,
+Might be iudged so at <font>Honesties</font> hand.
+   </dialogue><nonSpeech> <font>Kin.</font> </nonSpeech><dialogue> Well <font>Honestie</font> come follow vs to Court,
+Where <comment type="compiler">SOURCE TEXT: Wheee</comment> thou shalt be rewarded for thy paine.
+   </dialogue><nonSpeech> <font>Hon.</font> </nonSpeech><dialogue> I thank your Grace: you that wil damne your selues 
+for lucres sake
+And make no conscience to deceiue the poore:
+You that be enemies of the common wealth:
+To send corne ouer to inrich the enemie:
+And you that doe abuse the word of God,
+And send ouer woolle and Tin, broad cloath and lead,
+And you that counterfeyt Kings priuie seales,
+And thereby rob the willing minded Communaltie,
+I warne you all that vse such subtill villanie,
+Beware least you lyke these be found by Honestie,
+Take heed I say, for if I catch you once,
+Your bodies shall be meat for Crowes,
+And the Deuill shall haue your bones,
+And thus though long at last we make an end,
+Desiring you to pardon whats amisse,
+And way the worke, though it be grosly pend,
+Laugh at the faults, and weigh it as it is,
+And Honestie wil pray vpon his knee,
+God cut then off that wrong the Prince or Communaltie 
+<comment type="compiler">SOURCE TEXT: Commnnaltie</comment> .
+And may her dayes of blesse neuer haue end,
+Vpon whose lyfe so many lyues depend. </dialogue> <head> <font> <foreign>FINIS.</foreign> </font> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

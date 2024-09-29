@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D2HOSNAW">
+  <dialogueHeader>
+
+    <filename>D2HOSNAW</filename>
+
+    <identifier>2 HANDB OTH D2HOSNAW</identifier>
+
+    <title>LOOKING GLASSE</title>
+
+    <author>SNAWSEL ROBERT</author>
+
+    <subperiod>2: 1600-1639</subperiod>
+
+    <speechPubDate>2: 1610</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">SNAWSEL, ROBERT.</attribution>
+      <frontMatter>A LOOKING GLASSE FOR MARIED FOLKES. WHEREIN THEY MAY PLAINLY SEE
+THEIR DEFORMITIES; AND ALSO HOW TO BEHAUE THEMSELUES ONE TO ANOTHER,
+AND BOTH OF THEM TOWARDS GOD. SET FORTH DIALOGUE-WISE FOR THE MORE
+TASTABLE AND PLAINNESSE SAKE,
+BY R. S.
+(...)
+LONDON, PRINTED BY N. O. FOR HENRY BELL, AND ARE TO BE SOLD AT HIS
+SHOP ON HOLBURNE HILL NEERE THE CROSSE KEYES. 
+1610.
+PP. A7R.1 - C4R.5   SAMPLE 1
+PP. C5V.17 - C6V.27 SAMPLE 2
+PP. C8R.17 - D5V.21 SAMPLE 3
+PP. D7R.28 - E4R.21 SAMPLE 4
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+<comment type="compiler">IN SOURCE TEXT, FOR EACH UTTERANCE, THE FONT ALTERNATES BETWEEN 
+PLAIN FONT AND BLACK LETTER, IE. FIRST UTTERANCE IS PRINTED IN 
+PLAIN FONT, THE SECOND UTTERANCE IS PRINTED IN BLACK LETTER AND SO ON.
+BELOW ONLY FONT DEVIATING FROM THIS PATTERN IN AN UTTERANCE IS 
+CODED AS &quot;FONT OTHER THAN THE BASIC FONT&quot;.</comment>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="A7R" />
+ <head>A LOOKING
+GLASSE FOR
+MARRIED FOLKES:
+<font>OR</font>
+A PROFITABLE CONFERENCE,
+BETWEENE FOURE WOMEN AND ONE MAN,
+TOUCHING THEIR BEHAUIOURS TOWARD GOD
+AND THEIR HUSBANDS, AND WHAT THEY OUGHT
+<font>TO BEE; AND ALSO THE DUTIE OF HUSBANDS,
+TOWARD THEIR WIUES</font> .</head> <dialogue>
+
+<comment type="compiler">THE NEXT THREE LINES ARE PRINTED TO THE LEFT 
+OF THE LIST OF NAMES IN SOURCE TEXT.</comment>
+</dialogue><nonSpeech>The foure 
+womens 
+names are, 
+<font>Abigail</font> , the fathers ioy.
+<font>Eulalie</font> , wel-spoken.
+<font>Xantip</font> , a scold.
+<font>Margerie</font> , a proud malapert.
+<font>Ben-ezer</font> , an helper.</nonSpeech>
+   <nonSpeech> <font>Eulaly.</font> </nonSpeech><dialogue> Good Morrow (neighbor
+<font>Xantip</font> how do you to day?
+did you see my gossip
+<font>Margerie</font> ?
+   </dialogue><nonSpeech> <font>Xantip.</font> </nonSpeech><dialogue> No, I saw her not
+to day: but mee thinks you are fairer
+<pagebreak id="A7V" />
+then ordinary.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> What, do you begin to frump
+me?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> No truly you seeme to mee to
+bee very smug.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> Peraduenture my new gowne
+sets a glosse on my face.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I promise you you say true
+indeed, I haue not seene a goodlier a great
+while: I take it to bee made of English
+wooll.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> The wooll indeed is from
+England, but it was died in Venice.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Truely it is a most gallant
+gowne, the softnesse of it passeth silke:
+and what a fine purple colour is it of?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It is true, I like it well indeed:
+but looke, who comes yonder?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It is <font>Margerie</font> , whom you
+asked for. Oh huge, how braue is shee?
+you haue onely a new gowne, but shee
+is new from toppe to toe.
+   </dialogue><nonSpeech> <font>Abigail.</font> </nonSpeech><dialogue> And yet, I feare me, her soule
+is as old as <font>Adam</font> ; and as filthy as the
+Serpent.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Where were you that we saw
+you not before now?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Little had you thought that I
+<pagebreak id="A8R" />
+had bene so neare you, till you saw me.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> No, for if I had, I would not
+haue sworne so, as I did.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Alas I heard thee with griefe,
+and thought to haue told thee of it at
+time conuenient: but were you not
+afraid lest God should see you, and heare
+you sweare so horribly.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I know well, that God seeth
+all things, but he is mercifull.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> And as he is mercifull, so also is
+he iust.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Welcome ( <font>Margerie</font> ) welcome.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> God a mercie good <font>Xantip</font> ;
+how dost thou?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Better to see you so fresh and
+well liking; mee thinks you are too too
+braue, your gown is most stately made,
+your neckerchiefe is of the finest
+cambricke, your stomacher is most 
+gallantly wrought, and euery thing about you
+is so in print, that it doth mee good to 
+looke vpon you.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Woman, I may speake it
+amongst vs here, I will haue it so.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> And the more is my griefe, that
+I cannot haue it so too.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I pray you neighbours talke no
+<pagebreak id="A8V" />
+more of those things; why should wee
+busie our minds so much about this
+outward apparell, which onely sets out the
+body, and many times makes vs forget
+both God and our selues? Therefore I
+pray you (good neighbours) let vs
+regard this outward decking lesse, &amp; the
+inward adorning of our selues more.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> What shall wee haue of you?
+a Puritane?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I pray you <font>Margerie</font> , vse no
+more such scoffing speeches.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> And I pray you <font>Abigail</font> tel
+mee, doe you not thinke better of your
+selfe, then of any of vs?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> If you aske me to be bettered by
+my speech, I will tell you what I thinke
+of my selfe.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Truly I do, <font>Abigail</font> .
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I think in my conscience, that
+I am a poore, sinfull, and miserable
+woman, in my selfe not worthy to liue
+vpon the earth; onely in and by Christ
+Iesus, I hope to bee made eternally
+happy.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> What, are you poore and
+miserable? haue you not riches &amp; the world
+at will? and haue you not a louing
+<pagebreak id="B1R" />
+husband, which makes much of you?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Alacke <font>Eulaly</font> , thou art an
+honest ciuill woman, I must needs say, but
+yet thou speakest very carnally. What is
+all my riches, if I had 10000 times
+more then I haue, if that I bee not rich
+in Christ Iesus? and what though I could
+rule the whole world, which way I
+would, if I haue not peace of conscience?
+and what if I haue a louing husband, if
+I haue not a good husband?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Are you not rich in Christ?
+haue you not peace of conscience? and
+haue you not also a louing and good
+husband?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Because you protested, that
+you asked me to be bettered by me, I
+will make my case knowne vnto you in
+your eare. It is many times thus with me;
+when I thinke vpon my riches, and the
+aboundance of wealth, which God
+hath bestowed vpon my husband and
+me; then sathan suggesteth euill
+motions in my heart, and my corrupt
+affections break forth in my life, so that often
+I thinke better of my selfe then I ought;
+and that I may neglect to worke with
+my hands, and that I may haue this and
+<pagebreak id="B1V" />
+that fashion of apparell, because other
+of my calling haue the same: and that
+I may eate this dainty thing or that; and
+that I may either sit vp idly in the night,
+or lye longer then ordinary in the
+morning. And on the other side, while I
+thus pride my selfe in my apparell, and
+walke idly out of my calling, and
+pamper this sinfull carcase with delicious
+fare, I haue not respect vnto some of 
+my poore members, nay vnto Christs
+members, as I ought. I speake this to my
+shame, that selfe loue is so much in me,
+which quenches the spirit of God, and
+depriues me many times of his fauour,
+and the excellent graces of his spirit, &amp;
+then my conscience is troubled and
+disquieted; and then it is such a griefe
+vnto me that I haue not a good husband,
+howsoeuer I confesse indeed I haue a
+louing husband.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> What meane you by a good
+husband?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> By a good husband I meane a
+religious husband, which should be my
+partener, and helper, not onely in
+bodily and worldly things, but especially
+in spiritual and heauenly, that we might
+<pagebreak id="B2R" />
+draw Christs yoke equally together:
+that so in and through Christ wee might
+bee glorified together. I tel you
+neighbour, you will hardly beleeue, what a
+comfort <comment type="compiler">SOURCE TEXT: comfor</comment> it would bee vnto mee, if hee
+would tender my soule as he doth my
+body, nay if he would tender his owne
+soule. Indeed he will not be against any
+good thing I doe, I thanke God for it;
+but here is my griefe, that he will not
+bee partener of the good with mee,
+which is the cause, when I am sicke or
+afflicted in conscience, (as many times I
+am humbled for my sins, I blesse God
+for it) then, I say, he cannot minister
+spirituall comfort to me. Onely this he wil
+say, how dost thou wife? or God helpe
+thee: which I take kindly: but alas it is
+farre from that, which the Apostle
+exhorts men vnto; namely, that they
+should dwell with their wiues, as men
+of knowledge; that is, if the woman be
+ignorant as the most are, he should
+instruct and informe her in the waies
+of the Lord; if she heare any thing
+preached, or at publicke
+disputations, whereof shee stands in doubt,
+shee should aske her husbands
+<pagebreak id="B2V" />
+iudgement at home, and he should be able to
+resolue her; he should be able through
+God to comfort her in affliction, and to
+reioyce with her in prosperity: I do not
+meane any outward or fleshly ioy, so
+much as that, which is spirituall and
+heauenly.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> What is that, which you
+two are whispering together of so long?
+I doe not think but it was about some
+religious matters, for <font>Abigail</font> loues
+to talke of nothing else; &amp; mee thought
+I heard now and then a sound of some
+holy words. My husband is much like
+vnto her, they would haue bene very
+well matched together.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Me thinkes young women
+should not flout at any, much lesse at
+their husbands or elders.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I pray you gossip tell vs, what
+is the practise of your husband, I haue
+heard great commendations of him.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I warrant you hee will not
+misse a Sermon, yea many times he will
+haue mee with him against my will,
+when I had rather bee walking abroad
+in the fields, or else sit and talke with
+some of my neighbours: but sometimes
+<pagebreak id="B3R" />
+I meete with him; for I am so long time
+a dressing of me, that he is glad to go
+alone, or else he should lose the best part
+of the Sermon. And when hee comes
+home, he wil pray, and make such a long
+repetition of that which was preached,
+&amp; then such a seueral examination of
+euery one concerning the points
+deliuered, that my heart grudges many times
+against him; and if it were not more for
+shame of the world, then for feare of
+him, I would tell him on both sides,
+that he troubles both himselfe and vs
+more then he needs. But sometimes I
+get me out, as soone as euer we come in,
+and other sometimes I lay the fault
+vpon my memory, when he doth aske me,
+when I could, if I would, tell him; and
+then afterwardes hee goes to praier
+againe, and euerie morning he will be
+sure to haue vs together at prayer;
+so after supper there must a chapter
+bee read at the least; and euery one
+must tell some thing, either what the
+meaning of such a verse is, or at least
+repeate some verse ouer that was read:
+and then he goes to prayer againe, and
+is so long commonly, that he make me
+<pagebreak id="B3V" />
+so weary with kneeling, that sometimes
+I am forced to sit, and sometimes to
+leane and kneele againe, and sometimes
+I am almost a sleepe; so that he makes me
+wish many wishes, that I will not vtter.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> You haue vttered too much of
+your own euil disposition; truly I
+maruell that you &amp; such as you are doe not
+feare lest the ground should open her
+mouth and swallow you vp, or the
+house fall vpon your heades, or the
+Diuell to fetch you quicke to hell,
+for this intollerable profanenesse,
+contempt, and abhominable
+wickednesse; that it will not onely suffice you
+to abuse your Christian husband, but
+God also and his worship, in such a
+horrible maner. I dare assure thee, it doth
+grieue me at the heart; and if it were
+not that I receiued some strength and
+and comfort by the holy practise of your
+husband, I thinke I should haue fallen
+into a swound. Oh how doth it greeue
+mee that such a good man is troubled
+with such a bad wife! But seeing
+nothing comes to passe without Gods 
+<comment type="compiler">SOURCE TEXT HAS COMMA AFTER Gods</comment>
+prouidence, I hope it is onely to exercise
+his patience, and that hee beeing crost
+<pagebreak id="B4R" />
+heere with thee for a time, might liue
+without thee in glory for euer.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, but mee thinkes you are
+very earnest, and no lesse precise. It
+would be irksome to any I thinke,
+neuer to haue any pleasure, but to be euer
+exercised, as shee said her husband was.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I tell thee my deare <font>Eulaly</font> ,
+that it iz the pleasantest &amp; heauenliest
+life in the world, the which doth solace
+the soule, &amp; reioyce the heart of a
+Christian vnspeakeably; and there is no life
+of God in them, which leade not this
+life.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, but do you thinke none
+shall bee saued but those that doe such
+things?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Verily I thinke, that
+whosoeuer it is, that is ignorant of God &amp; his
+wil, and without faith, cannot be saued.
+And againe, whosoeuer it is, y=t= knowes
+the will of God, and will obstinatly
+either contemn y=e= practise of it in others,
+or neglect it in them selues, is in the
+state of damnation.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Shee is euer of the minde of
+Maister <font>H.</font>
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I know, that it is not only our
+<pagebreak id="B4V" />
+mind, but the mind of the holy Ghost,
+and of all Christians, that are called
+to the knowledge of Gods grace; and
+I wish in heart, that it were your mind,
+and if it pleased God, the minde of the
+whole world. For if they did know
+certainely, that all those that are
+ignorant of God, or contemptuously will
+scoffe at the practise of holy duties in
+others, or neglect it in themselues, are
+in the state of damnation, they would
+soone change their minds, and say, We
+fooles haue bene deceiued; and so no
+doubt, many of neglecters will become
+practitioners, and in steed of
+contemners of Gods people, and their practise,
+would become frequenters and louers
+of their heauenly society.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I promise you, you say very
+well, I thinke there bee but few women
+can say so much.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Nay, will you beleeue me, I
+thinke in my conscience, there are not
+many me~ in our towne can say so much.
+I wonder how you haue thus growne
+in knowledge within these few yeares.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I promise you, the more that I
+co~sider of her words, the more I maruel.
+<pagebreak id="B5R" />
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I will lay my life, that our <font>sir
+Iohn</font> , nor <font>sir William of B.</font> cannot
+say so much without booke; it is pitty
+y=t= you were not coupled to a preacher.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> The greater is their
+ignorance, and the more shall bee my
+punishment, if my practise be not
+according to my knowledge; &amp; therefore my
+heartes desire and prayer to God is, that
+as hee doth increase in me knowledg, so
+hee would giue me humility, and power
+to obey, that which I know.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Indeed you say true. For I
+remember our Sauiour Christ saith, that
+he which knowes his maisters wil, and
+doth it not, shall be beaten with many
+stripes.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> O neighbour <font>Eulalie</font> , if you
+would but practise that which you
+know, I should loue you better then
+euer I did: for then I hope you would be
+a Christian indeed.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, what will you make of
+me? haue you known me thus long, and
+yet do you think y=t= I am not a Christia~?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> It is not such an easie matter to
+be a Christian. But be not offended with
+me, I will tell you what I thinke.
+<pagebreak id="B5V" />
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> What thinke you, I pray you
+tell me?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> I thinke you be an honest
+ciuill woman, and a Christian in name,
+but not in nature and in deed.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, I was baptized, and go
+to Church, and I doe not mocke at the
+Preachers and professors, as some do;
+I am neither whore nor thiefe; I pay
+euery one their owne; I cannot abide to
+sweare, &amp;c. I hope you cannot accuse me
+of deceiuing any, nor of lying: what
+manner of people will you make
+Christians?
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> Alas <font>Eulalie</font> , alas, I perceiue
+you would be counted a Christian, and
+that hitherto you haue thought your
+selfe to be one. I must needs tell you
+truly, that you haue scarce set one foote
+in Christianity: for all which you haue
+said, you may do, and yet bee damned.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Here is a sharpe sentence.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I pray you tell me the right
+way, that so I may walke in the direct
+path which leadeth vnto Christ; that so
+I might become one with him, and an
+heire of his kingdome.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> With all my heart. The first
+<pagebreak id="B6R" />
+step is repentance, and faith in Christ
+Iesus.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> What is repentance.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> The Diuines doe define it in
+two words, mortification and
+viuification, that is, a dying to sin, and liuing
+to righteousnesse.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> And by what meanes must this
+be wrought in vs.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> By the powerfull preaching
+of the word of God, which breaketh and
+softeneth the hard &amp; stony heart,
+humbleth the soule, and woundeth the
+conscience for sinne which it hath
+committed against the God of heauen, and
+causeth it vnfeignedly to desire peace and
+reconciliation with him in his Sonne
+Christ; with a detestation of all the sins
+which he hath committed, and a
+resolution to leade the rest of his life holy
+and vnblameably, as in the sight of
+God.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> What is Faith?
+<comment type="compiler">NEXT SPEAKER NOT NAMED IN SOURCE TEXT: PRESUMABLY ABIGAIL.</comment>
+   It is the worke of the Spirit of God
+in vs, which doth assure vs of the free
+pardon of our sins, and of the loue and
+fauour of God in Christ Iesus, with all
+the benefites that come with him; as it
+<pagebreak id="B6V" />
+is written: It is the Spirit of God
+that beareth witnesse vnto our spirits,
+that we are the sonnes of God: and so it
+is that spirit which causeth vs to
+apprehend and apply the mercies of God in
+Christ, and our selues, to the obedience
+of his word.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I pray God that we may so do.
+   </dialogue><nonSpeech> <font>Abig.</font> </nonSpeech><dialogue> If you haue an vnfeigned
+desire (as you seemed to me to haue) God
+hath promised to giue you power, if you
+will giue your endeuour therewithall:
+and so I commit you to his grace.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea but Gossip, I pray you tell
+me, who gaue you this new gowne.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Your minde is more set vpon
+my gowne, then vpon those heauenly
+matters which <font>Abigail</font> spoke of.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I will lay twenty shillings,
+that <font>Abigail</font> hath almost made her a
+Puritane.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> You thinke you may now talke
+your pleasure; when shee was here, you
+had not a word: shee tooke you downe I
+trow.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I hope if you haue a new gowne,
+we may without offence speake of it.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Shal I tel you how it is with me?
+<pagebreak id="B7R" />
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Yea.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Truly <font>Abigails</font> words were so
+gracious, that I could willingly haue
+heard her, though she should haue sate
+with vs all this day; her words are so
+sauoury to my soule, that me thinkes
+we should not put them out of our
+remembrance with these outward things.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Well <font>Margery</font> , if she will not
+tel me who gaue her her new gown, do
+you tel me what cost your neckerchiefe
+a yard.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I thinke your minde runs thus
+vpon these outward things, when you
+are at praier and at Sermons.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It is good to speake the truth;
+it doth so indeed.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> That ought not to be by no
+meanes: for thereby you much
+dishonor God, and hinder your selfe, that the
+word cannot profite you.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea but will you tell me, who
+gaue you your gowne?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, who, I pray you, should
+giue honest wiues any such things but
+their husbands?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> And I pray you <font>Margery</font> , who
+gaue you yours?
+<pagebreak id="B7V" />
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> My husband also.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> O happy women that happen
+on such husbands! For my part, I would
+I had bene married to a toad-stoole,
+when I maried with my <font>Ben-ezer</font> .
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> O fie woman, what a wish is
+that? if <font>Abigail</font> had bene here, you
+would haue vext her to the heart: and I
+tell you truly, that you grieue me not a
+little. For I remember well, what she
+said, and I hope shall do, whiles I liue;
+namely, that we which professe our
+selues to be Christians, should adorne
+the Gospell of Christ by our holy
+conuersation. And againe, she said, that the
+Apostle exhorts that our words should
+be gracious and poudred, that they
+might minister grace to the hearers.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea you are happy, you haue
+no cause to speake or complaine, that
+haue all things you stand in need of.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> I thanke God we two do agree,
+and I am sorry that you two cannot,
+but that euery foote you are falling out.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I thinke I shall neuer fall in
+with such a fellow: you see how
+raggedly he lets me go: I would I were dead, if
+I be not ashamed many times to go out
+<pagebreak id="B8R" />
+a doore, when I see how finely other
+women are dressed, that are married to
+farre poorer husbands then mine is.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Well <font>Xantip</font> , well, I pray thee
+be contented; and if thou louest me, nay
+if thou louest God or thy selfe, marke
+well what our good neighbour <font>Abigail</font>
+hath said out of the Apostle <font>Paul</font> , that
+the woman ought to be in subiection to
+her husband. And againe, the orname~t
+of a woman lies not in gay apparell, or
+in any setting out of herselfe to sight, as
+S. <font>Peter</font> teacheth: for I remember that
+I heard awhile ago at a Sermon, that
+the ornament of a woman consisted in
+chaste and honest conditions; and that
+the ornament of the minds or soules of
+godly women, was loue, meeknesse,
+faith, and patience, &amp;c. And further,
+that it is the guise of drabs &amp; harlots to
+prancke and pricke vp themselues to
+inueigle mens affections. Now then as
+for vs, that would be counted honest &amp;
+religious matrons, we are neat inough,
+if we be cleanly, and can please our
+husbands.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea, but this good man of mine
+is such a niggard, that he will not allow
+<pagebreak id="B8V" />
+me wherwithall I may go handsome, but
+prodigally he spends my portio~, which,
+though I say it, was no little one.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> If I were as thou art, I
+would haue better things, or else the
+house should be too hot for him. My
+husband would not willingly let me haue
+such and such a thing, but I trow hee
+shall neuer goe to praier quietly, nor
+haue a cheerefull looke till I haue it.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea, but my husband doth not
+only keepe me without such trim attire
+as you haue, but he will not let me haue
+that which is necessary, but spend that
+we haue in tipling and swilling, at dice,
+and cards, and amongst whores and
+harlots.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Good words, good words: I think
+you surmise, and say more then is true.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It is too true which I say; and
+moreouer when hee comes home well
+whitled in drinke at mid-night, after he
+hath bene a long while waited for, hee
+snorts like a swine when he is laied: and
+sir reuerence casts vp his drunken gorge
+in the bed, to say no more.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> O <font>Xantip</font> , you make my heart
+ake to heare you. Therefore marke this,
+<pagebreak id="C1R" />
+that when you doe thus disgrace your
+husband, you shame you selfe.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I would I were dead, if I had
+not rather sleepe with a sow, then lye by
+his side.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> But do you rattle him vp at
+his comming home?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yes, I handle him as hee
+deserues, I make him know that I haue a
+tongue in my head.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> And what saith he againe?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> At the first he is as loud as I,
+thinking to beare mee downe with great
+words.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> But do you neuer fall from
+scolding to scuffing?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Once wee were fallen out so
+farre, that a little more would haue made
+vs fight out-right. Hee got vp a great
+cudgell, and shaked it at me, threatning
+me with thundering speeches.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> <font>O lamentable liuing betweene man
+and wife!</font>
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Wast thou not afraid then
+<font>Xantip</font> ?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Afraid? no: on the other side,
+I tooke vp the treuit; and if he had but
+touched me with a finger, he should wel
+<pagebreak id="C1V" />
+haue seene and felt, that I would haue
+laid about me lustily with both my
+hands.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I promise you, I commend
+you for your manly courage; you had
+got a new kinde of target, when you
+had the treuit, you did but lacke your
+distaffe in steed of a iauelin.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I would haue made him haue
+knowne, that hee had met, and medled
+with his match.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> O neighbour, this should not be
+so.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> What tell you me of it? if hee
+will not vse me as his wife, I will not
+entreate him as my husband.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> But <font>Paul</font> , as I said before,
+teacheth, that wiues should be in subiection
+to their husbands with all reuerence,
+and not to be check-mates with them:
+and <font>Peter</font> sets downe <font>Sarah</font> for an
+example to women, who called her
+husband Lord.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> We haue heard of these things
+before as well as you: but the same <font>Paul</font>
+I trow, teacheth, that husbands should
+loue their wiues, as Christ did his
+Church.
+<pagebreak id="C2R" />
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Well, let him first do his duty,
+and then I will do mine.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> But yet when the case stands thus,
+I thinke it is the wiues part to yeeld first
+to her husband.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Husband, quoth she, marrie in
+good time; if he be a husband that makes
+no more account of me, then of his
+kitchin girle.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> But in kindnesse Xantip tell
+me: did he, when you stood so stoutly to
+him, leaue off to threaten you blowes?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Did he? yes, and it was best
+for him too, I trow, or else as I am an
+honest woman, I sweare to you, I
+would haue belaboured my fellow well
+and soundly.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> O terrible mannish woman! I
+did not thinke that thou hadst bene of
+such a peremptory spirit. Thou doest
+not remember that he hath power ouer
+thee, and that thou shouldest let thy
+desire be subiect to thy husbands.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> It was well done <font>Xantip</font> ;
+hold him out still at staues end, yeeld
+him not an inch, lest he take an ell: let
+him not crow ouer thee.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> You need not giue her such
+<pagebreak id="C2V" />
+wicked counsell; what, will you haue all the
+world to exclaime on our sexe, and cry
+out vpon women kind?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Why, none but men will
+speake against vs; and if they do, we can
+giue them two words for one in the
+hottest manner.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Me thought you said your
+husband left his threatning: me thinks then
+<font>Xantip</font> , in all equity and conscience, you
+should ceasse your scolding.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I mind not to leaue it yet.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> What does hee, I pray thee,
+whilest thou art scolding?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> What? sometimes he sleepes,
+slugge, as hee is; sometimes hee fals a
+laughing; sometimes he takes his
+fiddle, which hath scarce three strings, and
+thereon he strikes with his fidling stick
+as loud as he can, that hee may
+therewith drowne the noise of me.
+   </dialogue><nonSpeech> <font>Mar.</font> </nonSpeech><dialogue> I am sure, this behauiour of
+his angers thee to the heart.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It grieues me indeed to the
+very guts, and I so chafe sometimes that
+I can hardly hold my hands.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I pray you good neighbour
+hold your tounge, and giue me leaue to
+<pagebreak id="C3R" />
+speake my mind a little to you.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Say on hardly, and speake
+your pleasure.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> You shall be as bold with me
+when you please: me thinkes we two
+for old acquaintance sake should be
+very bold &amp; familiar one with another.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> You say true. For truly we
+haue bene play-fellowes from our
+cradles; and of all that euer I had, there
+was none that euer I loued better then
+you.
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> Well then, this I say in loue that
+I haue towards you still, and my request
+is euen as you loue me, to hearken vnto
+me. You are maried now vnto your
+husband, what manner of man soeuer hee
+be, you haue no liberty to change him
+for another, or cast him off. In old time
+indeed, when couples could not agree,
+diuorcement was permitted &amp;
+appointed as an extreme remedie, but now that
+is quite abolished. <font>Ben-ezer</font> must bee
+your husband, and you <font>Xantip</font> his wife,
+till one of you dye.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> A vengeance on them,
+whosoeuer they be, that haue taken away that
+law and liberty from vs.
+<pagebreak id="C3V" />
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Take heed what you speake, you
+wot not what you say, nor whom you
+curse. It is Christs pleasure I tell you,
+&amp; no other mans, that it should be thus
+hence-forth.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I can hardly beleeue it.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Truly <font>Xantip</font> it is as I say, and
+therefore cry Christ mercy for thy
+cursed blasphemy, and study to agree
+with thy husband henceforward, by
+applying thy selfe vnto his
+qualities.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Is it in my hands to make my
+husband a new man?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I can tell you <font>Xantip</font> , wee wiues
+may do much either in making or
+marring our husbands.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Do you and your husband agree
+so well together?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Yes, now, God be thanked, wee
+liue in peace.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> By your owne saying it seemes,
+that you could not well agree
+heretofore.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I must needes confesse to thee,
+though I take shame to my selfe, the
+fault most commonly was mine. For I
+was, as many other yong women are,
+<pagebreak id="C4R" />
+proud &amp; disdainfull, scorning that my
+husband should reproue mee; idle and
+carelesse, seldome, or neuer, seeking to
+please him; but rather thought that hee
+should stoope and seeke to me; <omission type="sentence" />
+<comment type="compiler">THE REST OF EULALIE'S SPEECH OMITTED: SHE SAYS THAT WOMEN HAVE 
+TO BE CAREFUL WITH WHAT THEY SAY.</comment>
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="C5V" />
+   <nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I promise you, I like your speech
+passing well. Well, now I wish in my
+heart, that I, and all other women in
+the world, were of your minde: we may
+see what it is to keepe company with
+those that are wise and godly. I thinke
+our neighbour <font>Abigail</font> did you more
+good then euer any woman did; and I
+thank God, you haue done me more good
+then euer any woman hitherto hath
+done.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I reioice greatly that God hath
+<pagebreak id="C6R" />
+made me an instrument to doe you any
+good, or any other. And this I pray you
+neighbour, if there bee any good done
+vnto you by me through Gods mercy,
+shew the fruits thereof in a holy life.
+For I may tell you, be it spoken now to
+the glory of God, there were few that
+euer thought you would haue bene
+reclaimed, you were so lauish of your
+tongue, and so fierce, that you would
+haue scared one with your words.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> We may see the power of the
+Almighty, who can make of the lyon a
+lambe, and that a little child should play
+vpon the hole of the aspe: and therefore
+I pray you, pray vnto God for me; yea
+and that also, when you are met 
+together with <font>Abigail</font> , and the rest of your
+Christian friends, that God would go
+on with his good worke which hee hath
+begun in me.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> That is my duty. And to
+forget you in my praier, were to forget my
+selfe vnto God. I pray you also, take all
+the means that may helpe you forward,
+&amp; renou~ce whatsoeuer may hinder you.
+You heard what holy and heauenly
+exercises <font>Margeries</font> good husband vsed;
+<pagebreak id="C6V" />
+vse you the same, though shee neglected
+and loathed them. In any case cashiere
+her company, and the fellowship of
+such, til you be stro~ger, or she better: for
+now she is a perillous woman, her euill
+words and rotten speeches will corrupt
+good manners, and quench your good
+motions: her religious husband is much
+vexed with her, euen as iust <font>Lot</font> was
+with the vncleane Sodomites. And
+againe, I am to aduise you, not to be
+dismaied for those that will mocke you for
+your profession, and because they see
+you begin to make conscience of your
+carriage, who vse to say, that we are a
+holy sister-hood, and precise foolish
+women; which prattle and chat wee
+know not what. Beare them with
+patience, and bee slow, yet sure, when you
+speake, especially in the cause of Christ.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Blessed bee God for this your
+loue and good counsell: I hope I
+shall make vse of it, as God shall enable
+me. I pray you now shew me some
+particular directions <comment type="compiler">SOURCE TEXT: directious</comment> how I and my
+husband may best liue together in mutuall
+loue.
+<comment type="compiler">EULALIE'S LONG SPEECH OMITTED.</comment>
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="C8R" />
+   <nonSpeech> <font>Xantip.</font> </nonSpeech><dialogue> Good gossip, tell mee, what
+way went you to worke to win your
+husband?
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> I told you a little before: but
+to the end, that you may the better
+remember it, and follow me, I wil tell you
+againe.
+   </dialogue><nonSpeech> <font>Xantip.</font> </nonSpeech><dialogue> If I can, I will doe my
+endeauour to the vttermost, through the
+helpe of God.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I make no doubt but that God
+wil strengthen you to any good worke,
+<pagebreak id="C8V" />
+if you call vpon him for his aide, and
+take those meanes which hee hath
+appointed for the accomplishing of the
+same.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Well, I will.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> First then this was my care;
+when hee was pleased, how I might
+keepe in with him: and when hee was
+angrie, how I might appease him. And
+this was one maine thing that I would
+continually aime at, to behaue my selfe
+humbly and meekly towards him, both
+in word and deed; also I would carry
+my selfe cheerfully toward him, and I
+would looke vp and downe, that there
+should bee nothing that might offend
+him. I also obserued his diposition
+and inclination. Moreouer I had respect
+vnto times and seasons, that his diet
+should bee prouided in due time; and
+that he should haue such delicates, as
+were most comfortable for his heart, and
+pleasant to his mouth; and so by this
+meanes I won both him and his loue
+vnto me; whereas before me thought
+he was as cruell as a Lyon, and terrible
+as a Dragon. Therefore I considered
+what those do that take in hand to tame
+<pagebreak id="D1R" />
+Lyons, and Elephants, &amp;c. which
+cannot be mastered with strong hand;
+therfore they that goe to the Elephant haue
+a speciall care that they bee not clad in
+white; and they that goe to Buls, that
+they be not araied in redde; because it
+hath bene found by experience, that
+those creatures by these colours, are
+made wilder and fiercer; and also
+Tigres by the sound of Timbrels, by
+report are so enraged, that they rend
+themselues in peeces; So they that
+breake horses haue their tearmes, their
+smackings, whistlings, and clappings,
+whereby they make their stout nature
+tame. Why then <font>Xantip</font> consider I pray
+you, how much more seemely and
+necessary it is <comment type="compiler">SOURCE TEXT: it</comment> , that we women should
+acquaint our selues with such courses,
+whereby we may win our husbands to
+goodnesse; by whom we should haue
+the greatest comfort and defence next
+vnder God.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It is true: say on, I pray you,
+say on.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> Hauing obserued these things,
+I applied me to his nature, and I had
+great care that nothing should be done
+<pagebreak id="D1V" />
+that might displease him; nor nothing
+left vndone, that might offend him.
+Not onely of my selfe had I this care,
+but of all that was in in <comment type="compiler">SO IN SOURCE TEXT</comment> the house; and
+that not onely in great matters, but also
+in the least
+   </dialogue><nonSpeech> <font>Xantip.</font> </nonSpeech><dialogue> But how would you apply
+your selfe to him that would neuer
+tarry within doores, or come euery while
+drunken home?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Stay a while, I will speake of
+that by and by. First I will shew you
+forth my behauiour towards my
+husband, because you desired to know it.
+When he lookt at any time very sad, &amp;
+there were no fit time to speak to him, I
+would not the~ laugh &amp; dally with him,
+and play the tom-boy, as many women
+are wont to doe in such a case, but I put
+vpon me a sad countenance also, and
+lookt heauily; for euen as a looking
+glasse if it be a good one, doth shew the
+countenance of him that glasses himselfe
+in it: So it beseemes an honest wife to
+frame her selfe to her husbands affectio~,
+and not to be merry, when he is
+melancholy, nor iocund, when he is sad, much
+lesse stire when hee is angry. And if at
+<pagebreak id="D2R" />
+any time he were stird, I would either
+pacifie him with gentle speech, or giue
+way to his wrath, till it were somewhat
+alayed; or else I would keepe silence, til
+there were fit time for clearing my selfe,
+or aduising him with reuerence and
+discretion. This course also I tooke; if
+at any time he came drunken home, I
+would not then for any thing haue giue~
+him a foule word, but I would cause his
+bed to be made very soft and easie, that
+he might sleepe the better, and by faire
+speeches get him to it.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Heere are fetters for the legs,
+and yoakes for the neckes of women:
+must they crouch on this manner to
+their currish and swinish husbands? If
+I had such an one, as he behaued
+himselfe like a swine, so I would vse him
+like a beast.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> I had thought we had bene
+ridde of your company.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I stood behind, and heard
+you so long, that I could no longer hold
+my peace. Are you a woman, and make
+them such dishclouts and slaues to their
+husbands? Came you of a woman, that
+you should giue the~ no prerogatiue, but
+<pagebreak id="D2V" />
+make them altogether vnderlings?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I pray you be patient: I haue
+spoke nor counselled any thing but
+what I haue done my selfe; and I haue
+done nothing, but that which is
+warranted by the word of God.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I hope the word of God
+doth shew men their duties to wiues,
+as well as the wiues toward their
+husbands.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It is so: but first wee must shew
+the one, before we can doe the other.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> You should haue begun with
+the men first.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It might haply haue bene
+somewhat tedious, and women mostly are
+so fickle, and wil find themselues so
+many things to doe, &amp; are so soone weary
+of hearing and reading any good thing,
+that they would scarce stay to heare the
+beginning of their dutie; therefore I
+thought best to begin with them first.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Trust me, you are a small
+friend to your owne sexe.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> More then you are to your owne
+selfe; for you are ignorant and carelesse
+of that good, which you might haue by
+your husband, if you would be louing
+<pagebreak id="D3R" />
+and submissiue to him.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Tell not mee of the good,
+which I may haue by my submissio~; for
+this is the truth of it, I care not though
+he heard me: I neuer meane to haue
+my necke brought vnder his girdle, but
+I will rather make him buckle &amp; bend
+vnto me, or else he shall haue an
+vnquet life.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It is true indeed, that many such
+as you are wil haue their husbands bend
+and crouch vnto them. But how seemly
+or warrantable this is, let euery one
+iudge. It is neither for the womans
+credit nor profit, whe~ the streame runs with
+violence this way. What a horrible sinne
+is it, that the woman should vsurpe the
+mans authority, &amp; the poore man dares
+not do any thing, but what his wife wil?
+and as she saith so it must bee, or else the
+house will not hold her, neither will she
+looke vpon him without lumping and
+lowring; &amp; if any describe the vglines of
+her countena~ce in the time of her anger,
+she will scarce be friends with them. Oh
+therfore, Oh therefore, that these
+masterly dames would but glasse
+themselues, that they might see their rugged
+<pagebreak id="D3V" />
+browes, their fiery eyes, pouching
+mouthes, their blacke and poysoned
+tonges, which vtter horrible
+blasphemies both against God and men,
+especially against their husbands, whom
+they should loue most dearely. So heere
+is the cause why many men thinke it
+their greatest wisdome to possesse their
+soules in patience, and to passe by
+many grieuances in our sexe. Onely this
+is the refuge of those that are godly, to
+comfort themselues in the Lord their
+God. Therefore well (saith <font>Salmon</font> ) <font>It
+is better to liue in the wildernesse with a
+dinner of greene hearbes, then to haue a stalled
+oxe, or to liue in a wide house with a
+contentious woman</font> .
+    </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> I will be sworne, if there
+were but three or foure moe here; if they
+were of my mind, wee would teach
+you how to defame &amp; shame vs on this
+manner.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> You defame and shame your
+selues, I onely shew, what shrewes are:
+and those that will neither be ruled by
+God nor their husbands: as he that
+toucheth not pitch shall not be defiled, so
+she that is not of this stocke and linage,
+<pagebreak id="D4R" />
+<comment type="compiler">SOURCE TEXT, ERRONEOUSLY B4</comment> 
+is not blamed.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Let her alone good <font>Eulaly</font> , and
+tel me how did you after your husband
+was in bed.
+   </dialogue><nonSpeech> <font>Eulal.</font> </nonSpeech><dialogue> When his stomack was
+emptied, and he come to himselfe, when he
+was not stirred in his affections, nor
+troubled with other actions, but he and
+I alone, either in bed, or in some
+conuenient place, I would gently admonish
+him, or rather intreat him, that he would
+haue a care of the health of his body, &amp;
+to auoid that sin, to bee ouercome with
+drinck; telling him of such young men,
+yea gallant gentlemen as he knew, who
+got surfets by so ouercharging their
+stomacks: also with weeping eies I would
+intreat him, to haue a care of his estate
+and credit, children and seruants, lest
+the one should be vndone by his
+spending their portions, and the other by
+following his vnseemely course of life.
+This was the manner of my proceeding
+with him, seasoning my speeches in the
+best manner, that they might not be
+distasted but digested of him. Also
+sometimes I was wont to vse a preface, and
+make him promise mee, that hee would
+<pagebreak id="D4V" />
+haue patience with me, if I a simple
+woman should put him in minde of
+something, that might tend to his credit or
+welfare any way; &amp; whe~ I had told him
+my mind, I would breake off that talke,
+and fall into some other more delightful
+to him. For gossip <font>Xantip</font> , I may say to
+you, that this is the weakenes of vs
+women, that when wee haue begunne to
+speake, wee are so talkatiue and full of
+words, that wee wot not when to leaue.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> It is the pleasure of men
+indeed so to say to vs, who haue no better
+sport, then to speake of, and report our
+infirmities: but say on I pray you.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> I had also a speciall care of this,
+that I would not find fault with my
+husband for any thing, in any bodies
+presence, nor complaine of him
+abroad. A matter is soone amended, that
+is but betweene two, and not blazed
+abroad. But if the matter bee of such a
+nature, that it cannot well be holpen by
+the wiues counsell, it is a seemelier
+course that the wife make complaint to
+her husbands parents, or some of his
+kindred, rather then to her owne; and
+also that she moderate her complaint &amp;
+<pagebreak id="D5R" />
+te~per her speech so, that she may seeme
+not to hate her husbands person, but
+only his ill conditions. Neither let her blab
+out all; that so, when her husband
+comes to heare of it by his friends, that
+she hath spoken of his faultes with the
+least, he may be forced to acknowledge
+his wiues courtesie, and kind dealing, &amp;
+to say as <font>Saul</font> did of <font>Dauid</font> : <font>She is more
+righteous then I</font> .
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> She had neede be an
+Academick, and brought vp in their schooles
+and Vniuersitie, that should skill to do
+this as you haue set downe.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> By this meanes we shall draw
+our husbands to shew vs the like
+kindnesse.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> There are some husbands,
+whom no gentle intreaty will doe any
+good.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Truely I thinke, there are few
+or none such: but say there be; first of al,
+as I haue said before, the husband must
+be borne, endured, and dwelled with,
+though neuer so wretched and wicked,
+euen a diuell incarnate. Therefore it is
+farre better to beare with one like our
+selues, or that may bee bettered by our
+<pagebreak id="D5V" />
+courteous carriage, then one, that will
+be worse euery day then other, by our
+ouerthwart &amp; crabbed behauiour. Come
+on <font>Margerie</font> , what will you say, if I tell
+you of some husbands, that haue
+reformed their wiues on this wise by their
+gentle carriage. If they doe it, how
+much more the~ is it meet, that we should
+do the same to our husbands?
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> If you can tell vs of a truth of
+any such, I say they are rare swans, and such
+husbands are hard to come by.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Why, there are many such geese
+as you are, will not bee ruled by them,
+but continually will bee gagling at
+them.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Shee hath such a swanne her
+selfe; if she had eyes to se him, or grace
+to make vse of him: I would I had such
+another; if I had, I would thinke I had
+a rare Iewell.
+<comment type="compiler">EULALIE'S LONG SPEECH (ABOUT A HUSBAND WHO REFORMS HIS WIFE) 
+OMITTED.</comment>
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 4">
+
+<pagebreak id="D7R" />
+   <nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> And what followed?
+<pagebreak id="D7V" />
+   </dialogue><nonSpeech> <font>Eu.</font> </nonSpeech><dialogue> The young woman going from
+her father, returned to her chamber,
+finds her husband all alone, fals vpon
+her knees, &amp; cried: O husband, vnwise
+as I was, I haue not hitherto knowne
+you nor my selfe: hereafter you shall
+see me become a new woman: only good
+husband forgiue and forget my former
+disobedience. This vnexpected humble
+speech of his wife, hee welcomed with a
+kisse, and promised her all things, if shee
+would still continue in this minde.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea, but did she so?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Yes to her dying day; neither
+was there any seruice so base, which shee
+would not willingly vndergoe at her
+husbands pleasure, howsoeuer <font>Margery</font>
+it may be, you would haue done it at
+your leasure. And there grew euery day
+such great loue betwixt the~, that within
+few yeares she would often in company
+reioyce &amp; blesse God that shee was
+matched with such a husband, whom if shee
+had not maried, she thought there should
+not haue bene a more miserable
+creature vnder the Sunne.
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Such men as these are as rare
+as white crowes.
+<pagebreak id="D8R" />
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yet you haue such an one?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> The greater shall her iudgment
+be, except she repent: for there are few
+women in the country, I can tell you,
+that haue such a religious husband, who
+seeketh by all meanes her saluation.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Haue you no mo such exa~ples?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Yes, that I haue, and one
+especiall one, which I hope will please
+<font>Margery</font> , it being much in the
+comme~dation of a woman, as the other was of a
+man.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I pray you let vs heare it.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> There was a neighbour of ours,
+a very honest man, but somewhat of a 
+hastie nature, and of a waspish &amp; tetchy
+disposition: on a day he beate his wife,
+a woman, by common report, of
+singular good carriage, and excellent
+behauiour, such an one as <font>Abigail</font> , being
+very well beloued of all her neighbours.
+Being beaten &amp; abused of her husband,
+she betakes her selfe into her secret
+closet, and there shee sits sighing and
+sobbing, so easing her heart, and disgesting
+her griefe. Soone after vpon occasion
+her husband went into that roome, and
+finding his wife wofully weeping, saies
+<pagebreak id="D8V" />
+to her: Why sittest thou here sighing &amp;
+sobbing, and crying, like a child? Shee
+then thus prudently and patiently
+answered: Husband, said shee, is it not
+better to doe thus, here to bewaile my
+griefe where no body heares nor sees,
+then to runne and cry out in the streetes,
+and to exclaime on you, as others do on
+their husbands? By this wise and
+gentle speech of his wife, the stout heart of
+her husband was broken: hee gaue her
+his right hand, and promised that hee
+would neuer touch her againe in any
+euill manner; neither did he.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I haue brought my husband to
+that passe too, but yet another way then
+she did.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> But I thinke you <comment type="compiler">SOURCE TEXT: yon</comment> cannot yet
+agree.
+   </dialogue><nonSpeech> <font>Xantip.</font> </nonSpeech><dialogue> Why, what would you haue
+me to do?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> O <font>Xantip</font> , how oft haue I told
+thee how thou shouldst behaue thy selfe
+to thy husband? I perceiue thou hast a
+bad memory, or at least, small list to
+learne, sith so soone thou forgettest thy
+duty. Wel, once more I wil tel thee. First
+you must put vp all iniury at his hands.
+<pagebreak id="E1R" />
+   </dialogue><nonSpeech> <font>Marg.</font> </nonSpeech><dialogue> Yea, so one might soone bee
+made a foole &amp; a foot-stoole: I would
+rather do him two for one.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Hold you your tongue
+<font>Margery</font> , I speake not to you but to <font>Xantip</font> .
+Then <font>Xantip</font> you must labour to win his
+good will by doing all duties with
+chearefulnesse, and louing kindnesse: so
+shal you at last ouercome him, or at least
+you shall haue him in a farre better
+temper then he is in at this present.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Alas woman, he is farre
+fiercer then he was before: I feare me, no
+gentlenesse will preuaile with him.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Feare not woman, there is no
+wild beast so sauage, but by gentle 
+handling it may be tamed: be not then
+hopelesse of a man; do but put in practise &amp;
+vre my aduice for a few moneths, and
+then blame me, if you find not my
+counsell to doe you good. There are some
+smal faults which you must winke at; &amp;
+take heede that you giue no occasion of
+contention, and thinke no scorne to be
+seruiceable in those things which
+become you. There are some women that
+will be euer frumping or whining,
+seldome or neuer vsing any amiable
+<pagebreak id="E1V" />
+behauiour toward their husbands, which is a
+signe that they haue not the loue of God
+shed abroad in their hearts. For if they
+had, it would cause them to loue their
+husbands vnspeakeably.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Indeed gossip, I must tell you
+plainly, I cannot shew that loue to my
+husband that I should, and some do to
+theirs, he is so crosse to me, and euery
+way so vntoward.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> But I hope it would bee for your
+good, if hee would leaue his bad 
+qualities: suppose when you are angry with
+your husband, that then you could by
+the art of <font>Circes</font> transforme your
+husband into a swine, or a Beare, or any such
+like beast, would you not do it?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I know I should not: but
+whether I would yea or no, its hard to say.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> What, had you rather haue a
+swine or a Beare to your husband then a
+man?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> You doe not heare me say so;
+I trow, no.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Go to then, what if you could
+make him of a wine-bibber, a sober
+person; of a ding-thrift a good husband; of
+a slothfull, a painefull person; of a
+<pagebreak id="E2R" />
+prophane creature, a religious and zealous
+Christian, would you not do it?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> There is a question indeede.
+Yes, with all my heart would I: but
+how should I do it?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> <font>Xantip, Xantip</font> , thou art like vnto
+those women which the Apostle speakes
+of, that are alwaies learning, and are
+neuer taught: so thou art alwaies asking
+how shal I do this and that, and yet thou
+remainest still ignorant: and wilt thou
+know why thou art so ignorant still, and
+forgetfull?
+   </dialogue><nonSpeech> <font>Xan.</font> </nonSpeech><dialogue> Yes, with a good will.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It is because you do not practise
+that which is taught you. I shewed
+before to you, that you must adorne the
+Gospell of Christ by your holy
+conuersation. Now if you be a Christian, as I
+thought you were, &amp; I suppose you think
+no lesse of your selfe; of you the Apostle
+askes this question: What knowest thou
+o` wife, whether thou shalt win thy
+husband? meaning, by thy holy example,
+gracious words &amp; counsell, praiers and
+patience, your conference and
+community. Now if by any meanes you can win
+your husba~d, what a rich crowne of
+<pagebreak id="E2V" />
+glory shall you obtaine? what
+vnspeakeable ioy and comfort shall you haue both
+in this life, and in the life to come? Set
+not your eies so much vpon his ill
+conditions: for that makes them seeme
+greater then they be; and to twit him with
+them, is not the way to bring him to
+goodnesse, but to make him worse.
+Before you were maried to him, you shold
+haue considered what his ill qualities
+were: for it behoues a woman not
+onely to chuse a husband by her eies, but
+also by her eares, and by experience of
+his qualities; neither is it a time after
+once they be maried, of complaining &amp;
+accusing, but of curing their bad
+husbands.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> What woman knew you euer,
+that chose her husband with her eares?
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> She chuses a husband with her
+eies, that respects nothing but his visage
+and personage: and she chuseth him by
+her eares, that warily &amp; wisely weighes
+what the world, especially the best sort,
+say of him; and she chuseth him by
+experience, who trieth his loue and
+constancy.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> This is good counsell, but
+<pagebreak id="E3R" />
+it is all too late.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> But it is not too late to labour the
+reformation of your husband; and yet it
+shall be in very good time, if you can
+profite your husband. For the way to
+good manners is neuer too late; and you
+both shall finde a double comfort of it,
+if your husband shal haue any children
+by you.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> I haue one already.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> When, I pray you?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> A pretty while agoe:
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> How many moneths since?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Welneere seuen.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> How can that bee? Is it possible
+that you should haue a child in three
+moneths?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Tush, it is longer.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> It is not a day longer, if you
+beginne your reckoning from the mariage
+day.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yea, but we had conference
+before.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Like inough; but I hope
+children are not gotten with conference. Is
+this you that co~plaine of your husband
+so much? I perceiue one house is better 
+troubled with you then two. I feare I
+<pagebreak id="E3V" />
+haue bestowed all my labour in vaine
+vpon you! what thinke you will our
+neighbour <font>Abigail</font> say, when she heares
+of this? it will grieue her not a little.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> We were sure together before.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> The sin is something the lesse, but
+yet except it be repented of, and that
+from the heart, God will punish you
+both for it; and therefore looke to it, &amp;
+lament it, as also all other your
+misdemeanors. What is it, a boy?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> Yes, a goodly lad, God blesse it.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> You must haue a speciall care to
+bring him vp in the feare of the Lord;
+otherwise make your reckoning that hee
+will be a great crosse to you both: but if
+you wil catechise him now from his
+cradle, &amp; so co~tinually, no doubt but he wil
+be a meanes to set you at one, if that you
+will but incline a little to your husbands
+minde. I pray you tell me, what do other
+men say of your husband, your
+neighbours, and those that haue dealing with
+him?
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> They commend him out of all
+cry for a courteous, liberall, and friendly
+man.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> This makes me hope that he will
+<pagebreak id="E4R" />
+proue such an one as we would haue him.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> But I am sure that I find him
+not such an one to me, whatsoeuer they
+say.
+   </dialogue><nonSpeech> <font>Eul.</font> </nonSpeech><dialogue> Yea but do you shew your selfe
+such an one towards him, as I haue
+counselled you; and if he proue not such an
+one in time as I said, call me <font>Eulalie</font> no
+longer, but <font>Pseudolalie</font> , or lyer.
+Moreouer remember, that yet he is but a yong
+man, not, as I thinke, aboue foure and
+twenty yeares old; alas poore soule, he
+knowes not yet what belongs to a
+husband or housekeeping. You must not
+thinke to bee separated from him, as a
+great many do, if so bee they cannot
+agree vpon euery thing, then straight
+nothing but separation.
+   </dialogue><nonSpeech> <font>Xant.</font> </nonSpeech><dialogue> God forgiue me, I haue often
+wished it.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

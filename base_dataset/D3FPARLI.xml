@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3FPARLI">
+  <dialogueHeader>
+
+    <filename>D3FPARLI</filename>
+
+    <identifier>3 FICTION D3FPARLI</identifier>
+
+    <title>PARLIAMENT OF VVOMEN</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1646</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="FICTION">Fiction</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE PARLIAMENT OF VVOMEN. WITH THE MERRIE LAWES BY THEM NEWLY
+ENACTED. TO LIVE IN MORE EASE, POMPE, PRIDE, AND WANTONNESSE: BUT 
+ESPECIALLY THAT THEY MIGHT HAVE SUPERIORITY AND DOMINEERE OVER THEIR
+HUSBANDS: WITH A NEW WAY FOUND OUT BY THEM TO CURE ANY OLD OR NEW
+CUCKOLDS, AND HOW BOTH PARTIES MAY RECOVER THEIR CREDIT AND HONESTY
+AGAINE.
+LONDON, PRINTED FOR W. WILSON AND ARE TO BE SOLD BY HIM IN WILL-YARD
+IN LITTLE SAINT BARTHOLOMEWES. 
+1646.
+PP. A2R.10 - B3R.27
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    <dialogue>
+
+<comment type="compiler">SOURCE TEXT HAS &quot;atime&quot; ON PAGE A5R, AND &quot;agreat&quot;, &quot;agenerall&quot;, 
+&quot;amentall&quot; ON PAGE A6R, WHICH HAS BEEN NORMALISED BELOW, AND OUR 
+COMMENT ADDED.</comment>
+
+<pagebreak id="A2R" />
+<comment type="compiler">PAPIRIUS PRAETEXTATUS, A BOY OF GREAT UNDERSTANDING, WAS 
+PERMITTED TO JOIN THE DEBATES OF THE SENATE.</comment>
+<omission type="sentence" /> </dialogue><nonSpeech>his mother at his comming home,
+asked the boy what was the cause of their so
+often meeting, &amp; what was concluded in the Senate 
+that day? which he apprehending, that he was
+not to reveale, remained silent, but his mother
+further importuning him, and threatning him
+with the rod, that unlesse he would acquaint her
+with all their proceedings, she would whip him
+soundly both to avoid the prejudice that might
+happen, if he should have revealed the secrets of
+the Senate, and to satisfie his Mother for the
+present, he told her, that they had made a Decree,
+and establisht it, that it should be lawfull for
+every man to have two wives. Upon which, she
+presently, without any more adoe, sent to the chief
+Matrons in <font>Rome</font> , that it would please them to
+vouchsafe to come to her house, and she would
+acquaint them with such a project that her 
+husband &amp; theirs had done in the Senate house that
+<pagebreak id="A2V" />
+day and to their prejudice, as wanted president
+or example.</nonSpeech>
+   <nonSpeech>At which summons, many or the most of them,
+gave her a visit, where she revealed unto them the
+whole businesse, as it was repeated by her young
+Son <font>Papirius</font> , and desired their assistance how to
+prevent it, &amp; for that to enter into present
+consultation how they might abrogate that Law,
+and in stead therof, that every woman might
+have two husbands: This was no sooner noysed
+in the City, but it was presently bruted in the
+Suburbs, &amp; before they could propose any thing
+to be concluded, there was a great noyse of
+rapping at the door; they se~ding to know the cause
+thereof, answer was returned them, that there
+were a great many of Tradesme~s wives, who
+understanding the cause of that meeting, desired to
+have their voyces in the Counsell, alleadging
+withal, that though the Matrons were noble, and
+they but Mechanicks, &amp; poor Tradesmens wives,
+yet no Parliament could be held, but there must
+be a lower House as well as a higher, &amp; Speakers
+for both; and further, that nothing cold be
+concluded in the higher, but it must first be
+debated in the lower: upon which reasons, they
+were admitted, and a great <font>Parlour</font> serving for
+a <font>Parliament House</font> , every one took their places
+acording to their degrees, &amp; which was a
+wonder amongst women, they suffered one to speak 
+at once, which was the mother of <font>Papirius</font> , who
+said as followeth,</nonSpeech><dialogue>
+<pagebreak id="A3R" />
+   To you, as well of the Manufacture, as the
+Matronship, I speake to all in generall, I haue knowe
+a Lord contented with one Lackey, a Master with
+one man, a Tenant with one Land-lord, a Bird
+with one mate, a Cow with one Milk-mad, and
+shall a man desire to have two wives, that (alas)
+with al he can do, can hardly please one? nay, grant
+them two, in time they will grow to ten, from ten
+to twentie, and then what a racket there would be
+who should rule the roast? Nay, I have heard of 
+one that had at once a 1000. wives &amp; concubines:
+Now out upon him for a <font>Jew</font> </dialogue><nonSpeech> (said a second) and
+taking the tale out of her mouth, thus proceeded:</nonSpeech><dialogue>
+Methinks they should rather have consulted, that
+woe~n might have had 2 strings to their Bow, that
+if one slipt the other might hold, one for weeke
+dayes to drudge within doors, another for
+Holy-dayes to walke abroad with her, and usher her in
+his best cloaths; keeping one for delight, the other
+for her drudgery; </dialogue><nonSpeech>to which motion, they with an
+unanimous voyce consented: then up starts a third
+and said,</nonSpeech><dialogue> our sexe is now of late grown Cowards,
+carpet and curtaine hearted: Where be those 
+magnanimous and Masculine spirited Matrons? Those
+valiant Viragoes? those lusty Ladies? those
+daring <font>Amazonian</font> Damsels, <font>Orithena, Penthisilaea,
+Thalestres</font> and the rest? who made Coxecombes of
+<font>Keysars</font> , Puppets of Princes, Captives of Captains,
+Fooles of Philosophers, and Hench men of their
+husbands? but though we want weapons, and are
+abridged of their armes, yet they shall know, that
+<pagebreak id="A3V" />
+we have the Law in our owne hands, and in our
+own cases we will be our owne Lawyers, and plead
+our own rights. For wee have tongues to tell our
+own Tales, and our Tales shall be heard and
+handled, when some of theirs shall not: What, give
+these Cocks leave to crow, and we shall have the
+Ravens follow after.
+   </dialogue><nonSpeech>These words were spoke with such an Emphasis,
+that there was a generall hum throughout all the
+Parliame~t-parlour: then there was a motion made,
+that every one for the present should put in a
+particular of their own grievances: First, up starts one
+Mistris <font>Rattle</font> , a Taylors wife, and said,</nonSpeech><dialogue> I thinke
+the Proverb may be very well verified in my
+husband; which is, that many Taylors goe to the
+making up of one man; for he hath no more
+mettle in him then a Mouse; he works altogether with
+hot needle, and burnt thread: for nothing he doth
+prospers with me. I thinke the reason is, because
+he uses an unlawful Yard, and wants that handfull
+which belongs to the Citie measure, or else because
+he sits crosse leg'd on his shop-board, like a dead
+Hare on a Poulterers stall, and no good work can
+be done that way. If at any time he make me a new
+peticoate, he will threaten to sit upon my skirts,
+and that's all: He will sow and sow, and yet when
+he hath done all hee can, it proves but so and so,
+</dialogue><nonSpeech>and with that she put finger in the eye and wept.</nonSpeech>
+   <nonSpeech>Nay, another Gossip, seeing and pittying the
+poor puling creature, rose up, and said,</nonSpeech><dialogue> I take it,
+your best course Mistris <font>Rattle</font> , is to acquaint your
+<pagebreak id="A4R" />
+selfe with some Courtier his Customer, and when
+any Masque or show is to be presented at Court, he
+may helpe you to a good standing. </dialogue><nonSpeech>Then another
+starts up and said,</nonSpeech><dialogue> my name is <font>Franke Fall-downe</font> , a
+Felt-makers wife, and know no more from my
+husband of the three parts that belong to a Noune
+Substantive but the first, and that is felt, and
+nothing else worthy to be heard or understood. </dialogue><nonSpeech> <font>Sisly</font>
+the Sadlers wife sate next.</nonSpeech><dialogue> Nay, you may take me
+too in your number, for my case is as much to be
+condoled as any's, who have a very pea-goose and
+patch-pannell to my good man: well, his girthes
+or Latchets may passe for currant, but I could never
+see a good stirre-up from him since he was my 
+husband: I confesse he is saddle-nos'd and saddlebackt
+too, but never could set the saddle on the right
+horse since I knew him: </dialogue><nonSpeech>to whom the 
+Horse-coursers wife, called <font>Harebrain</font> , replyed,</nonSpeech><dialogue> my good man
+is his customer, who keepes the saddle to himselfe,
+but gives me the bit and the bridle: he can teach
+his horses to pace as he list; but for himself he hath
+neither good amble, trot, nor gallop.
+   </dialogue><nonSpeech>After them <font>Grace</font> the Gold-smiths wife, <font>Sarah</font>
+the Silke-mans, <font>Kate</font> the Comfit-makers, <font>Beatrice</font>
+the Brasiers, <font>Parnell</font> the Apothecaries, <font>Maudlin</font> the
+Masons, <font>Winifred</font> the Wyre-drawers, <font>Dorothy</font> the
+Drapers, &amp;c. every one laid downe their severall
+grievances, which as they were attentively heard,
+so they were much to be commiserated (I am loath
+to insist on too many, therefore for breuities sake
+let these suffice for the rest) then consulation was
+<pagebreak id="A4V" />
+had how to rectifie what was amisse, for the
+generall good of their Sexe, how to rest the power in
+men from wronging their wives, that
+thenceforward they might live in the more ease, pride,
+pompe, and liberty: for which they thought fit 
+that good and wholsome Lawes should bee
+enacted.</nonSpeech>
+   <nonSpeech>The first was Mistris <font>Tattle-well</font> that speak, who
+said, that it was not onely fitting but necessary,
+that every woman should have two husbands:</nonSpeech><dialogue> for
+</dialogue><nonSpeech>said shee,</nonSpeech><dialogue> was not every woman born with two
+legges, two hands, two eyes, two eares: and every
+deepe Well ought to have two Buckets, while one
+is comming up, the other going down? have not
+most great houses two doores? likewise have not
+most Tavernes a fore-door &amp; a backe-door, with
+two signes and two bushes, every ship a fore-Mast
+and a maine-Mast: most Cities two or three gates,
+and every gate three or foure Watch-men; and
+every Beadle three or foure men every night in his
+Lanthorne, or else their money? hath not every
+stoole or chaire three or foure legges, and every
+bed-stead two posts, (and three or four Curtains)
+the better to support the other parts of them, and
+therefore in conscience every Woman may have
+two husbands: for have not we women six
+Sences, and men but five? the major part wee know
+includes the minor: therefore the case is cleare on
+our sides, for wee have nothing to offend and
+defend our selves but our tongues, which wee bring
+in for another sence; for the tongue tells what
+<pagebreak id="A5R" />
+the eare heares, what the eye sees, what the hand
+handles, what the palat tasteth, what the nose
+smelleth, therfore the tongue ought to be the sixth
+Sence, which we must maintain for our own 
+safety: though woman was taken out of the side of
+man, yet let men know, that they cannot, nor shall
+not alwayes keepe us under.
+   I put the case to you, suppose a handsome Lasse
+marries a Sea-faring man, perchance his
+occasions call him to goe a long voyage to SEA, as to
+the East or West Indies, or to the straights of
+<font>Magellan</font> , the Reed or Red SEA, or to the
+<font>Persian</font> Gulfe: he is bound to stay a yeare, two or three,
+before he can returne: doe you (nay prethee good
+sister, let mee not bee interrupted in my speech:
+pray silence, or I will say no more; for I now
+speak to the purpose) as I have said, doe you think
+it convenient such a prettie soule should lye alone,
+having been wedded so short a time <comment type="compiler">SOURCE TEXT: atime</comment> , and only
+tasted of you know what, and having been a
+fellow feeler, and helper in most cases, for the 
+Common-wealths good, that she can be content to lye alone
+tumbling and tossing in a good featherbed, 
+sometimes to the Wall, sometimes to the doore, 
+sometimes of one side, and somtimes of the other:
+sighing and groaning, as if her very twatling
+strings would breake; making her moane to the
+Curtaines, fumbling and biting, or tearing the
+sheets, and by that meanes ease her oppressed body
+and minde: nay, I should not say oppressed bodie
+for there I was mistaken, there my tongue went
+<pagebreak id="A5V" />
+too fast, I should have said her troubled and
+perplexed spirit, heart, or what you terme it, Ought
+not, I say, such women to have two or three
+husbands? yes, yes, </dialogue><nonSpeech>said they,</nonSpeech><dialogue> being alwayes provided,
+and for the good of the Common-wealth: So
+likewise the Souldier and Captain when they are gone
+to the Wars, the Merchant, the Factor, &amp; the
+Mariner when they are gone to Sea, a foolish Plaintiffe
+and his Defendant, that will come up post two or 
+three hundred miles to spend his money, and stay
+a whole Terme before he return to his beloved:
+ought not these (and many more which I could
+name, which for brevites sake I omit) to leave one
+husband at home, while the other being at Sea,
+lookes to the maine boling, and that the
+fore-Mast and maine-yard, and all other tackling be fit
+and compleat for his occations: The Facter while
+he looks to cast up his accompts abroad, shee may
+looke and cast up hers at whome: the Plaintiffe and
+Defendant while they be spending mony at Law
+shee may get some at home by love. All these cases
+are to be considered; for every musket must have --
+scouring sticke, and every Gun must have a
+rammer, and every pen must be dipped in inke before it
+will write: Has not every Constable his Beadle, 
+every Serjeant his Yeaman? hath not every Officer
+in a ship his mate: as the Surgeon he hath his mate,
+the Master his mate; and the Gunner his mate: It is
+good to have two strings to ones Bow, if one break
+the other may hold: that if one be dogged and 
+surly, the other may be pleasant and joviall; that while
+<pagebreak id="A6R" />
+one be off the hooks, the other may be on the
+hinges; Upon which motion it is fully agreed
+upon by us women, who are here present, which find
+it better for us woman to have two husbands                          
+<comment type="compiler">SOURCE TEXT: hnsbands</comment> , that
+if one be sick, the other may be well, one abroad
+and another at home: </dialogue><nonSpeech>and this was likewise the
+motion of one Mistris <font>Tabitha Tireman</font> , and all
+giving out it may be a great <comment type="compiler">SOURCE TEXT: agreat</comment> meanes to       
+abolish the old
+custome of making Cuckolds: ere shee could
+proceed, they all cryed it up for currant:</nonSpeech><dialogue> but let mee
+tell you one thing, which might put a rub in our 
+way: What if our husbands object and say, that
+we promised to love &amp; obey them at the day of our
+marriage, &amp; that we must be tyed to that promise?
+By our Lady that is true </dialogue><nonSpeech>said they,</nonSpeech><dialogue> what must be
+our plea for that? Ile tell you </dialogue><nonSpeech>said Mistris <font>Tatle-well</font> </nonSpeech><dialogue>
+Let us answer thus much in that behalfe; that we
+had a mentall <comment type="compiler">SOURCE TEXT: amentall</comment> reservation, when the wisest 
+of us
+said so; for though our husbands expect it at our
+hands all our life time, we must say that we ment
+it only for that day, and the first night, and no
+longer; and therefore by this meanes we may wave
+the businesse, and repeale that Law: </dialogue><nonSpeech>whereupon
+they all agreed unto it by a generall <comment type="compiler">SOURCE TEXT: agenerall</comment>     
+consent, and a <comment type="compiler">SOURCE TEXT: a-</comment>
+great commendation bestowed on mistris <font>Tatle-wel</font> ,
+for finding out this misterie and evasion, which
+was set downe at first by these men by way of error
+and mistake. Then Mistris <font>Prudence Prate-all</font> said,</nonSpeech><dialogue>
+let it be likewise enacted, that since maids for the
+most part mary in hast, and repent at leisure, that
+we may be hasty also in our own houses, that if our
+<pagebreak id="A6V" />
+husbands be peevish, we may pout; when they are
+harsh, we may be humorous: they curst we
+crabbed; and when they think to make us melancholy,
+we in requitall strive to make them horne mad, by
+making our Petticoates our Purlewes: at which
+if they grudge or grumble, wee may finde answers,
+by looking upon our apron-strings; knowing by
+experience, that most men are of a strange kidney,
+and will never bee at quiet full nor fasting; </dialogue><nonSpeech>this
+also past amongst the rest. The next that spake in
+Court, was a madde wench, called <font>Besse Blue</font> , or
+<font>Blot-booke</font> a Scriveners wife, who also desired,
+that one thing might bee rectified concerning her
+husbands trade, that in all contracts, 
+Covenants, and Joyntures made betwixt Batchelours
+and maides, Widowes and Widowers, the often
+word, Notwithstanding, may be quite razed out,
+and in the stead thereof, <font>Alwayes provided</font> as
+often put in:</nonSpeech><dialogue> the want of which reformation, </dialogue><nonSpeech>said
+shee,</nonSpeech><dialogue> I have endured to my great prejudice: </dialogue><nonSpeech>To
+this they generally assented, and desired that it
+might be prickt downe with an <font> <foreign>Imprimis</foreign> </font> : In then
+co~es Mistris <font>Eleanor Ever-crosse</font> with her five eggs
+and said, that shee desired to have another added,
+which should not be addl'd,</nonSpeech><dialogue> my husband </dialogue><nonSpeech>said she,</nonSpeech><dialogue>
+in anger said, he would thump me, to whom I
+answered; thump me? where wilt thou thump mee?
+thump me but where thou shouldst thu~p me, or Ile
+make it the dearest thumping that ever thou didst
+thumpe in thy life: and I thinke I hit him home,
+which was more than ever he did to me, and then
+<pagebreak id="A7R" />
+I had him on the hip: and you should have kept
+him so when you had him there </dialogue><nonSpeech> (reployed 
+<font>Mary Malepart</font> ) </nonSpeech><dialogue> if you had been wise: But concerning
+your great thumpers, concerning him who said
+that a Law might be made, that no woman should
+suffer her self to be thumpt but as she ought to be;
+</dialogue><nonSpeech>to who~ the whole Court willingly condiscended.</nonSpeech><dialogue>
+   Thus </dialogue><nonSpeech>said Mistris <font>Dorothy Doe-little</font> ,</nonSpeech><dialogue> I hold it
+requisite also, that every woman of sence, should
+take delight to please her eye with the most
+curious objects, either of such pictures as wee like, or
+such men as wee love: Her eare rather with 
+curious and choyse Musicke, or have some Courtship
+that may content her, or somewhat publisht in
+her praise: Her smell rather with sweet and
+redolent flowers at home, or precious odours and
+perfumes fetcht from abroad: her touch either
+with the Pluch and Taffates of her owne gay 
+garments, or by the griping of his smooth &amp; soft
+hand whom she most dearly affected: Her taste
+with all dainty and deare fare, with either fowle
+or Fish, with sweete Wines and sweete meats, 
+banqueting and junkets, and every variety that can
+taste the appetite, or please the palate. And for our
+more ease let us lie a bed till ten of the clocke, and
+the~ have a Candle <comment type="compiler">SOURCE TEXT: Caudle</comment> brought to our bed side   
+for our
+break-fast; and be ready by dinnertime, and then
+walke abroad to take the ayre till supper-time;
+and so spend the weeke about; and if they aske the
+reason thereof, tell them it must bee so, because
+it must be so; and let them understand, that Mo~day
+<pagebreak id="A7V" />
+is Sundayes brother, and that Tuesday is such
+another, Wednesday they must goe to Church &amp; pray,
+and Thursday is halfe holy day, Friday it is too
+late to begin to spin, and Saturday all the world
+knows is half holy-day agen.
+   You speak wel in that </dialogue><nonSpeech>said Mrs. <font>Bridget Bold-face</font> ;</nonSpeech><dialogue>
+for why should we toyl and turmoyl for our 
+horn-headed and hard-headed husbands, and not taste of
+the sweet as well as of the sowre, of the gaine as
+the paine, the pleasure as the puzzle. If the 
+husbands be ours, then be their goods ours, their lands
+ours, their Cash and Coine ours, and all their
+moveables, (howsoever seldome in motion ours too)
+and at our command; then why should we be
+niggards, and not spend freely of our owne? or why,
+when they be prodicall abroad, should we be
+penurious at home? nay, let us eate good fare, keepe
+good fires, want nothing that Women should have,
+good cates after good company: we can then bid
+any God-speed without good gossips. It is fit wee
+should bee merie so it fall within compasse of
+meanes: and for my owne part, I make use of the
+old proverb.
+
+<font>Every good huswife, as soone as she's up,
+Hath her hand in the Gup-board, her nose in the cup.</font>
+
+   </dialogue><nonSpeech>Which also was agreed upon with such an
+vnanimous consent, that this law above the rest should
+be writ in great Letters, to distinguish them from
+the rest, as best corresponding with most of their
+<pagebreak id="A8R" />
+conditions,</nonSpeech><dialogue> Further let it be enacted, </dialogue><nonSpeech>said <font>Anne
+Ever-crosse</font> ,</nonSpeech><dialogue> that whosoever shall hereafter take a
+Wife, shall doe it with the intent to please her,
+serve her, and obey her, and the first day of
+their Bridals, as a signe and token of duty to her,
+and all the rest, place here at the upper end of the 
+Table; or if she like not that place, put her in the
+middle, and with his hat in his hand wait on her
+till she hath halfe, or at the most three quarters
+dined; and then (if he have leave) to sit down, which
+must be done by her licence, that he place himself
+at the lower end of the Table, and make a short
+meale tell they be ready to take away, and that at
+supper he doe the like, and after that she goe to bed
+first, and rise last, and not attempt any thing but
+that stands with her good liberty and liking, </dialogue><nonSpeech>and
+this past amongst the rest for currant.</nonSpeech>
+   <nonSpeech>Then roase up one Mrs. <font>Rachel Rattlebooby</font> , &amp; said</nonSpeech><dialogue>
+I intreat that I may have a finger in the pye too as
+well as the rest: a fooles bolt (like my hasbads) is
+soon shot, and so is mine: when I was as well in
+health as any here, I complained to my good man
+of my heart and head, my Liver and my Lungs, &amp;
+(indeed) I know not of what: who comming home
+said, wife how doe you doe? I answered sick, good
+man, very sicke: then the fond Coxcomb bid me
+speake for any thing I had a minde unto; for saith 
+he, no question but thou dost breed; I, I, said I, I
+do breed, but you never get me any thing: no, saith
+he, who gets it then? I told him againe that it was
+no matter to him who gets it; for sure said I, I may
+<pagebreak id="A8V" />
+long and long, but shall be sure to come short of
+what I long for; why what dost thou long for, said
+my husband? For that (quoth I) which is beyond
+your reach, I wisse: Silke Gowne, and Sattin
+Petticoate of the fashion, an Italian cut-worke
+Handkercheif, and a black bag, with al the 
+appurtenances thereto belonging. I but said he, sweete Wife,
+these are above my calling: why then said I, mine
+own calling shall serve; for the next gallant
+Player I will call in, who, what he cannot adde to the
+happinesse of your memory, shall strive to augme~t
+in your honourable state of Matrimony: </dialogue><nonSpeech>and this
+she desired to be registred amongst the rest: at which
+some were unwilling that it should passe, yet the
+major part were so fully be~t, that it was set down
+by the she-Scrivener in paper, and after in
+parchment to be endorsed. Mistris <font>Tabitha Teare-sheete</font>
+then stood up and began to puffe &amp; snuffe, &amp; said,
+she wondred why men should take so much upon
+them, when one Woman is able upon her owne
+knowledg to bring ten of them, &amp; take them one
+after another, upon their knees;</nonSpeech><dialogue> therfore </dialogue><nonSpeech>said shee</nonSpeech><dialogue>
+adde this to the other, let women from hence 
+forward, if they be shreerish or shie, try it out with
+them at sharp, or if beetle-head and blockish, with
+blunter weapons.
+   </dialogue><nonSpeech>But Mistris <font>Dorcas Doe-little</font> , was out at that
+saying she loved her ease and quiet, and said, that the
+safest way (as he thought) was to sleep in a whole
+skin:</nonSpeech><dialogue> yet </dialogue><nonSpeech>saith she,</nonSpeech><dialogue> my husband is a Gamester, and
+as he games abroad, so I play at home: if hee bee at 
+<pagebreak id="B1R" />
+bowles and kisse the Mistris, I can for recreation
+play at rubbers with his man: when he hath beene
+all the day at passage, &amp; hazard, at night he comes
+home, and playes with me at Doublets, 
+Barramesace, and Back-gammon, but I am sometimes even
+with him, for when he with his sweet-hearts 
+ventures his state at the hole, I with his servant can
+passe away the time at In and In: </dialogue><nonSpeech>after spake Mistris
+<font>Rachel Rattle-a-pace</font> , and said,</nonSpeech><dialogue> as I hold Mistris
+<font>Dorcas</font> , that lawfull which you doe, so I hope, that
+I bringing my sack to the mill, it may be ground
+among the rest: that is, when our hausbands trouble
+us, we may likewise torment them: if they fret, wee
+frowne: they grudge, we grumble, they prate, we
+glout, they crosse, wee curst; if they bend their
+browes, we may bend our fists; and be they never
+so outragious, we to carry no coals in any case.
+   But let it then be added </dialogue><nonSpeech> (saith shee that sate
+next) </nonSpeech><dialogue> that no reconcilement without some
+reward, and no pardon may be granted without
+a new gowne and Peticoate; which if demurr'd
+upon, at the first or second demand, it shall bee in
+her choyce to aske him the third: and if he cog and
+offer to kisse you, and tell you that he will kisse
+you, bid him take you about the middle and kisse
+the heaviest end: or if he faile, she may reade him a 
+<comment type="compiler">SOURCE TEXT: a-</comment> 
+<font>Juniper Lecture</font> , as far as the scope of her invention,
+<font>or the scarcitie of breath will give her leave</font> . Or if hee
+notwithstanding all this, be pevish and perverse,
+she may also continue proud and peremptory, till
+she raile him into reconcilement, and make him
+<pagebreak id="B1V" />
+provide a feast to entertaine her Gossips, and make
+his peace that way. </dialogue><nonSpeech>And then said another taking
+the tale out of her mouth,</nonSpeech><dialogue> if she have a mind to take
+the aire, or walke to Green-goose Fair, or to any
+merrie meeting, or Market: if she desire his
+company, that hee new blacke his shooes, and put on his
+best hat and cloake to wait on her thither, ushering
+her before, or take her gently by the arme, and
+lovingly to leade her: or if (for some reasos best
+known to her selfe) she would have his abscence,
+that he patiently put money in her purse, and stay
+at home without grumbling.
+   </dialogue><nonSpeech>All this while good orders and decrees, with a
+generall silence was observed, which after grew to
+a meere confusion: for the rest having much
+matter to utter, some got up to the tongues end, and
+had not the patience to stay the time, &amp; take their
+turnes: but all of these who had not yet spoke, 
+tumultuously breaking out into clamour, every one
+desiring to be heard first, and the morre they were
+heard, the lesse they were understood: one cryed
+out,</nonSpeech><dialogue> let not maides stay from marriage till they are
+troubled with the greene-sicknesse: </dialogue><nonSpeech>another said,
+that if their husbands revelled in the Hall, they
+might rule in the Kitchin: &amp; if they offered to
+domineer, they might spoyle their meate in dressing:
+a third, that if their husbands came home drunke, 
+they might lock them ought of doors, &amp; whilst she
+tooke her rest in her Cabbin, leave him to take up
+his lodging in the kennell: a fourth, that if they
+prated to be heard, they might poure a pisse pot on
+<pagebreak id="B2R" />
+their heads: and if after complaint were made, they
+might answer, they meant neither murthur nor
+manslaughter, but what they did, was <font> <foreign>se defendendo</foreign> </font> :
+with many others, to as little or no purpose: by
+reason of which acclamation and noyse, the Session
+was for that time to be dissolved: but after an O
+yes silence being made, it was concluded amongst
+them, that with those Articles agreed upon, they
+should preasently passe from thence to the 
+Statehouse, and deliver up their grievances to them:</nonSpeech><dialogue>
+   But one thing we have forgot, </dialogue><nonSpeech>said they,</nonSpeech><dialogue> which
+is a main matter, that is, to seeke out cure for any
+old or young <font>Cuckolds</font> : </dialogue><nonSpeech>then spake Mistris <font>Dorothy
+Do-little</font> , and said:</nonSpeech><dialogue> my good man came home drunk
+the other day, and because I should not see him in
+that manner, he hid himselfe in the house of
+speciall Office, and their he began to ease his stomacke,
+and lay about him like a Hog, when he hath eaten
+so much that he is ready to burst: &amp; because I should
+not heare him: hee thrusts his head into the hole;
+and whether it was his large Asses eares, or his Bul
+necke, I cannot tell, but he could not get his necke
+out again, but needs must pull up the seate about
+his necke, so that he looked as if he had been on
+the Pillorie. </dialogue><nonSpeech>Upon which relation they all fell
+into a great laughter, and withall concluded that it
+was his Hornes.</nonSpeech><dialogue> For <font>Actaeon</font> </dialogue><nonSpeech>said they,</nonSpeech><dialogue> put his head
+out of the window well enough, but could not get
+it back again, which was long of his Hornes: this
+</dialogue><nonSpeech>said they,</nonSpeech><dialogue> is your husbands case. I pray you
+Mistris <font>Tattlewell</font> , </dialogue><nonSpeech>said she,</nonSpeech><dialogue> tell me, and the rest of our
+<pagebreak id="B2V" />
+sisters the cure and remedie for it <comment type="compiler">SOURCE TEXT: ti</comment> . Thus you   
+must
+doe </dialogue><nonSpeech> (said she) </nonSpeech><dialogue> my deare and loving sisters, because
+the effect lyes at the heart, &amp; the cause in the head,
+you must first remove the cause, and the effect will
+follow. <font>First, you must carry down the griefe by his
+Posteriors, which must be done by a medicine that will both
+purge and camfort him at one and the same time; for
+desperate diseases must have desperate cures: get I say, (I
+speake to you all, as well as to you</font> Mistris Doe-litle) <font>a
+gallon of the best</font> Pump-water, <font>such as will bear the
+Patentees Crowne-soape, for that will scour well, then set it
+on the fire in a brasse Skellet, and put therein a good
+large Bed-post, and let it boyle till it be dissolved to a
+jelly, then take it off the fire, and put three or foure sorts of
+spices in, as</font> Cloves, Mace, Nut-megs: <font>then take two
+or three ounces of</font> Suger-candy, <font>two ounces of the Sirrup
+or</font> Hearts-ease <font>and</font> dainty Content, <font>with an ounce of</font>
+Candid Forgetfulnesse, <font>and</font> Beter Conceit, <font>all this
+is cordiall: then when it is coole, put in a little</font> Rubarb,
+<font>a litle</font> Colaquintida, <font>a litle</font> Stibium, <font>and some grosse
+and</font> Long white Pepper, <font>then let it boyle softly, and
+when so done, the next morning let the patient man drink
+it next his heart, and keep him warm: but you must bee
+carefull that it be given him when the Moon is neare the
+full; not when she is forked or horned, lest you lose your
+labour and cost: for the Moon loves horned people, which
+are sometimes like her selfe: but when she is near the full,
+she is then indifferent, whether horned or not horned,
+all is one to her, and therefore may then best bee
+performed</font> .
+   Now the inward remedie being applyed, he must
+<pagebreak id="B3R" />
+then observe the outward meanes: he must conceit
+himselfe a Batchelour or widower againe, as he
+was at the first state when he came a wooing to her:
+the~ must he make himself a mourning suit &amp; cloak,
+&amp; walk as demurely and as sad, as if his Wife were
+dead indeed: he must likewise be so well conceited
+of himselfe, as if no such thing had ever beene or
+thought of: then he must refraine her company: &amp;
+the house where she is, eight or ten dayes together,
+then begin to enquire of her, as if she were a
+stranger to him, afterwards visit her, and then send her
+presents, and make much of her, then make good
+cheere, and when you are in a merry veine, aske
+her if she can love you? then will she say presently,
+yes, if you can affect her: then get a licence, and
+forthwith marry her: that beeing done, see then if
+any dear so much as point at you with their 
+fingers, or call you Cuckold as formerly they did, if
+they doe, then have you the Civill Law on your
+side to punish them there, &amp; an action at the
+Common Law for defamation, and their punish their
+purses and bodie too; and this is the only cure for
+old and new Cuckolds: and withall take notice,
+that this must bee done when the Moone is
+encreasing, and in the second quarter, for it will help
+their businesse forward, and cause them better to
+conclude their intended purposes: <omission type="line" />
+<pagebreak id="B3V" />
+<comment type="compiler">ONCE THE REMEDY FOR CUCKOLDS WAS DECIDED UPON, THE WOMEN
+TOOK THEIR DEMANDS TO THE SENATE-HOUSE. THE SENATORS 
+&quot;greatly condemned their Wives levity and inconstancy, but 
+indulgently commended the Lads silence and taciturnity&quot;.</comment>
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

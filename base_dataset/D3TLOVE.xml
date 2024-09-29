@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3TLOVE">
+  <dialogueHeader>
+
+    <filename>D3TLOVE</filename>
+
+    <identifier>3 TRIAL D3TLOVE</identifier>
+
+    <title>TRIALL OF MR LOVE</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1651/1652</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE WHOLE TRIALL OF M=R= LOVE, BEFORE THE HIGH COURT OF 
+JUSTICE IN WESTMINSTER HALL. 
+(...)
+PRINTED BY EXACT COPIES, OF THOSE WHO TOOK IT IN SHORT-HAND.
+ALL PUBLISHED FOR PUBLICK SATISFACTION.
+PRINTED IN THE YEAR, 1652.
+PP. 33.49 - 38.54  SAMPLE 1
+PP. 40.23 - 44.54  SAMPLE 2
+PP. 46.37 - 47.23  SAMPLE 3
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText> 
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="33" />
+<nonSpeech> <font>Major Adams is called into the Court, and sworn.</font> </nonSpeech>
+   <nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Declare your knowledge in this businesse?       
+</dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> Touching Alderman <font>Bunce</font> 
+and <font>Mason</font> , I know something by relation touching the            
+correspondency with them.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Tell the manner of it. 
+   </dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> I conceive it was carried on by <font>Mr.         
+Drake</font> , that 
+is now absent; and in <font>Scotland</font> , by one <font>Baily</font> .
+<pagebreak id="34" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat do you know of <font>Mason</font> , and of       
+letters sent by him? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> <font>Mason</font> I do 
+know, and I do know he did receive letters.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> From whom? </dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> He said, from   
+my Lord <font>Piercy</font> .
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> To whom were those letters communicated here? 
+</dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> They were 
+communicated to <font>M. Drake</font> , and by <font>M. Drake</font> , to my selfe,    
+and <font>M. Alford</font> , and <font>C. Potter</font> , and <font>C. Far</font> .
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVas <font>M. Love</font> privie to it?                
+</dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> I cannot say that, my Lord.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVere there not letters sent to <font>Scotland</font>  
+to them, and back again hither, about sending 
+moderate propositions to the King? </dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> There was     
+such letters.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> VVho writ them? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> That I     
+cannot tell. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Had <font>Mr. Love</font> a hand in 
+them? </dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> I cannot say he had. I cannot prove a      
+negative, I cannot say he had not.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What know you of the petition sent to the     
+King? </dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> I know nothing of it, 
+only I was told of it. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Who told you of it?         
+</dialogue><nonSpeech> <font>M. Adams.</font> </nonSpeech><dialogue> I cannot my Lord fix it upon 
+any particular man, but I believe I was told of it by <font>Alford</font> ,   
+or <font>Far</font> , or <font>Bains</font> ; for I was not there at 
+that time. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What do you know about the meeting at   
+the <font>Swan</font> at <font>Dowgate</font> ?
+   </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> My Lord I was not there. </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue>  
+Then my Lord, he may tell you what he doth know?
+   </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> My Lord, upon our meeting in some place or   
+other, I cannot tell where, I cannot tell 
+the time, nor the place, but either at the <font>Swan</font> in               
+<font>Fish-street</font> , or at the <font>Swan</font> at <font>Dowgate</font> , or in 
+<font>Cat-eaten street</font> ; in one of these three places, I cannot        
+punctually remember.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Who was at that meeting? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue>  
+Mr. <font>William Drake</font> , Captain <font>Titus</font> , Major 
+<font>Alford</font> , Captain <font>Far</font> , Captain <font>Potter</font> , and my selfe;    
+and I do not know how many more, or whether 
+any more, or no. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What past there?                  
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> It was there agreed, that Captain <font>Titus</font> 
+should go over to <font>Jersy</font> . </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What was he        
+imployed about? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> The end of his 
+going, was to endeavour to work an agreement between the King and    
+<font>Scots</font> , according to the Covenant. 
+That was the end that was propounded. And in order to his going, wee 
+did agree to furnish 
+him with money for the present, and made some kind of promise to     
+maintaine him while he was 
+out. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What money was he furnished with?           
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I cannot be punctuall in that, but 
+about a hundred pounds. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Who should pay it?       
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I paid twenty pounds of 
+it, but I cannot tell who paid the rest. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> To whom 
+did you pay it? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> To <font>Mr. Drake</font> .
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, Ask him whether when this was sent   
+to <font>Jersy</font> , was there not a return made?
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Well, go on, There was your twenty pounds      
+gone? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> This is the substance 
+of what I can say of his going. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was this twenty  
+pounds that you laid out of your owne, 
+or did you collect it of some of the rest, or did you gather any of  
+it again? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I cannot 
+say that I did. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Did you not? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue>  
+My Lord, I tell you the truth, I doe not know 
+whether I did, or no: for I remember it was determined that we       
+should gather it at that meeting?
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did not <font>Mr. Love</font> know of the collection?   
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I cannot say he did, it may be, 
+he might, but I dare not say upon my oath, that he knew of it.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Ask him what return <font>Titus</font> made, what      
+answer, and what account he gave?
+   </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> <font>M. Alford</font> went to <font>Calice</font> to meet     
+<font>Titus</font> , and <font>Titus</font> did send word that the Councell of
+State heard of his being there, and thereupon desired that some body 
+might be sent over to him; for 
+he had something to communicate which he could not well do by        
+writing, and thereupon <font>Mr. Alford</font> 
+was sent. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, Ask him where the letter was  
+read? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> The letter that 
+<font>Titus</font> sent, was read by Mr. <font>William Drake</font> .                  
+</dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Where? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> At his house, as I 
+think, for I cannot certainly remember, I did not say, upon my       
+Examination that it was read any where.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Whether were not you moved to go?             
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> There was some motion to that end.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> VVho moved it, and where? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue>  
+VVho moved it, I cannot tell; it was moved, 
+I think, in <font>Mr. Loves</font> Chamber. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was           
+<font>Mr. Love</font> there? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> He was there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did <font>Mr. Love</font> move it?                     
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I cannot say he did.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> He will not say it? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> I      
+cannot say it upon my oath.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, so much he saith, that it was moved  
+in <font>Mr. Loves</font> chamber, then he may give 
+you an account of <font>Mr. Alfords</font> return, and where the account was  
+given? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> The returne 
+of <font>Mr. Alfords</font> account was given at <font>Mr. Loves</font> house.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> VVhat was it? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> The return   
+he made in generall was by a 
+Narrative, and 
+a copie of a letter from the King: there was with the Narrative that 
+which was said to be the copie
+of a letter from the King. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What was the substance  
+of that letter? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> The
+<pagebreak id="35" />
+contents of the letter, as I remember, was first, he exprest a great 
+deal of affection to the Ministry of 
+<font>England</font> in generall, and promised great favour when he was in a  
+condition to do it, and desired them to 
+continue stedfast in the way they were in. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was   
+this letter published at <font>Mr. Loves</font> 
+study?
+   </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> It was read. </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Was          
+<font>Mr. Love</font> there? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> Truly, to be positive, that 
+<font>Mr. Love</font> was there, I dare not say; but <font>Mr. Love</font> was there   
+at that meeting, either at the beginning or 
+ending, but whether the letter was read at Mr. <font>Loves</font> house, I    
+dare not swear; the Narrative from <font>Titus</font> , 
+was a very long one, and very well drawn, I cannot give an account   
+of it now: the whole of it was 
+after this manner; To give an account to us of all the transactions  
+that had happened since his going 
+out of <font>England</font> , he did give an account of his usage by the      
+Cavalier Party, that was against the Kings 
+agreement with the <font>Scots</font> , because there was some did incline to 
+his agreement with them, and there 
+was another party was much against it, and he gave a very large      
+account of that: after that he went on 
+describing his disposition and condition.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> This was the substance of the rest. Was there 
+not some propositions for giving of thanks 
+to <font>Titus</font> , for his so wel managing his affairs there?            
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> There was a motion made by some body.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Who made the motion? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> I      
+cannot tell.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not an hundred pounds more to be sent     
+agreed upon there? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> I think so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> There was more money contributed; who agreed  
+to lend any? </dialogue><nonSpeech> <font>Adams?</font> </nonSpeech><dialogue> Sir, To 
+that question, I cannot say, who propounded it; but that there was   
+money sent.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Who contributed? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> I did my   
+share.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> How much was that? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> As I    
+remember, ten pounds.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> To whom did you pay it, and where did you pay 
+it?
+</dialogue><nonSpeech> <font>Then they shewed him his Examination.</font> </nonSpeech>
+   <nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Come, look upon it, and be well advised.        
+</dialogue><nonSpeech> <font>Adams looks upon his Examination.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> I paid it to Mr. <font>Drake</font> at his fathers     
+shop in Cheap-side.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Next about the Commission and instructions to 
+be sent, what do you know of that?
+when this letter was read from the King, and published in Mr.        
+<font>Loves</font> study, whether was there not a 
+Commission agreed upon, to give instructions to treat with the King  
+at <font>Bredah</font> ?
+   </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> There was a motion made at Mr. <font>Loves</font>      
+house, that there should be a commission and 
+instructions drawn and sent; the motion was made at <font>Mr. Loves</font>    
+house, they were there spoken of.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> By whom, who did the Dialogue run between? Did  
+<font>Mr. Love</font> do it?
+   </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> Truely, for my part, I did not then take such 
+speciall notice, that I dare at this time 
+upon my oath, deliver any thing positively against any particular    
+man, but generally all spake 
+something, as I remember. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there any debate   
+to mend the instructions? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Truly, 
+Sir, not as I remember. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did not <font>Mr. Gibbons</font>  
+bring the rough draft of the Commission?
+   </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> Truely, I think he did, as I remember he did, 
+I have spoken of the Comission 
+and instructions that were debated then and there, and that many of  
+these persons here mentioned,
+were there; but that some of them mentioned, might not be there      
+then, is very likely.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was Mr. <font>Love</font> there? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue>  
+That he was there some part of this time, I am very 
+confident. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Was it in his study?                    
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> It was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there a Commission agreed upon to be      
+sent? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> For the word <font>agreed</font> , I 
+cannot tell what to say to it; Agreed, holds forth as if a vote      
+passed.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Was there not a generall consent?               
+</dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> Being upon my oath, I desire to be 
+cautious, for I must be tender in speaking the truth in this case,   
+and I do not know what to make of the 
+word <font>agreed</font> . </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Was it approved of?              
+</dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> To my understanding the thing was thus, 
+that at such meetings as these, we were not absolutely formall, as   
+if we had been established by a Court 
+of Justice, to act thus, and that there should be prefaces, and such 
+things, or such methods observed, as 
+that any man undertook to make a preface, either at the beginning,   
+or conclusion, but it was spoken to 
+by many persons, and by every person spoken to, and in this sense it 
+was agreed.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Were there not instructions agreed upon, and  
+all this in <font>M. Loves</font> study? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> It was so.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Were they not read there? </dialogue><nonSpeech> <font>Mr. Adams.</font> </nonSpeech><dialogue> 
+I think they were.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Who read them? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> I cannot     
+tell who read them, but they were read, and I think 
+Mr. <font>Drake</font> read them </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What was the contents of 
+the Commission? </dialogue><nonSpeech>Mr. <font>Adams.</font> </nonSpeech><dialogue> The 
+contents or the substance of the Commission was to this effect.      
+</dialogue><nonSpeech> <font>This he reads out of his Examination.</font> </nonSpeech><dialogue>
+We the Presbyterians of <font>England</font> , do authorize you the Lord      
+<font>Willughby</font> of <font>Parham</font> , <font>Edward
+<pagebreak id="36" />
+Massey</font> , <font>Richard Graves</font> , <font>Cilas Titus</font> , and <font>James        
+Bunce</font> , to assist our Brethren, the <font>Scotch</font> 
+Commissioners in their Treaty with the King, according to the        
+instructions annexed; I dare not swear 
+it in these words, but to this purpose it was; The substance of the  
+instructions were to use all 
+the arguments they could to move the King to give the <font>Scotch</font>     
+satisfaction, and to take the 
+Covenant; such arguments were mentioned, as the then condition of    
+affaires best afforded, 
+particularly how things stood in <font>England</font> at that time: which did 
+all of them cry out for an 
+agreement, and gave them full power as to all things, and what       
+should be concluded by them, should 
+be confirmed by these here; but I cannot say so, but what words      
+were, were to this purpose, saving 
+this conclusion, that what was concluded, should be confirmed here,  
+I do not remember that.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not some debate by what warrant     
+they should act in this Commission 
+and instructions? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> There were some such words at the 
+meeting.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What did Mr. <font>Love</font> say? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I   
+cannot remember what <font>Mr. Love</font> did say, or 
+whether he said any thing or nothing at that time, but that there    
+were such words said, I have said 
+it, but by whom, I cannot fix it upon any particular person.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was it not debated by what warrant they       
+should derive power to themselves to send this 
+Commission? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> There was such language, but by whom, I 
+cannot say, I thinke 
+by <font>William Drake</font> . It was because the King had writ this letter, 
+wherein he desired there 
+should be such instructions; there was something spoken of the       
+secluded members, but by whom, 
+I do not know; there was a Proposition whether the authority should  
+be taken from the secluded 
+Members, or from some other. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did not Mr.         
+<font>Love</font> then say, Come, let it go on. </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> I dare not say  
+so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was it not propounded at the meeting to write 
+to the Queen, and to <font>Jermine</font> , and 
+<font>Piercy</font> , for them to mediate with the King to agree with the     
+<font>Scots</font> .
+</dialogue><nonSpeech> <font>Adams's Examination was here againe read.</font> </nonSpeech>
+   <nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> My Lord, So much of this, as I think to be true, 
+I shall own.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not a letter writ from <font>Piercy</font> , 
+that a considerable summe of money was 
+fit to be sent to the King, and what answer was given; was it not to 
+be done till the King and 
+<font>Scots</font> should agree, and then to raise the money?                 
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> That there was such a 
+letter writ, I must needs acknowledge.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Where was it read? at Mr. <font>Love's</font> house?   
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> No certainly, I onely 
+saw it in <font>Mason's</font> own hands, and I remember he shewed it me.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Next ask him whether there was not a letter   
+written about <font>August</font> last to some here, 
+that <font>Massey</font> had back friends in <font>Scotland</font> , complaining he    
+could not be promoted there? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I 
+did understand there was such a letter, but by what way, I do not    
+know.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Was not the letter communicated at M.          
+<font>Loves</font> house, and were not you present when this letter 
+was read at Mr. <font>Loves</font> house, wherein <font>Massey</font> complained he    
+had back friends in <font>Scotland</font> ? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> No 
+certainly, that letter was not to my remembrance read there, I heard 
+of such a letter, but saw it not.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, ask him whether he was not appointed 
+to draw up some letters. </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> There 
+were some I should have had a hand in drawing. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue>   
+Who were appointed with you. </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> As 
+I remember, Captain <font>Potter</font> , Captain <font>Massey</font> , and Mr.        
+<font>Gibbons</font> . </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> But was there no meeting 
+upon it, was <font>M. Love</font> named? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Mr. <font>Love</font> was    
+not named. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not one 
+<font>Sterks</font> a <font>Scotch</font> Agent here, that kept intelligence from      
+<font>Scotland</font> ? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I know, there was 
+such a one, we took to be an Agent here. </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Did he   
+meet at your meetings? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> Yes, he 
+did meet sometimes. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was he at <font>Mr. Loves</font>      
+house at any time? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> That he was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> When the Act came forth for banishing the     
+<font>Scots</font> , was there not a collection for his 
+charges, and were not you at <font>M. Loves</font> house when it was agreed   
+to? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I was not.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did you contribute money? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I  
+did contribute 10 or 12s. I cannot tell which.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What discourse upon <font>Dunbar</font> fight was      
+there from this person that is already spoken of?
+   </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> This is the thing, if you please to help my      
+memory; for there were so many particulars in this 
+correspondency, that I cannot tell whereabouts it is I am to speak   
+to, I am very uncertain where 
+abouts it is I am <comment type="compiler">SOURCE TEXT: a I m</comment> to speak to.                
+</dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Speak the certainty as it was in your breast.      
+</dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> My Lord, if 
+it be doubtfull to me, how can I be certaine, and charge it upon my  
+memory? </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Speak the 
+truth? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I will speak the truth. </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue>   
+Do so then? </dialogue><nonSpeech> <font>Here again Adams looks upon his
+Examinations.</font> </nonSpeech> <nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> There is some of it I did set    
+down, that I dare not own upon my oath, I 
+then did deliver it so when I set it down.
+<pagebreak id="37" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did Mr. <font>Love</font> know that this <font>Scotch</font>    
+man was the <font>Scotch</font> Agent? did you not take 
+notice that Mr. <font>Love</font> took notice of him? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I do   
+think he did, as farre as I understand, he did.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did not Mr. <font>Love</font> generally tell you the   
+cause of the meetings? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> No Sir.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did you not hear Mr. <font>Love</font> say, that this  
+<font>Sterks</font> was the <font>Scotch</font> Agent? </dialogue><nonSpeech> <font>Adam.</font> </nonSpeech><dialogue> I 
+never heard Mr. <font>Love</font> say so, but I knew this, that by our usuall 
+meetings Mr. <font>Love</font> did understand 
+him as I did, to be the <font>Scotch</font> Agent.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> How often did you meet at Mr. <font>Loves</font>       
+house? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot tell, it may be 
+seven, or eight, or ten times; an uncertain time.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> He was at Mr. <font>Loves</font> study?                 
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Whether so many times, I know not.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, ask him whether it was not at Mr.    
+<font>Loves</font> study when mony was 
+propounded to be raised for <font>Massey</font> , and <font>Titus</font> .             
+</dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Was that in Mr. <font>Loves</font> study? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> I  
+cannot tell 
+whether it was in his study, or in the lower room, I am apt to       
+believe it was in the lower room.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was Mr. <font>Love</font> there? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue>      
+Certainly, he was there.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What was the contents of the letter?            
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> The contents of the letter I cannot 
+remember. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Whether did it not declare the poverty 
+of his condition? And was it not 
+after <font>Dunbar</font> fight? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Yes, it was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was this letter from <font>Massey</font> , read at     
+Master <font>Loves</font> house, was this for money? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> It was.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Was it agreed for money to bee raised?         
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> If you take the word 
+<font>agreed</font> , as I formerly propounded, it was so. 
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> How was the money to be raised, and in what   
+manner? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> It was by 
+those that were privy to the contribution.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not Mr. <font>Love</font> there, and did not he    
+write down the sums that were to be 
+contributed? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> This I must needs say, that Master     
+<font>Love</font> had papers in his hand, and hee did 
+write something, but I did not see what he did write, and every man  
+did write that was there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did not you conceive so, that Mr. <font>Love</font>    
+summed up every mans sum? did he put the 
+letter of their names before them, when he writ the sums?            
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot say that.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not there a letter penn'd by Master       
+<font>Love</font> , and Doctor <font>Drake</font> ? </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> To that 
+question, I must say there was a letter, but I cannot deliver it     
+upon my oath that it was penn'd by Master 
+<font>Love</font> , or Doctor <font>Drake</font> , but it was taken to be so, and I    
+thought it was so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> To whom was that letter directed?             
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot tell to whom.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> To whom was it declared to be directed? to    
+whom was it declared to be written?
+   </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> To the Generall Assembly and Kirk of             
+<font>Scotland</font> .
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Was this at Mr. <font>Loves</font> house too?            
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> It was so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was <font>Mr. Love</font> present, and did approve of  
+it? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Mr. <font>Love</font> was present at 
+some time of this meeting: the reason why I thought it to be of      
+Master <font>Loves</font> , or Doctor <font>Drakes</font> 
+drawing, was nothing but meerly the language of it, it being in      
+order to promote the ends of the 
+Covenant, and all the whole language was couched to that purpose,    
+and taking notice of the want 
+of respect to <font>Massey</font> , and the <font>English</font> , and of their being  
+beaten.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, This is very high; for he tels you   
+this letter was approved of, and directed to 
+be sent, and this was after <font>Dunbar</font> fight, after we were ingaged  
+in bloud.
+</dialogue><nonSpeech> <font>Here Adams read out of his Examination, as followeth</font> :</nonSpeech>      
+<nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> There was also 
+a large letter in the nature of a Declaration penn'd by Master       
+<font>Love</font> , and Doctor <font>Drake</font> , and 
+approved of by most of the Presbyterian party, Ministers, and        
+other, and directed to the Generall 
+Assembly, and Kirk of <font>Scotland</font> , subscribed by none, which       
+contained the substance of what was declared by 
+<font>Titus</font> , and <font>Massey</font> , but durst not promise any great sums of 
+money till they appeared more 
+considerable, and grew nearer action; the businesse required higher  
+spirits then was for the present, and 
+the businesse required a considerable summe: but to leave no means   
+un-attempted when the businesse 
+was feasable. </dialogue><nonSpeech> <font>So far he reads.</font> </nonSpeech>
+   <nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Major <font>Adams</font> is now upon his oath to tell  
+you. </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> My Lord, As well as I 
+remember, it did put forth much after this sort, but I cannot swear  
+it in these words, but that is the substance of it.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not this agreed and declared at           
+<font>Mr. Loves</font> house, that such a letter should be written to 
+the Honourable Committee, and to the Kirk. </dialogue><nonSpeech> <font>Ad.</font> </nonSpeech><dialogue> I answer,   
+that after the same manner as all other 
+things are agreed at such meetings as this is, but I have no ground, 
+and do not know why I should 
+say Master <font>Love</font> and Doctor <font>Drake</font> penn'd it.
+<pagebreak id="38" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Ask him for the substance of the letter,      
+whether it were not as he hath told you, and 
+whether he did not say, they could not promise a considerable sum of 
+money. </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Certainly, 
+either in that letter, or some other, there was some such expressions.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> VVell, it was about that time, and in that       
+letter, or in some other letter, and at M. <font>Loves</font> 
+house. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, Ask him if there was not an      
+Agent come from <font>Scotland</font> , and a way laid 
+at <font>Kendall</font> for a correspondency between these Gentlemen here,    
+and some of <font>Scotland</font> , and whether 
+one <font>Groves</font> was not sent thither? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> That was       
+something obscure; that there was such a thing, 
+I do verily believe, because it went amongst us for a truth, but how 
+to make it out for a truth upon my 
+oath, I cannot tell. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Did <font>Mr. Love</font> know of it?  
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I do not know.
+   </dialogue><nonSpeech> <font>Att Gen.</font> </nonSpeech><dialogue> Ask him what he knows concerning Colonel       
+<font>Bamfield's</font> man coming hither?
+   </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Concerning that I know nothing, but I confesse I 
+had some <font>Item</font> , that at that time there 
+was something found; and this is all I can say to that, I cannot     
+guesse the time.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was it after the fight at <font>Dunbar</font> ?        
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Yes, that it was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Were the meetings at <font>Mr. Loves</font> house?     
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot say all, but all that I know of, were.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Ask whether upon the large letter, <font>Massey</font> 
+did not write that things were well setled in 
+<font>Scotland</font> ? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Many of these things were understood 
+so, and taken for granted amongst us, but I 
+can say no otherwise, I thought it to be so; but I know not.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Were you not present, or at <font>Mr. Loves</font>     
+house, when these letters were read, that they were 
+in a hopefull condition? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot say so.           
+</dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> What can you say? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> As before, 
+That it went for a truth amongst us, and that is as much as I can    
+say to it.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not a large letter inviting your    
+friends to union? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I 
+understand the other letter to be this you propound to me now.       
+</dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Now we speak of a letter 
+from Alderman <font>Bunce</font> , and others? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I cannot      
+speak particularly to that; for I did not see 
+them, but they were told me by one or other of those that were of    
+the correspondency, and this is all I 
+can say. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> What is the truth? Doe you conceive it is 
+so?
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, we shall not trouble him with that,  
+my Lord. Ask him one question more, 
+What did <font>Mr. Love</font> tell you, that if the Presbyterians got the    
+upper hand again? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> Those 
+words, I think, did but amount to this, that if the Presbyterians    
+were in armes again, by the blessing 
+of God, the Cavaliering party might be prevented from getting the day.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Who do you mean by the Correspondents?         
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> By correspondents I mean <font>Alford</font> ,
+<font>Potter</font> , <font>Far</font> , &amp;c. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Was not Mr. <font>Love</font>    
+one of them? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I took him to be so, my Lord.
+   </dialogue><nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> My Lord, I pray ask him, whether any of these  
+pretended or supposed letters, were ever 
+received by me, any one of them, or that I writ one of them, or      
+mended one of them. </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I 
+cannot say that ever I saw him do any such thing, nor did I ever see 
+him write any.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> But you saw the letters there? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> 
+That I have said.
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> Ask him whether I gave my consent to the      
+sending away of this he calls a commission, 
+and instructions, about the time of the Treaty at <font>Bredah</font> .       
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> No, I will not swear that, 
+and upon my oath I cannot. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Will you not, I will    
+presse you to nothing, you said even 
+now, you did not know he did send them away, but you did say, he was 
+privy to them, and to the 
+debates of them: did he declare any dissent? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I      
+cannot say that.
+   </dialogue><nonSpeech>M. <font>Love.</font> </nonSpeech><dialogue> Will you ask him this question? Whether he read 
+the letters that he pretends were sent
+into <font>England</font> , or <font>Scotland</font> , or whether he heard them read?
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> That he swears? </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I did not      
+swear that these were the contents of them exactly. 
+I was there when these letters were read.
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> He onely heard them read. </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue>   
+If there were halfe a score that had 
+correspondency, and received letters, and come together, and one of  
+the most confiding men read them, will any 
+man say, that he will not believe these were right read, such a      
+hear-say as this, is such a hear-say as 
+you may take notice of. </dialogue><nonSpeech> <font>M. Love.</font> </nonSpeech><dialogue> But let him prove how it  
+was a correspondency on my part.
+   </dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> I did not say that <font>Mr. Love</font> was one of the   
+Correspondents, I deny that I said so, I said 
+I conceived him to be so, but that is not, that he was so.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> They did debate together, and met together,    
+and received instructions, and therefore he 
+may very aptly conceive he was a Correspondent?
+   </dialogue><nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> Doth he swear that J assented?                 
+</dialogue><nonSpeech> <font>Adams.</font> </nonSpeech><dialogue> J did not swear so?
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> He saith, money was sent to <font>Titus</font> , pray  
+ask him whether by Agents J imployed?
+
+</dialogue>
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="40" />
+   <nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Declare now what you know of this businesse.
+   </dialogue><nonSpeech>Mr. <font>Jaquel.</font> </nonSpeech><dialogue> My Lord, for the paper I was examined about, 
+as for knowing <font>Titus</font> , I never saw him 
+in my life but one quarter of an hour in a private house, and I knew 
+nothing of his businesse any where. 
+For the other, <font>Alford</font> coming over with letters, I was at Mr.     
+<font>Loves</font> house, and when I was there, there 
+was severall men there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> In what part of Mr. <font>Loves</font> house?          
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I conceive in his chamber, for I went up to 
+severall that were there, whose names I can positively say, for two  
+or three of them, though I cannot 
+remember the other absolutely, though I conceive most I have named   
+in my examination were there; 
+<font>C. Potter</font> was there, and Doctor <font>Drake</font> , and M. <font>Alford</font> ,  
+and M. <font>Love</font> was there somtimes, though 
+divers times he went out, some coming to speak with him.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not a copy of a letter said to be   
+sent from the King, read there? </dialogue><nonSpeech>Mr. <font>Jaquel.</font> </nonSpeech><dialogue> 
+I remember no such thing.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there not a narrative. </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue>  
+Yes, from <font>Titus</font> , wherein he declared the Kings 
+inclinations to make peace with the <font>Scots</font> ; but that his wicked  
+counsell about him did hinder it.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not this of what <font>Titus</font> had related    
+from <font>Jersey</font> , the narrative of what had past between 
+him and the King there? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I think it was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was not M. <font>Alford</font> sent to receive an      
+account from him to <font>Calice</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> <font>William Drake</font> 
+did tell me so afterwards. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did M. <font>Alford</font>     
+deliver no account there? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I 
+think it was M. <font>Alford</font> read the narrative.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did he make no relation by word of mouth?      
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Truly, I cannot remember.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> You cannot remember it was read?               
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes, I am sure it was read, and at Mr. <font>Loves</font> 
+house. </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And he was present sometimes?              
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes, sometimes.
+   </dialogue><nonSpeech> <font>Att Gen.</font> </nonSpeech><dialogue> What mony was there agreed upon to be          
+provided for <font>Titus</font> ?
+   </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I know of none. It was moved by Captain         
+<font>Potter</font> that there might be forty pounds, but 
+I know of none, nor was it agreed by M. <font>Love</font> , M. <font>Drake</font> or   
+my self, that we should lay down any at all.
+<pagebreak id="41" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Did you not meet with <font>William Drake</font> , and 
+desire to go along with him to see 
+<font>Titus</font> ? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I did so, but I think <font>Drake</font>        
+desired it. I met him in <font>Newgate</font> market, and, 
+saith he, I am going to see <font>Titus</font> , goe along with me; I said, I 
+never saw him, nor did I know 
+him: sayes he, You shall not stay at all: whereupon he went and      
+found him in a Cheese-mongers 
+house in <font>New-gate</font> market.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What discourse had you? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> He   
+said, he was newly come out of <font>Holland</font> , and he had 
+been with the King, and he was a man of excellent parts for his      
+years, and that he was inclinable to 
+what was good, but that he had such desperate evill Counsell about   
+him; and that hee did much pity 
+him, and that his Clergie especially was wicked; and he propounded   
+nothing to us, nor did I ever 
+see his face afterwards, and this is about two years and a halfe     
+ago; and for any other 
+meetings at the Swan Taverne, or for any Agents, I never met him, or 
+saw him.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Doe you not remember at any meeting, that     
+there was money propounded for 
+Captaine <font>Titus</font> , or for <font>Alfords</font> being sent over to           
+<font>Calice</font> ? Speak what you know of that, and by 
+whom it was told you? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Major <font>Alford</font> himselfe    
+told me he was to meet his son, and 
+he went over upon that score; but after he was gone, <font>William       
+Drake</font> told me he was gone to see or 
+meet Captaine <font>Titus</font> , I am not certaine of the words; and when   
+he did come againe, which was 
+the next time I heard of him, then <font>William Drake</font> comes to me,    
+and desired mee to goe 
+along with him, for I think he went up and down to every man.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> You thinke then that <font>William Drake</font> was    
+the prime man. </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Yes, hee was 
+the Actor and the Agent that moved all.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> When <font>Alford</font> returned, he desired you to   
+go with him. </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> To Mr. <font>Loves</font> house.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat was done at <font>Mr. Loves house</font> ?       
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> There were some papers read, which 
+<font>Alford</font> , as I take it, read, or <font>William Drake</font> , I am not     
+certaine which; but read it was, of a 
+relation, that <font>Titus</font> came out of <font>Iersy</font> , and had seen the    
+King there, and the <font>Scots</font> Commissioners, 
+and that the King had a great inclination to agree with the          
+<font>Scots</font> Commissioners, and that he was 
+a man of excellent inclinations and parts, and had a great desire to 
+agree, but his Counsell, and 
+wicked crew about him would not let him; and he said, as I remember, 
+that the King was a kind 
+of a Prisoner with them there, and said, his Counsell did hinder     
+him, or else, if he were from 
+them, hee would agree with the <font>Scots</font> Commissioners.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> You say, this paper was read; this Narrative   
+was read, and in Mr. <font>Loves</font> house; was not Mr. 
+<font>Love</font> present? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I am not able to say hee was,    
+when I came in, I remember he was not in 
+the roome, and he was there two or three times while I was there,    
+but he was severall times called out.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Doe not you know there was an agreement of a  
+letter written back to <font>Titus</font> ?
+   </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I can remember no such thing, but I think       
+<font>William Drake</font> told me so, as I remember, 
+but that was two years ago, I do verily believe by what I conceived, 
+was of his writing.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> I could wish that mens consciences could not    
+bee scrupled to believe so much of a 
+Minister, more then of a Magistrate; I hold it pernicious doctrine   
+for any man to think he is bound 
+more to obey the Minister, then the Magistrate: I ask you then       
+before the Magistrate here, who
+was present at that meeting? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> <font>William Drake.</font> I  
+am sure, and Major <font>Alford</font> was there, 
+and Captain <font>Potter</font> , and severall others, as I remember, Master  
+<font>Ienkyns</font> .  
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> This was in <font>Mr. Loves</font> house, was it not   
+in his study? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I cannot tell that, 
+I say, as I conceive, that Master <font>Ienkyns</font> , and Master <font>Case</font>  
+were there, but positively I cannot say 
+it, and <font>Mr. Iackson</font> , and <font>Mr. Nalton</font> , I think.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat say you of Mr. <font>Watson</font> ?             
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I think he was there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat say you of Mr. <font>Herring</font> ?            
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I think he was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat say you of <font>Mr. Cauton</font> ?             
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> In truth, I cannot tell.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVhat say you of <font>Mr. Robinson</font> ?           
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I think he was.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What say you of <font>Mr. Drake</font> ?               
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> VVas Colonell <font>Vaughan</font> there?              
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Yes, I conceive he was there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was Master <font>Iackson</font> there?                 
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was Capt. <font>Far</font> , and   
+Capt. <font>Potter</font> 
+there? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I believe so. </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was Mr.   
+<font>Gibbons</font> there? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What say you of Mr. <font>Sterks</font> ?              
+</dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> No Sir, I do not know it.
+   </dialogue><nonSpeech> <font>Att.</font> </nonSpeech><dialogue> Did you not know him to be the <font>Scotch</font> Agent?   
+Was he not taken among you to be an 
+Agent from <font>Scotland</font> ? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Yes, he was a <font>Scotch</font> 
+man.
+<pagebreak id="42" />
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And for contribution of money, what money did  
+you pay, and to whom? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Two 
+five pounds to Mr. <font>Drake</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> For what use? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> For charitable 
+uses.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Then he asked it of you so, or for that        
+purpose; but afterwards, What did you learn it 
+was employed about? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Sir, he did not tell me how he 
+did employ this money; but afterwards, 
+I heard him say, that he had sent <font>Titus</font> money.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What did you contribute to <font>Sterks</font> his      
+going into <font>Scotland</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Ten shillings.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And who else did contribute, that was there?   
+and how much was the sum that was 
+collected? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I cannot tell.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> How much do you guess, or have heard?          
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Four or five pounds, I think.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Ask him who gave the Scotchmen money?          
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Truly, I did give several Scotchmen 
+money, both to poor Ministers and others, that were banished by the  
+Act, because I knew they were 
+very poor, and knew not how to get away; and I did it out of charity 
+towards them.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Because the State had an ill opinion of them,  
+therefore you had a good opinion of them.
+   </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> There was one Minister that had twelve children 
+that was banished.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Were you at any meetings at Mr. <font>Loves</font>      
+after <font>Dunbar</font> fight? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> No not I.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> At what Fast were you at, and who officiated   
+at those Fasts? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I was at Major <font>Adams</font> , 
+and Colonel <font>Bartons</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Who did exercise at those Fasts? was Mr.       
+<font>Love</font> , Mr. <font>Jenkyns</font> , Mr. <font>Case</font> , any of them?
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I believe they were, I conceive so, I profess I    
+cannot remember, I believe Mr. <font>Jenkyns</font> was 
+there.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Was not Mr. <font>Love</font> one of them?              
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes, he was.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What was the occasion of those Fasts?          
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I know no particular occasion, but for the 
+good of the two Nations.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> How do you know they were for the good of the  
+two Nations? was it not for an agreement 
+between the King, and the <font>Scots</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I confess,   
+it was for the Good of both Nations, as both 
+Nations are the Church of God; and do both profess themselves        
+Protestants, and of one Religion; 
+and I conceived, it was my duty to pray for the good of them both.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> But was there not some expressions for a 
+blessing upon the Treaty at <font>Breda</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I 
+cannot remember such expressions; for in such duties, I desire to    
+have my heart lifted up unto God:
+And, my Lord, it is a great while ago.
+   </dialogue><nonSpeech> <font>L. Pres.</font> </nonSpeech><dialogue> Will you say your heart is lifted up unto God, 
+when your understanding is in your heels?
+   </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> My Lord, I do not remember one passage in       
+prayer a week after.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> That is in ordinary meetings, but this was for 
+both Nations; but by what did you know, 
+that this was for the good of both Nations, and why was it pretended 
+to be for the good of both? 
+and, my Lord, why they should not meet before, but just at that      
+time, and at a private Fast? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I 
+think that since the Nations of <font>England</font> and <font>Scotland</font> were at 
+oddes, I have been at twenty Fasts.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> My Lord, ask him, whether he were not late     
+with <font>Potter</font> , and did not meet with him about 
+Letters from 
+<font>Bamfield</font> , and whither they went to read them? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> 
+This was about <font>February</font> or <font>March</font> 
+last, he told me he received Letters, and desired me to go along     
+with him to Mr. <font>Loves</font> , and after Dr. 
+<font>Drake</font> came in, and then these Letters were read; and I profess,  
+I know not from whence they came, 
+nor the man; and so did Mr. <font>Love</font> declare, That he never saw, nor 
+knew, nor heard of <font>Bamfield</font> 
+before.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did he not make mention of Parties in          
+<font>Scotland</font> , that one party was for the King, 
+another for the King and Kirk, a third neither for King, nor Kirk?   
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> But who were those he named, that were men for 
+the King? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I think, <font>Hamilton</font> and 
+his party. </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And who for the King and Kirk?         
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> <font>Argile</font> and <font>Leshley</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And who neither for King nor Kirk?             
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> <font>Straughan</font> and <font>Car</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What, did he tell you of the young Kings       
+escaping? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Something there was in that, 
+but he was fetched back again.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What said he of <font>Argile</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> 
+Nothing at all, as I remember.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Was there not an expression, That they were    
+now agreed to receive in the whole Nation, 
+unless it were those that were notoriously scandalous and            
+excommunicated? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I believe 
+there was.
+<pagebreak id="43" />
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did it not mention five thousand pounds for    
+providing of shipping? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes; in 
+the Narrative or Letter, whether there related at that time, I know  
+not.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And what mention was there made, who were fit  
+to command in <font>England</font> , if that party 
+should come from thence into <font>England</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I       
+conceive there was three Noblemen.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Name them. </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> My Lord of        
+<font>Suffolk</font> , my Lord of <font>Warwick</font> , and my Lord of 
+<font>Manchester</font> , or either of them.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> That was propounded                            
+<comment type="compiler">SOURCE TEXT: prepounded</comment> by <font>Bamfield</font> , but I    
+hope those Lords were more noble, then to do any 
+such thing: Was there not another Letter that came with that of      
+<font>Bamfields</font> , sent by my Lord of <font>Argile</font> , 
+and it was onely, That there should be an apbrobation of him: And    
+was this Letter likewise read at 
+the same time, and at the same place? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes, my Lord.   
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What was then propounded for money to be       
+raised for <font>Bamfield</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Truly, Captain 
+<font>Potter</font> did make mention for Forty pounds to be raised, Ten       
+pounds for Colonel <font>Bamfields</font> man, and 
+thirty pounds for <font>Bamfield</font> himself; but that business at the     
+reading was wholly declined, and absolutely 
+refused by all, to act any thing in that relation, in which it was   
+sent over; whereupon, Captain <font>Potter</font> 
+did move, that if nothing were done in that, whether it were not     
+convenient to send the Messenger 
+something to bear his charges; says he, If you will pay the          
+messenger Ten pounds, and send <font>Bamfield</font> 
+Thirty pounds, I will give the messenger the Ten pounds; but there   
+was no Agreement, nor 
+Conclusion, I know of, no Bill of Exchange that was sent, but        
+Captain <font>Potter</font> said, he would lay down Ten 
+pounds.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> But no body spake against Captain <font>Potters</font>  
+laying down of Ten pounds; and it was 
+propounded to you to lend Ten pounds, and you said you would         
+consider of it; but did <font>Potter</font> lend it?
+   </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I cannot tell that, my Lord, he said he would   
+do it.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> My Lord, let now Master <font>Jaquel</font> tell you    
+what was the cause, why they did refuse to do any 
+thing in the Letter about Five thousand pounds; what was the cause   
+upon the debate between you at 
+Mr. <font>Loves</font> house? why you did refuse to do any thing about the    
+Five thousand pounds? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> The 
+debate was soon over; for we absolutely refused it, we would not     
+meddle in it, not liking the business; 
+it was a trouble, I am confident, to them that heard it read.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> You do not remember that ever any body did     
+acquaint the Magistrate with the design in 
+working from <font>Scotland</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> No, not I.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did not some say, That <font>Bamfield</font> was a      
+malignant? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I cannot tell, but I never 
+heard of him before.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Were you not told he was a Cavalier, and of    
+the Kings side, and that that was the true 
+reason, why they would not trust him? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I do not     
+remember any such thing.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did Mr. <font>Love</font> agree for Ten pounds for      
+<font>Bamfields</font> man, and Thirty pounds for <font>Bamfield</font> ?
+   </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> No, I cannot say so.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Did not Major <font>Alford</font> tell you upon his     
+return from <font>Calice</font> , that he was sent thither to take 
+an account thence? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> He did not, but <font>William       
+Drake</font> did tell me, that he was gone to <font>Calice</font> to 
+speak with Captain <font>Titus</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And to take an account of the transaction at   
+<font>Jersey</font> . </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Truly Sir, I cannot say that, 
+but <font>William Drake</font> told me, he was gone thither to speak with     
+<font>Titus</font> ; and this is above two years ago, 
+that <font>William Drake</font> told me so.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> To what end? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> To tell and     
+hear news.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What did he do more? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I       
+profess in the presence of God, I cannot tell Sir, I 
+beseech you; for in the Paper I told you before, there were some     
+circumstances, and something that I 
+cannot say; but it was to this purpose, To speak with <font>Titus</font> , to 
+hear the news from <font>Jersey</font> , but I cannot say 
+certainly that word.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> We do not press you to the word, but to the    
+effect of it; my Lord, I think <font>Mr. Jaquel</font> hath 
+given an account already, that this relation was at <font>Mr. Loves</font>    
+house. <font>Mr. Jaquel</font> , let me bring one thing 
+to your remembrance, if it be true, At your meeting at <font>Mr. Loves</font> 
+house, upon this business of <font>Bamfields</font> 
+Narrative, you say, Thirty pounds was moved to be sent to            
+<font>Bamfield</font> , and Ten pounds to his man. 
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes, by Captain <font>Potter</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> And when it was then said, it was thought fit  
+by <font>Mr. Love</font> , <font>Mr. Drake</font> , and Captain <font>Potter</font> , 
+that it should be so done, whether did you not all agree it should   
+be so done? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> No, there was 
+no agreement, but it was thought convenient, or to that purpose.
+<pagebreak id="44" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> It was thought convenient by all the company  
+present? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> Truely Sir, there 
+was not much regard taken in that businesse, nor was there much      
+done; for we did not stay long, 
+but there were such words.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> But by all present? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> Yes,    
+there were such words.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Whether were not some friends at dinner at    
+<font>Dowgate</font> , and was not <font>Mason</font> there?
+   </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> My Lord, There was a Gentleman there, I cannot  
+say, who he was, nor did I see him 
+before or since.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Who did they tell you it was? did they not 
+tell you, <font>Mason</font> ? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I professe, I cannot 
+remember that, nor can I tell, but I conceive it was so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> In your Examination, you say it was           
+<font>Mason</font> . </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I said, I conceived so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Why did you believe so? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I   
+cannot tell, but as I remember, <font>William Drake</font> 
+told me, It was so.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Whether when <font>Bamfields</font> letter came, and   
+the letters from my Lord of <font>Argile</font> , 
+<font>Lowden</font> , and others came, Was there not a letter from            
+<font>Baily</font> ? </dialogue><nonSpeech> <font>Iaquel.</font> </nonSpeech><dialogue> I do not remember, my Lord.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Nor from the Generall Assembly?               
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I do not remember any such thing.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Bethink your self, you are upon your oath,    
+whether he that brought letters from <font>Bamfield</font> , 
+did not bring letters from <font>Baily</font> , and from the Generall         
+Assembly? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I cannot <comment type="compiler">SOURCE TEXT: cannnot</comment> remember 
+there was any such thing spoken of there.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there no expression of letters of thanks  
+for the good affection of the Presbyterian 
+party here, and encouragement to persevere? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> I do   
+not remember any such thing.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was there no promises, that when they by      
+their indeavours should get a free 
+Parliament in <font>England</font> , that they would re-imburse all that was  
+laid out </dialogue><nonSpeech> <font>Jaq.</font> </nonSpeech><dialogue> I do remember no such thing.
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> I would ask him some questions; and the first 
+is, whether he hath spoken this as a meer 
+relation, or whether he owns all this he hath spoken, as under an    
+oath?
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> We are past that my Lord, he did say, he was  
+under an oath.
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> If he say so, I am concluded. </dialogue><nonSpeech> <font>Mr. Jaquel 
+made no answer to this.</font> </nonSpeech>
+   <nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You have asked two questions in a few words:    
+for the first, whether he speak it under 
+an oath; you know, that time was spent to declare it before he       
+began: If you ask of his owne 
+knowledge, you mistook it; for he saith something he hath by         
+relation, and some that he knows: 
+this hee hath taken notice of, what should wee further examine over  
+the same thing; for he saith 
+some of his own knowledge, some by relation from particular parties, 
+and some from parties he cals not
+now to mind: and it was declared by the Court, that he was a         
+witnesse, and the Court accepted him.
+   </dialogue><nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> I desire your Lordship to ask him this         
+question, whether the supposed Narrative that 
+hee speaks of, that <font>Alford</font> said he brought over, and read at my  
+house, was read at my house; 
+or onely by <font>Alford</font> , and so brought over as news?                
+</dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> In truth, my Lord I cannot 
+tell that.
+   </dialogue><nonSpeech> <font>Mr. Love.</font> </nonSpeech><dialogue> He speaks of <font>Sterks</font> a <font>Scotch</font> man, I   
+desire your Lordship to know wether hee knows, 
+or can affirme by the oath you say he hath taken, that he was a      
+<font>Scotch</font> Agent. </dialogue><nonSpeech> <font>No answer to 
+that question.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> Sir, Ask him this question, he mentions a fast 
+at Major <font>Adams</font> , or Col. <font>Bartons</font> , 
+and that for the good of both nations; because he thought they were  
+the Church of God; whether 
+there was any intimation in that meeting, that it was under this     
+notion, for the good of both 
+Nations; whether that meeting was for the <font>Scotch</font> Nation to       
+invade the <font>English</font> Nation. </dialogue><nonSpeech> <font>No 
+answer to <comment type="compiler">SOURCE TEXT: to to</comment> that question.</font> </nonSpeech>
+   <nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> He said, (if I have taken him rightly, and if  
+not, I desire your Notaries to inform 
+me better) that Mr. <font>Love</font> did not agree to such a summe as forty  
+pounds, and afterwards hee 
+said, that all there said, it was convenient. Now I would ask how    
+these two can agree together?
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> You are right; for the thing of agreement he    
+disclaimed totally.
+   </dialogue><nonSpeech>Mr. <font>Love.</font> </nonSpeech><dialogue> Then I did not agree to it.
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> No, nor any else.
+   </dialogue><nonSpeech>M. <font>Love.</font> </nonSpeech><dialogue> But afterwards he sayes, that they did conceive 
+it was convenient; Now, I pray ask 
+him, how he knew that I thought it was convenient? </dialogue><nonSpeech> <font>Jaquel.</font> </nonSpeech><dialogue> 
+I cannot say any thing that Mr. 
+<font>Love</font> did say it was convenient; but it was not dissented from,   
+nor spoken against by any, as I 
+remember. </dialogue><nonSpeech> <font>Mr. Jaquel withdraws.</font> </nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 3">
+
+<pagebreak id="46" />
+<nonSpeech> <font>Captain</font> Far <font>is called into the Court, and is sworn</font> .</nonSpeech>
+   <nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, let him acquaint you with what       
+passed at the White Hart in <font>Breadstreet</font> . </dialogue><nonSpeech>Cap. 
+<font>Far,</font> </nonSpeech><dialogue> I desire the benefit of my Papers.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> At whose request did you come to the          
+white Hart in <font>Breadstreet</font> , and when was it?
+   </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> By <font>William Drake</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Was that the first time you were acquainted    
+with any thing of this nature, for carrying on 
+and prosecuting of an order, to the furtherance of an Agreement      
+between the <font>Scots</font> , and the King? 
+VVhat do you know of that, at what time was the meeting?             
+</dialogue><nonSpeech>Cap. <font>Far.</font> </nonSpeech><dialogue> It was about two years since.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> VVhat was the discourse at that meeting?       
+</dialogue><nonSpeech>Cap. <font>Far.</font> </nonSpeech><dialogue> It was the drawing up of some heads 
+of a Letter, which might be sent to <font>Scotland</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What was the effect of it? </dialogue><nonSpeech>Cap. <font>Far.</font> </nonSpeech><dialogue>  
+It was to this effect, to the best of my memory; for 
+it is so long since. </dialogue><nonSpeech> <font>Here Captain</font> Far <font>was at a stand, 
+whether through infirmity of speech (for he seemed to 
+be slow of speech) or otherwise, I cannot say; and he or the</font>       
+Attorney General <font>for him, made great use of the 
+Papers of his Examination</font> .</nonSpeech>
+   <nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> To desire them, the better to bring them to an 
+agreement, that there might be moderate 
+Propositions. </dialogue><nonSpeech>Cap. <font>Far.</font> </nonSpeech><dialogue> It was to moderate their desires in 
+the agreement, between the King and the <font>Scots</font> .
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> What to do? </dialogue><nonSpeech>Cap. <font>Far.</font> </nonSpeech><dialogue> That they might 
+abate of their demands.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> Of their former demands, that they might be    
+the more like to agree; was it not so? </dialogue><nonSpeech>Cap. 
+<font>Far.</font> </nonSpeech><dialogue> Yes, my Lord.
+<pagebreak id="47" />
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> Was it not propounded likewise, that some     
+should be sent to the King, to perswade him to 
+give satisfaction to the <font>Scots</font> ? </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> It was           
+propounded by <font>Titus</font> , but not approved of.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> But did you not agree to send to the          
+<font>Scots</font> that you did agree to, and were there not heads 
+which <font>Titus</font> , or <font>Drake</font> , did undertake to write, and         
+afterwards were drawn up? </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> I saw no letters.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> But did not <font>Drake</font> tell you he had sent    
+them to Master <font>Baily</font> in <font>Scotland</font> ? </dialogue><nonSpeech> <font>Captain Far 
+being at a stand, the Atturny Generall asketh him again.</font> </nonSpeech><dialogue> Did    
+not <font>William Drake</font> tell you, a letter was 
+sent accordingly into <font>Scotland</font> ? </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Yes he did tell  
+me, he had sent letters.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord, let him give you Lordship an account 
+before the Treaty at <font>Jersey</font> , where <font>Drake</font> 
+met with him, and what he propounded to him, whether to send to      
+<font>Jersey</font> , and what persons, and upon 
+what message? </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Mr. <font>Drake</font> did say, that Captain     
+<font>Titus</font> did say, It was requisite for one to be 
+at the Treaty at <font>Jersey</font> , and I had it from <font>Drake</font> , that     
+<font>Titus</font> did undertake to go himselfe thither.
+   </dialogue><nonSpeech> <font>Att. Gen.</font> </nonSpeech><dialogue> What was his imployment to be there, and what 
+money was to be raised for him? -- Did 
+he tell you he wanted money? </dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> After <font>Mr. Drake</font>      
+desired, I would help him to ten pounds, and 
+<font>Titus</font> was in want of money to relieve his necessities; and upon  
+this request I did leave ten pounds 
+in <font>Mr. Drakes</font> Ware-house.
+   <comment type="compiler">ATTORNEY-GENERAL SPEAKS:</comment> VVas <font>Drake</font> present?              
+</dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> I think he was, I was promised it again, but never    
+received it.
+   </dialogue><nonSpeech> <font>At. Gen.</font> </nonSpeech><dialogue> My Lord, Let him inform after this negotiation 
+of <font>Titus</font> was ended at <font>Iersy</font> , whether 
+there was not a letter written by <font>Titus</font> , and whether this was   
+not read in the presence of <font>Mr. Love</font> , and 
+some others, and whether at <font>Mr. Loves</font> or no?
+   </dialogue><nonSpeech>L. <font>Pres.</font> </nonSpeech><dialogue> Upon the ending of the Treaty at <font>Iersey</font> ,   
+and <font>Bredah</font> , were you not present at <font>Mr. Loves</font> 
+house, when it was signified from <font>Titus</font> , that it was not        
+convenient for him to come into <font>England</font> , 
+because he thought he was discovered to the Councell of State, and   
+desired some body to be sent to 
+<font>Calice</font> to take an account there of his negotiation?              
+</dialogue><nonSpeech> <font>Far.</font> </nonSpeech><dialogue> Yes, my Lord, I was there.
+
+
+
+</dialogue>
+    </sample>
+  </dialogueText>
+</dialogueDoc>

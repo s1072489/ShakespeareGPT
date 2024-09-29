@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4WDEVON">
+  <dialogueHeader>
+
+    <filename>D4WDEVON</filename>
+
+    <identifier>4 WITNESS D D4WDEVON</identifier>
+
+    <title>THREE WITCHES</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1682</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="WITNESS-DEPOSITION">Witness deposition</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>A TRUE AND IMPARTIAL RELATION OF THE INFORMATIONS AGAINST 
+THREE WITCHES, VIZ. TEMPERANCE LLOYD, MARY TREMBLES, AND SUSANNA 
+EDWARDS. WHO WERE INDICTED, ARRAIGNED, AND CONVICTED AT THE ASSIZES 
+HOLDEN FOR THE COUNTY OF DEVON AT THE CASTLE OF EXON, AUG. 14. 1682. 
+WITH THEIR SEVERAL CONFESSIONS, TAKEN BEFORE THOMAS GIST MAYOR, AND 
+JOHN DAVIE ALDERMAN OF BIDDIFORD IN THE SAID COUNTY, WHERE THEY WERE
+INHABITANTS. AS ALSO THEIR SPEECHES, CONFESSIONS, AND BEHAVIOUR, AT
+THE TIME AND PLACE OF EXECUTION ON THE TWENTY FIFTH OF THE SAID MONTH.
+LONDON: PRINTED BY FREEMAN COLLINS, AND ARE TO BE SOLD BY T. BENSKIN, 
+IN ST. BRIDES CHURCH-YARD, AND C. YEO BOOKSELLER IN EXON. 
+1682.
+PP. 7.1 - 9.20  SAMPLE 1
+PP. 30.1 - 34.6 SAMPLE 2
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+
+
+    <sample id="SAMPLE 1">
+
+<pagebreak id="7" />
+ <head>DEVON. <font>SS.</font> BIDDIFORD <font>SS.</font> <font>THE INFORMATION OF</font> GRACE      
+THOMAS <font>OF</font>
+BIDDIFORD <font>IN THE COUNTY AFORESAID
+SPINSTER, TAKEN UPON HER OATH THE
+3D DAY OF</font> JULY, <font>IN THE 34TH YEAR OF
+THE REIGN OF OUR SOVERAIGN LORD</font>
+CHARLES <font>THE SECOND, BY THE GRACE OF
+GOD, OF</font> ENGLAND, SCOTLAND, FRANCE
+<font>AND</font> IRELAND <font>KING, DEFENDER OF THE
+FAITH</font> , &amp;C. <font>BEFORE US</font> THOMAS GIST
+<font>MAYOR OF THE BURROUGH, TOWN, AND
+MANNOR OF</font> BIDDIFORD <font>AFORESAID, AND</font>
+JOHN DAVIE <font>ALDERMAN, TWO OF HIS
+MAJESTIES JUSTICES OF THE PEACE
+WITHIN THE SAME BURROUGH</font> , &amp;C.</head> 
+
+   <nonSpeech>The said Informant upon her Oath saith, That upon
+or about the 2d day of <font>February</font> , which was in
+the year of our Lord 1680. this Informant was taken with
+great Pains in her Head and all her Limbs, which Pains
+continued on her till neer or upon the first day of
+<font>August</font> then following; and then this Informants Pains
+began to abate, and this Informant was able to walk
+abroad to take the Air: But in the Night-season she was
+in much pain, and not able to take her rest.</nonSpeech>
+   <nonSpeech>This Informant further saith, That upon or about
+the 30th day of <font>September</font> now last past, this Informant
+was going up the High Street of <font>Biddiford</font> , where this
+<pagebreak id="8" />
+Informant met with <font>Temperance Lloyd</font> of <font>Biddiford</font>
+aforesaid Widow, and she the said <font>Temperance</font> did then
+and there fall down on her Knees to this Informant, and
+wept, (saying) </nonSpeech><dialogue> Mrs. <font>Grace</font> , I am glad to see you so strong
+again.
+   </dialogue><nonSpeech>Upon which this Informant said,</nonSpeech><dialogue> Why dost thou weep
+for me? </dialogue><nonSpeech>Unto which the said <font>Temperance</font> replied,</nonSpeech><dialogue> I
+weep for Joy to see you so well again, </dialogue><nonSpeech>as the said
+<font>Temperance</font> then pretended.</nonSpeech>
+   <nonSpeech>This Informant further saith, That in that very night
+she this Informant was taken very ill with sticking and
+pricking Pains, as though Pins and Awls had been
+thrust into her Body, from the Crown of her Head to
+the Soles of her Feet; and this Informant lay as though
+it had been upon a Rack.</nonSpeech>
+   <nonSpeech>And saith, That these pricking Pains have continued
+upon her Body ever since; and that her Pains are much
+worse by night than by day.</nonSpeech>
+   <nonSpeech>This Informant further saith, That on Thursday the
+first day of <font>June</font> last past in the night, she this
+Informant was bound and seemingly chain'd up, with all her
+sticking Pains gathered together in her Belly; so that
+on a sudden her Belly was swoln as big as two Bellies,
+which caused her to cry out,</nonSpeech><dialogue> <font>I shall die, I shall die</font> ; </dialogue><nonSpeech>and
+in this sad condition this Informant lay as though she
+had been dead for a long space (which those persons
+that were in the Chamber with her this Informant did
+compute to be about two hours).</nonSpeech>
+   <nonSpeech>And this Informant further saith, That on 
+Friday-night last, being the 30th day of <font>June</font> , this Informant
+was again pinch'd and prick'd to the Heart, with such
+cruel thrusting pains in her Head, Shoulders, Arms, Hands,
+Thighs, and Legs, as though the Flesh would have been
+<pagebreak id="9" />
+then immediately torn from the Bones with a mans
+Fingers and Thumbs.</nonSpeech>
+   <nonSpeech>And further saith, That she was even pluck'd out
+over her Bed, and lay in this condition for the space of
+three hours (as she was informed by some of the said
+persons then in this Informants Chamber).</nonSpeech>
+   <nonSpeech>This Informant further saith, That upon the first day
+of this instant <font>July</font> , assoon as the aforesaid <font>Temperance
+Lloyd</font> was apprehended and put in the Prison of
+<font>Biddiford</font> , she this Informant immediately felt her pricking
+and sticking pains to cease and abate.</nonSpeech>
+   <nonSpeech>And saith, That she hath continued so ever since
+unto this time; but is still in great weakness of Body.</nonSpeech>
+   <nonSpeech>And further saith, That she believeth that the said
+<font>Temperance Lloyd</font> hath been an Instrument of doing much
+hurt and harm unto her Body, by pricking and
+tormenting of her in manner as before in this her Information
+she hath set forth.</nonSpeech>
+
+<nonSpeech> <font>Thomas Gist</font> Mayor.</nonSpeech>
+
+<nonSpeech> <font>John Davie</font> Alderman.</nonSpeech>
+
+
+    </sample>
+    <sample id="SAMPLE 2">
+
+<pagebreak id="30" />
+ <head>DEVON. <font>SS.</font> BIDDIFORD <font>SS.</font> <font>THE INFORMATION OF</font> JOANE      
+JONES, <font>THE
+WIFE OF</font> ANTHONY JONES <font>OF</font> 
+BIDDIFORD <font>IN THE COUNTY AFORESAID
+HUSBANDMAN, TAKEN UPON HER OATH BEFORE US</font>
+THOMAS GIST <font>MAYOR, AND</font> JOHN
+DAVIE <font>ALDERMAN, THE 18TH DAY OF</font> JULY,
+ANNO DOM. 1682.</head> 
+
+   <nonSpeech>The said Informant upon her Oath saith, That
+upon the 18th day of <font>July</font> instant, she this
+Informant being present with <font>Susanna Edwards</font> of <font>Biddiford</font>
+aforesaid Widow, there came in to see the said <font>Susanna</font>
+one <font>John Dunning</font> of <font>Great Torrington</font> , which said <font>John
+Dunning</font> this Informant did hear him to demand of the
+said <font>Susanna Edwards</font> how and by what means she
+became a Witch.</nonSpeech>
+   <nonSpeech>Unto which question the said <font>Susanna</font> did answer,
+that she did never confess afore now, but now she would.</nonSpeech>
+   <nonSpeech>And further saith, that she did hear the said <font>Susanna
+Edwards</font> to confess unto the said <font>John Dunning</font> , that she
+was on a time out gathering of Wood, at which time the
+said <font>Susanna Edwards</font> did see a Gentleman to draw nigh
+unto her; whereupon she was in good hopes to have a
+piece of Mony of him.</nonSpeech>
+   <nonSpeech>This Informant further saith, that the said <font>John
+Dunning</font> did demand of her the said <font>Susanna</font> , where she did
+meet with the said Gentleman; she the said <font>Susanna</font> did
+answer, that it was in <font>Parsonage Close</font> . And further
+saith, that after the said <font>John Dunning</font> was gone, this
+<pagebreak id="31" />
+Informant did hear the said <font>Susanna Edwards</font> to confess,
+that on Sunday the 16th of <font>July</font> instant, she with <font>Mary
+Trembles</font> , and by the help of the Devil, did prick and
+torment <font>Grace</font> the Wife of <font>John Barnes</font> of <font>Biddiford</font>
+aforesaid.</nonSpeech>
+   <nonSpeech>And this Informant further saith, That she did hear
+the said <font>Susanna Edwards</font> and <font>Mary Trembles</font> to say and
+confess, that they did this present day, being the 18th of
+<font>July</font> instant, torment and prick her the said <font>Grace
+Barnes</font> again.</nonSpeech>
+   <nonSpeech>And further saith, That she did hear the said <font>Mary
+Trembles</font> to say unto the said <font>Susanna Edwards</font> ;</nonSpeech><dialogue> O thou
+Rogue, I will now confess all: For 'tis thou that hast
+made me to be a Witch, and thou art one thy self, and
+my Conscience must swear it.
+   </dialogue><nonSpeech>Unto which the said <font>Susanna</font> replied unto the said
+<font>Mary Trembles</font> ,</nonSpeech><dialogue> I did not think that thou wouldest have
+been such a Rogue to discover it.
+   </dialogue><nonSpeech>And further saith, That the said <font>Susanna Edwards</font> did
+say and confess, that the Devil did oftentimes carry
+about her Spirit.</nonSpeech>
+   <nonSpeech>And further saith, That she did hear the said <font>Susanna</font>
+to say and further confess, that she did prick and torment
+one <font>Dorcas Coleman</font> the Wife of <font>John Coleman</font> of
+<font>Biddiford</font> aforesaid Marriner.</nonSpeech>
+   <nonSpeech>And further saith, That she did hear the said <font>Susanna
+Edwards</font> to confess, that she was suckt in her Breast
+several times by the Devil in the shape of a Boy lying by
+her in her Bed; and that it was very cold unto her. And
+further saith, that after she was suckt by him, the said
+Boy or Devil had the carnal knowledge of her Body
+Four several times.</nonSpeech>
+   <nonSpeech>And this Informant further saith, That her Husband
+<pagebreak id="32" />
+<font>Anthony Jones</font> , observing her the said <font>Susanna</font> to gripe
+and twinkle her Hands upon her own Body, said unto
+her,</nonSpeech><dialogue> Thou Devil, thou art now tormenting some person
+or other. </dialogue><nonSpeech>Whereupon the said <font>Susanna</font> was displeased
+with him, and said,</nonSpeech><dialogue> <font>Well enough, I will fit thee</font> : </dialogue><nonSpeech>And at
+that present time the said <font>Grace Barnes</font> was in great pain
+with prickings and stabbings unto her Heart, as she did
+afterwards confirm.</nonSpeech>
+   <nonSpeech>This Informant further saith, That one of the
+Constables and her said Husband, with some others, were sent
+by Mr. Mayor to bring the said <font>Grace Barnes</font> unto the
+Town-hall of <font>Biddiford</font> aforesaid; which they did
+accordingly do: and immediately, assoon as he with others
+had led and with much ado brought the said <font>Grace Barnes</font>
+into the Town-hall, she the said <font>Susanna Edwards</font> turned
+about and looked upon her said Husband, and
+forthwith this Informants said Husband was taken in a very
+said condition as he was leading and supporting the said
+<font>Grace Barnes</font> up the Stairs of the said Town-hall before
+the Mayor and Justices; insomuch that he cried out,</nonSpeech><dialogue>
+<font>Wife, I am now bewitched by this Devil</font> , </dialogue><nonSpeech>meaning 
+<font>Susanna Edwards</font> ; and forthwith leapt and capered like a
+Madman, and fell a shaking, quivering, and foaming, and
+lay for the space of half an hour like a dying or dead
+man. And at length, coming to his Senses again, her
+said Husband did declare unto this Informant, that the
+said <font>Susanna Edwards</font> had bewitched him.</nonSpeech>
+   <nonSpeech>And this Informant further saith, that she did never
+know her said Husband <font>Anthony Jones</font> to be taken in
+any Fits or Convulsions, but a person of a sound and
+healthy Body ever since he had been this Informants
+Husband.</nonSpeech>
+<nonSpeech> <font>Thomas Gist</font> Mayor.</nonSpeech>
+<nonSpeech> <font>John Davie</font> Alderman.</nonSpeech>
+<pagebreak id="33" />
+ <head>DEVON. <font>SS.</font> BIDDIFORD <font>SS.</font> <font>THE INFORMATION OF</font> ANTHONY    
+JONES
+<font>OF</font> BIDDIFORD <font>IN THE COUNTY AFORESAID
+HUSBANDMAN, TAKEN UPON HIS OATH
+BEFORE US</font> THOMAS GIST <font>MAYOR OF THE
+BURROUGH, TOWN, AND MANNOR OF</font>
+BIDDIFORD <font>AFORESAID, AND</font> JOHN DAVIE
+<font>ALDERMAN, TWO OF HIS MAJESTIES
+JUSTICES OF THE PEACE WITHIN THE SAME
+BURROUGH</font> , &amp;C. <font>THE 19TH DAY OF</font> JULY,
+ANNO DOM. 1682.</head> 
+
+   <nonSpeech>The said Informant upon his Oath saith, that
+yesterday whilst the said <font>Susanna Edwards</font> was in the
+Town-hall of <font>Biddiford</font> concerning the said <font>Grace
+Barnes</font> , he did observe the said <font>Susanna</font> to gripe and
+twinkle her Hands upon her own Body, in an unusual
+manner: whereupon this Informant did say unto her,</nonSpeech><dialogue>
+Thou Devil, thou art now tormenting some person or
+other. </dialogue><nonSpeech>Whereupon the said <font>Susanna</font> was displeased with
+this Informant, and said,</nonSpeech><dialogue> <font>Well enough, I will fit thee</font> . </dialogue><nonSpeech>And
+at that present time the said <font>Grace Barnes</font> was in great
+pains with prickings and stabbings unto her Heart, as the
+said <font>Grace</font> did afterwards affirm.</nonSpeech>
+   <nonSpeech>This Informant further saith, That one of the
+Constables &amp; he, with some others, being sent by the order of Mr.
+Mayor to bring the said <font>Grace</font> unto the Town-hall of
+<font>Biddiford</font> aforesaid; immediately, assoon as they had brought
+the said <font>Grace</font> unto the Town-hall, she the said <font>Susanna</font>
+turned about and looked upon this Informant, and
+<pagebreak id="34" />
+forthwith this Informant was taken in a very said condition as
+he was coming up the Stairs of the said Town-hall before
+the Mayor and Justices; insomuch that he cried out,</nonSpeech><dialogue> <font>Wife,
+I am now bewitched by this Devil</font> Susanna Edwards.
+
+</dialogue><nonSpeech> <font>Thomas Gist</font> Mayor.</nonSpeech>
+<nonSpeech> <font>John Davie</font> Alderman.</nonSpeech> 
+
+
+
+
+    </sample>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D3HOSTAR">
+  <dialogueHeader>
+
+    <filename>D3HOSTAR</filename>
+
+    <identifier>3 HANDB OTH D3HOSTAR</identifier>
+
+    <title>STAR-CHAMBER</title>
+
+    <author>unknown</author>
+
+    <subperiod>3: 1640-1679</subperiod>
+
+    <speechPubDate>3: 1641</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">ANONYMOUS.</attribution>
+      <frontMatter>THE STAR-CHAMBER EPITOMIZED: OR A DIALOGUE BETWEENE INQUISITION 
+A NEWES SMELLER, AND CHRISTOPHER COB-WEB A KEEPER OF THE RECORDS FOR
+THE STAR-CHAMBER, AS THEY MET AT THE OFFICE IN GRAYES-INNE.
+WHEREIN THEY DISCOURSE HOW THE CLARKES USED TO EXACT FEES, AND OF THE 
+LIKELY ALTERATION. 
+(LONDON)
+PRINTED ANNO DOM. 1641.
+PP. 1.1 - 6.25
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="1" />
+ <head>THE 
+STAR-CHAMBER 
+EPITOMIZED.
+OR,
+A DIALOGVE BETWEENE 
+<font>INQUISITION</font> A NEWES-SMELLER, AND <font>CHRISTOPHER
+COB-WEBBE</font> A KEEPER OF THE RECORDS FOR THE
+<font>STARRE-CHAMBER</font> .</head> 
+   <nonSpeech> <font>In.</font> </nonSpeech><dialogue> My old friend <font>Christopher Cob-Webbe</font> how
+goe all things at your Office, what is it
+full Terme with the brave Sparkes of
+your Court?
+   </dialogue><nonSpeech> <font>Cr.</font> </nonSpeech><dialogue> Truly Sir I am sore afraid the Terme is at his
+full hight, J beleeve J have layd all the Records in
+their severall places, and placed them in due order
+to little purpose.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> Why I pray thee tell what is the matter, J hope
+the Parliament doth not meddle with so great a
+Court as your high Court of <font>Starre-chamber</font> .
+   </dialogue><nonSpeech> <font>Cr.</font> </nonSpeech><dialogue> For my part I know not what the Parliament
+either doth or intendeth to doe, but this I am sure of,
+all my Masters that had vsed to sell some of their
+papers so deare as they doe at the Lottery, walke from
+one end of the Office to the other sighing, and
+pitifully complaine and say their time of 
+Angell-gathering, they are sore afraid, is at an end.
+<pagebreak id="2" />
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> Is it possible any thing can discourage the sparks
+of your Office had they bin corrupt, as I beleeve it
+is unpossible?
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> No truly, I thinke they were never corrupt; for
+they were honest men enough in all Conscience to
+be Lawyers.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> Why are not Lawyers so honest as other men?
+Doe you know any thing to the contrary?
+   </dialogue><nonSpeech> <font>Ch.</font> </nonSpeech><dialogue> No Sir, I dare not say to the contrary; for I have
+all my livelyhood from amongst all these large
+Bundels of law, which I have here placed in their order,
+and cleansed them from the Cobwebs, wherewith
+they were plentifully hung.
+   </dialogue><nonSpeech> <font>Jn.</font> </nonSpeech><dialogue> They are very large indeed, they cost
+something in writing.
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> J believe you, for they have bin coppied,
+ingrossed, written, rescribed, prescribed, and transcribed
+forty times over.
+   </dialogue><nonSpeech> <font>Jn.</font> </nonSpeech><dialogue> But what did the <font>Cliants</font> use to pay for so
+many times writing?
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Yes that they did, and in ready money too, the
+sparkes of our Court would not be procrastinated,
+prorogued, or demurred.
+   </dialogue><nonSpeech> <font>Inquis.</font> </nonSpeech><dialogue> But J hope their Rates were conscionable:
+were they not?
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Yes! they did pay but xij.d. a sheete for the
+Coppy. </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> That was somthing deare, but how
+did they write them?
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Very conscionably, some 15 lines in a sheet,
+with some 4 or 5 words in a line, which stradled so
+wide as an ordinary <font>French-man</font> .
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> In my opinion xij.d. a sheet was somthing deare.
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Alas! that was not all, they must pay to the
+<pagebreak id="3" />
+Gent. in the Cut-finger'd Gloves for the expedition
+and for the writing, besides the xij.d. a sheet for the
+Coppy. </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> Thou now tells me of a thing more
+then ever J heard of; is it possible, a thing may bee
+copyed and ingrossed, and not written, that the Cliant
+must pay xij.d. a sheet for the coppy, besides money
+for writing, and expedition? Surely both the Masters
+&amp; the clarks of your Offices, have brave times of it.
+   </dialogue><nonSpeech> <font>Cob.</font> </nonSpeech><dialogue> Yes, they had brave times of it, but now (if we
+may credit their owne report) these dayes are done,
+and they must suffer now for all their exactions, and
+extortions, for the squeesing and screwing their
+Cliants. </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> How J pray did they squeese their Cliants?
+   </dialogue><nonSpeech> <font>C.</font> </nonSpeech><dialogue> Why it had bin almost so good for a man to have
+bin two Termes in the high Commission (which is
+now in faire possibility to be purged from it's
+exactions, by those sure Curers the <font>Parliament Doctors</font>
+then one Terme in the <font>Star-chamber</font> .
+   </dialogue><nonSpeech> <font>Inquis.</font> </nonSpeech><dialogue> That is unpossible sure.
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Oh these Gent. have had brave times of it; for
+had a cliant come some 50. or 60. miles for a <font> <foreign>subpoena</foreign> </font> ,
+they would have made him to have attended at least
+3. dayes, when they could have dispatched it in halfe
+an houre, and <font>Puny</font> in the mackereld tailed Gowne,
+would have made him to have paid 5 s. for his
+extraordinary care and labour, though it belonged to his
+Office to take forth the writ <font> <foreign>gratis</foreign> </font> , and besides hee
+should have paid at least xij.d. more then his due for
+the Fee of the Writ.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> This was intollerable exaction, but I pray thee
+proceed.
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Had a good Fellow but killed a Coney
+within halfe a mile of a Gent. Parke, <font>Spy-fault</font> hee that
+<pagebreak id="4" />
+sowes the seed of dissention for our Court (though
+the Gent. that owned <comment type="compiler">SOURCE TEXT: owed</comment> the Parke never knew of it)
+would straight have him up, and would draw a Bill 
+in Parliament the compasse of a mourning Cloke,
+wherein he would set forth, that contrary to the
+peace of our Soveraigne Lord the King, the people
+being unlawfully armed with Guns, Swords, Bowes
+and Arrowes, and furnished with Dogs, nets, and
+other Engins, there hunted, killed, and destroyed all his
+deare and game of Conies, with more superfluous
+words then are contained in a <font>Calliepeia</font> , &amp; the poore
+ignorant Clyant being fetched up, and seeing all these
+strange matters laid to his charge; would with all his
+heart give halfe he was worth to be rid of this unjust
+businesse; and then must be forced to compound
+with <font>Spy-fault</font> and these other spungy Gent. who
+would looke so contemptibly upon the poore
+fellow, as a Brasen faced Jaylor will upon a Malefactor.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> But what in case the poore fellow had not
+ready mony, would they not give him some time to
+furnish himselfe?
+   </dialogue><nonSpeech> <font>Cr.</font> </nonSpeech><dialogue> No, they had no more conscience nor beleefe
+then the compounded fat bawd in the middle of
+<font>Beech-lane</font> ; For had he not ready mony they would
+rap out twenty Basiliske oathes, and cry <font> <foreign>Currat Lex</foreign> </font> .
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> But J pray thee to what use was the money
+taken, and how was it imployed?
+   </dialogue><nonSpeech> <font>Cr.</font> </nonSpeech><dialogue> To build neither <font>Hospitalls</font> , nor               
+<font>Almes-houses</font> ,
+neither the King, Common-wealth, nor party
+wronged was the better for it; it was for the onely
+benefit of our large conscienced Clarkes.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> I pray thee proceed?
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Had a poore Clyant that was to put in his 
+<pagebreak id="5" />
+answer to one of these or such like unconscionable
+matters, or to appeare upon some occasion in the Court,
+but neglected halfe an houre more then the time
+limited: the two Clarkes would have agreed together
+to informe the Court of the Contempt, and straight
+have him censured; which with their subtile devises
+for Fees and such like would have beene twice the
+value of the offence, and the poore Clyant should
+surely pay every farthing, or else lye in prison, and
+out of hand too a writ then would be sued forth for
+the levying of that in halfe an houre which is
+something under three dayes.
+   </dialogue><nonSpeech> <font>Jn.</font> </nonSpeech><dialogue> But I pray thee explaine who were these two
+Clarkes.
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Why the one was to be for the plaintiffe, and
+the other for the Defendant.
+   </dialogue><nonSpeech> <font>In.</font> </nonSpeech><dialogue> Js it possible the two adverse Clarkes should
+agree to cosen the poore Clyant? then J perceive it is
+full time these things should be looked unto.
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> It is true as I tell you, for though they would
+in the presence of the ignorant Clyants raile at one
+another, and accuse one another, of undue
+proceeding, yet at night at a Taverne or else-where in some
+private place they would divide the spoyle &amp; laugh
+at the silly ignorance of the poore Clyant; they have
+a thousand of these wayes: I have known them make
+the Clyant pay for expedition in the middle of a
+long vacation when they have had nothing at all to
+doe, yet many times made the defendant to put in his
+answer and take a Coppy of the Bill when the
+plaintife hath signified he is satisfied, and that they are
+agreed?
+   </dialogue><nonSpeech> <font>Jn.</font> </nonSpeech><dialogue> Surely then the Clarkes of your Offices are
+very rich.
+<pagebreak id="6" />
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Yes truly some of them are; but there is
+othersome who have laid out more money then was
+their owne for the purchasing of places in our
+Offices.
+   </dialogue><nonSpeech> <font>Inquis.</font> </nonSpeech><dialogue> And how doe they take it?
+   </dialogue><nonSpeech> <font>Chr.</font> </nonSpeech><dialogue> Faith for them who lived long in our Office
+as Ministers preach conscience to their under clarks,
+and say they must write more close with their words,
+whereas before they could never write wide enough,
+and the rest that have laid out more then their owne
+whole estates upon their Office, hang downe their
+dejected heads, all say they are utterly broke, and
+know not what course to take, <font>and I my selfe must sing
+the same song, for I faile in my trade too</font> : yet J hope
+my generous Masters will let mee have this benefit
+for all my good service to make my best profit of
+all these large Roles of parchment, which I will sell
+to <font>Hugh Higginbottome</font> at the signe of the 24. 
+halfe-penny loaves in <font>Threed-needle-street</font> , who will sell
+them by retaile to furnish all the large measuring
+Taylors in Towne; for they are fit for nothing else,
+and I hope this will be sufficient to maintaine mee in
+an honest way. And so farewell all <font>Star-chamber</font>
+Exaction.
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>

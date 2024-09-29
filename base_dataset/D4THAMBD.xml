@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4THAMBD">
+  <dialogueHeader>
+
+    <filename>D4THAMBD</filename>
+
+    <identifier>4 TRIAL D4THAMBD</identifier>
+
+    <title>JOHN HAMBDEN</title>
+
+    <author>unknown</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1683/1684</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="TRIAL">Trial proceedings</textType>
+
+    <textBibliography>
+      <attribution type="NULL"></attribution>
+      <frontMatter>THE TRYAL AND CONVICTION OF JOHN HAMBDEN, ESQ; UPON AN 
+INDICTMENT OF HIGH-MISDEMEANOUR, FOR CONTRIVING AND PRACTISING TO 
+DISTURB THE PEACE OF OUR SOVERAIGN LORD THE KING, AND STIRRING UP 
+SEDITION IN THIS KINGDOM. 
+BEFORE THE RIGHT HONOURABLE SIR GEORGE JEFFREYS, KNIGHT AND BARONET,
+LORD CHIEF JUSTICE OF HIS MAJESTIES COURT OF KINGS-BENCH, AND THE REST
+OF THE REVEREND JUDGES OF THAT COURT, HOLDEN AT WESTMINSTER, THE 6TH 
+DAY OF FEBRUARY, 1683.
+LONDON, PRINTED FOR BENJAMIN TOOKE AT THE SHIP IN ST. PAUL'S 
+CHURCH-YARD, 
+1684.
+PP. 12.50 - 32.13
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="12" />
+   <nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Pray, my Lord, give me your Favour, I      
+would not
+<pagebreak id="13" />
+interrupt you; but to make things clear as we go, I desire to ask    
+you,
+when you came first to Mr. <font>Hambden's</font> House, who spake first,     
+when you
+were all met together?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> Every body discoursed what they pleased.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> But who gave an Account of the Reason of the 
+Meeting? Will you please to recollect, and tell what you know who    
+began 
+the Discourse?
+   </dialogue><nonSpeech> <font>Lord Howard.</font> </nonSpeech><dialogue> Something introductive to it was said by Mr. 
+<font>Hambden</font> , we being at his House, as 'tis natural to conceive for 
+any
+Gentleman at whose House People are met, to say, Pray let us sit     
+down, and
+talk of our Business. Something leading and introductive was said by
+him.
+   </dialogue><nonSpeech> <font>L. Ch. Just.</font> </nonSpeech><dialogue> Pray, my Lord, as near as you can          
+remember, will you
+give an Account what was the thing he began to discourse of? Did he
+seem to take any Notice, or have any Knowledge of your Meeting, and
+other things before?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> It was a general Hint and Intimation to us 
+of the Ends
+of our Meeting, that we were there come to consult and advise one
+with another how to put things into a better Method and Posture than
+formerly: And he desired that we would sit down and discourse of
+these things. My Lord, I would not charge my self with Particulars
+positively.
+   </dialogue><nonSpeech>Mr. <font>Attorn. Gen.</font> </nonSpeech><dialogue> Upon what Questions did you debate and  
+consult,
+my Lord?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> Those were started severally. Some would   
+speak of
+the Time when it should be, whether it were not convenient now or
+when? Others offered something concerning the Places, whether it
+should be begun in the City or in the Country, or both together. 
+Others took it into Consideration what Persons were to be prepared in
+the several Countreys to be assisting in it that were probable to    
+carry
+it on. And then some discoursed concerning the raising of Money, 
+and then what summ should be raised, and I think that was started by
+the Duke of <font>Monmouth</font> ; but I am sure the summ that he named was 20
+or 30000 <font>l.</font> The last thing that was talked of, but which was
+concluded to be the thing principally to be taken care of, was the   
+setling such
+a Concurrence and Correspondence with <font>Scotland</font> that they might   
+chime
+in at the same time, that so we might give as many diversions both
+from home and abroad as could be at one and the same time.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> My Lord <font>Howard</font> , Did Mr. <font>Hambden</font>   
+discourse of this
+matter?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> I cannot speak to the Discourse of any one 
+in 
+particular; for I cannot say it was put to the Vote as we formerly   
+express it,
+but it may be said we were all consenting and concurring.
+   </dialogue><nonSpeech> <font>Lord Ch. Just,</font> </nonSpeech><dialogue> Did any of you dissent from the Riseing?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> No, no my Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did any of you oppose it at all?
+   </dialogue><nonSpeech> <font>Lord Howard,</font> </nonSpeech><dialogue> No, no, That was discoursed of as a thing  
+resolved.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> I ask you this Question, my Lord <font>Howard</font> ,  
+Was there any sort
+of Complaint made of the Government, That it was uneasie and that
+occasioned you to enter into these debates?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> There was I cannot say a Complaint, because  
+there was
+no Person to complain to; but it was spoken of as a matter of great
+<pagebreak id="14" />
+grievance, that such a Force and Violence should be put upon the     
+City in
+their Election of Officers, and the tendency of that as to all       
+Juryes tho'
+I cannot distinctly remember the particular things.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You say you were talking of a Messenger to be  
+sent into
+<font>Scotland</font> to my Lord of <font>Argyle</font> and others to chime in with    
+you in this
+matter as you say, pray did you come to any Resolution about that, and
+what did you resolve upon?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> That there should be one only at that time.  
+And
+afterwards it was the matter of the debate at the next Meeting,      
+which was
+that Meeting at my Lord <font>Russels</font> , which was about this time
+twelve-month in <font>February</font> sometime.
+   </dialogue><nonSpeech>Mr. <font>A. Gen.</font> </nonSpeech><dialogue> How long after the first Meeting at Mr.      
+<font>Hambden's</font> was that?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> My Lord, I think it was about a fortnight.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Who was there?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> The same Persons that met before. But then   
+there was
+little spoken of but the Business of <font>Scotland</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Was Mr. <font>Hambden</font> there at the second Meeting?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> He was there.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> At my Lord <font>Russels</font> you say it was?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What Resolution did you come to then?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> Then we came to a Resolution that some Body  
+should be
+sent, and we began to discourse who was fit, and Col. <font>Sidney</font> he
+propounded <font>Aaron Smith</font> , to some of the Company he was known, to 
+others not;
+but those that did know him did approve of him as a fit Person. 
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> To whose Province was that comitted of     
+sending this
+Person into <font>Scotland</font> ?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> Col. <font>Sidney</font> undertook it himself.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did the rest consent to it?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> Yes, no body did oppose it; but left it to   
+him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you Name the Person then that was to go?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> He was not so named as to be with any        
+solemnity
+approved or disproved; but it was left to Col. <font>Sidney</font> to manage  
+it, and he
+naming <font>Smith</font> as a fit Person (he told us that by the by not to   
+put it
+to the Question for our Approbation) and some of us knew the Person,
+others did not. I was one that did know him, and did think him a     
+very fit
+Man to send.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray, my Lord, who was the Person? Be pleased  
+to tell the
+Jury so as they may know it. </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> <font>Aaron Smith.</font>
+   </dialogue><nonSpeech>Mr. <font>J. Withins,</font> </nonSpeech><dialogue> Had you any discourse with Col.          
+<font>Sidney</font> , my Lord, 
+afterwards that he was sent? </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> Yes, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray give an account of that?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> About three or four days after this Meeting  
+at my Lord
+<font>Russels</font> , I went to Visit Col. <font>Sidney</font> at his House, and      
+while I was there
+in the Room, he went to his Cabinet, and out of a Drawer where there
+was five or six hundred pound in Gold as I could guess, he took a good
+many pieces, I do not know directly how many; but he took out so
+many as he said was threescore Guineys that he was going to carry to 
+<font>Aaron
+Smith</font> , I went not in my own Coach, and therefore went away with him
+in his Coach, and he set me down at <font>Southampton Street</font> at my own
+Lodging. I went no further, but he did, and he told me afterwards it 
+was
+conveyed to him, and that he did go.
+<pagebreak id="15" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> How long was that after your second Meeting at 
+my Lord <font>Russels</font> where you
+say you intrusted Col. <font>Sidney</font> to send one into <font>Scotland</font> ?
+   </dialogue><nonSpeech> <font>L. Howard,</font> </nonSpeech><dialogue> I think it may be less then a Week, four or  
+five days, that I saw him
+carry the Money. After this he said, he had given him this Money,    
+and was gone:
+And when he was dispatched, in a Week after I was making enquiries   
+after him, and
+Col. <font>Sidney</font> said, he had not heard of him since he went away;    
+but about a fortnight
+or three Weeks Col. <font>Sidney</font> said he had heard of him, That he was 
+at <font>New-Castle</font> and
+stay'd there; but he wondered he could hear no more of him. I then   
+went into 
+<font>Essex</font> , and when I came back from thence, he told me, he was     
+come, but I had never
+seen him, not to this day, indeed I had once appointed a Meeting     
+with him at Mr.
+<font>West's</font> Chamber; but something or other happened, we did not meet.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> We have done with my Lord <font>Howard</font> , if  
+they will ask him any
+Questions they may.
+   </dialogue><nonSpeech> <font>L. Ch. J.</font> </nonSpeech><dialogue> They know their time, when the Kings Attorney 
+has done with any
+Witness then they may examine him, if they please. If they will not  
+call your other
+Witnesses. </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Will you ask him any Questions?
+   </dialogue><nonSpeech> <font>Mr. Jones.</font> </nonSpeech><dialogue> No, no, by advice they are to ask him nothing.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> We shall give your Lordship and the Jury  
+an account in the next place,
+that we have traced <font>Aaron Smith</font> into <font>Scotland</font> . And for that 
+we shall call some
+Witnesses which indeed we did not produce before at any Tryal,       
+because we had not then
+discovered so much. We shall bring you the Person at whose House he  
+lay at
+<font>New-Castle</font> , and the very Messenger that was sent with him to    
+conduct him a by-way into
+<font>Scotland</font> . Call <font>Sheriffe</font> and <font>Bell</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Look you Gentlemen, You that are at the Bar,   
+there you must let the Jury
+stand by themselves. I see there are a great many others             
+intermingled with them, and
+you Gentlemen of the Jury, If any whisperer talk to you, we expect   
+that you should
+tell us who they are; for we will suffer no remarks to be made but   
+what are openly
+made to the Court, and the Jury by the Counsel of both sides.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Swear <font>Sheriffe</font> and <font>Bell</font> .          
+</dialogue><nonSpeech> (which was done) </nonSpeech>
+   <nonSpeech>M. <font>Williams,</font> </nonSpeech><dialogue> What is this Man's Name Mr. <font>Att.</font> ?      
+Friend what is your Name?
+   </dialogue><nonSpeech> <font>Witness,</font> </nonSpeech><dialogue> My Name is <font>Sheriffe</font> ,
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> Pray give my Lord and the Jury an account   
+What you know of any
+Person that lay at your house some time since and whether you have   
+seen him since? My Lord
+this Gentleman did not know <font>Aaron Smith</font> before, and therefore I  
+desire Mr. <font>Atterbury</font> 
+may be called and examined again. Mr. <font>Atterbury</font> , do you know    
+<font>Aaron Smith</font> ?
+   </dialogue><nonSpeech>Mr. <font>Atterbury,</font> </nonSpeech><dialogue> Yes, I know him very well.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Had this Gentleman a view of <font>Aaron       
+Smith</font> ?
+   </dialogue><nonSpeech>Mr. <font>Atterbury,</font> </nonSpeech><dialogue> Yes, he had. He was brought where <font>Aaron 
+Smith</font> was, and this
+other Person was by before him too, and I was by when they had a     
+view of him.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Now pray give an accompt what you know of  
+the man you saw?
+   </dialogue><nonSpeech>Mr. <font>Sol. Gen.</font> </nonSpeech><dialogue> Where is <font>Aaron Smith</font> ?
+   </dialogue><nonSpeech>Mr. <font>Atterbury,</font> </nonSpeech><dialogue> He is in the Kings Bench Prison, and he   
+was brought by <font> <foreign>Habeas Corpus</foreign> </font>
+to <font>White-hall</font> before the King. where these two persons were      
+brought likewise <comment type="compiler">SOURCE TEXT: ikewise</comment> , and
+there this man <font>Sheriffe</font> did own that <font>Aaron Smith</font> was the man 
+that was at his house; 
+and the other <font>Bell</font> owned that he travelled towards <font>Scotland</font>  
+with him, and that he
+was hired to shew him the way into <font>Scotland</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did <font>Aaron Smith</font> say any thing?
+   </dialogue><nonSpeech>Mr. <font>Atterbury,</font> </nonSpeech><dialogue> He would not Answer any thing at all, nor 
+say a word.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Pray give an account Mr. <font>Sheriffe</font> ,    
+who it was that lay at your House,
+and when it was, and what he said was his Business, and by what name 
+he went?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Indeed his Business I did not know; but he 
+was at our House about the
+middle of <font>February</font> , it was thereabouts.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> When was it? what <font>February</font> ?               
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> The last <font>February</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> You say he was at your House last          
+<font>February</font> , pray tell the Court where
+that is? </dialogue><nonSpeech>Mr. <font>Sheriff,</font> </nonSpeech><dialogue> At <font>New-castle</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Do you keep any Inn there?                 
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Yes.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What Sign? </dialogue><nonSpeech>Mr. <font>Sheriffe.</font> </nonSpeech><dialogue> The Sign 
+of the <font>Black-spread Eagle</font> .
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> And what did he do there?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He stayed there one Night and went away,   
+and returned again in twelve
+days or thereabouts, and came to my House again.
+<pagebreak id="16" />
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Whither did he go from you?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe.</font> </nonSpeech><dialogue> He went <font>Southward</font> as I suppose, I know 
+no further.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> But when he first came to your House,      
+which way went he?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe.</font> </nonSpeech><dialogue> He went <font>Northward</font> towards              
+<font>Scotland</font> , as he himself said, And
+desired to have one to shew him the way: And I sent for this Man,    
+and when he came to
+him he hired him to go with him, and I was by.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> When he first came to your house about the     
+middle of <font>February</font> was twelve
+month, Whither was he bound then, <font>Northward</font> or <font>Southward</font> ?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He was going to <font>Scotland</font> , that is     
+<font>Northward</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And you say after he came back again, and lay  
+another Night at your house.
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Yes, ten or twelve days after he did.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And which way went he then?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Then he came <font>Southwards</font> towards        
+<font>London</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did you take exact notice of the Man?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Yes, I saw him before his Majesty and the  
+Council.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> And upon your Oath that same man you saw there 
+was the same man that                                                
+lodged at your house in <font>February</font> was 12 month?
+</dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Yes, it is.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What name did he go by at your house?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He went under the name of Mr. <font>Clerke</font> , 
+but what his Sirname was I 
+can't tell. </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Had he a servant with him?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He had a man with him that stay'd at our   
+house during the time of
+his going <font>Northward</font> ? </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> What did he call    
+his name.
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> <font>Wil. Langston.</font> 
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Did he desire you to furnish him with a    
+guide?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He told me his Servant did not know the    
+way, and his horse was a 
+little lamish, and desired me to get a guide for him. For after he   
+had dined at our
+house it happened to be a rainy day, and he could not go further     
+that night, and 
+therefore desired me to get him a man that knew that Countrey, and I 
+sent for this same
+man, and he hired him; and he went along with him next morning, my   
+Lord.
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> Whither was he to go?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Truly I did not know; but he told me he    
+did not know the way into
+<font>Scotland</font> , and I directed him to a Gentlemans house at           
+<font>Jadbrough</font> in the way.
+   </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> Is that the Road to <font>Scotland</font> ?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> Yes, the high Road to one part of          
+<font>Scotland</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Did he tell you to what part or place of       
+<font>Scotland</font> he was to go?
+   </dialogue><nonSpeech>Mr. <font>Sheriffe,</font> </nonSpeech><dialogue> He named the West of <font>Scotland</font> , I      
+think he named <font>Douglas</font> , but I do not  
+know what place certainly he designed for. </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue>     
+Then where is <font>Bell</font> ?
+   </dialogue><nonSpeech> <font>Bell,</font> </nonSpeech><dialogue> Here. </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> Had you a view of     
+this man they call <font>Aaron Smith</font> ?
+   </dialogue><nonSpeech> <font>Bell,</font> </nonSpeech><dialogue> Yes, I had.
+   </dialogue><nonSpeech>Mr. <font>At. Gen.</font> </nonSpeech><dialogue> Give an accompt, whether you saw him in the 
+North and when and where.
+   </dialogue><nonSpeech> <font>Bell,</font> </nonSpeech><dialogue> This man, Mr. <font>Sheriffe</font> , sent for me. I live  
+at <font>New-Castle</font> and there I keep
+Hackney Horses to serve any Gentlemen, or be a Guide to them as      
+there is occasion, and Mr.
+<font>Sheriffe</font> sent for me, and when I came he told me the Gentleman   
+wanted a Guide into
+<font>Scotland</font> . We immediately agreed, it was upon Thursday night     
+before that we call <font>Easter 
+Eve</font> . </dialogue><nonSpeech> <font>Lord Ch. Just.</font> </nonSpeech><dialogue> When was it say you?
+   </dialogue><nonSpeech> <font>Bell,</font> </nonSpeech><dialogue> It was the Thursday before <font>Easters-Even</font> , so  
+they call it with us, that is
+<font>Shrove-Tuesday</font> .
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Ay, they call it so in those places, because   
+'tis the Even of the Fast of
+<font>Ash-wednesday</font> , the beginning of Lent -- Well go on.
+   </dialogue><nonSpeech> <font>Bell,</font> </nonSpeech><dialogue> We went away on Friday the next morning on our    
+Journey towords
+<font>Jadbrough</font> , and the 2d day which was Saturday in the afternoon   
+my horse tired,
+whereupon he left me with my horse and took the Mans man of the      
+house where he left me
+to guide him, for my horse would not ride up with him being tired,   
+and he resolving to
+go on, and he bid me follow him on the Sunday morning to             
+<font>Jadbrough</font> Town, which
+I did, and we stayed there all Sunday. And on Monday morning I saw   
+him take horse
+and another man that was his guide, and away they went, as I think,  
+he said towards
+<font>Douglas</font> he was going. And he pay'd me, and I returned again from 
+him to <font>New-Castle</font>
+and left him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray how far was this, you say you went with   
+him to <font>Jadbrough</font> , how far
+distant is that from <font>New-Castle</font> ?
+<pagebreak id="17" />
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> To <font>Jadbrough</font> my Lord? </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue>   
+Yes.
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Tis <font>Forty</font> Miles my Lord.                     
+</dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> How near <font>Scotland</font> is it?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> 'Tis within some <font>six</font> Miles of the <font>English</font> 
+Border.  
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Did you see him at any time after that?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> I saw him at his coming back again; being at      
+<font>Sheriffs</font> house, his
+Wife asked me if I would go up and see the Gentleman that I went with
+towards <font>Scotland</font> : So I went up, and he made me eat and drink at 
+the Table
+with him.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> What Name did he go by?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> He went by the name of <font>Clerk</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Was there any Servant with him?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> There was a Man that came with him as a Servant   
+there, and was all
+the time at <font>New-Castle</font> , that he was gone towards <font>Scotland</font> , 
+till he came back
+again.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Mr. <font>Attorney</font> , Did this Man see         
+<font>Smith</font> at the time the other saw him?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Yes, I did.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> And is that the Man that went by the name   
+of <font>Clerk</font> at
+<font>New-Castle</font> , and that you went with towards <font>Scotland</font> ?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Yes, It is.
+   </dialogue><nonSpeech> <font>Mr. Atterbury.</font> </nonSpeech><dialogue> And when they charged him with it,       
+<font>Aaron Smith</font> did not
+deny it.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did you go any by-Road to get into        
+<font>Scotland</font> ?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> No, 'tis the Road Gentlemen usually go to         
+<font>Jadbrough</font> , and so on; 
+because 'tis something the nearer way to that part of <font>Scotland</font> , 
+as we judge it
+to be, therefore Gentlemen use it.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Is it an high-open-Road?
+   </dialogue><nonSpeech> <font>Bell.</font> </nonSpeech><dialogue> Yes, 'tis the high-open Way to that part of the   
+Country.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> My Lord <font>Howard</font> , Pray were the Names  
+of any of the
+<font>Scotch-men</font> mentioned at your Meeting, that were to be sent for?
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> Yes; There was my Lord <font>Melvin</font> , Sir       
+<font>John Cockram</font> , and one
+<font>Cambell</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Now, my Lord, We will give you an         
+account, That as <font>Smith</font>
+went into <font>Scotland</font> , so these persons soon after came into       
+<font>England</font> .
+   </dialogue><nonSpeech> <font>Jury-Man.</font> </nonSpeech><dialogue> My Lord, We desire that my Lord <font>Howard</font>    
+would name those
+<font>Scotch-men</font> that were to come.
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> There was my Lord <font>Melvin</font> , Sir <font>John     
+Cockram</font> , and one <font>Cambel</font> ,
+one that was of my Lord <font>Argyles</font> Name and Family; and there was   
+another
+Name, but I can't remember what that Name was.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> We shall give you an Account, my Lord,    
+That they came
+immediately after this to Town; and at the breaking out of the Plot, 
+they
+Absconded.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Mr. <font>Attorney</font> , Has my Lord <font>Howard</font>   
+his Pardon?
+   </dialogue><nonSpeech> <font>Mr. Attorney.</font> </nonSpeech><dialogue> Yes, my Lord, he has.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Then your Lordship may be covered.
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> I can't tell, but they may ask me some        
+Questions.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Then you may be uncovered when they ask   
+them, in the
+mean time your Lordship may be covered. Swear Sir <font>Andrew Foster</font>  
+</dialogue><nonSpeech> (which
+was done.) </nonSpeech><dialogue> Pray Sir, will you tell my Lord and the Jury what you  
+know
+about the <font>Cambell's</font> , and Sir <font>John Cockram's</font> being in Town?  
+Or any other
+<font>Scotch-men</font> that you know of?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> My Lord, I did see those Gentlemen in 
+the beginning of
+last Summer. Sir <font>John Cockram</font> , and Mr. <font>Monrow</font> , and         
+<font>Cambell</font> the Son, I did
+see; but the Father I did not, but I do know he was in Town, tho I   
+saw him
+not.
+<pagebreak id="18" />
+   </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue> How do you know it?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> I had Messages from them.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Sir <font>Andrew</font> , You say, you saw Sir       
+<font>John Cockram</font> , and <font>Monrow</font> ?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster;</font> </nonSpeech><dialogue> Yes. </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Did you    
+see any body else?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> I saw Sir <font>George Campell</font> the Son.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> What became of them upon the Discovery of 
+the Plot?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> Sir <font>John Cockram</font> did Abscond, and 
+Mr. <font>Monrow</font> was taken
+into Custody.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> What became of the others?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> The <font>Campells</font> were both in Custody.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did you see any Commission they had?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> I did see a Commission that Sir       
+<font>John Cockram</font> had.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> What was it for?
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> To make a Purchase of some            
+Plantations beyond Sea, I
+think it was <font>Carolina</font> .
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Ay, where my Lord <font>Shaftsbury</font> had an     
+Interest.
+   </dialogue><nonSpeech>Sir <font>Andrew Foster.</font> </nonSpeech><dialogue> It was some of the <font>West-Indies</font> .
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> I did omit that passage my Lord --
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray was it discoursed then, what should  
+be the Blind for
+these Gentlemen that were notorious Dissenters, that they should     
+come to
+Town from <font>Scotland</font> about?  
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> It was to carry on a Plantation in            
+<font>Carolina</font> . The <font>Scotch</font> 
+Gentlemen were personally known to my Lord <font>Russel</font> only; and my   
+Lord <font>Russel</font>
+was to write the Letter to them, and, I suppose, did.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mr. <font>Atterbury</font> , What do you know of   
+these <font>Scotch-men</font> 
+coming to Town; and what became of them afterwards?
+   </dialogue><nonSpeech>Mr. <font>Atterbury.</font> </nonSpeech><dialogue> My Lord, about the beginning of <font>July,   
+Fourth, Fifth</font> , or
+<font>Sixth</font> , or thereabouts, I had some Information, That there were  
+some <font>Scotch</font>
+Gentlemen that had been shifting up and down, and at that time were  
+about
+<font>Black-Fryers</font> , lodged there secretly. I immediately went with    
+the King's
+Proclamation, and some Warrants that I had to apprehend some         
+Traytors that
+were fled: And when I came, I found that Mr. <font>Common Serjeant</font>     
+having
+Notice of them, had beat up their Quarters, and they were endeavouring
+to escape by Water; but there they were catched. There was Sir <font>Hugh
+Campel</font> , and <font>Bayley</font> , and Sir <font>George Campel</font> , and some     
+others, I know not the Names
+of them all; truly I can't tell whether <font>Monrow</font> was not another,  
+but Sir <font>Hugh
+Campel</font> I had in my Custody, and <font>Bayley</font> was immediately         
+committed to the
+<font>Gate-house</font> ; and the rest of the Gentlemen I afterwards took in  
+a cunning Hole by
+<font>Moor-Fields</font> , in a back house. And when I came there, I found    
+them lyeing
+on the Bed in the middle of the Day; and had them Prisoners in my
+Custody two or three Months; and then they were all sent out of my   
+hands into
+<font>Scotland</font> Prisoners. Six of them there were, my Lord, that I saw.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> We have done my Lord, only we desire that 
+a word of a
+Record may be read.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> What Record is it Sir?
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Of Collonel <font>Sidneys</font> Attainder.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, We shall desire your Judgment,    
+whether that
+Record ought to be read against Mr. <font>Hambden</font> ; I perceive by Mr.  
+<font>Attorney</font> , that 'tis
+a Record of the Conviction of Mr. <font>Sidney</font> , which ought not to be 
+given in
+Evidence against Mr. <font>Hambden</font> upon this Indictment.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> We make use of it, to shew how upon       
+former Tryals, upon
+this Evidence, Verdicts have gone.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> We are in your Judgment, my Lord, if by    
+Law it may be
+given in Evidence against Mr. <font>Hambden</font> , who is neither Party nor 
+Privy to it, 
+nor Indicted for the same Offence.
+<pagebreak id="19" />
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Let it alone then.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Well, Mr. <font>Attorney</font> does not press it.   
+What say you to it, 
+Gentlemen, for the Defendant?
+<comment type="compiler">MR WILLIAMS' LONG SPEECH OMITTED: HE ARGUES THERE IS NO-ONE LEFT TO 
+CONTRADICT LORD HOWARD'S TESTIMONY, THERE ARE NO FACTS TO SUPPORT 
+HOWARD'S ACCUSATIONS, AND THAT HOWARD HAS INVENTED LIES ABOUT A 
+CONSPIRACY IN ORDER TO SECURE A PARDON FOR HIMSELF.</comment>
+<pagebreak id="21" />
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> What do you mean by that, Mr. <font>Williams</font> ?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> By being a Witness against the Defendant   
+and others, he has
+procured his own Pardon.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> That is a little harsh Expression --
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, I explain my self thus --
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> 'Tis an harsh Word, and too roundly         
+expressed; You had need
+to explain your self; 'Tis a little too rank, as though the King's   
+Pardon were
+to be procured by Blood.
+<comment type="compiler">MR WILLIAMS' LONG SPEECH OMITTED: HE ARGUES THAT HOWARD IS AN 
+UNRELIABLE WITNESS AS HE FIRST SWORE THERE WAS NO CONSPIRACY, THEN 
+INVENTED A FURTHER CONSPIRACY TO SECURE HIMSELF A PARDON, AND HAS 
+SINCE ADMITTED E.G. THAT LORD RUSSEL WAS INNOCENT. MOREOVER, WILLIAMS 
+SAYS ALL THE EVIDENCE ABOUT SMITH HAS NO RELEVANCE TO HAMBDEN'S CASE 
+AS HAMBDEN WAS MERELY PRESENT WHEN SMITH'S MISSION WAS MENTIONED.</comment>
+<pagebreak id="23" />
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> And consented to it?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> I would not strain any thing my Lord,      
+further than the
+Evidence is.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> Nor do not Misrepeat it neither.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> I design not any such thing, my Lord.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> But you do though: For he Swears it, every  
+one of them
+consented.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> By silence it must be then. For he does    
+not say, That he said
+any thing. He Swears only Collonel <font>Sidney</font> undertook to manage    
+it, to
+send a Person; and my Lord <font>Russel</font> to write the Letter.
+   </dialogue><nonSpeech> <font>L. C. Just.</font> </nonSpeech><dialogue> And all the rest Consented to it.
+<pagebreak id="24" />
+<comment type="compiler">MR WILLIAMS' LONG SPEECH OMITTED: HE ARGUES THAT THE CASE AGAINST 
+SMITH IS NOT PROVED, NOR IS IT PROVED THAT HAMBDEN CONSENTED TO 
+SMITH'S MISSION. MOREOVER, HAMBDEN IS A SOBER, STUDIOUS, CHARACTER 
+WHO LIVES A RETIRED LIFE AND HAS SPENT MUCH TIME ABROAD DUE TO 
+ILL-HEALTH, INCLUDING DURING MUCH OF THE CONSPIRACY.</comment>
+   </dialogue><nonSpeech>Mr. <font>VVallop.</font> </nonSpeech><dialogue> My Lord, and Gentlemen of the Jury, I       
+desire to make one
+Observation, before we call our Witnesses.
+<pagebreak id="25" />
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray do not take up our time altogether in     
+Speeches, but go on
+to your Evidence.
+   </dialogue><nonSpeech>Mr. <font>Wallop.</font> </nonSpeech><dialogue> I desire to observe but one thing, my Lord.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Make your Observations at last, but spend not  
+our time in
+Speeches. I know you will expect to be heard at last, and so you shall
+whatever you will say.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Call the Earl of <font>Anglesey</font> , the Lord   
+of <font>Clare</font> , and Lord <font>Paget</font> .
+Mr. <font>Ducas</font> . </dialogue><nonSpeech> (who appearing was sworn) </nonSpeech><dialogue> Now we have him here 
+we
+must begin with him, my Lord. Mr. <font>Ducas</font> , Pray what did you hear 
+my
+Lord <font>Howard</font> say at any time concerning this Conspiracy, and who  
+were
+concerned in it, and who were not?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> My Lord <font>Howard</font> came once to the house of  
+Colonel <font>Sidney</font> ,
+I believe it was about 8 days after the Imprisonment of Colonel      
+<font>Sidney</font> ,
+and when he was in the house, I ask't him, What is the matter my Lord?
+he did answer me, he was told there was a Plot against the King and  
+the 
+Duke, and one general Insurrection to be made, and that Colonel      
+<font>Sidney</font> 
+sent a man into <font>Scotland</font> , to which thing my Lord <font>Howard</font>     
+sware laying
+his hand on his breast, saying, <font>God knows all things, and God      
+knows I know
+nothing of that; and I am sure if Colonel</font> Sidney <font>had known any   
+thing, he would
+tell me</font> ; and I said, what is the matter, my Lord? are you afraid? 
+and he
+made answer to me, <font>No honest man is safe in his own house, I pray  
+you lend
+me a Bed to lie in</font> . And he asked me about the Goods of Colonel    
+<font>Sidney</font> ,
+because of the Plot and such things, and he desired to have them     
+removed
+to his house; and he said, rather then go to the Tower he would do any
+thing. </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Speak again to the Jury that did not   
+hear you, what
+said my Lord <font>Howard</font> to you?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He said, rather then to be a Prisoner again   
+he would do any
+thing. </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Who to be a Prisoner again?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> My Lord <font>Howard</font> . </dialogue><nonSpeech>Mr. <font>Att. Gen.</font> </nonSpeech><dialogue>   
+What things were
+spoken of? </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He said he would do any thing.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Were you speaking of the Conspiracy? Of    
+the Plot?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He spake of the Plot, and said he knew        
+nothing of it.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> What did he say Sir?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He said to me and swore, he knew nothing of   
+it, and called
+God to witness.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Pray did he then say he would do any thing 
+rather then
+go to the <font>Tower</font> , when you were talking of the Plot and          
+Conspiracy?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> Yes, he would do any thing rather then be a   
+Prisoner again.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray what did he say?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He raised up his hands on high, and said, he  
+knew nothing
+of the Plot, or of the Insurrection, or that Colonel <font>Sidney</font> had  
+sent any
+man into <font>Scotland</font> . </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> I believe it was 8 or 9 days after the        
+Imprisonment of Colonel
+<font>Sidney</font> . </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> What day of the Month, and what 
+Month was it?
+   </dialogue><nonSpeech>Mr. <font>Ducas.</font> </nonSpeech><dialogue> He was Imprisoned about the end of <font>June</font> .
+   </dialogue><nonSpeech>L. <font>Howard.</font> </nonSpeech><dialogue> My Lord, It would be necessary that I should  
+make an answer
+to this, and I know not whether I should make a particular answer to 
+every
+one: for here is a whole set of Witnesses, I see.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> No, let them alone. You must not interrupt     
+them, they must
+go on with their Evidence; and when 'tis a fit time for you to       
+answer them,
+the Council for the King will call you.
+    </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Pray sware Mr. <font>Howard</font> </dialogue><nonSpeech> (which was   
+done) </nonSpeech><dialogue> Pray Sir,
+<pagebreak id="26" /> 
+will you please to acquaint my Lord and the Jury what you know, of
+what my Lord <font>Howard</font> has said of the Plot, and who were concerned 
+in it?
+   </dialogue><nonSpeech>Mr. <font>Howard,</font> </nonSpeech><dialogue> My Lord, what I have said is in the Paper of 
+Mr. <font>Sidney's</font>
+Tryal, and truly I can say no more than what I said there.
+   </dialogue><nonSpeech>Mr. <font>Williams,</font> </nonSpeech><dialogue> pray speak out Sir, and tell it again to   
+this Jury.
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> I was told I spake it very loud then.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Pray Sir speak as you please, We wont direct   
+you in what
+Key you shall speak. Speak in what Key you will.
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> Then if you will have me speak it, I will    
+speak it as loud
+again. My Lord, is Mr. <font>Hambden</font> here?
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Yes, there he is.
+   </dialogue><nonSpeech>Mr. <font>Howard,</font> </nonSpeech><dialogue> In the first place I do not know Mr.         
+<font>Hambden</font> , My Lord,
+I cannot promise to speak the very words that I spake the last time, I
+cannot make them so fit as one tally fits another.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Consider, Sir, you were not Sworn then,   
+you are Sworn
+now, That is the difference, and therefore pray consider of it.
+   </dialogue><nonSpeech>Mr. <font>Howard,</font> </nonSpeech><dialogue> My Lord, As near as I can, I will repeat the 
+same words again, I
+had little Acquaintance with my Lord <font>Howard</font> ; But meeting him    
+often at
+my Brothers House, (and being he was extraordinary pleasant Company,
+I must needs say that he was so, and a Man of great Wit) and I coming
+from <font>White-Hall</font> , he asked me what news of the Plot? I told him  
+there
+were some People that were in the Proclamation, or would be, and I
+named their Names. Says he, I know none of them except <font>Rombald</font> , 
+I
+think; and by chance I met him passing through the Old Exchange, and
+he saluted me very kindly. After this my Lord <font>Russel</font> was taken,  
+and
+when my Lord <font>Howard</font> heard that, says he, then we are all undone. 
+And
+I very much fear it is a Sham Plot, since they have seized upon my   
+Lord,
+and I doubt he is a lost man. After that, I think as near as I can
+remember -- The next thing was this -- If you look upon the Book,
+you will see what I said there.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> We are not to look upon the Book, man. You     
+must give your
+Evidence your self Mr. <font>Howard</font> , I hope you do not Swear by Book? 
+Let
+the truth come out in Gods Name, whatever it be.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Ay, my Lord, We desire to have truth come  
+out.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Ay, whether it be of one side, or the other,   
+God forbid but truth
+should be spoken. Mr. <font>Howard</font> go on.
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> Then my Lord Colonel, <font>Sidney</font> was taken,  
+and says my Lord,
+I am extremely troubled for Colonel <font>Sidney</font> , for he is my very   
+good Friend.
+said I, why are you not concerned for my Lord <font>Russel</font> ? He is of  
+your
+Blood, says he, he is a man without exceptions. There is no man of   
+such
+honor as he, but I am concerned for Colonel <font>Sidney</font> as that       
+particular man
+that has obliged me above all the World, but I never heard my Lord
+<font>Howard</font> name Mr. <font>Hambden</font> in all my life.
+   </dialogue><nonSpeech>Lord <font>Howard.</font> </nonSpeech><dialogue> I'le <comment type="compiler">SOURCE TEXT: Il'e</comment> give you a       
+reason for it My Lord, if you please, why
+I said so.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> My Lord, This is Evidence for the Defendant.   
+If the Kings
+Counsel will call you afterwards to make Answer to any of these      
+things, 
+then is your time to speak. We will not let them interrupt you when  
+you
+come to speak, nor must you interrupt them now. We are bound to hear
+both sides, and so by the grace of God we will do.
+   </dialogue><nonSpeech>Lord <font>Howard.</font> </nonSpeech><dialogue> My Lord, I desire both he and his Brother   
+may stay in
+Court, for I have something to say to them.
+<pagebreak id="27" />
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Pray what did you hear my Lord <font>Howard</font>  
+say
+concerning the Plot?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> He did deny it possitively, and said they    
+acted nothing
+but what was Legal, and he said it 500 times over.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Did he deny it? </dialogue><nonSpeech>Mr. <font>Howard,</font> </nonSpeech><dialogue> Yes   
+he did.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But when he said they acted nothing but        
+legally, what did he
+mean? Was this Plot legal?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> I had former Discourses with my Lord         
+<font>Howard</font> at other
+times, and I asked him; My Lord, what tends all this to? Your going up 
+into the City and making these meetings? says he, we intend nothing  
+but
+what is legal. There is not one man in the Company that I know of, 
+intends any thing else. 
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> What was my Lord's Opinion of the Plot in  
+<font>June</font> or
+<font>July</font> , or <font>August</font> ?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> He said he knew nothing of it, nor could he  
+believe there
+was any such thing. When those Persons were named that were to kill
+the King, <font>Lord Bless me</font> , said he, <font>can there be such a thing   
+in nature, that any
+men should be so wicked, but that there is one man of Honor or       
+Estate, or
+Conscience that ever had any such thought, it can never into my      
+Head, I can never
+believe it</font> . </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> When <font>Rombald</font> and those other People were 
+put into the
+Proclamation.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mr. <font>Howard</font> , Then I will ask you your 
+Opinion, whether
+in your Judgment, every man that was in the Plot could not have said 
+so
+much?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> I suppose every man in the Plot would have   
+defended
+himself as well as he could, but I cannot tell what way.
+   </dialogue><nonSpeech>Mr. <font>Thompson.</font> </nonSpeech><dialogue> Sir, did he barely affirm it, or with      
+Asseverations and
+Imprecations?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> My Lord, was not upon his Oath before me.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Mr. <font>Howard</font> . Don't you believe a      
+great many that were
+concerned in this Plot would deny it?
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> I am to give my Opinion only for my self,    
+not for
+other People.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Have you done with him? </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> 
+Yes my Lord. 
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Then go over Sir.
+   </dialogue><nonSpeech>Mr. <font>Howard.</font> </nonSpeech><dialogue> My Lord, I am troubled with Fumes, and       
+cannot well
+endure a Crowd, therefore I desire I may have leave to be gone.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> You may go if you please.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Call Mr. <font>Edward Howard</font> , </dialogue><nonSpeech> (but he    
+did not appear) </nonSpeech><dialogue>
+Then Swear my Lord of <font>Clare</font> and my Lord <font>Paget</font> ,
+</dialogue><nonSpeech> (which was done) </nonSpeech> 
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well what do you ask my Lord of <font>Clare</font> ?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord of <font>Clare</font> , Will your Lordship  
+please to acquaint
+the Court and the Jury, what you heard my Lord <font>Howard</font> say        
+concerning
+the late Conspiracy?
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> My Lord, Some indisposition I have had of   
+late, together
+with the great rigour of the season has confined me to my House this 
+six
+Weeks, so that I should not come here but upon this Summons of a     
+<font> <foreign>Subpoena</foreign> </font> ,
+which I thought I ought not to refuse. I suppose I need not repeat   
+much
+of what was said at Colonel <font>Sidney's</font> Tryal.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> My Lord, You must give what Evidence you have  
+to give now,
+<pagebreak id="28" />
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, The Gentlemen of this Jury have   
+not heard
+it, therefore you must say it all over again to them.
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> Sometime after Mr. <font>Sidney</font> was taken, my 
+Lord <font>Howard</font>
+came to see me, and complaining of the Times, said, That all things  
+were
+very sad and dangerous, and if ever he was questioned again, he      
+would not
+Plead, but desire them only to count Noses, for the quickest         
+dispatch he
+thought was best: I replyed, sure his Lordship was in jest. He said, 
+No,
+he was in earnest, for he was confident if he came to Tryal, they    
+would have
+his Life, let him appear never so innocent. I said, I hoped not so,  
+it was
+only his Lordships fear, and because of that, I thought it might be
+presumed he would venture much, rather then be Tryed. And            
+discoursing of
+the late Primate of <font>Armagh's</font> Prophecy; He said, for his part, he 
+thought
+the Persecution was already begun, and he did believe it would be very
+sharp, but withal, he hoped it would be but short; and then he began 
+to
+wish himself beyond Sea till the Troubles were over; and in complyance
+with his Lordship I did wish so too. But as to <font>Sidney</font> , he did   
+with great
+asseverations very much assert his innocency. He said, he thought he 
+was
+not guilty of any of the things laid to his Charge; and spake with   
+large
+Encomiums in his praise, as he had obligation to do, and seemed to   
+bemoan
+his misfortunes; which I said I had then reason to believe he was    
+real in,
+for I believe never any man was more engaged to another then he to
+Colonel <font>Sidney</font> . I told him there was a discourse of some        
+Writings of Mr.
+<font>Sidneys</font> that were taken; he said he was confident they could make
+nothing of any Writing of his; I told him, I supposed he meant       
+legally they
+could not do it, This was the most he said, as to Mr. <font>Hambden</font> , he
+mentioned nothing that I know of.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Did he seem to declare any Opinion about   
+the Plot or
+Conspiracy in general, That there was any such thing or not?
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> I do not remember it.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> My Lord of <font>Clare</font> , Did you never hear 
+my Lord <font>Howard</font>
+before this complain of the Government that it was amiss, and was to 
+be
+rectified?
+   </dialogue><nonSpeech>Earl of <font>Clare.</font> </nonSpeech><dialogue> Yes, he often did complain. Every body    
+knows my
+Lord's way of discourse.
+   </dialogue><nonSpeech>Lord. <font>Howard.</font> </nonSpeech><dialogue> Pray will you ask him, if my Lord of       
+<font>Clare</font> used to fall
+out with me upon those discourses.
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> My Lord was always good Company.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> You mean <font> <foreign>a Propos</foreign> </font> , My Lord.
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> I understand what you mean by               
+<font> <foreign>a Propos</foreign> </font> , you are a
+Learned man, I know.
+   </dialogue><nonSpeech> <font>Mr. Soll. Gen.</font> </nonSpeech><dialogue> My Lord of <font>Clare</font> , if I apprehend    
+your Lordship aright,
+my Lord <font>Howard</font> was discoursing of the Primate of <font>Armagh's</font>    
+Prophecy,
+and said he thought the Persecution was already begun, and would be  
+sharp,
+tho' he hoped it would be short, and he wished himself beyond Sea till
+the Troubles were over, and your Lordship wished your self so too?
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> No, I said in compliance with his Lordship, 
+since he
+wished himself beyond Sea, till the Troubles were over, I wished he  
+were 
+there too.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But I perceive all these discourses concerning 
+the Government
+are reckoned but jests and matter of Laughter, but 'tis a very rank  
+way of
+jesting I assure you.
+<pagebreak id="29" />
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, We call our Witnesses seriously,  
+they are the Kings
+Council that jest.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Was this before my Lord <font>Howard</font> was    
+taken?
+   </dialogue><nonSpeech>E. of <font>Clare.</font> </nonSpeech><dialogue> Yes, but after Mr. <font>Sidney</font> was taken.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well, who do you call next?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord <font>Paget</font> , Pray what have you     
+heard my Lord <font>Howard</font> say
+concerning the Plot, and when?
+   </dialogue><nonSpeech>L. <font>Paget.</font> </nonSpeech><dialogue> My Lord sits there, and I believe he may       
+remember it was about the
+7th of <font>July</font> , the <font>Saturday</font> before my Lord went into the      
+Country, to the best of
+my memory, which was, I take it, the 9th of <font>July</font> . Upon          
+<font>Saturday</font> the 7th at
+Night my Lord came to see me, I told him I was glad to see him       
+abroad, and not
+concerned in the Disorders that were then so general; My Lord told   
+me he had
+been wished joy by several, and he took it ill, because it looked as 
+if he were guilty.
+'Tis true, my Lord was a man of great finess and readiness in        
+discourse, and came
+easily into all Company, my Lord said that was true, but he had so   
+carefully
+behaved himself, that he was sure they could not touch him with any  
+thing, nor did he
+know any thing of any body else that he could charge them withal.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> When was this my Lord? </dialogue><nonSpeech>L. <font>Paget.</font> </nonSpeech><dialogue>  
+This was the 7th of <font>July</font> .
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray good my Lord, Why did you joy my     
+Lord <font>Howard</font> , had
+you any reason to mistrust my Lord?
+   </dialogue><nonSpeech>L. <font>Paget.</font> </nonSpeech><dialogue> No other reason, then because I knew he was a  
+man of great freedom
+in discourse, and might be concerned upon that account.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> And he would frequently discourse against 
+the Government I
+suppose?
+   </dialogue><nonSpeech>L. <font>Paget.</font> </nonSpeech><dialogue> No, I never heard my Lord discourse against    
+the Government in my life.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Sware Dr. <font>Burnet</font> </dialogue><nonSpeech> (which was         
+done) </nonSpeech><dialogue> Pray will you Doctor acquaint
+the Court, what you heard my Lord <font>Howard</font> say concerning the late 
+Plot, and when?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> My Lord <font>Howard</font> came to see me the day    
+after the discourse of the
+Plot broke out, <font>Thursday</font> I think it was, on <font>Wednesday</font> it     
+began to be talked of.
+The thing was little understood then, but in general a Plot was      
+discovered, and my
+Lord with a great many Protestations, lifting up his hands and eyes  
+to Heaven, 
+protested he knew of none, and believed there was none, and spake of 
+the whole
+thing as a Contrivance.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> This was the day after the Discovery broke 
+out?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> Yes, the day after that I first heard of it.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Had you any other discourse with my Lord   
+about it?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> I had not seen my Lord before of some        
+Months. And then he spake
+a great deal to me. He told me he had been in <font>Essex</font> , and after  
+that he went to the
+<font>Bath</font> , and went so early and came away before the Company came,  
+because he would
+avoid all danger. And he expressed great apprehensions of fear of    
+Sham-Plots,
+and spake of False Witnesses and former designs of that Nature. The  
+truth of it
+was, one had possessed me much with a belief of the thing, it being  
+then but a
+secret, but he strove to dispossess me of that belief, and his whole 
+discourse ran
+upon that for an whole hour, and expressed, as I said, great fear of 
+some 
+Sham-Contrivance, and spake much of false Witnesses, wishing that he 
+were beyond Sea.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What, he spake as if there were like to be     
+great heats and stirs, I suppose?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> No, the talk was about the Discovery, which  
+he said he believed
+was a Contrivance.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Did my Lord <font>Howard</font> use to come to you  
+some times?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> Yes, he used to come frequently to see me.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Dr. <font>Burnet</font> , Pray let me ask you one  
+Question, you spake of
+solemn Declarations and Protestations made by my Lord <font>Howard</font> ,   
+what gave the
+occasion to such a Solemnity?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> I will tell you the occasion truly, tho it   
+was never asked me before.
+It was thus, I being possessed with the belief of the thing by one   
+that assured me
+it was true, and would soon appear to be so, I argued upon that      
+belief to convince
+my Lord <font>Howard</font> , that it was true, and he argued a great deal to 
+dispossess me of
+that belief. And I said, if there be any such thing I pray God       
+forgive them that
+are concerned, but certainly it is one of the monstrousest ill       
+things that ever was
+<pagebreak id="30" />
+done; for hereby they have done all that could be done to ruine the  
+Protestant
+Religion. He was smoaking a Pipe of <font>Tobacco</font> , and he laid down   
+his Pipe, and lifted up
+his hands and eyes to Heaven, and protested to me, he neither knew   
+of any such
+thing, nor believed it, but it was all a Contrivance.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> By his discourse, you possibly might      
+understand what he meant,
+did he mean being privy to the Murder of the King or the raising of  
+Rebellion?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> There was not a word then of the             
+Assassination, but it was all of the
+Plot in general. </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did he make no distinction?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> We talked of nothing but Plot in general.    
+For the particulars were
+not then known. It was only about the general notion of a Plot.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray what was the reason you had to       
+believe it?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> There was a Gentleman from <font>Whitehall</font>     
+that came to see me, and he
+did assure me it was true, as being one that had it from a           
+Privy-Councellor. This
+was on the <font>Wednesday</font> when the Council sate long about it; and    
+nothing of
+particulars was then let out, but only a discourse in general of     
+such a thing, and he said it
+would be found to be a certain truth.
+    </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> But Doctor did not you a little wonder   
+at the carriage of my
+Lord <font>Howard</font> ? That a man that was not accused, that you heard    
+of, should make such
+solemn Protestations?
+    </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> My Lord, he said just in this manner as I   
+have told you, when I said,
+<font>Pray God forgive them if any have been concerned in such a                 
+thing</font> , he laid down his Pipe,
+and lift up his hands and eyes. Whether he thought I suspected him   
+or no, I can't
+tell, he best knows his own thoughts.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Did he say a word of Mr. <font>Hambden</font> ?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> No, there was not any particular person named.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Doctor, he would not make you his         
+Confessor.
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> His whole hours discourse was to dispossess  
+me of the opinion and
+belief I had entertained of the Plot.
+   </dialogue><nonSpeech>Mr. <font>Just. Holloway.</font> </nonSpeech><dialogue> This was about <font>July</font> you say?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> I cannot remember the very day of the Month, 
+I believe it was the
+latter end of <font>June</font> , but I am sure it was before any body was    
+Committed, that we
+heard of.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Dr. <font>Burnet</font> , you say you did believe  
+there was a Plot then?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> Yes, I did so, and he laboured to dispossess 
+me of that belief.
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Pray do you believe it now?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> What a question is that, Mr <font>Serjeant</font> ?
+   </dialogue><nonSpeech>Dr. <font>Burnet.</font> </nonSpeech><dialogue> I make no doubt of it, Sir, as to the        
+Assassination.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> My Lord <font>Newport</font> , Why do you lift up  
+your hands? you don't
+do well; for it is a very proper question.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Well call your next Witness Gentlemen?
+   </dialogue><nonSpeech>Mr. <font>Thompson.</font> </nonSpeech><dialogue> Swear Mr. <font>Gisborne</font> </dialogue><nonSpeech> (which was       
+done) </nonSpeech>
+   <nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Pray Sir, will you acquaint the Court and  
+the Jury what you have
+heard my Lord <font>Howard</font> say about the late Conspiracy?
+   </dialogue><nonSpeech>Mr. <font>Gisborne.</font> </nonSpeech><dialogue> My Lord only said he knew nothing of the   
+Plot; that is all I can
+say. </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech>Mr. <font>Gisborne.</font> </nonSpeech><dialogue> The <font>Saturday</font> before he was taken into  
+Custody; then it was that
+your honour did say so, my Lord.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Ay, and 100 more I believe would say so,  
+that might be
+concerned in it for all that.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Swear Mr. <font>Blake</font> </dialogue><nonSpeech> (which was done) </nonSpeech><dialogue> 
+Pray acquaint my Lord
+and the Jury, what discourse you had with my Lord <font>Howard</font> about   
+his Pardon, and
+what he said to you?
+   </dialogue><nonSpeech>Mr. <font>Blake.</font> </nonSpeech><dialogue> My Lord, About the Month of <font>October</font> last  
+my Lord <font>Howard</font> sent to
+me to know how I did, and desired me to come and make him a Visit.   
+The next
+day I went and waited upon my Lord at his Lodging at                 
+<font>White-hall</font> , and after the
+Complements passed, my Lord began a discourse of the Plot, and I     
+told him,
+That I heard none of the Witnesses had their Pardons, but only       
+<font>Keiling</font> the first
+discoverer. My Lord told me no, but he had a Warrant for his Pardon, 
+and with
+that he plucked it out and shewed it me, and I read it. And then I   
+told him I
+<pagebreak id="31" />
+thought it was of no avail without he had his Pardon actually under  
+Seal. He said
+no, but he had their word and honour; But, said he, when I first      
+received the
+Warrant, they said I should not meddle in it till I heard from them  
+again, which I
+have not yet, and I ascribe it to no other reason but only this,     
+That I must not
+have it till the drudgery of swearing is over.                       
+</dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> When was this?
+   </dialogue><nonSpeech>Mr. <font>Blake.</font> </nonSpeech><dialogue> In <font>October</font> last some time. So I then took 
+my leave of my Lord;
+and my Lord desired me to come and see him at Night about 6 a Clock  
+in the
+Evening, for he had a great many came to him, but then he should be  
+at leisure, and
+had many things to say to me.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> At that time did my Lord express himself  
+as discontented, and that
+it was irksome to him to be brought as a Witness?
+   </dialogue><nonSpeech>Mr. <font>Blake.</font> </nonSpeech><dialogue> He only said those words that I have told     
+you, and looked up and
+turned up his eyes towards Heaven when he said so.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Pray where is Mr. <font>Benjamin Mercer</font> ?    
+sware him. </dialogue><nonSpeech> (who was sworn) </nonSpeech>
+   <nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> What do you ask him?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> We bring him to prove that my Lord         
+<font>Anglesey</font> was served with a
+<font> <foreign>Subpoena</foreign> </font> , but is so ill of the Gout he can't come.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> If that be all, there is no question of it,    
+but that he was <foreign>Subpoened</foreign> .
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> If your Lordship please, We will prove in  
+what condition my
+Lord <font>Anglesey</font> is, and then we hope your Lordship will give us    
+leave to prove what
+my Lord has said concerning my Lord <font>Howard's</font> discourses with him.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> No certainly, Mr. <font>Williams</font> , and I am sure 
+you ask it not as expecting
+it should be granted.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> I lay it before your Lordship and the Court.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Ay, you lay it before us, but you are a        
+Lawyer, do you your self think
+fit it should be done? </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, I must submit 
+it to you.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Come, will you consent, that what the Duke of  
+<font>Monmouth</font> has said,
+shall be given in Evidence, and then I presume the King's Council    
+will consent to your
+request.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> I consent? Here is my Clyent, My Lord, in  
+Court, I can
+consent to nothing.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But if so be there be leave given on one side  
+to tell what another
+person has said, why should not it be consented to on the other      
+side, that it be proved
+what a 3d person that is absent has said for them?
+   </dialogue><nonSpeech> <font>Mr. Recorder.</font> </nonSpeech><dialogue> Ay, will you consent that we prove what   
+the Duke of <font>Monmouth</font>
+has said? </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> We don't know what the Duke of      
+<font>Monmouth</font> has said.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But you do know 'tis not Evidence, nor fit to  
+be granted what you ask.
+   </dialogue><nonSpeech>Mr. <font>Jones.</font> </nonSpeech><dialogue> You know that 'tis not for your purpose what  
+he has said.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, We must go according to our       
+Instructions.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> But you know the Law, why should you offer any 
+such thing? your
+offering it will make the <font>Lay <foreign>gens</foreign> </font> that know not the Law,   
+think that the Court put
+hardships upon people, in denying things which you that understand   
+the Law know
+can't be granted. </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> I do not press it my Lord,  
+but leave it with you.
+   </dialogue><nonSpeech> <font>L. C. J.</font> </nonSpeech><dialogue> Why do you spend our time in urging things     
+that are nothing to the
+purpose, and cannot be allowed?
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> Now my Lord, We will go on to another part 
+of our defence, and
+that is, to call Witnesses to the Reputation of Mr. <font>Hambden</font> ,    
+and his behaviour, to
+satisfie you, that he cannot be such a person as the Indictment      
+says, and as he must
+be if it be true what this Gentleman my Lord <font>Howard</font> has sworn.
+   </dialogue><nonSpeech>Mr. <font>Thompson.</font> </nonSpeech><dialogue> We will first examine my Lord <font>Paget</font> .  
+</dialogue><nonSpeech> (who stood up) </nonSpeech> 
+   <nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, We ask you to that question. Have 
+you known this
+Gentleman Mr. <font>Hambden</font> , and what a sort of a man is he?
+   </dialogue><nonSpeech>Lord <font>Paget.</font> </nonSpeech><dialogue> I have good reason to know him. I have known 
+him a great while,
+and have always believed him an Honest and a Prudent man, a man of   
+Honor and
+Vertue and Integrity, my Lord; and I have had no reason to have      
+other Opinion
+of him. I know he has been always ever since he came abroad into the 
+World a
+man that hath loved his Study, and Books and a contemplative life. And
+therefore I should not be apt to believe, That he could apply        
+himself to a thing so
+contrary to his own nature, and to that way that he delighted in,    
+and had always
+<pagebreak id="32" />
+hitherto applied himself unto, I mean to ingage in a design of so    
+much Malice and
+Wickedness.
+   </dialogue><nonSpeech>Mr. <font>Williams.</font> </nonSpeech><dialogue> My Lord, You have had a long Conversation  
+with the knowledge of
+Mr. <font>Hambden</font> , you say. What say you as to his Disposition;       
+Because this
+Indictment says he is a Person of a Turbulent, Factious, Seditious   
+Spirit?
+   </dialogue><nonSpeech>Lord <font>Paget.</font> </nonSpeech><dialogue> I have always known him a quiet peaceable    
+man, not medling in
+Business, very Friendly, free from all Turbulency, not of much       
+acquaintance nor
+desirous to make much.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Pray my Lord <font>Paget</font> , upon the same    
+Oath you have taken, have
+you not at any time heard him express dissatisfaction as to the      
+Male-administration
+of the Government? </dialogue><nonSpeech>Lord <font>Pagett.</font> </nonSpeech><dialogue> No, never to me in the least.
+   </dialogue><nonSpeech> <font>Mr. Att. Gen.</font> </nonSpeech><dialogue> Not at the time of the last               
+<font>Westminster</font> Parliament?
+   </dialogue><nonSpeech>Lord <font>Pagett.</font> </nonSpeech><dialogue> No, I never heard him then, nor at any time 
+else.
+
+
+
+</dialogue>
+  </dialogueText>
+</dialogueDoc>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE dialogueDoc SYSTEM "dialogueDoc.dtd" >
+
+<?xml-stylesheet type="text/xsl" href="dialogueWebRender.xsl"?>
+
+
+<dialogueDoc id="D4HORIDP">
+  <dialogueHeader>
+
+    <filename>D4HORIDP</filename>
+
+    <identifier>4 HANDB OTH D4HORIDP</identifier>
+
+    <title>JACK AND UUILL</title>
+
+    <author>RIDPATH GEORGE</author>
+
+    <subperiod>4: 1680-1719</subperiod>
+
+    <speechPubDate>4: 1697</speechPubDate>
+
+    <contemporaneity sourceDate="SAME">Source text dates from same year as the first printing / original speech event</contemporaneity>
+
+    <textType typeCode="HANDBOOK-OTHER">Didactic work (excluding language teaching)</textType>
+
+    <textBibliography>
+      <attribution type="AUTHOR">RIDPATH, GEORGE.</attribution>
+      <frontMatter>A DIALOGUE BETWIXT JACK AND UUILL, CONCERNING THE LORD MAYOR'S
+GOING TO MEETING-HOUSES WITH THE SWORD CARRIED BEFORE HIM, &amp;C. 
+LONDON, 
+PRINTED IN THE YEAR 1697.
+PP. 3.1 - 15.19
+      </frontMatter>
+    </textBibliography>
+  </dialogueHeader>
+
+
+  <dialogueText>
+    
+
+<pagebreak id="3" />
+ <head>A
+DIALOGUE 
+BETWIXT
+JACK AND WILL,
+CONCERNING
+THE LORD MAYOR'S GOING TO
+MEETING-HOUSES WITH THE SWORD BEFORE
+HIM, &amp;C.</head> 
+   <nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> How d'ye Friend <font>Will</font> ? have you
+heard the News?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> What News d'ye mean
+<font>Jack</font> ? We have little cause to fear
+ill News, now we have Peace.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> No? I'm sure I have a piece of ill News to
+tell you. Did not you hear that my Lord Mayor
+went to <font>Salters-Hall</font> on Sunday last, with the Sword
+carried before him?
+<pagebreak id="4" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> To <font>Salters-Hall</font> , what to do? to a Play, or
+a Ball there?
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Pox on ye for a nump-skull'd Fellow, to a
+Play or a Ball on Sundays!
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why all this Fury, <font>Jack</font> ? I'm sure I have
+read a Play that was acted at <font>Whitehall</font> on a Sunday in
+the Blessed Martyr's time, present King, Queen,
+Prince, and God knows how many Stars and
+Garters: but indeed I don't know whether the Sword
+was carried thither in State or no.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Come, come, <font>Will</font> ; you love to play the
+Rogue; you know the Lord Mayor went thither on
+no such Account.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why so? how sho'd I know? d'ye think I
+am a Conjurer? What did he go thither for then?
+was it to hear Archbishop <font>Laud's</font> Book of Sports?
+I hear my Lord Mayor is a brisk Man, perhaps he
+loves Sport and Pastime, and is a good Gamester;
+for you know we use to say of such, <font>that they play a
+Sundays</font> .
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Plague on ye, leave off your Banter, I tell
+you he went thither to a Conventicle.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Pish, what is that your ill News? I was
+afraid you'd have told that he had gone to <font>treat
+the Pope's Nuncio at Dinner at</font> Guidhall; or that you
+had had some such frightful Story to tell me, <font>as that
+the Town was on fire again</font> , and we should have been
+forc'd to be at the Expence of a <font>new Monument</font> ,
+which would have ruin'd the Orphans to all Intents
+and Purposes.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Well well, Friend <font>Will</font> , tho the Town be
+not a fire, I am sure the Church is.
+<pagebreak id="5" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Nay then Friend <font>Jack</font> , my Lord Mayor did
+very well to carry the <font>wooden Sword</font> away from it,
+for that would have added Fewel to the Flames.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Prethee leave off thy fooling, and let's
+discourse the Point in good earnest; thou always
+pretendedst to be a true Church-of-England-man                       
+<comment type="compiler">SOURCE TEXT HAS England IN ITALICS</comment> , and
+don't ye think that the Lord Mayor's going to a
+Conventicle with the Sword is an Injury to the Church of
+<font>England</font> ?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why truly <font>Jack</font> , whether thou believest it
+or not, I am as much for the Church of <font>England</font> as
+any Man alive, and for my part I think that my
+Lord Mayor's going to Meetings with the Sword is
+a very <font>noble Act</font> : for it seems to me, that by
+carrying the Sword thither, he designs to make a Conquest
+of 'em for the Church of <font>England</font> .
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Well, I see you love to banter: but you
+know that by going thither with the Sword, he
+makes a Surrender of the Church of <font>England's</font>
+Authority to a pitiful little Conventicle.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why prethee Man, if the Sword be all, no
+matter if it had been burnt a dozen Years ago: Thou
+knowest very well, that in the late Blessed Reigns it
+was the peculiar Doctrine of the Pulpits, that the
+Church had no other Weapons but Prayers and
+Tears; and why dost make all this pother about a
+wooden Sword? Sure thou art not afraid it will
+produce as strange Effects as the old rusty Sword in
+<font>Westminster Abbey</font> , with which they say the Norman
+Duke conquer'd <font>England</font> .
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Thou talkst like a mad Man; it's not the
+very individual Sword that I mean, but it's the Badg
+and Ensign of Authority that is carried away from
+<pagebreak id="6" />
+the Church to a nasty lowzy Conventicle: a Pox on
+'em, damn 'em, I hope to see 'em fast in the <font>Pinfold</font>
+yet once more before I die; and then we'll make
+'em pay for their Insolence, and Contempt of the
+Church.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Prethee don't rage so: thou hast been so out
+of Humour ever since <font>Lewis XIV</font> was necessitated to
+resign his new Conquests, and abjure King <font>James</font> ,
+that thou art fitter for <font>Bedlam</font> than any Place else.
+Come, I tell thee, that my Lord Mayor's carrying
+the Sword thither, neither adds to the Authority of
+the Meetings, nor derogates from the Authority of
+the Church of <font>England</font> , but rather enlarges her Pale.
+But after all the doe and stir you make about the
+Church, I believe I may say to you as the little Boy
+said to his Mother, <font>Mother, what need you talk so much
+of the Church? you don't go so often to it</font> .
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> That's nothing to you <font>Will</font> : do you make
+out your Assertion, and then I'll say something to
+thee.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Have but Patience, and I will. Thou
+knowest that the Dissenters are allowed their Meetings by
+Act of Parliament, which I hope is another kind of
+Authority than my Lord Mayor's Sword; and most
+honest Men think it but reasonable they should have
+that Liberty, notwithstanding the threatning Words
+of the D--n of <font>C. that if King</font> William <font>did not take
+away the damn'd Act of Toleration, they'd send him back
+again to the Bogs of</font> Holland.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Prethee let your Stories alone, and come to
+the matter. I own that an Act of Parliament is a
+better Authority than my Lord Mayor's Sword.
+<pagebreak id="7" />
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Thou knowest also that that Liberty is
+allow'd them on condition <font>that they subscribe to the
+Doctrine of the Church of</font> England.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> I do.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why then it's certain that my Lord Mayor
+could not go thither with nor without his Sword, if
+the Dissenters did not qualify themselves according
+to the Terms of the Act.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> No, he could not.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Is it not plain then, that if my Lord Mayor's
+Sword signify any thing, it comes to defend the
+Doctrine of the Church of <font>England</font> at the Meeting as
+well as in the Church? And is not his Presence there
+with the Ensigns of Authority an Evidence that the
+Doctrine of our Church is preach'd there? whereas
+in former times the Meetings were look'd upon to be
+quite another thing than the Church of <font>England</font> .
+So that I think it is plain to any Man's Understanding,
+that his being there is only a Declaration that the
+Pale of the Church is enlarg'd, and that we now
+own them for Brethren, that by the heat of some ill
+Men were formerly accounted our Enemies!
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Nay but you mistake the Matter. The
+Meetings have only a Liberty, but ours is the Church
+establish'd by Law; their Meetings must not be
+accounted the Church, because they have neither
+Bishops, nor Ceremonies, nor Benefices.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Prethee <font>Jack</font> don't talk such Nonsense. The
+Meetings are as much establish'd by Law as the
+Church of <font>England</font> , if an Act of Parliament be a
+Law: and you know that it's only the Acts of
+Parliament that defend you in the practice of those
+things wherein you differ from them. And our wise
+<pagebreak id="8" />
+Law-givers finding the mischievous Consequence of
+having one Party of Protestants impower'd to
+destroy another that differed from them only in
+Circumstantials, as if they had been Hereticks,
+Schismaticks, and God knows what, thought fit to take
+those Edg-tools out of the hands of a set of Men that
+know not how to use them, but to the wrong of
+their Neighbours, and to throw the Nation into
+Convulsions; and have granted Liberty to cur
+Brethren to worship God in the very same Ordinances
+that we do, tho they don't observe all those Modes
+and Forms which by our selves are accounted
+indifferent.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> How do you mean indifferent? Is it a thing
+indifferent to observe the Directions and Commands
+of the Church? that's fine Work indeed!
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> By Indifferent I mean a thing that may be
+done or left undone, and so the Law means;
+otherwise it would never have left me at my liberty to go
+to a Meeting where there are no Ceremonies, or to
+a Church where there are Ceremonies.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> I am sure the Church is Apostolical, and
+enjoin'd those things upon her Members on pain of
+Excommunication, both as to Belief and Practice,
+if we may believe her Canons.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Thou art in a grand Mistake, <font>Jack</font> . I grant
+you there was once such a Set of Men as arrogated
+to themselves the Name of the Church, that did so;
+but you know that the greatest Divines of the Church
+of <font>England</font> did always account those things
+indifferent even in Queen <font>Elizabeth's</font> time: Read but the
+Lord Bishop of <font>Salisbury's</font> Letters, and you will
+there find plain Proofs of it, under the Hands of our
+<pagebreak id="9" />
+greatest Bishops to the Divines in <font>Switzerland</font> : and
+for what hath been done since, you know that it was
+a Court, and a Popish Faction that enjoin'd those
+things on such and such Penalties, merely to widen
+the Differences amongst Protestants, that they might
+swallow up both our Religion and Liberties; but
+the Church of <font>England</font> hath altered her Mind
+since.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> How! the Church of <font>England</font> alter'd her
+Mind? What? d'ye make her akin to <font>Mahomet</font> ?
+as if her Religion depended upon the Moon, and
+were as changeable as she.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Prethee not so fast <font>Jack</font> , I know what I say;
+the Church of <font>England</font> hath alter'd her Mind oftner
+than once; and no Disgrace to her neither.
+Protestants hold no Church nor Council Infallible; we
+have indeed an infallible Rule, the Scriptures, but
+so long as we are clogg'd with Humanity, we are
+either like to come short of it, or shoot beyond it;
+and in both these Cases must alter our Mind, or set
+our selves in opposition to the Almighty.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> This is Fanatical Cant. When did the
+Church of <font>England</font> alter her Mind?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Nay <font>Jack</font> , if you be so forgetful, I'll tell
+you: <omission type="sentence" />
+<comment type="compiler">WILL'S SPEECH OMITTED.</comment>
+<pagebreak id="10" />
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Thou hast said a great deal to convince
+me; but pray let me see how the Church of
+<font>England</font> hath alter'd her Mind as to the Point of the
+Dissenters.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Why they have alter'd it in giving them
+their Liberty by a Law, whereas they formerly
+persecuted them.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> How strangely do you talk? It was the
+Parliament that gave them the Liberty, and not the
+<pagebreak id="11" />
+Church; if she had done it, it must have been by
+Convocation.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Nay <font>Jack</font> , you talk strangely, and not I.
+Is not all the People of <font>England</font> represented by the
+Parliament?
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Who doubts that?
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Is not the Church then represented in
+Parliament?
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> That's another thing: The Church is the
+Bishops and their Clergy.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Grant it be so: <omission type="sentence" />
+<comment type="compiler">WILL'S SPEECH OMITTED.</comment>
+<pagebreak id="12" />
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Nay now thou speakest big, <font>Will</font> .
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> I have reason for what I say. It's the
+Parliament that hath settled the Limits of our Church,
+and given her all the Authority she has, otherwise
+'tis a mere Bull to call her the Church by Law
+establish'd; and that same Authority may enlarge her
+Bounds and Pale when they please: and therefore
+to be so angry at the Parliament for taking in all
+those that embrace the Doctrine of the Church
+under the Protection of the Law, tho it has not
+admitted 'em to partake of the Benefits, is a horrid
+piece of Ingratitude to that August Assembly, who
+have all along defended the Church of <font>England</font> in the
+Possession of what she enjoys, more than her
+Brethren the Dissenters; and by this Liberty the
+Parliament have added to her Strength, by giving those
+a Legal Authority to defend her Doctrine without
+Wages, which so many of those that profess
+themselves to be her Sons, have either slily undermin'd
+<pagebreak id="13" />
+or but faintly asserted, notwithstanding their
+Benefices. And you know, <font>Jack</font> , that the Dissenters
+have been as stanch Patriots of their Country, and
+Defenders of our Religion and Liberties, as any
+Men in the Nation: and therefore it's the Interest
+of all Men that wish well to either of 'em, to
+promote a hearty Union amongst Protestants of all
+Denominations whatsoever. So that for my own part
+I can see no harm in my Lord Mayor's carrying the
+Sword to a Meeting as well as to a Church; it has
+heard Passive Obedience preach'd long enough, and
+it will do it no hurt to be taught the Doctrine of
+Self defence in its turn: for if the latter Doctrine
+had not been more serviceable to us than the
+former, we had neither had a Protestant Church nor
+Meeting House to have carried the Sword to long
+e're this.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Well, but for all that you can't but say it's
+an ill thing to carry the Sword thither.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> Prethee in what sense is it ill? For my part
+I think the Sword ought to be carried thither rather
+than any where else; because to give the Dissenters
+their due, they always held that it was lawful to
+make use of the Sword in defence of their Religion
+and Liberties, as well against Tyrants at home, as
+from Invaders abroad; whereas many of our
+Churchmen would allow of no other Weapons against a
+Tyrant at home but Prayers and Tears: but to say
+the truth, and no more, that was only while the
+Tyrant impowered them to tyrannize over the Bodies,
+Consciences and Estates of their Fellow Christians
+and Subjects; for when he came to touch themselves,
+nay <font>but one of their Fingers</font> , as a famous Author has
+<pagebreak id="14" />
+it, they made use of Guns and Spears, instead of
+Prayers and Tears, against him; and <font>let him
+understand</font> , as the same Author says, <font>that they had given
+him only a spiritual Kingdom, and not a Kingdom of
+this World: for if his Kingdom had been of this World,
+then would his Servants have fought for him</font> .
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> Ay but a pox on't, tho we allow our selves
+to do so, yet we would not have the Dissenters use
+the Sword; ours is the Apostolical Church, and
+they are but Schismaticks.
+   </dialogue><nonSpeech> <font>Will.</font> </nonSpeech><dialogue> That's easier said than proved; they hold
+the Doctrines of our Church, and live up to it as
+well, if not better than many of our selves: so that
+we must not call Men Schismaticks for differing from
+us in those things which we our selves account
+Indifferent. And as for the Sword, tho some
+Gentlemen have thought fit to endeavour the preventing
+its being carried to Meetings by an Order, I cannot
+think that the Act of Parliament did ever intend to
+make better Provision for our Swords than for our
+Souls, or for the Ensigns of Magistracy than for
+Magistrates themselves. If our Legislators had thought
+the going to Meetings would be either hurtful to the
+Bodies, Estates, Liberties, or Consciences of
+English Men, they would never have allow'd them at
+all; and if they had thought that the Nation would
+be any ways endangered by Magistrates going to
+Meetings, they would have made an Exception
+against it. So that for any Party of Men to take
+upon them to bind up any Person, especially a
+Magistrate of so great Power and Trust as the Lord
+Mayor of <font>London</font> ; where the Law has left him at
+liberty, seems to me to be a manifest Incroachment
+<pagebreak id="15" />
+upon the Legislative Power: and I wish with all my
+Heart there may not be more of Envy and
+particular Pique, (in such especially, that are angry to see
+the Lord Mayor have more Courage than some of
+his Predecessors) than of Zeal for the Church of
+<font>England</font> , at the bottom of this Opposition: for my
+own part I know not why those Dissenters who have
+so cordially contributed to deliver us from Tyranny
+and Popery, should be suffered still to languish and
+groan under the Yoke of an Ecclesiastical Tyranny
+themselves, and be deprived of the Liberties and
+Privileges that other English Protestants enjoy. So
+farewell <font>Jack</font> till next Meeting.
+   </dialogue><nonSpeech> <font>Jack.</font> </nonSpeech><dialogue> I have not had such a rude Mercurial this
+good while; I'll go to <font>Sam's</font> , and get a Glass of
+Cordial Water, and then to the Commons, and recruit
+my self over a Bottle, and muster up more Forces
+against next Meeting. Farewel.
+
+
+</dialogue> <head> <foreign>FINIS.</foreign> </head> 
+
+
+
+
+  </dialogueText>
+</dialogueDoc>
